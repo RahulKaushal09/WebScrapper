@@ -4,9 +4,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup, Comment
-# from selenium.webdriver.support.ui import WebDriverWait
-# from selenium.webdriver.support import expected_conditions as EC
-# from selenium.webdriver.common.by import By
 import re
 
 
@@ -139,15 +136,11 @@ def scrape_website(url):
     options.add_argument("enable-automation")
     options.add_argument("--disable-infobars")
     options.add_argument("--disable-dev-shm-usage")  # Run in background
-    # options.add_argument("start-maximized")
-    # options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    # options.add_experimental_option('useAutomationExtension', False)
+   
     driver = webdriver.Chrome(service=service, options=options)
 
     driver.get(url)
-    # Wait for JavaScript to render. Adjust the time as necessary.
-    # print("hey")
-    # WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
+    
 
     driver.implicitly_wait(10)
 
@@ -237,6 +230,10 @@ def scrape_website(url):
                 #     first = False
                 elif(tag.name == 'p' and previous_content_length >1500):
                     text = text+"\n ********** \n"
+                    previous_content_length =0 
+                    first = False
+                elif(tag.name == 'ul' and previous_content_length >1500):
+                    text = "\n ********** \n" + text
                     previous_content_length =0 
                     first = False
                 text_list.append(text)
