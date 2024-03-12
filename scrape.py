@@ -4,6 +4,9 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup, Comment
+# from selenium.webdriver.support.ui import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.common.by import By
 import re
 
 
@@ -13,18 +16,24 @@ app = Flask(__name__)
 def scrape_text(text):
     # Setup Selenium WebDriver
 
-    # Use BeautifulSoup to parse the HTML content
     soup = BeautifulSoup(text, 'html.parser')
-
-    tags_to_remove = ['footer', 'option', 'header', 'style', 'form',
+    comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+    for comment in comments:
+        comment.extract()
+    for style in soup.find_all('style'):
+        style.extract()
+    for nav in soup.find_all('nav'):
+        nav.extract()
+    # for header in soup.find_all('header'):
+    #     header.extract()
+    header_tags = soup.find_all('header')
+    for tag in header_tags:
+        tag.clear()
+    tags_to_remove = ['footer','ins','iframe','nav','aside','link','meta', 'option', 'header','style', 'form',
                       'label', 'input', 'script', 'button']
     for tag in tags_to_remove:
         for element in soup.find_all(tag):
             element.decompose()  # Remove the tag and its content
-    for style in soup.find_all('style'):
-        style.extract()
-    # for style in soup.find_all('style'):
-    #     style.extract()
     empty_div_tags = soup.find_all('div', class_=True)
     for tag in empty_div_tags:
         if not tag.text.strip():
@@ -45,7 +54,12 @@ def scrape_text(text):
     for tag in empty_p_tags:
         if not tag.text.strip():
             tag.decompose()
-    body_content = soup.find('body').prettify()
+            
+    body_tag = soup.find('body')
+    if body_tag:
+        body_content = body_tag.prettify()
+    else:
+        body_content = soup.find().prettify()
 
     # Write the body content to the output file
     html = body_content
@@ -58,53 +72,41 @@ def scrape_text(text):
     processed_texts = set()
     first = True
     h2_tags = 0
+    count_p = 0
+    previous_content_length = 0
     for tag in soup.descendants:
         if tag.name in ['h2']:
             h2_tags += 1
-    if (h2_tags > 4):
-        for tag in soup.descendants:
-            if tag.name in ['p', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
-                text = tag.get_text(strip=True)
-                if text and text not in processed_texts:
-                    # Remove extra spaces using regex
-                    text = re.sub(r'\s+', ' ', text)
-                    processed_texts.add(text)
-                    text = "<"+tag.name+">"+text+"</"+tag.name+">"
-                    if (tag.name == 'h2'):
-                        if first == False:
-                            text = "\n ********** \n"+text
-                        else:
-
-                            first = False
-
-                    text_list.append(text)
-                    if (tag.name == 'h2'):
-                        text_list.append("\n ")
-
-    else:
-        count_p = 0
-        for tag in soup.descendants:
-            if tag.name in ['p', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
-                text = tag.get_text(strip=True)
-                if text and text not in processed_texts:
-                    # Remove extra spaces using regex
-                    text = re.sub(r'\s+', ' ', text)
-                    processed_texts.add(text)
-                    text = "<"+tag.name+">"+text+"</"+tag.name+">"
-                    if (tag.name == 'p'):
-                        count_p += 1
-                        if (count_p == 4):
-                            count_p = 0
-                            text = text + "\n ********** \n"
-
-                    text_list.append(text)
-                    if (tag.name == 'h2'):
-                        text_list.append("\n ")
-
-    # Write extracted text to the output file
+    # try:
+    # if (h2_tags > 4):
+    for tag in soup.descendants:
+        if tag.name in ['p', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
+            text = tag.get_text(strip=True)
+            if text and text not in processed_texts:
+                # Remove extra spaces using regex
+                text = re.sub(r'\s+', ' ', text)
+                processed_texts.add(text)
+                text = "<"+tag.name+">"+text+"</"+tag.name+">"
+                previous_content_length+=len(text)
+                # if(tag.name == 'h2')
+                if (tag.name == 'h2' and previous_content_length > 700):
+                    text = "\n ********** \n"+text
+                    previous_content_length = 0 
+                   
+                elif(tag.name == 'p' and previous_content_length >1500):
+                    text = text+"\n ********** \n"
+                    previous_content_length =0 
+                    first = False
+                text_list.append(text)
+                if (tag.name == 'h2'):
+                    text_list.append("\n ")
+                
+      
     result = ""
     for text in text_list:
         result += text + '\n'
+    print(result)
+    result = re.sub(r'\n+', '', result)
     result_in_parts = result.split("**********")
     output = ""
     first = True
@@ -114,11 +116,12 @@ def scrape_text(text):
                 first = False
                 output += text
             else:
-                if (len(text) < 300):
+                if (len(text) < 100):
                     output += text
                 else:
 
                     output += "\n ********** \n"+text
+
     return output
 
 
@@ -136,14 +139,21 @@ def scrape_website(url):
     options.add_argument("enable-automation")
     options.add_argument("--disable-infobars")
     options.add_argument("--disable-dev-shm-usage")  # Run in background
+    # options.add_argument("start-maximized")
+    # options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    # options.add_experimental_option('useAutomationExtension', False)
     driver = webdriver.Chrome(service=service, options=options)
 
     driver.get(url)
     # Wait for JavaScript to render. Adjust the time as necessary.
+    # print("hey")
+    # WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
+
     driver.implicitly_wait(10)
 
     # Get page source after JavaScript execution
     html = driver.page_source
+    print(html)
     driver.quit()  # Close the browser
 
     # Use BeautifulSoup to parse the HTML content
@@ -199,69 +209,78 @@ def scrape_website(url):
     first = True
     h2_tags = 0
     count_p = 0
+    previous_content_length = 0
     for tag in soup.descendants:
         if tag.name in ['h2']:
             h2_tags += 1
     # try:
-    if (h2_tags > 4):
-        for tag in soup.descendants:
-            if tag.name in ['p', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
-                text = tag.get_text(strip=True)
-                if text and text not in processed_texts:
-                    # Remove extra spaces using regex
-                    text = re.sub(r'\s+', ' ', text)
-                    processed_texts.add(text)
-                    text = "<"+tag.name+">"+text+"</"+tag.name+">"
-                    if (tag.name == 'h2'):
-                        if first == False:
-                            # first = 1
-                            text = "\n ********** \n"+text
-                        else:
+    # if (h2_tags > 4):
+    for tag in soup.descendants:
+        if tag.name in ['p', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
+            text = tag.get_text(strip=True)
+            if text and text not in processed_texts:
+                # Remove extra spaces using regex
+                text = re.sub(r'\s+', ' ', text)
+                processed_texts.add(text)
+                text = "<"+tag.name+">"+text+"</"+tag.name+">"
+                previous_content_length+=len(text)
+                # if(tag.name == 'h2')
+                if (tag.name == 'h2' and previous_content_length > 700):
+                    text = "\n ********** \n"+text
+                    previous_content_length = 0 
+                    # if first == False:
+                    # else:
+                    #     first = False
+                # elif(tag.name == 'h3' and previous_content_length >1500):
+                #     text = "\n ********** \n"+text
+                #     previous_content_length =0 
+                #     first = False
+                elif(tag.name == 'p' and previous_content_length >1500):
+                    text = text+"\n ********** \n"
+                    previous_content_length =0 
+                    first = False
+                text_list.append(text)
+                if (tag.name == 'h2'):
+                    text_list.append("\n ")
+                
+        # elif isinstance(tag, str):
+        #     text = re.sub(r'\s+', ' ', tag).strip()
+        #     processed_texts.add(text)
+        #     count_str += 1
+        #     if (count_str == 4):
+        #         count_str = 0
+        #         text = text + "\n ********** \n"
+        #     text_list.append(text)
 
-                            first = False
+    # else:
+    #     # count_p = 0
+    #     count_str =0
+    #     for tag in soup.descendants:
+    #         if tag.name in ['p', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
+    #             text = tag.get_text(strip=True)
+    #             if text and text not in processed_texts:
+    #                 # Remove extra spaces using regex
+    #                 text = re.sub(r'\s+', ' ', text)
+    #                 processed_texts.add(text)
+    #                 text = "<"+tag.name+">"+text+"</"+tag.name+">"
+    #                 if (tag.name == 'p'):
+    #                     count_p += 1
+    #                     if (count_p == 4):
+    #                         count_p = 0
+    #                         text = text + "\n ********** \n"
 
-                    text_list.append(text)
-                    if (tag.name == 'h2'):
-                        text_list.append("\n ")
-                    
-            # elif isinstance(tag, str):
-            #     text = re.sub(r'\s+', ' ', tag).strip()
-            #     processed_texts.add(text)
-            #     count_str += 1
-            #     if (count_str == 4):
-            #         count_str = 0
-            #         text = text + "\n ********** \n"
-            #     text_list.append(text)
-
-    else:
-        # count_p = 0
-        count_str =0
-        for tag in soup.descendants:
-            if tag.name in ['p', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
-                text = tag.get_text(strip=True)
-                if text and text not in processed_texts:
-                    # Remove extra spaces using regex
-                    text = re.sub(r'\s+', ' ', text)
-                    processed_texts.add(text)
-                    text = "<"+tag.name+">"+text+"</"+tag.name+">"
-                    if (tag.name == 'p'):
-                        count_p += 1
-                        if (count_p == 4):
-                            count_p = 0
-                            text = text + "\n ********** \n"
-
-                    text_list.append(text)
-                    if (tag.name == 'h2'):
-                        # text = text +'\n'
-                        text_list.append("\n ")
-            # elif isinstance(tag, str):
-            #     text = re.sub(r'\s+', ' ', tag).strip()
-            #     processed_texts.add(text)
-            #     count_str += 1
-            #     if (count_str == 4):
-            #         count_str = 0
-            #         text = text + "\n ********** \n"
-            #     text_list.append(text)
+    #                 text_list.append(text)
+    #                 if (tag.name == 'h2'):
+    #                     # text = text +'\n'
+    #                     text_list.append("\n ")
+    #         # elif isinstance(tag, str):
+    #         #     text = re.sub(r'\s+', ' ', tag).strip()
+    #         #     processed_texts.add(text)
+    #         #     count_str += 1
+    #         #     if (count_str == 4):
+    #         #         count_str = 0
+    #         #         text = text + "\n ********** \n"
+    #         #     text_list.append(text)
             
 
     # Write extracted text to the output file
@@ -298,6 +317,7 @@ def scrape():
     data = request.json
     url = data.get('url')
     # url = "view-source:"+url
+    print(url)
 
     if not url:
         return jsonify({'error': 'URL is required'}), 400
@@ -313,7 +333,7 @@ def scrape():
 @app.route('/textToScrape', methods=['POST'])
 def scrapeText():
     data = request.json
-    text = data.get("data")
+    text = data.get("url")
     if not text:
         return jsonify({'error': 'text is required'}), 400
     try:
