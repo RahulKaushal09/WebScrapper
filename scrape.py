@@ -71,14 +71,10 @@ def scrape_text(text):
     # images =""
     latex_expressions = soup.find_all('script', type='math/tex')
     images = []
-    i=0
-    
     for expr in latex_expressions:
         latex = expr.string.strip()  # Get the LaTeX expression
         # print(latex)
-        i+=1
         filename = latex_to_image(latex, output_dir)
-        img_url = web_path + filename  # Convert LaTeX to base64-encoded image
         img_url = web_path + filename
         img_tag = soup.new_tag('img')
         img_tag['src'] = f'data:image/png;base64,{img_data_base64}'
@@ -243,14 +239,14 @@ def scrape_website(url,edurev):
     # for header in soup.find_all('header'):
     #     header.extract()
     text_list = []
-    latex_expressions = soup.find_all('script', type='math/tex')
-    for expr in latex_expressions:
-        latex = expr.string.strip()  # Get the LaTeX expression
-        img_data_base64 = latex_to_image_base64(latex)  # Convert LaTeX to base64-encoded image
-        img_tag = soup.new_tag('img')
-        img_tag['src'] = f'data:image/png;base64,{img_data_base64}'
-        # print(img_tag)
-        expr.replace_with(img_tag)  # Replace the LaTeX script tag with the image tag
+    # latex_expressions = soup.find_all('script', type='math/tex')
+    # for expr in latex_expressions:
+    #     latex = expr.string.strip()  # Get the LaTeX expression
+    #     img_data_base64 = latex_to_image_base64(latex)  # Convert LaTeX to base64-encoded image
+    #     img_tag = soup.new_tag('img')
+    #     img_tag['src'] = f'data:image/png;base64,{img_data_base64}'
+    #     # print(img_tag)
+    #     expr.replace_with(img_tag)  # Replace the LaTeX script tag with the image tag
 
 
     if edurev == True:
