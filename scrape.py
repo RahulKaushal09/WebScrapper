@@ -76,11 +76,10 @@ def scrape_text(text):
     # for tag in empty_span_tags:
     #     if not tag.text.strip():
     #         tag.decompose()
-    empty_p_tags = soup.find_all('p', class_=True)
-    for tag in empty_p_tags:
-        if not tag.text.strip():
-            tag.decompose()
-            
+    # empty_p_tags = soup.find_all('p', class_=True)
+    # for tag in empty_p_tags:
+    #     if not tag.text.strip():
+    #         tag.decompose()
     body_tag = soup.find('body')
     if body_tag:
         body_content = body_tag.prettify()
@@ -110,32 +109,43 @@ def scrape_text(text):
     # span_tags = soup.find_all('span')
     # for tag in span_tags:
     # soup.find().prettify()
+    # print(soup)
     for tag in soup.descendants:
-            
-        if tag.name in ['p','img','span' ,'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
+        if tag.name in ['p', 'img', 'span', 'h1', 'h2', 'h3', 'tr', 'td', 'h4', 'h5', 'h6', 'ul', 'li']:
             if tag.name == 'span':
-                # print(tag)
-                text = str(tag)
+                if str(tag) not in processed_texts:
+                    text = str(tag)
+                    processed_texts.add(text)
+                    # Handle <img> tags inside <span> separately
+                    for img_tag in tag.find_all('img'):
+                        if str(img_tag) not in processed_texts:
+                            img_text = str(img_tag)
+                            processed_texts.add(img_text)
+                            text_list.append(img_text)
+            elif tag.name == 'img':
+                if str(tag) not in processed_texts:
+                    text = str(tag)
+                    processed_texts.add(text)
+                    text_list.append(text)
             else:
                 text = tag.get_text(strip=True)
                 if text and text not in processed_texts:
-                    # Remove extra spaces using regex
                     text = re.sub(r'\s+', ' ', text)
                     processed_texts.add(text)
-                    text = "<"+tag.name+">"+text+"</"+tag.name+">"
-                    previous_content_length+=len(text)
-                    # if(tag.name == 'h2')
+                    text = "<" + tag.name + ">" + text + "</" + tag.name + ">"
+                    previous_content_length += len(text)
                     if (tag.name == 'h2' and previous_content_length > 700):
-                        text = "\n ********** \n"+text
-                        previous_content_length = 0 
-                    
-                    elif(tag.name == 'p' and previous_content_length >1500):
-                        text = text+"\n ********** \n"
-                        previous_content_length =0 
+                        text = "\n ********** \n" + text
+                        previous_content_length = 0
+                    elif (tag.name == 'p' and previous_content_length > 1500):
+                        text = text + "\n ********** \n"
+                        previous_content_length = 0
                         first = False
-            text_list.append(text)
-            if (tag.name == 'h2'):
-                text_list.append("\n ")
+                else:
+                    processed_texts.add(str(tag))
+                text_list.append(text)
+                if (tag.name == 'h2'):
+                    text_list.append("\n ")
                     
       
     result = ""
@@ -187,7 +197,6 @@ def scrape_website(url,website):
     # print(html)
     driver.quit()  # Close the browser
     html_text = run(str(html))
-    # print(html_text)
     # Use BeautifulSoup to parse the HTML content
     soup = BeautifulSoup(html_text, 'html.parser')
     comments = soup.find_all(string=lambda text: isinstance(text, Comment))
@@ -237,7 +246,6 @@ def scrape_website(url,website):
             body_content = soup.find('div', class_='contenttextdiv')
             # print(body_content)
             html = str(body_content)
-
             # Use BeautifulSoup to parse the HTML content
             # print(html)
             soup = BeautifulSoup(html, 'html.parser')
@@ -479,6 +487,9 @@ def scrape_website(url,website):
             span_elements = soup.find_all('span', class_=span_class)
             for span in span_elements:
                 span.extract()
+        span_elements = soup.find_all('div', class_="mathjax-scroll")
+        for span in span_elements:
+            print(span)
 
         ids_to_remove = [
             'right-sidebar',
@@ -520,7 +531,6 @@ def scrape_website(url,website):
 
         # Write the body content to the output file
         html = body_content
-
         # Use BeautifulSoup to parse the HTML content
         soup = BeautifulSoup(html, 'html.parser')
         # Extract text from each tag while maintaining the order
