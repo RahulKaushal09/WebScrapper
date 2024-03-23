@@ -128,7 +128,7 @@ def replace_mathjax_with_images(html_content):
         attribute = "mathMlContainer"
         textBook = True
         # math_elements = soup.find_all(class_="mathMlContainer")
-    # print(math_elements)
+    # print(True)
     
 
 
@@ -144,12 +144,33 @@ def replace_mathjax_with_images(html_content):
                 element = elements
             else:
                 element = elements.get('data-mathml')
-
+            # print(elements)
+            # print("*************************")
             if get_image(element, image_url):
                 image_url =f"{Public_IP}/{uuid_str}.png"
                 new_img_tag = soup.new_tag("img", src=image_url)
-                print(new_img_tag)
-                elements.replace_with(new_img_tag)
+                # print(new_img_tag)
+                # print(elements.find_parent())
+                parent = element.find_parent()
+                print(parent)
+                print("****************************************")
+                if(parent != None):
+                    expressions = parent.find_all("mjx-container")
+                    print("########################################")
+                    for e in expressions:
+                        # Create a new img tag with the src attribute pointing to the image URL
+                        # img_tag = soup.new_tag("img", src="your_image_url_here")
+                        # Replace the mjx-container tag with the new img tag
+                        print(e)
+                        e.replace_with(new_img_tag)
+                else:
+                    print("No mjx container found for this paragraph")
+                # Replace the mjx-container tag with the new image tag
+                # parent.replace_with(new_img_tag)
+                # elements.parent.replace_with(new_img_tag)
+                # elements.replace_with(new_img_tag)
+                
+            
         else:
             uuid_str = str(uuid.uuid4())
             # Assuming the LaTeX string can be directly obtained from the element's text
@@ -158,6 +179,7 @@ def replace_mathjax_with_images(html_content):
                 new_img_tag = soup.new_tag("img", src=image_url)
                 elements.replace_with(new_img_tag)
     # print(soup.prettify())
+        
     return str(soup)
 
 

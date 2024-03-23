@@ -128,7 +128,6 @@ def replace_mathjax_with_images(html_content):
         attribute = "mathMlContainer"
         textBook = True
         # math_elements = soup.find_all(class_="mathMlContainer")
-    # print(math_elements)
     
 
 
@@ -144,7 +143,8 @@ def replace_mathjax_with_images(html_content):
                 element = elements
             else:
                 element = elements.get('data-mathml')
-
+            print(elements)
+            print(element)
             if get_image(element, image_url):
                 image_url =f"{Public_IP}/{uuid_str}.png"
                 new_img_tag = soup.new_tag("img", src=image_url)

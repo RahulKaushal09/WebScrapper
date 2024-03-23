@@ -160,7 +160,7 @@ def scrape_text(text):
     return output
 
 
-def scrape_website(url,edurev,geeksforgeeks):
+def scrape_website(url,website):
     # Setup Selenium WebDriver
     service = Service(ChromeDriverManager().install())
     options = webdriver.ChromeOptions()
@@ -210,7 +210,7 @@ def scrape_website(url,edurev,geeksforgeeks):
     #     expr.replace_with(img_tag)  # Replace the LaTeX script tag with the image tag
 
 
-    if edurev == True:
+    if  website == "edurev":
         try:
             ads = soup.find_all('div', class_='cnt_ad_bnr')
             for ad in ads:
@@ -298,7 +298,7 @@ def scrape_website(url,edurev,geeksforgeeks):
                                 text_list.append("\n ")
         except Exception as e:
             print(e)
-    elif geeksforgeeks:
+    elif  website == "geeksforgeeks":
         try:
             sidebars = soup.find_all('div', class_='sidebar_wrapper')
             for sidebar in sidebars:
@@ -410,7 +410,84 @@ def scrape_website(url,edurev,geeksforgeeks):
                                 text_list.append("\n ")
         except Exception as e:
             print(e)
-    else:         
+    else:    
+        divs_to_remove = [
+            'super-coaching',
+            'sticky-header',
+            'tabs__container',
+            'updates',
+            'faqs',
+            'faq',
+            'web-signup-sticky-footer',
+            'target-test-series',
+            'target-test-series',
+            'pass-pro-banner',
+        ]
+
+        for div_id in divs_to_remove:
+            div_elements = soup.find_all('div', id=div_id)
+            for div in div_elements:
+                div.extract()
+
+        divs_to_remove_classes = [
+            'tabs__container',
+            'updates',
+            'faq',
+            'web-signup-sticky-footer',
+            'target-test-series',
+            'pass-pro-banner',
+            'gb-container-6149bc38a',
+            'tags-links',
+            'widget-area',
+            'right-sidebar',
+            'wp-faq-schema-wrap',
+            'Gb-container-52018004',
+            'comments-area',
+            'dpsp-share-text',
+            'adda-faq-wrapp',
+            'top-package',
+            'sidebar_main',
+            'olive-after-content',
+            'AlsoRead',
+            'List_ReadingList__K0aAk',
+            'seoText',
+            'SectionTitle',
+            'Header_topNav__NnKZp',
+            'GlobalNews_LatestNotifi__ascJG',
+            'NativeAd',
+            'pwa_l2menu',
+            'ppBox',
+            'sectional-faqs',
+            'newTocWrapper',
+            'exam_rhs_content',
+            'defaultCard',
+            'similarExams',
+            'ask-qryDv',
+            'addtoany_share_save_container'
+        ]
+
+        for div_class in divs_to_remove_classes:
+            div_elements = soup.find_all('div', class_=div_class)
+            for div in div_elements:
+                div.extract()
+
+        spans_to_remove = [
+            'tags-links',
+        ]
+
+        for span_class in spans_to_remove:
+            span_elements = soup.find_all('span', class_=span_class)
+            for span in span_elements:
+                span.extract()
+
+        ids_to_remove = [
+            'right-sidebar',
+        ]
+
+        for id_value in ids_to_remove:
+            id_element = soup.find('div', id=id_value)
+            if id_element:
+                id_element.extract()
         header_tags = soup.find_all('header')
         for tag in header_tags:
             tag.clear()
@@ -547,13 +624,15 @@ def scrape():
         return jsonify({'error': 'URL is required'}), 400
 
     try:
-        edurev = False
-        geeksforgeeks = False
+        # edurev = False
+        website = ""
+        # geeksforgeeks = False
         if "edurev.in" in url:
-            edurev = True
+            website = "edurev"
         if "geeksforgeeks.org" in url:
-            geeksforgeeks = True
-        output_text = scrape_website(url,edurev,geeksforgeeks)
+            # geeksforgeeks = True
+            website = "geeksforgeeks"
+        output_text = scrape_website(url,website)
         return jsonify({'content': output_text}), 200
     except Exception as e:
         print(e)
