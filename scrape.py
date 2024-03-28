@@ -252,6 +252,8 @@ def scrape_website(url,website):
 
             # Extract text from each tag while maintaining the order
             processed_texts = set()
+            processed_uls = set()  # Track processed 'ul' elements
+
             first = True
             h2_tags = 0
             count_p = 0
@@ -262,13 +264,12 @@ def scrape_website(url,website):
             # try:
             # if (h2_tags > 4):
             for tag in soup.descendants:
-                if tag.name in ['p','img','strong','span', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
+                if tag.name in ['p','img','strong', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6']:
                     # print(tag)
                     if tag.name == 'img':
                         text = str(tag)
                         # print(tag)
                     else:
-
                         text = tag.get_text()
                         
                         if text and text not in processed_texts:
@@ -297,13 +298,45 @@ def scrape_website(url,website):
                                 text = text+"\n ********** \n"
                                 previous_content_length =0 
                                 first = False
-                            elif(tag.name == 'ul' and previous_content_length >1500):
-                                text = text+"\n ********** \n"
-                                previous_content_length =0 
-                                first = False
                             text_list.append(text)
                             if (tag.name == 'h2'):
                                 text_list.append("\n ")
+                elif tag.name == 'ul':
+                    # Process 'ul' elements and add their id to the processed_uls set
+                    text = tag.get_text()
+                    if text and text not in processed_texts:
+                        text = re.sub(r'\s+', ' ', text)
+                        processed_texts.add(text)
+                        previous_content_length+=len(text)
+                        processed_uls.add(id(tag))  # Track that this 'ul' has been processed
+                        if(tag.name == 'ul' and previous_content_length >1500):
+                                text = text+"\n ********** \n"
+                                previous_content_length =0 
+                                first = False
+                        text_list.append(f"<ul>{text}</ul>")
+                elif tag.name == 'li':
+                    # Only process 'li' elements if their parent 'ul' hasn't been processed
+                    if id(tag.find_parent('ul')) not in processed_uls:
+                        text = tag.get_text()
+                        if text and text not in processed_texts:
+                            text = re.sub(r'\s+', ' ', text)
+                            processed_texts.add(text)
+                            previous_content_length+=len(text)
+                            processed_uls.add(id(tag))  # Track that this 'ul' has been processed
+                            
+                            text_list.append(f"<li>{text}</li>")
+                elif tag.name == 'span':
+                    # Only process 'li' elements if their parent 'ul' hasn't been processed
+                    if id(tag.find_parent('ul')) not in processed_uls:
+                        text = tag.get_text()
+                        if text and text not in processed_texts:
+                            text = re.sub(r'\s+', ' ', text)
+                            processed_texts.add(text)
+                            previous_content_length+=len(text)
+                            processed_uls.add(id(tag))  # Track that this 'ul' has been processed
+                            
+                            text_list.append(f"<span>{text}</span>")
+                        
         except Exception as e:
             print(e)
     elif  website == "geeksforgeeks":
@@ -430,6 +463,7 @@ def scrape_website(url,website):
             'target-test-series',
             'target-test-series',
             'pass-pro-banner',
+            'faqWrapper_last'
         ]
 
         for div_id in divs_to_remove:
@@ -471,11 +505,27 @@ def scrape_website(url,website):
             'defaultCard',
             'similarExams',
             'ask-qryDv',
-            'addtoany_share_save_container'
+            'addtoany_share_save_container',
+            'header-menu',
+            'prefooter-adda',
+            'signup-description',
+            'login-modal-div',
+            'author-container',
+            'tags-wrapp-bx',
+            'dpsp-content-wrapper',
+            'gb-grid-wrapper',
+            'adp_blog',
+            '_container abt-athr-wrap',
+            'announcementWidget',
+            'faqWrapper'
         ]
 
         for div_class in divs_to_remove_classes:
             div_elements = soup.find_all('div', class_=div_class)
+            for div in div_elements:
+                div.extract()
+        for div_class in divs_to_remove_classes:
+            div_elements = soup.find_all('p', class_='dpsp-share-text ')
             for div in div_elements:
                 div.extract()
 
