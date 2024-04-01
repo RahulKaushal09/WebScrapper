@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
+import uuid
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -11,8 +12,29 @@ from webdriver_manager.chrome import ChromeDriverManager
 import urllib.parse
 import time
 import os
+import matplotlib.pyplot as plt
 
-import uuid
+
+Public_IP = "http://52.139.218.113/images"
+image_folder_path = "/var/www/html/images"
+
+def latex_to_image(soup,latex_expression):
+    uuid_str = str(uuid.uuid4())
+    # Assuming the LaTeX string can be directly obtained from the element's text
+    image_url = f"{image_folder_path}/{uuid_str}.png"
+    # print(image_url)
+    # fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(2, 1))  # Set the figure size to be smaller
+    ax.text(0.5, 0.5, r"$%s$" % latex_expression, size=10, ha='center')  # Set
+
+    # ax.text(0.5, 0.5,latex_expression, size=12)
+    ax.axis('off')
+    fig.savefig(image_url, bbox_inches='tight', pad_inches=0.0)
+    plt.close(fig)
+    image_url =f"{Public_IP}/{uuid_str}.png"
+    new_img_tag = soup.new_tag("img", src=image_url)
+    # print(new_img_tag)
+    return new_img_tag
 
 
 def get_image(mathjax, uuid_image_path,mjx_container):
@@ -142,8 +164,7 @@ def get_image(mathjax, uuid_image_path,mjx_container):
     return True
 
 
-image_folder_path = "/var/www/html/images"
-Public_IP = "http://52.139.218.113/images"
+
 
 def replace_mathjax_with_images(html_content):
     
@@ -156,6 +177,27 @@ def replace_mathjax_with_images(html_content):
     mjx_container = False
     # Adjust this selector based on your HTML structure
     math_elements = soup.find_all(class_="mathMlContainer")
+    # if(len(math_elements) == 0) :
+    #     math_elements = soup.find_all(lambda tag: tag.has_attr('data-mathml'))
+    #     # data-mathm
+    #     # print(math_elements)
+    #     if (len(math_elements) == 0) :
+    #         math_elements = soup.find_all("mjx-container")
+    #         if (len(math_elements) == 0) :
+    #             return html_content
+    #         else:
+    #             attribute = "mjx-container"
+    #             textBook = True
+    #             # mjx_container =True
+    #             mjx_container =False
+    #             # for now i have made it false because it will need time to resolve 
+    #     else:
+    #         attribute = "data-mathml"
+    #         textBook = True
+    # else:
+    #     attribute = "mathMlContainer"
+    #     textBook = True
+    #     # math_elements = soup.find_all(class_="mathMlContainer")
     if(len(math_elements) == 0) :
         math_elements = soup.find_all(lambda tag: tag.has_attr('data-mathml'))
         # data-mathm
@@ -180,6 +222,9 @@ def replace_mathjax_with_images(html_content):
 
 
     # print(soup)
+    # print(attribute)
+    # print(math_elements)
+    # print(math_elements)
 
     for elements in math_elements:
         if textBook == True:

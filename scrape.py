@@ -10,6 +10,7 @@ import base64
 from io import BytesIO
 import uuid
 from handleLatex import run
+from handleLatex import latex_to_image
 from LatexToImage import excelRun
 
 
@@ -24,18 +25,18 @@ def simplify_latex_limits(latex_code):
     # Additional cleanup if necessary, for example removing extra spaces or handling other cases
     
     return simplified_code
-def latex_to_image(latex_code,output_dir):
-    latex_code = simplify_latex_limits(latex_code)
-    fig_width = len(latex_code) * 0.001  # Adjust the multiplier as needed
-    fig_height = 1.0  # Fixed height
-    fig, ax = plt.subplots(figsize=(fig_width, fig_height))
-    ax.axis('off')
-    ax.text(0.5, 0.5, f"${latex_code}$", size=16, ha='center', va='center')
-    filename = str(uuid.uuid4()) + ".png"
-    filepath = os.path.join(output_dir, filename)
-    plt.savefig(filepath, format='png', bbox_inches='tight', pad_inches=0.0)
-    plt.close()
-    return filename
+# def latex_to_image(latex_code,output_dir):
+#     latex_code = simplify_latex_limits(latex_code)
+#     fig_width = len(latex_code) * 0.001  # Adjust the multiplier as needed
+#     fig_height = 1.0  # Fixed height
+#     fig, ax = plt.subplots(figsize=(fig_width, fig_height))
+#     ax.axis('off')
+#     ax.text(0.5, 0.5, f"${latex_code}$", size=16, ha='center', va='center')
+#     filename = str(uuid.uuid4()) + ".png"
+#     filepath = os.path.join(output_dir, filename)
+#     plt.savefig(filepath, format='png', bbox_inches='tight', pad_inches=0.0)
+#     plt.close()
+#     return filename
 
    
 def scrape_text(text):
@@ -191,9 +192,10 @@ def scrape_website(url,website):
     
 
     driver.implicitly_wait(10)
+    html = driver.execute_script("return document.documentElement.outerHTML")
 
     # Get page source after JavaScript execution
-    html = driver.page_source
+    # html = driver.page_source
     # print(html)
     driver.quit()  # Close the browser
     html_text = run(str(html))
@@ -269,6 +271,7 @@ def scrape_website(url,website):
                     if tag.name == 'img':
                         text = str(tag)
                         # print(tag)
+                        text_list.append(text)
                     else:
                         text = tag.get_text()
                         
@@ -407,11 +410,12 @@ def scrape_website(url,website):
             # try:
             # if (h2_tags > 4):
             for tag in soup.descendants:
-                if tag.name in ['p','img','strong','span', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
+                if tag.name in ['p','img','strong','span', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li','code']:
                     # print(tag)
                     if tag.name == 'img':
                         text = str(tag)
                         # print(tag)
+                        text_list.append(text)
                     else:
 
                         text = tag.get_text()
@@ -537,9 +541,23 @@ def scrape_website(url,website):
             span_elements = soup.find_all('span', class_=span_class)
             for span in span_elements:
                 span.extract()
-        span_elements = soup.find_all('div', class_="mathjax-scroll")
-        for span in span_elements:
-            print(span)
+        def convert_divs(original_divs):
+            formatted_div = original_divs.replace(r"\(\begin{array}{l}", "").replace(r"\end{array} \)", "")
+            formatted_div = formatted_div.replace("Cos", r"\cos").replace("Cosec", r"\csc")
+            formatted_div = formatted_div.replace("tan", r"\tan").replace("cos", r"\cos").replace("sin", r"\sin")
+            formatted_div = formatted_div.replace("cot", r"\cot")
+            formatted_div = formatted_div.replace("cosec", "csc")
+            formatted_div = formatted_div.replace(r"\\c", r"\c")
+            formatted_div =  formatted_div 
+            return formatted_div
+
+        div_elements = soup.find_all('div', class_="mathjax-scroll")
+        for div in div_elements:
+            div_formatted = convert_divs(r""+div.text)
+            # print(div_formatted)
+            img_tags = latex_to_image(soup,div_formatted)
+            # print( img_tags)
+            div.replace_with(img_tags)
 
         ids_to_remove = [
             'right-sidebar',
@@ -549,14 +567,20 @@ def scrape_website(url,website):
             id_element = soup.find('div', id=id_value)
             if id_element:
                 id_element.extract()
-        header_tags = soup.find_all('header')
-        for tag in header_tags:
-            tag.clear()
-        tags_to_remove = ['footer','ins','iframe','nav','aside','link','meta', 'option', 'header','style',
+        # 01/04/2024
+        # header_tags = soup.find_all('header')
+        # for tag in header_tags:
+        #     tag.clear()
+        tags_to_remove = ['footer','ins','iframe','nav','aside','link','meta', 'option','style','header',
                         'label', 'input', 'script', 'button']
         for tag in tags_to_remove:
-            for element in soup.find_all(tag):
-                element.decompose()  # Remove the tag and its content
+            if 'https://www.savemyexams.com' in url :
+                if tag != 'header':
+                    for element in soup.find_all(tag):
+                        element.decompose()  # Remove the tag and its content
+            else:
+                for element in soup.find_all(tag):
+                    element.decompose()  # Remove the tag and its content
         empty_div_tags = soup.find_all('div', class_=True)
         for tag in empty_div_tags:
             if not tag.text.strip():
@@ -569,6 +593,8 @@ def scrape_website(url,website):
         for tag in empty_ul_tags:
             if not tag.text.strip():
                 tag.decompose()
+        # 01/04/2024
+
         # empty_span_tags = soup.find_all('span', class_=True)
         # for tag in empty_span_tags:
         #     if not tag.text.strip():
@@ -599,7 +625,9 @@ def scrape_website(url,website):
             if tag.name in ['p','img','strong', 'h1', 'h2', 'h3', 'span','tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
                 if tag.name == 'img':
                     text = str(tag)
+
                     # print(tag)
+                    text_list.append(text)
                 else:
                     # if tag.name == 'h3':
                     #     # text = str(tag)
