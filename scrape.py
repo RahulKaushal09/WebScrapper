@@ -9,8 +9,9 @@ import matplotlib.pyplot as plt
 import base64
 from io import BytesIO
 import uuid
-from handleLatex import run
+from handleLatex import convert_latex
 from handleLatex import latex_to_image
+from LatexToImage import replace_tables_with_images
 from LatexToImage import excelRun
 
 
@@ -198,8 +199,10 @@ def scrape_website(url,website):
     # html = driver.page_source
     # print(html)
     driver.quit()  # Close the browser
-    html_text = run(str(html))
+    html_text = convert_latex(str(html))
     # Use BeautifulSoup to parse the HTML content
+    if 'www.savemyexams.com/' in url:
+        html_text = replace_tables_with_images(html_text)
     soup = BeautifulSoup(html_text, 'html.parser')
     comments = soup.find_all(string=lambda text: isinstance(text, Comment))
     for comment in comments:
@@ -521,7 +524,10 @@ def scrape_website(url,website):
             'adp_blog',
             '_container abt-athr-wrap',
             'announcementWidget',
-            'faqWrapper'
+            'faqWrapper',
+            'FeatureSliderCTA_container__8yplH',
+            'AuthorCard_wrapper__K_xAj',
+            'ContentFeedbackButtons_wrapper__O_leo'
         ]
 
         for div_class in divs_to_remove_classes:
@@ -734,7 +740,9 @@ def scrapeText():
     if not text:
         return jsonify({'error': 'text is required'}), 400
     try:
-        output_text = scrape_text(text)
+        # output_text = scrape_text(text)
+        output_text = scrapeExcel(text)
+
         return jsonify({'content': output_text}), 200
     except Exception as e:
         print(e)
