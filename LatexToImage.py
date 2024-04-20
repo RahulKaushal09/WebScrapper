@@ -126,6 +126,7 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
                     display: flex;
                     justify-content: center;
                     align-items: center;
+                    font-family: 'Noto Sans', sans-serif !important;
                 }}
                 #math-content {{
                     
@@ -187,7 +188,7 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
         )
 
         # Wait a bit for rendering to stabilize
-        time.sleep(2)
+        # time.sleep(2)
 
         # Find the MathJax container element
         math_element = driver.find_element(By.ID, "math-content")
@@ -209,6 +210,7 @@ def get_table_image(table_container, uuid_image_path):
         <meta charset="UTF-8">
         <title>MathJax Image Automation</title>
         <style>
+        
             body, html {{
                 margin: 10px;
                 padding: 5px;
@@ -232,15 +234,7 @@ def get_table_image(table_container, uuid_image_path):
         </div>
     </body>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js" integrity="sha256-4
-
-<script>
-
-            window.onload = function() {{
-                
-                document.getElementById('math-content').style.height =
-                    document.querySelector('.MathJax').getBoundingClientRect().height + 'px';
-            }};
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js" integrity="sha256-4 
         </script>
     </html>
     '''
@@ -260,35 +254,24 @@ def get_table_image(table_container, uuid_image_path):
     options.add_argument("start-maximized")
     options.add_argument("enable-automation")
     options.add_argument("--disable-infobars")
+    options.add_argument("--disable-web-security")
+    options.add_argument('--allow-file-access-from-files')
+    options.add_argument('--font-render-hinting=none')
     options.add_argument("--disable-dev-shm-usage")  # Run in background
+    # options.add_argument(f"--font-family='Kruti Dev 010'")  # Set custom font family
+
     # Setup WebDriver
     
-    options.headless = True  # Enable headless mode if no GUI is needed
+    options.headless = False  # Enable headless mode if no GUI is needed
     driver = webdriver.Chrome(service=service, options=options)
 
     # Use the data URI scheme to load the HTML content directly
     driver.get(f"data:text/html;charset=UTF-8,{encoded_html}")
 
-    # Wait for MathJax to render (adjust the timeout as necessary)
-    # WebDriverWait(driver, 10).until(lambda x: driver.execute_script("hey"))
-        # WebDriverWait(driver, 10).until(lambda x: driver.execute_script("return MathJax.isReady();"))
-
     WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.ID, "math-content"))
     )
-
-    # Wait a bit for rendering to stabilize
-    # time.sleep(2)
-
-    # Find the MathJax container element
     math_element = driver.find_element(By.ID, "math-content")
-    # math_element = driver.find_all(By.TAG,"body")
-
-    # math_element = driver.find_element(By.CLASS_NAME, "math-content")
-    # math_element = driver.find_element(By.CLASS_NAME, "math-tex")
-
-    # driver.save_screenshot(uuid_image_path)
-    # Take a screenshot of just the MathJax element
     math_element.screenshot(uuid_image_path)
 
     # Cleanup

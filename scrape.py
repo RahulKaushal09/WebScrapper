@@ -458,7 +458,41 @@ def scrape_website(url,website):
                                 text_list.append("\n ")
         except Exception as e:
             print(e)
+    elif 'https://www.studyrankers.com/' in url :
+        text_list =[]
+        div_elements = soup.find_all('div', class_='post-body')
+
+        for div in div_elements:
+            text_list.append(div.get_text())
+        result = ""
+        for text in text_list:
+            result += text + '\n'
+        # print(result)
+        result = re.sub(r'\n+', '', result)
+        result_in_parts = result.split('.')
+        output = ""
+        first = True
+        previous_text_len = 0
+        previous_text =''
+        for text in result_in_parts:
+            previous_text +=text
+            previous_text_len += len(text)
+            if (previous_text_len >= 1500):
+                if (first):
+                    first = False
+                    output += previous_text
+                    previous_text_len = 0
+                    previous_text=''
+                else:
+                    output += "\n ********** \n"+previous_text
+                    previous_text=''
+                    previous_text_len = 0
+
+
+        return output
+        
     else:    
+        # return str(soup)
         divs_to_remove = [
             'super-coaching',
             'sticky-header',
@@ -527,13 +561,35 @@ def scrape_website(url,website):
             'faqWrapper',
             'FeatureSliderCTA_container__8yplH',
             'AuthorCard_wrapper__K_xAj',
-            'ContentFeedbackButtons_wrapper__O_leo'
+            'ContentFeedbackButtons_wrapper__O_leo',
+            'ssrcss-1nq6mya-PromoComponentWrapper',
+            'ssrcss-105wvvp-Wrapper e1x17m8s0',
+            'ssrcss-1wnvszv-FooterStack e1k195vp4',
+            'ssrcss-xifqb-SidebarWrapper e107fkov4',
+            'ssrcss-16cbu9t-HideAndReveal esxewyl4',
+            'penci-headline',
+            'headerify-wrap'
         ]
+        
 
         for div_class in divs_to_remove_classes:
-            div_elements = soup.find_all('div', class_=div_class)
+            if 'https://edukemy.com/' in url:
+                if div_class !='right-sidebar':
+                    div_elements = soup.find_all('div', class_=div_class)
+            else:
+                div_elements = soup.find_all('div', class_=div_class)
+
             for div in div_elements:
                 div.extract()
+        # section_element = soup.find_all('section', class_="ssrcss-guw00x-SectionWrapper")
+        # for section in section_element:
+        #     section.extract()
+        # section_element = soup.find_all(lambda tag: tag.has_attr('riddle-block'))
+        # for section in section_element:
+        #     section.extract()
+        section_element = soup.find_all('figure', class_="ssrcss-quwkth-ComponentWrapper e15ii8li2")
+        for section in section_element:
+            section.extract()
         for div_class in divs_to_remove_classes:
             div_elements = soup.find_all('p', class_='dpsp-share-text ')
             for div in div_elements:
@@ -542,6 +598,7 @@ def scrape_website(url,website):
         spans_to_remove = [
             'tags-links',
         ]
+
 
         for span_class in spans_to_remove:
             span_elements = soup.find_all('span', class_=span_class)
@@ -577,7 +634,7 @@ def scrape_website(url,website):
         # header_tags = soup.find_all('header')
         # for tag in header_tags:
         #     tag.clear()
-        tags_to_remove = ['footer','ins','iframe','nav','aside','link','meta', 'option','style','header',
+        tags_to_remove = ['footer','video','ins','iframe','nav','aside','link','meta', 'option','style','header',
                         'label', 'input', 'script', 'button']
         for tag in tags_to_remove:
             if 'https://www.savemyexams.com' in url :
@@ -587,18 +644,18 @@ def scrape_website(url,website):
             else:
                 for element in soup.find_all(tag):
                     element.decompose()  # Remove the tag and its content
-        empty_div_tags = soup.find_all('div', class_=True)
-        for tag in empty_div_tags:
-            if not tag.text.strip():
-                tag.decompose()
-        empty_li_tags = soup.find_all('li', class_=True)
-        for tag in empty_li_tags:
-            if not tag.text.strip():
-                tag.decompose()
-        empty_ul_tags = soup.find_all('ul', class_=True)
-        for tag in empty_ul_tags:
-            if not tag.text.strip():
-                tag.decompose()
+        # empty_div_tags = soup.find_all('div', class_=True)
+        # for tag in empty_div_tags:
+        #     if not tag.text.strip():
+        #         tag.decompose()
+        # empty_li_tags = soup.find_all('li', class_=True)
+        # for tag in empty_li_tags:
+        #     if not tag.text.strip():
+        #         tag.decompose()
+        # empty_ul_tags = soup.find_all('ul', class_=True)
+        # for tag in empty_ul_tags:
+        #     if not tag.text.strip():
+        #         tag.decompose()
         # 01/04/2024
 
         # empty_span_tags = soup.find_all('span', class_=True)
@@ -631,14 +688,14 @@ def scrape_website(url,website):
             if tag.name in ['p','img','strong', 'h1', 'h2', 'h3', 'span','tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
                 if tag.name == 'img':
                     text = str(tag)
-
                     # print(tag)
                     text_list.append(text)
                 else:
+                    text = tag.get_text()
+                    
                     # if tag.name == 'h3':
                     #     # text = str(tag)
                     #     print(tag.get_text())
-                    text = tag.get_text()
                     if text and text not in processed_texts:
                         # Remove extra spaces using regex
                         text = re.sub(r'\s+', ' ', text)
@@ -668,7 +725,8 @@ def scrape_website(url,website):
                             text = "\n ********** \n" + text
                             previous_content_length =0 
                             first = False
-                        text_list.append(text)
+                        if 'Test your knowledge' not in text and 'Test questions' not in text:
+                            text_list.append(text)
                         if (tag.name == 'h2'):
                             text_list.append("\n ")
                         
@@ -740,8 +798,8 @@ def scrapeText():
     if not text:
         return jsonify({'error': 'text is required'}), 400
     try:
-        # output_text = scrape_text(text)
-        output_text = scrapeExcel(text)
+        output_text = scrape_text(text)
+        # output_text = scrapeExcel(text)
 
         return jsonify({'content': output_text}), 200
     except Exception as e:
