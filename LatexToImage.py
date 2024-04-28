@@ -115,6 +115,8 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
         <!DOCTYPE html>
         <html>
         <head>
+        <link href="https://fonts.googleapis.com/css?family=Noto+Sans&display=swap" rel="stylesheet">
+
         <meta charset="UTF-8">
             <title>MathJax Image Automation</title>
             <style>
