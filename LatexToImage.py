@@ -35,10 +35,8 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
                     align-items: center;
                 }}
                 #math-content {{
-                    position: relative;
-                    left:20px;
-                    width: 100%;
-                    padding: 15px;
+                    
+                    padding: 10px;
                     text-align: center;
                     transform-origin: center center;
                 }}
@@ -135,7 +133,6 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
                 #math-content {{
                     
                     padding: 10px;
-                    padding-left:40px;
                     text-align: center;
                     transform-origin: center center;
                 }}
@@ -361,7 +358,7 @@ def replace_mathjax_with_images(html_content):
                 # print(str(soup))
                 # print("***********************************")
                 if (len(math_elements) == 0) :
-                    # print("check1")
+                    print("check1")
                     
                     math_elements = get_parent(soup)
                     
@@ -443,14 +440,14 @@ def replace_mathjax_with_images(html_content):
             image_url = f"{os.getcwd()}/{image_folder_path}/{uuid_str}.png"
             if get_image(attribute,elements, image_url):
                 new_img_tag = soup.new_tag("img", src=image_url)
-                # print(new_img_tag)
+                print(new_img_tag)
                 if(attribute == 'data-mathml'): 
                     element_to_replace = elements.find_all(lambda tag: tag.name == 'span' and tag.has_attr('data-mathml'))
                     element_to_replace.replace_with(new_img_tag)
                 else:
 
                     elements.replace_with(new_img_tag)
-    # print(soup.prettify())
+    print(soup.prettify())
     return str(soup)
 
 def replace_tables_with_images(html_content):

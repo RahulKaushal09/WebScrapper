@@ -25,11 +25,19 @@ import json
 # import spacy
 import random
 import openai 
+from dotenv import load_dotenv
+# Load environment variables from .env file
+load_dotenv()
 
-openai.api_key = "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"
+# Get the OpenAI API key from environment variable
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
+# Rest of the code...
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 from sentence_transformers import SentenceTransformer, util
 import logging
+import os
+from dotenv import load_dotenv
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 
