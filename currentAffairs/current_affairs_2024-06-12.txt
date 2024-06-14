@@ -1,0 +1,899 @@
+SPEAKER
+Syllabus
+Prelims & Mains – POLITY
+Context:
+As the 18th Lok Sabha prepares to meet, the TDP and JD(U), key allies of the BJP in the National Democratic Alliance (NDA), are said to be jockeying for the post of Speaker.
+Background:-
+After a pro tem or temporary Speaker administers the oath to new members, the Speaker is chosen to be the Presiding Officer of the House.
+About Speakers post
+The Speaker has a key role in parliamentary democracy. The Constitution of India provides for the offices of the Speaker and Deputy Speaker who, according to Article 93, are to be elected “as soon as may be” after the commencement of the House.
+The Speaker is elected by a simple majority in the House. The term ends with the dissolution of the House, unless the Speaker resigns or is removed from office before that.
+A motion of no-confidence can be moved against the Speaker with notice of 14 days as per Article 94 of the Constitution. Separately, the Speaker, like any other member of the House, can face disqualification.
+There are no specific qualifications for becoming Speaker, which means any member is entitled to be considered. However, the post of Speaker is distinct from other members in the House.
+The salary of the Speaker is drawn from the Consolidated Fund of India unlike for other MPs, which flow from a statute voted on by the House itself.
+Powers of the Speaker
+Conducting house: The conduct of government business is decided by the Speaker in consultation with the Leader of the House. Prior permission of the Speaker is required for members to ask a question, or to discuss any matter.
+Question and Records: The Speaker decides the admissibility of a question raised by a member, as well as how the proceedings of the House are published. The Speaker has the power to expunge, in full or in part, remarks that she may consider to be unparliamentary. Critical remarks against the ruling party may not be published if the Speaker decides to expunge them.
+Casting Vote: According to Article 100 of the Constitution, which talks about voting in the Houses, the Chairman of Rajya Sabha or Speaker of Lok Sabha, or any person acting as such, “shall not vote in the first instance, but shall have an exercise a casting vote in the case of any equality of votes”.
+No-confidence Motion: One of the most important times when a Speaker’s impartiality impacts the Opposition is when a motion of no-confidence is moved against the government.
+Disqualification of members: The Tenth Schedule or the anti-defection law, introduced to the Constitution through the Fifty-Second (Amendment) Act, 1985, gives the Speaker of the House the power to disqualify legislators who ‘defect’ from a party.
+In the landmark case Kihoto Hollohan versus Zachillhu in 1992, the Supreme Court upheld the power vested in the Speaker and said that only the final order of the Speaker will be subject to judicial review.
+In 2020, the Supreme Court had ruled that Speakers of Assemblies and Lok Sabha must decide disqualification pleas within three months except in extraordinary circumstances.
+Source:
+Indian  Express
+**********
+BIRSA MUNDA
+Prelims & Mains – HISTORY
+The Jharkhand Governor and Chief Minister recently paid tribute to tribal icon Birsa Munda on his death anniversary.
+Birsa Munda’s life and struggles are celebrated as an unparalleled example of service to the nation, and his legacy continues to inspire the ideals of patriotism and resistance against injustice.
+<img alt="" class="alignnone wp-image-193789 size-full" decoding="async" fetchpriority="high" height="240" sizes="(max-width: 358px) 100vw, 358px" src="https://iasbaba.com/wp-content/uploads/2024/06/bgd.png" srcset="https://iasbaba.com/wp-content/uploads/2024/06/bgd.png 358w, https://iasbaba.com/wp-content/uploads/2024/06/bgd-300x201.png 300w" width="358"/>
+Key Takeaways
+Birsa Munda was a folk hero and a tribal freedom fighter from the Munda tribe.
+He was born on November 15, 1875, in Ulihatu village in present-day Jharkhand.
+Role in Freedom Struggle:
+He led an Indian tribal mass movement in the Bihar and Jharkhand belts in the early 19th century against British colonisation.
+He rallied the tribals to fight against the forceful land grabbing carried out by the British government.
+Birsa Munda Revolt:
+The Birsa Munda revolt, also known as the Munda Rebellion or Ulgulan (meaning ‘The Great Tumult’), was a significant tribal uprising against British colonial rule in India.
+It took place in the late 19th century, primarily in the Munda belt of Khunti, Tamar, Sarwada, and Bandgaon regions
+In response to the introduction of the Zamindari system in tribal areas, Birsa Munda declared “Ulgulan”, or revolt, against the British and the Dikus (outsiders) in 1894.
+Religious Influence:
+He created a faith called ‘Birsait’ and propagated the principles of Hindu religion.
+Known as ‘Dharti Abba’ or the Earth Father, Birsa Munda stressed the need for the tribals to study their own religion and not forget their cultural roots.
+Legacy:
+His struggle against exploitation and discrimination against tribals led to the Chotanagpur Tenancy Act being passed in 1908.
+The act restricted the passing on of land from the tribal people to non-tribals.
+The state of Jharkhand was created on his birth anniversary in 2000.
+Death:
+He died on June 9, 1900, at the age of 25.
+Hindustan Times
+**********
+QUANTUM DATA
+Prelims & Mains – Government schemes
+A new quantum computing study claims that a recent finding in the production, storage and retrieval of “quantum data” has brought us one step closer to the quantum internet.
+The study, conducted by researchers from Imperial College London, the University of Southampton, and the Universities of Stuttgart and Wurzburg in Germany, utilized a specialized photon source to achieve this feat.
+About QUANTUM DATA
+Quantum data refers to information stored and processed using the principles of quantum mechanics.
+Unlike classical data, which is represented by binary states (0s and 1s), quantum data is represented by quantum bits or qubits.
+Qubits can exist in multiple states simultaneously due to a property called superposition, and they can be entangled with other qubits, allowing for a kind of interconnectedness and correlation that classical bits cannot achieve.
+Applications of Quantum Data:
+Cryptography: Quantum key distribution (QKD) leverages the principles of quantum mechanics to create secure communication channels that are theoretically immune to eavesdropping.
+Optimization problems: Quantum algorithms can potentially solve complex optimization problems more efficiently than classical algorithms.
+Simulating Quantum Systems: Quantum computers can simulate other quantum systems, which is useful for understanding chemical reactions, materials science, and fundamental physics.
+Live Science
+**********
+CENTRAL INFORMATION COMMISSION (CIC)
+Prelims – POLITY AND GOVERNANCE
+The Delhi High Court has recently made a significant ruling regarding the jurisdiction of the Central Information Commission (CIC) over the Members of Parliament Local Area Development Scheme (MPLADS) funds.
+The court ruled that the Central Information Commission does not have the authority to comment on the utilization of MPLADS funds by Members of Parliament.
+About CENTRAL INFORMATION COMMISSION (CIC):
+The Central Information Commission (CIC) is a statutory body in India, established under the provisions of the Right to Information Act (2005).
+It is not a constitutional body.
+It functions as the overseer for implementing the RTI Act in the organizations of the Central Government as well as Union Territories (UTs).
+Composition:
+The Central Information Commission consists of a Chief Information Commissioner and not more than ten Information Commissioners.
+They are appointed by the President on the recommendation of a committee consisting of:
+The Prime Minister as the Chairperson,
+The Leader of Opposition in the Lok Sabha, and
+A Union Cabinet Minister nominated by the Prime Minister.
+Qualifications of Members:
+The Chief Information Commissioner and the Information Commissioners should be persons of eminence in public life with wide knowledge and experience in Law, Science, and Technology, Social service, Management, Journalism, Mass media, Administration and governance.
+Tenure of Members:
+The tenure of the Chief Information Commissioner (CIC) and Information Commissioners in India has been a subject of change.
+As per the latest information, the tenure has been reduced from the earlier five years to now three years, or until they attain the age of 65 years, whichever is earlier.
+This amendment aligns with the government’s effort to reform the functioning of the CIC under the Right to Information (RTI) Act.
+It’s important to note that they are not eligible for reappointment after their tenure ends.
+Responsibility:
+The CIC acts upon complaints received from individuals who have been unable to submit requests of information to a Central or State Public Information Officer due to either the officer not having been appointed, or the respective officer refused to entertain the application under the Right to Information Act (RTI Act).
+Live Law
+**********
+INDIA MALDIVES RELATIONS
+Prelims – Current Event
+: The President of Maldives, Mohamed Muizzu, was one of seven leaders from India’s neighbourhood who attended Prime Minister Narendra Modi’s swearing-in at Rashtrapati Bhavan on June 9.
+Muizzu’s presence was significant, given the way he has positioned himself politically vis à vis India, and the crucial strategic aspect to the India-Maldives relationship.
+About INDIA MALDIVES RELATIONS
+Muizzu came to power on November 17 last year on an ‘India Out’ plank.
+The India Out campaign had begun in 2020 as the Maldives opposition’s protest against then President Ibrahim Solih’s policies that were perceived to be friendly towards New Delhi, but had soon turned into a movement against India’s alleged military presence in the archipelago, which both the Solih government and India denied.
+Muizzu demanded the withdrawal of all Indian military personnel from Maldives. Consequently, the final batch of Indian soldiers — who were stationed in the Maldives to operate and maintain two helicopters and three Dornier aircraft India had previously gifted to the country were replaced by civilians in May.
+Like his mentor, former President Abdulla Yameen Abdul Gayoom, under whose rule (2013-18) the India-Maldives relationship deteriorated severely, Muizzu has openly aligned his country with China, India’s geopolitical rival in the Indian Ocean.
+The Chinese influence in the Maldives has increased steadily over the past couple of decades.
+The island nation is part of China’s Belt and Road Initiative, which has led to an influx of Chinese money and a strengthening of the relationship between the two countries — at the expense of India.
+For India, the Maldives is a crucial ally, important to secure its maritime periphery and to keep an eye on the larger Indian Ocean region where China is making aggressive moves.
+Regardless of Muizzu’s pro-China, anti-India posturing, the Maldives cannot simply “let go” of India. It is heavily dependent on Indian imports in almost all important sectors, from food to life-saving medicines, and aircraft used in search and rescue missions.
+At a time when relations between India and the Maldives are at a low, Muizzu’s visit sends an encouraging signal. Some groundwork for a reset in the relationship has been done over the past couple of months.
+In April, India approved the highest-ever export quotas for essential commodities — eggs, potatoes, onions, sugar, rice, wheat flour and pulses, river sand and stone aggregates — to Maldives for 2024-25 under a unique bilateral mechanism that has been in effect since 1981.
+Significance of Maldives for India:
+Maldives’ proximity to the west coast of India, and its location at the hub of commercial sea lanes running through the Indian Ocean imbues it with significant strategic importance to India. The security scenario in India’s periphery in the Indian Ocean is very much linked to the maritime strength of Maldives.
+Indian Express
+**********
+UNIFIED PAYMENTS INTERFACE (UPI)
+Mains – GS 3
+: The Reserve Bank of India (RBI) has announced new rules and regulations to enhance the scope of Unified Payments Interface (UPI) payments.
+The Unified Payments Interface (UPI), used for immediate money transfers through mobile devices, has become the fastest-growing payment mode in the country. Since its launch, the volume of digital transactions in India has increased exponentially.
+Unified Payments Interface (UPI):
+It was developed by the National Payments Corporation of India (NPCI) in 2016 and built over Immediate Payment Service (IMPS) infrastructure.
+It powers multiple bank accounts into a single mobile application (of any participating bank), merging several banking features e.g., transfer of funds, etc.
+It is designed to enable peer-to-peer inter-bank transfers through a single two-click factor authentication process.
+Features of Unified Payments Interface (UPI):
+It simplifies transfers using the recipient’s UPI ID, be it a mobile number, QR code, or Virtual Payment Address, eliminating account numbers.
+Earlier, only the deposited amount could be transacted through the UPI System. But now using the credit line on UPI enables pre-sanctioned credit lines from banks via UPI.
+It eliminates the need to enter bank details or other sensitive information each time a customer initiates a transaction.
+It enhances cross-operability, enabling 24/7 transactions.
+It uses technologies like the Immediate Payment Service (IMPS) and the Aadhaar-Enabled Payment System (AEPS) to ensure that payments between accounts go smoothly.
+The users can both send and receive money offline through any compatible device that supports Near Field Communication (NFC) using UPI Lite X.
+It facilitates push (pay) and pull (receive) transactions and even works for over-the-counter or barcode payments, as well as for multiple recurring payments such as utility bills, school fees, and other subscriptions.
+UPI Tap and Pay allows NFC-enabled QR codes at merchants to complete payments, with a single tap without entering the PIN.
+Concerns/Issues/Challenges associated with UPI:
+Expanding UPI to accommodate a global user base will require adhering to data protection, financial laws, and regulations of different countries posing regulatory and compliance challenges.
+The recent Parliamentary panel’s report, titled ‘Digital Payment and Online Security Measures for Data Protection’ recently highlights that foreign entities like PhonePe and Google Pay dominate the Indian fintech sector. For example, the market share of PhonePe is 46.91% and Google Pay is 36.39% in terms of the transaction volume in October-November 2023, whereas for BHIM UPI it is 0.22%.
+UPI faces various threats by cybercriminals who may exploit vulnerabilities in the system or use social engineering techniques to gain access to sensitive information leading to financial losses.
+UPI poses a significant challenge for cross-border transactions that includes managing currency conversion and exchange rates while facilitating payments and loading money into the wallet.
+UPI remains a barrier to its widespread adoption especially among individuals with a lack of familiarity with digital payments, leading to financial fraud.
+NDTV
+**********
+Daily Practice MCQs
+Q1.) With reference to the Birsa Munda, consider the following statements:
+Which of the statements given above is/are correct?
+1 only
+2 only
+Both 1 and 2
+Neither 1 nor 2
+Q2.) With reference to the Quantum data, consider the following statements:
+Quantum data is represented by quantum bits or qubits.
+Q3.) With reference to the Central Information Commission (CIC), consider the following statements:
+The Central Information Commission is established under the provisions of the Right to Information Act 2005.
+It consists of a Chief Information Commissioner and not more than ten Information Commissioners.
+The members of the CIC are appointed by the are appointed by the President of India.
+How many of the statements given above are not correct?
+Only one
+Only two
+All three
+None
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  12th June 2024
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs.st
+**********2025 to be International Year of Quantum Science and Tech
+Why in news?
+The United Nations has said 2025 will be designated the ‘International Year of Quantum Science and Technology’.
+It said the initiative will be year-long, worldwide, and that it will be observed through activities at all levels aimed at increasing public awareness of the importance of quantum science and applications.
+What’s in today’s article?
+Process by which the United Nations declares the international year
+About
+Quantum Science and Technology is an interdisciplinary field that combines principles of quantum mechanics with practical applications.
+Quantum mechanics is the branch of physics that deals with the behavior of particles at the atomic and subatomic levels.
+Quantum Science and Technology seeks to harness these principles to develop new technologies and improve existing ones.
+Key Concepts
+Superposition
+: Particles can exist in multiple states at once until measured.
+Entanglement
+: Particles can be interconnected in such a way that the state of one instantly influences the state of another, no matter the distance.
+Quantum Computing
+: Utilizes quantum bits (qubits) which can be in superposition, enabling them to perform many calculations simultaneously.
+Quantum Cryptography
+: Uses principles of quantum mechanics to create secure communication systems.
+Applications and Usefulness:
+Quantum Computing:
+Speed and Efficiency: Quantum computers can solve complex problems much faster than classical computers.
+Optimization: Useful in fields like logistics, finance, and material science for optimizing large datasets.
+Cryptography: Capable of breaking traditional encryption methods, leading to the development of new, more secure cryptographic techniques.
+Quantum Cryptography:
+Secure Communication: Quantum Key Distribution (QKD) ensures that communication is secure from eavesdropping.
+Data Protection: Provides an unbreakable encryption method due to the principles of quantum mechanics.
+Quantum Sensing:
+Precision Measurement: Quantum sensors can measure physical quantities like time, gravity, and magnetic fields with unprecedented precision.
+Medical Imaging: Improved imaging techniques for medical diagnostics and treatments.
+Quantum Materials:
+Superconductors: Materials that conduct electricity without resistance, leading to more efficient power grids and electronic devices.
+Topological Insulators: Materials with unique properties that can be used in advanced electronic devices and quantum computers.
+Quantum Communication:
+Internet Security: Quantum networks can provide ultra-secure communication channels.
+Satellite Communication: Quantum satellites enable secure long-distance communication.
+Fundamental Research:
+Understanding the Universe: Provides insights into the fundamental nature of reality, leading to advancements in both theoretical and applied physics.
+New Technologies: Potential to develop new technologies and materials that are currently beyond our imagination.
+Other uses
+Many researchers expect functional quantum computers will have transformative effects on electronics, clean energy, and drug development, given their superior computational abilities.
+Steps taken by India to promote Quantum S&T
+The Government of India announced a
+National Quantum Mission
+in April 2023 at a cost of Rs 6,000 crore, to be implemented from 2023 to 2031 by the Department of Science & Technology (DST).
+It will have four verticals:
+quantum computing, quantum communication, quantum sensing and metrology, and quantum materials and devices
+UN has a specific process for declaring an international year. These steps include:
+Proposal Submission
+A member state, a group of member states, or a UN agency typically initiates the process by submitting a proposal for an international year.
+It does so through a relevant agency.
+For example,
+India proposed 2023 as the International Year of Millets through the FAO
+The proposal includes the theme, objectives, and relevance of the proposed international year.
+Review and Endorsement
+The proposal is reviewed by relevant UN bodies, such as the Economic and Social Council (ECOSOC) or other specialized agencies.
+They assess the proposal's feasibility, potential impact, and alignment with the UN's goals and priorities.
+Consultation and Support
+The proposal undergoes consultation with other member states, relevant UN agencies, and stakeholders to gather support and refine the proposal.
+Broad consensus and support from member states are crucial for the proposal to move forward.
+Drafting a Resolution
+Once there is sufficient support, a draft resolution is prepared.
+This resolution outlines the rationale, objectives, and activities associated with the proposed international year.
+Adoption by the General Assembly
+The draft resolution is submitted to the UN General Assembly for consideration.
+The General Assembly debates the proposal and, if there is broad support, adopts the resolution declaring the international year.
+The resolution is adopted if it receives the requisite majority vote in the General Assembly plenary session.
+The exact majority required can depend on the specific rules governing the session, but typically a simple majority is sufficient
+Implementation
+After the declaration, the UN, in collaboration with member states and relevant agencies, develops and implements a plan of action.
+This includes organizing events, campaigns, and activities to promote the theme and achieve the objectives of the international year.
+Monitoring and Reporting
+Throughout the international year, UN monitors the progress of activities and initiatives.
+At the end of the year, a report is usually prepared to evaluate the outcomes and impact of the international year.
+2025 be International Year of Quantum Science and Tech
+Proposal by Mexico:
+The current proclamation is the result of a resolution led by Mexico in May 2023 and which was soon joined by other countries.
+Proposal through relevant agency:
+By November 2023, almost 60 countries had co-sponsored the resolution and the UNESCO General Conference adopted it.
+Draft resolution in UNGA:
+In May 2024, Ghana submitted a draft resolution to the U.N. General Assembly asking for an official proclamation, with the support of over 70 other countries.
+The General Assembly acceded on June 7.
+2025 marks the centenary of German physicist Werner Heisenberg's landmark paper
+This paper reinterpreted adjustments in classical mechanics to address quantum phenomena, laying the foundation for quantum mechanics.
+Heisenberg received the Nobel Prize for Physics seven years later, around the same time he formulated the famous uncertainty principle.
+2025 to be International Year of Quantum Science and Tech.pdf
+( Size:  828.7 KB  )
+Click to View More
+**********National Litigation Policy
+Why in News?
+With an aim to reduce the burden of pending court cases in which the government is a party, the Union Ministry of Law and Justice approved the National Litigation Policy, which will now be sent to the Cabinet for approval.
+What’s in Today’s Article?
+Background of the National Litigation Policy
+About the National Litigation Policy
+Significance of the National Litigation Policy
+Background of the National Litigation Policy:
+As of now,
+roughly 50 million
+legal cases are pending at various levels of the judiciary across the country and the government is the country’s leading litigator.
+For example,
+the government is responsible for 73% of all cases admitted by the Supreme Court.
+The
+was launched in
+2010
+to make the government a more “
+responsible litigant
+”. However, the policy was
+not implemented
+In 2015,
+the NDA government revived the plan and in a reply to Lok Sabha the then-Law minister (in 2021) said the policy was under consideration.
+The long-pending policy had been a part of the BJP’s 2024 Lok Sabha election manifesto, and as his first action after taking charge of the office, the policy was approved by the Union Law Minister recently
+About the National Litigation Policy:
+It is based on the recognition that
+the government and its various agencies are the predominant litigants in courts and tribunals
+in the country.
+Its aim is to
+transform the government into an efficient and responsible litigant
+Efficient litigant means:
+A litigant who -
+Is represented by competent and sensitive legal persons.
+Focus on the core issues involved in the litigation and address them squarely.
+Manage and conduct litigation in a cohesive, coordinated and time-bound manner.
+Ensure that good cases are won and bad cases are not unnecessarily pursued.
+Responsible litigant means:
+That false pleas and technical points will not be taken and shall be discouraged.
+Ensuring that the correct facts and all relevant documents will be placed before the court.
+That nothing will be concealed from the court and there will be no attempt to mislead any court or Tribunal.
+Prioritisation in litigation
+has to be achieved with particular emphasis on welfare legislation, social reform, weaker sections.
+The policy suggests that the pending cases with the government as party to be
+reviewed on priority basis
+to enable quick disposal.
+It also proposed a
+monitoring and review mechanism
+to sensitise government in important cases and avoid delay and neglect of the same.
+Significance of the National Litigation Policy:
+The purpose underlying this policy is
+to reduce Government litigation in courts
+so that valuable court time would be spent in resolving other pending cases.
+This will help the judiciary to achieve the goal in the National Mission for Justice Delivery & Legal Reforms
+to reduce average pendency time from 15 years to 3 years.
+The policy recognises the fact that it is the responsibility of the government -
+To protect the rights of citizens, to respect fundamental rights and
+Those in charge of the conduct of government litigation should never forget this basic principle.
+After years in work, law ministry clears fresh litigation policy document.pdf
+( Size:  1.3 MB  )
+Click to View More
+Polity & Governance
+**********Nominate sufficient number of IPS officers for deputation
+Why in news?
+The Union Ministry of Home Affairs (MHA) has sent a letter to 24 States, stating that not enough Indian Police Service (IPS) officers have been nominated by the State governments for central deputation. This has caused many vacancies in the Central Armed Police Forces (CAPFs).
+The letter was sent to all States, except Himachal Pradesh, Nagaland, Tripura, Sikkim, and the eight Union Territories.
+What’s in today’s article?
+Shortage of IPS officers
+Deputation Of All India Services – Existing rule, Proposed changes
+In 2009, there were over 1,600 vacancies against a sanctioned strength of over 4,000 IPS officers.
+Since then, government has increased the size of IPS batches
+As on January 1, 2020, there were 908 vacancies against a sanctioned strength of 4,982.
+The situation has arisen due to the government’s decision to reduce the size of new IPS batches as part of its cost-cutting measures.
+From 80-90 new officers, the IPS batches were cut to 35-40 officers.
+On the other hand, an average of about 85 IPS officers retire every year.
+As on June 3, 2024, there were 129 vacancies at Superintendent of Police (SP) level, 81 vacancies for Deputy Inspector General (DIG), and 25 vacancies at the Inspector General (IG) level.
+Deputation of All India Service (AIS) Officers
+The process of Central deputation is guided by the
+rule 6 (deputation of cadre officers) of the Indian Administrative Service (Cadre) Rules 1954
+Normally, the Centre asks every year for an “offer list” of officers of the All-India Services willing to go on central deputation.
+Once the Centre gets the list, it selects officers from that list.
+Officers can go for Central deputation only after getting a no-objection clearance from the State government.
+States have to depute the All-India Services (AIS) officers, to the Central government offices and at any point, it cannot be more than 40% of the total cadre strength.
+Deputation of IPS officers
+Officers are assessed if they are suitable for central deputation by the
+Central Police Establishment Board (CPEB)
+headed by the Union Home Secretary.
+The names of officers up to the Inspector General of Police level are then sent to the Appointments Committee of the Cabinet (ACC), headed by the Prime Minister, for approval.
+Amendment to the IPS tenure policy in February 2022
+IPS officers are recruited by the Union Public Service Commission (UPSC) on behalf of the Centre, and their services are placed under various State cadres.
+In February 2022, the MHA amended the IPS tenure policy, doing away with the
+mandatory requirement of empanelment
+of IPS officers at the Deputy Inspector General (DIG) level by CPEB.
+It said that officers with minimum 14-years of experience will be eligible for appointment at the level of DIG by the Centre.
+Proposed Changes
+January 2022 Proposal
+In January 2022, Centre proposed to amend the Rule 6 of the Indian Administrative Service (Cadre) Rules 1954.
+Under the proposed amendment, the Central Government will acquire for itself overriding powers to transfer IAS and IPS officers through Central deputation.
+Under the proposed amendment the officer shall stand relieved from cadre from the date as may be specified by the Central government if:
+the State government delays posting a State cadre officer to the Centre and
+does not give effect to the Central government’s decision within the specified time.
+Also, the Centre will decide the actual number of officers to be deputed to the Central government in consultation with the State.
+States should make eligible the names of such officers.
+In case of any disagreement between the Centre and the State, the matter shall be decided by the Central government.
+The State shall give effect to the decision of the Centre.
+April 2022 proposal
+In April 2022, MHA sent a proposal to the Prime Minister’s Office (PMO) to address the shortage of officers at the SP and DIG levels at the Centre.
+As per this proposal, an Indian Police Service (IPS) officer will have to come on Central deputation at the Superintendent of Police (SP) or Deputy Inspector General (DIG) level.
+Otherwise,
+he/she may be barred from Central posting for the rest of his/ her career.
+Rationale behind April 2022 proposal
+The existing rules state that if an IPS officer does not spend three years on Central deputation till the Inspector General (IG) level, he/she will not be empanelled for central deputation.
+Due to the existing rules,
+most IPS officers come on central deputation only at the IG level
+, leading to severe shortage at the SP and DIG levels.
+There are over 50 per cent vacancies at both these levels in the different Central Armed Police Forces and Central Police Organisations.
+Hence, this proposal is seen as an attempt to address the shortage of officers at the SP and DIG levels at the Centre.
+Nominate sufficient number of IPS officers for deputation.pdf
+( Size:  880.0 KB  )
+Click to View More
+Polity & Governance
+**********Visa Norms for Chinese Nationals
+What’s in Today’s Article?
+Background (Context of the Article)
+Role of Chinese Machinery and Technicians (Domestic Industry’s Dependency, Visa Norms, etc.)
+Background:
+Two Union ministries, Electronics and Information Technology, and Commerce and Industry, are advocating for relaxed visa regulations for Chinese technicians.
+This is due to the rising concerns from the domestic industry about unfulfilled export orders due to visa delays for Chinese technicians.
+The problem was highlighted in several forums, including the
+Board of Trade
+(BOT) meeting in January.
+The BOT advises the Commerce and Industry Ministry, with annual meetings attended by central and state government officials, major trade and industry bodies, Export Promotion Councils, and industry associations.
+The Department for Promotion of Industry and Internal Trade and the Ministry of Electronics and Information Technology (MeitY) have reportedly communicated their requests to the Ministry of External Affairs (MEA).
+Although the
+domestic industry has imported and installed Chinese machinery, it cannot operationalize the plants due to visa issues
+This issue arose after the Galwan clash in 2020.
+Since then, efforts to send Indian professionals to China have been ineffective, as
+Chinese authorities quickly approve visas for importers but delay those for Indian manufacturers and government officials
+Domestic Industry’s Dependency on Chinese Machinery:
+The productivity of Chinese professionals is of high quality. They can help produce 150 items with the same resources that currently produce 100.
+The Chinese technicians usually stay in India only for a year, share the expertise and then return and this is in the interest of our manufacturing.
+The domestic industry relies on Chinese professionals because of its significant dependence on China for crucial components in most electrical and electronic segments.
+Official data indicates that
+out of the nearly $100 billion worth of imports from China, around 60% comprised engineering and electronic items
+, which are essential for fulfilling India’s export orders.
+However, due the strained geopolitical relationship with China, India has implemented strict quality norms to reduce Chinese imports of mass consumption items and intermediate products.
+Simultaneously, India is promoting domestic manufacturing through the Production Linked Incentive Scheme (PLI) in strategic areas.
+How Visa Norms Are Different for Chinese Nationals?
+India allows foreign nationals to enter for business activities under ‘
+Employment
+’ and ‘
+Business
+’ visa categories.
+Employment visas are granted for one year at a time
+to skilled professionals, while
+business visas are valid for five years
+for those setting up ventures in India.
+for Chinese nationals, only single-entry tourist and business visas valid for up to three months are issued, with other visa types requiring prior clearance
+Additionally, employment visas are not granted for jobs that qualified Indians can perform.
+Industry sources noted that while the government permits limited entry of Chinese professionals under Production Linked Incentive (PLI) schemes,
+many manufacturers are forced to relocate operations to countries like Bangladesh, where there are no such restrictions
+FDI Restrictions on China:
+Following the Galwan clash in 2020, the Indian government implemented measures to reduce Chinese influence on its economy.
+A significant change was made to the Foreign Direct Investment (FDI) policy, which
+mandated that investments from countries sharing land borders with India be approved through the government route
+Official data shows that,
+since the modification in April 2020, India had approved only about a quarter of the 435 FDI applications from China by June of the previous year
+Despite this, China's contribution to India's total FDI equity inflows is minimal.
+From April 2000 to December 2021, China ranked 20th, with a mere 0.43% share, amounting to $2.45 billion, of the total FDI equity inflow into India.
+Domestic Industry’s Request to the Union Government:
+Industry representatives have indicated that visa approval delays are negatively impacting the manufacturing sector, including the leather industry, which is increasingly shifting to sports footwear.
+Industry members have requested MeitY and the Commerce Ministry to allow Chinese professionals only for specific companies importing their products.
+The industry acknowledges the government’s concerns. Hence, it wants
+short-term visas for the Chinese technicians to help the commissioning of the plant and is willing to take safeguards as per regulations
+Production stalled, MeitY and Commerce want visa norms for Chinese eased.pdf
+( Size:  279.0 KB  )
+Click to View More
+Economics
+**********The social sciences, a shelter for the ‘excluded’ student
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Causes of Exclusion in Higher Education
+Why in the news?
+Persistent exclusion results in some disciplines becoming a last resort for many students with social sciences increasingly becoming a significant reservoir of the excluded in India.
+Causes of Exclusion in Higher Education:
+Excessive Competition:
+Premier institutions have stringent filtering mechanisms due to high demand, which results in significant exclusion of students.
+Financial Factors:
+Private institutions often have high fees not regulated by statutory norms, and public institutions, facing reduced government funding, also increase fees, making education inaccessible for many.
+Subject and Course Availability:
+There is a regional disparity in the availability of courses. Certain regions offer generic courses with outdated syllabi, limiting students’ choices and leading to exclusion.
+Surge of Empirical Orientation:
+Employability Perception:
+Courses with empirical and practical applications, like economics, are perceived to offer better employment opportunities compared to more theoretical courses like anthropology or sociology.
+Policy Intervention Skills:
+There is a growing expectation for social science students to develop problem-solving skills similar to those of engineering students, which narrows the focus within social sciences.
+Private Universities:
+The emergence of private universities catering to the affluent has led to a demand for courses that are less popular in public institutions, creating a dichotomy in course preference and quality.
+Improving Quality of Higher Education:
+Expand Quantity and Improve Quality:
+Increase the number of seats to accommodate excluded students and ensure concerted efforts towards enhancing the quality of education like entry based on competitive exams.
+Enhance Teaching Quality:
+Prioritize the improvement of teaching methods and the content of courses to make education more relevant and effective for example reviewing and taking feedback on learning experiences from students.
+Address Financial Exclusion:
+Implement measures to reduce financial barriers and prevent the widening of educational inequalities, ensuring that quality education is accessible to a broader demographic. For example, the Government can provide loans or scholarships.
+Update Course Content:
+Regularly revise and update the syllabi to keep pace with societal changes and technological advancements, such as generative artificial intelligence.
+Focus on Inclusivity:
+Ensure that policies and interventions in higher education focus on inclusivity, addressing the needs of diverse student populations and reducing regional disparities in course offerings.
+Steps taken by Government
+All India Council for Technical Education (AICTE) Initiatives:
+The AICTE has undertaken various initiatives to enhance the quality of technical education, such as the establishment of Deen Dayal Upadhyay KAUSHAL Kendras and the introduction of B.Voc degree programs.
+University Grants Commission (UGC) Regulations:
+The UGC has notified regulations to improve the quality of higher education, including those related to recognition, accreditation, minimum qualifications for teachers, curbing ragging, and grievance redressal.
+Scholarship and Fellowship Schemes:
+The UGC has launched various scholarship and fellowship schemes, such as the PG Doctoral Fellowship for SC/ST students, to promote inclusion and equity in higher education.
+Conclusion:
+Efforts to enhance higher education, including expanding access, improving quality, and addressing financial barriers, are crucial for fostering inclusivity and equipping students for India’s future.
+Mains PYQ:
+The quality of higher education in India requires major improvement to make it internationally competitive. Do you think that the entry of foreign educational institutions would help improve the quality of technical and higher education in the country Discuss.
+(UPSC IAS/2015)
+**********Arrest, agencies, and criminal courts
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Grounds of Arrest
+Why in the news?
+In May 2024, the Supreme Court clearly stated its stance in two important rulings that affect the rights of individuals accused of crimes.
+About Supreme Court’s Decision on Detention:
+Custody Not Necessary Before Charge Sheet:
+The Supreme Court ruled that the custody of an accused is not mandatory before filing a charge sheet in certain criminal cases.
+Relief for Investigating Agencies:
+This decision, if adhered to by lower courts, could alleviate pressures on investigating agencies.
+Filing of Charge Sheet:
+Siddharth v. State of Uttar Pradesh and Another (2021)
+Non-obligatory Arrest:
+Section 170 of the CrPC does not require investigating officers (IOs) to arrest every accused at the time of filing the charge sheet.
+Acceptance of Charge Sheet:
+Courts cannot refuse to accept charge sheets solely because the accused is not in custody if the accused has been cooperating and is unlikely to abscond.
+Practical Issues:
+Despite the ruling, IOs face challenges in filing charge sheets due to court practices and logistical constraints, such as the absence of all accused or arbitrary limits on the number of charge sheets accepted daily.
+Grounds of Arrest:
+1.  Pankaj Bansal v. Union of India and Others (2023):
+Written Notification Required:
+Grounds of arrest must be provided in writing to the accused to comply with constitutional and statutory mandates, specifically under Section 19(1) of the PMLA.
+2. Prabir Purkayastha v. State (NCT of Delhi):
+Application to UAPA:
+The requirement for written grounds of arrest under PMLA applies equally under UAPA.
+Formal vs. Personal Grounds:
+Differentiates between formal reasons for arrest and personal grounds, necessitating detailed written reasons for arrest.
+3. Criminal Procedure Code (CrPC):
+Section 50(1) Compliance:
+Requires that every police officer inform the arrested person of the full particulars of the offence and grounds of arrest.
+Arrest Memo:
+While arrest memos detail charges and are signed by the IO and the accused, there is no legal requirement to provide a copy to the accused.
+Recommendation for Amendment:
+To comply with constitutional rights, it is suggested to amend the law to provide a copy of the arrest memo to the accused, enhancing transparency and legal support.
+Conclusion:
+The Supreme Court’s decisions regarding the necessity of detention before charge sheet filing and the requirements for informing an accused of the grounds of arrest, highlight the implications for legal and procedural practices in India.
+Mains PYQ:
+Human right activists constantly highlight the fact that the Armed forces (Special Powers) Act, 1958 (AFSPA) is a draconian act leading to cases of human right abuses by security forces. What sections of AFSPA are opposed by the activists. Critically evaluate the requirement with reference to the view held by Apex Court.
+(UPSC IAS/2015)
+**********Bihar’s call for special category status | Explained
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Specific criteria qualify a State for special category status
+Mains level:
+Special category status benefits to States like Bihar
+Why in the news?
+Bihar Chief Minister Nitish Kumar has renewed the State’s persistent call for special category status from the Centre, which would boost the State’s share of tax revenues from the Central government.
+How does special category status benefit to States like Bihar?
+Increased Central Funds:
+States with special category status receive a higher share of central funds for government schemes, typically 90% from the Centre, compared to 60%-80% for other states.
+Tax-Related Concessions:
+These states enjoy various tax concessions that can attract investments and boost economic development.
+Financial Aid for Development:
+The additional funds can be used to address developmental gaps, improve infrastructure, and support welfare programs.
+What specific criteria qualify a State for special category status?
+Geographic Disadvantages:
+States with challenging terrains such as hilly or difficult terrain.
+Low Population Density or High Tribal Population:
+States with a considerable proportion of tribal population or low population density.
+Economic and Social Backwardness:
+States that are economically and socially disadvantaged.
+Strategic Location
+: States that share international borders or have strategic significance.
+Why has Bihar’s demand been a long-standing issue?
+Economic Backwardness:
+Bihar has one of the lowest per capita incomes in India and lags behind in several human development indicators.
+Fiscal Challenges:
+The bifurcation of the state leading to the formation of Jharkhand, frequent natural disasters, and insufficient water resources for irrigation have adversely affected Bihar’s fiscal situation.
+Political Reiteration:
+Successive Bihar governments have continuously demanded special status to help the state’s development.
+What are the political implications of granting special status to Bihar?
+Increased Bargaining Power:
+Granting special status could enhance Bihar’s political leverage with the central government, especially in coalition politics.
+Precedent for Other States:
+Granting special status to Bihar could lead to similar demands from other states, potentially creating financial burdens for the Centre.
+Electoral Promises and Alliances:
+Political parties may use the promise of special status as an electoral tool to gain or maintain power, as seen with the Congress party’s manifesto promise in 2024.
+Centre-State Relations:
+The decision could impact the dynamics of centre-state financial relations and influence the federal structure of revenue distribution in India.
+Conclusion:
+The Central government should establish a transparent and well-defined framework for granting special category status, taking into account various economic, geographic, and social parameters. This framework should be periodically reviewed to ensure it remains relevant and fair to all states.
+Mains PYQ:
+To what extent is Article 370 of the Indian Constitution, bearing marginal note “Temporary provision with respect to the State of Jammu and Kashmir”, temporary? Discuss the future prospects of this provision in the context of Indian polity.
+(UPSC IAS/2016)
+**********Expert Explains: What European Parliament election results signify, with the rise of right-wing parties
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Impacts of election result
+Why in the news?
+The outcomes of the June 6-9 European Parliament elections, where approximately 51% of over 370 million eligible voters across 27 EU nations participated, indicated an increase in support for right-wing and far-right parties, resulting in losses for predominantly left-leaning and liberal parties.
+What is the European Parliament?
+The European Parliament is one of the core institutions of the European Union (EU), where Members of the European Parliament (MEPs) are directly elected by citizens of the 27 member states.
+It provides democratic legitimacy to EU activities and consists of 720 seats allocated based on degressive proportionality, meaning smaller states elect more MEPs than their populations would warrant.
+Functions of the European Parliament:
+The Parliament has three main functions: adopting and amending EU legislation along with the Council of the EU, supervising the functioning of other EU institutions (especially the European Commission), and sharing authority over the EU budget with the Council.
+It also ratifies international agreements and plays a crucial role in shaping the EU’s direction on various issues such as climate change, migration, and international relations.
+Major Players in the New European Parliament:
+MEPs are affiliated with Europe-wide political groups based on commonalities in ideology. Major groups include the European People’s Party (EPP), Progressive Alliance of Socialists and Democrats (S&D), Renew Europe, Greens/European Free Alliance (Greens/EFA), European Conservatives and Reformists (ECR), Identity and Democracy (ID), and the Left Group (GUE/NGL).
+The EPP and S&D have traditionally been the two major groups, but the Parliament has become more fragmented over time, leading to issue-based coalitions.
+In the latest elections, the EPP emerged as the largest group, but right-wing and far-right parties made significant gains.
+Impact on EU’s Position on Hot-Button Issues like Immigration:
+The European Parliament reflects broader political trends across Europe, with right-wing parties gaining traction from issues such as increased immigration, national identity, and scepticism towards certain EU policies.
+This shift towards the Right has pressured many centre-right parties to adopt harder positions on immigration, likely leading to increased support for tighter border controls and stricter immigration and asylum rules.
+Impacts of election result:
+The election results may influence the EU’s direction on key issues like climate change, migration, and international relations.
+The rise of right-wing and far-right parties could lead to shifts in policy priorities and a more conservative stance on certain issues.
+In national politics, the results may impact the stability of governments and the position of leaders like Emmanuel Macron, who called for snap polls in response to his party’s poor performance in the European elections.
+Conclusion:
+The European Parliament election results signal a rise in right-wing parties, impacting EU policies on immigration and other key issues. National politics may also face repercussions, affecting leadership stability.
+Mains PYQ:
+Critically examine the procedures through which the Presidents of India and France are elected.(
+UPSC IAS/2022)
+**********What are the functions of Cabinet Ministers and Ministers of State?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+India’s ministerial portfolio system and its features
+Why in the News?
+President Droupadi Murmu administered oaths to the Central Council of Ministers (CoM) of the new NDA government, comprising a larger team compared to the previous term.
+The Council includes 30 cabinet ministers, five Ministers of State (Independent Charge), and 36 Ministers of State, with the Prime Minister leading the team.
+About Central Council of Ministers
+The Central CoM is a crucial part of India’s governance system.
+Members:
+It consists of the Prime Minister (Head), Cabinet Ministers, Ministers of State, and Deputy Ministers.
+History:
+Portfolio System:
+The system of the CoM finds its roots in the
+Indian Councils Act of 1861
+, introduced by
+Lord Canning
+going parallel with the British Parliamentary System.
+Constitutional Provisions
+Articles 74 to 78 in
+Part V
+of the Indian Constitution broadly deal with the Central Council of Ministers.
+Union Executive:
+The Union Executive encompasses the President, Vice-President, Prime Minister, Union Council of Ministers, and Attorney General of India, collectively responsible for the country’s administration.
+Role of the Prime Minister
+The Prime Minister is the head of the Central Council of Ministers, exercising executive authority and decision-making powers on key policy issues and unallocated portfolios.
+Responsibilities:
+Prime Minister Modi oversees critical ministries such as Personnel, Public Grievances, Pensions, Department of Atomic Energy, and Department of Space, while also leading government bodies like the Cabinet Secretariat and NITI Aayog.
+Functions and Duties of CoM
+1. Policy Formulation and Implementation:
+Formulating Policies
+: The Council of Ministers, particularly the Cabinet, is tasked with formulating policies crucial for the nation’s development and welfare.
+Policy Coordination
+: It ensures coordination among various government departments and agencies for effective policy implementation.
+2. Executive Functions:
+Real Executive Authority
+: The Council of Ministers acts as the real executive authority, exercising executive powers on behalf of the President.
+Administration
+: It oversees the day-to-day administration of the country, ensuring the smooth functioning of government affairs.
+Emergency Powers
+: During emergencies, the Council of Ministers advises the President on the exercise of emergency powers and crisis management.
+3. Legislative Functions:
+Bills and Legislation
+: Ministers actively participate in the legislative process by introducing bills, piloting them through Parliament, and ensuring their passage.
+Policy Advocacy
+: They advocate for government policies and bills in Parliament, engaging in debates and discussions to garner support.
+Budgetary Process
+: The Council of Ministers prepares and presents the annual budget, guiding fiscal policies and financial allocations.
+4. Financial Management:
+Budget Preparation
+: It plays a significant role in preparing the national budget, and outlining revenue and expenditure plans for the fiscal year.
+Financial Administration
+: The Council oversees financial administration, ensuring compliance with budgetary provisions and efficient resource utilization.
+Taxation and Fiscal Policy
+: Ministers propose taxation measures and formulate fiscal policies to promote economic growth and stability.
+Who are the Cabinet Ministers?
+The Cabinet Ministers are
+senior members
+of the Central Council of Ministers who head key government departments or ministries.
+Typically, Cabinet Ministers are appointed by the Prime Minister and are part of the Cabinet, which is the
+core decision-making body
+in the government.
+Each Cabinet Minister typically manages a
+specific portfolio
+aligned with the government’s priorities and responsibilities.
+Examples:
+Minister of Finance, Minister of Home Affairs, Minister of Defence, Minister of External Affairs, Minister of Health, Minister of Education, and others.
+The term ‘Cabinet’ was inserted in
+Art. 352 of the Constitution
+44th Amendment Act 1978
+It did not find a place in the
+original text
+Ministers of State (Independent Charge) and Ministers of State:
+Have independent portfolios
+Assist Cabinet Ministers
+Reporting Structure
+Directly report to PM/President
+Report to and assist Cabinet Ministers
+Accountability
+Fully responsible for their departments
+Assist Cabinet Ministers in tasks
+Protocol Status
+Equivalent to Cabinet Ministers in status
+Lower protocol status
+Attendance in Cabinet Meetings
+May attend if their portfolios are discussed
+Not regular attendees
+PYQ:
+[2013]
+Consider the following statements:
+The Council of Ministers in the Centre shall be collectively responsible to the Parliament.
+The Union Ministers shall hold the office at the pleasure of the President of India.
+The Prime Minister shall communicate to the President about the proposals for legislation.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+[2007]
+Assertion (A): The Council of Ministers in the Union of India is collectively responsible both to the Lok Sabha and Rajya Sabha.
+Reason (R): The Members of both the Lok Sabha and the Rajya Sabha are eligible to be the Ministers of the Union Government.
+Choose the correct Code:
+(a) Both A are R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+**********2025 to be International Year of Quantum Science and Technology
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Quantum Theory and related Researches, National Quantum Mission (NQM)
+Why in the News?
+United Nations has designated 2025
+as the ‘International Year of Quantum Science and Technology’
+to increase public awareness
+about the significance of quantum science and its applications.
+This initiative,
+led by Mexico
+supported by nearly 60 countries
+, aims to promote activities at all levels to highlight the importance of quantum science and technology worldwide.
+International Year of Quantum S&T
+Growing Relevance:
+Quantum science and technologies, especially quantum computing, have gained prominence in public discourse due to their potential transformative impact on various fields.
+Anniversary of Heisenberg’s Work:
+The proclamation coincides with the upcoming centenary of Werner Heisenberg’s groundbreaking paper on quantum mechanics, published in 1925.
+Support from International Bodies:
+The proclamation has received endorsements from various international organisations, including the International Union of Pure and Applied Physics and the International Union of Pure and Applied Chemistry.
+What does one mean by Quantum?
+“Quantum” refers to the smallest discrete unit of any physical quantity involved in an interaction according to quantum theory.
+In classical physics, many properties, such as energy and momentum, are thought to be continuous and infinitely divisible.
+However, in quantum mechanics, certain properties, like energy levels and the behaviour of particles, are quantised, meaning they can only exist in specific discrete amounts or levels.
+What is Quantum Theory?
+Quantum theory is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles.
+Quantum mechanics differs from classical physics in that energy, momentum, and angular momentum.
+Development in Quantum Theory So Far
+Planck’s assumption:
+In 1900, Planck made the assumption that energy was made of individual units or quanta.
+Albert Einstein’s theory
+: In 1905, Albert Einstein theorized that not just the energy, but the radiation itself was quantized in the same manner.
+Louis de Broglie theory:
+In 1924, Louis de Broglie proposed that there is no fundamental difference in the makeup and behaviour of energy and matter; on the atomic and subatomic level either may behave as if made of either particles or waves. This theory became known as the principle of wave-particle duality: elementary particles of both energy and matter behave, depending on the conditions, like either particles or waves
+wave-particle duality).
+Heisenberg proposed:
+In 1927, Werner Heisenberg proposed that precise, simultaneous measurement of two complementary values – such as the position and momentum of a subatomic particle – is impossible. Contrary to the principles of classical physics, their simultaneous measurement is inescapably flawed; the more precisely one value is measured, the more flawed will be the measurement of the other value. This theory became known as the
+uncertainty principle
+, which prompted Albert Einstein’s famous comment, “God does not play dice.”
+What is Entanglement?
+Entanglement was another of several weird properties exhibited by these tiny particles.
+Two particles, having ‘interacted’ with each other at some stage, were found to have got ‘entangled’ in a way that the behaviour of one produced an instantaneous reaction in the othe
+even if the two were no longer connected in any way and were separated by very large distances.
+The entanglement property opened up new technological possibilities first time that it was possible to ‘teleport’ the quantum states of a particle to another location without the particle moving anywhere and without a medium.
+What is Superposition?
+It’s a phenomenon where, a particle exists simultaneously at multiple locations, known as superposition.
+The chance of finding the particle at any given place was dictated by probabilistic calculations, and once it was found, or observed, at one location, it ceased to exist at all other places.
+What is Quantum Computing?
+Quantum computing is a new and super powerful way of doing computer stuff.
+Instead of using regular computer bits that are either 0 or 1, quantum computers use special bits called qubits that can be both 0 and 1 at the same time, thanks to a thing called “quantum superposition.”
+This allows them to do lots of calculations all at once, making them really fast at solving certain types of problems.
+Back2Basics: National Quantum Mission (NQM)
+Details
+Mission Duration
+2023-2031
+Implementing Authority
+Department of Science and Technology (DST) under the Ministry of Science & Technology
+India’s Position
+Seventh country to have a dedicated quantum mission after the US, Austria, Finland, France, Canada, and China
+Focus Areas
+Intermediate-scale quantum computers with 50-100 physical qubits in 5 years and 50-1000 physical qubits in 8 years
+Quantum computation, Quantum communication, Quantum Sensing & Metrology, Quantum Materials & Devices
+High-sensitivity magnetometers for precision timing, communications, and navigation
+Satellite-based secure quantum communications within India and with other countries
+Design and synthesis of quantum materials like superconductors, novel semiconductor structures, and topological materials
+Thematic Hubs Establishment
+Four Thematic Hubs (T-Hubs) would be set up in top academic and National R&D institutes on the domains of Quantum Technology:
+PYQ:
+[2022]
+Which one of the following is the context in which the term “Qubit” is mentioned?
+(a) Cloud Services
+(b) Quantum Computing
+(c) Visible Light Communication Technologies
+(d) Wireless Communication Technologies
+**********How SpaceX’s Starship can revolutionise space travel and exploration?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Starship space vehicle and its features
+Why in the News?
+Starship rocket
+completed its
+first fully successful test flight
+. This test flight brings SpaceX closer to its goal of creating a
+fully reusable rocket system
+, a development that could revolutionize space exploration and travel.
+What is Starship?
+Starship is a
+two-stage heavy lift-off vehicle
+designed for crew and cargo transport to Earth orbit, the Moon, Mars, and beyond.
+It stands nearly
+120 meters tall
+, surpassing the Saturn V rocket.
+The
+Super Heavy booster
+is powered by
+33 Raptor engines
+, generating significant thrust, surpassing existing rocket systems like NASA’s Space Launch System (SLS).
+fuel
+uses a mix of
+liquid oxygen and liquid methane
+, enabling efficient propulsion for the rocket.
+Cost Reduction and Efficiency with Starship
+Starship can carry up to
+150 tonnes of payload
+to low-Earth orbit.
+It can be
+refuelled in space
+, thereby promising a significant reduction in the cost of space travel.
+In-orbit refuelling allows Starship to
+operate like an aeroplane
+, reducing downtime between missions and maximizing efficiency.
+Starship’s
+fully reusable design
+minimizes the need for costly hardware replacement, unlike traditional rocket systems.
+Scientific Benefits of Starship
+Enhanced Payload Capability:
+Starship’s capacity for heavy payloads enables the launch of larger space telescopes and equipment for lunar and Martian missions.
+Exploration Potential:
+Scientists can deploy larger and more sophisticated instruments, such as drilling rigs, to explore the Moon and Mars in unprecedented detail.
+Sample Return Missions:
+Starship’s capability to return to Earth facilitates the retrieval of valuable samples from other planets, aiding in scientific research and understanding.
+PYQ:
+[2018]
+With reference to India’s satellite launch vehicles, consider the following statements:
+PSLVs launch satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.
+Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.
+GSLV Mk III is a four-stage launch vehicle with the first and third stages using solid rocket motors, and the second and fourth stages using liquid rocket engines.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3
+(c) 1 and 2
+(d) 3 only
+**********Portable Optical Atomic Clock for accurate timekeeping at Sea
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Optical Atomic Clock and Classical Atomic Clock; Difference between them.
+Why in the News?
+Atomic clocks power GPS systems
+, guiding us in navigation, emergencies, and military operations.
+Scientists are developing optical atomic clocks to enhance timekeeping accuracy for Navies.
+What are Atomic Clocks?
+Atomic clocks are accurate timekeeping devices that
+use the vibrations of atoms
+as a precise measure of time.
+They rely on the natural oscillations of atoms, usually
+Caesium
+Rubidium
+atoms, which are extremely stable and predictable.
+This stability allows atomic clocks to keep time with extraordinary accuracy,
+often losing or gaining less than a second over millions of years
+However they are big, need a lot of power, and are expensive, so they’re mostly used in big research places.
+Working Principle:
+Use of Stable Atoms:
+Atomic clocks use stable atoms like Cs-133 to keep time really accurate.
+Atom Energy Levels:
+Atoms have energy levels like steps on a ladder, and they move between these levels when they’re excited.
+Creating Resonance:
+Cesium atomic clocks make caesium atoms vibrate by using
+microwave radiation
+at a certain frequency.
+Defining Time:
+One second is how long it takes for caesium atoms to vibrate a certain number of times, which sets the standard for time.
+Accuracy Control:
+Atomic clocks keep themselves accurate by constantly adjusting to make sure they’re vibrating at the right rate.
+Portable Optical Atomic Clocks for Maritime Use
+New portable optical atomic clocks for ships are more accurate and durable, making them suitable for use at sea.
+These clocks are the best at sea, which is a big deal for keeping time on ships.
+How Optical Atomic Clocks Are Different?
+Use of Laser:
+Optical atomic clocks are even more accurate because
+they use lasers
+instead of microwaves.
+Operating Frequency:
+They work at
+higher frequencies
+, which means they can measure smaller time intervals more precisely.
+Narrow Linewidths:
+Optical atomic clocks are really stable because they have a
+narrow range of frequencies
+, which helps them stay accurate.
+Testing and Applications of Portable Optical Atomic Clocks
+Initial Testing:
+Scientists tested the new clocks and found they were really stable and accurate, which is a big deal for keeping time.
+Comparative Performance:
+These new clocks worked better than old ones, showing they could change how we keep time.
+Sea Trials:
+Tests at sea showed the clocks worked well even on a moving ship, proving they could be used for navigation and other important tasks.
+Do you know?
+Three rubidium atomic clocks and six hydrogen maser clocks onboard the Indian Regional Navigation Satellite System (IRNSS) had failed.
+The failed satellite, IRNSS-1A, is still being used for messaging activities, and the data from other operational satellites will be used to maintain the system’s functionality.
+PYQ:
+[2018]
+Why is Indian Regional Navigational Satellite System (IRNSS) needed? How does it help in navigation?
+With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements:
+IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.
+IRNSS covers entire India and about 5500 sq. km beyond its borders.
+India will have its own satellite navigation system with full global coverage by the middle of 2019.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) None
+**********

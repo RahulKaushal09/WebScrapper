@@ -47,7 +47,7 @@ def get_image(mathjax, uuid_image_path,mjx_container):
             <title>MathJax Image Automation</title>
             <style>
                 body, html {{
-                    margin: 15px;
+                    margin: 5px;
                     padding: 5px;
                     overflow: hidden;
                     height: 100%;
@@ -57,7 +57,7 @@ def get_image(mathjax, uuid_image_path,mjx_container):
                 }}
                 #math-content {{
                     
-                    padding: 10px;
+                    padding: 2px;
                     text-align: center;
                     transform-origin: center center;
                 }}

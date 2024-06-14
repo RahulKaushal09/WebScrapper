@@ -19,6 +19,10 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
     # Prepare the HTML content with the provided MathJax string
     if(mathjax_container =='math-tex'):
         print('yes')
+        # scripts updated on 06/06/24 for link to test , previous was excel to test
+        #     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        #         <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js" integrity="sha256-4
+        # <script>
         html_text = f'''
         <!DOCTYPE html>
         <html>
@@ -26,7 +30,7 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
             <title>MathJax Image Automation</title>
             <style>
                 body, html {{
-                    margin: 10px;
+                    margin: 5px;
                     padding: 5px;
                     overflow: hidden;
                     height: 100%;
@@ -36,21 +40,24 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
                 }}
                 #math-content {{
                     
-                    padding: 10px;
+                    padding: 2px;
                     text-align: center;
                     transform-origin: center center;
                 }}
             </style>
+            <link href="https://fonts.googleapis.com/css?family=Noto+Sans&display=swap" rel="stylesheet">
+
         </head>
         <body>
             <div id="math-content">
                 {mathjax}
             </div>
         </body>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js" integrity="sha256-4
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+            <script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
 
-    <script>
 
                 window.onload = function() {{
                     
@@ -121,7 +128,7 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
             <title>MathJax Image Automation</title>
             <style>
                 body, html {{
-                    margin: 10px;
+                    margin: 5px;
                     padding: 5px;
                     overflow: hidden;
                     height: 100%;
@@ -132,7 +139,7 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
                 }}
                 #math-content {{
                     
-                    padding: 10px;
+                    padding: 2px;
                     text-align: center;
                     transform-origin: center center;
                 }}
@@ -152,11 +159,12 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
                 window.onload = function() {{
                     
                     document.getElementById('math-content').style.height =
-                        document.querySelector('.MathJax').getBoundingClientRect().height+65 + 'px';
+                        document.querySelector('.MathJax').getBoundingClientRect().height+35 + 'px';
                 }};
             </script>
         </html>
         '''
+        # height was 65 phele
         # print("******************************")
         # print(html_text)
         # print("******************************")
@@ -214,7 +222,7 @@ def get_table_image(table_container, uuid_image_path):
         <style>
         
             body, html {{
-                margin: 10px;
+                margin: 5px;
                 padding: 5px;
                 overflow: hidden;
                 height: 100%;
@@ -224,7 +232,7 @@ def get_table_image(table_container, uuid_image_path):
             }}
             #math-content {{
                 
-                padding: 10px;
+                padding: 2px;
                 text-align: center;
                 transform-origin: center center;
             }}
@@ -358,7 +366,7 @@ def replace_mathjax_with_images(html_content):
                 # print(str(soup))
                 # print("***********************************")
                 if (len(math_elements) == 0) :
-                    print("check1")
+                    # print("check1")
                     
                     math_elements = get_parent(soup)
                     

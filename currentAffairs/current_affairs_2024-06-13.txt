@@ -1,0 +1,902 @@
+HIGH SEAS BIODIVERSITY TREATY
+Syllabus
+Prelims – ENVIRONMENT
+Context:
+Grethel Aguilar, the director general of the International Union for Conservation of Nature (IUCN), urged countries worldwide “to strive for a fully functional High Seas Biodiversity Treaty”.
+Background:-
+The high seas are those areas of the world’s oceans that are outside national jurisdictions. They constitute a huge chunk of the world’s oceans and are home to a wide variety of biodiversity.
+About HIGH SEAS BIODIVERSITY TREATY
+The United Nations agreement on biodiversity beyond national jurisdiction or BBNJ Agreement, also referred to by some stakeholders as the High Seas Treaty or Global Ocean Treaty, is a legally binding instrument for the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction.
+It is an agreement under the United Nations Convention on the Law of the Sea (UNCLOS). The text was finalised during an intergovernmental conference at the UN on 4 March 2023 and adopted on 19 June 2023
+Here are some key points about the treaty:
+Protection Beyond Borders: While countries are responsible for the conservation and sustainable use of waterways under their national jurisdiction, the high seas now have added protection from such destructive trends as pollution and unsustainable fishing activities.
+Cleaner Oceans: The treaty aims at strengthening resilience and contains provisions based on the polluter-pays principle as well as mechanisms for disputes. It addresses the issue of toxic chemicals and plastic waste flooding into coastal ecosystems.
+Sustainable Management of Fish Stocks: More than one third of global fish stocks are over-exploited, according to the UN. The treaty underlines the importance of capacity building and the transfer of marine technology.
+Legal Framework: The treaty provides a legal framework for addressing various stressors affecting the marine environment in the high seas.
+Addressing Planetary Crisis: The treaty is crucial for addressing the triple planetary crisis of climate change, biodiversity loss, and pollution.
+The treaty recognizes traditional knowledge. It has articles regarding the “polluter-pays” principle, and different impacts of human activities including areas beyond the national jurisdiction of the countries making those activities.
+The agreement was adopted by the 193 United Nations Member States.
+Before the treaty can enter into force, it needs to be ratified by at least 60 UN member states.
+However, only seven countries — Belize, Chile, Mauritius, Federated States of Micronesia, Monaco, Palau and the Seychelles — have ratified the treaty. India has neither signed nor ratified the treaty.
+Greenpeace called it “the biggest conservation victory ever”. The main achievement is the new possibility to create marine protected areas in international waters.
+Source:
+Down To Earth
+**********
+STICKY INFLATION
+Prelims & Mains – ECONOMY
+RBI in its recent monetary policy review decided to retain the repo rate, for eighth time in a row, due to concerns of sticky inflation.
+Therepo rate is the interest rate at which the RBI lends money to commercial banks. When RBI wants to incentivise economic activity in the broader economy, it reduces the repo rate, which makes it cheaper for banks to borrow from it and lend onwards to customers. When it wants to disincentivise economic activity, it raises the repo rate, which makes it costly for everyone in the economy to borrow money.
+Key Takeaways
+Sticky inflation refers to a phenomenon where prices do not adjust quickly to changes in supply and demand, leading to persistent inflation.
+When prices are sticky, inflation can persist even if the economy operates below its potential level.
+Sticky inflation has been a concern for many central banks, making it difficult to control inflation.
+Simply put, if inflation stays persistently high (‘sticky’), it would necessitate the RBI to keep raising interest rates — or, at the very least, keep them at a high level for a longer period — and, in doing so, hurt India’s economic
+There is a constant tradeoff between maintaining price stability (read containing inflation) and boosting growth (which hopefully creates jobs and reduces unemployment).
+Why is the RBI not cutting interest rates?
+Currently, the retail inflation rate has been coming down closer to the 4% mark. In fact, it has stayed within the so-called “comfort zone” of the RBI — anywhere between 2% and 6% — since September 2023 and yet, the RBI has not changed the repo rate since February 2023.
+There are four broad reasons for it:
+One, despite keeping the repo rate consistently high, the retail inflation has not dropped to touch the 4% mark since January 2021. Although it has declined, the rate of its decline has been very gradual. In fact, the RBI has expressed its concern over the stickiness of inflation.
+Two, the RBI does not cut the repo rate as soon as the overall inflation rate falls to (or below) the 4% target in any one month. The RBI has to be convinced that inflation rate will stay around the 4% mark sustainably. The RBI’s policy statement predicts that inflation is likely to fall below the 4% target in the near future but that fall would only be due to temporary reasons.
+Three, as explained earlier, the RBI typically cuts the repo rate when it finds that economic activity needs a boost. However, India’s gross domestic product (GDP) growth rate has been surprisingly strong over the past year in particular. Under the circumstances, it is unlikely that repo rates are holding back India’s economic growth.
+Four, although not articulated by the RBI per se, the decision may have to do with India’s forthcomingUnion Budget. Most economists are waiting to see how the political compulsions of a coalition government will impact the Centre’s commitment to fiscal deficit — the amount of money the government intends to borrow from the market. Higher than anticipated fiscal deficit has implications for both inflation (if more fresh money is printed) or interest rates (if there is less money for the private sector to borrow).
+Indian Express
+**********
+INTERNATIONAL ORGANIZATION OF MIGRATION (IOM)
+Prelims – INTERNATIONAL
+The International Organization for Migration (IOM) reported at least 49 migrants died and 140 others were missing after their boat capsized off the coast of Yemen.
+The vessel had departed from Bossaso in northeast Somalia, bound for Yemen, a journey of about 330 kilometers (approximately 205 miles).
+About INTERNATIONAL ORGANIZATION OF MIGRATION (IOM)
+The International Organization for Migration (IOM) is a United Nations related organization that works in the field of migration.
+It is established in 1951.
+It is the leading intergovernmental organization in the field of migration.
+It is dedicated to promoting humane and orderly migration for the benefit of all.
+The IOM operates in 171 countries with 175-member states.
+It provides support to migrants across the world, develops effective responses to the shifting dynamics of migration, and provides advice on migration policy and practice.
+The IOM has a strategic plan for 2024-2028, aimed at delivering on the promise of safe, orderly, and regular migration while supporting the world’s most vulnerable.
+The organization’s work is focused on three main objectives:
+Saving lives and protecting people on the move: IOM prioritizes the safety, dignity, and protection of people, especially in challenging crisis response contexts.
+Driving solutions to displacement: IOM works to reduce the risks and impacts of climate change, environmental degradation, conflict, and instability for communities affected by or at risk of displacement.
+Facilitating pathways for regular migration: IOM seeks to safely connect people, goods, services, knowledge, and innovation.
+Live Science
+**********
+ATOMIC CLOCK
+Prelims – SCIENCE & TECHNOLOGY
+A new type of portable atomic clock has been introduced that offers very accurate timekeeping at sea.
+The introduction of a new type of portable atomic clock marks a significant advancement in maritime timekeeping. This iodine-based optical atomic clock is designed to be robust and mobile, making it suitable for use at sea.
+About ATOMIC CLOCK :
+An atomic clock is a highly precise timekeeping device.
+An atomic clock maintains time by measuring the vibrations of atoms, specifically the oscillations of electrons within these atoms.
+Atomic clocks measures time based on the resonant frequency of atoms, typically caesium-133 or rubidium-87.
+Atomic clocks are essential in various fields due to their unparalleled accuracy.
+Key uses of atomic clocks
+Global Positioning System (GPS): Atomic clocks are crucial for GPS satellites, providing the precise timing needed for accurate location determination.
+Telecommunications: They synchronize the time in telecommunications networks, ensuring the smooth transmission and reception of data.
+Scientific Research: Atomic clocks are used in experiments where precise timing is critical, such as in particle physics and astronomy.
+Time Standards: Cesium atomic clocks define the international time standard, Coordinated Universal Time (UTC), which is used worldwide.
+Financial Markets: They provide the exact time stamps necessary for the synchronization of financial transactions.
+Internet: For managing the timing of data transfer across the global network, ensuring consistency and reliability.
+Space Exploration: Used in space missions to ensure accurate timing for navigation and scientific measurements.
+Deep Space Network: Helps in tracking and communicating with interplanetary spacecraft.
+Quantum Computing: Atomic clocks are used in the development of quantum computers for timing the operations at quantum scales.
+Live Law
+**********
+CRISPR-CAS9
+: Researchers recently used CRISPR-Cas9 to alter photosynthesis for the first time.
+This is the first time an unbiased gene-editing approach has been used to increase gene expression and improve photosynthetic activity.
+About CRISPR-Cas9
+CRISPR-Cas9 is a gene-editing technology that can alter the genetic sequence of a specific gene by removing, adding, or altering sections of the DNA sequence.
+It was developed from a similar gene-editing system in bacteria that they use to respond to invading pathogens like viruses.
+The CRISPR-Cas9 system consists of two key molecules that introduce a change (mutation) into the DNA:
+Cas9: An enzyme that acts as a pair of ‘molecular scissors’ that can cut the two strands of DNA at a specific location in the genome so that bits of DNA can then be added or removed.
+Guide RNA (gRNA): A piece of RNA that consists of a small piece of pre-designed RNA sequence (about 20 bases long) located within a longer RNA scaffold. The scaffold part binds to DNA and the pre-designed sequence ‘guides’ Cas9 to the right part of the genome.
+The guide RNA is designed to find and bind to a specific sequence in the DNA.
+Cas9 follows the guide RNA to the same location in the DNA sequence and makes a cut across both strands of the DNA. Once the DNA is cut, researchers use the cell’s own DNA repair machinery to add or delete pieces of genetic material, or to make changes to the DNA by replacing an existing segment with a customized DNA sequence.
+CRISPR-Cas9 has a lot of potential as a tool for treating a range of medical conditions that have a genetic component, including cancer, hepatitis B, or even high cholesterol.
+Science Daily
+**********
+LGBTQIA+ IN INDIA
+Mains – GS 2
+: The Supreme Court has cautioned judges against using the court-ordered counselling of members of the LGBTQ+ community as a way to turn them against their own identity and sexual orientation. In such cases, they are often in distress or have been separated from their partners by their own relatives, it observed.
+A three-judge Bench headed by Chief Justice of India D.Y. Chandrachud said that ascertaining the wishes of a person is one thing; however, it would be completely inappropriate to attempt to overcome the identity and sexual orientation of an individual through a process of counselling.
+LGBTQIA+:
+It is an acronym that represents lesbian, gay, bisexual, transgender, queer, intersex, and asexual.
+The “+” represents the many other identities that are still being explored and understood. The acronym is constantly evolving and may include other terms like non-binary and pansexual.
+Issues/Challenges faced by LGBTQIA+:
+There is a lack of legal recognition of same-sex relationships and marriage.
+They face significant social stigma and discrimination, including ostracization from families, workplace discrimination, and verbal or physical harassment.
+The social stigma faced by them can lead to mental health issues such as depression and anxiety.
+They often encounter difficulties accessing healthcare services that are sensitive to their needs and many healthcare providers lack awareness and training on LGBTQ+ issues, leading to inadequate or discriminatory care.
+They often face discrimination and bullying in educational institutions, which can negatively impact their academic performance and mental well-being.
+There is a lack of legal protection against discrimination based on sexual orientation and gender identity in areas such as employment, housing, and public accommodations.
+There is still a lack of legal recognition and protections for non-binary and gender non-conforming individuals.
+Way Forward:
+Introducing LGBTQIA+ inclusive education in schools and universities to foster understanding, empathy, and acceptance from a young age.
+Legislatures can pass separate comprehensive anti-discrimination laws that explicitly protect individuals based on sexual orientation and gender identity.
+Ensuring easy access to LGBTQIA+-friendly healthcare services, including mental health support, hormone therapy, and gender-affirming surgeries.
+Encouraging entrepreneurship and economic empowerment within the LGBTQIA+ community by providing them access to mentorship, funding, and resources for starting LGBTQIA+-owned businesses and ventures.
+Establishment of support networks, community centers, and helplines for LGBTQIA+ individuals, particularly those facing family rejection or homelessness.
+Hindu
+**********
+Daily Practice MCQs
+Q1.) Consider the following statements:
+Statement-I:
+Statement-II:
+CRISPR-Cas9 was developed from a similar gene-editing system in bacteria that they use to respond to invading pathogens like viruses.
+Which one of the following is correct in respect of the above statements?
+Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+Statement-I is correct but Statement-II is incorrect
+Statement-I is incorrect but Statement-II is correct
+Q2.) With reference to atomic clocks, consider the following statements:
+It provides the precise timing needed for accurate location determination.
+It helps in tracking and communicating with interplanetary spacecraft.
+It can used for the development of quantum computers.
+How many of the above statements are correct?
+Only one
+Only two
+All three
+None
+Q3.) With reference to the International Organization for Migration (IOM), consider the following statements:
+Which of the statements given above are correct?
+1 only
+2 only
+Both 1 and 2
+Neither 1 nor 2
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  13th June 2024
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs.st
+**********Nitrous Oxide Grew 40% in 40 Years: Study
+Why in the News?
+According to a new report, Nitrous Oxide (N2O) emissions grew by 40 per cent between 1980 and 2020, with China being the largest emitter, followed by India and the US.
+What’s in Today’s Article?
+About N20 (Basics, Applications, Environmental Impact, Source of Emissions, etc.)
+News Summary (Key Findings of the Study)
+About Nitrous Oxide (N2O):
+Nitrous oxide is an odorless, colorless, non-flammable gas.
+While nitrous oxide is not flammable, it will support combustion to the same extent as oxygen. It leads to a state of euphoria, explaining its nickname, '
+laughing gas
+'.
+Medical Use:
+Anaesthesia and Pain Relief:
+Nitrous oxide is used as an anaesthetic and analgesic in dentistry and surgery. It is often combined with oxygen to provide sedation and pain relief during procedures.
+Automotive Industry:
+Performance Enhancement:
+In motorsports, nitrous oxide is used to increase the power output of engines.
+Food Industry:
+Whipped Cream Dispensers:
+Nitrous oxide is used as a propellant in whipped cream dispensers. It helps in creating a light, fluffy texture.
+Chemical Industry:
+Oxidizing Agent:
+Nitrous oxide is used as an oxidizing agent in certain chemical reactions and processes
+Environmental Monitoring:
+Calibration of Instruments:
+It is used to calibrate gas chromatographs and other analytical instruments used for environmental monitoring and research.
+Recreational Use:
+Psychoactive Effects:
+Nitrous oxide is sometimes used recreationally for its euphoric and dissociative effects.
+Aerospace Industry:
+Rocket Propellant:
+Nitrous oxide is used as a hybrid rocket propellant, providing an oxidizer for the fuel in rocket engines.
+Environmental Impact of Nitrous Oxide (N2O):
+Nitrous oxide significantly impacts the climate, contributing to both global warming and ozone layer depletion.
+Greenhouse Gas:
+Nitrous oxide is a potent greenhouse gas. It traps heat in the atmosphere, contributing to the greenhouse effect and global warming.
+Global Warming Potential (GWP):
+N2O has a
+GWP approximately 298 times that of carbon dioxide (CO₂) over a 100-year period
+. This means that, on a per-molecule basis, nitrous oxide is much more effective at trapping heat than CO₂.
+Atmospheric Lifetime:
+N2O has a long atmospheric lifetime, remaining in the atmosphere for around 114 years. This longevity allows it to accumulate and exert a long-term influence on the climate.
+Sources of Nitrous Oxide Emissions:
+Agriculture:
+The primary source of nitrous oxide emissions is agriculture, particularly the use of synthetic fertilizers and manure management. Microbial processes in soils and water bodies convert nitrogen compounds into N2O.
+Industrial Processes:
+Certain industrial activities, such as the production of nitric acid and adipic acid (used in making fertilizers and nylon, respectively), also release N2O.
+Combustion:
+Combustion of fossil fuels and biomass can produce N2O, although these sources are relatively minor compared to agriculture.
+Waste Management:
+Wastewater treatment and the decomposition of organic waste in landfills contribute to N2O emissions.
+Environmental & Health Impact of N2O Emissions:
+Stratospheric Impact:
+Nitrous oxide is the leading ozone-depleting substance emitted by human activities. When N2O reaches the stratosphere, it can undergo photolysis or react with excited oxygen atoms to form nitrogen oxides (NO and NO2), which catalyze the destruction of ozone (O3) molecules.
+Climate Change:
+As a greenhouse gas, N2O contributes to global temperature rise, leading to various climate change impacts such as more frequent and severe weather events, sea-level rise, and disruptions to ecosystems.
+Ecosystem Effects:
+Nitrous oxide emissions from agriculture can lead to nutrient imbalances in soils and water bodies, affecting plant growth and aquatic life.
+Human Health:
+Increased UV radiation due to ozone layer depletion can cause health problems, including skin cancer and cataracts.
+Recently, a study was conducted by the Global Carbon Project. It is a not-for-profit organisation that seeks to quantify global greenhouse gas emissions and their causes.
+The study involved
+examination of global data for all major economic activities that lead to nitrous oxide emissions
+and 18 anthropogenic and natural sources and three absorbent “sinks” of global nitrous oxide.
+Key Findings of the Study:
+Emissions of planet-warming nitrous oxide gas rose by 40 per cent between 1980 and 2020.
+(16.7 per cent),
+(10.9 per cent),
+(5.7 per cent),
+Brazil
+(5.3 per cent) and
+Russia
+(4.6 per cent) were the
+top five emitters
+of the gas more potent than carbon dioxide and methane.
+However, the per capita emissions vary. While
+India has the lowest per capita emission of 0.8 kg N2O/person
+, the kg N2O/person figures for the other top emitters are China 1.3, US 1.7, Brazil 2.5 and Russia 3.3.
+Agricultural production
+livestock rearing
+were the two key human-driven sources of nitrous oxide.
+The world’s farmers used 60 million metric tonnes of commercial nitrogen fertilisers in 1980. By 2020, the sector used 107 million metric tonnes.
+Among the 18 regions considered in this study, only Europe, Russia, Australasia, and Japan and Korea had decreasing nitrous oxide emissions.
+Europe had the largest rate of decrease between 1980 and 2020, resulting from reduced fossil fuel and industry emissions.
+China and South Asia, on the other hand, had the largest increases in nitrous oxide emissions from 1980 to 2020 at 92 per cent.
+Emissions of planet-warming nitrous oxide.pdf
+( Size:  132.1 KB  )
+Click to View More
+Environment & Ecology
+**********2nd bird flu case in India
+Why in news?
+A second human case of bird flu subtype H9N2 was detected in India earlier this year, as reported by the World Health Organization (WHO).
+The case involved a 4-year-old child from West Bengal who first showed symptoms in January and had to be admitted to the intensive care unit twice before being discharged in May. The Union Health Ministry confirmed that no further infections have been reported since January. The child likely contracted the virus from poultry at home and nearby areas.
+What’s in today’s article?
+About
+H9N2 is a subtype of the
+influenza A virus
+, which causes bird flu and human influenza.
+Influenza A virus is a subtype of the influenza virus that causes influenza (flu) in birds and some mammals, including humans.
+It is one of the three types of influenza viruses, the others being influenza B and influenza C.
+It was first isolated in 1966 in Wisconsin, US from turkey flocks. H9N2 viruses are found in wild birds worldwide and are endemic in poultry in many areas.
+According to the WHO, with avian influenza viruses circulating in poultry, there is a risk for sporadic infection and small clusters of human cases due to exposure to infected poultry or contaminated environments.
+Human infections
+H9N2 virus infections in humans are rare
+, but likely under-reported due to typically mild symptoms of the infections.
+The WHO's overall risk assessment indicates a low probability of human-to-human spread and low case fatality rate among human cases of H9N2.
+Human infection with H9N2 tends to be mild, but there have been some cases where hospitalisation was required like the one in West Bengal.
+So far, two deaths due to H9N2 have been reported from across the world.
+Cases of human infection have been observed in Hong Kong, China, Bangladesh, Pakistan, and Egypt.
+Spread of infection
+Humans are usually infected through close contact with infected birds, bodily fluid droplets, or other contaminated material.
+Birds shed influenza viruses in their faeces, so contact with bird droppings is also a possible transmission route.
+First case in India
+The virus was picked up in February 2019 during a community-based surveillance study in 93 villages of Korku tribes in Melghat district of Maharashtra.
+India’s vulnerability
+WHO's risk assessment of the recent H9N2 bird flu case in India indicates that sporadic human infections are expected due to the virus circulating in poultry
+Most human cases occur through contact with infected poultry or contaminated environments.
+As the virus continues to be detected in poultry populations, occasional human cases are anticipated.
+India’s preparedness
+India is embarking on a
+One Health approach
+to adopt a holistic and integrated roadmap towards addressing such public health issues.
+There has also been a significant strengthening of health infrastructure especially since the COVID pandemic.
+PM-Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)
+was launched to develop capacities of health systems and institutions across the continuum of care at all levels, primary, secondary and tertiary.
+It has prepared health systems in responding effectively to the current and future pandemics /disasters.
+In addition, India’s surveillance and detection networks under
+Integrated Disease Surveillance Programme (IDSP)
+have rich experience of dealing with challenging health situations during the COVID-19 pandemic.
+2nd bird flu case in India.pdf
+( Size:  1.1 MB  )
+Click to View More
+Science & Tech
+**********Satnamis and their History of Protests
+Why in News?
+A huge mob from the Satnami community torched dozens of vehicles, pelted police personnel with stones and set afire the Superintendent of Police office building in Chhattisgarh’s Baloda Bazar district. The protesters were not satisfied with the police’s handling of a case (and demanding a CBI probe) involving the desecration of a ‘Jaitkhamb’, a structure of sacred importance to the Satnamis.
+What’s in Today’s Article?
+Who is the Satnamis Community?
+History of Protest of Satnamis Community - Revolt of 1672
+Revival of the Satnamis
+Satnamis (believes in God whose name is ‘truth’) are a predominant group within the 11%
+Scheduled Caste
+(SC)population in
+and who are believed to be an offshoot of the
+Ravidassia community.
+The community was founded on
+April 21, 1657 by Bir Bhan
+of Narnaul, Haryana.
+Udhodas
+, a disciple of Saint Ravidas, was the first priest or spiritual guru of the society.
+The community inhabits the plains
+of the state’s central region, mostly the old districts of Bilaspur, Durg, Rajnandgaon and Raipur.
+The sect emphasises on three principles
+- adorn the attire of a Satnami devotee, earn money through proper means and
+do not tolerate any injustice or oppression in any form
+There is a belief that the Satnamis
+exert political influence by voting collectively
+The majority of the 10 assembly segments allotted for SCs are occupied by community representatives.
+The community reveres
+Mini Mata
+- the first female Member of Parliament from Chhattisgarh, who entered the Lok Sabha by winning the 1955 by-election.
+Invoking her, political parties appeal to Satnamis for votes.
+History of Protest of Satnamis Community - Revolt of 1672:
+The Satnami revolt occurred in the reign of the
+Mughal Emperor Aurangzeb
+and around what is today’s Mahendragarh district of
+The revolt began when a Mughal soldier killed a Satnami
+and the result was that about 5,000 Satnamis were up in arms.
+They routed the Mughal troops situated in the town, drove away the Mughal administrators and
+set up their own administration in its place
+The uprising
+gained the enthusiasm of Hindus
+in Agra and Ajmer also, as they were not happy with Aurungzeb’s strict Islamic policies, which included
+Reviving the Jizya tax (poll tax on non-Muslim subjects),
+Banning music and art, and
+Destroying Hindu temples.
+When the Satnamis inflicted several defeats on the Mughal forces,
+Aurungzeb himself took personal command and sent troops with artillery to suppress the revolt.
+What followed was an attempt to kill every remaining member of the Satnamis. The remnants of the Satnamis fled in all directions, who remained totally disorganised and leaderless for a long time.
+Revival of the Satnamis:
+The most important Satnami group was founded in
+1820
+region of central India by
+Saint Ghasidas
+, a farm servant and member of the lower (Chamar) caste.
+His Satnam Panth (“
+Sect of the True Name
+”) succeeded in providing a religious and social identity for large numbers of members of Satnamis.
+Saint Ghasidas preached a code of ethical and dietary self-restraint and social equality and wrote
+Nirvan Gyan
+to propagate his teachings.
+As a result of connections with the Kabir Panth at different points in history,
+Satnamis have complicatedly navigated their position within a larger Hindu hierarchy.
+Satnamis protest desecration.pdf
+( Size:  243.7 KB  )
+Click to View More
+History & Culture
+**********Heatwaves have not been included as a notified disaster
+Why in news?
+The current extreme heatwave across the country has reignited discussions about including heatwaves as a notified disaster under the Disaster Management (DM) Act, 2005. If this inclusion occurs, states will be able to use disaster response funds to provide compensation, relief, and manage the effects of heatwaves. At present, states must use their own funds for these activities.
+What’s in today’s article?
+Disaster Management Act 2005
+Notified disasters
+Heatwaves - not included as notified disasters
+Why is the Centre not adding heatwaves as a notified disaster now?
+About
+It is a comprehensive legal framework to establish and manage disaster management policies and procedures by defining roles and responsibilities at the national, state, and district levels.
+Key features
+Establishment of the National Disaster Management Authority (NDMA)
+Chaired by the Prime Minister.
+Responsible for laying down policies, plans, and guidelines for disaster management.
+State and District Disaster Management Authorities
+States - Chaired by the Chief Minister, responsible for implementing national policies and plans.
+Districts - Chaired by the District Magistrate, responsible for disaster management at the district level.
+National Executive Committee (NEC)
+Comprises secretaries of various ministries.
+Assists the NDMA in performing its functions and coordinates disaster response and relief measures.
+National Plan and State Plans
+The act mandates the preparation of a National Plan for disaster management by the NDMA and State Plans by State Disaster Management Authorities.
+Disaster Response and Mitigation Funds
+Establishment of the National Disaster Response Fund (NDRF) and State Disaster Response Fund (SDRF) for immediate relief and response efforts.
+National Disaster Mitigation Fund and State Disaster Mitigation Funds for long-term disaster risk reduction and mitigation.
+Community Participation
+Encourages community-based disaster management and awareness programs.
+Involvement of local bodies and communities in disaster preparedness and response activities.
+What are notified disasters?
+Notified disasters are specific types of disasters that have been officially recognized and listed by the government for special consideration and management under the DM Act, 2005.
+These disasters are formally acknowledged to ensure systematic and structured response and relief efforts,
+often involving the allocation of dedicated funds and resources
+Categories of notified disasters under DM Act 2005
+The Act includes 12 categories of notified disasters, which are: Cyclone, Drought, Earthquake, Fire, Flood, Tsunami, Hailstorm, Landslide, Avalanche, Cloudburst, Pest attack, Frost and cold waves
+These are eligible for relief assistance under the SDRF and NDRF.
+The states first utilise the funds available in the SDRF, and only if the magnitude of the disaster is unmanageable with the SDRF, states seek the money from the NDRF.
+While the
+entire money of the NDRF comes from the central government, states contribute 25% of the money in the SDRF
+(10% in case of special category states), the rest comes from the Centre.
+Heatwaves - a common occurrence during summer
+Though heatwaves are not a new phenomenon in India, these were not viewed as a disaster when the Act came into being in 2005.
+It was because heatwaves were a common occurrence during summer, and not really an unusual weather event.
+Increasing demand for including heatwaves as notified disaster
+Over the years, both the severity and frequency of heatwaves have increased.
+Due to increased economic activity, there is a far larger number of people who have to remain outdoors for their livelihoods or other reasons, exposing them to the risk of a heat-stroke.
+23 states are vulnerable to heatwaves. These states as well as several vulnerable cities have now prepared heat action plans (HAPs) to deal with the impacts of extreme heat.
+HAPs involve activities like creation of shaded spaces, ensuring availability of cool water in public places, distribution of simple oral solutions, and reorganising the schedules of schools, colleges and office working hours.
+These measures require expenditure but state governments have not been able to use the SDRF for them. This is the reason for the demand for inclusion of heatwaves as a notified disaster in the DM Act.
+Reluctance of Finance Commission
+The 15th Finance Commission, whose recommendations are currently in effect, stated that the existing list of notified disasters already largely meets the needs of the states and did not support including heatwaves.
+Nevertheless, it endorsed an enabling provision created by the previous Commission that allows states to
+use up to 10% of their SDRF for local disasters such as lightning or heatwaves, which states can notify themselves
+Using this provision,
+at least four states — Haryana, Uttar Pradesh, Odisha, and Kerala
+— have classified heatwaves as local disasters.
+Practical Difficulties
+The main reason behind the reluctance to add heatwaves as a notified disaster is the significant financial implications.
+The government would have to provide Rs 4 lakh compensation for every life lost due to a notified disaster, along with compensation for grievous injuries.
+Heatwaves claim many lives annually, and the recorded number of deaths has been increasing, with over 500 heat-related deaths reported this year.
+Mandating compensation could reveal even more deaths.
+Additionally, attributing deaths to heatwaves is challenging because most deaths are due to pre-existing conditions exacerbated by extreme heat, making it hard to ascertain the direct impact of heat.
+This differs from other disasters where victim identification is straightforward.
+Fund allocated by Finance commission and associated challenges
+15th Finance Commission recommended allocating Rs 1,60,153 crore to various State Disaster Response Funds (SDRFs) for 2021-26.
+States like Uttar Pradesh received about Rs 11,400 crore, while Maharashtra received the maximum, about Rs 19,000 crore.
+This money is intended for all types of disasters during this period.
+There is a concern that these funds could become insufficient if heatwaves and lightning are added to the list of notified disasters.
+Heatwaves have not been included as a notified disaster.pdf
+( Size:  3.2 MB  )
+Click to View More
+Environment & Ecology
+**********Tackling the fatty liver disease epidemic
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+International Fatty Liver Day
+Mains level:
+India's Growing Burden of Fatty Liver Disease
+Why in the news?
+This year’s theme for International Fatty Liver Day, an awareness initiative observed annually in June, is ‘Act Now, Screen Today’. This theme holds more urgency now than ever before.
+Liver Diseases in recent times
+Liver diseases have long been primarily linked to excessive alcohol consumption, which continues to be a major cause of advanced chronic liver disease.
+However, in recent years, a new and quietly escalating threat to liver health has emerged: non-alcoholic fatty liver disease.
+India’s Growing Burden of Fatty Liver Disease
+Note:
+MASLD, or Metabolic dysfunction-associated steatotic liver disease, is a reclassification of what was previously known as non-alcoholic fatty liver disease (NAFLD).
+High Prevalence Rates:
+The global prevalence of Metabolic dysfunction-associated steatotic liver disease (MASLD) is estimated at 25-30%. In India, a 2022 meta-analysis revealed that the pooled prevalence of fatty liver among adults was 38.6%. Among obese children in India, the prevalence was around 36%.
+Progression of Disease:
+The continuous damage caused by fatty liver leads to more severe conditions such as steatohepatitis and cirrhosis, often requiring liver transplants.
+Causes of Growing Burden of Fatty Liver Disease
+Lack of Early Detection:
+Fatty liver disease often goes undetected in early stages due to lack of symptoms. Diagnosis usually occurs at an advanced stage, when significant liver damage has already taken place.
+Diet and Insulin Resistance:
+Excessive consumption of carbohydrates, especially refined carbs and sugars, leads to metabolic problems. High carbohydrate intake results in persistently high insulin levels and insulin resistance, promoting the conversion of excess glucose into fatty acids, which are then stored in the liver.
+Initiatives Taken by the Government
+Integration with NPCDCS:
+The Ministry of Health & Family Welfare launched operational guidelines for integrating NAFLD with the National Programme for Prevention & Control of Cancer, Diabetes, Cardiovascular Diseases and Stroke (NPCDCS) in February 2021.
+Health Promotion and Prevention:
+The Ayushman Bharat- Health and Wellness Centres (AB-HWCs) are being used to promote healthy living and screen for hypertension, diabetes, and other common NCDs.
+Personalization is the Key
+Tailored Screening Tests:
+The selection of screening tests and their frequency should be based on individual risk factors, including family history, lifestyle, and pre-existing health conditions.
+Avoiding Generic Assumptions:
+Clinicians should not rely solely on age or physical markers; instead, they should consider a comprehensive risk profile. Non-communicable diseases are increasingly affecting diverse populations, including children.
+Integrated Health Strategies:
+Combining dietary modifications, regular physical activity, and effective weight management to mitigate liver disease risks.
+Frequent Screenings:
+Regular monitoring of liver health through non-invasive tools like vibration-controlled transient elastography. Continuous assessment of liver stiffness to detect early stages of liver fibrosis and monitor treatment responses.
+Active Health Management:
+Emphasis on the importance of individuals taking control of their health by being aware of their diet and lifestyle choices.Encouragement of frequent health screenings to detect and manage liver disease early.
+Way Forward:
+Awareness Campaigns:
+Government initiatives focus on raising awareness about the importance of liver health and the risks associated with MASLD.
+Health Screenings:
+Programs promoting comprehensive health screenings that include physical examinations, blood tests, and abdomen ultrasounds to detect liver diseases early.
+Mains PYQ
+Q The public
+health system has limitations in providing universal health coverage. Do you think that the private sector can help in bridging the gap? What other viable alternatives do you suggest?
+(UPSC IAS/2015)
+**********Scientists back new Alzheimer’s drug: its benefits vs risks
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+How Does Donanemab Work?
+Why in the news?
+, a new Alzheimer’s disease therapy developed by Eli Lilly, has gained unanimous support from independent scientists advising the US Food and Drug Administration (FDA), moving it closer to clinical use.
+What is Donanemab?
+Donanemab is a monoclonal antibody, which means it is a laboratory-produced molecule designed to function like antibodies in the immune system.
+It is specifically developed for individuals in the early stages of Alzheimer’s disease, including those with mild cognitive impairment or mild dementia.
+targets amyloid beta proteins
+in the brain. Amyloid beta plaques are one of the defining features of Alzheimer’s disease.
+Mechanism of Action:
+The drug binds to amyloid beta plaques and promotes their removal from the brain. This action is intended to slow down the progression of Alzheimer’s disease by reducing the accumulation of these toxic plaques.
+How do the benefits of the drug stack up against its risks?
+Target Population:
+The drug is intended for those in the early stages of Alzheimer’s disease (mild cognitive impairment or mild dementia).
+Benefits:
+Significant clinically meaningful slowing of the disease, allowing patients to retain their functions for a longer time. Phase 3 study shows a 35.1% slowdown in cognitive decline in early Alzheimer’s patients over 76 weeks.
+Risks:
+Main adverse effects include brain swelling (24%) and brain bleeds (19.7%), with most cases being asymptomatic.Three treatment-related deaths reported.Amyloid-related imaging abnormalities (ARIA) like brain bleeds and seizures were mostly non-serious and resolved after discontinuation of therapy.
+Risk Management:
+The key risks can be mitigated through appropriate labeling and clinical monitoring. Further risks will be characterized through post-authorization studies.
+Why is a breakthrough of this kind important?
+Rising Burden of Alzheimer’s:
+The global population is ageing, leading to an increased burden of diseases like Alzheimer’s. In India, 5.3 million people are currently living with dementia, expected to rise to 14 million by 2050.
+Lack of Effective Treatments:
+There are limited options for disease-modifying treatments for Alzheimer’s. Innovations like donanemab are crucial for providing new hope and potential therapies.
+Economic Considerations:
+While the drug is expensive, it offers the potential for several more years of quality life for patients.
+Why was the approval for the drug delayed?
+Additional Data Requirements:
+The USFDA wanted to understand further the data relating to the therapy, especially regarding the limited dosing protocol used during trials.
+Limited Dosing Protocol:
+During the trial, therapy was stopped in patients who achieved a certain level of amyloid beta plaque clearance, which is a distinguishing feature of donanemab compared to other therapies.
+Previous Drug Approval Irregularities:
+Scrutiny increased after irregularities were found in the approval process of the first drug, aducanumab, which involved close collaboration between the regulator and the drugmaker and approval despite negative trial outcomes. The second drug, lecanemab, also had cautious optimism from doctors due to its demonstrated efficacy with fewer side effects.
+Conclusion:
+Ensure rigorous and transparent review processes for new Alzheimer’s treatments, incorporating comprehensive data analysis and post-authorization studies to monitor long-term safety and efficacy.
+Mains PYQ:
+Stem cell therapy is gaining popularity in India to treat a wide variety of medical conditions including leukaemia, Thalassemia, damaged cornea and several burns. Describe briefly what stem cell therapy is and what advantages it has over other treatments?
+(UPSC IAS/2017)
+**********Why heatwaves have not been included as a notified disaster in the Disaster Management Act
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Current Notified Disasters
+Mains level:
+Why Heatwaves Were Not Included as Notified Disasters?
+Why in the news?
+The current period of intense heat in several regions has once more sparked debates about the potential inclusion of heatwaves as officially recognized disasters under the Disaster Management (DM) Act of 2005.
+What are Notified Disasters?
+Definition:
+According to the Disaster Management (DM) Act, 2005, a disaster is defined as a “catastrophe, mishap, calamity, or grave occurrence” arising from natural or man-made causes that result in substantial loss of life, destruction of property, or environmental damage and is beyond the coping capacity of the affected community.
+Funds:
+The DM Act allows states to draw money from the National Disaster Response Fund (NDRF) and the State Disaster Response Fund (SDRF) for managing these disasters.
+Current Notified Disasters:
+There are currently 12 categories of notified disasters: cyclones, drought, earthquake, fire, flood, tsunamis, hailstorms, landslides, avalanches, cloudbursts, pest attacks, and frost and cold waves.
+Common Occurrence:
+Heatwaves were historically considered regular events during summer months in many parts of India. They were not seen as exceptional or unusual disasters warranting specific disaster management provisions under the DM Act, 2005.
+Perception of Predictability:
+Unlike sudden-onset disasters such as earthquakes or cyclones, heatwaves were perceived as relatively predictable and part of seasonal weather patterns. This perception led to a belief that they could be managed through general public awareness and local interventions rather than formal disaster response mechanisms.
+Definition of Disaster:
+When the DM Act was formulated, disasters were defined as events that caused substantial loss of life, property, or environmental damage beyond the coping capacity of the affected community. At that time, the impacts of heatwaves were typically viewed as localized health issues rather than widespread disasters.
+Lack of Urgency
+: There was a lack of urgency in recognizing heatwaves as disasters requiring national-level response frameworks. The focus of disaster management efforts initially leaned towards more acute and visible calamities like cyclones, floods, and earthquakes.
+Why is the Centre Not Adding Heatwaves as a Notified Disaster Now?
+Financial Implications:
+One of the primary concerns is the potential financial burden of declaring heat waves as a notified disaster. Under the current provisions, the government is obligated to provide monetary compensation for lives lost during notified disasters, which is set at Rs 4 lakh per victim.
+The reluctance of Finance Commissions:
+Despite requests from various states, the 15th Finance Commission has not recommended adding heatwaves to the list of notified disasters. They argue that the existing categories adequately cover disaster response needs, and they have provided provisions for states to utilize a portion of the State Disaster Response Fund (SDRF) for local disasters like heatwaves.
+Conclusion:
+Engage with the Finance Commission and other relevant bodies to reassess the inclusion of heatwaves as a notified disaster. Highlight the evolving nature of heat waves, their increasing frequency, and the need for dedicated funding and support mechanisms.
+Mains PYQ:
+Climate change’ is a global problem. How India will be affected by climate change? How Himalayan and coastal states of India will be affected by climate change?
+(UPSC IAS/2017)
+**********Gender Gap Report 2024: Key Highlights
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+The Global Gender Gap Report 2024 (By World Economic Forum)
+Mains level:
+Key points related to India as Gender Gap Report 2024
+Why in the news?
+India’s new cabinet has only 2 women ministers, down from 10 previously. The Global Gender Gap Report 2024
+(by the World Economic Forum)
+ranks India third-lowest in South Asia, highlighting significant gender disparity in leadership and representation.
+Comparison of Indian Ranking with Other Countries:
+Global Gender Gap Report 2024:
+India ranked 129th
+out of 146 economies in the overall gender gap index. Ranked third-lowest among South Asian economies, behind Bangladesh, Nepal, Sri Lanka, and Bhutan.
+Key points as Gender Gap Report 2024:
+India’s specific rankings in various categories
+: Economic Participation and Opportunity: 142nd, Health and Survival: 142nd, Educational Attainment: 112th, and Political Empowerment: Best rank (65th), but overall political representation remains low.
+India performs relatively better on the head-of-state indicator (40.7%). However, women’s representation in ministerial positions (6.9%) and parliament (17.2%) is significantly lower. The region of South Asia shows high political disparity, with Nepal leading in ministerial representation (23.5%).
+Despite high enrollment rates in primary, secondary, and tertiary education for women, the gap in literacy rate between men and women is significant (17.2 percentage points). India ranks 124th globally in this indicator.
+Economic Participation:
+India has seen improvement in economic participation and opportunity, although it still ranks low (142nd). Challenges remain in bridging gender gaps in earned income, leadership roles, labour force participation, and technical professions.
+Major observations around the causes of the Gender Gap
+Patriarchal Structures:
+Patriarchy influences decision-making processes and power dynamics, often marginalising women’s voices and restricting their participation in political, economic, and social spheres.
+Gender Bias:
+Gender bias manifests in various forms, affecting women’s access to resources, healthcare, education, and career advancement opportunities compared to men.
+Gender Pay Gap:
+Women in India typically earn less than men for similar work, reflecting systemic inequalities in pay and compensation.
+Occupational Segregation:
+Women are often concentrated in lower-paying sectors and informal employment, facing barriers to accessing high-paying and leadership roles.
+Political Underrepresentation:
+Low representation of women in decision-making bodies such as parliament and state assemblies hinders legislative reforms and policies that could promote gender equity and address systemic barriers.
+Way forward:
+Gender Quotas:
+Implement and enforce quotas for women’s representation in parliament, state assemblies, and ministerial positions. This can be modelled after successful practices in other countries where gender quotas have significantly increased women’s political participation.
+Equal Pay Initiatives:
+Enforce equal pay for equal work through rigorous monitoring and enforcement mechanisms. Encourage transparency in salary structures and promote awareness among employers and employees.
+Mains PYQ:
+Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples
+.(UPSC IAS/2021)
+**********PRL Ahmedabad discovers of 3 New Craters on Mars
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Mars Craters, IAU
+Why in the News?
+Scientists from Ahmedabad-based Physical Research Laboratory (PRL)
+have identified three new craters on Mars, situated in the
+Tharsis volcanic region
+around 21.0 S, 209 W.
+The
+International Astronomical Union (IAU) Working Group for Planetary System Nomenclature
+approved the naming of the three craters on Mars, based on PRL’s recommendation.
+Back2Basics: International Astronomical Union (IAU)
+The IAU was founded on
+July 28, 1919
+, during the Constitutive Assembly held in Brussels, Belgium.
+Its creation was prompted by the need for international collaboration in astronomy, especially
+after the devastation caused by World War I.
+It aims to
+promote and safeguard astronomy
+in all its aspects through international cooperation.
+IAU is now headquartered in Paris, France.
+Major Activities and Initiatives
+General Assembly:
+The IAU holds a general assembly
+every three years
+in varying parts of the world at which professional astronomers meet to discuss research, new cooperative ventures, and similar matters of professional interest.
+Astronomical Nomenclature:
+IAU standardises the nomenclature of celestial bodies, features, and phenomena. It maintains several working groups dedicated to naming conventions for stars, planets, asteroids, and other objects.
+Research and Collaboration:
+It promotes international cooperation in astronomical research and supports initiatives such as observational campaigns, data sharing, and joint projects.
+Education and Outreach:
+It is actively involved in promoting astronomy education and public outreach efforts worldwide. It supports educational programs, workshops, and resources for students, teachers, and the general public.
+Membership
+IAU membership spans
+92 countries
+. Out of those countries, 85 are National Members.
+India is represented by the
+Astronomical Society of India (ASI).
+Its members are professional astronomers from all over the world, at the
+D. level and beyond
+, who are active in professional research, education, and outreach in astronomy.
+Crater Names and Significance
+Lal Crater:
+Named after Prof. Devendra Lal, former director of PRL, this 65 km wide crater is positioned at -20.98° and 209.34°.
+Mursan Crater:
+Named after a town in Uttar Pradesh, India, this ~10 km wide crater is situated on the eastern side of the Lal crater’s rim.
+Hilsa Crater:
+Named after a town in Bihar, India, this ~10 km wide crater is positioned on the western side of the Lal crater’s rim.
+Scientific Importance of Lal Crater
+Lava Coverage:
+The entire Lal crater area, located in the Tharsis volcanic region on Mars, is covered with lava.
+Evidence of Water:
+Geophysical evidence, including a 45-meter thick sedimentary deposit, suggests the presence of water in the subsurface of the Lal crater. This finding supports the theory that Mars once had water flowing on its surface.
+Infilling Process:
+Mursan and Hilsa craters, positioned on either side of the Lal crater, offer insights into the infilling process of the Lal crater. Their presence indicates that infilling occurred episodically over time.
+India’s 2nd Quest for Mars
+The ISRO is expected to launch
+Mangalyaan-2
+, or Mars Orbiter Mission 2 (MOM 2),
+in 2025
+The mission
+will last one year
+and is aimed at studying the Red Planet.
+successor to Mangalyaan-1
+, or Mars Orbiter Mission 1 (MOM 1), Mangalyaan-2 will
+consist of only one orbiter
+and will be launched atop a GSLV Mark III rocket from Satish Dhawan Space Centre.
+Other missions to Mars
+ExoMars rover (2022):
+European Space Agency’s mission to explore Mars.
+Tianwen-1 (2021):
+China’s Mars Mission aims to explore and study the Martian surface.
+UAE’s Hope Mars Mission (2021):
+UAE’s first interplanetary mission focused on studying the Martian atmosphere.
+NASA’s Mars Insight (2018):
+A lander designed to study the interior of Mars.
+NASA’s Curiosity (2012) and Perseverance (2020):
+Rovers exploring the Martian surface.
+NASA’s Mars Reconnaissance Orbiter (2005), Mars Odyssey (2001), and MAVEN (2013):
+Orbiters studying Mars from space.
+Mars 2 and Mars 3 (1971):
+Soviet Union’s missions to Mars, which included orbiter and lander components.
+PYQ:
+[2016]
+The Mangalyaan launched by ISRO
+is also called the Mars Orbiter Mission.
+made India the second country to have a spacecraft orbit the Mars after USA
+made India the only country to be successful in making its spacecraft orbit Mars in its very first attempt.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********India is the World’s Second Largest emitter of Nitrous Oxide
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Nitrous Oxide pollution
+Why in the News?
+India ranks as the
+world’s second-largest contributor
+(after China) to nitrous oxide (N2O), a potent greenhouse gas (GHG), accounting for approximately 11% of global man-made emissions in 2020 as per data published in the journal
+Earth System Science Data
+.
+The
+top five country
+emitters by volume of anthropogenic N2O emissions in 2020 were
+(16.7%),
+(10.9%), the
+United States
+(5.7%),
+Brazil
+(5.3%), and
+Russia
+(4.6%).
+About
+Nitrous oxide (N2O), a colourless and odourless gas, is a potent greenhouse gas, 300 times more powerful than CO2. Despite its small atmospheric fraction, it ranks third in concentration after CO2 and methane (CH4). It’s a crucial target for environmental research and efforts to mitigate climate change impacts.
+Sources of Emission:
+Natural Sources
+: N2O is naturally produced in processes such as microbial nitrogen cycling in soil and water bodies, volcanic activity, and biomass burning.
+Anthropogenic Activities
+: Human activities significantly contribute to N2O emissions, with the primary sources being:
+Agricultural practices, including the use of nitrogen-based fertilizers and animal manure.
+Industrial processes such as combustion of fossil fuels and wastewater treatment.
+Combustion of biomass and waste.
+Use of nitrous oxide in medical and dental procedures (as a sedative) and in food packaging.
+Impact on Climate Change:
+Greenhouse Gas
+: N2O is a potent greenhouse gas with a global warming potential (GWP) much higher than that of carbon dioxide (CO2).
+Ozone Depletion
+: In addition to its role in climate change, N2O also contributes to ozone depletion in the stratosphere, further exacerbating environmental concerns.
+Environmental and Health Effects:
+Environmental Pollution
+: N2O emissions can lead to pollution of soil, water bodies, and air, affecting ecosystems and human health.
+Health Risks
+: While N2O is relatively non-toxic at ambient levels, prolonged exposure or high concentrations can pose health risks, including respiratory issues and neurological effects.
+Global Nitrous Oxide Emissions
+Atmospheric Concentration:
+The concentration of atmospheric N2O reached 336 parts per billion in 2022, about 25% above pre-industrial levels.
+Next to Carbon Emissions:
+In comparison, the concentration of carbon dioxide was 417 parts per million in 2022.
+Persistent Lifespan:
+Once emitted, N2O stays in the atmosphere for longer than the average human lifespan (117 years), making its climate and ozone impacts long-lived.
+Contribution to Climate Change:
+These emissions are responsible for 6.4% of the effective radiative forcing of greenhouse gases and have added about 0.1°C to current global warming.
+Impact of Nitrogen Fertilizers:
+N2O emissions from human activities have increased by 40% in the past four decades, with agricultural production using nitrogen fertilizers and animal manure contributing 74% of total anthropogenic N2O emissions in the last decade.
+Call for Action and Future Outlook
+Scientists warn that anthropogenic N2O emissions must decline by at least 20% relative to 2019 levels by 2050 to align with
+net-zero emission pathways consistent with the Paris Agreement.
+Nitrogen fertilizers, which are heavily subsidized in India, contribute significantly to N2O emissions. Urgent reforms are needed to promote alternative production systems and mitigate emissions.
+PYQ:
+[2016]
+Why does the Government of India promote the use of ‘Neem-coated Urea’ in agriculture?
+(a) Release of Neem oil in the soil increases nitrogen fixation by the soil microorganisms
+(b) Neem coating slows down the rate of dissolution of urea in the soil
+(c) Nitrous oxide, which is a greenhouse gas, is not at all released into the atmosphere by crop fields
+(d) It is a combination of a weedicide and a fertilizer for particular crops
+**********N332-GT5 and eOD-GT8: Advancements in HIV Vaccine Development
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+N332-GT5, eOD-GT8, HIV-AIDS
+Why in the News?
+Researchers at the Duke Human Vaccine Institute have successfully induced broadly
+neutralising antibodies (bNAbs) against HIV (human immunodeficiency virus)
+through
+vaccination
+for the first time.
+About HIV/AIDS:
+Emergence
+: The first cases of AIDS (Acquired Immunodeficiency Syndrome) were reported in the early 1980s, primarily among gay men in the United States.
+Discovery of HIV
+: In 1983-1984, scientists identified HIV (Human Immunodeficiency Virus) as the cause of AIDS.
+Global Spread
+: HIV/AIDS quickly became a global pandemic, affecting millions of people worldwide.
+Causes:
+HIV is transmitted through contact with certain body fluids of an infected person, including blood, semen, vaginal fluids, and breast milk.
+Common modes of HIV transmission include unprotected sexual intercourse, sharing needles or syringes, and from mother to child during pregnancy, childbirth, or breastfeeding.
+Symptoms:
+Acute HIV Infection
+: Many people experience flu-like symptoms, such as fever, headache, fatigue, and swollen lymph nodes, within 2-4 weeks after infection.
+Asymptomatic Stage
+: After the initial symptoms subside, HIV often enters a latent stage where individuals may not experience any symptoms for years.
+Progression to AIDS
+: Without treatment, HIV gradually weakens the immune system, leading to the development of opportunistic infections and cancers. This advanced stage is known as AIDS and is characterized by severe immune deficiency.
+Vaccines Development:
+Challenges
+: Developing an HIV vaccine has been challenging due to the virus’s ability to mutate rapidly and evade the immune system.
+Vaccine Candidates
+: Numerous vaccine candidates have been tested over the years, but none have yet been successful in providing robust protection against HIV infection.
+Hope for the Future
+: Despite setbacks, advances in vaccine development, such as the identification of promising candidates like N332-GT5 and eOD-GT8, offer hope for eventually achieving an effective HIV vaccine.
+About N332-GT5 and eOD-GT8
+: This vaccine candidate targets a specific region on the surface of the HIV virus known as the N332 glycan site. By engaging B-cells that have the potential to produce bNAbs against this site, N332-GT5 aims to stimulate the immune system to generate a protective response against a wide range of HIV strains.
+: Similarly, eOD-GT8 is designed to target another region on the HIV virus, known as the eOD protein. By leveraging nanoparticles as carriers, eOD-GT8 aims to enhance the immune system’s ability to recognize and neutralize HIV, ultimately leading to the production of bNAbs.
+What are Broadly Neutralizing Antibodies (bNAbs)?
+In some HIV patients, unique antibodies, called bNAbs, can neutralize numerous viral strains.
+These antibodies take years to develop, and by then, the virus has evolved to evade them.
+PYQ:
+[2013]
+Which of the following diseases can be transmitted from one person to another through tattooing?
+1. Chikungunya
+2. Hepatitis B
+3. HIV-AIDS
+Select the correct answer using the codes given below.
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********UNESCO heritage site of Delos, Greece
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Delos Monuments, World Heritage Sites, Various WHS in India
+Why in the News?
+a UNESCO World Heritage site situated close to Mykonos, Greece, played a pivotal role as a sanctuary in the ancient Greek and Roman civilizations.
+Scientists warn that
+faces imminent
+destruction within the next 50 years due to rising sea levels
+caused by climate change.
+About Delos
+Delos is a small island located in the
+Aegean Sea
+, part of the Cyclades archipelago in Greece.
+It is considered as the
+birthplace of Apollo
+, the god of light, arts, and healing,
+and his sister Artemis
+, the goddess of the hunt.
+Its ancient ruins date back to the
+3rd millennium BCE
+These ruins include
+temples, houses, sanctuaries, theatres
+, and other public buildings.
+It served as a
+port and trading hub
+, connecting the civilizations of the eastern Mediterranean with those of the west.
+Delos was declared as a
+World Heritage Site in
+1990
+Ruins and Monuments:
+Some of the most notable ruins and monuments on Delos include the Terrace of the Lions, the Temple of Apollo, the House of the Dolphins, the Theater District, and the Sacred Lake.
+About UNESCO World Heritage Sites (WHS)
+Details
+Definition
+A WHS is a landmark or area with legal protection by an international convention administered by UNESCO.
+Criteria
+WHS are designated for their cultural, historical, scientific, or other forms of significance.
+World Heritage Convention
+1972 Convention Concerning the Protection of the World Cultural and Natural Heritage established the framework for preserving the world’s outstanding heritage.
+191 State Parties, including India, have ratified the World Heritage Convention.
+Number of Sites
+There are currently 1,172 World Heritage Sites across 166 countries.
+Types of Sites
+913 cultural sites
+220 natural sites
+39 mixed properties
+World Heritage Committee
+Evaluate nominated sites and inscribe them on the World Heritage List.
+Preservation
+Member states commit to protecting their World Heritage Sites.
+World Heritage Fund
+The fund, supported by member contributions, provides assistance for preserving sites.
+Selection Criteria
+Sites must demonstrate
+Outstanding Universal Value (OUV)
+by meeting criteria defined in the Convention.
+Advisory Bodies
+International Council on Monuments and Sites (ICOMOS) and the International Union for Conservation of Nature (IUCN) assess nominated sites.
+Criteria for Cultural Sites
+Six criteria for significance related to human creative genius, cultural interchange, unique testimony, outstanding examples of architecture, tradition, and events.
+Criteria for Natural Sites
+Four criteria for significance related to natural phenomena, Earth’s evolutionary history, ecological processes, and biological diversity.
+Legal Status
+Once inscribed, each site remains the property of the state it belongs to, with shared responsibility for its preservation and protection.
+Obligations
+Member states are obligated to integrate heritage protection into regional planning, report on-site conditions, and preserve sites for future generations.
+Enforcement
+The Committee may provide assistance, deploy experts, or delist sites in extreme cases of endangerment.
+Important Sites in India:
+42
+World Heritage Sites in India.
+Out of these,
+34 are cultural
+7 are natural
+, and 1,
+Khangchendzonga National Park
+, is of
+mixed type
+India has the
+sixth-most sites
+worldwide.
+first sites
+to be listed were the
+Ajanta Caves, Ellora Caves, Agra Fort, and Taj Mahal
+, all of which were inscribed in the
+1983
+session of the World Heritage Committee.
+The most recent sites listed were
+Santiniketan
+Sacred Ensembles of the Hoysalas
+, in 2023.
+PYQ:
+[2015]
+Which one of the following National Parks has a climate that varies from tropical to subtropical, temperate and arctic?
+(a) Khangchendzonga National Park
+(b) Nandadevi National Park
+(c) Neora Valley National Park
+(d) Namdapha National Park
+**********
