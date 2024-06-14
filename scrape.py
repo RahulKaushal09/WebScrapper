@@ -1191,6 +1191,7 @@ def createScrollerTest():
     res = {
         "quizId": quizId,
         "quizGuid": quizGuid,
+        "api_token" : "45b22444-3023-42a0-9eb4-ac94c22b15c2",
         "result": all_questions
     }
     logging.info("INFO : TEST SCROLLER Sending Result to API : " + api_to_send_questions)
