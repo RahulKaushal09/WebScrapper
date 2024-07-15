@@ -1,0 +1,810 @@
+A NEW WAY TO PREDICT EL NIÑO, LA NIÑA
+Syllabus
+Prelims – GEOGRAPHY
+Context:
+Hyderabad-based Indian National Centre for Ocean Information Services (INCOIS) has developed a new product to predict the emergence of El Niño and La Niña conditions — they are different phases of El Niño Southern Oscillation (ENSO) — up to 15 months in advance.
+Background:-
+In India, while El Niño conditions usually lead to a weak monsoon and intense heatwaves, La Niña conditions result in a strong monsoon.
+About ENSO
+ENSO is a climate phenomenon that involves changes in the temperature of waters in the central and eastern tropical Pacific Ocean, coupled with fluctuations in the overlying atmosphere.
+It can alter the global atmospheric circulation, which, in turn, influences weather across the world.
+ENSO occurs in irregular cycles of 2-7 years and has three different phases — warm (El Niño), cool (La Niña), and neutral.
+In the neutral phase, the eastern side of the Pacific Ocean (near the northwestern coast of South America) is cooler than the western side (near the Philippines and Indonesia). This is due to the prevailing wind systems that move from east to west, sweeping the warmer surface waters towards the Indonesian coast. The relatively cooler waters from below come up to replace the displaced water.
+In the El Niño phase, however, wind systems weaken, leading to lesser displacement of warmer waters. As a result, the eastern side of the Pacific becomes warmer than usual.
+In contrast, a La Niña event is characterized by a period of colder than average sea surface temperatures in the central and eastern Pacific Ocean and an intensification of the prevailing east to west surface winds.
+What is the new product?
+Known as Bayesian Convolutional Neural Network (BCNN), the new product uses the latest technologies such as Artificial Intelligence (AI), deep learning, and machine learning (ML) to improve forecasts related to the ENSO phases.
+The model’s prediction relies on the fact that El Niño or La Niña are connected to the slow oceanic variations and their atmospheric coupling, which gives sufficient lead time to issue early forecasts.
+How does BCNN compare with existing models?
+There are largely two kinds of weather models used for forecasting.
+One is the statistical model, which generates forecasts based on various information sets received from different countries and regions.
+The other is the dynamic model, which involves a 3D mathematical simulation of the atmosphere done using High Performance Computers (HPC). The dynamic model is much more accurate than the statistical model.
+The BCNN, however, is a combination of the dynamic model with AI. This helps it forecast the emergence of El Niño and La Niña conditions with a 15-month lead time — unlike other models which can give a prediction up to six to nine months in advance.
+Source:
+Indian Express
+**********
+GOVT LOOKS AT INCOME TAX RATE CUT TO BOOST DEMAND, TRIGGER PRIVATE INVESTMENT
+Prelims & Mains – ECONOMY
+As the Indian economy grapples with the problem of flagging consumption, policymakers in the government are in favour of rationalising the existing income tax structure, especially at lower income levels.
+In the most recent GDP data release for the January-March quarter on May 31, Private Final Consumption Expenditure (PFCE), an indicator of consumption demand, dropped as a share of GDP to 52.9 per cent — the lowest level in the 2011-12 base year series.
+Key Takeaways
+According to senior government officials, it is likely that tax rate cuts for those earning less may likely take precedence over freebies or excessive welfare spending given the focus on fiscal consolidation.
+The tax cuts may be a more efficient measure to enhance disposable income, which in turn would result in higher consumption, and give a fillip to economic activities.
+A boost to consumption is being seen as crucial for reviving demand, which in turn is central to restarting the investment cycle, especially rekindling private capital expenditure in consumer-focused sectors.
+The revenue loss from any such measure requires a dynamic analysis, officials said. “Since it is expected to spur demand, it requires a general equilibrium analysis to assess the net effect. There will be more money in the hands of the people, leading to better consumption and more direct and indirect tax revenues. So even though revenue loss might be there, the net effect will be positive,” the official said.
+The government has been focusing on fiscal consolidation over the last few years, with an aim to bring down the fiscal deficit to 5.1 per cent of the GDP in 2024-25 and reduce it further to below 4.5 per cent in 2025-26.
+<img alt="" class="alignnone wp-image-194002 size-full" decoding="async" fetchpriority="high" height="307" sizes="(max-width: 902px) 100vw, 902px" src="https://iasbaba.com/wp-content/uploads/2024/06/tax.png" srcset="https://iasbaba.com/wp-content/uploads/2024/06/tax.png 902w, https://iasbaba.com/wp-content/uploads/2024/06/tax-300x102.png 300w, https://iasbaba.com/wp-content/uploads/2024/06/tax-768x261.png 768w" width="902"/>
+The discussions have taken note that the rise in marginal income tax is “too steep” in the existing tax structure.
+Right now, in the new tax system, first slab of 5 per cent starts at Rs 3 lakh. By the time it goes to Rs 15 lakh, which is five times, the marginal tax rate jumps from 5 per cent to 30 per cent — a six fold jump. So while income goes up five times, the marginal tax rate goes up six times, which is quite steep.
+Tax simplification is also being seen as a better tool than overt spending on welfare schemes, which may see possible leakages.
+**********
+TARAKNATH DAS
+Prelims – HISTORY
+Birth anniversary of Shri Taraknath Das was celebrated recently.
+He was a pioneering immigrant in the west coast of North America and discussed his plans with Tolstoy, while organising the Asian Indian immigrants in favour of the Indian independence movement.
+About TARAKNATH DAS
+Taraknath Das (15 June 1884 – 22 December 1958) was an Indian revolutionary and internationalist scholar.
+Tarak was born at Majupara, in the 24 Parganas district of West Bengal.
+Coming from a lower-middle-class family, his father Kalimohan was a clerk at the Central Telegraph Office in Calcutta.
+At a young age Das was attracted by the revolutionary cause of the Anushilan Samiti, a secret society, and became its member.
+On the advice of Jatindranath Mukherjee, Das escaped initially to Japan and then moved to the United States of America.
+Taraknath Das reached Seattle on 12 July 1906 and subsequently got enrolled in the University of California.
+In the United States, Das was actively participating in the political activities of the South Asian immigrants.
+Following the Bellingham riots of September 1907 against South Asian immigrants, he started the publication of an anti-British newspaper, ‘Free Hindusthan’ to champion the cause of these immigrants.
+In 1913, Das came in contact with Har Dayal and got associated with the Ghadar Movement and its anti-colonial activities. In 1917, he was implicated in the Indo-German conspiracy case for which he was imprisoned in Kansas for two years.
+Das continued to be involved in revolutionary activities throughout his life, his writings maintained a strong anti-British stance, instilling nationalism in the minds of the readers.
+Amritmahotsav
+**********
+AEDES ALBOPICTUS MOSQUITO
+Prelims – ENVIRONMENT
+EU health agency recently stated that the Climate change is influencing the spread and impact of the Aedes albopictus mosquito.
+Warmer conditions are allowing this mosquito, to thrive in regions where it previously could not survive.
+Predictions suggest that this species will continue to be a successful invasive species and spread beyond its current geographical boundaries due to its adaptation to colder climates.
+About AEDES ALBOPICTUS :
+The Aedes albopictus, also known as the Asian tiger mosquito or forest mosquito, is native to tropical and subtropical areas of Southeast Asia.
+It’s easily recognizable by its distinctive black and white striped appearance, which has earned it the nickname ‘tiger mosquito’.
+This species is an important vector for transmitting several viral pathogens, including yellow fever, dengue fever, chikungunya fever, and Zika virus, as well as some filarial nematodes like Dirofilaria immitis.
+The spread of Aedes albopictus has been facilitated by international trade and increased travel, and it’s now found on all continents except Antarctica.
+Its adaptability to various environments and its close association with humans make it a significant concern for public health.
+NDTV
+**********
+FILOBOLETUS MANIPULARIS
+: A rare species of bioluminescent mushrooms, scientifically known as Filoboletus manipularis, has been discovered in the forests of Kasaragod.
+<img alt="" class="alignnone wp-image-194005 size-full" decoding="async" height="220" sizes="(max-width: 333px) 100vw, 333px" src="https://iasbaba.com/wp-content/uploads/2024/06/envit.png" srcset="https://iasbaba.com/wp-content/uploads/2024/06/envit.png 333w, https://iasbaba.com/wp-content/uploads/2024/06/envit-300x198.png 300w" width="333"/>
+The discovery was made during a micro-fungal survey conducted by the Kasaragod division of the Kerala Forest and Wildlife Department and the Mushrooms of India Community in the Ranipuram forest. Scientists have warned against consuming these mushrooms due to potential toxicity.
+About FILOBOLETUS MANIPULARIS
+Filoboletus manipularis is a species of agaric fungus in the family Mycenaceae.
+Filoboletus manipularis is commonly found in Australasia, Malaysia, and the Pacific islands.
+They thrive in tropical, humid environments, typically found in dense forests where there’s plenty of decaying organic matter, like fallen trees and leaves. This rich, moist environment provides the nutrients and conditions necessary for their growth and their unique glowing property.
+The glow in Filoboletus manipularis is due to a chemical reaction involving luciferin (a pigment) and luciferase (an enzyme), with oxygen playing a critical role. This reaction produces light, a trait shared with other bioluminescent organisms like fireflies and certain marine creatures.
+In fungi, this glowing mechanism is thought to attract insects, which help disperse the mushroom’s spores.
+**********
+EXERCISE RED FLAG 2024
+Prelims – CURRENT EVENT
+: The Indian Air Force (IAF) successfully completed its participation in Exercise Red Flag 2024.
+It was conducted at Eielson Air Force Base, Alaska, from June 4 to June 14.
+About EXERCISE RED FLAG 2024
+Exercise Red Flag is a premier air-to-air combat training exercise that serves as an advanced aerial combat training event for air forces of the United States and its allies.
+2024 edition was conducted at Nellis Air Force Base, Nevada, and Eielson Air Force Base, Alaska.
+The 2024 edition of the focused on offering realistic training that replicates the stresses of combat operations, improving the participants’ capabilities to maintain a high level of readiness and survivability, and enhancing interoperability among allied air forces.
+Red Flag exercise is known as the most realistic air combat training, where fighter pilots refine skills against numerous targets, authentic threats, and adversary forces.
+This was the first time the IAF Rafale aircraft participated in Ex Red Flag.
+Other combat exercises in which IAF regularly participates:
+<img alt="" class="alignnone wp-image-194006 size-full" decoding="async" height="154" sizes="(max-width: 548px) 100vw, 548px" src="https://iasbaba.com/wp-content/uploads/2024/06/acoe.png" srcset="https://iasbaba.com/wp-content/uploads/2024/06/acoe.png 548w, https://iasbaba.com/wp-content/uploads/2024/06/acoe-300x84.png 300w" width="548"/>
+PIB
+**********
+Daily Practice MCQs
+Q1.) Consider the following Air combat exercises:
+Pitch Black
+Desert Flag
+The Indian Air Force (IAF) participates in how many of the above given exercises?
+Only one
+Only two
+All three
+None
+Q2.) Filoboletus manipularis, recently seen in news is a
+Bacterium
+Virus
+Fungus
+Alga
+Q3.) Consider the following statements:
+Aedes albopictus mosquito is a native to tropical and subtropical areas of Southeast Asia.
+Aedes albopictus mosquito transmits dengue, chikungunya and Zika viruses.
+Which of the statements given above is/are correct?
+1 only
+2 only
+Both 1 and 2
+Neither 1 nor 2
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  18th June 2024
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs.st1
+**********Indo-US NSA Meet
+Why in the News?
+In the first official visit from the US since Prime Minister Narendra Modi was re-elected for a third-term, US National Security Advisor Jake Sullivan met National Security Advisor Ajit Doval in Delhi.
+What’s in Today’s Article?
+About NSC (Composition, Functions, etc.)
+News Summary (About iCET)
+National Security Council:
+The National Security Council (NSC) of India is the principal body responsible for advising the Prime Minister on matters of national security and strategic interests.
+It was established by the former Prime Minister of India
+Atal Bihari Vajpayee
+in 1998, with
+Brajesh Mishra
+as the first National Security Advisor.
+Composition of the NSC
+Head of the NSC
+: Prime Minister
+The Prime Minister oversees all aspects of national security and strategic policy.
+The NSA is the primary advisor to the Prime Minister on national security issues.
+The NSA coordinates with various ministries, agencies, and departments involved in national security.
+Members of NSC
+National Security Advisor (NSA),
+Chief of Defence Staff (CDS),
+Deputy National Security Advisors,
+Union Ministers of Defence, External Affairs, Home, Finance, and
+Vice Chairman of the NITI Aayog
+Functions of NSC:
+Policy Formulation and Coordination
+Intelligence Assessment
+Strategic Planning
+Crisis Management
+International Security Cooperation
+Before the NSC was formed, these functions were carried out by the Principal Secretary to the Prime Minister.
+Indo-US NSA Meet:
+India’s National Security Advisor, Ajit Doval, held a bilateral talk with the US’ National Security Advisor, Jake Sullivan, in New Delhi.
+Both agreed to strengthen cooperation in a range of areas — Defence technology, Space, Artificial Intelligence, High-Performance Computing, critical minerals among others.
+Both also committed to take
+concrete action in the coming months to address long-standing barriers to bilateral strategic trade, technology, and industrial cooperation
+, including in the commercial and civil space sector.
+Both the NSAs chaired the second meeting of the India-U.S. initiative on Critical and Emerging Technology (iCET).
+What is Initiative on Critical and Emerging Technology (iCET)?
+The Initiative on Critical and Emerging Technologies is a
+framework agreed upon by India and the U.S. for cooperation on critical and emerging technologies
+These emerging technologies include
+artificial intelligence
+quantum computing
+semiconductors
+wireless telecommunication
+Prime Minister Modi and President Biden first announced the framework on the side lines of the Quad meeting in Tokyo in May 2022.
+It was launched in 2023 to strengthen their strategic partnership and drive technology and defence cooperation.
+Focus Areas of iCET:
+Primarily, the
+iCET seeks to position New Delhi and Washington D.C. as “trusted technology partners”
+to build supply chains and support the co-production and co-development of items.
+Key Areas Include:
+Setting up a research agency partnership to drive collaboration in areas like Artificial Intelligence;
+Developing a new defence industrial cooperation roadmap to accelerate technological cooperation for joint development and production;
+Developing common standards in
+Developing a roadmap to accelerate defence technological cooperation and ‘innovation bridge’ to connect
+defence startups
+Supporting the development of a
+ecosystem;
+Strengthening cooperation on
+human spaceflight
+Advancing cooperation on development in
+5G
+6G
+; and
+Adopting
+OpenRAN network
+technology in India.
+newspaper.pdf
+( Size:  2.6 MB  )
+Click to View More
+International Relations
+**********Direct Seeding of Rice (DSR) is yet to pick up in Punjab
+Why in news?
+The Punjab government is promoting the direct seeding of rice (DSR), also known as the 'tar-wattar' technique, to reduce water usage by 15% to 20%. Traditional methods require 3,600 to 4,125 litres of water per kilo of rice, whereas DSR uses much less. Additionally, DSR requires less labor and the rice matures 7 to 10 days faster, allowing farmers more time to manage paddy straw.
+Despite these benefits and a government incentive of Rs 1,500 per acre, DSR adoption remains low. Last year, only 1.73 lakh acres out of 79 lakh acres under paddy cultivation used DSR.
+The government’s target for this year is 7 lakh acres, which is still less than 10% of Punjab's total rice acreage.
+What’s in today’s article?
+Path forward for DSR
+About
+DSR is a method of planting rice seeds directly into the field rather than transplanting seedlings from a nursery.
+This technique involves sowing pre-germinated or dry seeds directly into the main field, either through broadcasting (scattering seeds), drilling (placing seeds in rows), or using specialized seeders.
+Working
+Field Preparation
+The field is prepared by leveling and ensuring good soil tilth to promote uniform seed germination and growth.
+Land may be tilled or left untilled (zero tillage), depending on the specific DSR method used.
+Seed Sowing
+Broadcasting: Seeds are scattered uniformly over the field.
+Drilling: Seeds are sown in rows using a seed drill or planter.
+Mechanized Sowing: Specialized machinery can be used for precision planting of seeds.
+Water Management
+Initial irrigation may be provided to ensure seed germination.
+Subsequent water management practices focus on maintaining optimal moisture levels without continuous flooding, as in traditional transplanting.
+Weed and Pest Management
+Effective weed control is critical, often requiring pre-emergence and post-emergence herbicides.
+Regular monitoring for pests and diseases is necessary.
+Different from traditional methods
+Traditionally, paddy farmers prepare nurseries where seeds are first sown.
+After 25-35 days, the young seedlings are uprooted and replanted, in the flooded main field.
+While this method is labour and water-intensive, it is known to maximise yields and maintain better crop health.
+Soils suitable for DSR
+Experts emphasise that soil suitability is crucial for the successful implementation of DSR.
+armers should avoid DSR in light-textured soils
+— it is more suitable for heavy or medium-to-heavy-textured soils.
+This is primarily because light-textured soils do not retain water well. These soils completely counteract the water-saving benefits of DSR, and in fact, ends up guzzling down more water.
+The iron content of the soil also determines the suitability of DSR.
+Soil with severe iron deficiency, and weed problems must not be cultivated using this technique
+Experts recommend that soils with plant-available iron are ideal for DSR.
+In case iron supplements are being used, farmers should apply ferrace iron, which is green-coloured and not oxidised, rather than oxidised iron, which is brown in colour.
+Benefits of DSR:
+Water Savings
+- DSR significantly reduces water usage compared to traditional flooded rice fields since it eliminates the need for continuous flooding.
+Labor Savings -
+Reduces labor requirements for nursery preparation, seedling transplanting, and associated activities.
+Faster Crop Establishment
+- Seeds germinate and establish more quickly, leading to potentially earlier harvesting.
+Reduced Greenhouse Gas Emissions
+- Lower methane emissions due to less anaerobic decomposition in non-flooded conditions.
+Cost Savings
+- Lower costs for labor, water, and sometimes inputs, depending on the method used.
+Challenges of DSR:
+Weed Management
+- Weeds can be a significant problem due to the absence of water that usually suppresses weed growth in traditional systems.
+Effective herbicide use and integrated weed management practices are crucial.
+- Requires precise water management skills to avoid water stress or flooding that can affect seed germination and growth.
+Pest and Disease Control
+- Increased susceptibility to certain pests and diseases compared to traditional flooded systems.
+Soil and Crop Management
+- Requires good soil preparation and fertility management to ensure uniform seed germination and growth.
+Variability in soil conditions can impact the success of DSR.
+Technological Requirements
+- Access to appropriate machinery and technology for seed drilling and planting can be a barrier in some regions.
+A basic lack of awareness and understanding is holding DSR back.
+After using the method on unsuitable soil, farmers do not get the expected yields.
+They then developed apprehensions regarding DSR and reverted to their traditional puddling method.
+Experts say that comprehensively educating farmers is key to enable the adoption of a new technique, and departure from age-old, tried and tested methods.
+They suggest that extensive training and a ready helpline be provided, to handhold the farmers through the whole process, from pre-sowing to harvesting.
+This can instill confidence among farmers regarding DSR’s efficacy.
+Direct Seeding of Rice (DSR) is yet to pick up in Punjab.pdf
+( Size:  2.3 MB  )
+Click to View More
+Economics
+**********Indian Diaspora in South Africa
+Why in News?
+In South Africa's most recent elections, a number of Indian-descent candidates from different political parties achieved notable success and secured electoral wins in the National Assembly and provincial legislatures.
+What’s in Today’s Article?
+History of Indian Diaspora in South Africa
+Identity Formation of Indian Diaspora in South Africa
+Challenges Faced by Indian Diaspora in South Africa
+Recent Political Gains Made by Indian Diaspora in South Africa
+History of Indian Diaspora in South Africa:
+The Indian diaspora in South Africa has a long and complicated history that
+dates all the way back to the 19th century
+The first Indians were sent to South Africa by the British Empire as
+indentured labourers
+for the purpose of working on the sugar cane estates in Natal.
+The indentured labour system was
+a type of bonded labour
+where workers were guaranteed a return trip to India when their contract had expired.
+But in reality
+, many of them remained imprisoned in South Africa due to debt or other circumstances.
+Between 1860 and 1911
+, some 152,000 indentured labourers were transferred from India to South Africa.
+Mahatma Gandhi
+, who spent several years (practising law) in South Africa and formed many of his ideas about nonviolent resistance there, was one of the most well-known individuals from this era.
+Identity Formation of Indian Diaspora in South Africa:
+The indentured labourers
+endured difficult working circumstances as well as a variety of discriminatory practises, such as limitations on their freedom of movement and the possession of property.
+During apartheid
+(from 1948 and until the early 1990s), the Indian community in South Africa was subject to a number of discriminatory laws and rules, including restrictions on their right to own property and freedom of movement.
+Notwithstanding these obstacles,
+the Indian community in South Africa started to expand
+- in numbers and in their socio-economic-political status.
+For example,
+The South African Indian origin community
+numbers around 1 million today
+and constitutes about 3% of South Africa’s total population.
+About 80% of the Indian community lives in the province of KwaZulu Natal.
+South Africans of Indian origin are
+well-represented in Government, business, media, legal and other professions.
+One area where the Indian community in South Africa has thrived is
+education
+Today, a large number of Indian students in South Africa are pursuing advanced degrees in fields like law, medicine and engineering.
+This is helping South Africa in
+developing its knowledge economy
+In general, the socioeconomic conditions of the Indian diaspora in South Africa are
+complex and diverse
+, reflecting both the challenges and opportunities that the country faces.
+Challenges Faced by Indian Diaspora in South Africa:
+Economic struggle:
+One of the main problems facing the Indian community in South Africa is
+poverty
+The most recent census figures show that many Indians in South Africa live barely over the poverty line, with about one in four of them living below it.
+Cultural marginalisation:
+Due to the country’s education system’s historical emphasis on Western culture, Indian culture and heritage are not adequately represented in schools and institutions.
+Violence and hate crimes
+a wave of violence that broke out in Durban in 2019 led to the destruction of several Indian traders’ shops.
+According to reports, the attacks were carried out by locals who claimed that Indian traders were stealing their jobs and means of subsistence.
+Recent Political Gains Made by Indian Diaspora in South Africa:
+Of the 87 parliament members of the Democratic Alliance (DA),
+four are of Indian descent.
+While
+Mergan Chetty
+won his third consecutive stint in parliament,
+Shara Singh
+, a member of Provincial Legislature from KwaZulu-Natal, graduated to national politics and became a member of parliament.
+While most of the elected members of Indian lineage were born in South Africa,
+Anilkumar Kesava Pillai
+, a native of Thiruvalla in Pathanamthitta district of Kerala, established himself in the local politics of the country 40 years ago.
+Meanwhile, some of the independent candidates and political formations that had espoused the cause of Indians failed to secure enough support.
+newspaper.pdf
+( Size:  802.5 KB  )
+Click to View More
+International Relations
+**********Kanchanjunga express accident - Human error or missing Kavach?
+Why in news?
+Nine people were killed, and at least 40 were injured when the Sealdah-bound Kanchanjunga Express from Agartala was hit from the rear by a goods train. The accident occurred in West Bengal’s Darjeeling district, 11 km from New Jalpaiguri station.
+A combination of a signalling fault on the tracks before the New Jalpaiguri station and human error by the driver of the freight train are likely to have led to a deadly collision. In this context, experts highlight the importance of installing the
+anti-collision system 'Kavach'
+to control human errors.
+What’s in today’s article?
+T/A912 Authorization
+Kavach - Train Collision Avoidance System
+About
+Also known as paper line clearance, T/A912 authorization is a specific instruction given to train drivers in the event of a failure or defect in the automatic signalling system.
+It outlines the procedures and speed restrictions that must be followed to ensure safe train operations under such conditions.
+Procedures and speed restrictions
+Signal Procedure
+When encountering an automatic signal displaying the "ON" aspect (red signal), the driver must stop the train.
+The train must wait for the prescribed duration at the red signal: one minute during the day and two minutes at night.
+Proceeding with Caution
+After the waiting period, the driver may proceed with extreme caution.
+The maximum speed allowed is 15 kmph where visibility is good.
+The maximum speed allowed is 10 kmph where visibility is poor (e.g., in case of rain).
+The driver must maintain these restricted speeds until reaching the next stop signal or clear signal indication.
+Combination of faulty automatic signalling system and human error - possible reasons behind the accident
+Faulty automatic signalling system
+The automatic signalling system between Ranipatra railway station and Chattar Hat junction in West Bengalwas not working.
+This prompted the Rangapani station manager to issue a cautionary note known as T/A912 to all drivers passing through the section.
+The driver of the Kanchanjunga Express followed the correct procedures during the defect in the automatic signalling system.
+It stopped at all red signals for one minute and proceeding at 10 kmph.
+However, the goods train's driver ignored these norms and hit the stationary passenger train from behind.
+It is India’s very own automatic protection system in development since 2012, under the name Train Collision Avoidance System (TCAS).
+Later, it got rechristened to Kavach or “armour”.
+Basically, Kavach is a state-of-the-art electronic system which was designed to help the Indian Railways achieve Zero Accidents.
+Development
+It has been indigenously developed by the
+Research Design and Standards Organisation (RDSO)
+in collaboration with the Indian industry.
+Trails were facilitated by South Central Railway to achieve the corporate objective of safety in train operations.
+Functioning
+A set of electronic devices and Radio Frequency Identification devices installed in locomotives, in the signalling system as well the track.
+This enables the
+locomotives, signalling system and tracks to talk to each other using ultra high radio frequencies
+to control the brakes of trains and also alert drivers.
+Features
+It activates the train braking system automatically if the driver fails to control the train as per the speed restrictions.
+In addition, it prevents collision between two Locomotives equipped with a functional KAVACH system.
+It is designed to assist locomotive pilots in avoiding Signal Passing At Danger (SPAD) and over speeding.
+SPAD - when a train passes a stop signal when not allowed to do so.
+SPADs are one of the potential precursors to railway accidents.
+It will also provide support for train operations during adverse weather conditions such as dense fog.
+It is a Safety Integrity Level 4 (SIL-4) certified technology with the
+probability of error being one in 10,000 years
+Other features
+Automatic Braking for Prevention of Over Speeding
+Auto Whistling while approaching Level Crossing Gates
+SoS Messages during emergency situations
+Centralised live monitoring of Train movements through Network Monitor System
+Deployment strategy
+Indian Railways had plans to implement KAVACH protection system to an extent of 2000 km during 2022-23.
+Around 34,000 km of network will be brought under KAVACH.
+Benefits
+Enhanced safety for Indian railways
+World’s cheapest automatic train collision protection system
+It costs ₹50 lakh per kilometre to operate compared to about ₹2 crore worldwide.
+Opens avenues of export of this indigenous technology for Railways.
+Kanchanjunga express accident - Human error or missing Kavach.pdf
+( Size:  1.7 MB  )
+Click to View More
+Defence & Security
+**********The last continent must remain a pristine wilderness
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+46th Antarctic Treaty Consultative Meeting (ATCM-46)
+Mains level:
+Gaps in the Antarctics' Regulatory Framework
+Why in the news?
+The 46th Antarctic Treaty Consultative Meeting (ATCM-46), held in Kochi, Kerala last month, brought attention to the ongoing debate regarding Antarctic tourism.
+Highlights of the 46th Antarctic Treaty Consultative Meeting (ATCM-46) in Kerala
+Focus on Developing a Regulatory Framework:
+ATCM-46 emphasized the need for a comprehensive, flexible, and dynamic framework for regulating tourism and non-governmental activities in Antarctica. A new working group was established to lead this effort over the next year, highlighting a renewed commitment to addressing tourism challenges in the region.
+Recognition of Environmental Concerns:
+The meeting acknowledged the significant environmental impacts of increasing tourism, including disruptions to wildlife, ecosystem damage, and pollution. There was a consensus on the urgency of mitigating these impacts through stronger regulatory measures and enhanced monitoring programs.
+India’s Proactive Stance:
+India played a crucial role in emphasizing the importance of monitoring tourism impacts on Antarctic research, conservation, and the environment. India supported measures against constructing tourism-related structures with significant environmental impacts and showcased its commitment by enacting its own Antarctic Law in 2022 to regulate activities and protect the Antarctic environment.
+Gaps in the Regulatory Framework
+Lack of Specific Regulations:
+The current governance framework for Antarctic tourism is fragmented and lacks specific regulations. The Antarctic Treaty (1961) prioritises peaceful use and scientific research, while the Madrid Protocol offers broad environmental guidelines but lacks detailed tourism regulations.
+Self-Regulation by IAATO:
+The International Association of Antarctica Tour Operators (IAATO), a self-regulatory industry body, is primarily responsible for the day-to-day management of tourism. Many believe that IAATO’s guidelines are inadequate to address the growing environmental pressures.
+Consensus Rule Limitations:
+The requirement for unanimous agreement from all consultative parties often slows down decision-making and allows national interests to impede progress. This has resulted in non-binding guidelines rather than comprehensive regulation.
+Failed to make consensus on tourism:
+Discussions on tourism regulation have been ongoing since the 1960s. A proposed tourism annexe in 1991 failed to gain consensus, leading to the current reliance on IAATO’s self-regulation. Despite the increasing frequency of discussions since a 2004 expert meeting, comprehensive regulation has remained elusive.
+India’s Stand on Tourism Issues
+Emphasis on Monitoring:
+India has consistently emphasised the importance of monitoring the impacts of tourism on Antarctic research, conservation, and the environment. This was highlighted at ATCM 44 (2022) and reinforced at ATCM-46.
+Opposition to Environmental Impact:
+India supported Resolution 5 (2022), which advised against building tourism-related structures with significant environmental impacts. This stance reflects India’s commitment to minimising the environmental footprint of tourism in Antarctica.
+Call for Comprehensive Debate:
+Between ATCM 44 and ATCM 45, India continued to call for a comprehensive debate on Antarctic tourism, stressing the need for governance action.
+Enactment of Antarctic Law:
+Despite the lack of international consensus, India took proactive steps by enacting its own Antarctic Law in 2022. This law aims to regulate activities and safeguard the Antarctic environment from the impacts of tourism.
+Focus on Sustainable Future:
+At ATCM-46, India advocated for a multi-pronged approach to ensure a sustainable future for Antarctic tourism. This includes strengthening environmental protection, implementing robust monitoring programs, and fostering international cooperation to preserve Antarctica’s pristine wilderness.
+Conclusion:
+Countries need to work together to create a robust international regulatory framework that addresses the unique challenges of Antarctic tourism. This involves building on the efforts initiated at ATCM-46 and ensuring that the newly established working group develops comprehensive, binding regulations that all parties can agree upon and implement.
+Mains PYQ:
+The states of Jammu and Kashmir, Himachal Pradesh and Uttarakhand are reaching the limits of econological carrying capacity due to tourism. Critically evaluate
+.(UPSC IAS/2015)
+**********World Crocodile Day 2024: In 50th year of India’s saurian conservation 
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+IUCN Status of Crocodiles of India
+Mains level:
+Crocodile Conservation Project
+Why in the news?
+The successful Crocodile Conservation Project in Bhitarkanika National Park is escalating the human-crocodile conflicts affecting local communities.
+About the Crocodile Conservation Project
+Launch and Objective:
+The Crocodile Conservation Project was launched in 1975 in Bhitarkanika National Park, Odisha. The main objective was to protect the crocodiles’ natural habitat and revive the population through captive breeding due to the low survival rate of hatchlings in nature.
+Historical Context:
+Initiated barely three years after the Wild Life (Protection) Act, 1972. The project was launched due to the threat of extinction from indiscriminate killing for commercial purposes and severe habitat loss.
+Implementation and Success:
+Centers for breeding and rearing saltwater crocodiles, muggers, and gharials were started in 34 locations across various states in India under the guidance of HR Bustard. The project in Bhitarkanika, started by Sudhakar Kar and HR Bustard, has been the most successful, increasing the population from 95 in 1975 to 1,811 in the latest reptile census.
+Ongoing Efforts:
+continues to provide technical expertise and methodology for the annual census of saltwater crocodiles even after retirement. Conservation of crocodiles is described as a lifelong mission by Kar.
+The three crocodiles of India, the Saltwater Crocodile, Mugger Crocodile, and Gharial, are listed as Least Concern, Vulnerable, and Critically Endangered respectively on the IUCN Red List of Threatened Species.
+Bhitarkanika National Park is a 145 km² (56 sq mi) protected area in Odisha, eastern India. It was designated as a national park in 1998 and obtained the
+status of a Ramsar site in 2002
+The park is known for its unique mangrove ecosystem, which is the second largest in India. It is home to a variety of flora and fauna, including the endangered saltwater crocodile, Indian python, king cobra, black ibis, and darters.
+About the Issues Faced by Bhitarkanika
+Human-Crocodile Conflict:
+The increasing crocodile population has led to rising human-crocodile conflicts. Sudhakar Kar expressed concern over the conflicts, warning locals to avoid entering rivers, creeks, and waterbodies inhabited by estuarine crocodiles.
+Impact on Local Communities:
+Conflicts have led to 50 deaths since 2014. Local villagers have criticized politicians for not addressing the safety issues adequately, affecting political outcomes.
+Preventive Measures:
+Forest officials have erected barricades around 120 river ghats in and around Bhitarkanika to prevent crocodile attacks on humans.
+Political Implications:
+The human-crocodile conflict has influenced local political dynamics, with villagers expressing dissatisfaction with incumbents over safety concerns related to crocodile attacks.
+Conclusion:
+Construct and maintain more robust protective barriers around water bodies, such as reinforced barricades and secure river ghats. Additionally, create safe, designated areas for water-related activities to minimize the risk of crocodile attacks.
+Mains PYQ:
+How does biodiversity vary in India? How is the Biological Diversity Act,2002 helpful in the conservation of flora and fauna?
+(UPSC IAS/2018)
+**********An Ageing India: The magnitude and the multitude 
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Magnitude and Multiplication of aged population
+Why in the news?
+The phenomenon of ageing stands out as one of the most significant developments of this century, characterized by notable advancements in human longevity alongside historically low reproduction rates.
+About the magnitude and multiplication of the aged population
+The magnitude of Aging Population:
+The 21st century is witnessing a significant demographic shift marked by a notable increase in human longevity. Improved healthcare and living conditions have contributed to a rise in life expectancy, leading to a larger elderly population. By mid-century, India is projected to have around 319 million elderly people, growing at a rate of approximately 3% annually.
+Multiplication of Aging Phenomenon:
+Despite longevity gains, there is a simultaneous decline in fertility rates, leading to an ageing population with a lower proportion of younger generations. This demographic shift poses challenges related to healthcare, social security, and economic sustainability. The elderly population is becoming increasingly feminized, with a higher prevalence of elderly women due to longer life expectancy and higher widowhood rates.
+Aged Population as per 2011 Census
+According to the 2011 Census of India, the population of people aged 60 and older in India was 104 million, which is 8.6% of the total population. This is an increase from 5.6% in 1961.
+The census also found that 53 million of the elderly population were female and 51 million were male, with a sex ratio of 1033. 71% of the elderly population lived in rural areas and 29% lived in urban areas. Additionally, 5.18% of the elderly population, or 53,76,619 people, had some disability
+Issues and Challenges
+Vulnerabilities of the Elderly:
+Many elderly individuals in India face significant vulnerabilities, including limitations in activities of daily living (ADL), multi-morbidity, poverty, and lack of financial security.A substantial proportion of the elderly report poor health conditions, with a high prevalence of chronic diseases such as diabetes and cancer.
+Mental health issues, particularly depression, are also prevalent among the elderly population.
+Social and Economic Insecurities:
+Food insecurity affects a notable percentage of the elderly, with reports of reduced portions or skipped meals due to economic constraints.
+Lack of legal protection:
+Awareness and access to welfare measures and legal protections for the elderly are low, with limited knowledge about schemes like IGNOAPS, IGNWPS, and Annapurna.
+Abuse and Neglect:
+Elder abuse is a significant concern, especially for elderly women in rural areas who often experience neglect and mistreatment within their families and communities. Social exclusion and limited opportunities for productive engagement exacerbate feelings of insecurity and marginalization among the elderly.
+Way Forward
+Enhancing Social Support and Welfare Measures:
+Strengthening awareness and accessibility of welfare schemes and legal protections for the elderly. Implementing social security measures to ensure financial stability and improve quality of life for ageing populations.
+Healthcare and Mental Well-being:
+Prioritizing healthcare interventions tailored to the needs of the elderly, including preventive measures against chronic diseases and mental health support. Promoting healthy ageing through lifestyle interventions and healthcare policies that address the unique challenges of an ageing population.
+Empowerment and Social Inclusion:
+Fostering social inclusion through community engagement and initiatives that empower the elderly to contribute actively to society. Developing innovative institutional frameworks that value the elderly as assets and promote their participation in societal development.
+Mains PYQ:
+Q. Critically examine the effects of globalization on the aged population in India.
+(UPSC IAS/2013)
+**********EU Environmental Council adopts nature restoration law in historic win for continent’s environment
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Nature Restoration Law (NRL)
+Mains level:
+About the EU Biodiversity Strategy for 2030
+Why in the news?
+On June 17, 2024, the EU Environmental Council approved the Nature Restoration Law (NRL), marking a significant victory for environmental conservation across the continent.
+Nature Restoration Law (NRL):
+Objective and Scope:
+The NRL aims to restore and preserve biodiversity and ecosystem health across Europe. It targets a wide range of habitats including terrestrial, coastal, freshwater, forest, agricultural, and urban areas. Specific ecosystems such as wetlands, grasslands, forests, rivers, lakes, and marine environments like seagrass beds and coral reefs are covered.
+Targets and Timelines:
+Member states are required to restore at least 20% of the EU’s land and sea areas by 2030. This includes all ecosystems identified as in need of restoration. The law sets a longer-term goal for the complete restoration of all degraded ecosystems in Europe by 2050.
+Objective:
+The EU Biodiversity Strategy for 2030 aims to halt biodiversity loss and restore ecosystems across Europe. It sets ambitious targets to ensure that biodiversity is conserved, valued, and restored for its intrinsic value and for the benefits it provides to people and the planet.
+Targets and Actions:
+The strategy includes specific targets for 2030, such as protecting at least 30% of EU land and sea areas, with 10% under strict protection, restoring degraded ecosystems, and integrating biodiversity considerations into agriculture, forestry, fisheries, and urban planning.
+It emphasizes the importance of promoting green infrastructure, sustainable land use, and enhancing ecosystem services to support biodiversity.
+Policy Instruments and Implementation:
+The strategy integrates biodiversity considerations into key EU policies and sectors, including agriculture, fisheries, forestry, climate action, and regional development.
+It encourages the use of innovative financing mechanisms, partnerships with stakeholders, and international cooperation to achieve its goals.
+Monitoring and Review:
+The EU Biodiversity Strategy for 2030 includes a robust monitoring framework to track progress towards its targets and assess the effectiveness of actions taken.
+Regular reviews and updates are planned to ensure that the strategy remains relevant and adaptive to new challenges and scientific knowledge..
+Challenges in Nature Restoration Law (NRL)
+Implementation Complexity:
+One of the primary challenges is the complexity of implementing the NRL across diverse ecosystems and landscapes within EU member states. Each country may have varying capacities, resources, and existing environmental conditions, making uniform implementation challenging.
+Cost and Funding Requirements:
+Restoring 20% of the EU’s land and sea areas by 2030 requires significant financial resources. The NRL involves costs related to restoration projects, monitoring, enforcement, and stakeholder engagement. Securing adequate funding and ensuring sustained financial support over the long term is crucial but challenging.
+Conclusion:
+Create dedicated funding mechanisms or expand existing EU funds specifically for biodiversity restoration under the NRL. This could include grants, subsidies, and low-interest loans tailored to support restoration projects across member states.
+Mains PYQ:
+Environmental Impact Assessment studies are increasingly undertaken before a project is cleared by the Government. Discuss the environmental impacts of coal-fired thermal plants located at coal pitheads
+. (UPSC IAS/2014)
+**********Valentina Tereshkova: The First Woman in Space
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Valentina Tereshkova, Manned mission to space
+Why in the News?
+On June 16, 1963,
+made history as the
+first woman to venture into space
+. Her achievement marked a significant milestone in the Space Race between the USA and the USSR during the Cold War.
+About Valentina Tereshkova’s Space Journey
+In 1962, Tereshkova was selected among five women for the Soviet space program, aiming to achieve ‘
+gender equality’
+in space exploration
+The USSR’s decision to send a woman into space was partly
+influenced by
+the success of
+Yuri Gagarin’s mission in 1961
+and the desire to surpass the US in space achievements.
+affiliation with the
+Communist Party
+and her skills as a parachutist were factors in her selection for the Vostok 6 mission.
+The Mission – Vostok 6
+On June 16, 1963, Tereshkova
+piloted Vostok 6
+, becoming the first woman to orbit the Earth.
+She spent
+71 hours
+, completing
+48 orbits
+around the Earth
+during her mission.
+Impact and Legacy
+Tereshkova’s mission
+boosted Soviet prestige
+in the Space Race, following earlier successes like launching
+Sputnik-1 in 1957
+and Yuri Gagarin’s historic flight in 1961.
+Despite her pioneering role, the
+would later achieve milestones like the
+Apollo moon landings
+, surpassing Soviet achievements in manned space missions.
+Tereshkova continued to
+advocate for women’s participation
+in space exploration and held prominent positions in Soviet politics and the Air Force.
+Indian Women in Space
+Indian women have made significant contributions to space exploration, marking milestones and inspiring future generations. Here are notable Indian women who have ventured into space:
+Kalpana Chawla:
+Born in Karnal, Haryana, Kalpana Chawla was the first woman of Indian origin in space. She flew on two Space Shuttle missions, including STS-87 in 1997. Tragically, she lost her life during the re-entry of the Space Shuttle Columbia in 2003.
+Sunita Williams:
+An American astronaut of Indian-Slovenian descent, Sunita Williams has set records for spacewalks and served as a flight engineer on the International Space Station (ISS). She has logged over 322 days in space across multiple missions.
+Sirisha Bandla:
+An aeronautical engineer and Vice President at Virgin Galactic, Sirisha Bandla became the second India-born woman to travel to space on the Virgin Galactic Unity 22 mission in 2021.
+Women Pioneers of ISRO:
+Lalitha Ramachandran
+: Joined ISRO in 1969 as a technical assistant at Vikram Sarabhai Space Centre (VSSC), becoming one of the first female chemical engineers recruited by ISRO. She retired as associate project director of the Cryogenic Upper Stage Project.
+J Geetha
+: Joined ISRO in 1972 after working at Bhabha Atomic Research Centre. She reminisces about the challenges of data gathering in the pre-internet era and the mentorship she received from stalwarts like Satish Dhawan and Vasant R Gowarikar.
+Radhika Ramachandran
+: Joined ISRO in 1984 and served in various roles, including technical liaison officer at ISRO’s New Delhi office and director of the Space Physics Laboratory. She highlights the merit-based culture and the support for open discussions and suggestions.
+T S Ramadevi
+: Joined ISRO in 1970 after completing her BTech from CET, Thiruvananthapuram. She was part of the communications unit and contributed to the growth of ISRO’s transmission technologies. She retired as deputy director of management systems.
+Athula Devi
+: Joined ISRO in 1987 and retired in January, having been part of the team that developed base software systems for the Gaganyaan launch. She emphasizes ISRO’s growth through failures and the team’s dedication to projects above personal recognition.
+PYQ:
+[2017]
+India has achieved remarkable successes in unmanned space missions including the Chandrayaan and Mars Orbiter Mission, but has not ventured into manned space missions. What are the main obstacles to launching a manned space mission, both in terms of technology and logistics? Examine critically. (10)
+**********Quantum Physics Behind Diapers: How They Absorb So Much Liquid
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Super-Absorbent Polymers (SAP), Polyacrylamide,Sodium Polyacrylate
+Why in the News?
+Understanding the absorbency of diapers through the Quantum physics of water absorption and contrasting materials that do or do not absorb water.
+Absorption in Diapers: How it works?
+Absorption depends on microscopic forces and material properties.
+Water molecules are attracted to materials like cotton due to their structure.
+Cotton, a network of polymers with ions, absorbs water effectively by attracting water molecules.
+For large fluid absorption like in diapers, super-absorbent polymers (SAP) are crucial.
+What are
+Super-Absorbent Polymers (SAP)?
+SAPs are synthetic materials with the ability to
+absorb and retain large amounts of liquid
+relative to their own mass.
+They are commonly used in products like
+diapers, sanitary napkins
+, and other absorbent hygiene products.
+SAPs are typically
+cross-linked polymers
+, meaning their molecules are bonded in a way that creates a network capable of absorbing water molecules.
+Examples:
+Sodium Polyacrylate:
+This is one of the most common types of SAP used in diapers. It forms a gel-like substance when it absorbs liquid.
+Polyacrylamide:
+Another type of SAP used in various applications, including agriculture and wastewater treatment, due to its high water-absorbing capacity.
+Quantum Physics Insight of SAP
+Quantum physics plays a fundamental role in understanding the behaviour of super-absorbent polymers (SAPs), particularly in how they interact with water molecules at the atomic level:
+Electron Sharing:
+SAPs contain ions like sodium, which have a
+strong affinity for water molecules
+. This attraction is based on the principles of quantum physics, where atoms like sodium and oxygen prefer to share electrons to achieve stability. This shared electron arrangement allows water molecules to bond with the ions in SAPs, facilitating the absorption process.
+Quantum Mechanical Properties:
+At the quantum level, electrons behave as waves and can exist in shared states between atoms. This phenomenon allows for the formation of stable bonds between water molecules and SAP ions, enhancing the SAP’s ability to absorb large amounts of liquid.
+Energy States:
+Quantum physics explains how SAPs manage energy states during absorption. As water enters the SAP, energy is released due to changes in the electron configurations and bonding energies of the ions involved. This process is crucial for maintaining the gel-like structure of the SAP and preventing leakage.
+PYQ:
+[2022]
+Which one of the following is the context in which the term “qubit” is mentioned?
+(a) Cloud Services
+(b) Quantum Computing
+(c) Visible Light Communication Technologies
+(d) Wireless Communication Technologies
+**********Gandhi Sagar Wildlife Sanctuary: India’s New Cheetah Habitat
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Cheetah Reintroduction in India, Gandhi Sagar WLS
+Why in the News?
+will become the
+second home for cheetahs
+in India, after
+Kuno National Park.
+The final decision on
+importing cheetahs from Namibia and South Africa
+will be made after the monsoon season to avoid infection risks.
+Cheetah Reintroduction in India:
+In India, cheetahs
+disappeared in the early 1950s
+due to hunting and the loss of their habitat.
+‘Action Plan for Reintroduction of Cheetah in India /Project Cheetah (2022)’
+aims to bring cheetahs from African countries to various national parks.
+It is spearheaded by the
+National Tiger Conservation Authority (NTCA).
+Recently,
+were reintroduced in
+, Madhya Pradesh.
+About Cheetah:
+The cheetah is a
+fast-running big cat native to Africa
+and central Iran, capable of speeds up to
+80 to 128 km/h.
+They live in various habitats like
+savannahs, arid mountains, and hilly deserts
+Cheetahs live in
+three main groups
+: females with cubs, male coalitions, and solitary males.
+hunt during the day
+, preferring dawn and dusk.
+The global cheetah population was 6,500 mature individuals, according to the most recent IUCN assessment in 2021.
+They are listed as
+VULNERABLE
+by the IUCN.
+The Asiatic Cheetah
+is one of the
+five subspecies of cheetah
+, critically endangered and
+found only in Iran
+About Gandhi Sagar Wildlife Sanctuary
+Located in western
+, Gandhi Sagar Wildlife Sanctuary covers an area of 368.62 sq km.
+It spans the
+Mandsaur
+(187.12 sq km) and
+Neemuch
+(181.5 sq km) districts, bordering Rajasthan.
+Situated on a
+flat rocky plateau
+characterized by
+shallow topsoil
+exposed sheetrock
+It is divided by the
+Chambal River
+, with the
+Gandhi Sagar dam
+and reservoir within its boundaries.
+Flora and Fauna:
+Flora:
+The sanctuary features a savannah ecosystem with open grasslands interspersed with dry deciduous trees. Riverine valleys within the sanctuary support evergreen vegetation.
+The sanctuary is home to a diverse range of wildlife, including species like leopards, sloth bears, striped hyenas, grey wolves, golden jackals, jungle cats, Indian foxes, and marsh crocodiles.
+Habitat Suitability for Cheetahs
+Officials cite Gandhi Sagar as having an ideal
+habitat parallel to
+Maasai Mara
+(a National Park)
+in Kenya
+, suitable for cheetahs.
+Plans include
+expanding the cheetah habitat
+to around 2,000 sq km, contingent upon cooperation with
+Rajasthan’s Bhainsrodgarh sanctuary
+PYQ:
+[2024]
+Consider the following statements:
+1. Lions do not have a particular breeding season.
+2. Unlike most other big cats, cheetahs do not roar.
+3. Unlike male lions, male leopards do not proclaim their territory by scent marking.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+[2012]
+Consider the following: (2012)
+Black-necked crane
+Flying squirrel
+Snow leopard
+Which of the above are naturally found in India?
+(a) 1, 2 and 3 only
+(b) 1, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+**********Formula for Flapping Frequency across Flying and Swimming Animals
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the news?
+Researchers at
+Roskilde University in Denmark
+discovered a formula that correlates the
+flapping frequency of winged and swimming animals
+to their mass and wing/fins size.
+The formula applies universally across a diverse range of species, from insects to birds, bats, penguins, whales, and even robotic ornithopters.
+The formula was derived from Newton’s second law (F= mass x acceleration) applied to animals flapping wings to stay airborne.
+Factors considered in the derivation included air density, wing size, and the forces generated by wing movements.
+Research Methodology
+The researchers derived the formula theoretically from Newton’s second law, relating the force needed to stay airborne or submerged to the wing/fins’ motion, air/water dynamics, and animal mass.
+They incorporated empirical observations into a constant C to account for specific shape and flight kinematics variations.
+Application and Validity
+The formula’s validity was tested across various animals:
+176 insect data points (e.g., bees, moths, dragonflies)
+212 bird data points (from hummingbirds to swans)
+25 bat data points
+Formula Extension to Swimming Animals
+The formula also predicts the frequency of fin/fluke movements in swimming animals.
+Adjustments are made for water density and buoyancy effects, excluding fish with swim bladders.
+Limitations and Modifications
+The formula applies well in conditions with high
+Reynolds numbers (Re)
+, where fluid flow is streamlined.
+At low Re values, where viscosity dominates, modifications are needed.
+The equation holds as long as animal density variations do not exceed a factor of ten.
+Insights and Future Research
+Insights from the formula include understanding flight efficiency and potential evolutionary pathways for winged animals.
+Future research aims to explore further insights hidden within the C constant, potentially revealing deeper principles governing animal flight and swimming dynamics.
+PYQ:
+[2024]
+The organisms “Cicada, Froghopper and Pond skater are:
+(a) Birds
+(b) Fish
+(c) Insects
+(d) Reptiles
+**********

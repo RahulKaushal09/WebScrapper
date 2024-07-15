@@ -1,0 +1,858 @@
+Tenth spectrum auction for radiowaves
+Why in news?
+An auction for spectrum worth ₹96,238 crore started on June 25, 2024. Companies like Airtel and Reliance Jio are expected to bid for airwaves to enhance their 5G services.
+This is the 10th spectrum auction since the process for sale of radiowaves started through an online bidding process in 2010.The last spectrum auction was held in August 2022, which,
+for the first time, included radio waves for 5G services
+What’s in today’s article?
+Airwaves/Spectrum – About, types of spectrum band, bands useful for telecom companies
+Spectrum allocation process
+Airwaves are radio frequencies within the electromagnetic spectrum that can carry information wirelessly for a range of services including telecommunications.
+The government manages and allocates airwaves to companies or sectors for their use.
+The government auctions a fixed amount of spectrum within specified band/s to be utilised by operators for providing communication services to consumers.
+Types of spectrum band
+Spectrum can be divided into bands ranging from low frequency to high frequency, which determines their usage and is useful in allocation.
+Low band spectrum
+Less than 1 GHz (600 MHz,700 MHz, 800 MHz, 900 MHz)
+Offers blanket coverage suitable to serve thousands of customers over long distances with fewer towers.
+Ideal for wide and in-building coverage.
+When bundled with high-spectrum bands, it can be used for commercial mobile and broadcasting services.
+The mid-band spectrum
+Ranges from 1 GHz to 6 GHz (1800 MHz, 2100 MHz, and 2300 MHz).
+Provides coverage as well as the capacity to carry more data while traveling significant distances.
+The high band spectrum
+Ranges from 24 GHz to 40 GHz and are also known as the millimetre wave spectrum.
+Ideal for speedy networks over short ranges.
+However, this range is subject to interference from dense objects.
+What spectrum do telecom companies require?
+According to the GSM Association, for telecom purposes, spectrum in the 400 MHz to 4 GHz range is the most optimum.
+Operators can provide 2G, 3G, 4G, and 5G services using one frequency band if they have enough spectrum.
+For mobile technology in India:
+2G services use the 900 MHz and 1800 MHz bands,
+3G uses 900 MHz and 2100 MHz,
+4G uses 850 MHz, 1800 MHz, 2300 MHz, and 2500 MHz, and
+5G uses 3.5MHz and 700 MHz bands.
+The 900 MHz band as a superior commercial ecosystem with better-developed technology standards.
+It is also suitable for offering GSM-based voice calls as well as 4G broadband services.
+After 900 MHz, the band suitable for GSM is 1800 MHz, which is also the core band used globally for LTE (long-term evolution), a 4G mobile communications standard.
+5G spectrum bands can be clubbed into low, mid and high spectrum buckets
+Spectrum Allocation – only through auction
+Spectrum considered to be a scarce natural resource was ordered by the
+top Court to be allocated through the fair and impartial process of auction
+Case originated in 2008
+The alleged 2G spectrum allocation scam is said to have originated in 2008 when the then government sold 122 2G licences on a first-come-first-serve (FCFS) basis to specific telecom operators.
+In its charge sheet filed in April 2011, the CBI alleged that there was a
+loss of ₹ 30,984 crore to the exchequer as a result of discrepancies in the allocation process
+Matter reaches SC
+Petitions were filed in the top Court alleging a ₹70,000 crore scam in the grant of telecom licenses in 2008.
+In February 2012, a division Bench of the SC cancelled the licenses while cautioning that an FCFS basis for the allocation of scarce natural resources can be prone to misuse.
+Competitive auctions for allocating natural resources
+In its judgement, the apex court
+advocated for competitive auctions as the only route to allocate spectrum
+It further emphasised that the burden lies on the state to ensure that the non-discriminatory method of auction is adopted by giving wide publicity so that all eligible persons can participate in the process.
+2012 presidential reference on 2G verdict
+In 2012, the then President Pratibha Patil sought the Supreme Court's opinion on several questions arising from the 2012 SC judgment regarding the allocation of 2G spectrum licenses.
+Under Article 143 of the Constitution of India, the President is empowered to refer to the Supreme Court any matter of law or fact.
+The Supreme Court emphasized that the decision to use auctions or other methods should be based on a case-by-case assessment of the resource in question, considering public interest and policy objectives .
+Centre sought a clarification of the 2G spectrum scam verdict
+In April 2024, the Union government has moved an application for a certain class of spectrum to be allocated through administrative processes instead of competitive auctions.
+administrative allocation would mean that the government will have the final say in deciding the procedure for selecting operators.
+However, the apex Court of India refused to entertain the Centre's plea to allow the administrative allocation of spectrum.
+The Department of Telecommunications (DoT) has initiated the spectrum Auction.
+The Ministry of Communications announced that the following spectrum bands will go up for bidding in the upcoming auction - 800 MHz, 900 MHz, 1800 MHz, 2100 MHz, 2300 MHz, 2500 MHz, 3300 MHz and 26 GHz.
+The 3300 Mhz band and 26 Mhz band are seen as suitable bands for 5G services.
+Total quantum of spectrum being auctioned is 10,522.35 MHz in various bands valuing ₹96,238.45 crores at reserve prices.
+Tenth spectrum auction for radiowaves.pdf
+( Size:  765.0 KB  )
+Click to View More
+Economics
+**********New project to fix water deficit in flagship Jal Jeevan Mission
+Why in news?
+Union Jal Shakti Minister has said that the government was conceiving a new project to ensure that rural households, which were provided taps under the ambitious Jal Jeevan Mission but had not yet been able to avail water, would soon be provided potable water.
+What’s in today’s article?
+Jal Jeevan Mission (JJM)
+Performance of JJM so far
+Challenges to JJM
+About
+Jal Jeevan Mission is envisioned to provide safe and adequate drinking water through individual household tap connections by 2024 to all households in rural India.
+It was launched on August 15, 2019.
+The focus of this mission is on assured and regular potable water service delivery at household level, i.e.,
+water supply in adequate quantity (55 litres per person per day)
+JJM is a decentralized, demand-driven, and community-managed programme that aims to instil a ‘sense of ownership’ among the local community.
+Nodal Ministry
+Department of Drinking Water & Sanitation under the Ministry of Jal Shakti is the nodal institution responsible for implementation of this mission.
+Key detail
+The programme also implements source sustainability measures as mandatory elements, such as:
+recharge and reuse through grey water management, water conservation, rain water harvesting.
+The mission is based on a community approach to water and will include extensive Information, Education and communication as a key component of the mission.
+JJM looks to
+create a janandolan for water
+, thereby making it everyone’s priority.
+Focus activities
+Measurement process
+To measure water connections provided to households, State or Union Territory water supply departments collect data from districts and report it to the Jal Shakti Ministry.
+This data shows that 19 crore rural households have been given tap connections.
+To verify this, villages, through their gram panchayats, self-certify if households actually receive water. This double-checks the state-provided figures.
+Performance of the scheme
+Status of tap water supply in rural homes
+As of June 26, 2024, the scheme had encompassed 77% of its target household.
+Households with tap water connections as on June 26, 2024 – 14,91,32,648 (77.22%).
+However, it should be noted that
+there is a difference between a household getting a tap connection and the daily quota of 55 litres per person day of water being provided
+Har Ghar Jal Status
+Achieving the Har Ghar Jal Status means:
+all households have been connected,
+the water supply department has certified water supply to homes, schools, and anganwadis, and
+a gram sabha resolution has confirmed the department's claim.
+Certified States/ UTs (certified by Ministry):
+Goa, A & N Islands, Puducherry, D&NH and D&D, Arunachal Pradesh, Haryana, Punjab.
+Reported States/ UTs
+: Telangana, Mizoram, Himachal Pradesh, Gujarat.
+The Jal Shakti Ministry has a portal showing target achievements by States.
+According to this, out of 2,24,678 villages claiming 100% tap connectivity, only 1,21,974 have self-certified.
+It is, however, unclear how many of the 19 crore households truly have functional tap water connections.
+Infrastructure Development
+Establishing the necessary infrastructure in remote and rural areas is a significant challenge.
+This includes the construction of pipelines, water treatment plants, and storage facilities​.
+Water Quality
+Ensuring the quality of water supplied through the taps is crucial.
+Contaminants like fluoride, arsenic, and nitrates in groundwater sources pose health risks and require robust treatment solutions​​.
+Sustainabilit
+Maintaining the water supply systems and ensuring they remain functional over time is essential.
+This includes regular maintenance, timely repairs, and efficient management of water resources​.
+Funding and Resources
+Adequate funding and resource allocation are vital for the success of the mission.
+Ensuring that states and local bodies have the financial and human resources to implement and maintain the systems is a continuous challenge​​.
+Community Participation
+Engaging local communities and ensuring their active participation in the planning, implementation, and maintenance of water supply systems is critical.
+Building awareness and training local stakeholders is necessary for the mission's success​​.
+Geographical Challenges
+Diverse geographical conditions across India, such as hilly terrains, deserts, and densely populated areas, present unique challenges in laying pipelines and ensuring a consistent water supply​​.
+Data Accuracy and Verification
+Accurately reporting and verifying the number of functional household tap connections is challenging.
+The self-certification process by gram panchayats is essential but can be prone to discrepancies​.
+Coordination Among Agencies
+Effective coordination between various government agencies at the central, state, and local levels is crucial.
+Overcoming bureaucratic hurdles and ensuring seamless collaboration can be difficult​​.
+New project to fix water deficit in flagship Jal Jeevan Mission.pdf
+( Size:  812.1 KB  )
+Click to View More
+Polity & Governance
+**********Role Played by the Office of Deputy Speaker of Lok Sabha
+Why in News?
+Since the Opposition has become stronger in the 18th Lok Sabha, its members are vying for the office of Deputy Speaker.
+However, the Opposition is forced to run for Speaker for the first time since 1952 because the government has been unwilling to extend any assurances on the post of Deputy Speaker.
+What’s in Today’s Article?
+Rules for the Election of the Deputy Speaker of Lok Sabha
+Office of Deputy Speaker of Lok Sabha Held by the Opposition Since 1952
+Office of Deputy Speaker of Lok Sabha:
+Appointment:
+Article 93
+states that the House of the People shall (as soon as may be) choose two members of the House to be respectively
+Speaker and Deputy Speaker.
+Article 178
+contains the corresponding provision for the Speakers and Deputy Speakers in the state Assemblies.
+It is a parliamentary convention
+to elect a Deputy Speaker of the Lok Sabha from a party other than the ruling party to run an accountable democratic parliament.
+Time frame to appoint a Deputy Speaker:
+The Constitution
+does not specify
+a time frame for making the appointments and it is this gap in the provision that allows governments to delay or avoid appointing a Deputy Speaker.
+However, constitutional experts have pointed out that both Articles 93 and 178 use the words
+“shall” and “as soon as may be”
+This means, not only is the election of the Speaker and Deputy Speaker
+mandatory
+, it must be held at the earliest.
+Powers:
+According to
+Article 95(1)
+, the Deputy Speaker performs the duties of the Speaker if the post is vacant.
+For example,
+After the first Speaker (
+G V Mavalankar
+) died in 1956 before his term ended, Deputy Speaker M Ananthasayanam Ayyangar filled in for the remaining tenure of Lok Sabha from 1956 to 1957.
+Again, after
+G M C Balayogi
+(Speaker in the 13th Lok Sabha) of the TDP, passed away in 2002, Deputy Speaker P M Sayeed (of Congress) became acting Speaker for two months.
+The Deputy Speaker has the
+same powers
+as the Speaker when presiding over the House.
+All references to the Speaker are deemed to be references to the Deputy Speaker as well for the times when s/he presides.
+Removal from the office:
+Once elected, the Deputy Speaker usually
+continues in office until the dissolution of the House.
+Under
+Article 94
+(and Article 179 for state Assemblies), the Speaker or Deputy Speaker shall vacate his/her office if s/he ceases to be a member of the House of the People.
+They may also resign (to each other)
+, or may be
+removed from office
+by a resolution of the House of the People passed by a majority of all the then members of the House.
+Rules for the Election of the Deputy Speaker of Lok Sabha:
+Election of the Speaker:
+The practice in both the Lok Sabha and state Assemblies has been to elect the Speaker in the
+first session of the new House
+S/he is usually elected on the third day
+, after the oath-taking and affirmations have taken place over the first two days.
+The election of the Deputy Speaker:
+It is generally
+not delayed beyond the second session
+unless there are some genuine and unavoidable constraints.
+However, there is
+no bar on having this election in the first session
+of the new Lok Sabha or Assembly.
+In the Lok Sabha
+, it is governed by Rule 8 of the
+Rules of Procedure and Conduct of Business in Lok Sabha
+and shall be held on such date as the
+Speaker may fix
+Office of Deputy Speaker of Lok Sabha Held by the Opposition Since 1952:
+From 1952 to 1969
+, the first four Deputy Speakers were from the ruling Congress.
+Between 1969 and 1977
+, G G Swell of the All-Party Hill Leaders Conference served as Deputy Speaker.
+From 1977 to 1979
+, Godey Murahari of the Congress held the post when the Janata Party government was in power.
+From 1980 to 1984
+, the DMK’s (a Congress ally at the time) G Lakshmanan held the post in the Indira Gandhi government.
+In the 8th Lok Sabha (1984-89),
+AIADMK’s Thambi Durai became Deputy Speaker when Rajiv Gandhi was Prime Minister.
+When Chandra Shekhar was Prime Minister (1990-91), Shivraj Patil (Congress) served as Deputy Speaker.
+In the 10th Lok Sabha (1991-96)
+, when P V Narasimha Rao was Prime Minister, S Mallikarjunaiah of the BJP was Deputy Speaker.
+During the Congress-led UPA-I (2004-09) and UPA-II (2009-14) governments
+, the Deputy Speaker’s post was with the Opposition - first with Charanjit Singh Atwal of the Shiromani Akali Dal, and then with Kariya Munda of the BJP.
+The 17th Lok Sabha
+is the first and the only Lok Sabha which convened (from 2019 to 2024) without a Deputy Speaker.
+2023
+, a bench led by CJI sought responses on a PIL that contends that not electing a Deputy Speaker is against the letter and spirit of the Constitution.
+newspaper.pdf
+( Size:  3.5 MB  )
+Click to View More
+Polity & Governance
+**********China’s Lunar Mission
+Why in the News?
+China’s Chang’e-6 has become the first spacecraft to bring back samples from the far side of the Moon — the part that the Earth never gets to see.
+The probe landed in northern China on 25
+June afternoon in the Inner Mongolian region. It had left earth on May 3, and its journey lasted 53 days. The probe has drilled into the core and scooped rocks from the surface.
+What’s in Today’s Article?
+China’s Lunar Mission (Objectives, Mission Details, Significance, etc.)
+China’s Lunar Mission:
+China's Chang'e 6 Lunar Mission is part of the China National Space Administration's (CNSA) ambitious lunar exploration program.
+It is a follow-up mission to Chang'e 5, which successfully returned lunar samples to Earth in 2020.
+Objectives:
+Sample Return Mission
+The primary objective of Chang'e 6 was to collect lunar samples and return them to Earth.
+Technological Demonstration
+: The mission aims to demonstrate and improve technologies for lunar landing, sampling, and returning to Earth, which are critical for future lunar exploration missions.
+Mission Details:
+Landing Site
+Chang'e 6 was expected to target the lunar far side for its landing, specifically the
+South Pole-Aitken Basin
+, one of the largest and oldest impact basins on the Moon.
+This site is scientifically significant due to its unique geological features.
+Spacecraft Components
+The mission consists of an orbiter, a lander, an ascent vehicle, and a return capsule.
+The orbiter remained in lunar orbit, while the lander will touch down on the Moon's surface to collect samples.
+Sample Collection
+The lander used a robotic arm and a drill to collect samples from the lunar surface and subsurface.
+Significance of Chang'e 6 Lunar Mission:
+A sample return mission, such as Chang’e-6, aims to collect and return samples from extra-terrestrial locations like the Moon or Mars to Earth for analysis.
+Unlike in situ robotic explorations, which use less sophisticated instruments and can only answer certain questions, returned samples allow for detailed examination using sensitive laboratory instruments.
+These analyses can determine the chemical, isotopic, mineralogical, structural, and physical properties of samples, from the macroscopic level down to the atomic scale.
+Samples returned to Earth can be preserved for decades and studied by future generations with more advanced technology, as demonstrated by the Apollo missions' samples.
+India’s Chandrayaan-4, currently under development by ISRO, is also a sample return mission, following Chandrayaan-3's successful landing near the Moon's South Pole.
+What Can the Samples Brought by Chang’e-6 Reveal?
+The lunar far side is geologically distinct from the near side, featuring a thicker crust, more craters, and fewer lava plains.
+Scientists are unsure why these differences exist. Analysing samples from the Chang’e-6 mission could provide answers.
+Samples from the
+South Pole-Aitken basin
+could reveal the timeline of lunar cratering and insights into the Moon’s history and origins.
+Additionally, these samples could suggest methods for utilizing lunar resources in future exploration, such as using lunar soil for 3D-printed bricks for research bases or harvesting ice at the poles for water, oxygen, and hydrogen, the latter two serving as rocket propellants.
+Countries’ Race to the Moon:
+In 2023,
+Japan
+US
+Russia
+launched lunar missions.
+By 2030, more than 100 Moon missions by both governments and private companies are expected, according to the European Space Agency.
+Countries such as
+China and the US also want to put astronauts on the Moon by 2030
+The success of Chang’e-6 is seen as an important step towards achieving this goal by China.
+Chinese Lunar Mission.pdf
+( Size:  326.7 KB  )
+Click to View More
+Science & Tech
+**********Will the Agnipath scheme be revamped? | Explained 
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues Associated with the Scheme
+Why in the news?
+Following the 2024 election results, NDA allies Janata Dal (United) and Lok Janshakti Party (Ram Vilas) raised concerns about the Agnipath scheme and called for discussions on the matter.
+What is the Agnipath scheme?
+The Agnipath scheme recruits soldiers, sailors, and airmen into the Indian armed forces for a four-year term, replacing the previous system of permanent recruitment. After completing their four-year tenure, up to 25% of Agniveers can be selected for permanent positions within the armed forces.
+Agniveers can obtain educational certificates and skill certifications during their service. They receive a lump sum amount upon completing their tenure but are not eligible for a pension.
+Personnel Shortage:
+There is a significant shortage of personnel in the ‘below officer’s rank’ cadres, exacerbated by the recruitment freeze during the COVID-19 pandemic. The Army retires around 60,000 soldiers annually but only recruits 40,000, leading to a growing shortfall.
+Low Conversion Rate:
+The 25% conversion rate from Agniveers to regular soldiers is considered insufficient to address the personnel shortage.
+Compressed Training:
+The four-year tenure necessitates a shorter training period, which may impact the quality of training.
+Political and Social Opposition:
+The scheme has faced political opposition and led to violent protests in some parts of the country. Critics argue for a clause-by-clause review or complete scrapping of the scheme.
+Present Scenario
+As the Agnipath scheme marks two years since its implementation, the Department of Military Affairs (DMA) in the Defence Ministry is reviewing the scheme based on feedback from the armed forces.
+Feedback Compilation:
+The Navy and Air Force have compiled their feedback, while the Army is still in the process.
+Recommendations:
+Suggestions include increasing the intake numbers, raising the permanent recruitment rate from 25% to at least 50%, and extending the age limit for technical recruits from 21 to 23 years.
+Review Process:
+The DMA will compile all recommendations and submit them to the Defence Ministry for potential adjustments to the scheme.
+Way forward:
+Enhance Educational and Skill Development Opportunities:
+Partner with educational institutions to provide Agniveers with advanced degrees and certifications that are recognized nationwide. Offer vocational training and skill development programs that are aligned with industry standards, improving post-service employability.
+Increase Permanent Induction Rate:
+Raise the conversion rate of Agniveers to permanent positions from 25% to at least 50% to address the personnel shortage effectively.
+**********Analyzing Maharashtra’s Water Crisis    
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Driest region in India
+Mains level:
+Why do different regions of Maharashtra experience varied levels of water stress?
+Why in the news?
+After last year’s deficient monsoon, the Maharashtra government declared several parts of the state as drought-hit.
+Geographical Differences:
+Coastal areas receive excessive rainfall leading to flooding. Marathwada lies in the rain-shadow region, receiving significantly less rainfall (600-800 mm) compared to the western side of the Western Ghats (2,000-4,000 mm).
+Topography and Soil:
+Marathwada has clayey black soil (regur) which retains moisture but has a low infiltration rate, leading to poor groundwater recharge. The region’s topography, with parallel tributaries and gently sloping hills, results in uneven water distribution, with valleys having perennial groundwater and upland areas facing acute water scarcity.
+Impact of Climate Change:
+Increasing drought severity and frequency in central Maharashtra due to climate change, worsening water stress in regions like Marathwada and North Karnataka.
+Why is sugarcane production not suited for regions with less rainfall?
+High Water Requirement:
+Sugarcane needs 1,500-2,500 mm of water during its growing season, which is much higher than the annual rainfall in low-rainfall areas like Marathwada.
+Irrigation Demands:
+Sugarcane requires almost daily irrigation, consuming 61% of the region’s irrigation water while occupying only 4% of the cropped area. This heavy water usage restricts the irrigation of other crops that are more suitable for the region’s climate, such as pulses and millet.
+Government Policies:
+Long-standing government support for sugarcane pricing and sales has encouraged its cultivation in unsuitable regions. The recent promotion of sugarcane-juice-based ethanol production exacerbates the issue, diverting water resources away from more sustainable agricultural practices.
+What is meant by the rain-shadow effect?
+occurs when moist winds from the Arabian Sea rise over the Western Ghats, causing heavy rainfall on the western side. By the time these winds descend on the eastern side (Western Maharashtra and Marathwada), they lose most of their moisture, resulting in significantly lower rainfall.
+Impact on Marathwada:
+Marathwada, located in the rain-shadow region, receives only 600-800 mm of annual rainfall, contributing to its dry climate and water scarcity issues.
+Note:
+Marathwada and North Karnataka have emerged as the second driest regions in India after Rajasthan.
+How can supply-side solutions help the situation?
+Watershed Management:
+Building water-conserving structures such as contour trenches, earthen bunds, and gully plugs to capture and store runoff. Designing silt-trapping mechanisms to prevent soil erosion and maintain water retention structures.
+Rainwater Harvesting:
+Implementing measures to capture rainwater runoff from agricultural fields to recharge groundwater and reduce dependency on external water sources.
+Utilizing Government Programs
+: Leveraging funds from the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) for watershed management projects and training farmers in water conservation techniques.
+Promoting Water-Efficient Practices:
+Encouraging the use of water-efficient irrigation methods, such as drip irrigation, to optimize water usage. Shifting to drought-resistant crops and high-value, low-water-using crops to reduce water demand and improve agricultural sustainability.
+Conclusion:
+The state government has announced a massive Rs 59,000 crore package to transform the Marathwada region, with a focus on tackling the water crisis. This includes reviving stalled irrigation projects worth Rs 13,677 crore to make the region drought-free through water linking and diverting floodwaters to the Godavari basin
+Mains PYQ:
+Elaborate the impact of National Watershed Project in increasing agricultural production from waterstressed areas.
+(UPSC IAS/2019)
+**********India needs the anchor of a national security strategy 
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Challenges Involved in the Near Future for the Indian Government
+Why in the news?
+The newly elected National Democratic Alliance government is confronted with several longstanding and complex national security issues.
+Strategic Relations with the US and Competition with China:
+China’s Multifaceted Challenges:
+China poses an unprecedented array of interconnected challenges, including a significant naval build-up, geoeconomic clout in South Asia, and leverage in global supply chains.
+Strategic Relations with the US:
+India must navigate its strategic partnership with the United States while managing competition with China.
+Global Conflicts Impact:
+Distant conflicts, such as those in Ukraine and Gaza, reveal new technologies and tactics of war that could spread to India’s neighbourhood, influencing its strategic relations and defence strategies.
+Challenges Involved in the Near Future for the Indian Government:
+Decisions on Military Investments:
+The government must decide on key defence projects, such as building another aircraft carrier and implementing theaterisation.
+Holistic National Security:
+There is a need to step back and consider national security holistically, rather than making piecemeal decisions that could waste resources and undermine national goals.
+Managing Strategic Risks:
+Addressing strategic risks like climate change, pandemics, and China’s growing influence requires coordinated, long-term policy efforts.
+Synchronizing Efforts:
+Various arms of the government, including the military and national security agencies, need to synchronize their efforts more effectively.
+Blueprint for Expanding Power:
+Comprehensive Strategic Assessment:
+A National Security Strategy (NSS) would compel the government to thoroughly review threats, opportunities, and global security trends.
+Framework for Long-Term Planning:
+An NSS would provide a coherent framework for long-term strategic planning, helping to allocate resources effectively and develop necessary military capabilities and international partnerships.
+Signaling Intent to Allies and Adversaries:
+An NSS would clarify India’s strategic intent, signaling its role as a net security provider in the Indian Ocean and its stance on regional security issues.
+Coordinated National Security Efforts:
+An NSS would align the efforts of different national security agencies and military branches, fostering better coordination and integration.
+Issue of Accountability:
+Transparency and Accountability:
+An NSS would serve as a tool to ensure that the government’s policies are transparent and accountable to Parliament and the citizens.
+Adherence to Political Leadership’s Intent:
+It would help ensure that the bureaucracy adheres to the political leadership’s strategic direction.
+Public Document:
+A strong NSS should be a public document, endorsed by the Prime Minister, to synchronize efforts across the government and signal political intent both domestically and internationally.
+Rational Decision-Making:
+An NSS would help identify trade-offs and opportunity costs, enabling political leaders to make informed, rational decisions for long-term national growth and security.
+Conclusion:
+Develop a coherent strategic framework within the NSS that outlines India’s national security objectives, priorities, and methodologies for achieving them. This framework should guide decision-making on defense investments, international partnerships, and response strategies to global challenges like climate change and pandemics.
+Mains PYQ:
+What introduces friction into the ties between India and the United States is that Washington is still unable to find for India a position in its global strategy, which would satisfy India’s National self-esteem.
+(UPSC IAS/2019)
+**********ICC issues arrest warrants for Russian defence leaders 
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+What is ICC?
+Mains level:
+Does ICC have the power to prosecute Russia?
+Why in the news?
+On Monday, June 24, the International Criminal Court (ICC) issued arrest warrants for former Russian Defence Minister Sergei Shoigu and current Chief of Staff of the Armed Forces Valery Gerasimov for “alleged international crimes” related to the Ukraine war.
+Who are the Russian leaders and what effect does the move have on them?
+Sergei Shoigu:
+Former Russian Defence Minister, key ally of Putin, led the invasion of Ukraine in February 2022, removed from his post in May 2024.
+Valery Gerasimov:
+Current Chief of Staff of the Armed Forces, Deputy Defence Minister since November 2012, seen as the most powerful man in the government after Putin and Shoigu.
+Impact on Shoigu and Gerasimov:
+Both have suffered reputational damage since the war began, criticized by Russian nationalists for failing to swiftly win the war against Ukraine.
+What do the ICC charges say?
+Charges Against Shoigu and Gerasimov:
+Directing attacks at civilian objects, causing excessive incidental harm to civilians or damage to civilian objects.
+Responsibility:
+The two officials bear individual criminal responsibility for their actions, ordering the commission of crimes, and failing to exercise proper control over their forces.
+Specific Acts:
+Missile strikes against Ukrainian electric infrastructure, constituting multiple acts against a civilian population.
+Establishment:
+Headquartered in The Hague, Netherlands, established under the 1998 Rome Statute.
+Purpose:
+Investigates and tries individuals charged with genocide, war crimes, crimes against humanity, and the crime of aggression.
+Membership:
+123 countries are party to the Rome Statute, including Britain, Japan, Afghanistan, and Germany.
+The USA, India, and China are not members
+Function:
+Prosecutes heinous offences when a country’s own legal system fails to act, unlike the ICJ which deals with inter-state disputes.
+Jurisdiction:
+Limited to offences occurring after July 1, 2002, committed in a country that ratified the agreement or by a national of a ratifying country, or cases referred by the UN Security Council.
+Russia’s Stance:
+Kremlin spokesman Dmitry Peskov stated that any decision of the ICC was “null and void” due to Russia not being an ICC member.
+Effect on Leaders:
+Putin and other leaders risk arrest if they travel to a state party to the ICC, which is obliged to arrest them under international law. This deepens Russia’s isolation from the West.
+Ukraine’s Position:
+Ukraine is not a State Party to the Rome Statute but has accepted ICC’s jurisdiction over alleged crimes occurring on its territory under Article 12(3) of the Statute. This requires Ukraine to cooperate with the ICC without delay or exception.
+Conclusion:
+The ICC’s charges against Russian leaders highlight significant legal and geopolitical challenges, deepening Russia’s isolation and emphasizing the need for global accountability in addressing war crimes and international conflicts.
+Mains question for practice:
+Q
+In light of the recent arrest warrants issued against Russian leaders, discuss the effectiveness and limitations of the ICC in prosecuting individuals from non-member states.
+15M
+**********Chang’e 6 Lunar Probe
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+China’s Lunar Exploration Program, Chandrayaan 4
+Why in the News?
+On Jun
+e 25, Chang’e-6 became the world’s first spacecraft to bring back samples
+from
+the far side of the Moon.
+Chang’e-6 successfully returned with samples from the lunar far side, making China the first country to achieve this feat.
+About Chang’e-6 Mission
+The mission lasted
+53 days
+, starting with a launch on May 3, 2024, and ending with the return capsule landing on June 25, 2024.
+The lander descended into the
+South Pole-Aitken basin
+, one of the largest impact basins in the solar system, believed to contain material from the lunar mantle.
+The lander used
+robotic scoops and drills
+to collect about
+2 kilograms of lunar material
+, including both surface soil and subsurface samples.
+Components of Chang’e-6
+Lander
+: Equipped with drills and scoops for sample collection.
+Ascender
+: Transported samples from the lunar surface to lunar orbit.
+Orbiter
+: Carried the samples from lunar orbit back to Earth.
+Returner
+: Brought the samples safely back to Earth.
+Collaboration and Payloads
+The mission carried instruments from international partners, including:
+French DORN
+: Studied lunar dust and volatiles.
+Italian INRRI
+: Measured distances using a retroreflector.
+Swedish NILS
+: Detected negative ions on the lunar surface.
+Pakistani ICUBE-Q CubeSat
+: Imaged the lunar surface and obtained magnetic field data.
+Scientific Goals
+Sample Analysis
+: Scientists aim to learn more about the Moon’s internal structure and the differences between its near and far sides.
+Chang’e-6 follows previous missions under China’s Lunar Exploration Program, marking the next step in incremental technological advancements.
+Phases of Exploration
+: The program has four phases:
+First Phase:
+Reaching lunar orbit, completed by Chang’e 1 (2007) and Chang’e 2 (2010).
+Second Phase:
+Landing and roving, achieved by Chang’e 3 (2013) and Chang’e 4 (2019).
+Third Phase:
+Sample collection and return, accomplished by Chang’e 5 (2020) and Chang’e 6 (2024).
+Fourth Phase:
+Developing a robotic research station near the Moon’s South Pole, aiming for crewed lunar landings in the 2030s.
+Previous Lunar Sample Missions
+Apollo 11 Mission (1969)
+: The US mission brought 22 kg of lunar material, including 50 rocks.
+Luna 16 Mission (1970)
+: Soviet robotic mission brought lunar samples to Earth.
+Chang’e-5 Mission (2020)
+: Predecessor to Chang’e-6, returned 2 kg of lunar soil from the near side.
+Significance of Sample Return Missions
+Laboratory Analysis
+: Allows the use of sophisticated instruments to study the chemical, isotopic, mineralogical, structural, and physical properties of samples.
+Long-term Preservation
+: Samples can be preserved and re-examined by future generations with advanced technology.
+Technological Feat
+: Recovering samples from the far side is a significant technological achievement.
+Step Towards Human Exploration
+: Success of Chang’e-6 is seen as a step towards China’s goal of landing astronauts on the Moon by 2030.
+Launch Pad for Deep Space
+: The Moon could serve as a base for future deep space missions and extraterrestrial exploration.
+Outcome: New Lunar Race
+Global Participation
+: India, China, Japan, the US, and Russia launched lunar missions in 2023.
+Future Missions
+: Over 100 Moon missions by governments and private companies are expected by 2030.
+Long-term Goals
+: Unlike the 20th-century space race, today’s missions aim to establish a long-term presence and use lunar resources.
+India’s Chandrayaan-4 Mission
+Chandrayaan-4,
+under development
+by ISRO, will also be a sample return mission to be launched tentatively by
+2028
+Chandrayaan-3 landed near the Moon’s South Pole last year, about 600 km from the target area for Chandrayaan-4.
+PYQ:
+[2016]
+Discuss India’s achievements in the field of Space Science and Technology. How the application of this technology helped India in its socio-economic development?
+**********K-Shaped Economic Recovery fuels diverse Inflation Dynamics in India
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+K-Shape Recovery and its Features.
+Why in the News?
+India is experiencing a
+K-shaped recovery,
+with uneven growth patterns. This recovery is causing divergent inflation trends, with food and rural prices rising faster than other goods and services, and urban inflation.
+What is K-Shaped Recovery?
+A K-shaped recovery is an economic scenario in which different sectors, industries, or groups within an economy recover from a recession at markedly different rates.
+This results in a divergent economic recovery pattern, with some parts of the economy experiencing robust growth and others continuing to struggle or even decline.
+Features of K-Shaped Recovery
+Divergent Recovery Rates:
+Certain sectors, such as technology and finance, may recover quickly and strongly. Other sectors, like hospitality and retail, may continue to struggle or recover much more slowly.
+Income Inequality:
+High-income individuals and businesses may see significant improvements in their financial situations. Low-income individuals and small businesses may face prolonged financial hardships.
+Sectoral Disparities:
+Industries that can adapt to remote work or have online business models (e.g., tech, e-commerce) thrive.
+Indian Context: Consumption Patterns Post-Pandemic
+High-End Goods Demand
+: Post-pandemic recovery is driven by increased demand for higher-end goods and services.
+Mass Consumption Items
+: Lower-income households’ consumption of mass-market items remains relatively subdued.
+Contrast Inflation Rate:
+Rural vs. Urban Inflation
+: Rural inflation is outpacing urban inflation.
+Food Prices vs. Other Goods
+: Food price inflation is higher compared to inflation in other goods and services.
+Goods vs. Services Inflation
+: Goods inflation is higher than services inflation.
+Input vs. Output Prices
+: Input prices are rising faster than output prices.
+Policy Implications
+Sensitive Policymaking
+: Government policies need to be sensitive to the impact on different groups affected by supply-side shocks.
+Careful Planning
+: Reforms should be carefully explained and planned to mitigate adverse impacts.
+PYQ:
+[2021]
+Do you agree that the Indian economy has recently experienced V-shaped recovery? Give reasons in support of your answer.
+**********China-France launches SVOM Satellite for Gamma-Ray Burst Study
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+SVOM Satellite, Gamma Rays Bursts.
+Why in the News?
+The
+Space Variable Objects Monitor (SVOM) satellite
+jointly developed by
+and
+was launched from the Xichang Satellite Launch Center.
+About Space Variable Objects Monitor (SVOM)
+The SVOM is designed to study
+gamma-ray bursts (GRBs)
+resulting from explosive cosmic events like black hole births and neutron star collisions.
+It is the first astronomy satellite
+developed jointly by China and France
+, following their collaboration on an oceanographic satellite launched in 2018.
+Importance of Studying Gamma-Ray Bursts (GRBs)
+GRBs are highly
+energetic bursts of gamma rays
+, lasting from less than a second to several minutes, occurring in distant parts of the universe.GRBs can erupt with a luminosity a quintillion times that of the Sun.
+Types of GRBs
+Short GRBs
+: Result from collisions of neutron stars or a neutron star with a black hole, lasting less than two seconds, often followed by kilonovas.
+Long GRBs
+: Result from the explosive deaths of massive stars, lasting two seconds or longer.
+Mission and Objectives of SVOM
+Primary Objective
+: To search for and study GRBs across the universe.
+Data Collection
+: Measure and analyze electromagnetic radiation properties of GRBs.
+Scientific Goals
+: Unlock mysteries about the universe’s evolution and gravitational waves, which are often associated with neutron star collisions.
+Real-time Detection
+: Transmit GRB data to ground control within about one minute, enabling coordinated observations with ground-based stations globally.
+Features and Capabilities of SVOM
+Satellite Specifications
+: Weighs 930 kg and is equipped with four payloads, two developed by France and two by China.
+French Contributions
+: ECLAIRs and MXT telescopes to detect and capture GRBs.
+Chinese Contributions
+Gamma Ray Burst Monitor (GRM)
+: Measures the spectrum of GRBs.
+Visible Telescope (VT)
+: Detects and observes visible emissions immediately after a GRB.
+Orbit Details
+: Placed in a low Earth orbit at an altitude of 625 km, with an orbital period of 96 minutes.
+Significance of SVOM’s Findings
+Early Universe Insights
+: Aim to detect the earliest GRBs, providing information on the universe’s early stages and evolution.
+Kilonova Detection
+: Capability to search for kilonovas, enhancing understanding of stellar evolution and the origin of heavy elements like gold and silver in the universe.
+PYQ:
+[2019]
+Recently, scientists observed the merger of giant ‘blackholes’ billions of light-years away from the Earth. What is the significance of this observation?
+(a) ‘Higgs boson particles’ were detected.
+(b) ‘Gravitational waves’ were detected.
+(c) Possibility of inter-galactic space travel through ‘wormhole’ was confirmed.
+(d) It enabled the scientists to understand ‘singularity’.
+**********TN to allow regulated culling of Wild Boars  
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Wild Boars, Vermins under Schedule V.
+Why in the News?
+The Tamil Nadu government has approved the
+controlled hunting of wild boars
+causing distress to farmers near forest areas.
+Presently, Wild boars are
+NOT listed as Vermin
+under the
+of the Wildlife Protection Act, 1972.
+About the Farmers’ Conflict Resolution Committee
+The Committee includes representatives from the Departments of Forest, Revenue, Agriculture, and Horticulture, along with scientific experts and wildlife enthusiasts.
+Objective
+: The committee was formed to study the impact of raids by elephants and wild pigs on agricultural crops.
+Implementation Protocol:
+Approval Process
+: The culling will require approval from a local three-member checking body.
+Composition of the Checking Body
+: The body will include a forester or forest guard, the Village Administrative Officer, and the ward member.
+Supervision
+: Culling operations must be conducted in the presence of these three members.
+Zoning for Culling Operations
+Areas adjacent to reserve forests will be divided into three zones:
+Zone A
+: Within one kilometre from forest limits.
+Zone B
+: One to five kilometres from forest limits.
+Zone C
+: Beyond five kilometres from forest limits.
+Restrictions
+: Shooting of wild pigs is prohibited within five kilometres of the reserve forest (Zones A and B).
+Scientific Approach to Culling:
+Scientific Methodology
+: The shooting of wild boars must adhere to a scientific approach, considering the intensity and frequency of conflict incidents.
+Expert Concerns
+: Experts highlight the ecological role of wild boars and caution against indiscriminate killing.
+About Indian Wild Boar
+Details
+Scientific Name
+Sus scrofa cristatus
+Habitat and Distribution
+High grass, bushes, forests, high crops, dense forests, grasslands, scrublands, agricultural areas; Indian subcontinent, various altitudes from sea level to mountains
+Behaviour and Social Structure
+Matriarchal
+‘sounders’
+led by an elder female;
+Solitary adult males or loose bachelor groups;
+Active during evening and night;
+Territorial fights with predators.
+Diet
+Omnivorous:
+excreta, tubers, roots, leaves, fruit, vegetables, standing crops, carrion, small animals, baby deer;
+Prefers marshy areas and roots in swampy places
+Reproduction
+Breeding year-round, peak seasons vary by region;
+Gestation: around four months; Litter size: multiple piglets
+Ecological Role
+Seed dispersal aiding plant propagation;
+Important prey species maintaining predator-prey balance in the ecosystem
+Conservation Status
+IUCN Red List:
+Least Concern
+Wildlife (Protection) Act, 1972:
+Schedule III
+Proposed reclassification to
+Schedule V (vermin)
+due to agricultural damage.
+Present Culling
+Section 11-B (1) of the Wildlife (Protection) Act, 1972 allows the Chief Wildlife Warden to issue special orders to kill dangerous wild animals.
+Back2Basics: Schedule III of WPA, 1972
+Protection Level:
+Lesser degree of protection compared to Schedule I and II.
+Prohibition:
+Hunting of these species is prohibited except under special circumstances defined by the Act.
+Penalties:
+Violations related to these species attract penalties, though they are less stringent than those for higher schedules.
+Species Listed in Schedule III:
+As per the latest available data, the following are examples of species listed under Schedule III of the Wildlife (Protection) Act, 1972:
+Chinkara (Gazella bennettii):
+Also known as the Indian Gazelle, found in various parts of India.
+Blackbuck (Antilope cervicapra):
+A species of antelope native to India.
+Blue Bull (Boselaphus tragocamelus):
+Also known as the Nilgai, the largest Asian antelope.
+Indian Wild Boar (Sus scrofa cristatus):
+A subspecies of the wild boar native to the Indian subcontinent.
+Sambar (Rusa unicolor):
+A large deer native to the Indian subcontinent.
+Legal Provisions:
+Hunting Prohibition:
+Hunting any animal listed under Schedule III is prohibited except for purposes like scientific research, education, and when permitted by the authorities under specific conditions.
+The penalties for offenses involving Schedule III animals include imprisonment up to three years, or a fine up to Rs. 25,000, or both.
+PYQ:
+[2017]
+In India, if a species of tortoise is declared protected under Schedule I of the Wildlife (Protection) Act, 1972, what does it imply?
+(a) It enjoys the same level of protection as the tiger.
+(b) It no longer exists in the wild, a few individuals are under captive protection; and now it is impossible to prevent its extinction.
+(c) It is endemic to a particular region of India.
+(d) Both B and C stated above are correct in this context.
+**********Enemy Agents Ordinance: Strict Measures for Militant Assistance in J&K
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Enemy Agents Ordinance, UAPA
+Why in the News?
+J&K Director General of Police stated that individuals assisting militants in J&K should be tried under the Enemy Agents Ordinance, 2005.
+The Enemy Agents Ordinance is more stringent than the
+Unlawful Activities (Prevention) Act (UAPA)
+, 1967 with punishments including life imprisonment or death sentence.
+Enemy Agents Ordinance: An Overview
+It was first
+issued in 1917
+by the Dogra
+Maharaja of J&K
+, the ordinance
+remains in effect
+The ordinance mandates
+rigorous imprisonment
+for life, or
+imprisonment up to 10 years
+with a
+fine
+for aiding the enemy or engaging in actions detrimental to Indian military operations.
+Its Evolution:
+Post-Partition Incorporation
+: The ordinance was retained as a law in J&K post-1947 and amended over time.
+Changes Post-2019
+: Following the repeal of Article 370, the Jammu and Kashmir Reorganisation Act retained the Enemy Agents Ordinance and other security laws while replacing many state laws with Indian laws, such as the Indian Penal Code.
+Trial Procedures under the Ordinance
+Special Judge Appointment
+: Trials are conducted by a special judge appointed by the government in consultation with the High Court.
+Legal Representation
+: Accused individuals can only engage a lawyer if permitted by the court.
+No Appeal Provision
+: Verdicts can only be reviewed by a
+High Court judge
+chosen by the government, with the decision being final.
+Publication Bar
+: Unauthorized disclosure or publication of trial information is punishable by imprisonment up to two years, fine, or both.
+Notable Application of the Ordinance
+Notable Cases
+: Many Kashmiris have been tried under the ordinance, including Maqbool Bhat, the founder of Jammu Kashmir Liberation Front, who was hanged in Tihar Jail in 1984.
+Current Context
+: The Enemy Agents Ordinance continues to be a critical tool in addressing militant assistance in J&K, reflecting the stringent legal measures in place to maintain security.
+PYQ:
+[2019]
+The banning of ‘Jamaat-e-Islami’ in Jammu and Kashmir brought into focus the role of over-ground workers (OGWs) in assisting terrorist organizations. Examine the role played by OGWs in assisting terrorist organizations in insurgency affected areas. Discuss measures to neutralize the influence of OGWs.
+Indian government has recently strengthen the anti-terrorism laws by amending the unlawful activities (Prevention) Act, (UAPA), 1967 and the NIA Act. Analyze the changes in the context of prevailing security environment while discussing scope and reasons for opposing the UAPA by human rights organisations.
+**********Sucheta Kripalani (1908-1974): India’s first woman Chief Minister
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+June 25 is the birth anniversary of “
+Sucheta Kripalani”,
+.
+Who was
+Sucheta Kripalani?
+Sucheta Kripalani was born on June 25, 1908, in Ambala, Punjab. Daughter of S. N. Majumdar, a government surgeon. She studied at Indraprastha College for Women and St. Stephen’s College, University of Delhi.
+She married
+J. B. Kripalani
+, a former
+Congress president
+and Gandhian, in April 1936 against familial and Mahatma Gandhi’s wishes.
+Political Journey and Chief Ministership
+Early Career
+: Joined BHU to teach Constitutional History in 1929,
+participated in Satyagraha
+, and
+was imprisoned in 1940
+Congress Role
+: Organized the
+foreign affairs wing of AICC
+and later founded the All India Mahila Congress.
+She won by a margin of 99 votes over
+Kamalapati Tripathi
+and was sworn in as CM on October 2, 1963.
+Contributions and Achievements
+Educational Reforms
+: Waived school fees for girls up to Class 10 from January 1965. Established Meerut University and Kanpur University.
+Social Reforms
+: Increased reservation for SCs in government jobs to 24% in Group C and 45% in Group D until the 18% target was achieved.
+Infrastructure Developments
+: Established a Sainik School in Ghorakhal, a new medical college in Meerut, and the UP Awas Vikas Parishad. She created the post of agriculture production commissioner.
+Crime Control
+: Neutralized many dacoits in the Chambal Valley with the help of the Police Radio Unit.
+Anti-Corruption Stance
+: Emphasized the need to tackle growing corruption in public services, supporting the Union government’s initiative to appoint a vigilance commission.
+Multifaceted Contributions
+: Involved in relief activities for the 1934 Bihar earthquake, Noakhali riots, Tibetan refugee rehabilitation, and the Indo-Pak War of 1971.
+Criticism and Response
+: Faced criticism for being influenced by English, despite being a staunch supporter of Hindi. Advocated for creating an atmosphere for Hindi in governance.
+Later Life and Legacy
+Post-CM Career
+: Served as Lok Sabha MP until 1971.
+Impact
+: Her tenure as CM and various social contributions left a lasting impact on Indian politics and society, especially in terms of women’s leadership and social reforms.
+PYQ:
+[2011]
+With reference to the Indian freedom struggle, Usha Mehta is well-known for:
+(a) Running the secret Congress Radio in the wake of the Quit India Movement
+(b) Participating in the Second Round Table Conference
+(c) Leading a contingent of the Indian National Army
+(d) Assisting in the formation of Interim Government under Pandit Jawaharlal Nehru
+**********

@@ -1,0 +1,259 @@
+Draft Digital Competition Bill
+Why in news?
+In February 2023, the Ministry of Corporate Affairs (MCA) formed the Committee on Digital Competition Law (CDCL) to explore the necessity of a separate law addressing competition in digital markets.
+After a year of discussions, the CDCL concluded that the existing Competition Act, 2002, which operates on an
+ex-post framework
+(addressing issues after they occur), needed to be supplemented with an
+ex-ante framework
+(preventive measures to address issues before they occur).
+Ex-ante competition regulation is unusual. The European Union is the only jurisdiction where a comprehensive ex-ante competition framework, under the Digital Markets Act, is currently in force
+This led to the creation of the draft Digital Competition Bill, which outlines the ex-ante framework designed to enhance the current regulatory system for digital markets.
+What’s in today’s article?
+Growing need for an ex-ante framework
+Digital Competition Bill, 2024
+Key proposals of the draft digital competition Bill 2024
+Criticism of the digital competition Bill 2024
+Due to the complex world of digital markets, regulating for market abuse after it takes place (as in an ex-post framework) is not optimal.
+This is due to following reasons:
+Digital enterprises enjoy economies of scale and economies of scope.
+i.e., reduction in cost of production per unit as the number of units increase and reduction in total costs of production with increase in number of services respectively.
+This propels them to grow rather quickly as compared to players in the traditional market.
+This growth is aided by network effects — utility of the digital services increases with the increase in the number of users.
+A forward-looking, preventive, and presumptive law (an ex-ante framework), which foresees the potential harms that can arise out of antitrust issues and prescribes pre-determined no-go areas is considered as the way forward.
+About
+The bill seeks to further regulate large digital enterprises, including news aggregators, as part of efforts to ensure a level-playing field and fair competition in the digital space.
+It was proposed in March 2024.
+The new law could prevent big tech companies like Google, Facebook, and Amazon from favoring
+their own services
+or using data collected from one of their businesses to help another one of their businesses.
+It has provisions to set presumptive norms to curb anti-competitive practices before they actually take place.
+It promises to impose heavy penalties — which could amount to billions of dollars — for violations.
+Similarity with EU’s Digital Markets Act (DMA)
+DMA went into complete effect earlier this year.
+DMA requires large tech firms like Alphabet, Amazon and Apple to open their services, and not favour their own at the expense of rivals.
+Nodal ministry:
+The Ministry of Corporate Affairs (MCA) is handling the draft.
+List of Core Digital Services (CDS)
+The list of core digital services has been mentioned under Schedule I of the bill.
+It consists of
+online search engines,
+online social networking services,
+video-sharing platform services,
+interpersonal communications services,
+operating systems, web browsers, cloud services, advertising services,
+online intermediation services (includes web-hosting, service providers, payment sites, auction sites, app stores, e-commerce marketplaces and aggregators, etc.)
+Significant entities
+The Bill proposes to designate certain enterprises as
+Systemically Significant Digital Enterprises (SSDEs)
+SSDEs are those enterprises that provide core digital services
+in India and have a significant presence and financial strength in the country.
+Parameters to determine whether the enterprise may be designated as SSDE
+If an enterprise is engaged in a CDS, the Bill proposes two tests –
+the financial strength test and spread test (user base test)
+to determine whether the enterprise may be designated as SSDE.
+quantitative parameters
+for a company to be designated a SSDE are:
+If in the last 3 financial years, its turnover in India is not less than Rs 4,000 crore; or its global turnover is not less than $30 billion; or
+Its gross merchandise value in India is not less than Rs 16,000 crore; or
+Its global market capitalisation is not less than $75 billion; or
+The core digital service provided by these companies should also have at least 1 crore end users, or 10,000 business users.
+Entities that donot fall under these parameters can still be designated as SSDEs if the CCI believes that they have a significant presence in any given core digital service.
+Obligations imposed on SSDE
+Entities which are designated as SSDEs, have been prohibited from engaging in practices such as self-preferencing, anti-steering, and restricting third party applications.
+If they violate these requirements,
+they can be fined up to 10% of their global turnover
+Associate Digital Enterprises
+The Bill proposes to designate associate digital enterprises (ADEs) to understand the role that data collected by one company of a major technology group can play in benefiting other group companies.
+If an entity of a group is determined to be an associate entity, they would have the same obligations as SSDEs.
+However, this will depend on the level of their involvement with the core digital service offered by the main company.
+For example, Google Maps could be seen as an associate entity because Google Search directs users to it.
+The same goes for YouTube, depending on how much data is shared between Google Search and YouTube, affecting the video recommendations YouTube makes to users.
+Significant compliance burden
+An ex-ante framework with its strict prescriptive norms could lead to significant compliance burden for big tech companies.
+It may lead to shift of focus from innovation and research to ensuring that companies do not presumptively engage in an anti-competitive practice.
+Stringent requirements of the EU’s DMA and associated impact
+Experts have highlighted that there has been a significant increase in the time it takes to find things via Google search.
+Broad definition of who a significant platform
+Companies are concerned about the broad definition — both quantitative and qualitative — of who a significant platform could be.
+Unlike EU’s DMA which specifically names the ‘gatekeeper’ entities, that decision in India’s draft law has been left to the discretion of the CCI.
+Companies believe that could lead to arbitrary decision making, which could potentially also impact start-ups.
+May affect smaller businesses
+Companies are claiming that the bill would force them to make the changes to their platform and cut down on data sharing.
+It could also impact smaller businesses who rely on their platforms to reach a big target audience.
+Draft Digital Competition Bill.pdf
+( Size:  1.3 MB  )
+Click to View More
+Polity & Governance
+**********Defamation case against Wikipedia
+Why in news?
+News agency Asian News International (ANI) has moved Delhi High Court against Wikipedia for allowing allegedly defamatory content on ANI’s wiki page.
+What’s in today’s article?
+Background of the case
+The Safe Harbour Clause of IT Act
+Various SC Judgements on the issue
+Complain against Wikipedia
+The petitioner had alleged that the said content is false and defamatory, and that its reputation was being tarnished and goodwill discredited.
+It says that the editing history of the page shows that in April, a series of edits were made reflecting the true and factual position, but these were deliberately reversed in May to cause harm to the petitioner’s reputation.
+Against this backdrop, the petitioner has sought damages to the tune of Rs 2 crore.
+Suit against Wikipedia, not against an individual
+Wikipedia, which started in 2001, itself does not produce the content for its online encyclopedia.
+It is a collaborative, open source, nonprofit platform whose users contribute to the content of the website.
+However, the suit was filed against Wikipedia, rather than the individuals who could have made the edits to the page.
+This is because, this suit is intended to ensure enforcement by holding the intermediary liable.
+Laws invoked in the case
+ANI has argued that Wikipedia is a significant social media intermediary (SSMI) under the meaning of Section 2(1)(w) of the Information Technology Act, 2000.
+SSMI is a social media platform with more than 5 million registered users in India.
+The term was introduced in the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.
+The petitioner has also relied on Sections 79(2)& (3) of the Act,
+which lay down the requirements for the “safe harbour clause” to come into effect
+Section 79 of the IT Act
+deals safe harbour clause. Key points of the safe harbour clause include:
+Immunity from Liability
+- Intermediaries are not liable for any third-party information, data, or communication link hosted on their platform, provided they meet specific conditions.
+Conditions for Immunity
+Non-Involvement
+: The intermediary should not initiate the transmission, select the receiver of the transmission, or modify the information contained in the transmission.
+Compliance
+: The intermediary must comply with the due diligence requirements as prescribed by the central government. This includes adhering to the Intermediary Guidelines and Digital Media Ethics Code of 2021.
+Grievance Redressal Mechanism
+Intermediaries are required to establish a grievance redressal mechanism, appoint a resident grievance officer, a chief compliance officer, and a nodal contact person.
+Action Upon Notice
+The protection is not available if the intermediary, despite having actual knowledge or being notified by the government or its agency, fails to remove or disable access to the illegal content expeditiously.
+Evidence Preservation
+Intermediary should not tamper with any evidence of the content in question.
+Section 79(3) of the act: The protection is void if the intermediary fails to remove or disable access to illegal content upon government notice or tampers with evidence of the content.
+Loss of safe harbour status
+Rule 7 of the IT Rules, 2021, further states that non-compliance with these rules results in the loss of safe harbour protection, exposing intermediaries to legal liability.
+SC in 2022 rejected petitions from Ayurvedic Medicine Manufacturers Organisation of India
+All these petitions pertained to the online publication of an article published in 2001 that was allegedly defamatory.
+The court suggested they
+could edit the Wikipedia article and use other legal options available
+Hewlett Packard India Sales vs. Commissioner of Customs(
+January 2023)
+The apex court recognized that authorities often use Wikipedia for their decisions.
+the court warned that while these platforms are useful for spreading knowledge, they are not always reliable for legal matters because they rely on user-generated content, which can be misleading
+Defamation case against Wikipedia.pdf
+( Size:  2.1 MB  )
+Click to View More
+Polity & Governance
+**********Highlights of the Indian PM’s Two-Day Visit to Russia
+Why in News?
+The Indian PM departed for Austria after concluding a two-day high-profile visit to Russia, where he attended the 22nd India-Russia annual summit with President Vladimir Putin.
+What’s in Today’s Article?
+A Joint Vision Statement on Trade and Economic Cooperation
+Conclusion of the Indian PM’s Two-Day Visit to Russia
+Highlights of the Indian PM’s Two-Day Visit to Russia:
+Receives highest civilian honour:
+The Indian PM was conferred with Russia’s highest civilian honour -
+Order of St Andrew the Apostle
+- by the Russian President (announced in 2019, but presented now).
+Bilateral talks - A meeting of two close friends and trusted partners:
+It was held to review ties between the two nations, including in areas like
+defence, investment, energy cooperation, education and culture.
+During the meeting, the Indian PM told the Russian President that
+a solution to the Ukraine conflict is not possible on the battlefield
+and peace talks do not succeed amidst bombs, guns and bullets.
+The Russian President accepted a direct request from the Indian PM to
+expedite the discharge of all Indians
+who have been recruited by the Russian military, many of whom are now at the war front.
+Interactions with Indian community in Moscow:
+The Indian PM shared his thoughts on India’s rising global profile and its perception as a ‘Vishwa Bandhu’.
+During the address,
+He applauded the Indian community for their contribution in taking India - Russia relations to new heights.
+He announced the opening of Indian Consulates in
+Kazan and Yekaterinburg.
+Other highlights:
+At the Rosatom Pavilion, the Indian PM saw the "
+Atomic Symphony
+" - a model of the VVER-1000 reactor used in India’s Kudankulam Nuclear Power Plant.
+A Joint Vision Statement on Trade and Economic Cooperation:
+A shift from previous Summits:
+The focus on economic issues was a shift from previous Annual Summits where military supplies and the defence and strategic partnership between the two countries had been at the top of the agenda.
+9 issues that need to be resolved by 2030:
+It includes -
+The elimination of non-tariff barriers,
+The development of a
+bilateral settlement system using national currencies
+Ironing out customs procedures and using new connectivity routes, including -
+The Chennai-Vladivostok maritime route,
+The Northern Sea Route and
+The International North–South Transport Corridor via Iran.
+Investments in the energy sector including nuclear energy,
+Infrastructure development and
+Investment promotion as priority areas.
+India and Russia signed a number of MoUs
+between institutions on climate change, polar research, legal arbitration, pharmaceutical certification, etc.
+Ambitious bilateral trade target:
+India and Russia agreed to increase bilateral trade to
+$100 billion dollars by 2030
+, including the use of national currencies to circumvent Western sanctions.
+The bilateral trade reached an all-time high of
+$65.70 billion in FY 2023-24
+, mostly because of the surge in India’s imports of Russian crude.
+Achieving the target would take the business relationship to levels of trade India currently has only with bigger economies like the
+S., China and the EU.
+Conclusion of the Indian PM’s Two-Day Visit to Russia:
+Invited to the first “Extended BRICS” summit:
+The Russian leader invited the Indian PM to return to the city of Kazan where he will host the first “Extended BRICS” summit (in October 2024).
+This will include five new members to the Brazil-Russia-India-China-South Africa grouping of emerging economies.
+The Indian PM departs for Austria
+This visit to Vienna will be the
+first visit by an Indian PM in over four decades
+. In 1983, Indira Gandhi was the last PM to visit the country.
+The one-day official visit comes as both countries mark
+75 years of their diplomatic relationship.
+India, Russia to boost bilateral trade to $100 billion by 2030.pdf
+( Size:  244.5 KB  )
+Click to View More
+International Relations
+**********Financial Inclusion Index 2024
+Why in the News?
+The Reserve Bank's FI-Index, capturing the extent of financial inclusion across the country, rose to 64.2 in March 2024, showing growth across all parameters.
+What’s in Today’s Article?
+About Financial Inclusion Index (Objective, Features, Parameters, Significance, etc.)
+News Summary
+About Financial Inclusion Index:
+The Financial Inclusion Index (FI Index) is a tool created by the Reserve Bank of India (RBI) to measure how well financial services are being provided to people across the country.
+It helps understand how accessible and inclusive financial services are, such as
+banking
+insurance
+, and
+investment products
+, for all sections of society, including the
+underprivileged
+underserved
+Key Features of FI Index:
+Purpose:
+The FI Index aims to track the progress of financial inclusion efforts in India.
+It helps in identifying areas where improvements are needed and in assessing the effectiveness of policies and initiatives designed to promote financial inclusion.
+Components:
+The Index is composed of three main parameters:
+Access (35%):
+This measures the availability and reach of financial services. It includes factors like the number of bank branches, ATMs, and banking correspondents.
+Usage (45%):
+This assesses how frequently people use financial services. It looks at the number of savings accounts, loans, and digital transactions.
+Quality (20%):
+This evaluates the quality of financial services provided. It considers customer satisfaction, financial literacy, and the safety of financial transactions.
+The FI-Index is responsive to ease of access, availability and usage of services and quality of services, consisting of
+97 indicators
+Scoring:
+The FI Index provides a
+score between 0 and 100
+A score of 0 indicates complete financial exclusion, where no financial services are available or used, while a score of 100 signifies full financial inclusion, where everyone has access to and uses a wide range of financial services.
+It was first published by the RBI in 2021, without any 'base year', and is published in July every year.
+Significance of FI Index:
+Empowerment:
+By measuring financial inclusion, the FI Index helps empower people by ensuring they have access to financial services that can improve their economic well-being.
+Economic Growth:
+Increased financial inclusion leads to greater economic participation, boosting overall economic growth and stability.
+Social Equality:
+It helps bridge the gap between different socio-economic groups, promoting social equality by providing financial services to underserved and marginalized communities.
+News Summary:
+64.2 in March 2024 from 60.1 in March 2023
+The improvement in FI-Index is mainly contributed by usage dimension, r
+eflecting deepening of financial inclusion
+Financial inclusion index rises with growth across all segments.pdf
+( Size:  256.2 KB  )
+Click to View More
+Economics
+**********

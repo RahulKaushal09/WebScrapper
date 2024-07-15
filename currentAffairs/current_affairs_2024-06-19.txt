@@ -1,0 +1,723 @@
+Scientists from India, China, U.K. Develop Catalyst to Produce Cheaper Biodiesel
+Why in the News?
+A team of scientists from Assam and Odisha in India, China, and the U.K. has developed a
+water-repellent catalyst that can cut the cost of producing biodiesel
+substantially from the current levels.
+What’s in Today’s Article?
+About Biofuel (Definition, Purpose, Types of Biofuels)
+India’s Biofuel Policy
+News Summary
+About Biofuel:
+Biofuel is a
+fuel that is produced over a short time span from biomass, rather than by the very slow natural processes involved in the formation of fossil fuels, such as oil
+Since biomass can be used as a fuel directly (e.g., wood logs), some people use the words biomass and biofuel interchangeably.
+However, the
+word biofuel is usually reserved for liquid or gaseous fuels
+, used for transportation.
+Most of biofuel consumption occurs as a blend with refined petroleum products such as gasoline, diesel fuel, heating oil, and kerosene-type jet fuel.
+However, some biofuels do not require blending with their petroleum counterparts and are referred to as drop-in biofuels.
+The most common biofuels now are:
+Bioalcohols
+such as ethanol, propanol, and butanol (a substitute for petrol/gasoline);
+(a substitute for diesel);
+Bio-oils
+(substitutes for kerosene).
+Generations of Biofuel:
+Biofuels are also divided into four categories depending on their origin and production technologies.
+First Generation
+1G
+biofuels are produced from
+consumable food items
+containing starch (rice and wheat) and sugar (beets and sugarcane) for bioalcohols, or vegetable oils for biodiesel.
+However, the yields of 1G biofuels are low and can have negative impacts on food security.
+Second Generation:
+2G
+biofuels are mainly obtained from
+non-food feedstocks
+such as forest/industry/agricultural wastes and waste or used vegetable oils.
+Third Generation:
+3G
+biofuels, known as ‘algae fuel’, are
+derived from algae
+in the form of both, biodiesel and bioalcohols.
+Although the yield of 3G biofuels is approximately 10 times higher than 2G biofuels, producing adequate algal biomass and scaling up extraction techniques are as yet unresolved challenges.
+Fourth Generation:
+Like the third generation,
+4G
+made using non-arable land
+However, unlike the third, they do not need the destruction of biomass.
+This class of biofuels includes electro fuels and photo-biological solar fuels.
+India’s Biofuel Policy:
+In 2021-22, the
+Central government amended the Biofuel Policy (2018) to set a target of country-wide blending rates of 20% ethanol and 5% biodiesel by 2025
+According to the Roadmap for ethanol blending in India 2020-2025 report from NITI Aayog, India will need to increase ethanol production capacity from the expected 3.3 billion liters (in 2020–2021) to at least 10.2 billion liters (5.5 billion liters from sugarcane and 4.7 billion liters from grains) by 2025.
+Supported by these policies,
+ethanol for blending in gasoline production and demand nearly tripled between 2018 and 2023 and now stands at near 12%
+(7% on an energy basis).
+Sugar cane provides most ethanol production
+with the remainder from food grains such as maize and surplus rice stocks determined by the Food Corporation of India.
+Catalyst to Produce Cheaper Biofuel:
+A collaborative team of scientists from India, China, and the U.K. has developed a water-repellent catalyst that significantly reduces the cost of producing biodiesel.
+This innovative "
+spherical superhydrophobic activated carbon catalyst
+" is designed to withstand water byproducts generated during biodiesel production, mimicking the natural water-repelling properties of surfaces like lotus leaves.
+Currently, biodiesel production costs about ₹100 per liter in India, but the new catalyst could reduce this significantly.
+Cost effective method for producing Biodiesel.pdf
+( Size:  133.1 KB  )
+Click to View More
+Science & Tech
+**********Industry seeks removal of Angel Tax
+Why in news?
+Indian Inc is urging the removal of the Angel Tax amid a sharp decline in startup funding and job losses.
+The Confederation of Indian Industry (CII) recommended scrapping Section 56(2)(viib) of the Income-tax Act, known as the 'Angel Tax,' in its Union Budget suggestions. They argue that removing this tax would significantly help in capital formation in the country.
+What’s in today’s article?
+Concerns raised by industries
+Angel Tax is a term basically used to refer to the income tax payable on the capital raised by unlisted companies via the issue of shares through off-market transactions.
+This tax is levied on the capital raised via the issue of shares by unlisted companies from an Indian investor
+if the share price of issued shares is seen in excess of the fair market value of the company
+The excess realization is considered as income and therefore, taxed accordingly.
+E.g., If the fair market value of a start-up share is Rs 10 apiece, and in a subsequent funding round they offer it to an investor for Rs 20, then the difference of Rs 10 would be taxed as income.
+Angel tax gets its name from the wealthy individuals (“angels”) who invest heavily in risky, unproven business ventures and start-ups, in the initial stages when they are yet to be recognised widely.
+Rationale behind the introduction of Angel Tax
+Rule related to Angel Tax is described in Section 56(2)(viib) of the Income Tax Act, 1961.
+This clause was inserted into the act in 2012 to
+prevent laundering of black money, roundtripping via investments with a large premium into unlisted companies
+Budget 2023-24 and Angel Tax
+Investments that used to fall under the ambit of Angel Tax before the introduction of Budget 2023-24
+Before budget 2023-24, angel tax was imposed only on investments made by a resident investor.
+i.e., it was
+not applicable
+in case the investments are made by any non-resident or venture capital funds
+Allaying the concerns of the startup community, the govt had also exempted investments made by the domestic investors in companies approved by an inter-ministerial panel from Angel Tax.
+Government recognised startups, upon meeting certain criteria, were exempted from this tax
+Changes introduced in Budget 2023-24 with respect to angel tax
+The Finance Bill, 2023 has proposed to amend Section 56(2) VII B of the Income Tax Act.
+With this, the government has proposed to
+include foreign investors in the ambit
+That means when a start-up raises funding from a foreign investor, that too will now be counted as income and be taxable.
+However, these foreign investors will
+not need to pay any angel tax while investing in a government-recognised startup in India
+— similar to the provision for domestic investors.
+Either of domestic or overseas investors investing in a DPIIT-registered startup will not attract the so-called angel tax.
+Rate of tax
+Currently, angel tax is levied at the rate of 30.6 per cent.
+Recent developments regarding the angel tax
+Exemptions given to investors from 21 countries
+In May 2023, the
+Finance Ministry had exempted investors from 21 countries
+including the US, UK and France from the levy of angel tax for non-resident investment in unlisted Indian start-ups.
+However, the list excluded investment from countries like Singapore, Netherlands and Mauritius.
+Final valuation rules for foreign and domestic investors
+In September 2023, the Finance Ministry notified final valuation rules for foreign and domestic investors into unlisted companies such as start-ups under the new angel tax mechanism.
+The rules had accounted for the industry’s calls by addressing an additional sub-clause of compulsorily convertible preference shares (CCPS).
+CCPS are a type of preferred stock that can be converted into a fixed number of equity shares of the issuing company after a specified date.
+It stated that the valuation of CCPS can also be based on the fair market value of unquoted equity shares.
+Clarification issued by CBDT
+In October 2023, CBDT asked its field officials to not do verification for the recognised start-ups for cases pertaining to Section 56 (2) (viib) of the Income-tax Act.
+There are 99,380 startups recognised by the DPIIT.
+Besides, in cases where proceedings are auto generated, contentions of such recognised startup companies on the issues will be summarily accepted.
+This clarification by the tax department comes after many startups had raised concerns about receiving scrutiny notices for angel tax.
+Many startups received notices under Section 56(2)(viib).
+They were asked to furnish income tax returns (ITRs) of their stakeholders for the past three consecutive years.
+The industry has argued that the government is wrong in citing the difference between valuations and actual performance as a sign of money laundering.
+They further added that investors fund startup based on their future potential. Taxes levied on the difference between issue price of unlisted securities and its fair market value (FMV) has hurt funding.
+The changes in the Angel Tax provisions came at a time when an estimated 100 Indian startups laid off over 15,000 employees in 2023, as funding winter that began in 2022 persisted.
+Indian startups witnessed over 60 per cent decline in funding in terms of value in 2023.
+Industry seeks removal of Angel Tax.pdf
+( Size:  1.8 MB  )
+Click to View More
+Economics
+**********Strategic imperative and environment concern in Great Nicobar project
+Why in news?
+The main opposition party has called the proposed Rs 72,000-crore infrastructure upgrade at Great Nicobar Island a grave threat to the island's indigenous people and fragile ecosystem.
+They demanded an immediate halt to all project clearances and a thorough, impartial review by relevant Parliamentary committees.
+What’s in today’s article?
+Great Nicobar Island – location, ecosystem, tribes
+Great Nicobar Island project
+Geographical location
+Great Nicobar, the southernmost of the Andaman and Nicobar Islands.
+The Andaman and Nicobar Islands are a cluster of about 836 islands in the eastern Bay of Bengal.
+The two groups of which are separated by the 150-km wide
+Ten Degree Channel
+The Andaman Islands lie to the north of the channel, and the Nicobar Islands to the south.
+Indira Point on the southern tip of Great Nicobar Island is India’s southernmost point, less than 150 km from the northernmost island of the Indonesian archipelago.
+Ecosystem
+The Great Nicobar Island has tropical wet evergreen forests, mountain ranges reaching almost 650 m above sea level, and coastal plains.
+The Island has two national parks and a biosphere reserve.
+Many endangered species are found at the Island. The
+leatherback sea turtle is the island’s flagship species
+Tribes of Nicobar
+Great Nicobar is home to
+the Shompen and Nicobarese tribal peoples
+The Shompen are hunter-gatherers who depend on forest and marine resources for sustenance.
+The Nicobarese, who lived along the west coast of the island were mostly relocated after the 2004 tsunami.
+An estimated 237 Shompen and 1,094 Nicobarese individuals now live in a 751 sq km tribal reserve, some 84 sq km of which is proposed to be denotified.
+Background
+In November 2022, the Environment ministry has given environmental clearance for the Centre’s ambitious Rs 72,000 crore multi-development projects in Greater Nicobar Island.
+The project for the holistic development of Great Nicobar Island was implemented after a
+report by NITI Aayog
+A pre-feasibility report flagged the opportunity to leverage the strategic location of the island.
+Proposal
+The Great Nicobar Island (GNI) is a mega project to be implemented at the southern end of the Andaman and Nicobar islands.
+The project includes an international container trans-shipment terminal, a greenfield international airport, township development, and a 450 MVA gas and solar based power plant over an extent of 16,610 hectares in the island.
+The port will be controlled by the Indian Navy, while the airport will have dual military-civilian functions and will cater to tourism as well.
+Why government is keen to develop this Island?
+Economic reasons
+The government’s greater goal is to leverage the locational advantage of the island for economic and strategic reasons.
+Great Nicobar is equidistant from Colombo to the southwest and Port Klang and Singapore to the southeast.
+It is positioned close to the East-West international shipping corridor, through which a very large part of the world’s shipping trade passes.
+The proposed ICTT can potentially become a hub for cargo ships travelling on this route.
+As per the NITI Aayog report, the proposed port will allow Great Nicobar to participate in the regional and global maritime economy by becoming a major player in cargo transshipment.
+Strategic & Security reasons
+The proposal to develop Great Nicobar was first floated in the 1970s, and its importance for national security and consolidation of the Indian Ocean Region has been repeatedly underlined.
+Increasing Chinese assertion
+in the Bay of Bengal and the Indo-Pacific has added great urgency to this imperative in recent years.
+India is wary of a build-up of Chinese maritime forces at the Indo-Pacific choke points of especially Malacca, Sunda, and Lombok.
+China’s attempts to expand its footprint in the region includes building a military facility at Coco Islands (Myanmar) lying just 55 km to the north of the Andaman & Nicobar Islands.
+Close surveillance of the entire area around the archipelago, and the building up of a strong military deterrence at Great Nicobar is of vital importance to India’s national security.
+Concerns
+Threat to Island Ecology
+The proposed massive infrastructure development in an ecologically important and fragile region has alarmed many environmentalists.
+The loss of tree cover will not only affect the flora and fauna on the island, it will also lead to
+increased runoff and sediment deposits in the ocean
+, impacting the coral reefs in the area.
+Environmentalists have also flagged the
+loss of mangroves
+on the island as a result of the development project.
+The port project could destroy coral reefs, disrupt the local marine ecosystem, and threaten the Nicobar
+Megapode bird and leatherback turtles
+in the Galathea Bay area.
+Impact on Indigenous People
+Critics point out that there will be devastating impact on the Shompen, a particularly vulnerable tribal group (PVTG) of hunter-gatherers with an estimated population of a few hundred individuals living in a tribal reserve on the island.
+They allege that the project violates tribal rights.
+The local administration is accused of not adequately consulting the Tribal Council of Great and Little Nicobar Islands.
+In November 2022, the council revoked a no-objection certificate for diverting about 160 sq km of forest land, citing incomplete information.
+Seismic Concerns
+Many experts have highlighted that the proposed port is in a seismically volatile zone, which experienced a permanent subsidence of about 15 ft during the 2004 tsunami.
+National Green Tribunal's intervention
+In April 2023, the Kolkata Bench of the National Green Tribunal (NGT) declined to interfere with the environmental and forest clearances granted to the project.
+However, it ordered the formation of a high-power committee to review the clearances. The status of the committee's report is still unclear.
+Strategic imperative and environment concern in Great Nicobar project.pdf
+( Size:  2.8 MB  )
+Click to View More
+Environment & Ecology
+**********India’s First Joint Doctrine for Cyberspace Operations
+Why in News?
+The Chief of Defence Staff General Anil Chauhan released India’s first joint doctrine for cyberspace operations, acknowledging that cyberspace has emerged as a crucial and challenging domain in modern warfare.
+What’s in Today’s Article?
+What is Cyber Warfare?
+Vulnerability of India to Cyber Attacks and its Cyber Security Challenges
+Cyber Security Measures Taken by the Indian Government
+Meaning:
+Cyber warfare
+are actions taken in cyberspace (dynamic and virtual space that connects the different computer systems) by state or non-state actors that
+Either constitute a serious threat to a nation’s security or
+Are conducted in response to a perceived threat against a nation’s security.
+Unlike territorial limits in the traditional domains of warfare (such as land, sea, and air),
+cyberspace is a global common and hence has shared sovereignty.
+Hostile actions in cyberspace
+can impact the nation’s economy, cohesion, political decision making
+, and the ability to defend itself.
+Types of Cyber warfare:
+Cyber terrorism:
+It can be considered
+the premeditated use of disruptive activities
+(against computers and/or networks), with the intention to cause harm or further social, ideological, religious, political or similar objectives.
+Cyber fraud:
+Cyber attacks that are generally aimed at getting monetary or related gains for the perpetrators.
+Cyber spying
+: Cyber attacks aimed at gaining information for the perpetrators.
+Cyber stalking or bullying:
+Cyber attacks which are designed to frightened and intimidate individuals rather than business or Government.
+Vulnerability of India to Cyber Attacks and its Cyber Security Challenges:
+How vulnerable India is to cyberattacks?
+The cyber security threats emanate
+from a wide variety of sources and manifest themselves in disruptive activities that target individuals, businesses, national infrastructure and Governments alike.
+In 2023, India
+recorded 2,138 weekly cyberattacks per organization, a 15% increase from 2022.
+This makes India the
+second most targeted nation in the Asia Pacific region
+, after Taiwan.
+Cyber security challenges:
+Lack of adequate human resource
+, infrastructure, R&D and budgetary allocations to tackle the cyber threats.
+Threat emerging from servers hosted outside India.
+Challenge posed by imported electronics/IT products.
+Upcoming technology viz. Cloud computing, Big data, Internet of Things(IoT), etc.
+Balance between Cyber Security and Right to Privacy, etc.
+Cyber Security Measures Taken by the Indian Government:
+The Indian Computer Emergency Response Team (CERT-In):
+It acts as the central agency for incident response, vulnerability handling, and security management in India's cyberspace.
+Cyber Surakshit Bharat:
+It was launched by the MeitY with National Electronic Governance Division (NeGD)
+to ensure more awareness
+about the latest cybercrimes and the cybersecurity challenges of India.
+Cyber Swachhta Kendra:
+It provides free tools for malware analysis and helps improve the security of systems and devices.
+National Cybersecurity Policy 2013:
+It provides a framework for creating a secure cyber ecosystem and aims to protect information and other critical infrastructure.
+NCIIPC:
+The National Critical Information Infrastructure Protection Centre (NCIIPC) was established for the
+protection of critical information infrastructure
+in the country.
+Indian Cyber Crime Coordination Centre (I4C):
+The Central Government has rolled out a scheme for establishment of I4C to handle issues related to cybercrime in the country in a comprehensive and coordinated manner.
+India’s First Joint Doctrine for Cyberspace Operations:
+Background:
+China
+has built major capabilities in the cyberwarfare domain, including cyberweapons to degrade or destroy an adversary's military assets and strategic networks.
+India has been lagging far behind in this arena
+, with the government only approving the creation of only a small
+tri-service Defence Cyber Agency in 2019
+instead of the full-fledged Cyber Command that the armed forces wanted.
+Formulation of a new joint doctrine for cyberspace operations
+The doctrine comes at a time when the Army is operationalising dedicated specialised units in each of its six operational or regional commands to handle the cyberspace domain.
+The doctrine will
+guide tri-services in planning and conducting cyberspace operations
+in the current complex military operating environment.
+It will give impetus to the
+ongoing process of integration
+being actively pursued by the Army, IAF and Navy.
+Significance of the doctrine:
+This doctrine –
+Lays emphasis on understanding military aspects of cyberspace operations,
+Provides conceptual guidance to commanders, staff and practitioners in the planning, and conduct of operations in cyberspace, and
+Raise awareness of the Indian war fighters at all levels.
+In a first, CDS releases its blueprint for warfare in cyberspace.pdf
+( Size:  268.5 KB  )
+Click to View More
+Defence & Security
+**********Time for a Census, come what may
+Mains Paper 2
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Delimitation Commission
+Mains level:
+Impact of delayed 2021 Census
+Why in the news?
+Why has the 2021 Census been delayed for so long? One plausible explanation is that the Bharatiya Janata Party (BJP) is postponing the Census to expedite the “delimitation” process in preparation for the 2029 Lok Sabha elections.
+The 84th Amendment of the Constitution
+Delimitation Based on Census:
+The 84th Amendment specifies that the next delimitation exercise must be based on the first census conducted after 2026.
+Timing for Delimitation:
+If the next census occurs before 2026, delimitation would be delayed until after the subsequent census in the 2030s.
+Impact on State Representation:
+Delimitation aims to adjust the shares of different states in Lok Sabha seats to match their population shares, and ensure similar population sizes across constituencies.
+Shift in Seat Balance
+: The upcoming delimitation is expected to favour northern states with faster population growth since 1973, potentially at the expense of southern states.
+About the 106th Amendment
+Women’s Reservation:
+Passed in September 2023, this amendment provides for one-third reservation of seats for women in the Lok Sabha and State Assemblies.
+Implementation:
+The reservation is to come into effect “after an exercise of delimitation is undertaken for this purpose after the relevant figures for the first census taken after [2023] have been published.”
+Separate Delimitation for Women:
+The phrase “for this purpose” suggests that women’s reservation could be implemented through its own delimitation exercise, separate from the broader delimitation mandated by the 84th Amendment.
+Interpretation:
+This allows for the possibility of initiating women’s reservation based on an early census, without waiting for the larger delimitation exercise.
+Overall Implications
+Impact on the Southern States:
+Seat Redistribution:
+Delimitation is expected to shift more Lok Sabha seats to northern states with higher population growth, potentially reducing the representation of southern states.
+Political Backlash:
+Southern states may react negatively to losing representation, which could lead to increased regional tensions and opposition to the BJP in these areas.
+Implementation Delay:
+Postponing the census could delay the implementation of the 106th amendment, which mandates one-third reservation for women in the Lok Sabha and State Assemblies.
+Separate Delimitation:
+There is a possibility of initiating women’s reservation through a separate delimitation exercise, independent of the broader delimitation mandated by the 84th Amendment.
+Welfare and Entitlements:
+Updated Data Needs:
+Census data are crucial for implementing welfare schemes and ensuring that resources are allocated based on the most recent population figures.
+Impact on Beneficiaries:
+Delaying the census deprives millions of people of updated entitlements, such as food rations under the National Food Security Act, affecting their access to essential services.
+Way forward:
+Timely Census Completion:
+Ensure the 2021 Census is conducted promptly to provide accurate data for welfare schemes and fair resource allocation, benefiting millions of citizens who rely on updated population figures for essential services.
+Separate Delimitation for Women’s Reservation:
+Implement women’s reservation through a separate delimitation exercise as allowed by the 106th Amendment, enabling the reservation to take effect without waiting for the broader delimitation mandated by the 84th Amendment.
+Mains PYQ:
+Empowering women is the key to controlling the population growth.” Discuss.
+(UPSC IAS/2019)
+**********Does H5N1 pose a threat for humans? | Explained
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Concept of ‘One Health’
+Mains level:
+How is Kerala using it to limit the spread of avian influenza?
+Why in the news?
+The highly pathogenic avian influenza (HPAI) H5N1’s spread to cattle and first human cases in U.S. dairy workers heighten fears of wider human transmission.
+Can the highly pathogenic avian influenza H5N1 strain spread from cattle to humans?
+Recent Infections:
+Three cases of human infection in dairy farm workers were reported in the U.S., indicating the potential for the
+virus to spread from cattle to humans
+Transmission:
+The virus appears to spread to humans who are in close interaction with infected birds or animals without adequate personal protection.
+Current Risk Level:
+Scientists note that the virus currently lacks changes that would make it better adapted to human-to-human transmission, keeping the risk to human health low. However, the potential for the virus to rapidly evolve remains a concern.
+What is the strategy to identify and contain the spread of the virus?
+Surveillance in Kerala:
+Kerala has implemented a community-based disease surveillance network involving 2.5 lakh volunteers trained in the ‘One Health’ concept across four districts: Alappuzha, Pathanamthitta, Kottayam, and Idukki.
+Early Warning System:
+These volunteers report any unusual events or deaths of animals/birds in their locality, allowing for early warning and prompt preventive or control measures.
+Global Coordination:
+There is a call for a robust and coordinated response to H5N1, as emphasized in a recent editorial by The Lancet.
+What is the concept of ‘One Health’
+‘One Health’ Concept:
+‘One Health’ is an approach that recognizes the interconnection between people, animals, plants, and their shared environment, emphasizing the need for collaborative efforts across different sectors to achieve optimal health outcomes.
+Implementation of the ‘One Health’ concept in Kerala
+: Kerala has operationalized the ‘One Health’ concept through the World Bank-aided ‘Rebuild Kerala’ project. This involves a community-based disease surveillance network where volunteers are trained to monitor and report on animal and bird health, ensuring early detection and response to potential outbreaks.
+Other Operational Measures:
+The state has taken proactive steps beyond the conceptual framework of ‘One Health’ by establishing an on-ground, volunteer-driven network for disease monitoring and control.
+Way forward:
+Strengthen Global Surveillance and Collaboration:
+Enhance international cooperation for surveillance, data sharing, and rapid response mechanisms to monitor and control the spread of H5N1, leveraging the ‘One Health’ approach for coordinated action across human, animal, and environmental health sectors.
+Implement Rigorous Biosecurity and Safety Protocols:
+Ensure strict biosecurity measures and personal protective equipment (PPE) for workers in close contact with animals, particularly in high-risk areas, to prevent zoonotic transmission and reduce the potential for human infections.
+Mains PYQ:
+The public health system has limitations in providing universal health coverage. Do you think that the private sector can help in bridging the gap? What other viable alternatives do you suggest?
+(UPSC IAS/2015)
+**********Why caste should inform debates on inequality in the country
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Disparities in consumption patterns among different socioeconomic groups
+Why in the news?
+A recent working paper from the World Inequality Lab has sparked renewed debate about the growing divide between the rich and the poor.
+Disparities in consumption patterns among different socioeconomic groups reflect differences in income, access to resources, or purchasing power:
+Population vs. Consumption Share:
+Scheduled Tribes (ST):
+Despite making up 9% of the population, their consumption share is only 7%.
+Scheduled Castes (SC):
+Represent 20% of the population but have a consumption share of 16%.
+Other Backward Classes (OBC):
+Align more closely with their population percentage, constituting 43% of the population and a 41% consumption share.
+General Category:
+Comprises 28% of the population but commands a significantly higher consumption share of 36%.
+Reduction in Consumption Inequality:
+The overall Gini coefficient decreased from 0.359 in 2017-18 to 0.309 in 2022-23. Gini coefficients for ST, SC, OBC, and General categories also saw reductions, indicating a slight improvement in the equitable distribution of consumption within these communities.
+Economic Disparities Among Social Groups:
+The bottom 20% decile experienced a decrease in consumption levels for ST, SC, and OBC groups, although marginally. The General category saw a more pronounced decrease in consumption levels among the poorest segment, highlighting a relative decline in consumption among this group.
+Concentration of Wealth in Higher Deciles:
+Consumption has increased for all social groups in the top 20% decile. The General category experienced a significant 10 percentage points surge in consumption between 2017-18 and 2022-23, implying a potential concentration of wealth among high-caste elites and persistent economic disparities.
+Efforts to Augment Income Generation Abilities:
+Targeted Policies:
+Reservation
+: Affirmative action programs to improve opportunities for SCs, STs, and OBCs.
+Rural Development Initiatives:
+Policies aimed at enhancing infrastructure, education, and healthcare in rural areas.
+Direct Benefit Transfers (DBT):
+Financial aid is directly transferred to beneficiaries to ensure they receive the intended benefits without middlemen.
+Focus on Lower Deciles:
+Emphasis on increasing income generation and consumption abilities, particularly within the lower deciles of SC, ST, and OBC communities—the importance of fostering social harmony and economic stability through equitable income distribution.
+Monitoring and Intervention:
+Continuous monitoring of consumption trends and economic disparities. They are implementing targeted interventions addressing the specific socio-economic challenges faced by different groups to ensure sustained progress towards economic equity.
+Way forward:
+Strengthen and Expand Affirmative Action Programs
+: Enhance and rigorously implement affirmative action policies such as reservations in education and employment for SCs, STs, and OBCs. This should include increasing access to quality education, vocational training, and skill development programs to empower these communities economically and socially
+Promote Inclusive Economic Development Initiatives:
+Implement comprehensive rural development initiatives that focus on improving infrastructure, healthcare, and education in marginalized areas.
+Mains PYQ:
+What are the main factors responsible for gender inequality in India? Discuss the contribution of Savitribai Phule in this regard
+.(UPSC IAS/2020)
+**********Who is the Pro-Tem Speaker of Lok Sabha and how is an MP chosen for the role?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The 18th Lok Sabha will convene its first session very soon. A
+new Speaker of the House will be elected
+during this session.
+Until the election of the new Speaker, a
+pro-tem Speaker will be appointed to administer the oath
+to the new Members of Parliament.
+Who is a Pro-tem Speaker?
+Speaker of the Lok Sabha
+oversees the day-to-day proceedings of the House.
+According to
+Article 94
+of the Indian Constitution, the
+outgoing Speaker continues in office
+until the first meeting of the new Lok Sabha.
+pro-tem Speaker is appointed temporarily
+to manage certain duties until the new Speaker is elected.
+Constitution does NOT mention
+explicitly about the post.
+However, the ‘
+Handbook on the Working of the Ministry of Parliamentary Affairs
+provides
+guidelines
+on the appointment and duties of the Speaker pro-tem.
+Functions:
+The primary duty of the pro-tem Speaker is
+to administer oaths to the new MPs
+, as mandated by
+Article 99
+of the Constitution.
+Appointment of the Pro-tem Speaker
+When the Speaker’s post is vacant before the new Lok Sabha convenes, the
+PRESIDENT
+appoints a Member of the House as the Speaker pro-tem.
+President administers the oath
+to the Speaker pro-tem at the
+Rashtrapati Bhawan
+Generally,
+three other elected members
+of the Lok Sabha are also
+appointed by the President
+to assist in the oath-taking process.
+SENIORMOST members
+, in terms of years of service, are usually chosen for this role, though
+there can be exceptions
+Process of Administering Oaths
+Legislative I Section
+of the Government of India prepares a list of the seniormost Lok Sabha members after the formation of the new government.
+This list is
+submitted to the Minister of Parliamentary Affairs
+Prime Minister
+, who identifies the Speaker pro-tem and the three other members for oath-taking.
+After the
+Prime Minister’s approval
+, the consent of the selected members is obtained by the Minister of Parliamentary Affairs, usually over the telephone.
+The Minister then
+submits a note to the President
+seeking approval for the appointments and the date and time for the swearing-in ceremony.
+Upon the
+President’s approval
+, the Ministry informs the Speaker pro-tem and the other members about their appointments.
+then administers the
+oath to the other three members
+in the Lok Sabha.
+PYQ:
+[2024]
+With reference to the Speaker of the Lok Sabha, consider the following statements :
+While any resolution for the removal of the Speaker of the Lok Sabha is under consideration
+He/She shall not preside.
+He/She shall not have the right to speak.
+He/She shall not be entitled to vote on the resolution in the first instance.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+**********[pib] INS Sunayna in Port Victoria, Seychelles
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+INS Sunayna, SAGAR Doctrine
+Why in the News?
+, an Offshore Patrol Vessel based at Southern Naval Command, entered
+Port Victoria, Seychelles.
+The ship will undertake joint EEZ surveillance with the Seychelles Coast Guard during the deployment.
+The visit is aimed at further strengthening mutual cooperation in line with the vision of SAGAR (Security & Growth for All in the Region).
+About INS Sunayna
+INS Sunayna is the second
+Saryu-class patrol vessel
+of the Indian Navy launched in
+2009
+It was designed and constructed
+indigenously
+by the
+Goa Shipyard Limited
+It is designed to undertake
+fleet support operations
+, coastal and offshore patrolling, ocean surveillance and monitoring of sea lines of communications and offshore assets and escort duties.
+Key operations undertaken
+In June 2018 she was deployed to Yemen’s Socotra Island as part of “
+Operation Nistar
+“, an HADR mission to evacuate around 38 stranded Indian nationals in/around Socotra after a cyclone hit the area.
+INS Sunayna, along with INS Chennai, was
+sent to the Persian Gulf
+and Gulf of Oman in June 2019 to protect Indian shipping interests amid
+tensions in the Strait of Hormuz
+Back2Basics: SAGAR Strategy
+SAGAR stands for “Security and Growth for All in the Region.”
+It is a strategic policy framework
+initiated by India in 2015
+, designed to enhance its engagement with countries in the Indian Ocean Region (IOR) and neighbouring islands.
+The primary objectives of SAGAR include:
+Security:
+Ensuring the safety and protection of India’s land and maritime territories, as well as its national interests in the IOR.
+Economic Growth:
+Promoting sustainable economic growth and development through collaborative efforts with IOR littoral states. This includes initiatives in marine biotechnology, ocean mineral resources, sustainable fishing practices, and ocean energy.
+Disaster Management:
+Facilitating collective action and providing assistance to IOR countries during natural disasters, thereby fostering regional cooperation and goodwill.
+Sustainable Development:
+Supporting initiatives for sustainable regional development, including marine research, eco-friendly industrial technologies, and the conservation of the maritime environment.
+PYQ:
+[2022]
+What are the maritime security challenges in India? Discuss the organisational, technical and procedural initiatives taken to improve maritime security.
+[2017]
+Consider the following in respect of the Indian Ocean Naval Symposium (IONS):
+1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy.
+2. IONS is a voluntary initiative that seeks to increase maritime cooperation among navies of the littoral states of the Indian Ocean Region.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********In news: G-7 Outreach Summit Apulia, Italy 
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+G-7 Countries
+Why in the News?
+PM Modi was placed at centre stage for a group photograph at the G-7 Outreach Summit held in Italy.
+This marks India’s 11th participation in the G7 Summit and PM Modi’s fifth consecutive attendance.
+About G-7 (Group of Seven)
+The G7 is an
+informal bloc
+of industrialized democracies comprising the United States, Canada, France, Germany, Italy, Japan, and the United Kingdom (UK).
+convenes annually
+to address global economic governance, international security, and more recently, issues related to artificial intelligence (AI).
+Formation and Expansion:
+Originally formed as the
+Group of Six in 1975
+by the United States, France, Italy, Japan, the UK, and West Germany, with Canada joining in 1976.
+It was formed as a result of the
+oil crisis
+to stabilize global economic policies and international relations.
+The group’s formation coincided with the
+challenges of the Cold War era
+, aiming to address economic concerns such as inflation and recession exacerbated by the OPEC oil embargo.
+Key statistics about G7 countries:
+Wealth
+: They control 60% of the global net wealth.
+Growth
+: They drive 46% of the global GDP.
+Population
+: They represent 10% of the world’s population.
+Russia’s Joining and Suspension
+joined in 1998
+, transforming it into the
+G8
+, aimed at enhancing its international prestige and fostering closer ties with Western nations.
+Russia was
+suspended in 2014
+following its
+annexation of Crimea
+, leading to ongoing tensions and challenges with both Russia and increasingly, China.
+Functioning of the G7
+Unlike formal institutions like the United Nations or NATO, the G7
+lacks a charter and secretariat
+Its
+presidency rotates annually
+(Canada in 2025), responsible for setting the agenda and logistical arrangements for the summit.
+Policy initiatives are crafted by
+ministers and envoys known as
+Sherpas
+, who prepare discussions and agreements before the annual gathering.
+Non-member countries
+occasionally invited
+to participate in G7 meetings.
+Why G7 needs India?
+Economic Significance and Democratic Stability
+: India’s regular participation in G7 meetings highlights its economic importance and stable democratic framework.
+Rising Economic Power
+: With India poised to become the world’s fourth-largest economy, its involvement in global issues is increasingly crucial.
+Leadership in the Global South
+: Modi’s initiatives, such as the Voice of the Global South Summit, have bolstered India’s global standing.
+G20 Presidency
+: India’s recent presidency of the G20 demonstrated its ability to build consensus on contentious global issues.
+Neutrality and Strategic Partnerships
+: India’s neutral stance on Western concerns over China’s actions in the South China Sea and its economic policies enhances its partnership with G7 nations.
+Balancing with Russia and the West
+: As the West confronts Russia over Ukraine, India’s neutral stance positions it as a key ally while maintaining diplomatic balance.
+Divergence within G7
+Geopolitical Tensions:
+The G7 nations often face disagreements and tensions over geopolitical matters, such as responses to Russian aggression, conflicts in regions like Ukraine, and strategic alliances with emerging economies.
+Economic Policies:
+Economic policies and trade relations are frequent topics of debate within the G7. Issues include trade tariffs, market regulations, financial stability, and economic cooperation in the face of global economic challenges.
+Climate Change:
+Addressing climate change and achieving environmental sustainability are critical concerns for the G7. Discussions typically focus on climate action commitments, renewable energy investments, and international cooperation on climate policies.
+Security and Defense:
+Security and defence cooperation, including responses to global terrorism, cybersecurity threats, and military alliances, are important agenda items for the G7.
+Technology and Innovation:
+Managing technological advancements, including AI regulation, digital governance, cybersecurity standards, and technological innovation policies, is another area of focus.
+Social Issues:
+Social issues such as gender equality, human rights, immigration policies, and global development aid are also part of the G7 agenda, reflecting broader societal concerns and international commitments.
+PYQ:
+[2020]
+In which one of the following groups are all four countries members of G20?
+(a) Argentina, Mexico, South Africa and Turkey
+(b) Australia, Canada, Malaysia and New Zealand
+(c) Brazil, Iran, Saudi Arabia and Vietnam
+(d) Indonesia, Japan, Singapore and South Korea
+**********Elephants have names for each other: What a new study says
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Facts about Elephants
+Why in the News?
+Recent studies utilizing artificial intelligence (AI) tools have revealed that
+elephants possess unique names used to address each other
+, placing them among the select animals with this ability.
+Unlike animals such as parrots and dolphins, elephants do not imitate the calls of those they address, resembling humans in this communicative trait.
+Naming Behavior in Elephants
+Unlike humans, elephants do not mimic the calls of the addressee, setting their communication apart from other animals.
+Published in
+Nature
+, the study titled ‘African elephants address one another with individually specific name-like calls’ involved researchers from institutions like Colorado State University and Save The Elephants.
+Study Methodology
+Communication Methods
+: Contrary to popular belief, elephants predominantly communicate through low-pitched rumbles rather than trumpets, which are primarily emotional expressions.
+Data Analysis
+: Researchers analyzed recordings of wild female
+African savannah elephants
+and their offspring’s rumbles across various Kenyan national parks spanning from 1986 to 2022.
+AI Application
+: Using AI technology, they scrutinized
+469 recorded rumbles
+to detect patterns indicating specific recipients of the communication.
+Success Rate
+: The AI model successfully identified the intended elephant recipient in 27.5% of cases, surpassing chance levels.
+Observations
+Behavioural Observation
+: To validate their findings, researchers played back recorded rumbles to 17 elephants and noted heightened reactions when elephants heard their ‘names’, indicating recognition of individual names.
+Unique Communication
+: Unlike animals that imitate others’ calls, elephants display no evidence of imitation, suggesting a unique communication strategy.
+Significance of the Study
+Sophisticated Communication
+: The study underscores elephants’ advanced communication abilities, challenging previous assumptions about their cognitive prowess.
+Human-Elephant Parallels
+: It draws parallels between human and elephant communication, fostering greater admiration for elephants and potentially mitigating human-elephant conflicts crucial for conservation efforts.
+Future Research
+: Further investigation is warranted to pinpoint the exact location of elephant names within rumbles and explore whether elephants assign names to objects besides individuals.
+Back2Basics: Elephants in India
+Details
+Population Estimate
+India hosts the largest population of wild Asian Elephants (Elephas maximus), with around 29,964 individuals,
+Approximately 60% of the global population (2017 census).
+Leading States
+Karnataka holds the highest number of elephants, followed by Assam and Kerala.
+Conservation Status
+IUCN Red List:
+Endangered.
+CMS:
+Appendix I.
+Wildlife (Protection) Act, 1972:
+Listed under Schedule I,
+CITES:
+Conservation Initiatives
+Project Elephant was launched in 1992, covering 23 states across India.
+Contributed to the increase in wild elephant population from around 25,000 in 1992 to about 30,000 in 2021.
+Establishment of Elephant Reserves. Total 33 in numbers covering approximately 80,777 Sq.km.
+PYQ:
+[2020]
+With reference to Indian elephants, consider the following statements:
+The leader of an elephant group is a female.
+The maximum gestation period can be 22 months.
+An elephant can normally go on calving till the age of 40 years only.
+Among the States in India, the highest elephant population is in Kerala.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 4 only
+(c) 3 only
+(d) 1, 3 and 4 only
+**********

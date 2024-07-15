@@ -1,0 +1,674 @@
+SAARC & Currency Swap Agreement
+Why in the News?
+The Reserve Bank of India (RBI) has decided to put in place a revised Framework on
+Currency Swap Arrangement for SAARC countries for the period 2024 to 2027
+.
+What’s in Today’s Article?
+About SAARC (Objectives, Members, Structure, etc.)
+Currency Swap Agreement (Meaning, Benefits, India’s Agreements, etc.)
+News Summary
+About SAARC:
+The South Asian Association for Regional Cooperation is the regional intergovernmental organization and geopolitical union of states in South Asia.
+It was established with the signing of the
+SAARC Charter in Dhaka in 1985
+The SAARC includes eight south Asian countries:
+Afghanistan
+Bangladesh
+Bhutan
+Maldives
+Nepal
+Pakistan
+SriLanka
+There are currently nine countries with ‘
+Observer’
+status: Australia, China, European Union, Iran, Japan, South Korea, Mauritius, Myanmar, United States of America
+SAARC Structure:
+SAARC Summits
+The Meetings of the Heads of State or Government of Member States is the highest decision-making authority under SAARC.
+Summits are usually held biennially hosted by a Member State in alphabetical order.
+The Member State hosting the Summit assumes the Chair of the Association.
+Council of Ministers
+Council of Ministers (CoM) comprises of the Ministers of Foreign/External Affairs of the Member States.
+The Council meets, preceding the Summit and between the two summits.
+The Council has also been meeting informally, since 1997, on the side-lines of the United Nations General Assembly Sessions in New York.
+Secretariat:
+The SAARC Secretariat was established in Kathmandu on 16
+January 1987.
+Its role is to coordinate and monitor the implementation of SAARC activities.
+Decision-making:
+Decisions at all levels are to be taken on the basis of
+unanimity
+Bilateral and contentious issues are excluded from the deliberations of the Association.
+About Currency Swap Agreement:
+A currency swap agreement is a financial contract between two parties to exchange principal and interest payments in different currencies.
+The primary purpose of such an agreement is
+to secure more favourable loan terms or to hedge against currency risk
+Features of currency swap agreement include:
+Exchange of Principal
+At the start of the swap, the two parties exchange equivalent amounts of different currencies based on the prevailing exchange rate.
+For example, Party A might lend Party B USD, while Party B lends Party A an equivalent amount in INR.
+Interest Payments
+Throughout the duration of the swap, the parties exchange interest payments on the borrowed amounts.
+These payments are typically made at regular intervals and are calculated based on the interest rates agreed upon in the swap contract.
+The interest payments can be fixed or floating rates.
+Re-exchange of Principal
+At the end of the swap agreement, the parties re-exchange the principal amounts at the initial exchange rate, regardless of the current exchange rate.
+Benefits of Currency Swap Agreements
+Hedging
+: Companies can hedge against currency fluctuations and interest rate changes.
+Access to Capital
+: Firms can access capital in foreign currencies at more favourable rates.
+Cost Savings
+: It can lead to cost savings due to better loan terms in the foreign currency market.
+India’s Currency Swap Agreements:
+So far, the Commerce Ministry, Government of India, has finalised arrangements with some 23 countries with whom Indian can trade in local currencies.
+In simple terms, the importer or exporter in both the countries has to quote and receive settlements in their own currencies.
+No third country currency is involved, thereby eliminating the need to worry about exchange variations.
+India's emphasis has been to persuade countries to come to this arrangement, where India has substantial or sizeable trade deficit with that country
+By doing so, the dues are still payable in rupees, thus saving the need to settle in "foreign exchange" in say, US dollars, Euros, or whatever.
+Once the Finance Ministry approves the country with whom such an arrangement would be mutually beneficial, Commerce Ministry takes over the responsibility to start the bilateral talks to arrive at a suitable agreement.
+Currency Swap Arrangement for SAARC countries:
+The Reserve Bank of India (RBI) announced a revised Currency Swap Framework for SAARC countries, effective from
+This framework enables bilateral currency swap agreements between the RBI and SAARC central banks to address short-term foreign exchange liquidity needs or balance of payments crises.
+A new INR Swap Window with concessions for Indian Rupee support,
+totalling ₹250 billion
+, has been introduced.
+Additionally, a US Dollar/Euro Swap Window with a corpus of $2 billion will continue.
+All SAARC member countries can access the facility, provided they sign the bilateral agreements.
+RBI unveils revised Currency Swap Arrangement for SAARC countries.pdf
+( Size:  214.0 KB  )
+Click to View More
+International Relations
+**********India Inclusion in JP Morgan EM Bond Index
+Why in News?
+India officially became part of JP Morgan's Government Bond Index-Emerging Markets (GBI-EM). The inclusion is likely to bring nearly $20-25 billion into the country (over the next 10 months) and will help India manage its external finances and boost foreign exchange reserves and the rupee.
+What’s in Today’s Article?
+Indian Bond Market - Challenges and Solutions
+What is the JP Morgan Emerging Market Index?
+What was JP Morgan’s Announcement?
+Impact of IGBs Inclusion
+Will Higher Inflows be a Concern for RBI?
+Indian Bond Market - Challenges and Solutions:
+Importance of bond markets:
+They are a boon for corporate bodies and government entities, providing a
+flexible and efficient way to raise capital.
+One of the critical advantages for companies is the
+avoidance of equity dilution.
+Moreover, the cost of capital is reduced as the interest expenses on debt instruments are tax-deductible, making it a more attractive option than other forms of financing.
+India's bond market:
+India's bond market is pivotal in the country's economic structure.
+As of September 2023, the government bond market
+size stands impressively at $1.3 trillion
+, with corporate bonds at $0.6 trillion.
+Challenges in Indian bond markets:
+Narrow investment base,
+Insufficient participation by foreign investors,
+Virtually absent secondary market and
+Private placement (a sale of stock shares or bonds to pre-selected investors and institutions rather than publicly on the open market).
+Panacea:
+Inclusion in the Global Indices
+Presence of market makers on both buy and sell-side
+No credit default swaps
+Bonds bhi ‘Sahi Hain’: A marketing campaign which can catch the eyeballs of all the age groups of the society.
+Credit enhancement frameworks
+Incentivising the issuer
+Created in the early 1990s
+, it is the most widely referenced index for emerging market bonds and has become benchmarks for local market and corporate EM bonds.
+It began with the issuance of the first Brady bond
+- denominated in U.S. dollars and issued by developing countries and backed by the U.S. Treasury bonds.
+It has since expanded to include
+the GBI-EM (in 2005) and the Corporate Emerging Markets Bond Index (CEMBI).
+JP Morgan has announced that it would include
+Indian Government Bonds (IGBs)
+to its emerging markets bond index (starting June 28, 2024).
+There are 23 IGBs that meet the index eligibility criteria
+, with a combined notional value of approximately Rs 27 lakh crore or $330 billion.
+Only IGBs designated under the Fully Accessible Route
+(FAR was introduced by the RBI in 2020 to enable non-residents to invest in specified Government of India dated securities) are index-eligible.
+Impact of IGBs Inclusion:
+India is expected to reach the
+maximum weight of 10%
+in the GBI-EM Global Diversified Index (GBI-EM GD).
+A higher weightage will prompt global investors to
+allocate more funds
+(~ $ 2-3 billion flows to India every month) for investment in Indian debt.
+It will not only result in
+lower risk premia
+, but will also
+help India to finance its fiscal and current account deficit (CAD).
+It will also help India to enhance the liquidity and ownership base
+of government securities (G-secs; debt instruments issued by the central government to meet its fiscal needs).
+The inclusion of certain Indian sovereign bonds will
+support a diversification of the investor base
+for Indian government securities.
+It could help lower funding costs slightly
+, and support further development of domestic capital markets.
+When the Reserve Bank of India (RBI) removes dollars from the market, it must release an equal amount in rupees.
+This means, while higher inflows will boost the rupee, the RBI will have to use the instruments in its armoury
+to check the resultant inflationary pressures.
+newspaper.pdf
+( Size:  193.5 KB  )
+Click to View More
+Economics
+**********President's Address to the Joint Sitting of Parliament
+Why in news?
+President Droupadi Murmu addressed the joint session of both houses of Parliament after the constitution of the 18th Lok Sabha.
+During this, she spoke about a wide range of topics, including recent paper leak cases, higher voter turnout in Kashmir valley during recently held Lok Sabha polls, concerns over EVMs, India's agriculture and forthcoming budget.
+What’s in today’s article?
+President's Address to Parliament
+Key highlights of the President's Address
+Article 87 provides two special occasions
+on which the President addresses a joint sitting.
+The first is to address the opening session of a new legislature after a general election.
+The second is to address the first sitting of Parliament each year.
+The purpose of this address is to inform Parliament of the causes of its summons.
+The President’s speech essentially highlights the government’s policy priorities and plans for the upcoming year.
+The address provides a broad framework of the government’s agenda and direction.
+Apart from this, the President has a right to address any one or both Houses together.
+He may also send messages to either House with respect to a Bill or otherwise.
+Key highlights of the President's Address - Vision for a Developed India
+Upcoming Union Budget: Historic Steps
+The President announced that the Union Budget next month will introduce many historic steps along with significant economic and social decisions to accelerate the country's development.
+Accelerated Reforms
+Murmu highlighted the government's commitment to accelerating the pace of reforms in line with the aspirations of the Indian people for rapid development.
+Reference to Emergency and Constitutional Resilience
+The President recalled the Emergency imposed in June 1975 by the Congress government as the "biggest and darkest chapter of direct attack on the Constitution."
+She praised the resilience of the Indian Constitution and its ability to withstand numerous challenges over the decades.
+Article 370 and Jammu & Kashmir
+Murmu noted that the Constitution has now fully come into force in Jammu and Kashmir following the abrogation of Article 370 in August 2019, which granted the region special status.
+High Voter Turnout in Jammu & Kashmir
+The President highlighted the unprecedented voter turnout in Jammu and Kashmir during the Lok Sabha elections, noting it as a significant response to internal and external elements spreading false propaganda about the region.
+Election Mandate: Trust in Governance
+The President underscored that the 2024 election was a mandate of trust in the government's policy, intention, dedication, and decisions.
+She listed the key areas of trust: strong and decisive governance, good governance, stability, continuity, honesty, hard work, security, prosperity, and India's resolve to become a "Viksit Bharat" (developed India).
+Defence of EVMs and Electoral Integrity
+She defended the use of Electronic Voting Machines (EVMs) amidst Opposition criticism, praising the Election Commission for the successful conduct of the elections.
+She underscored the importance of preserving trust in democratic institutions and the electoral process.
+Commitment to Fair Examinations
+President Murmu assured a fair investigation and strict punishment for the culprits.
+She emphasized the government's dedication to providing transparent and probity-driven opportunities for the youth.
+Call to Action Against Misinformation
+She warned against disruptive forces both within and outside the country, which aim to weaken democracy through misinformation and rumor-mongering.
+She called for collective efforts to counter these threats.
+Appeal for Parliamentary Cooperation
+The President disapproved of parliamentary disruptions and stressed the need for smooth parliamentary functioning to maintain public confidence in the government and the system.
+She emphasized the importance of prioritizing public interest through healthy deliberations and far-reaching decisions.
+Highlighting Government Achievements
+She highlighted the achievements of Modi government over the last decade, including:
+welfare schemes such as free ration distribution to 80 crore people, Kisan Samman Nidhi payments to farmers,
+significant increase in defence exports,
+record GST collections,
+construction of PM Awas houses, and
+abolition of interviews for Group C and D posts in the Central government.
+Focus on Key Demographics
+The President made special mention of women, youth, farmers, and the poor, aligning with Prime Minister Narendra Modi's emphasis on these groups in government initiatives.
+President's Address to the Joint Sitting of Parliament.pdf
+( Size:  3.5 MB  )
+Click to View More
+Polity & Governance
+**********SEBI tightens norms on financial influencers, eases rules for delisting
+Why in news?
+The Securities and Exchange Board of India (SEBI), India’s markets regulator, has asked brokers and mutual funds to stop using the services of unregulated financial influencers for marketing and advertising campaigns.
+In addition to regulating finfluencers, SEBI has introduced a fixed price process for delisting frequently traded shares and established a delisting framework for Investment and Holding Companies (IHC).
+What’s in today’s article?
+Finfluencers (financial influencers)
+New rules by SEBI
+About
+Finfluencers are people with public social media platforms offering advice and sharing personal experiences about money and investment in stocks.
+Their videos cover budgeting, investing, property buying, cryptocurrency advice and financial trend tracking.
+Popularity of finfluencers
+The popularity of finfluencers is evident from their massive subscriber counts, often exceeding those of leading broking firms.
+This has resulted in substantial earnings for the most successful finfluencers, with estimates ranging from Rs 15 lakh to Rs 30 lakh per month.
+However, the low barriers to entry in this space have also led to increased exposure to potential bad actors and questionable advice.
+Need to regulate finfluencers
+There has been a sharp rise in the number of various ‘unregistered’ investment advisors giving unsolicited social media ‘stock’ tips on various social media platforms.
+The rise of finfluencers can be attributed to
+India's low financial literacy rate of 27%
+and the influx of new investors during the Covid-19 pandemic.
+With the democratization of trading through new-age broking apps and affordable smartphones, many first-time investors turned to finfluencers for guidance.
+However, the lack of financial education and the focus on market updates by business news channels created a vacuum that finfluencers have been filling.
+There were also reports that certain companies used social media platforms to boost their share prices through such finfluencers.
+Recently, an online portal claimed that finfluencers get paid Rs 7 to 9 lakh per endorsement to push financial products on social media.
+There are two important aspects which requires attention:
+It is unclear if these influencers have any educational or professional qualification to offer such financial advice, and
+If there is any kind of monetary transaction that happens between them and the entity they are promoting.
+Criticism
+Critics have raised the concerns in this regard. They claim that finflencers render advice to their followers which comes under the
+ambit of Freedom of Expression of the Constitution
+Followers are not forced to take action based on the recommendations of these finfluencers.
+They point towards the fact that often celebrities endorse certain products without having any expertise. Also, they take money to promote the products.
+In this context, these critics claim that regulating the finfluencers would be improper.
+SEBI Tightens Norms on Financial Influencers
+Under the new rules, brokers and mutual funds are prohibited from using the services of unregulated financial influencers for marketing and advertising campaigns.
+However, financial influencers engaged in investor education will be exempt from these restrictions.
+The regulated entities will be responsible for ensuring that the individuals they associate with adhere to the rules of conduct set by SEBI, including avoiding promises of assured returns.
+Changes to Derivative Trading Regulations
+SEBI has introduced new criteria to determine which stocks can be linked to derivative products, such as futures and options.
+The total number of stocks eligible for derivative trading is expected to increase slightly.
+Eased Delisting Rules
+The regulator has approved changes to delisting rules, making it easier for companies to exit from stock exchanges.
+Currently, delisting is carried out via reverse book-building.
+Reverse book-building is primarily used by companies that wish to delist their shares from a stock exchange
+The objective is to determine the exit price at which shareholders are willing to sell their shares back to the company or promoters.
+Companies can now offer their shareholders fixed prices for shares as an alternative to the current reverse book-building mechanism.
+The fixed price must be at least 15% above a floor price, which will be determined by rules set by the regulator.
+The regulator has also decided to remove financial disincentives for the managing director and chief technology officer of exchanges and other market infrastructure institutions (MIIs) in the event of technical glitches.
+SEBI tightens norms on financial influencers, eases rules for delisting.pdf
+( Size:  278.7 KB  )
+Click to View More
+Economics
+**********What is the Justice Reddy Commission, against which KCR has moved Telangana High Court?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+What has the Commission done on the PPAs so far?
+Why in the news?
+On June 27, the Telangana High Court postponed the hearing on a petition filed by Bharat Rashtra Samiti (BRS) president and former Telangana Chief Minister K Chandrashekar Rao. The petition sought to halt all future proceedings of the Justice (retired) L Narasimha Reddy Commission until Friday.
+What is the Narasimha Reddy Commission?
+Formation:
+Appointed by the Congress government of Chief Minister A Revanth Reddy in March 2024.
+Purpose:
+To investigate Power Purchase Agreements (PPAs) made with Chhattisgarh in 2014-15 and construction of power projects at Yadadri and Bhadradri. Allegations of irregularities in the Kaleshwaram irrigation project.
+What is Power Purchase Agreements (PPAs)?
+Power Purchase Agreements (PPAs) are long-term contracts between electricity producers (such as power plants) and purchasers (such as utilities, governments, or large industrial consumers).
+These agreements stipulate the terms under which electricity is to be generated, delivered, and sold over a specified period.
+Notice Issued:
+On June 11, the Commission issued a notice to K Chandrashekar Rao (KCR) requesting a response by June 15 regarding the PPAs made during his tenure (2014-2023).
+KCR’s Response:
+KCR accused the Commission of bias and political motivation, requesting Justice Reddy to recuse himself.
+Legal Action:
+Anticipating a personal summons, KCR filed a petition in the Telangana High Court seeking a stay on all proceedings of the Commission.
+Energy Minister Notice:
+G Jagdish Reddy, Energy Minister in KCR’s Cabinet, was also issued a notice to appear before the Commission to provide a statement regarding the PPAs.
+Allegations Regarding the Power Plants
+Irregularities in Construction:
+The Narasimha Reddy Commission is investigating allegations of irregularities in the construction of the Bhadradri Thermal Power Plant at Manuguru and the Yadadri Thermal Power Plant at Damaracherla.Both projects were executed by the Telangana State Power Generation Corporation (TG GENCO).
+Specific Concerns:
+The focus is on potential discrepancies and irregularities during the construction process, which may involve issues related to project execution, costs, and adherence to regulatory norms.
+Way forward:
+Fair and Transparent Investigation:
+The Narasimha Reddy Commission should ensure a fair and transparent investigation into the allegations concerning Power Purchase Agreements (PPAs) and the construction of power projects.
+Collaboration and Accountability:
+Stakeholders, including former government officials and current authorities involved in the projects under scrutiny, should cooperate fully with the Commission.
+**********What is the role of the Lok Sabha Leader of Opposition?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Leader of Opposition in Lok Sabha and Rajya Sabha
+Mains level:
+Significance of the Leader of Opposition
+Why in the news?
+For a decade, the Leader of Opposition in Lok Sabha remained vacant due to the absence of any party meeting the customary threshold of one-tenth of the House’s strength, now filled by Rae Bareli MP Rahul Gandhi.
+Leader of Opposition in the past:
+Who can serve as Leader of Opposition in Lok Sabha and Rajya Sabha?
+Legal Definition:
+According to The Salary and Allowances of Leaders of Opposition in Parliament Act, 1977, the Leader of the Opposition is a member of the Lok Sabha or Rajya Sabha who leads the largest party in opposition to the government, recognised by the Speaker (Lok Sabha) or Chairman (Rajya Sabha).
+Needed Strength:
+The leader must lead the party with the greatest numerical strength among the opposition parties in the respective House.
+Recognition:
+The Speaker (Lok Sabha) or Chairman (Rajya Sabha) is mandated to recognize the leader of the largest opposition party as the Leader of the Opposition, irrespective of the party having a minimum threshold of 10% seats in the House.
+Significance of the positions and its significant role in Indian Political Democracy
+Voice of the Opposition:
+The Leader of the Opposition serves as the primary spokesperson for the opposition in the House, articulating their views, criticisms, and alternative policies to those of the government.
+Role in Committees:
+The Leader of Opposition plays a crucial role in high-powered committees responsible for appointments to key posts like the Director of CBI, Central Vigilance Commissioner, and others. This ensures a bipartisan approach in crucial appointments.
+Ceremonial Role:
+The Leader of Opposition enjoys ceremonial privileges such as sitting in the front row during important occasions like the President’s Address to Parliament, symbolizing their role as a significant political figure.
+Constitutional Checks and Balances:
+By providing an institutionalized position for the opposition, the Leader of Opposition ensures checks and balances on the ruling party’s power, fostering democratic accountability and oversight.
+Precedence and Protocol:
+In the order of precedence, the Leader of Opposition ranks alongside Union Cabinet Ministers and other senior officials, reflecting their role in the functioning of the parliamentary democracy.
+Conclusion:
+The Leader of Opposition in Lok Sabha and Rajya Sabha, recognized per the 1977 Act, leads the largest opposition party, ensuring a vital role in governance oversight, committee appointments, and parliamentary protocol, crucial for democratic checks and balances.
+Mains PYQ:
+The Indian Constitution has provisions for holding joint sessions of the two houses of the Parliament. Enumerate the occasions when this would normally happen and also the occasions when it cannot, with reasons thereof.
+(UPSC IAS/2017)
+**********Why govt must create a buffer stock of all main food items? 
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+NAFED, Open Market
+Mains level:
+How Buffer in Chana Helped
+Why in the news?
+Sales of wheat and chana in the open market have effectively curbed soaring inflation in cereals and pulses.
+What is an Open Market?
+An open market is an economic system with little to no barriers to free-market activity. An open market is characterized by the absence of tariffs, taxes, licensing requirements, subsidies, unionization, and any other regulations or practices that interfere with free-market activity. Open markets may have competitive barriers to entry, but never any regulatory barriers to entry.
+Present State of Inflation:
+Overall CPI Inflation:
+Stood at 4.75% year-on-year in May, the lowest in 12 months, but food inflation remained elevated at 8.69%.
+Cereals and Pulses:
+Inflation rates were 8.69% for cereals and 17.14% for pulses in May 2024.
+Impact of Buffer Stocks:
+Buffer stocks of wheat and chana moderated inflation by ensuring sufficient supply during periods of price volatility.
+How Buffer in Gram(Chana) Helped:
+NAFED Procurements:
+Procured large quantities of chana during surplus years at MSP, preventing prices from soaring during crop failures.
+Distribution:
+Sold chana through various channels including open market e-auctions and ‘Bharat Dal’ at subsidized rates, stabilizing prices for consumers.
+Current Stock Levels:
+Despite recent sales, NAFED still maintains a buffer stock of 4.01 lakh tonnes of chana as of now.
+Significant Role Played by FCI:
+Wheat Offloading:
+FCI offloaded a record 100.88 lakh tonnes of wheat in fiscal 2023-24 through open market sales, stabilizing prices and reducing inflation.
+Retail Price Management:
+Sales under schemes like ‘Bharat Atta’ ensured wheat and cereal inflation was reduced from peak levels earlier in 2023.
+Buffer Management:
+Despite reduced stocks from previous years, FCI’s interventions have been crucial in managing price volatility in essential commodities.
+Need to Adopt Buffer Policy and Better Procurement:
+Buffer Stock Strategy:
+Proposal to expand buffer stocks beyond rice, wheat, and select pulses to include oilseeds, vegetables, and even milk powder to mitigate price spikes.
+Enhanced Procurement:
+Advocates for increased procurement during surplus years to build adequate buffer stocks for future market stabilization.
+Policy Impact:
+Buffer stocking can moderate price volatility influenced by climate change-induced agricultural uncertainties, benefiting both consumers and producers.
+Way forward:
+Enhanced Diversification of Buffer Stocks:
+There is a need to diversify buffer stocks beyond traditional items like rice and wheat to include a broader range of essential commodities such as oilseeds, vegetables, and milk powder. This expansion would help in better managing price spikes and supply shocks across various sectors.
+Strengthened Procurement Mechanisms:
+Improving procurement strategies during surplus production years is crucial. This involves proactive measures to purchase larger quantities of commodities at minimum support prices (MSPs), ensuring adequate buffer stocks for future market stabilization and price moderation during scarcity periods.
+Mains PYQ:
+Food Security Bill is expected to eliminate hunger and malnutrition in India. Critically discuss various apprehensions in its effective implementation along with the concerns it has generated in WTO.
+(UPSC IAS/2013)
+**********Interest rates on small savings schemes like PPF, SCSS, and NSC are under review by Modi 3.0 government 
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Small Savings Schemes
+Mains level:
+Impact of Stable Interest Rates on Small Savings Schemes
+Why in the news?
+The central government of India is set to announce the interest rates for various
+, including the Public Provident Fund (PPF), Senior Citizen Savings Scheme (SCSS), National Savings Certificate (NSC), Sukanya Samriddhi Yojana (SSY), and Post Office Monthly Income Scheme (POMIS), for the July-September 2024 quarter by June 30, 2024.
+Current Interest Rates and Expected Changes
+Current Rate:
+7.1%
+Expected Rate:
+Despite the benchmark 10-year bond yield averaging 7.02% from March to May 2024, which would suggest a rate of 7.27% according to the formula, experts believe the government will likely maintain the status quo.
+Reason:
+Factors such as controlled inflation, stable 10-year G-Sec yields, and historical precedence of the government not strictly following the recommended formula indicate a low probability of rate hikes.
+2. Senior Citizen Savings Scheme (SCSS)
+8.2%
+Unlikely to see significant changes.
+With a spread of 100 basis points, the SCSS offers a substantial return, and experts predict the government will maintain existing rates to manage fiscal policies effectively.
+3. Sukanya Samriddhi Yojana (SSY)
+8.0%
+Expected to remain stable.
+The SSY enjoys a spread of 75 basis points. Given the controlled inflation and fiscal policies, a rate hike is not anticipated.
+Factors Influencing Interest Rates
+Benchmark Yields:
+The interest rates for small savings schemes are linked to the yields of 10-year government securities.
+Market Conditions:
+Prevailing market yields and inflation rates play a crucial role in determining these rates.
+Government Policy:
+The central government’s fiscal strategy and policies, such as those outlined in the Union Budget, impact decisions on interest rates.
+Investor Sentiment and Returns
+PPF:
+Investors in PPF may feel disappointed due to the stagnation in interest rates despite a slight uptick in benchmark yields. However, PPF still offers tax-free returns under the Exempt-Exempt-Exempt (EEE) status, making it an attractive long-term investment.
+SCSS and SSY:
+Stability in interest rates ensures a predictable income stream for senior citizens and parents of girl children, maintaining their trust in these schemes.
+Government Fiscal Management:
+Maintaining the current interest rates helps the government manage its fiscal deficit more effectively. Higher rates would increase the interest burden on the government, especially for widely subscribed schemes like PPF.
+Inflation Control:
+Stable interest rates reflect the government’s confidence in managing inflation. By not increasing rates, the government signals that it sees inflation as under control, thus aiming to keep borrowing costs stable for both the government and the public.
+Market Stability:
+Consistent interest rates contribute to market stability. Predictable returns on small savings schemes help in the planning of household finances, ensuring steady savings and investments. This stability can also foster overall economic stability by maintaining consumer confidence.
+Conclusion:
+Investors in PPF, SCSS, and SSY should prepare for the possibility that interest rates will remain unchanged for the July-September 2024 quarter. While the formula indicates room for an increase in PPF rates, historical trends and expert opinions suggest that the government may maintain the current rates to balance fiscal control and market stability.
+Mains PYQ:
+Pradhan Mantri Jan-Dhan Yojana (PMJDY) is necessary for bringing the unbanked to the institutional fiancé fold. Do you agree with this for the financial inclusion of the poorer section of the Indian society? Give arguments to justify your opinion.
+(UPSC IAS/2016)
+**********Controversy over Sengol in Lok Sabha 
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Sengol and its symbolic importance
+Why in the News?
+An opposition parliamentarian has demanded the removal of the Sengol from the Lok Sabha, calling it a symbol of
+“rajdand/rajtantra (monarchy)”
+.This demand has become a point of contention between the government and the Opposition.
+What is a Sengol?
+sengol
+(or
+chenkol
+) is a royal sceptre symbolizing
+kingship, righteousness, justice, and authority
+It is a traditional
+Chola-era symbol
+of authority and governance, originally from Tamil Nadu.
+golden sceptre
+, richly adorned and crafted with intricate designs, reflecting the grandeur of ancient Tamil culture.
+Among the
+Madurai Nayakas
+, the sengol was
+placed before the goddess Meenakshi
+in the temple and then transferred to the throne room, representing the king’s role as a divine agent.
+Significance in the present context:
+Accountability and Legitimacy:
+Just as the Sengol legitimized ancient rulers by holding them accountable to higher moral standards, the institutions and practices in a parliamentary democracy ensure that elected representatives are accountable to the constitution and the people.
+Ethical Leadership:
+Leaders in a democracy are expected to uphold justice, integrity, and the rule of law, much like the dharmic kings of the past.
+Symbolic Representation:
+The Sengol, as a symbol of righteous rule, parallels the symbolic importance of democratic institutions that represent the will and welfare of the people.
+1947 Sengol Ceremony Involving Nehru
+Government’s Claim
+: The government claims C Rajagopalachari suggested the ceremony to Nehru.
+This claim is debated, as there is little contemporary evidence to support the Sengol being a key symbol of power transfer in 1947.
+Lack of Comprehensive Records
+: There are limited records about the ceremony where Nehru was reportedly handed a sengol by Hindu leaders from Tamil Nadu.
+Undocumented
+: The event is not widely documented, and claims of Lord Mountbatten handing it over ceremonially seem exaggerated.
+No Symbolization
+: Nehru accepted the Sengol as a mark of honor, but it was later placed in a museum, indicating it was not central to the transfer of power.
+**********RBI releases the 29th Financial Stability Report, 2024
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Financial Stability Report, FSDC
+Why in the News?
+The Reserve Bank of India has released the
+29th issue of the Financial Stability Report (FSR)
+.
+About Financial Stability Report:
+The FSR is published
+biannually
+by the RBI.
+It reflects the collective assessment of the Sub-Committee of the Financial Stability and Development Council (FSDC – headed by the Governor of RBI) on risks to financial stability and the resilience of the financial system.
+The Report also discusses issues relating to the development and regulation of the financial sector.
+Key Highlights of the FSR
+[1] Global Economic Context
+Heightened Global Risks
+: The global economy faces significant challenges, such as:
+Geopolitical Tensions
+: Conflicts or political disagreements between countries that can affect global stability.
+Elevated Public Debt
+: Many countries owe large amounts of money, which can be risky if they struggle to repay it.
+Slow Progress in Disinflation
+: Prices of goods and services are not decreasing quickly, which can affect economic stability.
+Resilience
+: Despite these challenges, the global financial system (how money moves around the world) remains strong and stable.
+[2] Indian Economy and Financial System
+Robust and Resilient
+: India’s economy and financial system are strong and able to handle shocks or problems.
+Banking Sector Support
+: Banks and financial institutions (like insurance companies) are in good health and are lending money to support economic activities.
+[3] Financial Metrics for Scheduled Commercial Banks (SCBs)
+Capital Ratios
+Capital to Risk-Weighted Assets Ratio (CRAR)
+: This is a measure of a bank’s financial strength. A CRAR of 16.8% means that for every 100 units of risk, the bank has 16.8 units of capital to cover potential losses.
+Common Equity Tier 1 (CET1) Ratio
+: This is a stricter measure of a bank’s core capital. A CET1 ratio of 13.9% means the bank has a strong base of high-quality capital.
+Asset Quality
+Gross Non-Performing Assets (GNPA) Ratio
+: This measures the percentage of a bank’s loans that are not being repaid. A GNPA ratio of 2.8% means that 2.8% of the total loans are in trouble.
+Net Non-Performing Assets (NNPA) Ratio
+: This is similar to GNPA but considers the money the bank has already set aside to cover bad loans. An NNPA ratio of 0.6% means that 0.6% of the total loans, after accounting for provisions, are in trouble.
+[4] Macro Stress Tests for Credit Risk
+Stress Scenarios and Projections
+Baseline Scenario
+: Under normal conditions, banks are expected to have a CRAR of 16.1% by March 2025.
+Medium Stress Scenario
+: Under moderate stress, banks are expected to have a CRAR of 14.4% by March 2025.
+Severe Stress Scenario
+: Under severe stress, banks are expected to have a CRAR of 13.0% by March 2025.
+Interpretation
+: These tests show how banks might perform under different levels of economic stress. They are hypothetical scenarios to ensure banks are prepared for tough times.
+[5] Health of Non-Banking Financial Companies (NBFCs)
+: NBFCs have a CRAR of 26.6%, indicating they are financially strong.
+GNPA Ratio
+: NBFCs have a GNPA ratio of 4.0%, meaning 4% of their loans are not being repaid.
+Return on Assets (RoA)
+: NBFCs have a RoA of 3.3%, indicating they are making good profits from their assets.
+PYQ:
+[2016]
+With reference to ‘Financial Stability and Development Council’, consider the following statements:
+1. It is an organ of NITI Aayog.
+2. It is headed by the Union Finance Minister.
+3. It monitors macroprudential supervision of the economy.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+**********UNODC World Drug Report 2024: Key Highlights
+Mains Paper 3
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+World Drug Report 2024, UNODC
+Why in the News?
+Global drug users reached 292 million in 2022, marking a 20% increase over the past decade. The report was released by the
+United Nations Office on Drugs and Crime (UNODC)
+About UNODC
+Aspect
+Details
+Global Role
+Leader in the fight against illicit drugs and international crime, responsible for implementing the UN’s lead programme on terrorism.
+Headquarters
+Vienna, Austria.
+Establishment
+Formed in 1997 through the merger of the United Nations Drug Control Programme and the Centre for International Crime Prevention.
+Functions
+1. Educate people about the dangers of drug abuse.
+2. Strengthens international action against illicit drug production and trafficking.
+3. Improves crime prevention and assists with criminal justice reform.
+4. Supports States in ratifying and implementing legal instruments against terrorism.
+Funding
+Relies mainly on voluntary contributions from governments.
+India and UNODC
+India works closely with UNODC on multiple fronts, including drug control, crime prevention, and anti-terrorism measures.
+Cannabis Use: An Overview
+According to the WHO, cannabis is a generic term for the various psychoactive preparations of the plant Cannabis sativa. Following are the derived products of Cannabis:
+THC
+: The major psychoactive constituent in cannabis is Delta-9 tetrahydrocannabinol (THC).
+Marijuana (Ganja)
+: The Mexican term is frequently used to refer to cannabis leaves or other crude plant material in many countries.
+Hashish
+: Refers to unpollinated female cannabis plants.
+Cannabis Oil (Hashish Oil)
+: A concentrate of cannabinoids obtained by solvent extraction of the crude plant material or resin.
+International Laws Regulating Cannabis
+Commission on Narcotic Drugs (CND)
+: The CND founded in 1946, is the UN agency mandated to control substances under global drug control conventions.
+1961 Single Convention on Narcotic Drugs
+: Cannabis has been on
+Schedule IV
+, the most dangerous category, since the convention’s inception.
+Despite being on Schedule IV, many jurisdictions have legalized cannabis for medicinal and recreational use.
+Over 50 countries now allow medicinal cannabis programs, and recreational use has been legalized in Canada, Uruguay, and 15 US states.
+Indian Context: Narcotic Drugs and Psychotropic Substances Act (NDPS), 1985
+Illegalization
+: The Act illegalizes any mixture of charas and ganja, or any drink prepared from them.
+Legal Exceptions
+: The law does not ban the use of seeds and leaves of the cannabis plant if these are not mixed with other parts of the plant. For example, bhang, commonly consumed during the Holi festival, and chutney made from cannabis seeds are not illegal.
+PYQ:
+[2019]
+Consider the following statements:
+The United Nations Convention against Corruption (UNCAC) has a ‘Protocol against the Smuggling of Migrants by Land, Sea and Air’.
+The UNCAC is the ever-first legally binding global anti-corruption instrument.
+A highlight of the United Nations Convention against Transnational Organized Crime (UNTOC) is the inclusion of a specific chapter aimed at returning assets to their rightful owners from whom they had been taken illicitly.
+The United Nations Office on Drugs and Crime (UNODC) is mandated by its member States to assist in the implementation of both UNCAC and UNTOC.
+Which of the statements given above are correct?
+(a) 1 and 3 only
+(b) 2, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+[2018]
+India’s proximity to the two of the world’s biggest illicit opium-growing states has enhanced her internal security concerns. Explain the linkages between drug trafficking and other illicit activities such as gunrunning, money laundering and human trafficking. What counter-measures should be taken to prevent the same?
+**********Himalayan Serow recorded at Assam’s Raimona National Park
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Himalayan Serow; Raimona National Park.
+Why in the News?
+A mainland serow aka. Himalayan Serow (
+Capricornis sumatraensis thar
+) was recorded at 96 metres above mean sea level in Raimona National Park, Assam.
+This is the
+lowest elevation recorded
+for the species beyond Bhutan, its natural habitat.
+About Himalayan Serow
+Details
+Herbivore species.
+Also known as
+Thar
+Resembles a cross between a goat, a donkey, a cow, and a pig.
+Recognition
+Official state animal of
+Mizoram
+Distribution
+Found at altitudes between 2,000 metres and 4,000 metres (6,500 to 13,000 feet).
+Found across the India-Bhutan border in Phibsoo Wildlife Sanctuary and Royal Manas National Park.
+Present in eastern, central, and western Himalayas, but not in the Trans Himalayan region.
+Conservation Status
+IUCN Red List:
+Vulnerable
+CITES:
+Appendix I
+The Wildlife Protection Act, 1972:
+Schedule I
+Back2Basics:
+Raimona National Park is a newly established protected area located in the
+Bodoland Territorial Region
+BTR
+) of Assam.
+It was officially declared a national park in
+June 2021
+, becoming the
+sixth national park
+in the state of Assam.
+It shares its
+northern boundary with Bhutan
+, forming part of the transboundary conservation landscape.
+It is characterised by
+dense forests, rivers, and grasslands
+. The park is part of the
+greater Manas Biosphere Reserve
+and serves as an extension of the Manas National Park.
+The area is interspersed by the
+Sankosh River
+which flows through the park.
+Flora and Fauna:
+: The park boasts a rich biodiversity with various types of vegetation, including semi-evergreen forests, mixed deciduous forests, and patches of grassland.
+: Hosts a variety of wildlife, including:
+Mammals
+: Asian elephants, tigers, clouded leopards, golden langurs, Indian gaur, and several species of deer.
+Birds
+: Home to numerous bird species, including hornbills, great pied hornbills, and various migratory birds.
+Reptiles and Amphibians
+: The park also supports a diverse range of reptiles and amphibians, adding to its ecological richness.
+PYQ:
+[2011]
+The Himalayan Range is very rich in species diversity. Which one among the following is the most appropriate reason for this Phenomenon?
+(a) It has a high rainfall that supports luxuriant vegetative growth
+(b) It is a confluence of different bio-geographical zones.
+(c) Exotic and invasive species have not been introduced in this region.
+(d) It has less human interference.
+**********

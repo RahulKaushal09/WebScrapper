@@ -1,0 +1,883 @@
+NATIONAL PARTY STATUS
+Syllabus
+Prelims & Mains – Polity
+Context:
+With no elected MP in Lok Sabha and its vote share this general election down to 2.04%, the Bahujan Samaj Party (BSP) could lose its national status once the Election Commission carries out its customary review post general elections.
+Background:-
+Founded in 1984 by Kanshi Ram who later named Mayawati as his successor, BSP was recognised as a national party in 1997.
+Key takeaways
+Currently, there are six political parties recognised as national parties by the Election Commission – BJP, BSP, Congress, AAP, National People’s Party, and CPM.
+According to the Election Symbols (Reservation and Allotment) Order, 1968, a national party is one that has :
+at least 6% of the total valid votes in four or more states in the last general election and at least four MPs;
+or wins at least 2% of the seats in the Lok Sabha, with the winners being from at least three states;
+or is a recognised state party in at least four states.
+With the party failing to win any seat in the 18th Lok Sabha and getting only 2.04% of the total votes, as per the results available on the ECI website, it fails the first two criteria for retaining its national party status. The final results and statistics for the 2024 elections are yet to be published.
+For the third criterion, the party has to meet the conditions for being a recognised state party in four or more states, which it also does not meet as of now.
+In all state Assembly elections held between 2019 and now, the BSP meets the criteria for being a state party only in Uttar Pradesh, where it won 12.88% votes in the 2022 state polls. In the 2024 Lok Sabha elections, it met the state party criteria, of having at least 8% of the valid votes polled in a particular state, in Uttar Pradesh, where it got 9.39% of the votes.
+As per the Symbols Order, a state party is one which has got :
+at least 6% of the total valid votes in a state and at least two MLAs;
+or at least 6% of the total valid votes polled in the state in the last Lok Sabha elections and at least one MP from that state;
+or at least 3% of the total seats in the Assembly or three seats, whichever is higher;
+or at least one MP for every 25 seats allotted to that state in the Lok Sabha;
+or at least 8% of the total valid votes in the last Lok Sabha election in that particular state or Assembly election.
+This is not the first time that BSP’s national status is under scanner. In 2014, when it also had no seat in Lok Sabha and 4.19% vote share, it could have lost its national party status, but an amendment made by EC in 2016 came to its rescue.
+Post the 2014 elections, the Symbols Order was amended in 2016 with effect from January 1, 2014 saying that a party’s national or state recognition would not be reviewed in the first election after the one in which they gain the status, meaning the first review would be after 10 years. This benefit was given to all parties, even the BSP, which became a national party in 1997.
+As a national party, a political party gets certain benefits, including the guaranteed use of their common election symbol for candidates across the country, land or accommodation for an office in Delhi, free copies of the electoral roll and airtime on Doordarshan and All-India Radio during elections.
+Source:
+Indian Express
+**********
+AI WASHING
+Prelims & Mains – CURRENT EVENT
+Soon after the release of ChatGPT in 2022, there was an explosion of news and a surge of interest in AI, triggering a hype cycle that continues unabated. Suddenly, it seems every tech company or startup is marketing an AI product. Tech companies and startups marketing themselves as using AI, but not doing so forms the basis of ‘AI washing’
+The summit will take place from July 3-4 in Astana. Kazakhstan took over the SCO presidency from India, which was the president last year. India hosted the SCO summit virtually in July 2023.
+About AI WASHING
+AI washing is a term derived from greenwashing, where companies exaggerate their environmental friendliness to appeal to customers. Similarly, businesses that claim to have integrated AI into their products, when they’re actually using less sophisticated technology, can be accused of AI washing.
+When it comes to AI washing, there are several types. Some companies claim to use AI when they’re actually using less-sophisticated computing, while others overstate the efficacy of their AI over existing techniques, or suggest that their AI solutions are fully operational when they are not.
+While it is unclear who coined the term AI washing, it was popularised by the US Securities and Exchange Commission (SEC) when it levied fines againstinvestment advisory firms Global Predictions and Delphia in March 2024.
+The securities regulator found that the companies had made false statements to their clients about providing ‘expert AI-driven forecasts’ and using machine learning to manage retail client portfolios.
+What are some real-life examples of AI washing?
+Recently, Amazon reportedly removed its cashier-less checkout systems from many physical grocery stores afterBusiness Insider found that the ‘Just Walk Out’ technology, which claimed to use AI and sensors to detect what was in a customer’s shopping cart, actually relied on employees in India to review the transactions.
+Not just tech companies, the AI-related claims of multinational brands such asMcDonalds and Coca Cola have also come under scrutiny.
+McDonalds recently decided to ditch its AI technology at drive-thru restaurants in the US after customers complained that their orders had been incorrectly taken down.
+The rush to be branded as an AI business follows a long pattern of companies looking to capitalise on the hype surrounding new and emerging technologies.
+Why is AI washing a growing concern?
+While AI washing may seem like harmless hyperbole, it could have far-reaching consequences for consumers and the tech industry itself.
+AI washing diverts management attention and resources away from practical AI innovation. Instead of developing meaningful AI capabilities, companies might make misguided investments in superficial enhancements, slowing real progress with the technology.
+AI washing can complicate decision making for businesses that are genuinely looking for valuable AI solutions. This can hinder their digital transformation efforts, stifle innovation, and jeopardise performance.
+As for consumers, subpar AI technology could pose data security and privacy risks while additionally pushing consumers away from using the technology.
+**********
+SNOWBLIND MALWARE
+Prelims – CURRENT EVENT
+A new Android malware called Snowblind has emerged and it’s using a clever trick  to bypass security.
+Snowblind specifically targets apps that handle sensitive user information.
+About Snowblind Malware:
+Snowblind is a type of Trojan malware that targets Android devices.
+Discovered by cybersecurity firm Promon, this malicious software masquerades as legitimate software to infiltrate Android phones and tablets.
+Once installed, it remains dormant until triggered by specific actions or commands. Its stealthy approach allows it to avoid detection by users and security software.
+When activated, Snowblind is capable of capturing your banking login credentials and performing unauthorized transactions without your consent.
+How it gets into your system
+People usually get this virus by downloading a malicious app that looks legitimate. The malware repackages an app to avoid detection and misuses accessibility features to steal sensitive information and control the app remotely, said Vidar Krey, VP of engineering at Promon.
+How does Snowblind malware work?
+Unlike other Android malware, Snowblind bypasses Android’s built-in security by exploiting a feature called “seccomp” in the Linux kernel, which is supposed to check for tampering.
+Snowblind injects code before seccomp activates, allowing it to bypass security checks and use accessibility services to monitor your screen, making it easier to steal your login information or interrupt your banking app sessions.
+This lets it disable biometric and two-factor authentication (2FA) protections, putting you at higher risk for fraud and identity theft. The malware works quietly in the background, so you might not even realise it is on your device.
+NDTV
+**********
+PENCH TIGER RESERVE
+Prelims – ENVIRONMENT
+The Pench Tiger Reserve recently launched an advanced Artificial Intelligence (AI) system for the early detection of forest fires.
+The use of AI for early forest fire detection can significantly improve response times and help protect wildlife and habitats.
+About PENCH TIGER RESERVE
+The Pench Tiger Reserve is named after the Pench River.
+Inside the park, the river flows from North to South before going on to join the Kanhan River, while splitting the Park into two, and forming the boundary of Seoni District and Chhindwara District districts of Madhya Pradesh.
+The Meghdoot dam built across Pench River at Totladoh has created a large water body of 72 km2 out of which 54 km2 falls in M.P. and the rest in the adjoining state of Maharashtra.
+The Pench River which emerges from Mahadeo Hills of Satpuda Ranges and the various nallas and streams which drain into it, all flow through the forests of the protected area.
+The Pench Tiger Reserve spans the southern reaches of the Satpura hills in the Seoni and Chhindwara districts of Madhya Pradesh.
+It also extends into the Nagpur district in Maharashtra.
+Biodiversity:
+This reserve is home to a rich variety of flora and fauna.
+Tigers are the main attraction, but it also hosts large herds of Chital, Sambar, Nilgai, and Gaur (Indian Bison).
+The area supports over 325 species of resident and migratory birds, including the Malabar Pied Hornbill, Indian Pitta, Osprey, and Grey Headed Fishing Eagle.
+Vegetation:
+The undulating terrain features a mosaic of vegetation, ranging from moist sheltered valleys to open, dry deciduous forests.
+Teak, saag, mahua, and various grasses and shrubs thrive here.
+The Pench region is the real-life setting of Rudyard Kipling’s famous novel, “The Jungle Book”.
+PTI
+**********
+RIM OF THE PACIFIC (RIMPAC) EXERCISE
+: The Indian Navy’s INS Shivalik has arrived at Pearl Harbour to participate in the 29th Rim of the Pacific (RIMPAC) exercise.
+The indigenously designed and built 6000-tonne guided missile stealth frigate sailed to Pearl Harbour on June 27 after completion of JIMEX 24, a bilateral exercise between India and Japan.
+About RIMPAC:
+RIMPAC stands for the Rim of the Pacific Exercise, which is the world’s largest international maritime warfare exercise.
+It is hosted and administered by the United States Navy’s Indo-Pacific Command.
+Rim of the Pacific (RIMPAC) exercise is a biennial multinational maritime exercise that fosters cooperative relationships among approximately 29 nations.
+RIMPAC 2024 will take place from June 26 to August 2 in and around the Hawaiian Islands.
+The exercise aims to enhance interoperability, strengthen strategic maritime partnerships, and ensure the safety of sea lanes in the free and open Indo-Pacific region.
+This year’s theme is “Partners: Integrated and Prepared.” Participating countries include Australia, Japan, the United Kingdom, and the United States, among other.
+**********
+CHIEF OF THE ARMY STAFF (COAS)
+: Lieutenant General Upendra Dwivedi has assumed command as the 30th Chief of the Indian Army, succeeding General Manoj Pande after his 26-month tenure.
+General Dwivedi has a deep understanding of modern and emerging technologies, aiming to enhance operational effectiveness by leveraging India’s technology ecosystem.
+About Chief of the Army Staff :
+The Chief of the Army Staff (COAS) is the professional head of the Indian Army (IA), which is the land forces branch of the Indian Armed Forces.
+The COAS typically serves a three-year term or until reaching the age of 62, whichever comes earlier.
+Extensions are rare and usually granted only during times of war or national emergency.
+Duties and Responsibilities:
+Highest-Ranking Officer: The COAS is the highest-ranking officer in the Indian Army.
+Operational Commander: Customarily held by a four-star general officer, the COAS is the senior-most operational officer of the IA, tasked with the roles of overseeing the overall functioning of the force during peace and wartime, committing to the preparation and maintenance of the force’s operational effectiveness and defending the nation’s territorial integrity and sovereignty.
+Military Advisor: The COAS advises the Government of India and the Ministry of Defence on military matters.
+Strategic Decision-Making: They play a crucial role in formulating and implementing strategic decisions related to defence and security.
+Economic Times
+**********
+Daily Practice MCQs
+Q1.) Consider the following statements about National Party status
+A national party gets several benefits, which includes land or accommodation for an office in Delhi and airtime on Doordarshan and All-India Radio during elections.
+Which of the statements given above is/are correct?
+1 only
+2 only
+Both 1 & 2
+Neither 1 nor 2
+Q2.) Consider the following statements:
+Rim of the Pacific (RIMPAC) exercise is a biennial multinational maritime exercise.
+Q3.) In which of the following states is the Pench Tiger Reserve, recently seen in the news, located?
+Karnataka
+Uttarakhand
+Assam
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  2nd July 2024
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs.st
+**********RBI has signed up for the Project Nexus
+Why in news?
+The Reserve Bank of India (RBI) has joined Project Nexus, a multilateral initiative aimed at enabling instant cross-border retail payments by interlinking domestic Fast Payments Systems (FPSs).
+Through this project, India's Unified Payments Interface (UPI) will be connected with the FPSs of Malaysia, the Philippines, Singapore, and Thailand. The platform has the potential to be extended to additional countries in the future.
+What’s in today’s article?
+Bank for International Settlements (BIS)
+About:
+The Bank for International Settlements (BIS) is an international financial institution that serves as a bank for central banks, fostering international monetary and financial cooperation.
+Establishment:
+Founded in 1930, the BIS is the oldest global financial institution.
+Headquarters:
+Located in Basel, Switzerland
+Main Functions
+Central Bank Cooperation
+- Facilitates collaboration among central banks and provides a platform for policy discussions and decision-making.
+Financial Stability
+- Promotes monetary and financial stability through research, policy analysis, and the development of international standards.
+Banking Services
+- Provides banking services to central banks and other international organizations, including gold and foreign exchange transactions.
+Economic Research
+- Conducts research and analysis on global economic and financial issues, producing reports and publications.
+Importance
+Coordination
+- Acts as a forum for central banks to collaborate on monetary policy and financial regulation.
+Standard Setting
+- Plays a crucial role in setting international standards and guidelines to ensure the stability and resilience of the global financial system.
+Crisis Management
+- Provides a platform for coordinated responses to global financial crises and economic challenges.
+Few notable works
+Basel Accords
+Basel I (1988)
+- Introduced a set of minimum capital requirements for banks, aimed at reducing credit risk.
+Basel II (2004)
+- Expanded on Basel I by adding requirements for market risk and operational risk, emphasizing risk management.
+Basel III (2010-2017)
+- Strengthened bank capital requirements, introduced new regulatory requirements on bank liquidity and leverage, and aimed to enhance the resilience of the banking sector in the aftermath of the 2008 financial crisis.
+BIS Innovation Hub
+Established to foster collaboration on financial technology (FinTech) and innovation among central banks, focusing on developing digital currencies, cybersecurity, and new financial technologies.
+Financial Stability Board (FSB) Support
+Played a crucial role in the establishment and support of the FSB, which coordinates international efforts to enhance global financial stability and regulatory reforms in response to the 2008 financial crisis.
+Background
+RBI has been working bilaterally with various countries to link India’s Unified Payments Interface (UPI) with their Fast Payments Systems (FPSs) for cross-border Person to Person (P2P) and Person to Merchant (P2M) payments.
+While these bilateral connections are beneficial, a multilateral approach could significantly enhance the international reach of Indian payment systems.
+Currently, over 70 countries have instant payment systems that enable domestic payments to reach their destination in seconds at near-zero cost.
+By interconnecting these systems, cross-border payments can be completed within 60 seconds in most cases.
+Project Nexus is conceptualised by the Innovation Hub of the Bank for International Settlements (BIS).
+It seeks to enhance cross-border payments by connecting multiple domestic instant payment systems (IPS) globally.
+It is the first BIS Innovation Hub project in the payments area to move towards live implementation.
+Benefits
+Project Nexus aims to standardize the interconnection of Instant Payment Systems (IPS).
+Instead of each payment system operator creating custom connections for every new country, they can connect once to the Nexus platform.
+This single connection enables access to all other countries on the network, potentially accelerating the growth of instant cross-border payments.
+Countries that have joined the platform
+Project Nexus aims to connect the FPSs of four Association of Southeast Asian Nations (ASEAN) — Malaysia, Philippines, Singapore, and Thailand; and India.
+These countries would be the founding members and first mover countries of this platform.
+Indonesia will also join the platform in future.
+RBI has signed up for the Project Nexus.pdf
+( Size:  1.6 MB  )
+Click to View More
+Economics
+**********Lok Sabha Speaker vs Opposition over muting of mics
+Why in news?
+In the new Parliament Session, Leader of the Opposition Rahul Gandhi claimed for the second time that his microphone had been switched off during his address. Lok Sabha Speaker Om Birla, however, clarified that presiding officers do not have any means to turn off members' microphones and objected to accusations against the Chair.
+What’s in today’s article?
+Who controls the mic in Parliament?
+Previous row over muting mics
+Muting Mics and breach of privilege
+Microphone and Switch System in the House
+Each MP has an assigned seat in the House. All the members have a microphone and switch set at their specific desks with allocated numbers.
+According to the manual released by the Lok Sabha Secretariat in May 2014, the switch board has multiple switches in different colours.
+Activation of mic when an MP wants to speak
+If an MP wants to speak in the House, they can raise their hand to notify the presiding officer and press the grey button.
+The LED on microphones turns red when the mic is activated.
+The microphone is activated from the control room only
+when the member has been permitted by the Speaker to speak
+Control Room Operations
+As per various media reports, both the Lok Sabha and Rajya Sabha have a chamber for sound technicians, who are part of the staff that transcribes and records the proceedings of Parliament.
+The chamber has an electronic board with assigned seat numbers of the members.
+Mics are turned on and off from this room
+, which has a glass facade through which the staff can see the presiding officers and the MPs.
+Microphones are activated under the directions of the Chair of the Rajya Sabha/Lok Sabha.
+They are only turned on when a member is called by the Chair
+A member’s mic might be switched off if it is not their turn to speak.
+Speaking Rules and Time Limits
+In the Zero Hour, a three-minute time limit is given to a member, and when the three minutes are over, the
+microphone is automatically switched off
+In cases of debates on bills, time is allocated for each party. The Chair adheres to this time and,
+at its discretion, grants one or two minutes for a member to complete
+Only the Lok Sabha Speaker and Rajya Sabha Chairman can direct the switching on and off of mics in special circumstances
+In case of Special Mentions
+In the case of Special Mentions, MPs have a limit of reading out 250 words. The moment it is read by the member
+, the microphone is switched off by the staff in the chamber
+Special Mentions allow Members of Parliament (MPs) to raise matters of public importance or grievances in the House without prior notice.
+These mentions are used for issues that require the immediate attention of the government or the public.
+Last week, Rahul Gandhi claimed that his microphone was switched off as he tried to raise the issue of NEET irregularities.
+In July 2023, Congress chief and Leader of the Opposition in the Rajya Sabha, Mallikarjun Kharge, claimed that his microphone was switched off while he was speaking in the upper house.
+He described this incident as a breach of his privilege and an insult to his self-respect.
+Constitutional Provisions
+Article 105
+: Defines the powers, privileges, and immunities of Parliament, its members, and committees.
+Article 194
+: Defines similar powers, privileges, and immunities for State Legislatures, their members, and committees.
+It is considered a breach of privilege and contempt of the House to make speeches or publish libel that reflects on the character or proceedings of the House, its Committees, or any member related to their character or conduct as a legislator.
+Lack of codification
+The Constitution has accorded special privileges and powers to parliamentarians and legislators so as to maintain the dignity and authority of the Houses.
+However,
+these powers and privileges are not codified
+Thus, there are no clear, notified rules to decide what constitutes a breach of privilege, and the punishment it attracts.
+Lok Sabha Speaker vs Opposition over muting of mics.pdf
+( Size:  3.2 MB  )
+Click to View More
+Polity & Governance
+**********Agenda of the 16th Finance Commission
+Why in the News?
+The 16th Finance Commission (FC), under the chairmanship of Dr. Arvind Panagariya, focuses on devolution to local bodies, highlighting challenges in urban fiscal devolution in India.
+What’s in Today’s Article?
+Background (About FC, Composition, Functions, Role, etc.)
+News Summary
+Background:
+Article 270
+of the Constitution provides for the scheme of distribution of net tax proceeds collected by the Union government between the Centre and the States.
+The taxes that are shared between the Centre and the States include corporation tax, personal income tax, Central GST, the Centre’s share of the Integrated Goods and Services Tax (IGST) etc.
+This division is based on the recommendation of the
+(FC) that is constituted every five years as per the terms of
+Article 280
+Apart from the share of taxes, States are also provided grants-in-aid as per the recommendation of the FC.
+The divisible pool, however, does not include cess and surcharge that are levied by the Centre.
+About Finance Commission:
+The FC is constituted every five years and is a body that is exclusively constituted by the Union Government.
+It consists of a chairman and four other members who are appointed by the President.
+Finance Commission (Miscellaneous Provisions) Act, 1951
+, has specified the qualifications for chairman and other members of the commission.
+The Union government has notified the constitution of the
+Finance Commission under the chairmanship of Dr. Arvind Panagariya
+for making its recommendations for the period of
+2026-31
+Composition of the Finance Commission:
+Chairman
+: The Commission is headed by a Chairman who is selected from among individuals with experience in public affairs.
+Members
+: There are four other members who are appointed by the President of India. The qualifications for these members include:
+A person who is or has been a judge of a High Court or qualified to be appointed as one.
+A person with knowledge of finance and accounts of the government.
+A person with experience in financial matters and administration.
+A person with special knowledge of economics.
+Functions of the Finance Commission:
+Distribution of Net Proceeds
+: Recommend how the net proceeds of taxes should be distributed between the Centre and the states, and the allocation of the same among the states.
+Grants-in-Aid
+: Determine the principles governing the grants-in-aid to the states by the Centre from the Consolidated Fund of India.
+Improving Fiscal Management
+: Suggest measures needed to augment the Consolidated Fund of a state to supplement the resources of the Panchayats and Municipalities in the state.
+Any Other Matter
+: Address any other matter referred to it by the President in the interests of sound finance.
+Are Recommendations Made by the Commission Binding?
+The recommendations made by the Finance Commission are of an advisory nature only and therefore,
+not binding upon the government
+It is up to the Government to implement its recommendations on granting money to the states.
+Agenda of the 16th Finance Commission:
+The 16th Finance Commission (FC) has begun its work, primarily focusing on the devolution of the consolidated fund.
+Since the 73rd and 74th constitutional amendments, local bodies have gained significant recognition within the federal system.
+These amendments introduced sub-clauses 280(3)(bb) and (c), which mandate the FC to recommend measures to augment State consolidated funds for supporting panchayats and municipalities.
+About Urban Areas:
+Cities, contributing around 66% of India's GDP and 90% of government revenues, are crucial for national development.
+Despite their importance, financial support for urban areas remains insufficient.
+The World Bank estimates $840 billion is needed for urban infrastructure over the next decade.
+Intergovernmental transfers (IGTs) to Urban Local Bodies (ULBs) in India are only about 0.5% of GDP
+, significantly lower than in other developing countries.
+This inadequate financial devolution hampers city productivity and quality of life. IGTs, although vital, need to be more predictable and equitable to support ULBs effectively.
+Need for Increase in IGTs:
+introduction of the Goods and Service Tax (GST) has reduced ULBs’ tax revenue (excluding property tax) from about 23% in 2012-13 to around 9% in 2017-18
+IGTs from States to ULBs are very low, with State Finance Commissions recommending only about 7% of States’ own revenue in 2018-19. Increasing the quantum of IGTs as a percentage of GDP is necessary.
+Need for the Updated Census Data:
+Without the 2021 Census, relying on 2011 data for fiscal planning is inadequate.
+India has about 4,000 statutory towns, an equal number of Census towns, and around 23,000 villages that are essentially urban.
+The 16th Finance Commission must consider this and the migration to Tier-2 and 3 cities.
+The 15th FC’s principles need revisiting, particularly regarding property tax, GST alignment, pollution mitigation, primary healthcare, and essential services.
+The 16th FC should aim to double IGTs to urban areas.
+What is on the agenda for the 16th Finance Commission.pdf
+( Size:  230.0 KB  )
+Click to View More
+Polity & Governance
+**********What is Deep Brain Stimulation (DBS) Device
+Why in News?
+A UK-based teenager has become the first person in the world to be fitted with a brain implant - deep brain stimulation (DBS) device, to help bring his epileptic seizures under control.
+The DBS device sends electrical signals deep into the brain and has reportedly reduced his daytime seizures by 80%.
+What’s in Today’s Article?
+What is Epilepsy?
+What is Deep Brain Stimulation (DBS)?
+Other Alternatives to Treat Epilepsy
+How Popular is DBS?
+The word epilepsy simply means "
+seizure disorders
+."
+Seizures
+are sudden surges of abnormal and excessive electrical activity in one’s brain and can affect how one appears or acts.
+Epilepsy is a brain disorder
+that causes recurring, unprovoked seizures.
+A person experiences jerking of arms and legs, temporary confusion, staring spells or stiff muscles during seizures.
+It can increase the risk of accidents, drownings, and falling.
+The disease has no identifiable cause
+in nearly 50% of the cases.
+However, head trauma, tumours in the brain, some infections like meningitis, or even genetics can lead to epilepsy.
+According to a 2022 Lancet study, between 3 and 11.9 per 1,000 people suffer from epilepsy in
+India
+Although several anti-seizure medicines are available in the market,
+30% of the patients remain resistant to treatment.
+About:
+DBS is
+a neurosurgical procedure
+that uses implanted electrodes and electrical stimulation to treat movement disorders associated with Parkinson’s disease (PD), essential tremor, dystonia and other neurological conditions.
+Working:
+interrupts the irregular signals
+that cause tremors and other movement symptoms.
+Neurosurgeons implant one or more wires/ leads inside the brain.
+The leads are connected with an insulated wire extension to a very small neurostimulator (electrical generator) implanted under the person’s collarbone, similar to a heart pacemaker.
+Continuous pulses of electric current from the neurostimulator pass through the leads and into the brain.
+The doctor programs it to deliver an electrical signal and ensure that the current is properly adjusted to provide effective results.
+In adjusting the device, the doctor seeks an optimal balance between improving symptom control and limiting side effects.
+Other Alternatives to Treat Epilepsy:
+DBS is not the first line of treatment for epilepsy.
+Doctors first use anti-seizure medicines
+and a ketogenic diet, which is high in fats and low in carbohydrates.
+If that does not work,
+doctors can carry out brain surgery
+to remove a portion of the brain where the seizures originate.
+Another surgery called
+corpus callosotomy
+(doctors remove a part disallowing abnormal electrical signals to travel from one half of the brain to another) may be suggested in some children.
+Surgery is still preferable to implanting a DBS device
+This is because DBS devices available in the market reduce seizures by around 40%.
+In comparison, seizures drop by nearly 90% if the patient undergoes surgery.
+DBS/ neurostimulators cost about Rs 12 lakh
+and there are additional surgical costs that one has to pay in private hospitals, increasing the cost to about Rs 17 lakh.
+In comparison, a brain surgery costs between Rs 2 and 3 lakhs.
+Therefore,
+such devices should be suggested only for those
+who have epilepsy which originates from different parts of the brain (instead of one focal point), making operations less viable.
+newspaper.pdf
+( Size:  388.1 KB  )
+Click to View More
+Science & Tech
+**********What are hurricanes, their types?    
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Difference between a hurricane and a tropical storm
+Mains level:
+What are hurricanes and how do they form?
+Why in the news?
+Due to Hurricane Beryl sweeping through the Windward Islands, the Indian Men’s cricket team, victorious in the T20 World Cup, finds itself stranded in Barbados.
+What do we know about Hurricane Beryl?
+Early Category 4 Storm:
+Hurricane Beryl is the earliest category 4 storm of the Atlantic hurricane season, sustaining winds of at least 130 miles per hour (209 kilometres per hour).
+Location and Impact:
+It is currently affecting the Windward Islands in the southern part of the Lesser Antilles, including Barbados, Grenada, and Trinidad and Tobago.
+Forecast:
+The National Hurricane Centre has issued warnings for life-threatening winds and storm surges in the affected islands, with the potential for violent winds and flash flooding.
+Preparations:
+Local authorities in Barbados have suspended school classes and taken other precautions, such as shutting down the water supply, in anticipation of the hurricane’s impact.
+Historical Context:
+Hurricane Beryl is noted as the strongest storm to impact the Windward Islands since Hurricane Ivan in September 2004.
+Formation:
+Hurricanes form over warm ocean waters near the equator where warm, moist air rises from the ocean’s surface, creating low air pressure.
+Fuel:
+They are fueled by the heat and moisture evaporating from the ocean, forming clouds and spinning due to the Earth’s rotation.
+Eye Formation:
+As the storm system intensifies, an eye forms at its centre, with storms rotating counterclockwise north of the equator and clockwise south of it.
+Impact of Warming World:
+Warmer sea surface temperatures due to climate change may lead to slower decay of hurricanes upon landfall, potentially increasing their severity.
+Are hurricanes becoming more severe now?
+Research Findings:
+Studies suggest that warmer sea surface temperatures contribute to the slower decay of hurricanes, potentially prolonging their destructive impacts inland.
+Record-Breaking Seasons:
+The 2020 Atlantic Hurricane season has seen a record number of named storms, indicating a trend towards more frequent and intense hurricane activity.
+What is the difference between a hurricane and a tropical storm?
+No Fundamental Difference:
+Hurricanes, typhoons, and cyclones are all types of tropical cyclones, named differently based on their location:
+Hurricanes:
+Form over the Atlantic Ocean and the eastern Pacific Ocean.
+Typhoons:
+Form in the Northwest Pacific Ocean.
+Cyclones:
+Form in the Bay of Bengal and the Arabian Sea.
+Naming Conventions:
+The different names signify regional differences but refer to the same meteorological phenomenon of tropical cyclones.
+Way forward:
+Implementation of Advanced Forecasting Technologies:
+Invest in state-of-the-art meteorological tools and satellite technology to enhance the accuracy and lead time of hurricane forecasts.
+Community Preparedness Programs:
+Establish comprehensive community outreach programs to educate residents about hurricane risks, evacuation procedures, and emergency shelter locations.
+Mains PYQ:
+Discuss the meaning of colour-coded weather warnings for cyclone prone areas given by India Meteorological Department.
+(UPSC IAS/2014)
+**********What is on the agenda for the 16th Finance Commission?  
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Mains level:
+Role of Finance Commission
+Why in the news?
+The 16th Finance Commission, under Article 280, focuses on devolving funds. Amendments like 73rd and 74th mandate it to bolster state funds for panchayats and municipalities.
+About 16th Finance Commission
+The 16th Finance Commission of India was constituted on December 31, 2023, with Dr. Arvind Panagariya as its Chairman.
+The President of India appointed the Commission in pursuance of Article 280(1) of the Constitution
+How do other countries devolve funds to their local governments?
+International Comparison:
+Countries like South Africa, Mexico, the Philippines, and Brazil allocate significantly higher percentages of their GDP (1.6% to 5.1%) to urban local bodies compared to India’s 0.5%.
+Importance of Intergovernmental Transfers (IGTs):
+IGTs make up about 40% of Urban Local Bodies (ULBs) revenue in India but suffer from unpredictability, lack of earmarking for vulnerable groups, and horizontal equity.
+Financial Health of ULBs:
+Despite efforts by multiple Finance Commissions, financial devolution to cities in India remains inadequate, affecting city productivity and quality of life.
+Why is the Census significant?
+Data Dependence:
+The absence of the 2021 Census data makes it challenging to accurately assess urban growth and demographic changes crucial for evidence-based fiscal devolution.
+Urban Dynamics:
+India has approximately 4,000 statutory towns, an equal number of Census towns, and a large number of effectively urban villages, which need accurate enumeration for effective planning and resource allocation.
+Migration Impact:
+The Census data is essential to capture the significant migration to Tier-2 and Tier-3 cities, impacting their infrastructure and service needs.
+What about cities and the Taxation system?
+Impact of GST:
+The introduction of GST has reduced ULBs’ tax revenue (excluding property tax) significantly, impacting their financial autonomy.
+Low IGTs:
+Intergovernmental transfers from States to ULBs in India are minimal (around 0.5% of GDP), much lower than other developing nations, exacerbating fiscal challenges.
+Constitutional Provisions:
+Despite the 74th constitutional amendment aimed at empowering ULBs, progress has been limited over three decades, hampering urban development.
+Parallel Agencies:
+The growth of parallel agencies and schemes like MP/MLA Local Area Development Schemes distort the federal structure and weaken ULBs’ financial and operational autonomy.
+Way forward:
+Enhanced Intergovernmental Transfers (IGTs):
+Increase IGTs from States to Urban Local Bodies (ULBs) to at least 2% of GDP, ensuring predictability and earmarking for vulnerable groups.
+Reform in Urban Governance and Fiscal Autonomy:
+Strengthen constitutional provisions to empower ULBs further, reducing dependence on parallel agencies like MP/MLA Local Area Development Schemes.
+Mains PYQ:
+How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss.
+(UPSC IAS/2018)
+**********At the end of Pride Month, assessing the LGBTQIA+ communities’ rights   
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Varying rights and status of LGBTQIA+ communities across the world
+Why in the news?
+Every June, Pride Month is celebrated globally to honour the contributions of LGBTQIA+ community members and to promote love, diversity, and acceptance.
+Varying rights and status of LGBTQIA+ communities across the world:
+Legalization and Criminalization of Same-Sex Acts:
+The legal status of same-sex acts varies significantly while 37 countries have fully legalized same-sex marriage, 59 countries still penalize any expression of queerness, with severe punishments in some regions.
+Marriage Rights:
+Same-sex marriage is legal in 37 countries, banned in 79 countries, and in some places, same-sex couples can only opt for civil unions, leaving their status partially recognized.
+Employee Protections:
+Legal protections for queer employees are inconsistent. While 27 countries offer legal aid based on sexual orientation, 90 countries lack any legal protections for queer employees. India and three other countries provide legal aid based on gender identity, including transgender persons.
+Adoption Rights:
+Adoption rights for same-sex couples also vary. In 39 countries, same-sex parents can adopt children, while 45 countries ban this practice. In 100 countries, single parents can adopt under certain conditions, similar to India’s laws.
+Social and Legal Challenges:
+Despite legal advancements in some areas, LGBTQIA+ individuals globally continue to face significant social and legal challenges, including discrimination, harassment, and exclusion, with varying levels of legal aid and recognition depending on the country.
+Indian Scenario
+Decriminalization of Homosexuality:
+In 2018, the Supreme Court of India partially struck down Section 377 of the Indian Penal Code, decriminalizing homosexuality. Same-sex couples have the right to cohabitation but not to legal marriage or unions.
+Discrimination and Harassment:
+Queer individuals in India still face significant discrimination, harassment, and exclusion.
+Legal Protections for Transgender and Intersex Individuals:
+The Transgender Persons (Protection of Rights) Act, 2019, prohibits unfair treatment in employment, education, healthcare, public facilities, and residence. Legal recourse is available for discrimination based on gender identity but not sexual orientation.
+Same-sex couples cannot be recognized as co-parents to an adopted child. Single prospective adoptive parents, regardless of marital status, are allowed to adopt under the Juvenile Justice (Care and Protection of Children) Act, 2015.
+Way forward:
+Expand Legal Recognition:
+Countries should work towards fully recognizing same-sex marriages and providing comprehensive legal protections against discrimination based on sexual orientation and gender identity.
+Education and Awareness:
+Implement nationwide educational programs to raise awareness about LGBTQIA+ issues, combat stereotypes, and promote understanding and acceptance. This can involve incorporating LGBTQIA+ history and rights into school curriculums and conducting public awareness campaigns.
+Economic Opportunities:
+Ensure equal opportunities in the workplace by promoting diversity and inclusion policies, providing sensitivity training for employers, and supporting LGBTQIA+ entrepreneurs. Governments and organizations can offer grants, mentorship programs, and other resources to empower LGBTQIA+ individuals economically.
+Mains PYQ:
+‘Women’s movement in India has not addressed the issues of women of lower social strata.’ Substantiate your view.
+(UPSC 2018)
+**********What is Project Nexus that RBI has signed up for?
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Project Nexus; Fast Payments Systems (FPSs);
+Mains level:
+Significance of Fast Payments Systems (FPSs) via Project Nexus
+Why in the news?
+The Reserve Bank of India (RBI) has become a part of Project Nexus, a global initiative aimed at facilitating instant cross-border retail payments by connecting domestic Fast Payments Systems (FPSs).
+What is Project Nexus?
+Project Nexus is conceptualized by the Innovation Hub of the Bank for International Settlements (BIS).
+It is the first BIS Innovation Hub project in the payments area moving towards live implementation.
+Aim:
+To enhance cross-border payments by connecting multiple domestic instant payment systems (IPS) globally.
+has joined Project Nexus, aiming to interlink India’s Unified Payments Interface (UPI) with the Fast Payments Systems (FPSs) of Malaysia, the Philippines, Singapore, and Thailand.
+The platform is designed to be extended to more countries in the future.
+About Fast Payments Systems (FPSs):
+Fast payment systems (FPSs) are real-time payment systems that enable the immediate transfer of funds between accounts. Some key points about FPSs:
+FPSs allow for the fast, secure, and low-cost processing of retail transactions, ensuring funds are immediately available to the recipient.
+FPSs are becoming increasingly popular globally, with over 100 jurisdictions now having access to fast payment systems. They foster competition among payment service providers and serve as a gateway to additional financial services.
+The design of FPSs is important, as they have public good characteristics. Factors that contribute to greater adoption of FPSs include central bank involvement, inclusion of non-bank providers, more use cases, and more cross-border connections.
+Examples of FPSs include the Faster Payments Service (FPS) in the UK, which was instituted in 2008 to reduce payment times between accounts. The Faster Payment System in Hong Kong, launched in 2018, also provides instant, low-cost interbank transfers.
+What are the benefits of the platform?
+Standardization:
+Project Nexus standardizes the way IPS connect to each other, simplifying the process.
+Single Connection:
+Payment system operators can connect to the Nexus platform once, allowing them to reach all other countries on the network without building custom connections for each.
+Instant Payments
+: Enables cross-border payments from sender to recipient within 60 seconds in most cases.
+Cost Efficiency:
+Provides near-zero cost for sending and receiving payments.
+Growth Acceleration:
+Significantly accelerates the growth of instant cross-border payments by leveraging existing instant payment systems.
+Which countries have joined the platform?
+Founding Members:
+The FPSs of Malaysia, the Philippines, Singapore, Thailand, and India are the founding members and first-mover countries.
+An agreement was signed by the BIS and the central banks of the founding countries are Bank Negara Malaysia (BNM), Bank of Thailand (BOT), Bangko Sentral ng Pilipinas (BSP), Monetary Authority of Singapore (MAS), and Reserve Bank of India on June 30, 2024, in Basel, Switzerland.
+Indonesia will also join the platform in the future.
+Way forward:
+Expand Membership:
+Actively encourage more countries to join Project Nexus, thereby increasing the global reach and impact of the platform.
+Enhance Technological Infrastructure:
+Invest in robust and scalable technological infrastructure to support seamless integration and interoperability among different FPSs.
+Mains PYQ:
+What is Cryptocurrency? How does it affect global society? Has it been affecting Indian society also?
+(UPSC IAS/2021)
+**********Worlds Oldest Prehistoric Ostrich Nest discovered in Andhra 
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Megafauna, Archaeological evidence of Ostrichs in India
+PC: India Today
+Why in the News?
+Archaeologists have discovered a
+41,000-year-old ostrich nest in Prakasam
+Andhra Pradesh
+.
+Prehistoric Ostrich Nest: Details of the Discovery
+The nest, identified as the
+world’s oldest known
+ostrich nest, measures 9-10 feet in width.
+The nest was
+once home to 9-11 eggs
+but was capable of holding 30-40 eggs at a time.
+Ostriches are
+mega omnivores
+, weighing between
+90 and 140 kg
+and standing
+seven to nine feet tall
+What are Megafauna?
+Megafauna generally refers to
+animals weighing more than 50 kg
+, though scientific definitions vary.
+The term was
+first used
+by
+Alfred Russel Wallace
+in his
+1876
+book,
+“The Geographical Distribution of Animals.”
+Megafauna can be classified into:
+Megaherbivores
+(plant-eaters),
+Megacarnivores
+(meat-eaters), and
+Megaomnivores
+(who eat both plants and meat).
+Historical Evidence of Megafauna
+Early Documentation
+: Richard Lydekker in 1884 presented the earliest documented evidence of ostriches in the subcontinent, identifying the extinct Struthio asiaticus in the
+Dhok Pathan deposits in Upper Siwalik Hills
+, present-day Pakistan.
+Discoveries in Maharashtra
+: Archaeologist S A Sali in 1989 reported ostrich eggshell beads and engraved pieces dating back to 50,000–40,000 years ago at Patne, Maharashtra.
+CCMB Research in 2017
+: Researchers at the Centre for Cellular and Molecular Biology (CCMB) in Hyderabad established the presence of ostriches in Rajasthan, Madhya Pradesh, and Gujarat 25,000 years ago.
+Broader Implications and Studies
+Biogeographical Dispersion
+: The presence of ostriches in India is attributed to bio-geographical dispersion from the continental drifting of Gondwanaland.
+Late Quaternary Extinctions
+: The study, titled ‘Late Quaternary extinctions in the Indian Subcontinent,’ established that the disappearance of large animals began around 30,000 years ago, coinciding with the arrival of humans.
+Co-Evolution Hypothesis
+: The study supports the hypothesis that fauna and their resilience to extinction resulted from coevolution with hominins, with geographic isolation and abiotic factors accelerating extinction.
+PYQ:
+[2018]
+The term “sixth mass extinction/sixth extinction” is often mentioned in the news in the context of the discussion of:
+(a) Widespread monoculture practices in agriculture and large-scale commercial farming with indiscriminate use of chemicals in many parts of the world that may result in the loss of good native ecosystems.
+(b) Fears of a possible collision of a meteorite with the Earth in the near future in the manner it happened 65 million years ago that caused the mass extinction of many species including those of dinosaurs.
+(c) Large-scale cultivation of genetically modified crops in many parts of the world and promoting their cultivation in other parts of the world which may cause the disappearance of good native crop plants and the loss of food biodiversity.
+(d) Mankind’s over-exploitation/misuse of natural resources, fragmentation/loss of natural habitats, destruction of ecosystems, pollution and global climate change.
+**********India seeks Tariff Elimination on key items in CEPA Talks with South Korea
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Comprehensive Economic Partnership Agreement (CEPA)
+Mains level:
+India's trade deficit
+Why in the News?
+India wants, South Korea to eliminate tariffs on items such as varieties of meat, milk, fruits, fish, stones, yarn, and petroleum products.
+These items were previously exempted or protected against steep cuts in the India-Korea Comprehensive Economic Partnership Agreement (CEPA).
+What is CEPA?
+Details
+Definition
+A CEPA is a broad trade agreement that encompasses trade in goods and services, investments, intellectual property rights, and economic cooperation.
+Key Components
+Trade in Goods
+: Reduction/elimination of tariffs and non-tariff barriers.
+Trade in Services
+: Liberalization of service sectors.
+Investment
+: Protection and promotion of investments.
+Intellectual Property Rights (IPR)
+: Strengthening protection of IPR.
+Economic Cooperation
+: Collaboration on economic and technical aspects.
+Dispute Resolution
+: Mechanisms for resolving disputes.
+Objectives
+Enhance bilateral trade.
+Promote investment.
+Foster economic integration.
+Encourage innovation and economic growth.
+Examples
+India-Japan CEPA
+: Signed in 2011, focuses on tariff reduction, service trade liberalization, and investment promotion.
+India-Mauritius CECPA
+: Effective from April 2021, includes provisions on trade in goods, services, and investment.
+India-UAE CEPA:
+Entered into force on May 1, 2022
+Significance for India
+Economic Growth
+: Provides new markets for Indian goods and services.
+Job Creation
+: Increased trade and investment can create jobs.
+Technological Advancements
+: Access to new technologies and best practices.
+Strategic Partnerships
+: Strengthens economic and strategic ties.
+Challenges
+Implementation Issues
+: Requires robust legal and institutional frameworks.
+Domestic Industry Impact
+: Concerns about increased competition.
+Regulatory Harmonization
+: Differences in regulatory standards can pose challenges.
+India-South Korea CEPA: A quick recap
+The India-South Korea CEPA was
+signed in August 2009
+and implemented in January 2010.
+It covers trade in goods, investments, services, and bilateral cooperation.
+Tariff Concessions
+India offered tariff elimination or concessions on 83.8% of tariff lines from South Korea.
+While South Korea offered concessions on 93.2% of tariff lines.
+Upcoming Negotiations
+Trade Deficit Focus
+: Narrowing the trade deficit with South Korea is high on India’s agenda.
+Stakeholder Involvement
+: Indian industry stakeholders have been provided with a draft request list and asked to suggest more items for tariff cuts or propose deletions if needed.
+Standards and Technical Barriers
+: The Department of Commerce has requested the industry to share issues related to SPS (Sanitary and Phytosanitary) and TBT (Technical Barriers to Trade) standards faced while exporting to South Korea.
+Back2Basics:
+Sanitary and Phytosanitary (SPS) Measures:
+SPS measures are protocols implemented by countries
+to protect human, animal, and plant life from diseases, pests, and contaminants.
+These measures are primarily focused on
+ensuring the safety of food products
+and preventing the spread of diseases and pests across borders.
+SPS measures must be
+based on
+scientific evidence and risk assessments
+to ensure they are appropriate and effective.
+Examples:
+quarantine requirements for imported plants and animals, limits on pesticide residues in food, and import bans from regions affected by specific diseases.
+Technical Barriers to Trade (TBT):
+TBT are regulations and standards
+related to product safety, quality, and environmental impact
+They aim
+to protect human health and safety, animal and plant life
+the environment
+, and to prevent deceptive practices.
+should not create unnecessary obstacles
+to international trade and must be transparent and non-discriminatory.
+Labeling requirements for food products, safety standards for electrical appliances, and environmental regulations for vehicle emissions.
+Major Issue: Trade Deficit Concerns
+: Reducing the trade deficit with South Korea is a key discussion point for India.
+Before CEPA (2007-09), India’s average exports to South Korea were $3.4 billion, with imports at $7.3 billion, leading to an average trade deficit of $4 billion.
+Trade Statistics
+: In 2023-24, India’s imports from South Korea were $21.13 billion, while exports were only $6.41 billion.
+Post-CEPA Data
+: After CEPA (2022-24), average exports increased to $7.1 billion, and imports surged to $19.9 billion, resulting in an average trade deficit of $12.8 billion.
+GTRI Analysis
+: The Global Trade and Research Initiative (GTRI) report indicates a 220% increase in the trade deficit from the pre-CEPA period to the post-CEPA period.
+PYQ:
+[2015]
+The terms ‘Agreement on Agriculture’, ‘Agreement on the Application of Sanitary and Phytosanitary Measures’ and Peace Clause’ appear in the news frequently in the context of the affairs of the:
+(a) Food and Agriculture Organization
+(b) United Nations Framework Conference on Climate Change
+(c) World Trade Organization
+(d) United Nations Environment Programme
+**********[pib] Fauna of India Checklist Portal
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Fauna of India Checklist Portal, ZSI
+Why in the News?
+The
+Union Minister of Environment, Forest, and Climate Change (MoEFCC)
+has launched a
+portal documenting all animal species in India.
+The Portal was launched on the 109th Foundation Day of the Zoological Survey of India (ZSI) in Kolkata.
+Back2Basics: Zoological Survey of India
+The ZSI was set up by
+British zoologist
+Thomas Nelson Annandale, in
+1916
+It is the premier taxonomic research organisation in India based in
+It was established to promote surveys, exploration and research leading to the advancement of our knowledge of various aspects of the exceptionally rich animal life of India.
+The ZSI had its genesis as the
+Zoological Section
+Indian Museum at Calcutta
+1875
+Since its inception, the ZSI has been documenting the
+diversity and distribution of the fauna of India
+towards carrying out its mandate of conducting exploration-cum-taxonomic-research programmes.
+The ZSI has published an extremely large amount of information on all animal taxa, from Protozoa to Mammalia.
+About the Fauna of India Checklist Portal
+The portal consists of records of more than
+100,000 animal species
+, prepared by over 150 scientists of the Zoological Survey of India (ZSI) over two years.
+This checklist is the
+first comprehensive document
+on faunal species in India, covering 121 checklists of all known taxa across
+36 phyla
+, including endemic, threatened, and scheduled species.
+It is a compilation of
+all animal species recorded in India since the 1750s
+It provides
+essential data for conservation and management
+efforts, forming the basis for all biological sciences.
+Significance of Portal:
+With this,
+India has become the first country
+to prepare a checklist of its entire fauna, covering 104,561 species, positioning itself as a global leader in biodiversity conservation.
+The comprehensive documentation of India’s fauna aligns with
+Mission LiFE
+by providing crucial data for biodiversity conservation.
+Details from the ZSI Report
+A 2023 ZSI report highlights that
+India is one of the world’s 17 megadiverse nations
+, hosting around 7-8% of the world’s documented species and containing four of the
+34 globally recognised biodiversity hotspots.
+The report lists 641 discoveries made by scientists and experts from India during 2023 with Kerala topping the list, followed by West Bengal.
+It includes 442 new species globally and 199 newly recorded species in India.
+Significant Discoveries in 2023
+New Species
+: The 2023 findings include 112 hymenopterans, 86 arachnids, 47 new fishes, 20 reptiles, and two mammals.
+New Mammals
+: An ibex species found in Himachal Pradesh and Ladakh, named Capra himalayensis, and a new bat species, Miniopterus srinii, was discovered in Kodagu district, Karnataka.
+State Rankings
+: Kerala recorded the highest number of new discoveries with 101, followed by West Bengal with 72, Tamil Nadu with 62, and Arunachal Pradesh and Karnataka with 45 each.
+About Mission LiFE
+Mission LiFE, or
+Lifestyle for Environment
+, is a global mass movement initiated by India to encourage individual and community action towards environmental protection and preservation.
+It was inaugurated by the
+PM Modi
+at the 26th
+UN Climate Change Conference of the Parties (COP26) in Glasgow in November 2021
+The program aims
+to mobilise one billion Indians
+and individuals worldwide to adopt sustainable lifestyles.
+It aligns with the P3 model, promoting Pro Planet People and fostering a sense of collective responsibility.
+It operates based on the principles of ‘Lifestyle of the planet, for the planet, and by the planet’.
+PYQ:
+[2020]
+With reference to India’s Biodiversity, Ceylon frogmouth, Coppersmith barbet, Gray-chinned minivet and White-throated redstart are:
+(a) Birds
+(b) Primates
+(c) Reptiles
+(d) Amphibians
+**********Kozhikode awarded ‘City of Literature’ at UNESCO Creative Cities Network Conference
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+UCCN, Indian cities recognized by UCCN
+Why in the News?
+“Kozhikode”
+was awarded the title of ‘
+at the 16th annual conference of the UNESCO Creative Cities Network (UCCN) in Braga, Portugal.
+The theme of this year’s UCCN conference is
+‘Bringing youth to the table for the next decade’.
+About UNESCO Creative Cities Network
+Purpose
+To promote cooperation among cities for cultural and creative industry development
+Initiation
+Established by UNESCO in 2004
+Seven Categories/Criteria
+Sector-Specific Excellence
+: Prominence in one of the seven creative fields: Craft and Folk Art, Media Arts, Film, Design, Gastronomy, Literature, or Music.
+Commitment to Creativity
+: Long-term dedication to creativity and culture as key drivers for urban development.
+Supportive Infrastructure
+: Established cultural institutions, educational programs, and events promoting creativity.
+Alignment with SDG 11
+: Initiatives supporting the 2030 Agenda for Sustainable Development.
+Inclusivity
+: Ensuring creative activities are inclusive and accessible to all societal segments.
+Member Cities
+Over 250 cities from around the world
+Objectives
+Foster innovation, cultural diversity, and sustainable urban development
+Activities
+Collaborative projects, cultural events, and initiatives
+Selection Process
+Cities apply and are designated by UNESCO based on criteria related to creativity
+Network Coordination
+UNESCO provides coordination and support
+Impact
+Enhances cities’ cultural identity, economy, and international visibility
+Other Indian Cities in UCCN
+Gwalior
+– Music Category (2023)
+Srinagar
+– Crafts and Folk Arts (2022)
+Jaipur
+– Crafts and Folk Arts (2015)
+Varanasi
+– Creative City of Music (2015)
+Chennai
+– Creative City of Music (2017)
+Mumbai
+– Film (2019)
+Hyderabad
+– Gastronomy/Food (2019)
+Reasons for Kozhikode’s Selection
+Rich Literary Tradition
+: Kozhikode has a deep and rich literary heritage that spans centuries, contributing significantly to the cultural and intellectual life of the region.
+Prominent Literary Figures
+: The city has been home to many renowned authors, poets, and scholars who have significantly contributed to Malayalam literature.
+Cultural Festivals and Events
+: Kozhikode hosts various literary festivals, book fairs, and cultural events that promote literature and reading among the community.
+Educational Institutions
+: The presence of several prestigious educational institutions that emphasise literature and the arts played a crucial role in its selection.
+Community Engagement
+: Active involvement of local communities in promoting and preserving literary culture through libraries, reading clubs, and literary societies.
+Literary Infrastructure
+: Well-established libraries, publishing houses, and bookshops that support and nurture the scholarly ecosystem.
+Historic Contributions of Kozhikode
+Malayalam Literature
+: Kozhikode has been a centre for Malayalam literature and scholarly activities. It has produced notable literary figures and is a hub for literary festivals and cultural events.
+Astronomy and Mathematics
+: The region, under the patronage of the Zamorins, was a centre for advancements in astronomy and mathematics, contributing significantly to the fields through scholars like the 14th-century mathematician and astronomer Madhava of Sangamagrama.
+**********

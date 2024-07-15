@@ -1,0 +1,379 @@
+RESPONSIBLE QUANTUM TECHNOLOGIES’ MOVEMENT
+Syllabus
+Prelims & Mains – CURRENT EVENT
+Context:
+The UN recently said 2025 will be observed as the International Year of Quantum Science and Technology (IYQ).
+Background:-
+Given the possibility of dual use, like many other emerging technologies, researchers are calling for responsible development and use of quantum technologies.
+What is responsible quantum S&T?
+Quantum S&T are part of the ‘S&T plans’ of many governments and the subject of significant private sector investment.
+Among investments by countries, China leads with $10 billion in 2022, followed by the European Union and the U.S. India’s contribution is currently $730 million (Rs 6,100 crore).
+The value of quantum S&T is in transforming our abilities to transmit and make use of information across sectors. But they also carry the risk of misuse thanks to the technologies’ potential for dual use, like weakening digital security.
+Researchers and some governments have thus been calling for practising responsible quantum technologies to harness the value of quantum S&T while engendering public trust.
+For example, the U.K.’s ‘National Quantum Strategy’ states, “We will ensure that regulatory frameworks drive responsible innovation and the delivery of benefits for the UK, as well as protecting and growing the economy and the UK’s quantum capabilities.”
+What is quantum governance?
+The World Economic Forum (WEF) was one of the first organisations to discuss quantum computing governance. Its ‘Quantum Governance’ framework for this is based on the principles of transparency, inclusiveness, accessibility, non-maleficence, equitability, accountability, and the common good.
+Members of the framework include those from national government agencies, academic institutions, and private sector leaders (including in India).
+The WEF’s objective here is to accelerate the development of responsible quantum computing by building trust in the technology during its development to preempt and mitigate potential risks.
+The framework’s virtue is that it addresses responsible development up front rather than as an afterthought.
+A white paper published by the University of Oxford cautioned against inflated expectations and overestimating our understanding of ethical issues. In particular, it called out the gaps between countries in terms of quantum S&T capacities and reasoned that lack of access to talent and technologies could widen the gaps further.
+From another perspective, a group of academics from the U.S., Canada and Europe recently proposed another framework for responsible quantum technologies. Here, the group has suggested 10 principles to guide the applications of quantum S&T aim together with their RRI values.
+‘RRI’ stands for ‘responsible research and information’, a concept and practice endorsed by the European Commission. Many institutions worldwide, including funding agencies, have adopted it; it emphasises ‘anticipation’, ‘reflection’, ‘diversity’, and ‘inclusion’ while foregrounding public engagement and ethical considerations.
+These frameworks and initiatives have emerged largely from among researchers and are united in their focus on and intention to maintain openness. National policies on the other hand have preferred frameworks that confer greater and stronger protections of intellectual property rights vis-à-vis quantum technologies.
+Similarly, it may be naïve to expect the private sector — with its large investments and desire for patents and profits — will favour sharing and openness in the name of responsible quantum technologies. There may be exceptional circumstances but they won’t be the norm.
+What we need is responsible national or international efforts driven by governments but with active support and collaboration from private sector.
+Source:
+Hindu
+**********
+TAXING THE ULTRA RICH
+Mains – GS 2 & GS 3
+French economist Gabriel Zucman has in a recent report commissioned by Brazil’s G-20 presidency recommended an annual 2% tax on individuals holding wealth exceeding $1 billion, a suggestion intended to serve as the starting point for a global discussion on ensuring under-taxed billionaires are made to contribute more to reduce inequality worldwide.
+Finance Ministers of the G-20 group are set to meet in Rio de Janeiro on July 25-26, and the proposal is expected to be discussed at the meeting.
+What exactly is the proposal?
+Zucman, an economist who has extensively researched the accumulation, distribution and taxation of global income and wealth, has proposed the adoption of an internationally coordinated minimum tax standard for ensuring effective taxation of ultra-high-net-worth individuals.
+At the minimum, he recommends that individuals possessing more than $1 billion in total wealth (assets, equity shares in both listed and unlisted companies, other ownership structures that enable participating in companies’ ownership, etc.) would be required to pay a minimum amount of tax annually that would be equal to 2% of their wealth.
+Such a minimum tax on billionaires could potentially raise $200-$250 billion a year globally from about 3,000 individuals, and were it to be extended to cover those with a net worth exceeding $100 million, would add $100-$140 billion annually in global tax revenue.
+What is the rationale for such a tax?
+As per a key finding of theGlobal Tax Evasion Report 2024, prepared by the EU Tax Observatory, global billionaires benefit from very low effective tax rates, which range between 0% and 0.5% of their wealth.
+When expressed as a fraction of income and considering all taxes paid at all levels of government (including corporate taxes, consumption taxes, payroll taxes, etc.), the effective tax rates of billionaires appear significantly lower than those of all other groups of the population.
+Zucman in his report posits that the wealth of the top 0.0001% households, expressed as a fraction of world GDP, has surged more than fourfold since the mid-1980s.
+In 1987, the top 0.0001% owned the equivalent of 3% of world GDP in wealth. This wealth gradually rose to 8% of world GDP on the eve of the global financial crisis of 2008-2009. It briefly fell during the crisis, and then rose fast to exceed 13% of world GDP in 2024.The average annual growth rate of this population group’s wealth is 7.1% net of inflation.
+In contrast, over the same almost four-decade period, the average income of an adult grew annually by 1.3% net of inflation, and average wealth increased by 3.2% a year.
+As long as ultra-high-net-worth individuals keep having higher net-of-tax returns than the rest of the population, their share of global wealth will keep rising — an unsustainable path.
+Emphasising that “progressive taxation is a key pillar of democratic societies” that helps strengthen social cohesion and trust in governments to work for the common good, the French economist stresses that it is needed to help fund public goods and services. Better tax revenues are also crucial to meet the investments required to address the climate crisis.
+Why moot such a tax now?
+Research shows that contemporary tax systems worldwide are not effectively taxing the wealthiest individuals. As a result ultra-high-net-worth individuals tend to pay less in tax relative to their income than other social groups, regardless of the specific tax design choices and enforcement practices of countries.
+Income taxes, which in principle constitute the main instrument of progressive taxation, fail to effectively tax ultra-high-net-worth individuals. This in turn deprives governments of substantial tax revenues and contributes to concentrating the gains of globalisation into relatively few hands, undermining the social sustainability of economic globalisation.
+Also, the global social and political environment, and in some ways the regulatory climate too, are more conducive now to successfully implement such a proposal. Mr. Zucman cites the progress made in curtailing bank secrecy over the last 15 years through increased information exchange between countries, which has led to a decline in offshore tax evasion.
+The other major enabling factor is the ‘historic decision’ in 2021, when more than 130 countries and territoriesagreed to a common minimum corporate tax of 15% for large multinational companies (MNCs). The willingness on the part of countries worldwide to tax MNCs in a manner so as to prevent them from seeking to operate out of low or zero tax jurisdictions is, a template that can be built upon now for taxing billionaires.
+**********
+Digital Bharat Nidhi (DBN)
+Prelims – CURRENT EVENT
+The Department of Telecommunications (DoT) on July 4 released draft rules to operationalise the Digital Bharat Nidhi, in a fresh attempt by the central government at increasing telecom connectivity in rural areas.
+With the Centre notifying parts of the Telecom Act last month, it has also proposed additional rules for the final makeover of the Universal Service Obligation Fund (USOF) as the Digital Bharat Nidhi (DBN) – which would have a relatively wider scope than the USOF.
+About Digital Bharat Nidhi
+Digital Bharat Nidhi would replace the erstwhile Universal Service Obligation Fund (USOF), which is a pool of funds generated by a 5 per cent Universal Service Levy charged upon all the telecom fund operators on their Adjusted Gross Revenue (AGR). Since its establishment in 2003, a common criticism of the USOF has been its relative underutilisation.
+The idea is that this money would be used to fund the expansion of telecom networks in remote and rural areas, where private companies may otherwise resist offering their services due to them not being revenue-generating markets.
+How the Digital Bharat Nidhi will work
+As per the Telecom Act, contributions made by telecom companies towards the Digital Bharat Nidhi will first be credited to the Consolidated Fund of India (CFI). The Centre will deposit the collected funds to the DBN from time to time.
+Funds collected under the DBN will be used to support universal service through promoting access to and delivery of telecommunication services in underserved rural, remote and urban areas; fund research and development of telecommunication services, technologies, and products; support pilot projects, consultancy assistance and advisory support for improving connectivity; and for the introduction of telecommunication services, technologies, and products.
+For Your Information:
+On June 26, multiple sections of the Telecommunications Act, 2023 came into effect, giving way to the first piece of the larger technology legislative puzzle to fall into place. This is among the three key laws the Centre wants to put together as a comprehensive legal framework for the country’s burgeoning tech sector.
+Indian Express
+**********
+WHY RISING ARCTIC WILDFIRES ARE A BAD NEWS FOR THE WORLD
+Prelims & Mains – ENVIRONMENT
+Smoke from raging wildfires has once again darkened the skies over the Arctic. It is the third time in the past five years that high intensity fires have erupted in the region, Europe’s Copernicus Climate Change Service (C3S) said.
+A majority of fires are in Sakha, Russia, where more than 160 wildfires charred nearly 460,000 hectares of land up until June 24, according to Russia state news agency Tass.
+Key Takeaways
+Wildfires have been a natural part of the Arctic’s boreal forest or snow forest and tundra (treeless regions) ecosystems. However, in recent years, their frequency and scale in the regions have increased, primarily due to global warming. More worryingly, these blazing wildfires are fueling the climate crisis.
+Why have Arctic wildfires become worse?
+The Arctic has been warming roughly four times as fast as the world. While the global average temperature has increased by at least 1.1 degree Celsius above the pre-industrial levels, the Arctic has become on average around 3 degree warmer than it was in 1980.
+This fast paced warming has led to more frequent lightning in the Arctic, which has further increased the likelihood of wildfires — lightning-sparked fires have more than doubled in Alaska and the Northwest Territories since 1975.
+Soaring temperatures have also slowed down the polar jet stream — responsible for circulating air between the mid- and northern latitudes — due to less of a temperature difference between the Arctic and lower latitudes. As a result, the polar jet stream often gets “stuck” in one place, bringing unseasonably warm weather to the region. It also blocks out low-pressure systems, which bring clouds and rainfall, possibly leading to intense heatwaves, which can cause more wildfires.
+All three factors — rising temperatures, more frequent lightning and heatwaves — will most likely worsen in the coming years, thereby causing more wildfires in the Arctic.
+How Arctic wildfires can exacerbate global warming?
+When wildfires ignite, they burn vegetation and organic matter, releasing the heat trapping greenhouse gases (GHGs) such as carbon dioxide (CO2) into the atmosphere. That is why the rising frequency of wildfires around the globe is a matter of concern as they contribute to climate change.
+However, in the case of Arctic wildfires, such GHG emissions are not the biggest worry. It is rather the carbon stored underneath the region’s permafrost — any ground that stays frozen for at least two years straight.
+Scientists estimate that Arctic permafrost holds around 1,700 billion metric tons of carbon, including methane and CO2. That’s roughly 51 times the amount of carbon the world released as fossil fuel emissions in 2019.
+Wildfires make permafrost more vulnerable to thawing as they destroy upper insulating layers of vegetation and soil. This can cause ancient organic materials such as dead animals and plants to decompose and release carbon into the atmosphere. In case a large-scale thawing of Arctic permafrost is triggered, it would be impossible to stop the release of carbon.
+This would mean that the world will not be able to limit global warming within the 1.5 degree Celsius threshold. Breaching the limit will result in catastrophic and irreversible consequences for the planet.
+What happens in the Arctic doesn’t stay there — Arctic change amplifies risks globally for all of us. These fires are a warning cry for urgent action.
+**********
+AXIOM-4
+: The Indian Space Research Organisation (ISRO) has selected two out of its four trained Gaganyaan astronauts to participate in the Axiom-4 mission.
+Only one of the shortlisted astronauts will go on the mission which is supposed to take place “no earlier than October 2024,” according to the information available on NASA website.
+About AXIOM-4 :
+The Axiom-4 mission is a private spaceflight to the International Space Station (ISS) conducted by Axiom Space in collaboration with NASA.
+It will be the fourth private astronaut mission to the ISS.
+The mission will last for fourteen days.
+Spacecraft:
+The spacecraft used for the Axiom-4 mission is a SpaceX Crew Dragon.
+Indian Involvement:
+The Indian Space Research Organisation (ISRO) has shortlisted two of its four trained Gaganyaan astronauts to participate in the mission.
+These Indian astronauts will receive training from NASA, international partners, and SpaceX.
+Objectives:
+The mission aims to facilitate commercial activities in space, including scientific research, technological development, and space tourism.
+It will demonstrate the viability of commercial space stations as platforms for business and innovation.
+Diverse Crew:
+The Axiom-4 mission will carry a diverse crew of astronauts from different countries.
+Scientific Experiments:
+During the mission, various scientific experiments and technological tests will be conducted in the unique microgravity environment of space.
+Gaganyaan Mission
+The Gaganyaan Mission is India’s ongoing project to send a 3-day manned mission to the Low Earth Orbit (LEO) of 400 km with a crew of 3 members and bring them safely back to Earth.
+The objective of the program is to demonstrate India’s human spaceflight capabilities.
+As part of this program, two unmanned missions and one manned mission are approved by the Government of India.
+Upon its completion, India will become the fourth nation, after the US, Russia, and China, to undertake a manned spaceflight mission.
+**********
+KAZIRANGA NATIONAL PARK (KNP)
+Prelims – ENVIRONMENT
+: The recent floods in Assam’s Kaziranga National Park have been tragic for the wildlife.
+The park is experiencing its worst-ever deluge in recent years, surpassing the large-scale devastation seen in 2017 when over 350 animals died due to floods and vehicle hits while migrating through animal corridors to the highlands.
+<img alt="" class="alignnone wp-image-194961 size-full" decoding="async" fetchpriority="high" height="576" sizes="(max-width: 829px) 100vw, 829px" src="https://iasbaba.com/wp-content/uploads/2024/07/grr.jpg" srcset="https://iasbaba.com/wp-content/uploads/2024/07/grr.jpg 829w, https://iasbaba.com/wp-content/uploads/2024/07/grr-300x208.jpg 300w, https://iasbaba.com/wp-content/uploads/2024/07/grr-768x534.jpg 768w" width="829"/>
+About  Kaziranga National Park :
+Kaziranga National Park is located in the Golaghat, Karbi Anglong, and Nagaon districts of the state of Assam, India.
+It sits on the southern banks of the Brahmaputra River.
+This park hosts two-thirds of the world’s Indian rhinoceroses and is recognized as a UNESCO World Heritage Site.
+The park’s rich biodiversity includes large breeding populations of elephants, wild water buffalo, and swamp deer.
+Business Standard
+**********
+Daily Practice MCQs
+Q1.) Digital Bharath Nidhi, recently heard in news, will replace the erstwhile
+Universal Service Updation Fund
+Universal Service Extension Fund
+None of the above
+Q2.) With reference to the Kaziranga National Park, consider the following statements:
+Kaziranga National Park sits on the southern banks of the Brahmaputra River.
+This park hosts two-thirds of the world’s Indian rhinoceroses.
+It is recognized as a UNESCO World Heritage Site.
+Which of the statements given above are correct?
+1 only
+1 and 2 only
+1 and 3 only
+1,2 and 3
+Q3.) Consider the following statements:
+Statement-I:
+The Axiom-4 mission is a private spaceflight to the International Space Station conducted by Axiom Space in collaboration with ISRO.
+Statement-II:
+The Axiom-4 mission aims to facilitate commercial activities in space, including scientific research, technological development, and space tourism.
+Which one of the following is correct in respect of the above statements?
+Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+Statement-I is correct but Statement-II is incorrect
+Statement-I is incorrect but Statement-II is correct
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  9th July 2024
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs.st
+**********India to sign, ratify High Seas Treaty
+Why in news?
+India has decided to sign and ratify the High Seas Treaty, a global agreement for conservation and protection of biodiversity in the oceans.
+The High Seas Treaty, also known as the agreement on Biodiversity Beyond National Jurisdictions (BBNJ), was negotiated in March 2023.
+What’s in today’s article?
+Need for UN high seas treaty
+Status of the treaty
+High seas
+The high seas are the
+parts of the ocean that are not included in the exclusive economic zones, territorial sea or internal waters of a State
+Water beyond 200 nautical miles from the coast of a country is known as high sea.
+High seas are the areas of the ocean for which no one nation has sole responsibility for management.
+Ocean and biodiversity
+The high seas comprise 64 per cent of the ocean surface, and about 43 per cent of the Earth.
+These areas are home to about 2.2 million marine species and up to a trillion different kinds of microorganisms.
+Ocean and global climate
+Oceans are an integral part of the global climate cycle, and perform a range of ecological services including absorption of carbon dioxide and excess heat.
+Hence, this treaty is being considered as a landmark in the efforts to keep the planet habitable.
+Unregulated human activities
+Climate change is already influencing, and is being influenced by, ocean systems, and is exacerbating the pressures on marine biodiversity from unregulated human activities.
+It is these specific challenges — a combination of climate change, biodiversity, and pollution — that the High Seas Treaty seeks to address.
+UNCLOS and concerns regarding the biodiversity
+Though UNCLOS asks countries to protect the ocean ecology and conserve its resources,
+it does not provide the specific mechanisms or processes to do so
+Hence, it is believed that the High Seas Treaty will work as an implementation agreement under the UNCLOS.
+This is similar to the Paris Agreement working under the UN Framework Convention on Climate Change (UNFCCC).
+Agreed under the UNCLOS
+, this treaty is commonly known as the
+agreement on biodiversity beyond national jurisdictions (BBNJ)
+UN Convention on the Law of the Sea (UNCLOS) is an international treaty that establishes a framework for the use and management of the world's oceans and their resources.
+It was adopted by the United Nations in 1982 and came into force in 1994.
+This treaty is the first international law to offer some protection to the nearly two-thirds of the ocean that is beyond national control.
+This treaty will be legally binding in nature
+Key provisions of the treaty
+Demarcation of marine protected areas (MPAs)
+MPAs are where ocean systems, including biodiversity, are under stress, either due to human activities or climate change.
+These can be called the national parks or wildlife reserves of the oceans.
+Activities in these areas will be highly regulated, and conservation efforts similar to what happens in forest or wildlife zones, will be undertaken.
+Only about 1.44 per cent of high seas are currently protected
+, according to the International Union for Conservation of Nature (IUCN).
+In December 2022, at the meeting of the Convention on Biodiversity (CBD) in Montreal, Canada, countries had agreed to
+put at least 30 per cent of degraded coastal and marine ecosystems under effective restoration by 2030
+MPAs will be helpful in achieving this objective.
+Sustainable use of marine genetic resources and equitable sharing of benefits arising from them
+Genetic information from marine organisms is already being extracted, and their benefits are being investigated.
+The treaty seeks to ensure that any benefits arising out of such efforts, including monetary gains, are free from strong intellectual property rights controls, and are equitably shared amongst all.
+The knowledge generated from such expeditions are also supposed to remain openly accessible to all
+Initiation of the practice of environmental impact assessments for all major activities in the oceans
+The high seas are international waters that are open for use by all countries.
+Under the new treaty, commercial or other activities that can have significant impact on the marine ecosystem
+would require an environmental impact assessment to be done
+The results of this exercise have to be shared with the international community.
+Capacity building and technology transfer
+This will help small island states and landlocked nations, who do not have the resources or the expertise, to meaningfully participate in the conservation efforts.
+Creation of New body
+The treaty will create a
+new body to manage conservation of ocean life and establish marine protected areas in the high seas
+The treaty would become international law 120 days after at least 60 countries submit their formal ratification documents.
+As of now,
+91 countries have signed the treaty, but only eight of them have ratified and made the submission
+India has decided to sign and ratify the High Seas Treaty.
+The High Seas Treaty, once it is ratified by the requisite number of countries and becomes international law, would operate under the UNCLOS framework, and become one of its implementing instruments.
+The UN Convention on the Law of the Seas, or UNCLOS, defines the rights and duties of the country, and lays down the general principles of acceptable conduct in the oceans.
+There are already two similar agreements under UNCLOS:
+one that regulates the extraction of mineral resources from ocean beds, and
+the other about conservation of migratory fish stocks.
+India to sign, ratify High Seas Treaty.pdf
+( Size:  1.7 MB  )
+Click to View More
+International Relations
+**********Hurricane Beryl’s record early intensification
+Why in news?
+Hurricane Beryl became the earliest storm on record during the Atlantic hurricane season to have reached the highest Category 5 classification.
+Earlier this month, it devastated the Caribbean islands, causing intense floods and dangerous winds in Jamaica, Grenada, Saint Vincent and the Grenadines, and northern Venezuela, resulting in at least 11 deaths.
+On July 8, Beryl made landfall in Texas as a Category 1 storm, flooding streets and causing power outages for over two million people in the state.
+What’s in today’s article?
+A hurricane is a powerful and destructive tropical storm characterized by strong winds, heavy rainfall, and low atmospheric pressure.
+Hurricanes are also known as cyclones or typhoons in different parts of the world; the term used depends on the region.
+In the
+Atlantic Ocean and eastern North Pacific
+, they are called hurricanes, while in the
+northwestern Pacific
+, they are referred to as typhoons, and in the
+South Pacific and Indian Ocean
+, they are known as cyclones.
+Key characteristics of hurricanes
+Low Pressure Centre
+Hurricanes have a well-defined centre of low atmospheric pressure, known as the eye.
+The eye is typically calm and clear, with light winds, surrounded by a ring of intense thunderstorms called the eyewall.
+Strong Winds
+Hurricanes are known for their powerful winds that can reach sustained speeds of at least 74 miles per hour (119 kilometers per hour) or higher.
+Heavy Rainfall
+Hurricanes produce heavy rainfall, which can lead to flooding, landslides, and storm surges (a rise in sea level along the coast caused by the hurricane's winds pushing water toward the shore).
+Formation
+Hurricanes form over
+warm ocean waters
+when
+the sea surface temperature is typically above 26 degrees
+Celsius (79 degrees Fahrenheit).
+Warm, moist air rises from the ocean's surface, creating an area of low pressure.
+As the air cools and condenses, it releases heat, which fuels the storm's development.
+Categories
+Hurricanes are categorized on the Saffir-Simpson Hurricane Wind Scale based on their maximum sustained wind speeds.
+The scale ranges from Category 1 (weakest) to Category 5 (strongest), with each category representing a higher wind speed and potential for damage.
+Category 1 hurricanes bring winds of 119 to 153 kmph, Category 5 hurricanes, which are the strongest, have winds of 252 kmph or higher
+Storms that reach Category 3 and higher are considered major hurricanes due to their potential to inflict significant damage.
+Within 24 hours of emerging as a tropical depression with winds of 56.3 kmph on June 28, Beryl transformed into a hurricane.
+Over the next 24 hours, it rapidly intensified to become a Category 4 hurricane.
+At that point, Beryl was the first Category 4 hurricane to form in June.
+The earliest emergence of a Category 4 hurricane was previously seen in the case of Hurricane Dennis in July 2005.
+On July 1, Beryl made landfall on Grenada’s Carriacou Island as a Category 4 hurricane with sustained winds of over 241 kmph.
+As it travelled through the Caribbean Sea, it continued to gain strength, and became a Category 5 hurricane on July 2.
+This made it the earliest Category 5 hurricane seen during the Atlantic hurricane season on record.
+Beryl was also the strongest July Atlantic hurricane on record, with winds of 265.5 kmph, according to NOAA.
+Why did Beryl become a Category 5 hurricane so early?
+The Atlantic hurricane season, lasting from June to November, typically sees its first major hurricanes in September due to the gradual warming of ocean waters, according to NOAA.
+Hurricane Beryl is unprecedented because it formed as a powerful storm much earlier,
+attributed to unusually warm ocean temperatures
+Since 2023, both sea
+surface temperatures and ocean heat content (OHC) have been at record highs
+, a trend reflected in this year’s OHC being significantly above the 2013-2023 average.
+Atmospheric scientists highlight that the
+depth of the warm water, extending 100 to 125 meters, prevents cooler water from surfacing
+, thus sustaining Beryl’s intensity.
+Click to View More
+Geography
+**********Employment Rate Rises from 3.2% in FY23 to 6% in FY24
+Why in the News?
+According to the Reserve Bank of India’s data, India’s employment rate grew by 6 per cent in the fiscal year ended March 31, 2024 from a growth of 3.2 per cent in 2022-23.
+What’s in Today’s Article?
+RBI’s Latest Report
+Key Terms of the Report
+About the RBI’s Latest Report:
+The RBI recently released data from its Measuring Productivity at the Industry Level-the India
+KLEMS Database
+KLEMS stands for [Capital (K), Labour (L), Energy (E), Material (M) and Services (S)].
+The database is part of a research project supported by the Reserve Bank to analyse productivity performance in the Indian economy at disaggregated industry level.
+database covers 27 industries comprising the entire Indian economy
+The database also provides these estimates at the broad sectoral levels (agriculture, manufacturing and services) and at the all-India levels.
+Key Takeaways from the Latest Data
+India's total employment stood at
+643.3 million in 2023/24
+versus 596.7 million in FY23.
+Unemployment Rate (UR) in urban areas decreased from 6.8 per cent during January–March 2023 to 6.7 per cent in January–March 2024
+for persons of age 15 years and above.
+Female Unemployment Rate
+declined from 9.2 per cent to 8.5 per cent for the same period.
+Labour Force Participation Rate
+(LFPR) in urban areas has shown an increasing trend from 48.5 per cent to 50.2 per cent for the same period.
+There was an increasing trend in
+Worker Population Ratio
+(WPR) for persons of age 15 years and above from 45.2 per cent to 46.9 per cent for the same period.
+Key Terms of the Report:
+Labour Force Participation Rate:
+The labour force
+consists of persons who are of age 15 years or older
+, and belong to either of the following two categories:
+Employed
+Unemployed and are willing to work and are actively looking for a job
+There is a crucial commonality between the two categories — they both have people “demanding” jobs. This demand is what
+(LFPR) refers to.
+Employment Rate:
+The employment rate is the percentage of employed persons in relation to the comparable total population.
+Unemployment Rate:
+The unemployment rate is the percentage of adults who are in the labour force but who do not have jobs.
+Periodic Labour Force Survey:
+The National Statistics Organisation (NSO) had launched the Periodic Labour Force Survey (PLFS) in April 2017.
+It was
+launched as part of efforts to get a better sense of the job situation and provide reliable and timely data
+The PLFS is designed with two major objectives for measurement of employment and unemployment.
+First, to measure the dynamics in labour force participation and employment status in the short time interval of three months for only the urban areas in the Current Weekly Status (CWS).
+Second, for both rural and urban areas, to measure the labour force estimates on key parameters in both usual status and Current Weekly Status.
+newspaper.pdf
+( Size:  702.9 KB  )
+Click to View More
+Economics
+**********PLI Scheme for White Goods
+Why in News?
+According to the Department for Promotion of Industry and Internal Trade (DPIIT), the government will reopen the application window for the production-linked incentive (PLI) scheme for white goods.
+What’s in Today’s Article?
+What are White Goods?
+What are PLI Schemes?
+What is the PLI Scheme for White Goods?
+White goods or consumer durables
+encompass significant household appliances, including -
+Air conditioners (ACs), LED lights, dishwashers,
+Clothes dryers, drying cabinets,
+Freezers, refrigerators,
+Kitchen stoves, water heaters, microwave ovens, induction cookers, and
+Washing machines.
+India allows 100% foreign direct investment (FDI)
+under the automatic route into the consumer durable goods manufacturing industry.
+The white goods industry in India
+has exhibited robust growth in recent years, with an estimated market value of
+US$13.66 billion in the fiscal year 2021
+Within this industry, the most substantial market shares were captured by
+ACs, refrigerators, and LED products.
+India’s white goods market is
+projected to surpass US$21 billion by 2025
+, at a compound annual growth rate (CAGR) of 11%.
+The PLI Schemes are
+a strategic initiative
+by the Government of India, aligned with the vision of ‘
+Atmanirbhar Bharat
+’ (or Self-Reliant India).
+The core objectives of the PLI Schemes are to
+Improve efficiency, foster economies of scale within the manufacturing sector,
+Position Indian manufacturers as globally competitive, thereby facilitating their integration into global value chains, and
+Foster domestic manufacturing as a catalyst for India’s economic growth and employment generation.
+The PLI Schemes involve significant financial allocations, with a total outlay of INR 1.97 trillion (over US$26 billion) for 13-14 key sectors.
+All sectors approved under the PLI Schemes adhere to a broad framework centered around
+new and emerging technologies
+It was approved by the Union Cabinet on
+7th April, 2021
+(and was notified by the DPIIT on 16th April, 2021).
+The scheme is to be
+implemented over a 7 years period
+(from FY 2021-22 to FY 2028-29) and has
+an outlay of ₹ 6,238 crore
+It is designed to create
+a complete component ecosystem for Air Conditioners and LED Lights Industry in India
+and make India an integral part of the global supply chains.
+With the launch of this scheme, domestic value addition (for the white goods) is expected
+to grow from the current 15-20% to 75-80%.
+So far, 66 applicants with committed investment of Rs. 6,962 crores have been selected as beneficiaries under the scheme.
+Leading consumer durable brands
+Daikin, Panasonic, Havells, and Syska
+are among the beneficiaries of the PLI White Goods Scheme.
+Govt. reopens PLI scheme for white goods till October 12.pdf
+( Size:  97.6 KB  )
+Click to View More
+Economics
+**********

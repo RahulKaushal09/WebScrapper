@@ -15,7 +15,7 @@ import os
 import matplotlib.pyplot as plt
 
 
-Public_IP = "http://52.139.218.113/images"
+Public_IP = "https://fc.edurev.in/images"
 image_folder_path = "/var/www/html/images"
 
 def latex_to_image(soup,latex_expression):

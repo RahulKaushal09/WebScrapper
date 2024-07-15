@@ -1,0 +1,1014 @@
+GLOBAL GENDER GAP INDEX
+Syllabus
+Prelims & Mains – CURRENT EVENT, SOCIAL ISSUES
+Context:
+The 2024 edition of the Global Gender Gap Index places India at 129 out of the 146 countries it surveyed. This puts India at the 18th position from the bottom.
+Background:-
+For comparison, of the 156 countries included in 2021, India was at the 17th position from the bottom. Thus, overall, India’s ranking has remained in the bottom 20 over years.
+Key Takeaways
+The Global Gender Gap Index annually benchmarks the current state and evolution of gender parity across key dimensions.It is published by World Economic Forum
+Like all indices, the Global Gender Gap Index, first introduced in 2006, is a précis measure. It is a combination of four different sub-indices — economic participation and opportunity, educational attainment, health and survival and political empowerment — each summarising multiple indicators.
+The index lies between 0 and 1, with 1 denoting complete parity.
+It is important to note that this index focuses on gender gaps, that is, the focus is on the position of women relative to men (gender equality), rather than to their absolute position. The idea is to track changes in gender gaps both over time and across countries.
+The 2024 report shows that on “Health and Survival Score”, India’s value is at 0.951 which means that 95.1 per cent of the male-female gap has been closed. Similarly, in educational attainment, 96.4 per cent of the gap has been closed.
+India has done well on these indicators but since several other countries have done better, India is at 112th position in the educational ranking and at 142nd position in the health rankings among 146 countries.
+On economic participation, India’s score at 39.8 per cent places it at the 142nd position among 146 countries. While this is an improvement since 2021 (when it was 32.6 per cent), it is very low in absolute terms, and is lower than the 2012 score of 46 per cent.
+To put this score in perspective, countries with the lowest levels of economic parity are Bangladesh (31.1 per cent), Sudan, (33.7 per cent), Iran (34.3 per cent), Pakistan (36 per cent), India (39.8 per cent), and Morocco (40.6 per cent).
+In political participation, even though India has closed only 25.1 per cent of the gap, its global rank is 65. This reflects the fact that while the rest of the world has made significant forward strides towards gender equality in the economic, educational and health spheres, the global progress on gender equality in political participation remains low. We should note that India’s position was at 51 in 2021 with a value of 27.6 per cent, implying that India’s score has worsened over the last two years.
+There is ample research documenting the staggering economic costs of side lining women. An OECD estimate reveals that gender-based discrimination in social institutions could cost up to $12 trillion for the global economy, and that a reduction in gender discrimination can increase the rate of growth of GDP.
+Internalisation of this understanding would mean that gender equality has to be mainstreamed into economic policy making, rather than viewed as a residual concern to be tackled later, as an afterthought.
+Source:
+Indian Express
+**********
+KAVACH
+The accident involving the Sealdah Kanchanjunga Express on June 17, which claimed 10 lives, has brought to the fore once again the delay in installing Kavach, an indigenously developed automatic train protection (ATP) system, across the country’s rail network.
+Experts, including former Railway Minister and West Bengal Chief Minister Mamata Banerjee, raised questions about the delay in the implementation of the system.
+About KAVACH
+The KAVACH is an indigenously developed Automatic Train Protection (ATP) system by the Research Design and Standards Organisation (RDSO) in collaboration with the Indian industry.
+It is a state-of-the-art electronic system with Safety Integrity Level-4 (SIL-4) standards.
+It is meant to provide protection by preventing trains to pass the signal at Red (which marks danger) and avoid collision.
+It activates the train’s braking system automatically if the driver fails to control the train as per speed restrictions. In addition, it prevents the collision between two locomotives equipped with functional Kavach systems.
+The system also relays SoS messages during emergency situations. An added feature is the centralised live monitoring of train movements through the Network Monitor System.
+‘Kavach’ is one of the cheapest, SIL-4 certified technologies where the probability of error is 1 in 10,000 years.
+How does Kavach work on Railway Systems?
+The Traffic collision avoidance system (TCAS), with the help of equipment on board the locomotive and transmission towers at stations connected with Radio Frequency Identification (RFID) tags, helps in two-way communication between the station master and loco-pilot to convey any emergency message.
+The instrument panel inside the cabin helps the loco-pilot know about the signal in advance without visual sighting, and the permissible speeds to be maintained.
+If a red signal is jumped and two trains come face to face on the same line, the technology automatically takes over and applies sudden brakes.
+Additionally, the hooter activates by itself when approaching a level crossing which serves as a big boon to loco-pilots during fog conditions when visibility is low.
+Hindu
+**********
+STATE OF GLOBAL AIR REPORT
+Prelims & Mains – ENVIRONMENT
+Air pollution has caused 8.1 million deaths around the world in 2021 with China and India accounting for more than half of the global burden at 2.3 and 2.1 million deaths respectively, according to the recently released State of Global Air Report.
+The State of Global Air report is a comprehensive analysis of the levels and trends in air quality and health for every country in the world. They are produced annually by the Health Effects Institute and the Institute for Health Metrics and Evaluation’s (IHME’s) Global Burden of Disease (GBD) project.
+Key takeaways from the report
+As per the report, air pollution is considered to be one of the biggest killers globally, second only to high blood pressure. In fact, it outranks tobacco consumption as a leading cause of death and disability, said the report.
+Even though the situation is bleak globally, India is among the countries which bears the highest brunt of air pollution.
+India with 2.1 million deaths and China with 2.3 million deaths due to air pollution, account for 55% of the global burden.
+Not only the particulate matter, Indians are also exposed to high levels of ozone. Short-term exposure to ozone has been linked to exacerbation of asthma and other respiratory symptoms while long term exposure is linked to Chronic Obstructive Pulmonary Disease  — a condition where the lungs remain inflamed obstructing the airflow.
+The report states that 489,000 deaths globally were attributable to ozone exposure in 2021 — of these deaths nearly 50% or 237,000 deaths took place in the country.
+India also reported the highest number of pollution-linked deaths in children under the age of five in 2021 with at least 169,400 deaths attributed to air pollution.
+As per data, there has been a steady increase in the number of deaths attributable to air pollution in India, barring a small dip seen during the pandemic.
+Health challenge
+Air pollution poses a big public health challenge — becoming the second leading risk factor for early deaths after high blood pressure and ahead of tobacco consumption.
+Unlike high blood pressure and tobacco consumption — which mainly affects adults — air pollution kills children.
+**********
+INTERNATIONAL DAY OF YOGA
+Prelims – CURRENT EVENT
+Prime Minister Narendra Modi participated in the 10th International Day of Yoga in Srinagar.
+PM Modi emphasised the global journey of Yoga, mentioning that in India, the AYUSH department has established the Yoga Certification Board for yoga practitioners.
+Key Takeaways:
+The term “Yoga” originates from the Sanskrit word “yuj,” which means to join or unite.
+Yoga aims to harmonize the mind, body, and soul, fostering a connection between individual consciousness and universal consciousness.
+The International Day of Yoga (IDY) is observed annually on June 21st.
+Historical Background:
+India proposed the idea of IDY during the opening of the 69th session of the United Nations General Assembly (UNGA) in 2014.
+The UN officially declared June 21st as IDY by passing a resolution in December 2014.
+Significance and Theme:
+The theme for International Yoga Day 2024 is “Yoga for Self and Society”.
+This theme emphasizes the dual benefits of yoga practice: enhancing personal well-being and contributing to the betterment of society.
+**********
+CENTRAL INDUSTRIAL SECURITY FORCE (CISF)
+: The Central Industrial Security Force (CISF) is yet to receive formal orders to take over the security at the Parliament. In the past few months, over 2,500 CISF personnel have been deployed on the premises replacing the Delhi Police and the Central Reserve Police Force (CRPF).
+After a security breach in the new Parliament building on December 13, 2023, MHA accorded in-principle approval to the CISF to survey the complex for regular deployment of personnel on a comprehensive pattern under the Government Building Security.
+About Central Industrial Security Force (CISF)
+The Central Industrial Security Force (CISF) is a federal police organization in India operating under the Ministry of Home Affairs.
+It is one of the Central Armed Police Forces (CAPF) and provides security to over 356 industrial units, government infrastructure projects, and establishments across the country.
+Established in 1969, the CISF has grown into a premier multi-skilled force with a current strength of 177,713 personnel.
+Its security umbrella covers critical infrastructure facilities such as nuclear installations, space establishments, airports, seaports, and power plants.
+Additionally, the CISF safeguards important government buildings, iconic heritage monuments, and the Delhi Metro.
+The force also has a specialized VIP Security vertical that ensures round-the-clock protection for important dignitaries.
+Post the Mumbai terror attack in November 2008, the mandate of CISF was broadened to provide security cover to private corporate establishments also.
+The CISF also provides security consultancy services to private entities and its services are much in demand.
+**********
+ROHINGYA REFUGEES IN INDIA
+Mains – GS 2 & 3
+: The condition of Rohingya refugees is once again in the limelight as the world refugee day was observed
+World Refugee Day is an international day designated by the United Nations to honour refugees around the globe. It falls each year on June 20 and celebrates the strength and courage of people who have been forced to flee their home country to escape conflict or persecution.
+About Rohingyas:
+They are a Muslim minority ethnic group with their roots in the Arakan kingdom in Myanmar, formerly known as Burma.
+The Rohingya are culturally and religiously distinct from the majority Buddhist population in Myanmar.
+Rohingyas in India:
+As per the Ministry of Home Affairs, there are more than 40,000 Rohingya in India.
+Only 14,000 of them hold United Nations High Commissioner for Refugees (UNHCR) refugee ID cards, which offers them protection from arbitrary detention.
+Challenges faced by Rohingya refugees in India:
+(According to the report ‘A Shadow of Refuge: Rohingya Refugees in India’ the following are the challenges faced by Rohingya refugees in India.) :
+According to the report, India is not allowing exit permissions for Rohingya refugees who have completed refugee status determinations with the UN Refugee Agency (UNHCR) and gained approval from third countries for resettlement
+The Rohingya refugees in India are being labelled as illegal migrants which hamper their integration into society along with risks of being deported back to Myanmar, where they fled from a genocidal regime.
+The fear of deportation has instilled a sense of fear within the Rohingya community, compelling some to return to camps in Bangladesh.
+Rohingyas live in dire conditions such as slum-like settlements without safe running water, toilets, or access to basic healthcare and education.
+**********
+Daily Practice MCQs
+Q1.) Global Gender Gap Report 2024 was released by
+World Bank
+International Monetary Fund
+World Trade Organisation
+Q2.) With reference to the Central Industrial Security Force (CISF), consider the following statements:
+It is a federal police organization operating under the Ministry of Defence.
+Which of the statements given above is/are correct?
+1 only
+2 only
+Both 1 and 2
+Neither 1 nor 2
+Q3.) With reference to the International Yoga Day, consider the following statements:
+Which of the statements given above are correct?
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  21st June 2024
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs.st
+**********NEET-NET Crisis: The Reason Behind India’s Failing Exam System
+Context
+The NEET (National Eligibility cum Entrance Test) controversy represents a culmination of systemic failures
+and poor policy implementation over the years.
+This scandal, marked by recurrent paper leaks, incorrect results leading to tragic aspirant suicides
+, and inexplicable awarding of grace marks,
+has eroded public trust
+in the National Testing Agency (NTA).
+Therefore, it is
+imperative to examine the roots and ramifications of these issues, offering a nuanced understanding
+and proposing potential reforms.
+Incidents of Recent Paper Leaks and Their Impact
+Recent controversies surrounding NEET have highlighted significant flaws
+in its administration.
+Leaks of examination papers
+and the release of incorrect results have not only led to a loss of trust but have also been
+linked to tragic aspirant suicides.
+In the latest instance,
+an unprecedented 67 students achieved perfect scores,
+raising suspicions of systemic manipulation.
+Additionally, over 1,560 students received grace marks
+without transparent justification, further eroding confidence in the National Testing Agency (NTA).
+government’s cancellation of the National Eligibility Test (NET) due to similar issues compounds doubts
+about the integrity of these examinations.
+Origin of NEET Policy, its Objectives and Implementation Challenges
+Standardising Educational Competence
+One of the primary motivations for instituting NEET was the need to standardise the educational competence
+of students entering medical colleges.
+Before NEET, there was a noticeable disparity in the foundational knowledge of basic sciences
+such as Chemistry, Physics, and Biology among students from different educational backgrounds.
+disparity often led to significant variations in the quality of medical graduates, as students from some regions or institutions possessed insufficient understanding
+of these crucial subjects.
+By implementing NEET, the Ministry of Health aimed to ensure that all medical aspirants, regardless of their educational background, met a minimum standard of competence
+in the basic sciences.
+Reducing the Number of Entrance Examinations
+India’s medical aspirants faced several entrance examinations and there were approximately 46 different entrance exams
+conducted by various medical colleges and institutions, each with its own syllabus, format, and evaluation criteria.
+multiplicity of exams created significant stress and confusion for students
+, who had to prepare for and appear in multiple tests within a short period.
+policy aimed to consolidate these numerous exams into a single, standardised test
+—NEET.
+move was expected to simplify the admission process
+, reduce the financial and logistical burden on students, and ensure a more straightforward and equitable selection process.
+By having one common entrance examination, the government hoped to streamline the process,
+making it more efficient and less cumbersome for all stakeholders involved.
+Eliminating Capitation Fees
+Another
+critical issue NEET sought to address was the rampant practice of capitation fees
+in private medical colleges.
+Capitation fees are essentially donations or bribes paid by students to secure admission,
+often bypassing merit-based selection criteria.
+This practice not only compromised the quality of medical education but also made it inaccessible to deserving students
+from economically disadvantaged backgrounds.
+basing admissions solely on NEET scores, the policy aimed to curtail the discretion of private medical colleges
+in selecting students.
+This merit-based approach was intended to ensure that only the most qualified candidates gained admission,
+irrespective of their financial background.
+elimination of capitation fees was seen as a step towards fostering transparency and fairness in the admission process
+, thereby enhancing the credibility of medical education in India.
+Challenges in Implementation
+While the objectives of NEET were clear and well-intentioned,
+the implementation of the policy encountered several challenges.
+In 2013, the Supreme Court suspended the scheme following petitions from private colleges
+that argued NEET’s centralised process infringed on their autonomy.
+However,
+a five-judge bench restored NEET in 2016,
+reaffirming the need for a unified examination system.
+One of the persistent issues was the lack of a uniform standard for school education
+across India.
+Central government schools followed the CBSE syllabus, which was generally more rigorous than the syllabi of state boards
+and the International Baccalaureate (IB) programs in private schools.
+This disparity led to accusations of bias, as NEET’s standards were perceived to favour students from CBSE backgrounds.
+The Opposition of NEET: The Case of Tamil Nadu
+Tamil Nadu has consistently opposed NEET, advocating for its state policy of linking medical college admissions
+to high school performance.
+state’s Expert Committee,
+led by Justice A.K. Rajan, revealed that
+rural students and those from Tamil medium schools were disproportionately disadvantaged by NEET.
+Between 2017 and 2021, admissions of Tamil medium students plummeted from 15% to as low as 1.6%,
+and rural student admissions dropped from 62% to 50%.
+This decline has significant implications for Tamil Nadu’s public health system,
+which relies on rural students to work in primary health centres.
+Necessary Key Reforms to Address the Crisis of NEET
+Extending the MBBS Degree
+One potential reform is
+to extend the duration of the MBBS degree to six years, incorporating a pre-medical year.
+This additional year would be dedicated to bringing students up to a standardized level in critical subjects such as Zoology, Chemistry, and Physics.
+This approach has historical precedence; during the 1960s and 1970s, medical education in India included a preparatory year
+to ensure all students possessed the necessary foundational knowledge.
+Decentralising Examinations
+critical reform is to decentralise the examination process, allowing states and universities to conduct their own entrance exams.
+centralisation of NEET has led to significant disparities and dissatisfaction,
+particularly among students from non-CBSE backgrounds.
+State and university-level exams can be tailored to the specific educational standards and curricula of their regions, making them more relevant and fairer for local students.
+Universities and states can adopt more flexible and innovative examination formats
+that better assess students' knowledge and skills.
+Constituting Regional Boards
+intermediate solution could involve the creation of regional examination boards that standardise exams
+within specific geographic areas.
+These
+boards could operate under the guidance of a central body
+but retain the flexibility to adapt to local educational standards.
+Regional boards can strike a balance between national standardisation and local relevance,
+ensuring exams are fair and comprehensive.
+Improving School Education
+A long-term solution to the issues plaguing NEET involves fundamentally improving the quality of school education
+This requires comprehensive reforms in governance, curriculum, and infrastructure.
+Shifting from rote learning to inquiry-based and critical thinking-oriented education.
+Curricula should be regularly updated to include the latest scientific and educational advancements.
+Conclusion
+current NEET crisis is representative of a broader systemic failure
+in ensuring high-quality school education in India.
+The long-term solution lies in improving the school system, decentralising examinations
+, and establishing robust oversight mechanisms.
+Only through such comprehensive efforts can confidence and credibility be restored
+in the examination system, ensuring fairness and integrity for all students.
+Click to View More
+Editorial Analysis
+**********Tamil Nadu hooch tragedy - Why spurious liquor can be deadly
+Why in news?
+In Tamil Nadu's Kallakurichi, at least 34 people have died and around 100 others are in the hospital after drinking spurious liquor, also known as hooch. It's possible that more people have died than reported, as some may have passed away before reaching medical help.
+What’s in today’s article?
+The Science of Creating Alcohol
+Adverse effect of Ethanol on Human Health
+What is Hooch/Spurious Liquor?
+Regulation of Methanol in India
+How can Methanol Poisoning be Treated?
+The Science of Creating Alcohol:
+Alcohol is produced using two basic processes:
+fermentation and distillation
+Fermentation
+is a chemical reaction where yeast or bacteria react with the sugars (from grain, fruits, sugarcane, etc.) to produce
+(the alcohol in the drink).
+Liquor is differentiated by its alcohol content
+from the 5% by volume (beer) to the 12% (wine) to the 40% (distilled spirits).
+Distillation is important because with more of the sugar getting converted to alcohol,
+the conditions become toxic
+is the process of physically separating the alcohol from the rest of the mixture using evaporation and condensation.
+Adverse effect of Ethanol on Human Health:
+Ethanol (C2H5OH) is
+metabolised in the liver and the stomach
+by alcohol dehydrogenase (ADH) enzymes to acetaldehyde.
+Then aldehyde dehydrogenase (ALDH) enzymes transform the
+into acetate.
+The adverse effects of alcohol consumption, from the
+hangover to cancer,
+are due to acetaldehyde.
+Contrary to popular belief, the
+World Health Organization
+(WHO) has found that “no level of alcohol consumption is safe for health”.
+About
+Hooch is a commonly used term for poor quality alcohol, derived from Hoochinoo, a native Alaskan tribe that was known to produce very strong liquor.
+Unlike branded liquor which is produced in factories with sophisticated equipment and rigorous quality control,
+hooch is made in more crude settings
+(in many cases homemade) without any quality checks.
+Process
+Like all alcohol, hooch is produced using two basic processes: fermentation and distillation.
+Hooch is produced using distillation of a fermented mixture, generally of locally available yeast, and sugar or fruit (often fruit waste).
+The fermented mixture which is to be distilled contains
+more than just consumable alcohol (ethanol)
+It also contains
+methanol
+(CH3OH), a different form of alcohol which is highly toxic for human beings.
+During the distillation, both ethanol (boiling point of 78.37 °C) and methanol (boiling point of 64.7 °C) are concentrated.
+Thus, if done incorrectly, distillation can lead to an end product which contains high quantities of toxic methanol.
+The end product can have a
+high concentration of methanol
+(instead of harmless trace amounts), which is poisonous and can also cause
+cerebral edema (swelling of the brain), haemorrhage, and death
+Importantly,
+it is near impossible to tell
+whether hooch is safe to consume before actual consumption.
+Regulation of Methanol in India:
+Schedule I of the Manufacture, Storage and Import of
+Hazardous Chemical Rules 1989
+includes methanol.
+The Food Safety and Standards (Alcoholic Beverages) Regulations 2018
+stipulate the maximum permissible quantity of methanol in different liquors.
+For example,
+these values span a wide range including “absent” in coconut fenny, 50 grams per 100 litres in country liquor, etc.
+The Indian Standard
+(IS 517) applies to how the quality of methanol is to be ascertained, and together with the Tamil Nadu Denatured Spirit, Methyl Alcohol, and Varnish (French Polish) Rules 1959, what signage, methanol packaging should carry
+Once methanol is ingested, the body takes some time to completely eliminate it. There are
+two immediate ways
+to treat methanol poisoning.
+One is to administer ethanol
+(of a pharmaceutical grade, by healthcare workers). Ethanol competes with methanol for the ADH enzymes. As a result, the methanol is kept from being metabolised to formaldehyde.
+The other option is to administer an antidote called fomepizole
+, which slows the action of the ADH enzymes, causing the body to produce formaldehyde at a rate that the body can quickly excrete, preventing the deadlier effects from kicking in.
+Tamil Nadu hooch tragedy - Why spurious liquor can be deadly.pdf
+( Size:  2.5 MB  )
+Click to View More
+Social Issues
+**********India’s law against use of unfair means in exams
+Why in news?
+With the recent controversies surrounding the
+National Eligibility-cum-Entrance Test (NEET) UG-2024
+and the cancellation of the
+University Grants Commission-National Eligibility Test (UGC-NET)
+, public examinations have come under increased scrutiny.
+UGC-NET 2024 was cancelled on June 19 after the Union Home Ministry found that the integrity of the examination may have been compromised. UGC-NET is the qualifying exam for admission to PhD programs, and to apply for an entry-level teaching position at an Indian university.
+This was the first time a centrally-conducted public examination has been scrapped after Parliament passed Public Examinations (Prevention Of Unfair Means) Act in February 2024.
+What’s in today’s article?
+Public Examinations (Prevention Of Unfair Means) Act 2024
+Challenges and way forward
+About
+This act was passed by the Indian Parliament in February 2024. It aims to prevent unfair means in order to bring greater transparency, fairness and credibility to the public examinations system.
+Wide scope of application
+The Act is the first Central Government legislation addressing unfair practices in public examinations.
+It has a broad scope, allowing for the inclusion of other agencies through government notifications.
+Considerate of candidates’ welfare
+Bona fide candidates of the public examinations are kept outside the purview of the Act.
+Even the defaulting candidates will not be punished within the Act however, appropriate action will rather be taken by the concerned public examination authority.
+Unfair means in an examination has been defined
+Section 3 of the Act lists at least 15 actions that amount to using unfair means in public examinations for monetary or wrongful gain.
+These include:
+Leakage of question papers or answer keys and colluding in such leaks.
+Unauthorized access to question papers or Optical Mark Recognition (OMR) response sheets.
+Tampering with answer sheets, including OMR sheets.
+Unauthorized persons providing solutions during exams.
+Assisting candidates indirectly or directly.
+Tampering with documents used for shortlisting or ranking candidates.
+Tampering with computer systems or networks.
+Creating fake websites.
+Conducting fake exams and issuing fake admit cards or offer letters for cheating or monetary gain.
+Inclusive and comprehensive
+The Act comprises 19 sections across six chapters, addressing all aspects of preventing unfair means in public examinations.
+It includes comprehensive definitions covering various unfair practices such as question paper leaks, assistance to candidates, security violations, and tampering with computer systems.
+It also addresses details like manipulation in seating arrangements.
+Punishments
+Section 9 of the Act states that all offences shall be cognizable, non-bailable, and non-compoundable.
+This means that an arrest can be made without a warrant and bail will not be a matter of right; rather, a magistrate will determine whether the accused is fit to be released on bail.
+Public examination defined
+Section 2(k) defines a public examination as any examination conducted by a public examination authority listed in the Act's Schedule or any other authority designated by the Central Government through notification.
+The central government can add new authorities in the schedule through a notification as and when required.
+Power to Refer Investigation to a Central Agency
+The Act empowers the Central Government to refer any case under the Act to a Central Investigating Agency whenever necessary in order to ensure expeditious and cautious disposal of matters concerned.
+Designation of a Public Servant
+The Act designates the officials of public examination authority as public servants, thereby ensuring accountability and transparency in the process.
+As a result, appropriate administrative action can be taken against the defaulting public servants, following the service rules and procedures of the authority.
+Status of organized crime
+Section 11 of the Act addresses organized crimes, imposing punishments ranging from 5 to 10 years and fines up to 1 crore rupees.
+Criticism and way forward
+Fate of public examinations cancelled due to unfair means
+The Act does not specify a time frame for rescheduling exams canceled due to unfair means.
+Given the high stakes for numerous candidates, timely rescheduling is crucial.
+It is recommended that canceled exams be re-conducted within six months to preserve candidates' merit and preparation, ensuring fair opportunities for all.
+Invigilators and Officials are unaware of examination procedures
+Invigilators and administrative officers often lack proper training, leading to inefficiencies and opportunities for unfair practices.
+To prevent this, eligibility criteria for invigilators should be established. Intensive training programs and workshops should be conducted to equip invigilators with necessary skills.
+Investigation referred to a DSP level officer
+The Act designates officers of at least Deputy Superintendent of Police (DSP) or Assistant Commissioner of Police rank to investigate unfair means in public examinations.
+However, given the significant impact on candidates,
+a specialized investigation and regulation authority should be established
+for systematic investigation of these offences.
+Underutilization of Modern Technology and AI
+Authorities have yet to effectively use technology to counteract offenders who are increasingly using it for their schemes.
+Electronic methods can streamline the question paper-setting process, reduce time, and allow for digital verification of question sets.
+Centralized question banks can make managing and updating questions more efficient.
+Electronic printing and distribution of exam papers can also minimize the risk of paper leaks.
+Integrating technology like Artificial Intelligence (AI) can enhance the evaluation stage by catching discrepancies overlooked by humans.
+India’s law against use of unfair means in exams.pdf
+( Size:  3.5 MB  )
+Click to View More
+Polity & Governance
+**********India – Bangladesh Bilateral Relationship
+Why in the News?
+Bangladesh’s Prime Minister Sheikh Hasina is on a two-day visit to India.
+What’s in Today’s Article?
+India – Bangladesh Relationship (History, Trade, Development, Culture, etc.)
+News Summary (Teesta Water Dispute)
+India – Bangladesh Bilateral Relationship:
+India and Bangladesh share bonds of history, language, culture, and multitude of other commonalities.
+Historical Ties:
+India's relationship with Bangladesh dates back to the 1971 Bangladesh Liberation War when India provided crucial military and material assistance to help Bangladesh gain independence from Pakistan.
+However, the relationship deteriorated in the mid-1970s due to boundary disputes, insurgency, and water-sharing issues, especially after military regimes took control in Bangladesh.
+Stability in bilateral relations was restored when Sheikh Hasina became Prime Minister in 1996, leading to the signing of the
+Ganga Water Sharing Treaty
+Since then, India and Bangladesh have strengthened their cooperation in various sectors, including trade, energy, infrastructure, connectivity, and defense.
+Economic and Commercial Ties:
+Bangladesh is India's largest trade partner in South Asia, with bilateral trade reaching USD 15.9 billion in FY 2022-23.
+Bangladesh exports approximately USD 2 billion to India annually.
+In 2022, both countries completed a joint feasibility study on a
+Comprehensive Economic Partnership Agreement (CEPA)
+This agreement is crucial as Bangladesh will lose its Least Developed Country (LDC) status after 2026, which will impact its duty-free and quota-free access to Indian markets.
+Consequently, Bangladesh aims to finalize a Free Trade Agreement (FTA) with India.
+Power and Energy:
+Bangladesh imports 1160 MW of power from India
+Projects like the
+Maitree Super Thermal Power Plant
+India-Bangladesh Friendship Pipeline
+are key initiatives.
+India supports Bangladesh's energy sector through various partnerships.
+Development Partnership:
+India has extended four Lines of Credit to Bangladesh amounting to USD 8 billion for infrastructure development.
+High Impact Community Development Projects (HICDPs) are a significant part of India’s assistance, focusing on human resource development and capacity building.
+Cultural Cooperation:
+Cultural exchanges are facilitated through the
+Indira Gandhi Cultural Centre and Indian Cultural Centre in Dhaka
+Programs in arts, dance, and language promote people-to-people contacts.
+The Bangladesh Youth Delegation program attracts young talent to visit India.
+PM Sheikh Hasina’s visit to India:
+This will be the first incoming bilateral State visit by a foreign leader after the formation of the new government following the Lok Sabha elections.
+Sheikh Hasina was among the seven leaders from India’s neighborhood who attended the swearing-in ceremony at the Rashtrapati Bhavan on June 9.
+During the bilateral meeting of Prime Minister Narendra Modi and Sheikh Hasina, Teesta water dispute is expected to be discussed.
+Controversy on the Teesta Water Dispute:
+Background:
+The Teesta River originates in the Pauhunri mountain of Sikkim, flows through West Bengal, and enters Bangladesh, joining the Brahmaputra.
+It is the second largest river in West Bengal after the Ganga, making it crucial for both West Bengal and Bangladesh.
+Historical Context:
+India and Bangladesh have been negotiating the sharing of Teesta waters since the early 1980s.
+A water-sharing agreement was almost signed in 2011 during Prime Minister Manmohan Singh's visit to Bangladesh. However, it was halted due to last-minute objections by West Bengal's Chief Minister Mamata Banerjee.
+Recent Developments:
+In 2015, Prime Minister Narendra Modi visited Dhaka, accompanied by Mamata Banerjee, and expressed confidence in finding a fair solution.
+Despite efforts, the issue remains unresolved. In a recent interview, Prime Minister Hasina emphasized the need for India to be more accommodating to resolve the dispute.
+Current Status:
+Bangladesh seeks an equitable share of the Teesta waters to ensure sufficient water flow during the dry season.
+India’s internal political dynamics, particularly the stance of the West Bengal government, play a significant role in the negotiations.
+Importance of Teesta Waters:
+The Teesta River is vital for irrigation and water supply in both countries.
+Sheikh Hasina recently urged India to show greater flexibility to resolve the issue.
+Bangladesh PM Sheikh Hasina arrives today for 2-day State visit.pdf
+( Size:  1.5 MB  )
+Click to View More
+International Relations
+**********What is the 50% Quota Ceiling Set by the SC
+Why in News?
+The Patna High Court set aside the amendments passed by the Bihar legislature in 2023 to increase the reservation for different backward classes from
+50% to 65%
+in educational institutions and government jobs of the state.
+The HC noted that the state government had not attempted any in-depth study before enhancing reservation beyond the limit (50%) set by the Supreme Court in the landmark
+1992 Indira Sawhney judgement
+What’s in Today’s Article?
+Indira Sawhney Judgment and the Present Status of Reservation in India
+Why the Quota in Bihar Challenged?
+Arguments For and Against Reservation
+The Verdict of the Patna HC
+Indira Sawhney Judgment and the Present Status of Reservation in India:
+The SC’s 1992 judgement:
+From 1989-1992, the Government of India sought to implement the Mandal Commission’s recommendation of
+reservation (27%) for Other Backward Classes (OBCs).
+In this context, the reservations under the Mandal Commission were challenged in the SC.
+In the Indra Sawhney vs Union of India
+or the Mandal judgement, a 9-judge Constitution bench of the SC (by a 6-3 majority) ruled that the
+total quota must never exceed 50%.
+The apex court called this limit fair and reasonable (without giving any justification) and added that the
+50% reservations rule may be deviated
+from in certain extraordinary situations.
+Present condition on reservation:
+Reservation for SCs, STs and OBCs in legislatures, higher education and public employment
+cannot exceed 50% of the total seats
+However, some states (most notable is Tamil Nadu, where the reservation is 69%), the Union government and the SC itself have
+occasionally breached it over the years.
+SC’s observations in different cases:
+Maratha reservation:
+It resulted in the increasing of the total reservations in the state to 68% and was struck down by the SC in 2021 for violating the 50% ceiling established in its 1992 judgement.
+Economically Weaker Sections (EWS) reservation:
+A five-judge Constitution bench of the court upheld the quota last year by a 3:2 majority, stating that the 50% ceiling is flexible and it was only in the context of reservations for SCs, STs and OBCs.
+Bihar had last year raised the quota for scheduled castes (SCs), scheduled tribes (STs), extremely backward classes (EBCs), and other backward classes (OBCs) in educational institutions and government jobs from 50% to 65%.
+This had been
+done after a caste survey
+showed that these groups formed
+roughly 84% of the state’s population
+A clutch of petitioners challenged -
+The Bihar Reservation of Vacancies in Posts and Services (for SC, STs and OBCs) Amendment Act, 2023 and
+The Bihar Reservation (in Admission to Educational Institutions) Amendment Act, 2023.
+The petitioner argued that there was no scientific analysis
+of the caste survey data, and that the quota increase was
+based solely on the lack of proportionate representation
+in government jobs and educational institutions.
+Arguments For and Against Reservation:
+For:
+The State Government had given this reservation due to a lack of adequate representation of these classes and not on a proportionate basis.
+Against:
+Together with the 10% EWS quota, the laws had pushed reservation in Bihar to 75%, well past the 50% ceiling set by the SC.
+After the caste survey, this decision of reservation was taken on the basis of the proportion of castes, and not on the basis of adequate representation in government jobs.
+The case of caste survey is currently pending for hearing in the SC.
+The Verdict of the Patna HC:
+It set aside the Bihar government’s laws
+as ultra vires the Constitution and violative of the equality clause under Articles 14, 15, and 16.
+The HC said the
+enhancement of reservations beyond the 50% limit
+- as set by a nine-judge bench of the SC in 1992 -
+was “bad in law”
+This is because it not only violates the principles of equality emanating from the Constitution, it
+fails to demonstrate any extenuating circumstance that could enable it to breach the 50% norm
+Patna High Court strikes down hike in Bihar’s reservations for deprived castes.pdf
+( Size:  243.4 KB  )
+Click to View More
+Polity & Governance
+**********How Dangerous is Methanol Poisoning?      
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Preventive measures to avoid consumption of Spurious liquor
+Why in the news?
+At least 38 people have died after consuming spurious liquor in Tamil Nadu’s Kallakurichi district.
+Key Points Related to the Kallakurichi District Incident in Tamil Nadu
+Incident Overview:
+As of 9:30 p.m. on June 20, at least 38 people died after consuming spurious liquor in Kallakurichi district and 82 others were receiving treatment in hospitals. The tragedy follows a similar incident a year ago in Chengalpattu and Villupuram districts, which resulted in over 20 deaths.
+Government Response:
+Chief Minister M.K. Stalin transferred the Collector and suspended the district superintendent of police. The State deployed 2,000 police personnel around the district. A one-man commission headed by former High Court judge B. Gokuldas was constituted to inquire into the tragedy.
+How is Spurious Liquor Made and Why Does it Have Deadly Effects?
+Composition:
+Spurious liquor often contains methanol in addition to ethanol. Methanol is sometimes added to increase the intoxicating effect and/or bulk volume of the homemade liquor.
+Methanol’s Deadly Effects:
+Methanol is metabolized in the liver to formaldehyde by alcohol dehydrogenase (ADH) enzymes. Formaldehyde is further metabolized to formic acid by aldehyde dehydrogenase (ALDH) enzymes. The accumulation of formic acid leads to metabolic acidosis and acidaemia, damaging various organs and leading to potential death.
+Why is Methanol added to Liquor and How is it Processed by the Body if Ingested?
+Reasons for Adding Methanol:
+To enhance the ‘kick’ or intoxicating effects of the liquor and increase the volume of the liquor cheaply.
+Processing in the Body:
+ADH enzymes convert methanol to formaldehyde.ALDH enzymes then convert formaldehyde to formic acid. The build-up of formic acid causes metabolic acidosis, optic neuropathy, cerebral oedema, hemorrhage, and potential death.
+Is Treatment Effective?
+Timeliness is Crucial:
+Early intervention is essential for effective treatment of methanol poisoning. Prompt administration of antidotes and supportive therapies significantly improves the chances of recovery and reduces the risk of severe complications such as blindness or death.
+Available Antidotes:
+Ethanol and Fomepizole are effective antidotes that inhibit the metabolism of methanol to toxic compounds. Ethanol competes with methanol for ADH enzymes, while fomepizole directly inhibits these enzymes, preventing the formation of harmful formaldehyde and formic acid.
+Supportive Therapies:
+Hemodialysis can effectively remove methanol and its toxic metabolites from the bloodstream, while folinic acid helps break down formic acid. These treatments, when combined with antidotes, can mitigate the damage to vital organs and improve patient outcomes.
+Way forward:
+Strict Regulation and Monitoring:
+Enhance regulatory oversight of liquor production and distribution to ensure all alcoholic beverages meet safety standards. Regular inspections and stringent enforcement of licensing laws can prevent the production and sale of illicit alcohol.
+Public Awareness and Education:
+Conduct widespread public education campaigns to inform the community about the dangers of consuming spurious liquor. Awareness programs can help people recognize the signs of adulterated alcohol and understand the severe health risks associated with its consumption.
+Mains PYQ:
+Effectiveness of the government system at various levels and people’s participation in the governance system are interdependent.” Discuss their relationship with each other in the context of India.
+(UPSC IAS/2016)
+**********Why the Russia-North Korea pact is a big deal? 
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Bordering countries and water bodies near North Korea
+Mains level:
+Strategic Implications of Pact
+Why in the news?
+Russia’s President Vladimir Putin concluded his recent visit to Pyongyang with a significant agreement: both Russia and North Korea pledged to provide swift military aid in the event of armed aggression against either nation.
+Historical Context
+Post-World War II Context: The
+Soviet Union aimed to establish a communist regime in Korea.USSR provided Significant military aid provided to North Korea’s founder, Kim Il Sung, during the Korean War. Post-war support from the USSR and China included substantial military and other aid to North Korea.
+1961 Russo-North Korea Treaty:
+The Treaty of Friendship, Cooperation, and Mutual Assistance included a mutual defence agreement.
+Post-Soviet Union Period:
+Relations deteriorated after the Soviet Union dissolved in 1991, voiding the treaty.
+Early 2000s Reconnection:
+Under Putin, Russia moved closer to North Korea despite not supporting its nuclear ambitions initially. Supported sanctions against North Korea aimed at curbing nuclear capabilities.
+Post-2022 Dynamics:
+After Russia’s invasion of Ukraine, Russia faced international isolation. Russia and North Korea solidified their alliance against the Western liberal order.
+What the Pact Says
+Scope of Cooperation:
+Cooperation on a wide range of issues, including mutual military support and unspecified technological assistance.
+Mutual Defense Provision:
+Under Article 4 of the Pact in case of armed invasion, the other side shall provide military and other assistance without delay, following Article 51 of the UN Charter and respective national laws.
+Technological Assistance:
+Crucial for North Korea, which currently has nuclear weapons but lacks advanced missile guidance systems and other technologies for long-range nuclear weapons.
+Direct Threat to South Korea and Japan:
+Both countries perceive the pact as a security threat due to North Korea’s nuclear capabilities and the added Russian security umbrella.
+Potential Arms Race:
+Japan is revisiting its pacifist stance and enhancing military capabilities, while South Korea is considering new defence strategies, potentially including arms exports.
+Strengthening of US Alliances:
+South Korea and Japan are likely to deepen their alliances with the United States in response to heightened regional security concerns.
+NATO and Global Security:
+The pact raises alarms among NATO allies and other global stakeholders, prompting reassessments of security strategies and commitments.
+Nuclear Proliferation Concerns:
+Increased collaboration between Russia and North Korea could lead to advancements in North Korea’s nuclear and missile capabilities, impacting global non-proliferation efforts.
+Global Strategic Repercussions:
+The pact sets a precedent for authoritarian regimes aligning against Western liberal orders, influencing geopolitical strategies and alliances beyond Asia.
+Way forward:
+Enhanced Diplomatic Engagement and Dialogue:
+Engage in robust diplomatic efforts to mitigate tensions and enhance transparency regarding the intentions behind the Russia-North Korea pact. Encourage multilateral dialogues involving key stakeholders such as the United States, South Korea, Japan, and other concerned parties to foster mutual understanding and reduce the likelihood of miscalculation.
+Reinforcement of Regional Security Mechanisms:
+Strengthen existing regional security mechanisms, particularly alliances with the United States underpinned by treaties such as the Mutual Defense Treaty with Japan and the mutual defence commitments with South Korea.
+Mains PYQ:
+What is the significance of Indo-US defence deals over Indo-Russian defence deals? Discuss with reference to stability in the Indo-Pacific region.
+(UPSC IAS/2020)
+**********Can GM Crops promise Food Security?
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+GM crop in India
+Mains level:
+Are Non-GM Ecological Crops Also a Food Security Solution?
+Why in the news?
+A new “gene revolution” is being promoted as a solution to increasing global food demand and the impact of climate change on agriculture.
+What does the World Economic Forum (WEF) say?
+The WEF supports GM technology and believes it can help ensure food security for a global population expected to reach 10 billion by 2050.
+Research into new strains of rice, maize, wheat, potato, and cassava can help these staples survive extreme weather and new climate-induced diseases.
+Latest bioengineering technologies can help plants and soils capture and store atmospheric carbon, potentially reducing planet-heating carbon.
+Projects are optimizing photosynthesis in crops like maize and rice to improve yields and reduce atmospheric carbon.
+Industrial-Scale GMOs Perpetuate Climate Change
+Critics argue that GM crops sustain an “agro-industrial system” responsible for significant greenhouse gas emissions. Current food systems contribute to around one-third of global greenhouse gas emissions.
+GMOs often involve large-scale monocultures requiring significant amounts of artificial fertilizers, pesticides, and irrigation.
+This system is criticized for being energy-intensive and unsustainable, benefiting large agro-industrial companies that dominate the seed, food, pesticide, and fertilizer markets.
+What is the Present Scenario?
+Over half of harvested cropland in the US uses genetically modified seeds.
+Despite the proliferation of GM crops, food insecurity remains widespread, with 250 million people in nearly 60 countries experiencing crisis-level food insecurity.
+Successful campaigns, like in the Philippines, have led to production moratoriums on certain GM crops due to health and ecological concerns.
+Resistance to GMOs persists, with scepticism about their safety and ecological impact.
+Non-GM ecological approaches face challenges due to limited research support, as most funding comes from large agri-biotech companies.
+Ecological, non-GM crops aim to produce toxic-free food and nurture biodiverse ecosystems that can resist and mitigate climate change.
+There is ongoing development of ecological, non-GM seed, food, and nutrition systems to address food security in a warming world.
+Way forward:
+Enhanced Regulatory Oversight and Support for Ecological Practices:
+Strengthen regulations to ensure the safe development, testing, and deployment of GM crops while supporting research and development of non-GM ecological farming practices.
+Public Awareness and Inclusive Research Funding:
+Launch comprehensive public education campaigns to inform communities about the benefits and risks of GM and non-GM crops, promoting informed decision-making.
+Note:
+India has approved the commercial cultivation of
+only one GM crop, Bt cotton.
+No GM food crop has been approved for commercial cultivation in the country.
+Mains PYQ:
+What are the present challenges before crop diversification? How do emerging technologies provide an opportunity for crop diversification?
+(UPSC IAS/2021)
+**********What is ‘Blood Money’ in Islamic Law?
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Principle of Diyya; Reparative Justice
+Why in the News?
+The
+Indian Government
+has approved the transfer of the sum of $40,000 for preliminary discussions regarding the
+release
+Nimisha Priya from a Yemeni prison
+.
+Currently, Priya’s mother is in Yemen, trying to waive her death penalty by paying “blood money” to the murdered man’s family.
+Nimisha Priya’s Case Details
+Priya, a nurse, moved to Yemen in 2008 and married Tomy Thomas in 2011 before returning to Yemen.
+She faced abuse and exploitation by Talal Abdo Mahdi, leading to the tragic events resulting in Mahdi’s death and Priya’s arrest.
+The $40,000 payment aims to initiate negotiations for Priya’s release.
+To waive the death penalty, Priya’s family may need to raise $300,000-$400,000.
+The ‘Save Nimisha Priya International Action Council’ is fundraising to meet this requirement.
+What is Blood Money?
+According to Islamic law,
+victims of crimes
+have a
+say in how criminals are to be punished
+In the case of murder, this principle applies to the
+families of victims
+Although murder is punished via the death penalty, the victim’s family (specifically, heirs) may choose to “forgive” the murderer in exchange for
+monetary compensation
+This is the
+principle of
+Diyya,
+or, as it is commonly referred to “
+”.
+It can be traced to the
+Holy Quran
+Applicability:
+Blood money is applicable in cases of
+unintentional homicide
+Qatl Khata
+) or accidental death, as well as in cases of bodily injury or harm caused by negligence or unintentional actions.
+Practical Implications of Blood Money
+Scholars believe that the idea behind this is to encourage the
+virtue of forgiveness
+, while also providing
+reparative justice
+to the victims’ family.
+The scriptures
+do not set any specific amount
+as compensation.
+The sum is generally arrived at via
+between the murderer’s family/representatives and the victim’s family.
+Some Islamic countries, however, have set
+minimum compensation
+amounts.
+Significance of Blood Money
+Forgiveness
+from the victim’s family is highly encouraged and considered
+virtuous in Islam
+Blood money aims to
+prevent cycles of vengeance or retaliation
+(Qisas) that could lead to further social harm or conflict.
+It promotes
+reconciliation
+and mutual understanding.
+**********In news: PARIVESH Portal
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Kerala is set to construct a ropeway in Sabarimala by compensating the Forests department with alternative land at Chinnakkanal in Idukki.
+The 2.7-kilometre-long ropeway aims to transport goods from the Pampa base station to the Sabarimala Sannidhanam.
+Once the land is transferred for compensatory afforestation, an application will be submitted in the PARIVESH portal for clearance from the Ministry of Environment and Forests.
+What is PARIVESH Portal?
+PARIVESH, which stands for
+ro-
+ctive and
+esponsive facilitation by
+nteractive
+irtuous &
+nvironmental
+ingle-window
+ub.
+It is an online portal
+developed by
+Ministry of Environment, Forests, and Climate Change
+It is designed to streamline and expedite the process of obtaining
+clearances related to environment
+, forests, wildlife, and
+Coastal Regulation Zone (CRZ)
+from central, state, and district-level authorities.
+Purpose and Scope:
+PARIVESH is intended to enhance efficiency, transparency, and accountability in the clearance processes for environment, forests, wildlife, and CRZ.
+It aims to reduce the turnaround time for obtaining clearances and improve responsiveness through workflow automation and real-time information availability.
+Functionality:
+It serves as a
+role-based, web-based workflow application
+where user agencies can submit proposals online for clearances.
+It operates on a
+Web Architecture using IIS
+as an Application Server, .NET framework, and SQL Server as a database server.
+Benefits to Users:
+Allows for
+online submission and monitoring
+of compliance reports, including geo-tagged images of sites through a Mobile App, enhancing compliance monitoring.
+Integrates
+Geographic Information System (GIS) interface
+for Appraisal Committees to analyze proposals efficiently.
+Accessible 24×7
+from any PC with internet connectivity, ensuring continuous availability for users across different locations and time zones.
+PYQ:
+[2019]
+Consider the following statements:
+The Environment Protection Act, 1986 empowers the Government of India to
+State the requirement of public participation in the process of environmental protection, and the procedure and manner in which it is sought.
+Lay down the standards for emission or discharge of environmental pollutants from various sources
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********10th International Yoga Day
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Prime Minister Narendra Modi is leading the celebrations of the 10th International Day of Yoga at the Sher-e-Kashmir International Convention Centre (SKICC) in Srinagar.
+About International Day of Yoga
+The International Day of Yoga is observed
+annually
+June 21
+worldwide
+since 2014
+to celebrate the practice of Yoga, which originated in ancient India.
+Yoga is renowned for its
+physical and mental health benefits
+, promoting well-being globally.
+PM Modi proposed the idea of a Yoga Day during his
+UN address
+September
+December 2014
+, India’s Permanent Representative to the UN introduced the
+draft resolution
+in the UN General Assembly.
+It was
+adopted
+with support from
+177 countries
+without a vote.
+first International Day of Yoga
+was successfully celebrated on
+June 21, 2015
+, in cities around the world, including New York, Paris, Beijing, and New Delhi.
+Why 21
+June was chosen for this day?
+The date of June 21 was chosen because it is the
+longest day of the year
+in the Northern Hemisphere, symbolizing
+spiritual significance
+across various cultures.
+In Hindu mythology, this day marks the
+transition to Dakshinayana
+and is associated with the
+first yogi, Shiva
+, who
+began teaching Yoga
+to humanity.
+Back2Basics: Yoga
+Yoga originated in ancient India and has its roots in Indian philosophy, spirituality, and culture.
+The word “yoga” is derived from the Sanskrit word “yuj,” which means “to join” or “to unite.” It signifies the union of mind, body, and spirit.
+Historical References:
+Yoga-like practices were mentioned in the Rig-Veda, an ancient Hindu text dating back to approximately 1500 BCE.
+References to yoga can also be found in the Upanishads, which are philosophical texts from around 800 to 400 BCE.
+Contributions of Sage Patanjali:
+Patanjali is considered the father of classical yoga.
+He compiled the Yoga Sutras, a foundational text that provides a systematic and philosophical framework for the practice of yoga.
+The Yoga Sutras were written around the 2nd century BCE.
+Eight Limbs of Yoga:
+Patanjali’s Yoga Sutras outline the eight limbs or stages of yoga, known as Ashtanga Yoga. These limbs include:
+Ethical principles (
+yamas
+),
+Positive duties or observances (
+niyamas
+Physical postures (
+asanas
+Breath control (
+pranayama
+Sense withdrawal (
+pratyahara
+Concentration (
+dharana
+Meditation (
+dhyana
+), and
+Self-realization (
+samadhi
+).
+Schools and Styles:
+There are various schools and styles of yoga, each with its own approach and emphasis. Some popular styles include Hatha, Vinyasa, Ashtanga, Iyengar, Bikram, Kundalini, and Yin yoga.
+PYQ:
+[2014]
+Which one of the following pairs does not form part of the six systems of Indian Philosophy?
+(a) Mimamsa and Vedanta
+(b) Nyaya and Vaisheshika
+(c) Lokayata and Kapalika
+(d) Sankhya and Yoga
+**********Striped Caecilian: Limbless Amphibian spotted in Kaziranga’s fauna
+Species
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Striped Caecilian, Herpetofauna
+Why in the News?
+A limbless amphibian, the
+striped caecilian (Ichthyophis spp)
+, has been newly identified within the 1,307.49 sq. km
+Kaziranga National Park and Tiger Reserve
+Assam’s wildlife officials reported its discovery during a herpetofauna survey.
+Back2Basics: Herpetofauna
+Herpetofauna refers to a group of
+reptiles and amphibians
+collectively.
+The term combines “herpeto-” from the Greek “herpeton,” meaning “creeping animal,” and “fauna,” referring to the animal species found in a particular region or time.
+Herpetofauna play essential roles in ecosystems:
+They act as both predators and prey, help regulate insect populations, and serve as indicators of environmental health.
+They serve as environmental indicators and play significant roles in pest control.
+About Striped Caecilian
+The Striped Caecilian (Ichthyophis spp.) is a type of
+belonging to the family
+Ichthyophiidae
+Caecilians are often
+mistaken for snakes
+or worms
+due to their elongated, cylindrical bodies and lack of limbs.
+They are primarily
+found in tropical regions of Africa, Asia, and the Americas
+They usually live
+underground
+or in moist
+soil habitats
+Key features of the Striped Caecilian include:
+They have smooth, cylindrical bodies with a
+ringed or striped pattern
+, hence the name “striped.”
+Caecilians are predominantly
+fossorial (burrowing)
+, spending most of their lives underground or in leaf litter. This behaviour makes them elusive and difficult to study.
+carnivorous
+, feeding on small invertebrates found in soil and leaf litter.
+Their
+eyesight is generally poor
+, and they
+rely on chemoreception
+sensing chemicals in the environment
+) to locate prey.
+Caecilians are known for their unique reproductive strategies, which can involve
+live births
+laying eggs
+. Some species exhibit parental care, with adults guarding eggs or young offspring.
+Significance: Kaziranga’s Biodiversity
+Kaziranga National Park’s diverse ecosystem, encompassing flood plains, wetlands, grasslands, and hill tracts, provides an ideal habitat for herpetofauna.
+The park hosts 24 amphibian species, 74 reptile species, and 21 of India’s 29 species of tortoises and freshwater turtles.
+About Kaziranga National Park
+Details
+Location
+Assam, India
+Geographical Features
+Situated between
+Brahmaputra River
+Karbi (Mikir) Hills
+Eastern Himalayan Biodiversity Hotspot
+Rivers
+Diphlu River
+runs through the park
+Highways
+National Highway 37 passes through the park
+Legal Status
+Designated as a National Park in 1974.
+UNESCO World Heritage Site (1985).
+Important Bird Area by Birdlife International
+Key Conservation Achievements
+Houses around 2/3rd of the world’s Great Indian One-Horned Rhinoceros.
+Declared a Tiger Reserve due to high tiger density
+‘Big Five’ species
+Great Indian One-Horned Rhino, Asian Elephant, Royal Bengal Tiger, Asiatic Water Buffalo, Swamp Deer
+Aquatic Species
+Gangetic River Dolphin
+Vegetation
+Wet Alluvial Grasslands, Tropical Moist Deciduous Forests, Semi-Evergreen
+PYQ:
+[2024]
+The organisms “Cicada, Froghopper and Pond skater are:
+(a) Birds
+(b) Fish
+(c) Insects
+(d) Reptiles
+**********Proposed Amendments to Insolvency Resolution Process by IBBI
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+IBBI, IBC
+Why in the News?
+The Insolvency and Bankruptcy Board of India (IBBI)
+has
+proposed amendments
+to the Insolvency Resolution Process for Corporate Process regulations to enhance efficiency, reduce costs, and increase transparency.
+This aims to align with the Companies (Registered Valuers and Valuation) Rules and streamline the Corporate Insolvency Resolution Process (CIRP).
+Do You Know?
+Since its enactment, the IBBI has achieved
+notable successes
+in resolving insolvency cases and recovering debts:
+Debt Resolution:
+The IBC has successfully resolved Rs. 3.16 lakh crore of debt across 808 cases within seven years (as per CRISIL).
+Higher Recovery Rates:
+Creditors have realized an average of 32% of admitted claims and 169% of the liquidation value through IBC proceedings, demonstrating higher recovery rates compared to previous mechanisms.
+Behavioural Change:
+Companies have been proactively involved in the settlement of debts amounting to over Rs. 9 lakh crore before cases enter formal insolvency processes.
+Proposed amendments by IBBI
+Simplified Valuation
+: Instead of separate reports for different types of assets, there will be one comprehensive valuation report covering the entire company. This helps in keeping valuation consistent and clear.
+Single Valuer for Small Companies
+: For smaller companies with assets up to ₹1,000 crore and MSMEs, only one valuer will be appointed to determine the company’s value unless there’s a good reason for more than one.
+Option for Two Valuers
+: If needed, the creditors’ committee can choose to have two valuers to deal with complex cases, but they have to explain why.
+Faster Appointment of Representatives
+: Representatives appointed to represent creditors can start participating in meetings as soon as their application is submitted, to avoid delays.
+Guarantees in Resolution Plans
+: If a resolution plan suggests releasing guarantees, it won’t stop creditors from going after guarantors or using the guarantees according to their agreements.
+About Insolvency and Bankruptcy Board of India (IBBI)
+Details
+Establishment
+Established on 1st October 2016 under the Insolvency and Bankruptcy Code (IBC), 2016.
+Objective:
+To promote a creditor-driven insolvency resolution process and enhance India’s credit culture and business environment.
+Responsibility
+Responsible for implementing and enforcing the IBC,
+IBC consolidated laws related to insolvency resolution for individuals, partnership firms, and corporate entities.
+Functions
+Regulates insolvency professionals and processes.
+Oversees insolvency professional agencies, entities, and information utilities.
+Enforces rules for corporate and individual insolvency resolution, liquidation, and bankruptcy.
+Sets eligibility criteria and curriculum for insolvency professionals.
+Collects and maintains records on insolvency cases and disseminates related information.
+Composition
+Total 10 members
+Chairperson
+appointed by the Central Government.
+Three members
+from central government officers (Ministries of Finance, Corporate Affairs, Law).
+One member
+nominated by RBI (Reserve Bank of India).
+Five other members
+nominated by the Central Government, including at least three full-time members.
+The term is
+5 years
+or until
+age 65
+, with reappointment possible.
+Adjudicating Authorities under the IBC:
+Under the IBC, two primary adjudicating authorities handle insolvency cases based on the nature of the entity:
+National Company Law Tribunal (NCLT):
+NCLT adjudicates insolvency cases involving corporate entities and other limited liability entities.
+Debt Recovery Tribunal (DRT):
+DRT has jurisdiction over insolvency cases concerning individuals and partnership firms, excluding Limited Liability Partnerships (LLPs).
+Recent Amendments to the IBC:
+Approval for segregated sale of assets or resolution plans.
+Increase in the number of NCLT benches to 16 for faster adjudication.
+Extension of timelines for filing claims to accommodate procedural complexities.
+Sector-specific amendments tailored to address unique challenges in various industries.
+Modifications in procedural forms such as Form G2 to enhance clarity and efficiency in insolvency proceedings.
+PYQ:
+[2017]
+Which of the following statements best describes the term ‘Scheme for Sustainable Structuring of Stressed Assets (S4A)’, recently seen in the news?
+(a) It is a procedure for considering the ecological costs of developmental schemes formulated by the Government.
+(b) It is a scheme of RBI for reworking the financial structure of big corporate entities facing genuine difficulties.
+(c) It is a disinvestment plan of the Government regarding Central Public Sector Undertakings.
+(d) It is an important provision in ‘The Insolvency and Bankruptcy Code’ recently implemented by the Government.
+**********
