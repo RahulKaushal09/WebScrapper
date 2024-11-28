@@ -1,0 +1,1361 @@
+PAN 2.0
+Syllabus:
+Prelims –  CURRENT EVENT
+Context:
+The Cabinet approved the PAN 2.0 Project of the Income Tax Department (ITD), with a cost of Rs 1,435 crore.
+Background: –
+The project aims to streamline and modernise the process of issuing and managing PAN and TAN, making it more user-friendly and efficient.
+Key takeaways
+PAN 2.0 Project is an e-Governance project of ITD for re-engineering the business processes of taxpayer registration services.
+Under the project, the existing PAN system will be upgraded completely, the IT backbone will be revamped and PAN will be made as a common business identifier for all digital systems of specified government agencies.
+How PAN 2.0 will be different from existing setup?
+Integration of Platforms: Currently, PAN-related services are spread across three different platforms: the e-Filing Portal, UTIITSL Portal, and Protean e-Gov Portal. With the implementation of PAN 2.0, all these services will be integrated into a single, unified portal. This one-stop platform will handle comprehensively issues/matters related to PAN and TAN, including application, updates, corrections, Aadhaar-PAN linking, re-issuance requests, and even online PAN validation.
+Comprehensive use of technology for paperless processes: Complete online paperless process as against prevailing mode
+Taxpayer facilitation:  Allotment/updation/correction of PAN will be done free of cost and e-PAN will be sent to the registered mail id. For physical PAN card, the applicant has to make a request along with the prescribed fee
+About PAN and TAN
+A 10-digit alphanumeric number, PAN, enables the Income Tax Department to link all transactions of a person with the department. These transactions include tax payments, Tax Deducted at Source (TDS) / Tax Collected at Source (TCS) credits, returns of income, specified transactions.
+Once PAN is allotted, it remains the same forever. It is mandatory to quote PAN on filing of income tax return.
+TAN stands for Tax Deduction and Collection Account Number, which is a 10-digit alphanumeric number issued by the Income Tax Department.
+TAN needs to be obtained by all persons responsible for deducting or collecting tax at source.It is compulsory to quote TAN in TDS/TCS return, any TDS/TCS payment challan, TDS/TCS certificates.
+Source:
+PIB
+**********
+CYCLONE DEVELOPING IN BAY OF BENGAL, HEADING TOWARDS TAMIL NADU
+Prelims – GEOGRAPHY
+India Meteorological Department (IMD) recently announced intensification of the existing deep depression into a cyclone and the chances of the storm hitting the Tamil Nadu coast.
+Flanked by the sea on three sides, India’s east and west coasts are affected by cyclones, annually.
+The storm will be identified as Fengal, a name proposed by Saudi Arabia.
+This is the second cyclone in the post-monsoon season to affect the Indian coast after Cyclone Dana, which crossed Odisha as a ‘severe’ category storm in late October.
+Climatologically, about five cyclones develop in the North Indian Ocean basin — comprising the Bay of Bengal and the Arabian Sea — each year. Of these, an average of four cyclones develop over the Bay of Bengal and one over the Arabian Sea. This basin is most prone to cyclone development during the pre-monsoon season (April – June) and post-monsoon season (October – December) months.
+About Tropical Cyclones
+A “Cyclonic Storm’ or a “Cyclone” is an intense vortex or a whirl in the atmosphere with very strong winds circulating around it in anti-clockwise direction in the Northern Hemisphere and in clockwise direction in the Southern Hemisphere.
+Tropical cyclones are those which develop in the regions between the Tropics of Capricorn and Cancer. They are the most devastating storms on Earth.
+Tropical cyclones are also referred to as ‘Hurricanes’ over Atlantic Ocean, ‘Typhoons’ over Pacific Ocean, ‘Willy-Willies’ over Australian Seas and simply as ‘Cyclones’ over north Indian Ocean (NIO).
+Structure:
+Eye: Calm, cloud-free center.
+Eye Wall: Region of strongest winds and rainfall around the eye.
+Rain Bands: Spiral bands of thunderstorms extending outward.
+Favourable Conditions for Formation
+Warm Ocean Waters: Sea surface temperatures >26.5°C provide the energy source.
+Coriolis Effect: Ensures rotation; absent at the equator.
+Low Wind Shear: Allows vertical development of storm clouds.
+Pre-existing Disturbance: Initial low-pressure zone.
+Cyclone Formation Process (Cyclogenesis):
+Warm ocean heats the air above, causing it to rise and create a low-pressure zone.
+Moist air from surrounding areas rushes in, rises, and condenses, releasing latent heat.
+The Coriolis effect initiates rotation, forming a spiraling system.
+The cyclone intensifies as it absorbs more heat and moisture.
+Indian Express
+**********
+HIGH SEAS TREATY
+Prelims & Mains – ENVIRONMENT
+India’s recent signing of the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement — better known as the High Seas Treaty — has drawn both praise and scepticism from maritime observers
+So far, 105 countries have signed the treaty which is ratified by 14 countries. The High Seas treaty would come into force 120 days after at least 60 countries submit their formal ratification documents.
+About High Seas Treaty
+The high seas comprise 64 percent of the ocean surface and about 43 percent of the Earth. They belong to no one, and everyone enjoys equal rights for navigation, overflight, economic activities, scientific research, and the laying of infrastructure like undersea cables.
+As high seas are no one’s responsibility this has led to the overexploitation of resources, biodiversity loss, pollution, including dumping of plastics, ocean acidification, and many other problems.
+The High Seas Treaty has four main objectives:
+Demarcation of marine protected areas (MPAs), rather like there are protected forests or wildlife areas;
+Sustainable use of marine genetic resources and equitable sharing of benefits arising from them;
+Initiation of the practice of environmental impact assessments for all major activities in the oceans; and
+Capacity building and technology transfer.
+Marine-Protected Areas: MPAs are where ocean systems, including biodiversity, are under stress, either due to human activities or climate change. Activities in these areas will be highly regulated, and conservation efforts similar to what happens in forest or wildlife zones will be undertaken.
+Marine Genetic Resources: Oceanic life forms can be useful for humans in areas like drug development. Genetic information is already being extracted, and their benefits are being investigated. The treaty seeks to ensure that benefits arising out of such efforts, including monetary gains, are free from strong intellectual property rights controls, and are equitably shared amongst all. The knowledge generated from is also supposed to remain openly accessible to all.
+Environment Impact Assessments: The treaty makes it mandatory to carry out a prior environmental impact assessment (EIA) for any activity that is potentially polluting or damaging to the marine ecosystems, or to conservation efforts. An EIA is to be carried out for activities within national jurisdictions as well if the impacts are expected in the high sea.
+Capacity building and technology transfer: The treaty lays emphasis on this because a number of countries, especially small island states do not have the resources or the expertise to participate in the conservation efforts, or to take benefits from the useful exploitation of marine resources. At the same time, the obligations put on them by the Treaty can be an additional burden.
+**********
+DESIGN LAW TREATY (DLT)
+Prelims – CURRENT EVENT
+India has signed Riyadh Design Law Treaty, which seeks to harmonise procedures and simplify registration processes of industrial designs in different countries.
+After nearly two decades of negotiations, the member states of the World Intellectual Property Organization (WIPO) adopted the landmark Design Law Treaty (DLT).
+The Design Law Treaty (DLT), also known as the Riyadh Design Law Treaty, is an international legal instrument adopted by the World Intellectual Property Organization (WIPO) in Riyadh on November 22, 2024.
+Objectives:
+Harmonize Procedural Frameworks: The DLT aims to harmonize the procedural aspects of industrial design protection globally. This includes standardizing registration processes to make it easier and more affordable for designers to protect their work both domestically and internationally.
+Promote Innovation: By simplifying the design protection process, the treaty seeks to promote innovation and creativity, particularly among small and medium-sized enterprises (SMEs), startups, and independent designers.
+Key Provisions:
+Relaxed Time Limits: The treaty introduces more flexible deadlines for filing and submissions, giving applicants greater leeway.
+Restoration of Lost Rights: There is a mechanism to restore rights in case of lapses, ensuring that applicants can recover lost opportunities.
+Priority Claims: Provisions have been added to make it easier to correct or add priority claims.
+Multiple Designs: Applicants can file multiple designs in a single application, saving time and costs.
+Electronic Systems: The treaty encourages countries to adopt electronic systems for design registration and facilitate the digital exchange of priority documents.
+Impact:
+Global Competitiveness: By streamlining design protection processes, the DLT aims to boost the global competitiveness of designers and businesses.
+Environmental Benefits: The move towards electronic systems and paperless processes aligns with sustainability goals, reducing the environmental impact of design registration.
+Support for SMEs and Startups: The treaty is particularly beneficial for SMEs, startups, and independent designers, empowering them to secure design rights more easily worldwide.
+**********
+OPHIOPHAGUS KAALINGA
+Prelims  – ENVIRONMENT
+King cobra found in the Western Ghats and known as ‘Kaalinga Sarpa’ in the local parlance is officially named Ophiophagus Kaalinga.
+The name Kaalinga is deeply rooted in Kannada culture.
+<img alt="" class="size-medium wp-image-199975 aligncenter" decoding="async" fetchpriority="high" height="211" sizes="(max-width: 300px) 100vw, 300px" src="https://iasbaba.com/wp-content/uploads/2024/11/28-300x211.png" srcset="https://iasbaba.com/wp-content/uploads/2024/11/28-300x211.png 300w, https://iasbaba.com/wp-content/uploads/2024/11/28.png 606w" width="300"/>
+king cobra, whose habitat spreads across South Asia and Southeast Asia, was believed to belong to one species till a nearly decade-long research led by noted herpetologist, P. Gowri Shankar, brought to the fore four species of king cobra, of which Ophiophagus Kaalinga is one.
+Ophiophagus kaalinga, the Western Ghats king cobra, is a species of King cobra endemic to the Western Ghats of south-western India.
+It is found in Tamil Nadu, Kerala, Karnataka, Goa, and parts of Maharashtra. Its range extends from the Ashambu hills near Kanyakumari through various mountain ranges, including the Agasthyamalai and Cardamom hills, reaching elevations of about 100 m to 1800 m above sea level.
+The species is hill-dwelling and thrives in mid-elevation rainforests (500–900 m) but can also be found in lower foothills and montane forests.
+The specific epithet kaalinga comes from the Kannada language of Karnataka, India, meaning “dark” or “black”.
+As a member of the king cobra family, the Western Ghats king cobra is also considered as “vulnerable” under the IUCN Red List.
+The king cobras are the only snakes in the world to build nests and the female king cobras are found ferociously guarding them.
+The Hindu
+**********
+Daily Practice MCQs
+Q1.) Which of the following statements about tropical cyclones is/are correct?
+Tropical cyclones are also referred to as ‘Willy-Willies’ over the Atlantic Ocean.
+The formation of tropical cyclones requires a pre-existing low-pressure zone.
+Tropical cyclones rotate clockwise in the Northern Hemisphere and anti-clockwise in the Southern Hemisphere.
+Select the correct answer using the codes given below:
+(a) 1 and 2 only
+(b) 2 only
+(c) 2 and 3 only
+(d) 1, 2, and 3
+Q2.) Consider the following statements regarding the High Seas Treaty:
+The treaty aims to demarcate Marine Protected Areas (MPAs) similar to protected forest zones.
+It mandates prior Environmental Impact Assessments (EIAs) only for activities within national jurisdiction.
+The treaty promotes the equitable sharing of benefits arising from marine genetic resources.
+Which of the statements given above is/are correct?
+(a) 1 and 3 only
+(b) 2 and 3 only
+(c) 1 only
+Q3.) With reference to Ophiophagus kaalinga, consider the following statements:
+It is a newly identified species of king cobra found in the Eastern Ghats.
+The name “kaalinga” is derived from the Kannada language and signifies “dark” or “black.”
+The species is classified as vulnerable under the IUCN Red List.
+(c) 1 and 3 only
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********Surface Hydrokinetic Turbine Technology
+Recently, the Central Electricity Authority (CEA) has recognized Surface Hydrokinetic Turbine (SHKT) technology under the Hydro Category to drive innovations and explore alternate technologies.
+About Surface Hydrokinetic Turbine Technology:
+It uses
+kinetic energy of flowing water
+with practically zero potential head for generation of electrical energy unlike conventional units, which utilize potential energy of water through construction of
+suitable civil structures such as dam,
+diversion weir and barrages for creation of necessary 'Head'.
+Advantages
+This technology
+supports
+the power sector
+in meeting the
+growing demand for base-load, round-the-clock renewable energy
+, especially in areas with poor grid accessibility.
+Surface Hydrokinetic turbines are
+easy to install and cost-effective.
+provides a win-win
+situation both for renewable energy buyers and generators.
+Adoption of SHKT technology shall mark a significant milestone in leveraging India’s extensive water infrastructure, including canals, hydropower tailrace channels, etc. for sustainable energy generation.
+This technology has huge potential in GW scale
+with a lot
+opportunities to harness renewable energy
+, leading to overall growth
+of the power
+Click to View More
+Source :
+CEA recognizes indigenously developed Surface Hydrokinetic Turbine Technology under Hydro Category
+Science & Tech
+**********SAREX-24
+The 11th edition of Indian Coast Guard’s National Maritime Search and Rescue Exercise & Workshop (SAREX-24) will be in Kochi, Kerala on November 28-29, 2024.
+About SAREX-24:
+It is conducted under the aegis of
+National Maritime Search and Rescue Board.
+The theme of the exercise is
+‘Enhancing Search and Rescue capabilities through Regional collaboration’
+It signifies ICG’s commitment to provide succor during large-scale contingencies regardless of location, nationality or circumstances in the Indian Search & Rescue Region and beyond.
+This event will feature various programmes, including
+table-top exercise, workshop & seminars involving participation
+of senior officials from government agencies, Ministries & Armed Forces, various stakeholders and foreign delegates.
+sea exercise involving
+two large scale contingencies will be carried out off the Kochi coast with participation of ships & aircraft of ICG, Navy, Indian Air Force, Passenger Vessel & Tug from Cochin Port Authority and boats from the Customs.
+The response matrix in the sea exercise will
+involve various methods to evacuate distressed passengers
+, wherein the advent of new-age technology using satellite-aided distress beacons, drones to deploy a life buoy, air droppable life rafts, operation of remote controlled life buoy will be demonstrated.
+The exercise is designed not only to evaluate efficiency of operations and coordination with national stakeholders, but also to
+aptly focus on cooperative engagements with the littorals and friendly countries.
+Click to View More
+Source :
+Defence Secretary to inaugurate 11th National Maritime Search and Rescue Exercise & Workshop of Indian Coast Guard in Kochi
+Polity & Governance
+**********Network Readiness Index
+India has improved its position by eleven slots and is now placed at 49th rank as per the Network Readiness Index 2024 (NRI 2024) report released on 21st November 2024.
+About Network Readiness Index:
+It maps the network-based readiness
+landscape of 133 economies
+based on their performances in
+four different pillars:
+Technology, People, Governance
+and Impact, covering a total of 54 variables.
+The report has been
+published by the Portulans Institute,
+an independent non-profit research and educational institute based in Washington DC.
+Highlights of the report
+India has not only improved its ranking, but also improved its score from 49.93 in 2023 to 53.63 in 2024. It is noteworthy that India leads in several indicators.
+The report states that India secured 1st rank in
+‘AI scientific publications’
+, ‘AI talent concentration’ and
+‘ICT services exports’
+, 2nd rank in
+‘FTTH/Building Internet subscriptions’,
+‘Mobile broadband internet traffic within the country’ and ‘International Internet bandwidth’, 3rd rank in
+‘Domestic market scale’
+and 4th rank in ‘annual investment in telecommunication services
+India has ranked
+2nd in the group of lower-middle-income countries
+after Vietnam.
+As per the report, India has
+demonstrated significant digital progress
+, with notable strengths in technological innovation and digital transformation.
+Click to View More
+Source :
+India climbs up eleven slots to be among Top 50 Countries in Network Readiness Index 2024
+International Relations
+**********OPCW- The Hague Award
+The 2024 OPCW - The Hague Award was conferred upon the Indian Chemical Council (ICC) at a ceremony during the 29th Session of the Conference of the States Parties (CSP) of the Organisation for the Prohibition of Chemical Weapons (OPCW) at Hague.
+About OPCW- The Hague Award:
+The Organisation for the Prohibition of Chemical Weapons (OPCW) established the ‘OPCW-The Hague Award’ in collaboration with the
+Municipality of The Hague in 2014.
+It is part of the OPCW’s ongoing effort to highlight significant contributions made by
+individuals and organisations,
+widely from academia, researchers, chemical industry, and civil society to achieve a
+world free of chemical weapons.
+Recipient of the award receives
+a medallion, a certificate
+and share of
+the €90,000 award fund.
+Key facts about the Indian Chemical Council (ICC):
+It is India's premier body
+representing the chemical industry
+which was established in 1938.
+It is the apex national body
+representing all branches of the Chemical Industry in India
+such as Organic & Inorganic Chemicals, Plastics & Petrochemicals & Petroleum Refineries etc.
+The Ministry of Commerce & Industry, Government of India, has authorised all ICC offices (Mumbai, New Delhi, Kolkata and Chennai) to
+issue the CERTIFICATE OF ORIGIN for the exporters.
+Initiatives of ICC:
+ICC’s
+‘Nicer Globe’ initiative
+has had a substantial impact on chemical transportation safety in India, offering real-time monitoring and emergency response capabilities.
+It has conducted other activities to promote chemical safety and security through its
+‘Responsible Care’ (RC) programme
+and the introduction of the Security Code of RC.
+Do you know?
+is the implementing body of the
+Chemical Weapons Convention
+(CWC).
+Its mission is to implement the provisions of the Chemical Weapons Convention (CWC) in order to achieve the OPCW’s vision of a
+world that is free of chemical weapons
+and of the threat of their use, and in which cooperation in chemistry for peaceful purposes for all is fostered.
+receives states-parties’ declarations detailing
+chemical weapons-related activities or materials and relevant industrial activities.
+The OPCW was awarded the
+Nobel Peace Prize in 2013.
+Headquarters:
+Hague, Netherlands.
+Click to View More
+Source :
+Indian Chemical Council Wins 2024 OPCW-The Hague Award
+International Relations
+**********E-Daakhil Portal
+The Department of Consumer Affairs recently announced the successful nationwide implementation of the E-Daakhil portal, now operational in every State and Union Territory of India.
+About E-Daakhil Portal:
+It was introduced
+as an inexpensive
+, speedy and
+hassle-free mechanism
+for
+filing consumer complaints.
+It was first launched
+2020 by the
+National Consumer Dispute Redressal Commission.
+Features
+It is an innovative online platform designed to
+streamline the consumer grievance redressal process
+, providing an efficient and convenient way for consumers to approach the relevant consumer forum, dispensing the need to travel and be physically present to file their grievances.
+The portal offers an
+intuitive and easy-to-navigate interface
+, allowing consumers to file complaints with minimal effort.
+From filing complaints to tracking their status, E-Daakhil
+ensures a paperless and transparent process
+with respect to filing of cases.
+Any consumer or Advocate can sign up
+on the e-Daakhil platforms with the required authentication by receiving an OTP on their registered cell phone or an activation link on their registered email address. They can then move on with filing a complaint.
+The portal has facilitated
+all aggrieved consumers
+to submit complaints to consumer commissions online in the comfort of their own homes, to pay the appropriate fees, and track the progress of the case online.
+accessible to consumers across all regions of India
+, from metropolitan cities to remote areas.
+Click to View More
+Source :
+Centre launches E-Daakhil across all states and union territories of India
+Polity & Governance
+**********Key Facts about Baltic Sea
+The Swedish Prime Minister has said the Baltic Sea is now a “high risk” zone as he met Nordic and Baltic leaders’ days after a suspected sabotage attack on undersea cables.
+About Baltic Sea:
+It is a
+semi-enclosed inland sea
+located in
+Northern Europe.
+It is an
+arm of the North Atlantic Ocean.
+It extends northward from the latitude of southern Denmark almost to the Arctic Circle and
+separating
+Scandinavian Peninsula
+rest of continental Europe.
+connects to
+Atlantic Ocean through the Danish Straits.
+It has a coastline of approximately 8,000 km.
+Surrounding Countries:
+Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland and Sweden.
+It covers an area of approximately 377,000
+sq.km
+. The sea is approximately 1,600 km long and 193 km wide.
+connected to
+White Sea via the White Sea Canal
+to the North Sea’s
+German Bight via the Kiel Canal.
+The Baltic Sea contains
+three major gulfs
+: the
+Gulf of Bothnia
+to the north, the
+Gulf of Finland
+to the east, and the
+Gulf of Riga
+slightly to the south
+It is often cited as the
+world’s largest brackish inland water body.
+Its wate
+r salinity levels are lower
+than that of the
+ceans due to the inflow of fresh water from the surrounding land and the sea’s shallowness.
+More than 250 rivers and streams empty
+their waters into the Baltic Sea.
+Neva
+is the
+largest river
+that drains into the Baltic Sea.
+Islands
+: It is home to over 20 islands and archipelagos.
+Gotland
+, located
+off the coast of Sweden
+, is the
+largest island
+in the Baltic Sea.
+Click to View More
+Source :
+Swedish PM says Baltic sea now ‘high risk’ after suspected cable sabotage
+Geography
+**********Jarawa Tribe
+For the first time in the history of India's election process, 19 members from the Jarawa Tribe in Andaman and Nicobar Islands had been included in India's electoral roll.
+About Jarawa Tribe:
+The Jarawas are an
+indigenous tribe
+which lives in the
+Andaman Islands.
+They are classified as a
+Particularly Vulnerable Tribal Group (
+PVTG).
+They inhabit parts of the
+Middle Andaman and South Andaman Islands
+. The region is characterized by dense forests, mangroves, and pristine beaches, providing a rich habitat.
+They are regarded as
+descendants of the Jangil tribe
+, which is now extinct.
+Some believe the ancestors of the Jarawas were
+part of the first successful human migrations out of Africa.
+The Jarawas have
+traditionally been hunter-forager-fishermen
+, and are known as warriors who fiercely defend their territory.
+They are known for their robust physique and excellent nutritional health.
+Traditional clothing
+among the Jarawa Tribe is
+minimal and functional
+, designed to suit the tropical climate of the Andaman Islands.
+After the British established a colonial presence in the Andaman Islands in 1789, the population of Jarawas declined massively.
+However, the Jarawas survived the British colonial presence and World War II.
+Over the years, the contact between the Jarawas and the outsiders increased, and
+since 1997, they have initiated contacts with settled populations
+, where they traded and interacted with tourists, got medical aid
+and even sent their children to school.
+At present, their number
+ranges between
+250 to 400 individuals.
+Click to View More
+Source :
+19 members of Jarawa Tribe included in electoral roll for first time
+Polity & Governance
+**********What is President’s Colours?
+The Chief of the Army Staff (COAS) presented the prestigious President’s Colours to four battalions of the Mechanised Infantry during a solemn ceremony held recently.
+About President’s Colours:
+It is the
+highest honour
+that can be
+awarded to
+any military unit, military training establishments,
+or
+State/U
+nion Territory
+Police Forces
+of India.
+It is bestowed upon a military unit in recognition of exceptional service rendered to the nation, both in
+peace and in war
+It is also known as
+“Rashtrapati ka Nishaan” in Hindi.
+History:
+The President’s Colour award has its history way back to ancient Indian traditions.
+ancient times
+, whenever any
+marched
+, they
+carried ‘dhwajas‘ or ‘patakas‘ or simply a flag
+of their respective kings to demonstrate their king’s supremacy. The flag had emblems or messages of their kings to other rulers.
+During British rule
+in India, the
+continued
+. The military unit of the British Armed Forces
+carried the king’s/queen’s version of the flag
+whenever they
+went for
+a military march.
+On
+November 23, 1950, the ‘king’s colour’
+of the erstwhile British Indian regiments was laid to rest in Chetwode Hall, Dehradun, to make way for the
+‘colours’ of the President of the Republic of India.
+Indian Navy was the first
+Indian Armed Forces to be awarded the President Colour by Dr. Rajendra Prasad on May 27, 1951.
+Award:
+It is a type of
+special
+, also
+known as ‘Nishaan’
+, which is awarded to a military unit in an organised ceremony.
+Colours are
+generally presented personally by the President
+, who is the Supreme Commander of the Armed Forces, and in case of the President’s non-availability, by the
+Service Chief.
+The flag consists of a
+golden border in the middle
+insignia of a respective military unit
+, training establishments, and police forces in the centre.
+Sometimes, it may also contain the
+motto
+, important
+achievements
+and battle participation of those military units to which the award is bestowed.
+During any ceremonial parade
+, the President’s Colour, i.e., the special flag of a military unit, is
+kept in a special position
+and soldiers often march with the President’s Colour on important dates, like their establishment anniversary.
+Click to View More
+Source :
+Army Chief presents President’s Colours to four battalions of Mechanised Infantry
+Polity & Governance
+**********What is Sabal-20 Logistics Drone?
+In a significant move to bolster the Indian Army’s logistical capabilities, the private drone manufacturer EndureAir has delivered its innovative Sabal 20 logistics drone to the Eastern theatre of operations.
+About Sabal-20 Logistics Drone:
+It is an
+electric-unmanned helicopter
+based on
+variable pitch technology,
+designed specifically
+for aerial logistics.
+It was manufactured by the private drone manufacturer
+It is designed to fulfill demanding operational requirements, assisting with tasks including precise logistics, high-altitude operations and long-distance deliveries.
+Features:
+The drone features tandem rotor configuration
+and the design “ensures remarkable stability, superior high-altitude performance, minimised turbulence risk and outstanding lifting capacity across diverse terrains”.
+It is capable of carrying
+payloads of up to 20 kg
+, which is equivalent to 50 percent of its own weight, with scalable options for future requirements.
+It can operate in
+confined and rugged terrain,
+while its low RPM (
+evolutions
+inute) design minimises noise, enhancing stealth in sensitive missions.
+One of the standout features of the Sabal 20 is its
+V
+ertical
+ake-
+ff and
+anding (VTOL) technology,
+which allows the drone to operate in confined spaces and difficult environments.
+It also has cutting-edge autonomous flight capabilities and user-friendly controls that simplify complex tasks, ensuring reliable performance even when it is beyond the line of sight of the operator.
+Click to View More
+Source :
+Made in India: Indian Army Receives Advanced Sabal 20 Logistics Drone from EndureAir
+Science & Tech
+**********‘Bal Vivah Mukt Bharat’ Campaign
+The Union Minister of Women and Child Development recently launched the “Bal Vivah Mukt Bharat Campaign”.
+About ‘Bal Vivah Mukt Bharat’ Campaign:
+It was launched by the
+Ministry of Women and Child Development,
+Government of India.
+It seeks to engage multiple stakeholders in a
+collective effort
+to eliminate child marriage in India.
+It will
+focus on the seven high-burden states
+West Bengal, Bihar, Jharkhand, Rajasthan, Tripura, Assam and Andhra Pradesh
+and nearly
+300 high-burden
+districts
+where child marriage rates are
+high as compared to the national average
+The campaign will call on every
+State and Union Territory to devise an action plan
+aimed at
+reducing the child marriage rates below 5% by 2029.
+Child marriage
+rates dropped
+from 47.4% in 2006 to 23.3% in 2019-21, according to government data.
+key feature
+of the initiative is the launch of the
+Child Marriage Free Bharat portal
+, a platform to
+raise awareness, report cases,
+monitor progress
+The portal is designed to
+facilitate effective monitoring of Child Marriage Prohibition Officers (CMPOs)
+by strengthening supervision and evaluation mechanisms to ensure their active role in preventing child marriages and supporting affected individuals.
+People will be able to
+register their complaints
+pertaining to child marriage, and these will be directed straight to the concerned CMPOs anywhere in the country.
+All
+tates have been directed to log on to the portal and register the CMPOs so that there is
+real-time monitoring of cases.
+Nodal officers
+will be assigned at the Centre for monitoring the portal.
+enhance public access to information
+, making it easily available to enable better communication and support.
+Click to View More
+Source :
+Child marriage free India campaign: Minister Annapurna Devi launches portal
+Polity & Governance
+**********Schooling in India in Times of Poor Air Quality
+Context
+In November 2024, the Graded Response Action Plan (GRAP) mandated a shift from physical to online learning in Delhi schools
+due to severe air pollution.
+This decision
+, rooted in concerns over health risks associated with the poor Air Quality Index (AQI),
+raises critical questions about its scientific validity, practicality, and consequences.
+While addressing pollution is imperative,
+linking school closures to air quality highlights deeper issues regarding the treatment of education, children’s rights, and public health.
+The Impact of Poor Air Quality and Limitations of the Current Approach
+The Continuum of Health Risks
+harmful effects of air pollution are not limited to AQI levels above 400
+, which are deemed ‘severe.’
+Even at moderate levels (AQI 51-100), pollution starts to affect vulnerable populations,
+including children, the elderly, and those with pre-existing health conditions.
+arbitrary emphasis on ‘severe’ AQI as the threshold for action risks normalising the health effects of prolonged exposure to AQI
+levels between 51 and 399.
+Such exposure can lead to respiratory issues
+, cardiovascular problems, and developmental delays, especially in children.
+Children: The Most Vulnerable Group
+Children are
+particularly susceptible to air pollution due to their developing respiratory systems
+and higher metabolic rates.
+Unlike adults,
+children breathe more air relative to their body weight,
+increasing their exposure to pollutants.
+This vulnerability makes it imperative to protect children from poor air quality,
+however, this protection cannot be achieved merely by closing schools and asking them to stay indoors.
+Many children, especially those from low-income families, live in cramped, poorly ventilated homes
+where indoor air quality can be as bad as or worse than outdoor air.
+For these children
+, schools equipped with air purifiers may offer relatively safer breathing environments.
+Socioeconomic Disparities in Exposure
+Children from
+underprivileged backgrounds often bear the brunt of its effects.
+They are more likely to live in densely populated areas
+with high pollution levels and lack access to clean indoor air.
+wealthier families can afford air purifiers
+and other mitigative measures,
+disadvantaged families rely on public spaces
+like schools to provide their children with a safer environment.
+Therefore,
+closing schools during high-pollution days disproportionately affects these children,
+exacerbating health and educational inequities.
+The Limitations of the Current Approach
+The current strategy of using GRAP measures, including the closure of schools during severe air pollution,
+reflects a reactive rather than proactive approach.
+While the intention is to shield children from the worst effects of pollution, the policy overlooks the broader context
+: poor air quality is a constant, not an episodic, issue.
+By
+focusing only on extreme AQI levels, policymakers fail to address the chronic exposure
+that harms children throughout the year.
+myopic approach results in minimal health benefits
+while causing significant disruptions to education and exacerbating societal inequities.
+GRAP Policy and Its Broader Implications
+Disproportionate Impact on the Vulnerable
+during periods of severe pollution
+disrupts educational access, particularly for children from low-income families
+who lack the technological resources to transition smoothly to online learning.
+For many such children,
+schools are not only centres for education but also places where they receive essential services such as mid-day meals
+and a safer environment.
+Shifting classes online deprives them of these benefits
+, exacerbating pre-existing inequalities in education and health outcomes.
+Education as a Collateral Victim
+India experienced one of the longest school closures during the COVID-19 pandemic,
+resulting in significant learning losses and developmental setbacks.
+Repeating these closures for pollution-related reasons reflects a failure
+to learn from past mistakes.
+Education is a fundamental right and should not be treated as expendable
+in the face of environmental challenges.
+Instead, policies must ensure that children can continue their education safely,
+regardless of external circumstances.
+The Problem with Temporary Fixes
+The decision to close schools in response to extreme AQI levels
+highlights a reactive policy approach that addresses symptoms rather than root causes.
+While GRAP seeks to mitigate immediate health risks,
+it fails to provide long-term solutions to pollution.
+School closures may reduce children's exposure to polluted air temporarily, but they do nothing to address the chronic pollution problem
+that remains pervasive throughout the year.
+Such measures may even create a false sense of progress
+, diverting attention from the systemic reforms needed to tackle the pollution crisis comprehensively.
+Long-Term Implications for Society
+The way a society treats its children reflects its values and priorities.
+Closing schools during high pollution days not only disrupts education but also
+sends a message that children’s development is secondary to short-term policy goals.
+Nelson Mandela’s assertion that the soul of a society is revealed by its treatment of children
+highlights the moral and ethical dimensions of this issue.
+By failing to invest in solutions that protect both education and health, society risks creating a generation that is less equipped to tackle the challenges of the future
+, including environmental degradation itself.
+Effectiveness of Online Learning and Masks for Children
+Shifting Schools to Online: A Flawed Substitute
+Schools are more than academic institutions;
+they create holistic development through social interaction, extracurricular activities, and life skills.
+Online education, while a necessary alternative during emergencies, is an inadequate substitute
+for in-person learning, especially for younger children.
+Prolonged screen time can harm children’s cognitive and physical development,
+while the absence of mid-day meals affects their nutrition.
+Questions on the Role of Masks
+recommendation for children to wear face masks during periods of high pollution also warrants scrutiny.
+Scientific evidence during the COVID-19 pandemic showed that masks were not universally necessary for children under five
+and were only recommended, not mandated, for those aged six to eleven.
+For classrooms with functional air purifiers, masks add little benefit;
+Instead, schools should adopt a more personalised approach, considering factors like pre-existing health conditions.
+Blanket advisories not only lack scientific backing but can also cause unnecessary discomfort and stigmatisation among children.
+Way Forward:
+A Science-Based and People-Centric Approach
+To address the issue holistically,
+schools must remain open with necessary mitigations.
+Outdoor activities can be suspended
+, and classrooms equipped with air purifiers should maintain sealed environments to ensure clean air.
+Mask policies should be individualised rather than universal
+, prioritising children with respiratory conditions or other vulnerabilities.
+Hybrid models, often misinterpreted as a license for convenience, must not replace the emphasis on physical schooling.
+Innovative solutions are needed to ensure that learning remains active,
+interactive, and inclusive.
+Conclusion
+Shifting schools to online learning as a response to poor air quality is a reactive and ineffective measure
+that overlooks scientific evidence and socio-economic realities.
+A more nuanced, science-based approach is essential, one that safeguards children’s education and well-being
+without compounding the inequities already exacerbated by pollution.
+Only by valuing schools as indispensable spaces
+for development can
+society truly fulfil its responsibility to its youngest and most vulnerable members.
+Click to View More
+Editorial Analysis
+**********First phase of One Nation One Subscription approved
+Why in news?
+The Union Cabinet has allocated ₹6,000 crore for the 'One Nation One Subscription' initiative.
+This program aims to centralize journal subscriptions for approximately 6,300 government-run higher education institutions (HEIs), providing equitable access to 13,000 scholarly journals through a unified platform. It seeks to
+enhance academic resource availability across India
+What’s in today’s article?
+Current Access to Journals in HEIs
+What is One Nation One Subscription initiative?
+Benefits of the ONOS Initiative
+Higher Education Institutions (HEIs)
+Library Consortia System
+HEIs access journals through 10 library consortia managed by various ministries.
+Library consortia are collaborations among libraries to share resources and meet common needs.
+E.g.,
+INFLIBNET Centre in Gandhinagar, under the Ministry of Education, manages the UGC-Infonet Digital Library Consortium.
+This consortium provides access to selected scholarly electronic journals and databases across disciplines.
+Individual Subscriptions
+HEIs also subscribe to journals independently, supplementing consortium-based access.
+Access Statistics
+Currently, around 2,500 HEIs have access to approximately 8,100 journals through consortia and individual subscriptions.
+What is One Nation One Subscription (ONOS) initiative?
+Background
+Prime Minister Modi's 2022 Independence Day address emphasized the importance of research and development for India’s progress, calling for
+“Jai Anusandhan”
+to drive innovation and scientific exploration
+Aligned with this vision, the National Education Policy (2020) highlights research as a key driver for educational and national excellence.
+The establishment of the
+Anusandhan National Research Foundation (ANRF
+) underscores the government's commitment to fostering a strong research culture.
+Building on these initiatives, the Union Cabinet has approved the ONOS scheme,
+granting nationwide access to international research articles and scholarly journals
+Objective
+The ONOS scheme aims to streamline and centralize journal access for all state and central government HEIs, replacing the fragmented system currently in place.
+Implementation Timeline
+The platform will go live on
+January 1, 2025
+, consolidating access to thousands of journals under a single system.
+Key Features:
+Access to 13,000 Journals
+: Journals from 30 international publishers, including Elsevier Science Direct, Springer Nature, Wiley, Taylor & Francis, IEEE, and more, will be available.
+Unified Registration
+: HEIs will need to register on the platform to access the journals.
+Implementing Agency
+: Information and Library Network Centre (INFLIBNET) Centre has been designated as the implementing authority.
+Funding and Pricing:
+The central government has allocated
+for the initiative covering three years (2025–2027).
+A single subscription price was negotiated with each publisher for all institutions.
+Additional Subscriptions:
+HEIs seeking access to journals beyond the 13,000 available can continue subscribing to them individually.
+Dedicated portal
+: A dedicated portal, “One Nation One Subscription,” will serve as the gateway for institutions to access these resources.
+Role of the Anusandhan National Research Foundation (ANRF)
+The access and usage of subscription will be regularly monitored by the ANRF.
+It will also contribute to the expansion of publications by Indian authors in participating.
+Plans for future expansion
+The first phase included all 6,300 Higher Education Institutions (HEIs) and research institutes under both central and state governments.
+In the second phase, the government plans to expand this to the remaining higher education institutions in the country, both public and private.
+Phase 3 will expand the access of ONOS to the entire country.
+Benefits of the ONOS Scheme
+Broader Access to Scholarly Resources
+Expands access to top-tier scholarly journals for
+1.8 crore students, faculty, and researchers
+across approximately
+6,300 government HEIs
+, including those in Tier 2 and Tier 3 cities.
+Extending benefits to students residing in tier-2 and tier-3 cities will help in reducing the knowledge gap between urban and rural students.
+Elimination of Resource Duplication
+Avoids overlapping subscriptions across various library consortia and institutions, reducing
+excess expenditure
+on duplicate resources.
+Enhanced Bargaining Power
+Consolidates subscription under one platform, allowing the government to
+negotiate better deals
+with publishers.
+Example: Negotiations reduced the initial cost of ₹4,000 crore per year for 13,000 journals to
+₹1,800 crore annually
+Data-Driven Utilization and Planning
+Enables the Centre to monitor journal usage across HEIs, aiding
+long-term planning
+and promoting better utilization of resources in inactive institutions.
+Alignment with national goals
+The scheme aligns with the National Education Policy (NEP) 2020, Anusandhan National Research Foundation (ANRF), and the government's Viksit Bharat@2047 vision.
+First phase of One Nation One Subscription approved.pdf
+( Size:  2.7 MB  )
+Click to View More
+Polity & Governance
+**********Israel-Hezbollah ceasefire deal
+Why in news?
+Israel and Lebanon have entered into a ceasefire. This happened a day after Israel’s security cabinet approved a US-backed proposal to end the 13-month-long conflict that escalated in September.
+This ceasefire has been modeled after UNSC Resolution 1701 from the 2006 conflict.
+What’s in today’s article?
+key takeaways from Israel-Lebanon ceasefire
+Reasons for Israel's Ceasefire Decision
+Overview of UNSC Resolution 1701
+UNSC Resolution 1701, adopted on August 11, 2006, seeks to end hostilities between Hezbollah and Israel, establish a buffer zone, and achieve a permanent ceasefire.
+Historical Context
+The resolution aimed to complete
+Israel's withdrawal from southern Lebanon along the Blue Line and Golan Heights
+, following its partial withdrawal in 2000.
+Triggered by Hezbollah's attack in July 2006, which killed three Israeli soldiers and kidnapped two, the ensuing war lasted over a month, causing significant casualties (1,000+ Lebanese and 170 Israelis).
+Key Provisions
+Disarmament and Sovereignty
+:
+Full disarmament of all armed groups in Lebanon, ensuring the Lebanese State's monopoly over weapons and authority.
+Prohibition of foreign forces in Lebanon without government consent.
+Arms Control
+No sales or supply of arms to Lebanon without government authorization.
+Landmine Information
+Israel to provide maps of landmines in Lebanon to the UN.
+Buffer Zone and Ceasefire
+Respect for the Blue Line by both parties.
+Creation of a demilitarized zone free of armed personnel and weapons, apart from Lebanese authorities and UNIFIL, between the Blue Line and the Litani River.
+UNIFIL (United Nations Interim Force in Lebanon) Mandate:
+The resolution authorized up to 15,000 UN peacekeepers to:
+Monitor the cessation of hostilities.
+Assist Lebanese troops in securing the buffer zone.
+Ensure the safe return of displaced Lebanese populations.
+Cessation of hostilities
+A 60-day cessation of hostilities has been established as a framework for a lasting truce between Israel and Hezbollah.
+Withdrawal of Forces
+: Required to retreat approximately 40 kilometers (25 miles) from the Israel-Lebanon border.
+: Committed to withdrawing its ground forces from Lebanese territory.
+Basis of the Deal
+The agreement is rooted in UNSC Resolution 1701, which ended the 2006 war. Negotiations focused on the resolution's enforcement.
+Enhanced Monitoring and Supervision
+Lebanon will intensify its oversight of Hezbollah’s movements south of the Litani River to prevent regrouping.
+Monitoring responsibilities are shared by
+United Nations peacekeeping troops.
+The Lebanese military.
+A multinational committee (A key update is the inclusion of the U.S. and France in the oversight mechanism, alongside Lebanon, Israel, and UNIFIL.)
+Israel’s Conditional Stance
+Israel has warned it will resume military operations if the agreement is breached.
+The agreement does not mandate complete disarmament of Hezbollah in northern Lebanon.
+Focus on Iran
+: Israel aims to direct its attention toward countering Iran.
+Military Replenishment
+: The ceasefire allows Israeli forces to regroup and replenish resources.
+Separation of Fronts
+: By halting conflict with Hezbollah, Israel seeks to isolate the Hamas and Hezbollah theaters of war.
+Hezbollah's Parallel Front:
+Hezbollah opened a secondary front in support of Hamas following Hamas’s terror attack and Israel's subsequent bombardment of Gaza.
+Additional Factors Influencing the Decision
+Civil-Military Dynamics in Israel
+Former Defense Minister and the IDF Chief of Staff advocated for a ceasefire, questioning the government’s military objectives.
+Strategic Challenges in Lebanon
+Prolonged military presence in Lebanon risks wearing down the IDF and strengthening Hezbollah’s domestic support.
+Hezbollah's Resilience
+Despite heavy losses, Hezbollah retained the capability to strike, launching 250 rockets two days before the ceasefire.
+Israel’s symbolic achievement of reaching the Litani River was followed by a ceasefire to avoid a prolonged and costly conflict.
+Israel-Hezbollah ceasefire deal.pdf
+( Size:  2.1 MB  )
+Click to View More
+International Relations
+**********Child Marriages in India
+Why in the News?
+Union Women and Child Development Minister announced a substantial reduction in child marriages in India, from
+47.4% in 2006
+to
+23.3% in 2019-21
+, attributed to the
+Prevention of Child Marriage Act (2006)
+What’s in Today’s Article?
+Child Marriages in India (Statistics, Global Scenario, Impact, Legal Provisions, Government Schemes)
+News Summary
+Child Marriages in India:
+In India,
+child marriage reduced from 47.4% in 2005-06 to 26.8% in 2015-16
+In the last five years, it declined by 3.5% points to reach 23.3% in 2020-21, according to the latest National Family Health Survey-5 data.
+There is a growing trend for decline in the overall prevalence of child marriage, but 23.3% is still a disturbingly high percentage in a country with a population of 141.2 crore.
+Eight States have a higher prevalence of child marriage than the national average:
+West Bengal
+Bihar
+Tripura
+top the list with more than 40% of women aged 20-24 years married below 18, according to NFHS data.
+Some States have shown a reduction in child marriages, like
+Madhya Pradesh
+(23.1% in 2020-21 from 32.4% in 2015-16),
+Rajasthan
+(25.4% from 35.4%) and
+Haryana
+Global Scenario:
+According to data from UNICEF, the
+total number of girls married in childhood stands at
+12 million per year
+The 2030 UN Sustainable Development Goals aim to eliminate all harmful practices, such as child, early and forced marriage and female genital mutilations, under goal 5.
+While it is encouraging that in the past decade great progress has been made in South Asia, where a girl’s risk of marrying before she is 18 has dropped by more than a third, from nearly 50% to below 30%, it is not enough, and progress has been uneven.
+Impact of Child Marriage:
+While child marriage is considered a human rights violation and a recognised form of sexual and gender-based violence, the
+adverse impact of child marriage is manifested across maternal and child health
+Recently, 10 infants died at Murshidabad Medical College and Hospital in a span of 24 hours.
+The hospital authorities said the majority of the children were born with extremely low birth weight.
+Murshidabad, one of the economically poorer districts of the State, has one of the highest numbers of child marriages in West Bengal.
+The NFHS - 5 points out that 55.4% of women aged 20-24 years are married before the age of 18 years in the district.
+The district saw a rise from NFHS-4 numbers, which stood at 53.5 %.
+Legal Intervention in India:
+There are several laws including the
+Prohibition of Child Marriage Act, 2006
+and the
+Protection of Children from Sexual Offences Act, 2012
+, which aim at protecting children from violation of human and other rights.
+Prohibition of Child Marriage (Amendment) Bill, 2021
+seeks to
+increase the marriage age of women from existing 18 years to 21 years
+Why Minimum Age of Marriage for Females should be Increased?
+Lack of access to education and employment
+Women face inequalities when it comes to access to education and employment as a consequence of their early marriages.
+It is often the case that women are denied access to education and an economic means of livelihood after entering into the institution of marriage at an early age.
+Increasing the minimum age for marriage will lead to more women pursuing higher education and opt for employment.
+Impact of early marriage on health of women and children:
+An early age of marriage and consequent early pregnancies have a substantial impact on the nutritional levels of mothers and their children, along with their overall health and mental wellbeing.
+Underage mothers are at a higher risk of reproductive health challenges, malnutrition, postpartum haemorrhage, and a susceptibility to sexually transmitted diseases.
+Schemes/ Policies for Preventing Girl Child Marriage:
+Sukanya Samriddhi Yojana (SSY):
+Sukanya Samriddhi Yojana (SSY), was launched in 2015, in order to promote the welfare of girl child.
+It encourages parents
+to invest and build funds for the future studies and marriage expenses of the girl's children
+Balika Samriddhi Yojana:
+Balika Samriddhi Yojana is another central government scheme to support girls in financially vulnerable sections of society.
+This scheme ensures the enrolment and retention of girl child in primary and secondary schools.
+It aims at the
+prosperity of a girl's child and provides them with a better quality education
+Beti Bachao Beti Padhao:
+Among all the other girl's child welfare schemes, Beti Bachao Beti Padhao is the most popular.
+This scheme celebrates girl children, literally translating to Save the Girl Child, Educate the Girl child. It believes in women empowerment and creating an inclusive ecosystem for the same.
+This scheme is
+to promote girl children’s safety before and after they are born
+News Summary:
+Speaking at the launch of the
+Bal Vivah Mukt Bharat Abhiyan (Child Marriage-Free India Campaign)
+, she highlighted the prevention of over
+two lakh child marriages
+in the past year alone.
+Bal Vivah Mukt Bharat Abhiyan Goals
+Focus on seven high-burden states (West Bengal, Bihar, Jharkhand, Rajasthan, Tripura, Assam, and Andhra Pradesh) and 300 districts with above-average child marriage rates.
+Aim to reduce child marriage rates to below 5% by 2029
+Launch of the
+‘Child Marriage Free Bharat’ portal
+for awareness, reporting, and progress monitoring.
+Global Context
+India significantly contributed to South Asia’s reduction in child marriage rates, according to UN reports.
+Challenges and Solutions
+Education continuity for girls
+Skill development and employment
+Nutritional and reproductive health
+Safety, anti-trafficking, and social protection
+Awareness campaigns are critical, as laws alone cannot eradicate the issue.
+newspaper.pdf
+( Size:  218.1 KB  )
+Click to View More
+Social Issues
+**********Carmakers Face Penalty for Non-Compliance with CAFE Norms
+Why in News?
+The Centre has identified eight automakers, including Hyundai, Kia, Mahindra, and Honda, for exceeding mandated fleet emission levels during the financial year 2022-23.
+Non-compliance with
+Corporate Average Fuel Efficiency (CAFE) norms
+has led to an estimated penalty of ₹7,300 crore, with Hyundai alone facing over ₹2,800 crore in fines.
+What’s in Today’s Article?
+What are CAFE Norms?
+Penalty on Automakers for Violating CAFE Norms
+Conclusion
+Introduced by:
+The Bureau of Energy Efficiency (
+BEE
+) in
+2017 under
+the Energy Conservation Act, 2001,
+to regulate fuel consumption and carbon emissions for passenger vehicles.
+Objective:
+Reduce oil dependency and curb air pollution.
+Scope:
+Vehicles under 3,500 kg, including those powered by petrol, diesel, LPG, CNG, hybrids, and EVs.
+Implementation:
+These standards were introduced in two phases - the first CAFÉ norms stage I fuel consumption standards were introduced effective 2017-18, and the CAFÉ norms stage II standards came into force in 2022-23.
+Compliance Criteria for FY23:
+Fuel consumption:
+≤ 4.78 litres per 100 km.
+Carbon emissions:
+≤ 113 grams of CO2 per km.
+Penalties for non-compliance:
+The financial year 2022-23 saw tighter CAFE norms come into effect, resulting in significant penalties for non-compliance.
+Significance of CAFE norms:
+The CAFE framework
+incentivises automakers to produce EVs, hybrids, and CNG vehicles
+while
+penalising reliance on fossil fuel-driven cars
+Stricter norms
+align with India’s broader goals to reduce emissions and promote sustainable transportation
+Penalty on Automakers for Violating CAFE Norms:
+Breakdown of penalty:
+The penalties represent a substantial proportion of some automakers' profits, with Hyundai's fine equating to nearly 60% of its FY23 earnings.
+Stricter penalty norms:
+In December 2022,
+the Energy Conservation Act was amended
+to enforce stricter penalties:
+₹25,000 per vehicle for a shortfall below 0.2 litres per 100 km.
+₹50,000 per vehicle for exceeding the threshold.
+Base penalty: ₹10 lakh.
+Carmakers’ contentions:
+Automakers argue that the stricter penalty norms took effect only from January 1, 2023, making it unfair to apply them
+retroactively
+to cars sold throughout FY23.
+Government’s counter:
+In FY23, 18 manufacturers’ models were tested in accredited laboratories to simulate real-world driving conditions.
+While all 19 automakers complied in FY22, data for FY23 indicates non-compliance for eight carmakers.
+Conclusion:
+The penalties for non-compliance with CAFE norms
+underscore the government's commitment to enforcing stricter emission standards
+However, ongoing discussions and delayed compliance reports highlight the challenges in
+balancing regulatory enforcement with industry concerns
+newspaper.pdf
+( Size:  1023.5 KB  )
+Click to View More
+Polity & Governance
+**********The right to work deleted
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+DPSP; Right to work; Labour Laws; MGNREGA;
+Why in the News?
+The implementation guidelines for MGNREGA are outlined in
+Master Circulars
+issued by the Ministry of Rural Development (MoRD) annually or biennially.
+Mahatma Gandhi NREGA
+provides a number of legal entitlements to the job seekers through a series of provisions in the Act. While the Act makes provision for at least 100 days work per rural household in a year, it is the strong legal framework of rights and entitlements that come together to make the hundred days of work per year possible.
+Every household residing in any rural area is entitled to a
+Job Card
+which contains the names and photographs of all adult members of the household so that they can demand and receive work.
+According to the
+Master Circular for 2021-22,
+job cards can only be deleted under specific circumstances:
+when a household has permanently migrated
+if the job card is identified as a duplicate,
+if it was issued using forged documents.
+Chapter 4 (​​Schedule II)
+of the annual circular, “Every adult member of a registered household whose name appears in the job card shall be entitled to apply for unskilled manual work.
+The Ministry mandates the provision of an additional 50 days of wage employment (beyond the stipulated 100 days) to every Scheduled Tribe Household in a forest area,  under the FRA Act, 2006.
+State Governments are mandated to put in place multiple mechanisms by which rural households can submit applications for demand for work at the
+Gram Panchayat (GP)
+Block
+District levels.
+What were the reasons behind the decision to delete references to the ‘Right to work’ in recent legislation or policy?
+Administrative Efficiency:
+Governments may argue that streamlining policies and removing cumbersome regulations can enhance efficiency in employment programs.
+Aadhaar-Based Payment Systems (ABPS):
+The push for ABPS has led to increased deletions of job cards, as officials focus on compliance metrics rather than ensuring workers’ rights are upheld.
+Political and Economic Pressures:
+There may be external pressures to reduce welfare spending or adjust labour policies in response to economic conditions, leading to a perception that the ‘right to work’ is less critical.
+What does the term ‘right to work’ entail, and why is it significant in the context of labor laws?
+is a fundamental principle in labour laws that guarantees individuals the opportunity to engage in employment and earn a livelihood.
+In the context of the
+Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)
+, specifically provides rural households with a legal entitlement to at least 100 days of wage employment per year.
+This right is significant because it
+aims
+to alleviate poverty, promote social justice, and ensure economic security for rural populations. The act also mandates due process in the deletion of workers from job cards, emphasising the importance of transparency and accountability in employment practices.
+How might the deletion of the ‘right to work’ impact workers, unions, and the broader labour market?
+Workers’ Rights:
+It undermines the legal protections afforded to workers, making it easier for authorities to arbitrarily delete job cards without proper verification or due process.
+Unions and Collective Bargaining:
+Unions may find it challenging to advocate for workers’ rights when legal entitlements are diminished, weakening their bargaining power.
+Labour Market Dynamics:
+A reduction in guaranteed employment can lead to increased unemployment and underemployment, exacerbating poverty and economic inequality among rural populations.
+Way forward:
+Strengthen Oversight and Accountability
+: Implement independent audits, regular reviews, and grievance redress mechanisms to ensure adherence to due process in job card deletions, with active involvement of Gram Sabhas and worker representatives.
+Enhance Worker Protections
+: Reinforce legal safeguards for the ‘right to work’ by improving transparency in employment programs, ensuring compliance with MGNREGA mandates, and addressing systemic issues like ABPS-linked exclusions through inclusive digital solutions.
+Mains PYQ:
+An essential condition to eradicate poverty is to liberate the poor from the process of deprivation.” Substantiate this statement with suitable examples.
+(UPSC IAS/2016)
+**********Trump to impose ‘additional’ tariff on China
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Trade; India USA relation;
+Why in the News?
+President-elect Donald Trump announced his intention to impose tariffs on the United States’ three largest trading partners—Canada, Mexico, and China—once he assumes office.
+What specific tariffs is Trump proposing on imports from China, Canada, and Mexico?
+25% Tariff on Imports:
+President-elect Donald Trump announced plans to impose a 25% tariff on imported goods from the United States’ three largest trading partners: Canada, Mexico, and China.
+Additional 10% Tariff on China:
+He also proposed an additional 10% tariff specifically targeting imports from China, citing the country’s failure to address the flow of fentanyl into the United States.
+What are the underlying reasons for these tariff increases?
+Trade Imbalance:
+The tariffs aim to address perceived trade imbalances and protect American manufacturing jobs.
+Fentanyl Crisis:
+The additional tariff on China is a direct response to the ongoing opioid crisis in the U.S., particularly related to fentanyl trafficking. Trump emphasized China’s lack of action in curbing the drug’s flow into the U.S. as a justification for the tariffs.
+Political Strategy:
+The tariffs may also serve as a political manoeuvre to reinforce Trump’s stance on trade issues and drug-related policies as he prepares to take office.
+What potential economic impacts could arise in the Asian region (esp India) from these tariffs?
+Increased Costs for Importers:
+Indian companies that rely on imports from these countries may face higher costs due to increased tariffs, potentially leading to higher prices for consumers.
+Supply Chain Disruptions:
+The tariffs could disrupt existing supply chains, particularly in industries that rely on components from Canada, Mexico, and China, affecting production schedules and costs.
+Investment Shifts:
+Businesses might reconsider their investment strategies in light of new tariffs, potentially leading to a shift in manufacturing bases or sourcing strategies away from affected countries.
+Opportunities for Indian Manufacturers:
+Conversely, Indian manufacturers might find opportunities to fill gaps left by increased tariffs on imports, potentially boosting local production and employment.
+Way forward:
+Strengthen Trade and Strategic Engagement with the U.S.:
+India should proactively address trade imbalances by diversifying imports from the U.S., aligning with American regulatory standards, and offering enhanced market access in key sectors like technology and defence.
+Position as a Reliable Alternative to China:
+Leverage initiatives like
+Make in India
+to attract U.S. investments, promote joint ventures, and emphasize India’s strategic importance as a trusted partner in global supply chains.
+Mains PYQ:
+What are the key areas of reform if the WTO has to survive in the present context of ‘Trade War’, especially keeping in mind the interest of India?
+(UPSC IAS/2018)
+**********How ‘socialist’ and ‘secular’ were inserted in the Preamble, why SC ruled they will stay?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Preamble;
+Why in the News?
+Nearly 75 years after the adoption of the Constitution of India, the Supreme Court reaffirmed (on 25th Nov’ 24) the inclusion of the terms ‘socialist’ and ‘secular’ in the Preamble of the Constitution.
+What historical context led to the insertion of the terms ‘socialist’ and ‘secular’ in the Preamble?
+The
+Objectives Resolution,
+introduced by Jawaharlal Nehru in 1946, laid foundational principles for the Constitution, emphasizing independence, equality, and minority rights, which set the stage for later amendments.
+Initial discussions around socialism and secularism occurred during the drafting of the Constitution, with early proposals to include these concepts being rejected. The debates highlighted differing views on the role of socialism and secularism in India’s governance.
+The terms ‘socialist’ and ‘secular’ were inserted into the Preamble during the Emergency (1975-1977) under the
+42nd Amendment
+, a time characterized by significant political unrest and government overreach.
+What was the SC’s reasoning for upholding these terms in the Preamble?
+Evolution of Meaning:
+The Supreme Court noted in 1973 () that the meanings of ‘socialism’ and ‘secularism’ have evolved over time within the Indian context.
+The court recognized that these terms now reflect principles of economic justice and religious neutrality rather than strict ideological definitions.
+Interpretation of Secularism:
+The court emphasized that India’s interpretation of secularism is unique, where the state neither endorses nor discriminates against any religion. This interpretation aligns with the Preamble’s ideals of fraternity and equality.
+Socialism as Economic Justice:
+The court defined socialism as ensuring economic and social justice, asserting that it does not impede private enterprise but rather supports state intervention to uplift marginalized communities.
+How do ‘socialist’ and ‘secular’ reflect India’s Constitutional values and principles?
+Commitment to Justice:
+The inclusion of ‘socialist’ reflects a commitment to social and economic justice, aiming to reduce inequalities in society.
+Religious Neutrality:
+By incorporating ‘secular’, the Constitution underscores India’s commitment to religious pluralism and the protection of individual rights regardless of faith.
+Basic Structure Doctrine:
+The Supreme Court’s decision reinforces the idea that these terms are integral to the basic structure of the Constitution, which cannot be altered or removed without undermining India’s democratic framework.
+What are the steps taken by the Government to implement the Socialist and Secular principles of the Preamble?
+Promoting Social Justice (Socialist):
+Welfare schemes like MNREGA, Ayushman Bharat, and PDS reduce poverty and ensure equitable access, while progressive taxation and affirmative action address economic disparities.
+Ensuring Religious Neutrality (Secular):
+Laws protecting religious freedom, minority rights (Articles 25–30), and institutions like the National Commission for Minorities promote interfaith harmony and safeguard pluralism.
+Strengthening Democracy and Equality:
+Free and fair elections by the Election Commission and rights-based laws like the RTE Act and the SC/ST (Prevention of Atrocities) Act ensure equality, fraternity, and justice for all.
+Way forward:
+Strengthening Constitutional Values:
+Enhance awareness of constitutional principles through education and public campaigns, ensuring adherence to secularism, socialism, and democratic ideals in policymaking.
+Inclusive Governance:
+Implement targeted programs to address socio-economic inequalities, promote interfaith dialogue, and uphold democratic rights, fostering harmony and justice in a diverse society.
+Mains PYQ:
+Discuss each adjective attached to the word ‘Republic’ in the preamble. Are they defendable in the present circumstances stances?.
+(UPSC IAS/2016)
+**********What is the UNSC Resolution 1701?
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Israel and Lebanon agreed to a ceasefire after 13 months of rising conflict, though it is linked to the UN Resolution 1701, which has not been fully implemented.
+About
+UNSC Resolution 1701:
+Details
+What is it?
+Passed on
+August 11, 2006
+, following the 34-day war between Israel and Hezbollah.
+Aimed to end hostilities,
+ensure the security of Israel and Lebanon
+, and establish long-term peace along the Israel-Lebanon border.
+Also designed to
+prevent Hezbollah
+from using southern Lebanon as a base
+for military operations against Israel.
+Key Provisions and Objectives
+Cessation of Hostilities
+: Aimed at halting the conflict between Hezbollah and Israel.
+Disarmament of Armed Groups
+: Called for the disarmament of Hezbollah and all other armed groups in Lebanon, leaving only the Lebanese state with weapons authority.
+Israeli Withdrawal
+: Mandated Israel’s full withdrawal from southern Lebanon, which had been occupied since the 1982 Lebanon War.
+Lebanese Forces Deployment
+: Directed the Lebanese government to deploy its army in southern Lebanon to ensure peace and prevent Hezbollah’s rearmament.
+UNIFIL Deployment
+: Increased deployment of the United Nations Interim Force in Lebanon (UNIFIL) to monitor the border and ensure compliance.
+Arms Embargo
+: Imposed restrictions to prevent the transfer of weapons to Hezbollah.
+Implementation of Taif Accords (1989)
+: The resolution emphasizes the full implementation of this accord, which is critical for the disarmament of non-state actors in Lebanon and the consolidation of Lebanese state authority across the country.
+Implementation and Violations
+Partial Implementation
+: While Israel withdrew from southern Lebanon, Hezbollah retained its weapons and continued its terror operations.
+Lebanese Army Deployment
+: The Lebanese army was deployed in southern Lebanon but struggled to assert full control, as Hezbollah’s influence remained strong in the region.
+UNIFIL’s Role
+: UNIFIL, while active, faced challenges in fully enforcing the provisions of the resolution due to Hezbollah’s continued presence and the complexities of local politics.
+: Despite the resolution’s provisions, violations have included Hezbollah’s stockpiling of weapons and cross-border skirmishes, as well as the failure to fully disarm all armed groups, undermining the resolution’s goals.
+Taif Accords Violation
+: This has hindered the establishment of complete state sovereignty in Lebanon.
+PYQ:
+[2018]
+“India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.” Discuss.
+**********[pib] India Post Payments Bank (IPPB)
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Minister of State for Communications has provided crucial information about the India Post Payments Bank (IPPB).
+About
+India Post Payments Bank (IPPB):
+Details
+What is it?
+Division of India Post under the Ministry of Communications,
+launched in 2018
+Operates as
+payments bank
+Vision and Principles
+•
+Objective
+: Promote financial inclusion by providing accessible and affordable financial services.
+Customer-Centric
+: Focuses on delivering secure and affordable banking to rural and underserved areas.
+Empowerment Initiatives by IPPB
+Financial Inclusion
+: Offers savings accounts, current accounts, money transfers, bill payments, and insurance.
+Aadhaar-Linked Services
+: Implements Aadhaar-enabled Payment System (AePS) for easy and secure transactions.
+Doorstep Banking
+: Provides banking services through 3 lakh postmen and Grameen Dak Sewaks.
+Rapid Expansion
+: Reached 4 crore customers by December 2020 and crossed 8 crore customers by January 2022, with over 9 crore customers as of March 2024.
+Back2Basics: Payments Bank
+A payments bank operates like a regular bank but without credit risk.
+It was set up based on the recommendations of the
+Nachiket Mor Committee
+Objective:
+To promote financial inclusion, especially in unbanked areas, serving migrant workers, low-income households, and small entrepreneurs.
+Payments banks are
+registered as public limited companies
+Companies Act, 2013
+licensed under the Banking Regulation Act, 1949
+Governed by
+Banking Regulation Act, RBI Act, 1934
+, and the
+Foreign Exchange Management Act, 1999.
+Services Offered:
+Minimum paid-up equity capital is
+Rs. 100 crores
+Can accept
+deposits
+up to
+Rs. 2,00,000
+in savings and current accounts.
+75% of deposits must be invested in government securities (SLR)
+, with the remaining 25% placed as time deposits with other scheduled commercial banks.
+Offers remittance services
+, mobile payments, ATM/debit cards, net banking, and third-party fund transfers.
+Act as a banking correspondent (BC)
+for credit and other services.
+Limitations:
+Cannot issue loans
+or credit cards.
+Cannot accept time deposits
+or NRI deposits.
+Cannot set up subsidiaries
+for non-banking financial activities.
+PYQ:
+[2018]
+Which one of the following links all the ATMs in India?
+(a) Indian banks’ Association
+(b) National Securities Depository Limited
+(c) National Payments Corporation of India
+(d) Reserve Bank of India
+**********[pib] Indian Chemical Council wins 2024 OPCW-The Hague Award
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Chemical Weapons Convention (CWC)
+Why in the News?
+The Indian Chemical Council (ICC) was honored with the prestigious Organisation for the Prohibition of Chemical Weapons (OPCW), The Hague Award during the 29th Session of the Conference of the States Parties.
+Significance of the OPCW-The Hague Award
+Purpose
+: The award recognizes contributions to advancing the goals of the Chemical Weapons Convention (CWC), focusing on chemical safety, disarmament, and global security.
+This year, the award was given to the Indian Chemical Council (ICC), the first chemical industry body to receive it, for its role in promoting chemical safety and CWC compliance.
+Global Impact
+: The award emphasizes ICC’s work in collaboration with international bodies and advocacy for sustainable practices in chemical security.
+Legacy
+: The OPCW, which won the Nobel Peace Prize in 2013, continues to honor impactful organizations and individuals contributing to the global disarmament agenda.
+What is the
+Chemical Weapons Convention (CWC)?
+Details
+What is it?
+•
+bans the development, use, and stockpiling of chemical weapons and mandates their destruction.
+Genesis
+: Negotiations began in 1980.
+Established
+: Opened for signature on
+January 13, 1993
+, and entered into force on
+April 29, 1997
+• More comprehensive than the
+1925 Geneva Protocol
+, which only banned the use of chemical weapons.
+Structure and Functions
+Conference of States Parties (CSP)
+: The main decision-making body, meeting annually.
+Executive Council
+: 41-member body overseeing CWC implementation.
+Technical Secretariat
+: Provides support for verification and compliance.
+Verification
+: Inspects facilities and ensures compliance with the treaty.
+Membership criteria and members
+Open to all nations
+: Any state can join if it meets requirements.
+193 States-Parties
+: Includes most nations.
+Non-Signatories
+Egypt
+North Korea
+South Sudan
+have neither signed nor ratified the CWC.
+Functioning Arm
+Organization for the Prohibition of Chemical Weapons (OPCW)
+implements the CWC, headquartered in
+Role
+: Oversees the destruction of chemical weapons and ensures treaty compliance.
+Inspection
+: Conducts inspections of chemical facilities worldwide.
+Awards
+: The OPCW won the
+in 2013 for its efforts in chemical weapons elimination.
+PYQ:
+[2016]
+With reference to ‘Organization for the Prohibition of Chemical Weapons (OPCW)’, consider the following statements:
+It is an organization of the European Union in working relation with NATO and WHO.
+It monitors the chemical industry to prevent new weapons from emerging.
+It provides assistance and protection to States (Parties) against chemical weapons threats. Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********[pib] Schemes Implemented in Science and Technology
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Various schemes mentioned
+Why in the News?
+The Ministry of Science and Technology, through its three key departments —
+Department of Science and Technology (DST)
+Department of Biotechnology (DBT)
+, and
+Department of Scientific and Industrial Research (DSIR)
+— is implementing various schemes to bolster the Science, Technology, and Innovation (STI) ecosystem across India.
+Schemes Implemented Under the Department of Science and Technology (DST)
+Objective
+Key Components
+Science and Technology (S&T) Institutional and Human Capacity Building
+(2015)
+Enhance human resource development and institutional capacity in science and technology.
+– Fellowships at various levels (undergraduate, postgraduate, doctoral, post-doctoral).
+– Establishment of sophisticated R&D facilities.
+– Capacity building for faculty.
+Research and Development (R&D)
+(2009)
+Support research in fundamental, applied, and translational sciences.
+– Collaborative research with universities, government, and private sectors.
+– International research cooperation.
+– Focus on diverse sectors like health, energy, and IT.
+Innovation, Technology Development, and Deployment
+(2016)
+Foster innovation and facilitate the development of new technologies for national development.
+– Technology incubation centers.
+– Technology transfer and commercialization.
+– Support for startups and entrepreneurs.
+National Mission on Interdisciplinary Cyber Physical Systems (NM-ICPS)
+(2017)
+Promote interdisciplinary research in Cyber Physical Systems (CPS) that integrate computational algorithms with physical processes.
+– Development of CPS technologies (e.g., IoT, smart cities, advanced manufacturing).
+– Setting up innovation centers and testbeds for CPS.
+National Quantum Mission (NQM)
+(2023)
+Advance quantum technologies for solving national challenges in energy, communications, and security.
+– Research in quantum computing, quantum communications, and quantum sensing.
+– Establishment of quantum technology hubs and research centers.
+Schemes Implemented Under the Department of Biotechnology (DBT)
+Biotechnology Research Innovation and Entrepreneurship Development (Bio-RIDE)
+Foster innovation in biotechnology through research, industrial development, and entrepreneurship.
+Biotechnology R&D
+: Funding for research projects.
+Industrial & Entrepreneurship Development (I&ED)
+: Support for biotech startups and industrial innovations.
+Biomanufacturing and Biofoundry
+: Development of manufacturing and biotechnological production systems.
+**********
