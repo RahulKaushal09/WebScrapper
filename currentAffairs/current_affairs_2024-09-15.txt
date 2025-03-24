@@ -1,0 +1,260 @@
+Post-glacial ecosystems could help slow down climate change - Study
+Why in news?
+A global study titled
+"The Development of Terrestrial Ecosystems Emerging After Glacier Retreat”
+was published in Nature.
+The study highlights that while glacier retreat accelerates climate change by reducing surface reflectivity and releasing stored carbon, the emerging post-glacial ecosystems could help mitigate these effects.
+What’s in today’s article?
+Key highlights of the study
+About
+Glaciers are large, dense masses of ice that form on land and move slowly downhill due to gravity.
+They form when snow accumulates over many years, often centuries, and turns into ice.
+Glaciers and ice caps store about 68.7 percent of the world's fresh water, according to the US Geological Survey.
+How do glaciers form?
+Snow accumulation
+- Glaciers form in areas where snow accumulates year-round and doesn't melt completely in the summer.
+Snow compression
+- As new layers of snow fall, they compress the snow below, forcing it to recrystallize into grains.
+Firn formation
+- If the snow survives a melt season, it forms a denser layer called firn.
+Ice crystal growth
+- The snow and firn are compressed further by more snow, causing the ice crystals to grow and become connected.
+Regions where glaciers are found
+Glaciers cover an estimated 700,000 square kilometers, with most located in Antarctica.
+While glaciers are primarily found near the poles, they exist on every continent except Australia.
+However, in Oceania, glaciers can be found in New Zealand, Indonesia, and Papua New Guinea.
+Glaciers form in areas with high winter snowfall and low summer temperatures, such as Alaska, Patagonia, and the Himalayas.
+In regions like the Arctic islands of Canada, glaciers form due to cold year-round temperatures, even with low snowfall.
+Generally, glaciers develop at high latitudes or elevations, with higher elevations required closer to the equator.
+Glacier retreat
+refers to the process where a glacier shrinks and loses mass as a result of melting and the reduction in snowfall needed to replenish it.
+This occurs when the rate of ice melt exceeds the rate of new snow accumulation.
+As temperatures rise due to
+, glaciers retreat more rapidly, which can lead to rising sea levels, altered water supply, and ecosystem changes.
+About the study
+Led by
+Professor Gentile Francesco Ficetola
+Silvio Marta
+, the study analyzed over 1,200 soil samples from nearly 50 glaciers worldwide.
+It also included contributions from
+Dr.
+Pritam Chand
+(Central University, Punjab) and
+Professor Milap Chand Sharma
+(Jawaharlal Nehru University).
+They contributed to this study by analysing samples from the
+Gangotri and Bara Shigri glaciers
+in the Indian Himalayas.
+Key findings
+The study highlighted that the
+retreat of glaciers may be one of the most evident signs of climate change, but it will leave behind new ecosystems that could help mitigate climate change
+The findings show that microorganisms, followed by hardy plants like mosses and grasses, are the first to colonize these barren landscapes, creating soil and enabling more complex life.
+The study suggests that with proper management, these ecosystems can grow rapidly, aiding in climate change mitigation through carbon capture, while also serving as refuges for cold-adapted species.
+In the
+, these ecosystems are vital for regulating water availability, supporting agriculture, hydropower, and biodiversity.
+Need to study the development of terrestrial ecosystems after glacier retreat
+Experts highlight that, in India, studying the development of terrestrial ecosystems after glacier retreat is crucial.
+These ecosystems regulate water availability, impacting rivers that support millions of people with drinking water, agriculture and hydropower.
+Additionally, the biodiversity in these areas offers potential for medicinal and agricultural discoveries, while promoting eco-tourism to boost local economies.
+Protecting and studying these ecosystems can lead to valuable ecological benefits, including the discovery of new plants with potential for medicine and farming.
+Post-glacial ecosystems could help slow down climate change.pdf
+( Size:  1.1 MB  )
+Click to View More
+Environment & Ecology
+**********NSE co-location case
+Why in news?
+The Securities and Exchange Board of India (SEBI) has dropped charges against the National Stock Exchange (NSE) and seven of its former top officials, five years after penalizing them for lapses in high-frequency trading through NSE’s co-location (colo) facility.
+SEBI had previously ordered the NSE to disgorge Rs 624.89 crore and barred the officials from associating with listed companies or market intermediaries for five years. With the charges now disposed of, this decision clears the path for NSE's planned mega IPO.
+What’s in today’s article?
+Co-location case
+Verdict by SEBI in co-location case
+National Stock Exchange of India (NSE)
+About
+NSE is India's largest financial market. Incorporated in 1992 and launched in 1994, the NSE has developed into a sophisticated electronic market.
+Headquartered in Mumbai
+, NSE introduced automated trading systems that replaced the open-outcry system, improving transparency, speed, and efficiency in the Indian stock market.
+Market capitalization
+As of December 2023, the NSE was the sixth-largest stock exchange in the world, as measured by market capitalization.
+In January 2024, its market capitalization and that of the Bombay Stock Exchange (BSE) totaled $4.33 trillion, making India the fourth-largest stock market worldwide.
+Key Features of NSE
+NIFTY 50
+: NSE’s benchmark stock market index, consisting of 50 of the largest and most liquid Indian companies, which reflects the overall market performance.
+Electronic Trading:
+NSE was a pioneer in adopting fully electronic, screen-based trading systems, revolutionizing Indian stock trading by making it more accessible and efficient.
+Market Segments
+: It offers trading in multiple market segments, including:
+Equity; Derivatives (futures and options); Currency Derivatives; Debt
+Regulatory Oversight
+NSE is regulated by the Securities and Exchange Board of India (SEBI), ensuring compliance with rules and maintaining fair practices in the market.
+NSE faced allegations of granting preferential access to certain brokers through its co-location (colo) facility between 2012-2014.
+Colo facility at the NSE allows brokers to keep their servers near the exchange's servers
+This might give them an advantage over other brokers:
+Faster data transmission
+- Orders placed by brokers with co-location servers reach the exchange faster than those without.
+High frequency trades - Co-location allows brokers to get price feeds nanoseconds faster than the rest of the market.
+A whistle-blower raised concerns in January 2015, reporting to SEBI that some brokers gained unfair advantages by using better hardware and early login.
+The unfair access issue pertains to 2012-14 when NSE used to disseminate price information through a unicast system.
+In such a system information is disseminated to one member after another.
+The letter to Sebi alleged that sophisticated market manipulation has been taking place for several years at the NSE co-location centre.
+It was facilitated by “dark fiber,” which allowed split-second faster access to the exchange’s data feed.
+Dark fiber - which is also known as unlit fiber or black fiber - is an unused optical fiber that has been laid.
+This speed advantage, critical for algorithmic trading, allegedly led to market manipulation.
+It was also claimed that NSE permitted non-empanelled internet service providers (ISPs) to install fiber networks for select brokers, exacerbating the unfair access issue.
+SEBI Clears NSE and Officials of Wrongdoing in Co-location Case
+Examination of Previous Evidence
+According to SEBI’s latest order, the evidence and facts in the current show-cause notice were already part of earlier investigations.
+These materials were examined by the Securities Appellate Tribunal (SAT).
+SAT had concluded that there was no violation of Prohibition of Fraudulent and Unfair Trade Practices or Stock Exchanges and Clearing Corporations regulations by NSE or its employees.
+Lack of Proof for Collusion or Connivance
+SEBI noted that while establishing collusion or conspiracy would require a higher burden of proof, no such evidence was found.
+The regulator emphasized that the establishment of a conspiracy would need clear indications of "secret or indirect consent," which was not present.
+OPG Securities and Secondary Server Access
+The order highlighted that OPG Securities continued logging into the secondary server until May 2015, even after a warning in June 2012, which suggests indirect consent from NSE.
+However, since 93 other trading members also logged into the secondary server during that time, SEBI determined the probability of collusion was low.
+NSE co-location case.pdf
+( Size:  3.7 MB  )
+Click to View More
+Economics
+**********Edible Oil Scenario in India
+Why in News?
+The Ministry of Finance issued a notification to increase import duty on edible oils from 0% to 20%. This will take the total effective duty on edible oils to 27.5% (after adding other components) - an attempt by the world's biggest edible oil importer to support local oilseed farmers.
+This comes days after the Centre allowed soybean (the leading source of edible oils) procurement at Minimum Support Price (MSP) in 4 states - Maharashtra, MP, Karnataka and Telangana.
+What’s in Today’s Article?
+Report on ‘Pathways and Strategies for Accelerating Growth in Edible Oils Towards Atmanirbharta’
+Edible Oil Scenario in India:
+What are edible oils?
+Edible oils are mainly vegetable oils
+that are subjected to several
+refining processes
+(such as neutralisation, bleaching and de-odorisation) to remove undesirable constituents.
+Regarding consumption as a food product,
+vegetable oils are considered the healthier alternative
+as they contain more unsaturated fatty acids than animal fats.
+Overall scenario of edible oil availability in India:
+India contributes about 5-6% of the world oilseeds production
+, accounting for the estimated production of 41.35 million tons (MT) of nine cultivated oilseeds during the year 2022-23 (November-October).
+Export
+of oil meals, oilseeds and minor oils was about 3.46 MT in the financial year 2022-23 valued at Rs 14,609 crores.
+Area and production of oil seeds in India:
+Regional variation in edible oil production:
+Report on ‘Pathways and Strategies for Accelerating Growth in Edible Oils Towards Atmanirbharta’:
+About the report:
+It was released by the
+NITI Aayog
+to comprehensively explore the current state of the country’s edible oil sector and its future potential.
+Highlights of the report:
+The report highlights that over the past decades,
+per capita consumption of edible
+oil in the country has seen a
+dramatic rise
+, reaching 19.7 kg/year.
+This surge in demand has significantly
+outpaced domestic production
+, leading to a
+heavy reliance on imports
+to meet both domestic and industrial needs.
+In 2022-23,
+India imported 16.5 MT
+of edible oils, with domestic production fulfilling only 40-45% of the country’s requirements.
+This situation presents a
+substantial challenge
+to the country’s goal of achieving
+self-sufficiency
+in edible oils.
+Roadmap to address existing challenges:
+The report focuses on bridging the demand-supply gap and developing new approaches to attain self-sufficiency.
+Under a Business-As-Usual (BAU) scenario, the
+national supply
+of edible oil is projected to increase to
+16 MT by 2030 and 26.7 MT by 2047
+Strategic interventions to achieve self-sufficiency in this sector:
+Crop retention and diversification.
+Horizontal expansion:
+This strategy seeks to bring more land under cultivation for specific oilseeds.
+Vertical expansion:
+It focuses on enhancing the yield of existing oilseed cultivation. This can be achieved through improved farming practices, better-quality seeds, and advanced production technologies.
+Developing a
+dynamic trade policy
+for balanced growth.
+Broadening the scope of the
+National Mission on Edible Oils
+, etc.
+India raises import tax on edible oils.pdf
+( Size:  632.0 KB  )
+Click to View More
+Economics
+**********Issues Faced by EPFO Pensioners
+What’s in Today’s Article?
+About EPS (Purpose, EPS (Amendment) Scheme, 2014)
+Background (Context of the Article)
+About CPPS (Purpose, Pensioners’ Reaction, Grievances of Pensioners, Government’s Constraints, Way Forward, etc.)
+Employees’ Pension Scheme (EPS 95 Pension Scheme):
+EPF Pension which is technically known as Employees’ Pension Scheme (EPS), is a
+social security scheme
+provided by the Employees’ Provident Fund Organisation (EPFO).
+The scheme was first launched in
+1995
+makes provisions for employees working in the organized sector for a pension after their retirement at the age of 58 years
+EPS (Amendment) Scheme, 2014:
+Through the EPS Amendment which became effective from 1 September 2014, the conditions of membership of the EPS Scheme underwent a change.
+Through the amendment, the
+EPS scheme was now applicable to such employees who on or after 16 November 1995 became a member of the EPF Scheme and whose monthly salary on the date of joining was less than or equal to
+₹
+15,000
+In the original scheme, introduced in 1995, this salary limit was
+6,500
+Further, the employees were required to contribute at the rate of 1.16% of the salary exceeding ₹15,000 as an additional contribution to the contributions payable by them under the EPF Scheme.
+maximum pensionable salary was set at
+15,000 per month
+Background:
+EPFO pensioners have been facing various challenges. This is despite the Union Labour Ministry’s recent approval for the
+Centralised Pension Payment System
+(CPPS), expected to be implemented by January 2025.
+While the initiative aims to ease some issues, many concerns remain unresolved for the 78 lakh Provident Fund (PF) pensioners under the Employees’ Pension Scheme, 1995 (EPS-95).
+Current Pension Payment System:
+Currently, EPFO pensioners are required to transfer their Pension Payment Orders (PPO) when they relocate, leading to delays in pension disbursement.
+The pension can only be drawn through a limited number of empaneled banks in specific regions.
+This process has been inconvenient for many pensioners.
+Introduction of Centralised Pension Payment System (CPPS):
+The CPPS aims to simplify the pension process by
+allowing pensioners to receive their pensions through any bank, in any branch, across the country starting from January 2025
+It will eventually transition to an Aadhaar-based system, eliminating the need for physical verification.
+This change is expected to reduce the costs of pension disbursement significantly.
+Pensioners’ Reactions to CPPS:
+While pensioners have welcomed the move, they remain cautious, awaiting further details on the practical implementation.
+Many analysts noted that most pensioners already use ATMs for withdrawals due to the core banking system.
+The actual benefits of the new system will only be clear after implementation.
+Dissatisfaction with Pension Amount:
+Pensioners are dissatisfied with the
+government's failure to address long-standing demands for a unified pension scheme
+They had expected a system combining features from the Old Pension Scheme (OPS) and the New Pension Scheme (NPS).
+Trade unions and Members of Parliament have been advocating for an increase in the minimum pension, which has remained at ₹1,000 for several years
+Associations like the Chennai EPF Pensioners’ Welfare Association have been demanding a minimum pension of ₹9,000, including dearness allowance (DA).
+Processing of Pension on Higher Wages:
+Pensioners and PF members are also frustrated with delays in processing applications for pensions based on higher wages, a right granted by the Supreme Court in 2022.
+Despite this ruling, many pensioners have yet to see any significant changes.
+As of August 2024, out of the 17.5 lakh applications submitted online, only 8,401 had been processed, and approximately 1.5 lakh applications were rejected.
+EPFO has sent demand notices to 89,235 applicants, requesting the transfer of arrears.
+Government’s Financial Constraints:
+The Union government has cited financial limitations as the primary reason for not increasing the minimum pension amount.
+The government contributes 1.16% of employees' basic wages to the Pension Scheme and allocates a significant budget to ensure pension payments.
+In 2023-24, the government’s contribution was ₹9,760 crore, and for 2024-25, it is expected to be ₹10,950 crore.
+However, despite these contributions, there is uncertainty about how much the government can raise the minimum pension.
+EPFO’s Position on Higher Wage Pensions:
+The EPFO has historically opposed the idea of providing pensions based on higher wages, arguing that the EPS-95 was designed for economically weaker workers.
+The organisation believes that granting pensions to high-wage earners would jeopardize the sustainability of the Pension Fund.
+However, the fund has not faced any immediate cash flow issues, despite actuarial deficit projections.
+Pensioners have also criticized the EPFO for demanding outdated documents from them.
+Way Forward:
+To address these challenges, the g
+overnment must increase its contributions to EPS-95 and revise the wage ceiling for Provident Fund contributions
+, which has remained at ₹15,000 for the last decade.
+A proposal to
+allow employees to choose between investing in the EPF or NPS
+, suggested by former Finance Minister Arun Jaitley in 2015, could also offer better returns on investment.
+Additionally, the exclusion of employees who joined after September 1, 2014, from the EPS-95 should be reconsidered to ensure that all employees are eligible for pensions, regardless of their earnings.
+What are the issues faced by EPFO pensioners.pdf
+( Size:  458.1 KB  )
+Click to View More
+Economics
+**********

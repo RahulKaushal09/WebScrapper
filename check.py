@@ -31,7 +31,8 @@ from urllib.parse import urljoin, urlparse
 #             check_answer_button = component.find_element(By.XPATH, "//button[@aria-label='Check Answer Button']")
 #             check_answer_button.click()
 def getScrollerTest(url):
-    service = Service(ChromeDriverManager().install())
+    # service = Service(ChromeDriverManager().install())
+    service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
     options = webdriver.ChromeOptions()
     user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
     options.add_argument(f"user-agent={user_agent_string}")

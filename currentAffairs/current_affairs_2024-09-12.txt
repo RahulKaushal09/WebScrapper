@@ -1,0 +1,721 @@
+Indian Government’s EV Push
+Why in News?
+The PM-led Union Cabinet approved the ‘PM Electric Drive Revolution in Innovative Vehicle Enhancement (
+PM E-DRIVE
+) Scheme' for promotion of electric mobility in the country.
+The scheme, proposed by the
+Ministry of Heavy Industries (MHI),
+will replace the
+existing FAME programme
+and has an outlay of Rs 10,900 crore over a period of two years.
+What’s in Today’s Article?
+India’s EV Revolution
+About the PM E-DRIVE Scheme
+India’s EV Revolution:
+Need:
+At the COP26 to the UNFCCC
+(held in Glasgow, UK, in 2021), the Indian PM presented to the world
+Panchamrit
+of India’s climate action plan.
+The Panchamrit/ the 5 nectar elements included:
+Increasing non-fossil fuel capacity by 500 GW by 2030.
+50% of its energy requirements will come from renewable energy by 2030.
+Reduction of total projected carbon emissions by 1 billion tonnes from now to 2030.
+Reduction of the carbon intensity of the economy by 45% by 2030, over 2005 levels.
+Achieving the target of net zero emissions by 2070.
+Apart from this, the Indian PM also highlighted ‘Lifestyle for Environment’ (
+LiFE
+) - a global mission asserting the need to follow a sustainable lifestyle.
+Electric vehicles (EVs) can help India achieve
+its Panchamrit and LiFE goals by reducing emissions, improving energy security, etc.
+Steps taken by India:
+National Electric Mobility Mission Plan (NEMPP):
+The MHI launched the NEMMP 2020 in 2013 for deploying 5 to 7 million EVs in the country by 2020, lowering vehicular emissions by 1.3 to 1.5% by 2020, etc.
+The Faster Adoption and Manufacturing of Electric Vehicles (FAME) India Scheme:
+Launched as part of the NEMPP, the FAME India scheme has been implemented since 1st April
+2015
+Under this,
+subsidies
+are being given to promote manufacturing of electric and hybrid vehicle technology and to ensure
+sustainable growth
+of the same.
+Subsidies are meant to bring a price parity
+between vehicles that have electric motors and fossil fuel-run engines, thereby
+nudging buyers
+to go for the cleaner option.
+The first phase -
+, ran for four years until 2019. Under the
+FAME II
+(which ended on 31
+March 2024), companies can -
+Offer
+a discount of up to 40% on the cost of locally manufactured vehicles
+Claim it as a subsidy from the government.
+Production Linked Incentive (PLI) Scheme for the Automotive Sector:
+To boost domestic manufacturing of advanced automotive technology (AAT) products and attract investments in the automotive manufacturing value chain.
+PLI Scheme for National Programme on Advanced Chemistry Cell (ACC) Battery Storage
+: To enhance capabilities for the manufacture of ACC in India.
+Achievements of India’s EV revolution:
+The value of the Indian EV market in 2023 was US$2bn, and the projection by 2025 is US$7.1bn, with the domestic market achieving 10 million annual sales by 2030.
+Two-wheelers are driving this development
+, and they will make up 40-50% of all EVs sold in India by 2030.
+Over the past two years,
+the number of public chargers skyrocketed
+from a modest 1,800 to an impressive 16,347.
+EV revolution in India faces several challenges:
+Such as poor charging infrastructure, high cost (more expensive than conventional vehicles), battery lifespan, talent gap, lack of standardisation (of charging infra and techs) and regulatory challenges (like unclear guidelines).
+About the PM E-DRIVE Scheme:
+Objectives:
+The scheme seeks to
+accelerate the adoption of electric vehicles in India by offering upfront incentives
+for their purchase and facilitating the creation of necessary charging infrastructure.
+Its goal is to
+reduce the environmental impact of transportation
+and improve air quality through the promotion of EVs, mass public transportation, and advanced EV technologies.
+Key highlights:
+Subsidies and demand incentives:
+The scheme allocates Rs 3,679 crore to incentivise the purchase of electric two-wheelers (e-2Ws), three-wheelers (e-3Ws), electric ambulances, trucks, and other emerging EV categories.
+E-Vouchers for EV buyers:
+Buyers of electric vehicles will be issued an e-voucher under the scheme to avail demand incentives.
+The e-voucher will be Aadhaar-authenticated and sent to the buyer's registered mobile number after the purchase.
+E-Ambulance deployment:
+A budget of Rs 500 crore has been allocated to deploy electric ambulances. This new initiative aims to provide comfortable and environmentally friendly patient transport.
+E-Buses for public transport:
+Rs 4,391 crore has been earmarked for the procurement of 14,028 e-buses by State Transport Undertakings (STUs) and public transport agencies.
+Incentives for E-Trucks:
+Rs 500 crore has been allocated to promote the deployment of e-trucks, a major contributor to air pollution.
+Charging infrastructure:
+To address range anxiety and support the growth of electric vehicles, Rs 2,000 crore will be used to install public charging stations (EVPCS) in cities with high EV penetration and along selected highways.
+Modernisation of testing facilities:
+An additional Rs 780 crore has been approved to modernise MHI’s test agencies, ensuring they are equipped to handle new and emerging green mobility technologies.
+Cabinet approves ₹10,900 crore for EV push.pdf
+( Size:  101.3 KB  )
+Click to View More
+Polity & Governance
+**********Mission Mausam
+Why in the News?
+The Union Cabinet approved a mission to upgrade the capabilities of India’s weather department in forecasting, modelling and dissemination. Mission Mausam will have a budget of
+₹
+2,000 crore for the first two years of its implementation.
+What’s in Today’s Article?
+About Mission Mausam (Objectives, Key Focus Areas, Institutions Involved, Benefits, Conclusion)
+About Mission Mausam:
+The Union Cabinet, chaired by Prime Minister Narendra Modi, has approved the ambitious Mission Mausam with an outlay of
+₹2,000 crore over two years
+This initiative, led by the Ministry of Earth Sciences (MoES),
+aims to revolutionize India's capabilities in weather and climate science, research, and services
+Objectives of Mission Mausam:
+The key objectives of the mission include:
+Improving Weather Prediction Accuracy
+: By utilizing advanced technologies, Mission Mausam aims to provide highly accurate and timely weather and climate forecasts.
+Strengthening Climate Resilience
+: The mission will equip various stakeholders, including citizens and last-mile users, to better tackle extreme weather events and the impacts of climate change.
+Broadening Capacity in Weather Sciences
+: Through research and development, the mission will strengthen India's capability in atmospheric sciences, including weather modelling, forecasting, and surveillance.
+Key Focus Areas:
+Mission Mausam will focus on several critical areas that impact India’s economy and public safety:
+Monsoon Forecasts
+: Enhanced predictions for the monsoon season, critical for agriculture and water management.
+Air Quality Alerts
+: Providing accurate air quality forecasts to help manage pollution.
+Extreme Weather Events
+: Timely alerts for cyclones, floods, and other extreme weather conditions.
+Weather Interventions
+: Techniques for managing fog, hail, and rain to minimize disruptions in daily life and business activities.
+Technological Advancements Under Mission Mausam:
+Mission Mausam will leverage cutting-edge technologies to enhance India's weather forecasting systems:
+Advanced Observation Systems
+: The mission will deploy next-generation radars, satellite systems, and sensors to capture real-time data.
+High-Performance Computing
+: Supercomputers will be integrated into the system to process vast amounts of data efficiently.
+Artificial Intelligence (AI) and Machine Learning (ML)
+: AI and ML technologies will be used to predict weather patterns with higher precision.
+Earth System Models
+: Improved models will help forecast a variety of weather conditions, including monsoon patterns, cyclones, and extreme weather events.
+GIS-Based Automated Decision Support Systems
+: These systems will provide real-time data dissemination and alerts.
+Sectors Benefiting from Mission Mausam:
+The mission will have a widespread impact across multiple sectors in India, including:
+Agriculture
+: Accurate weather forecasts will help farmers plan crop cycles and reduce losses due to unpredictable weather.
+Disaster Management
+: Early warnings and accurate predictions will enhance disaster preparedness and reduce the impact of natural calamities.
+Defence and Aviation
+: Real-time weather data will support operations in defense and aviation by ensuring safer travel and military operations.
+Environment and Health
+: Better environmental monitoring will contribute to sustainable development, while improved air quality forecasts will protect public health.
+Transport and Energy
+: Weather forecasts will aid urban planning, road transport, offshore operations, and energy production, especially in renewable sectors like wind and solar power.
+Implementing Institutions:
+Mission Mausam will be spearheaded by three key institutes under the Ministry of Earth Sciences:
+India Meteorological Department (IMD)
+: Responsible for daily weather forecasts and warnings.
+Indian Institute of Tropical Meteorology (IITM)
+: Engaged in tropical weather and climate research.
+National Centre for Medium-Range Weather Forecasting (NCMRWF)
+: Specializes in medium-range weather forecasting.
+These institutions will be supported by other MoES bodies such as the
+Indian National Centre for Ocean Information Services (INCOIS)
+National Centre for Polar and Ocean Research (NCPOR)
+National Institute of Ocean Technology (NIOT)
+Conclusion:
+Mission Mausam is a transformative step towards strengthening India’s weather and climate resilience. By harnessing cutting-edge technology and international collaborations, it will enhance the country’s ability to manage extreme weather events, making India a global leader in climate sciences.
+Through this initiative, various sectors of the Indian economy will benefit from more accurate and reliable weather data, driving better decision-making and planning for a sustainable future.
+Mission Mausam.pdf
+( Size:  116.4 KB  )
+Click to View More
+Polity & Governance
+**********Ayushman Bharat health insurance for senior citizens
+Why in news?
+The Union Cabinet has cleared the
+expansion
+of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) to provide health coverage to all senior citizens aged 70 years and above irrespective of their income.
+What’s in today’s article?
+Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)
+About
+Launched in September 2018, the scheme aimed to offer secondary and tertiary care services to the vulnerable population in the society.
+It was launched as a second component of the ‘Ayushman Bharat’ scheme.
+This scheme aimed to offer
+medical coverage of Rs. 5 lakh per family per year
+for secondary and tertiary care hospitalisation to poor and vulnerable families.
+The scheme covers over nearly 40% of the population targeted towards poorest and the vulnerable.
+Eligibility
+The scheme is targeted to cover 10.74 crore
+poor, deprived rural families
+identified occupational category of urban worker’s families
+The beneficiaries as identified by latest Socio-Economic Caste Census (SECC) data.
+Benefits
+It provides cashless access to health care services for the beneficiary at the point of service, i.e., the hospital.
+Under the scheme every eligible family will be given Rs 5 lakh Insurance coverage benefit per year.
+It offers Health Benefit Packages which covers surgery, medical and day care treatments, cost of medicines and diagnostics.
+Role of National Health Authority (NHA)
+NHA is the apex body responsible for implementing India’s flagship public health insurance/assurance scheme – AB PMJAY.
+It has been entrusted with the role of:
+designing strategy, building technological infrastructure and
+implementation of National Digital Health Mission to create a National Digital Health Eco-system.
+To implement the scheme at the State level, State Health Agencies (SHAs) in the form of a society/trust have been set up by respective States.
+Performance
+About the news
+The Union Cabinet has expanded the AB PM-JAY to provide health coverage to people aged 70 years and above, regardless of their income level, public healthcare.
+Currently, the scheme is income-based and provides Rs 5 lakh shared annual coverage to all members of eligible families, irrespective of their age.
+In its current form, the scheme is estimated to comprise the bottom 40 per cent of the population economically.
+Extension of the scheme
+The extension will now cover all citizens aged
+, offering
+Rs 5 lakh annual coverage per family
+This expansion is expected to benefit an additional
+6 crore elderly people
+from
+4.5 crore families
+Coverage under new plan
+Senior citizens aged 70 and above, and belonging to families already covered under AB PM-JAY, will
+get an additional (shared) top-up cover up to Rs 5 lakh per year for themselves
+Shared top-up coverage - If there are two senior citizens (70 years+) in a family, then the Rs 5 lakh coverage will be shared between them.
+Those benefiting from other public health insurance schemes like
+CGHS
+ECHS
+, or
+Ayushman CAPF
+can either continue with their current schemes or opt for AB PM-JAY.
+Additionally, senior citizens under
+private health insurance policies
+Employees’ State Insurance Scheme
+will also be eligible to avail the benefits of AB PM-JAY.
+Other features
+This is a demand-based scheme; as the demand goes up, the coverage will also be increased.
+Each beneficiary aged 70 and above will receive a new health card, ensuring streamlined access to healthcare benefits.
+This expansion is expected to provide substantial relief to a demographic that often struggles with managing disease burdens without a reliable social security net.
+This move is essential as India witnesses a shift towards nuclear family structures, where the financial burden on elderly individuals is more pronounced.
+Although the Ayushman Bharat scheme aimed at universal health coverage, this will be the first age group to receive full coverage.
+Ayushman Bharat health insurance for senior citizens.pdf
+( Size:  2.1 MB  )
+Click to View More
+Social Issues
+**********Effectuation of fundamental duties a continuing task - Attorney General of India
+Why in news?
+The Attorney General of India, R. Venkataramani, addressed the Supreme Court regarding the
+"effectuation of Fundamental Duties"
+. He emphasized that it is a
+requiring
+duty-specific legislation, schemes, and supervision
+What’s in today’s article?
+Observation made by Attorney General of India in Supreme Court
+About
+Fundamental Duties are moral obligations laid down by the Constitution of India that every citizen is expected to follow.
+These duties are enshrined in
+Article 51A under Part IV-A
+of the Constitution.
+These duties emphasize the responsibility of citizens to uphold the spirit of the Constitution and contribute to the nation’s development and well-being.
+Although
+these duties are not legally enforceable
+, they serve as a guiding principle to foster a sense of civic responsibility.
+The fundamental duties are taken from the USSR (Russia) constitution.
+The addition of fundamental duties in our constitution have brought our constitution aligned with the Article 29(1) of the Universal Declaration of Human Rights and with various provisions of the modern constitution of other countries.
+Evolution and Amendments
+Original Constitution (1950):
+The Indian Constitution, at the time of its adoption, did not contain any provisions related to Fundamental Duties.
+42nd Amendment (1976):
+During the Emergency period, the Swaran Singh Committee was appointed by the government to suggest constitutional amendments.
+Based on its recommendations, Part IV-A and Article 51A were added, incorporating
+10 Fundamental Duties
+to remind citizens of their moral responsibilities.
+86th Amendment (2002):
+The 11th Fundamental Duty was added, making it the duty of parents or guardians to provide opportunities for education to their children.
+As of now, Article 51A outlines the following
+11 Fundamental Duties
+for Indian citizens.
+Important Supreme Court Judgments Regarding Fundamental Duties
+Chandra Bhavan Boarding and Lodging v State of Mysore (1969)
+Emphasised that the Constitution conceives of both rights and duties.
+M.C. Mehta v Kamal Nath II (2000)
+The court recognized the
+importance of protecting the environment as one of the fundamental duties
+and upheld the responsibility of citizens to contribute toward its preservation.
+It emphasised that Article 51A(g) imposes a duty on every citizen to protect and improve the natural environment and to have compassion for living creatures.
+Rangnath Mishra Commission Case (2003)
+The Supreme Court directed the Centre to implement the
+recommendations of the Justice J.S. Verma Committee
+with respect to disseminating information on Fundamental Duties to the public.
+Javed v State of Haryana (2003)
+The apex Court emphasized that
+Fundamental Duties are just as important as Fundamental Rights and must be honored for the progress of society
+The Judgment stressed that Fundamental Rights must be read in conjunction with the Directive Principles of State Policy and Fundamental Duties.
+In Re Ramlila Maidan Incident v Home Secretary (2012)
+The court emphasised that while citizens are entitled to Fundamental Rights,
+a Fundamental Duty to obey lawful orders and extend full cooperation in maintaining public order and tranquility is cast on citizens
+The "effectuation of fundamental duties" refers to the process or measures taken to ensure that the
+enshrined in the Indian Constitution are actively implemented, observed, and followed by citizens.
+Ways To Effectuate These Duties
+Awareness and education campaigns
+Inclusion in school curricula
+to instill a sense of responsibility in children.
+Government initiatives or policies
+encouraging compliance (e.g., promoting respect for the national symbols, environmental conservation).
+Judicial interpretation
+: Courts sometimes reference Fundamental Duties when interpreting laws or issuing judgments to reinforce civic responsibility.
+Justice Verma Committee for effectuation of duties
+The committee was formed in 1998 in response to the need for an effective plan for the enforcement of Fundamental Duties, with the goal of instilling a sense of responsibility and civic consciousness in individuals from an early age.
+following laws were identified by the committee
+for the enforcement of some of the Fundamental Duties:
+Prevention of Insults to National Honour Act, 1971:
+Disrespecting the National flag, the Constitution of India, and the National Anthem is deemed unlawful under this act.
+Protection of Civil Rights Act, 1955:
+This act provides legal provisions and punishments for offences related to caste and religion, safeguarding civil rights and promoting equality.
+Representation of the People Act, 1951:
+Members of Parliament or state legislatures indulging in corrupt practices, such as seeking votes in the name of religion, can be held accountable under this act, ensuring ethical conduct in elections.
+Wildlife (Protection) Act, 1972:
+Promotes conservation efforts and preserving biodiversity.
+Forest (Conservation) Act, 1980:
+Implemented to ensure the proper implementation of Article 51A(g).
+Background of the case
+The top court was hearing a plea filed by lawyer Durga Dutt which sought direction to the Centre for enacting well defined laws/rules to
+ensure adherence to the fundamental duties as enshrined in the Constitution
+The plea also stressed that non-adherence to Fundamental Duties impacts
+Articles 14, 19, and 21
+, and called for the creation of schemes incentivizing citizens to follow these duties.
+Additionally, it sought guidelines from the Centre and states to raise public awareness and encourage compliance with these duties.
+Observations made by the Attorney General of India
+He emphasized that effectuation of FD is a
+He noted that the judiciary should refrain from directing the legislature to enact laws, especially when such matters are under legislative consideration.
+He highlighted that the judiciary, including the Supreme Court, has consistently recognized the importance of Fundamental Duties in interpreting constitutional matters and imposing a social obligation on citizens.
+However, he also pointed out that
+Fundamental Duties are non-justiciable
+and that their implementation lies primarily with the
+executive
+He referenced a
+1998 committee
+constituted by the Centre to teach and operationalize Fundamental Duties.
+The Attorney General argued that incorporating these duties in
+is insufficient without active efforts from the government, particularly in
+education and culture
+He urged the court to acknowledge the steps already taken and to
+close the case
+with appropriate directions.
+Effectuation of fundamental duties a continuing task.pdf
+( Size:  2.0 MB  )
+Click to View More
+Polity & Governance
+**********With an eye on Indo-Pacific, Germany seeks greater defence ties with India
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Tarang Shakti;
+Mains level:
+India and Germany Relations;
+Why in the News?
+External Affairs Minister S. Jaishankar, currently in Germany as part of a three-nation tour, met with German Foreign Minister Annalena Baerbock in Berlin. They discussed various
+defence topics
+, including
+Ukraine, Gaza
+, and the
+Indo-Pacific region
+Defence Partnership between India and Germany:
+Late Engagement
+: Germany has been late in engaging India’s defence interests
+compared to France and the U.S.
+, who have stronger partnerships with India.
+Opportunity Post-Russia-Ukraine War
+: With Russia’s industrial capacity focused on the war,
+Germany sees an opportunity to enhance its defence exports to India.
+German defence manufacturers like
+ThyssenKrupp Marine Systems are already involved in projects like submarine construction
+for the Indian Navy.
+Technology Transfer
+: Technology transfer is a key condition for India’s defence partnerships, and Germany’s ability to meet this requirement could shape future cooperation.
+Complementary Systems
+: Germany’s
+Eurofighter and its future replacement by U.S.-made F-35s
+highlight Germany’s readiness to integrate its defence systems with Western platforms, easing potential interoperability issues for India.
+Exercise Tarang Shakti:
+is one of the most extensive
+multilateral air exercises hosted by the Indian Air Force (IAF),
+showcasing India’s commitment to international defence cooperation.
+This exercise marked the
+first time the German Luftwaffe (Air Force)
+participated in air sorties over Indian skies,
+symbolizing Germany’s growing defence ties with India.
+It would become a
+biennial exercise,
+highlighting India’s intent to make such
+multinational military cooperation a regular feature.
+Tarang Shakti was seen as a tryout for the larger
+Pacific Skies 24 air exercise involving France, Germany, and Spain
+, further emphasizing the Indo-Pacific’s growing military relevance.
+Present Dilemma of China:
+Germany’s Strategic Interest in the Indo-Pacific
+: China’s aggressive actions, such as building artificial islands in the South China Sea, pose a significant threat to regional stability,
+international shipping, and trade routes
+, which Germany heavily depends on.
+Germany’s Balancing Act
+: While Germany has clear political positions against China’s actions in the Indo-Pacific, its
+economic dependence on China complicates the situation
+. Germany’s increasing defence presence in the region is partly aimed at ensuring free and secure shipping routes.
+Europe’s Shift in Focus
+: Post Russia-Ukraine war, Europe, including Germany, is r
+ecalibrating its foreign policy towards the Indo-Pacific, recognizing the region as the future centre of global economic and geopolitical influence,
+which is driving greater German defence engagement in the region.
+Way Forward:
+Enhance Defence Collaboration
+: India and Germany should focus on deepening defense cooperation, particularly in areas like technology transfer, joint military exercises, and advanced systems integration to build long-term strategic partnerships.
+Strengthen Indo-Pacific Engagement
+: Germany and India should align their Indo-Pacific strategies to ensure regional stability, emphasizing free trade routes and countering China’s assertiveness while balancing economic dependencies.
+Mains PYQ:
+To what extent can Germany be held responsible for causing the two World Wars? Discuss critically.
+(UPSC IAS/2015)
+**********India’s Sickle Cell Challenge  
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Sickle Cell Anaemia Elimination;
+Mains level:
+Challenges related to the National Sickle Cell Anaemia Elimination Mission;
+Why in the News?
+The Prime Minister has reaffirmed the government’s dedication to addressing sickle cell disease, a genetic blood disorder that alters the shape of red blood cells.
+About the National Sickle Cell Anaemia Elimination Mission:
+Union Budget 2023-24
+announced a mission to eliminate sickle cell anemia
+by 2047
+. The mission focuses on awareness and screening programs for people
+ages 0 to 40
+The mission aims to
+reduce the burden of sickle cell disease,
+which primarily affects
+India’s tribal belt (Odisha, Jharkhand, Chhattisgarh, Madhya Pradesh, Maharashtra)
+These include nationwide
+the inclusion of vital medicines
+like
+hydroxyurea
+in the essential medicines list, improving access to treatment.
+Challenges faced by the Indian Government:
+High Disease Burden:
+India has the
+world’s second-largest burden of sickle cell disease,
+with over a million affected individuals, primarily in tribal areas.
+Low Treatment Coverage:
+Only 18% of those affected receive consistent treatment
+, with significant drop-offs in screening, diagnosis, and treatment adherence.
+Stigma and Misinformation:
+Social stigma around the disease,
+myths such as “God’s curse” or “black magic,” and mistrust of public health systems
+, particularly in tribal areas, result in delayed diagnosis and treatment.
+Treatment Adherence Issues:
+Challenges include inconsistent availability of medicines like
+hydroxyurea, long travel distances for treatment,
+stock shortages at health centers.
+Poor Vaccination Coverage:
+Vaccination, which reduces infection rates and improves quality of life, remains inadequate in many affected regions.
+Research and Development:
+The lack of ongoing research into treatments and understanding of the disease in India, and the
+unaffordability of emerging therapies like gene therapy, hinder long-term progress.
+Financial and Operational Gaps:
+Health systems in
+tribal areas require additional funding and operational
+strengthening to address region-specific health challenges effectively.
+What are the WHO recommendations?
+Early Identification:
+Implement
+newborn screening programs to identify sickle cell
+at birth
+Integration into Health Systems:
+Sickle cell management should be integrated into national health services. This includes establishing
+specialized centers for comprehensive care and ensuring that primary healthcare
+providers are trained in managing sickle cell disease.
+Public Education and Awareness:
+Conduct public education campaigns to
+raise awareness about sickle cell disease, reduce stigma, and inform communities about genetic risks
+and prevention strategies.
+Genetic Counseling:
+Provide genetic counselling to families, especially in
+communities with high prevalence, to inform them about the risks of having children with sickle cell disease
+and the importance of carrier screening.
+Mains PYQ:
+Stem cell therapy is gaining popularity in India to treat a wide variety of medical conditions including leukaemia, Thalassemia, damaged cornea and several burns. Describe briefly what stem cell therapy is and what advantages it has over other treatments.
+(UPSC IAS/2017)
+**********Who was Sakthan Thampuran (1751-1805)?
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Ministry of Tourism has pledged to replace the Sakthan Thampuran statue that was knocked over by a state transport bus in Thrissur.
+Who was Sakthan Thampuran?
+Sakthan Thampuran, born
+Raja Rama Varma IX
+, was a powerful ruler of the
+Cochin kingdom
+from 1790 to 1805.
+He was
+raised by an
+aunt
+who nicknamed him
+, meaning powerful, reflecting his strong personality and leadership.
+The title
+is derived from the Sanskrit word
+samrat
+, meaning emperor.
+, a part of the
+Late Chera Empire
+, spanned regions from
+Ponnani (Malappuram) to Thottappally (Alappuzha)
+in modern-day Kerala.
+At age 18, in 1769, he became heir apparent, advising the king to
+maintain friendly relations with both the Dutch and the English
+, who were competing for control of trade in the region.
+orchestrated
+Mysore invasion of Travancore
+, which eventually led to the
+Powney treaty
+This treaty
+freed the Cochin kingdom
+from its
+allegiance to Mysore
+formalized its relations with the British East India Company.
+ended the institution
+Yogiatirippads
+, spiritual heads of key temples. He shifted
+temple management to the government
+, earning a reputation as a fearsome leader who rid his kingdom of crime.
+and the Thrissur Pooram Festival
+relocated the capital
+of his kingdom from Thrippunithura
+He developed
+Thekkinkadu Maidanam
+and the surrounding
+Swaraj Round
+, which became the
+foundation for Thrissur’s infrastructure
+He invited
+merchants from all religions and British officials
+to settle in Thrissur, and personally managed the kingdom’s finances.
+In 1797,
+he started the
+as an
+alternative to Arattupuzha Pooram
+, uniting major temples in Thrissur
+to pay respects to Lord Shiva
+, the deity at
+Vadakkumnathan Temple
+It is
+held every year
+on the
+Pooram day
+– the day when the moon rises with the Pooram star in the Malayalam Calendar month of
+Medam
+PYQ:
+[2021]
+With reference to Indian history, which of the following statements is/are correct?​
+1. The Nizamat of Arcot emerged out of Hyderabad State.​
+2. The Mysore Kingdom emerged out of Vijayanangara Empire.​
+3. Rohilkhand Kingdom was formed out of the territories occupied by Ahmad Shah Durrani.​
+Select the correct answer using the code given below:
+(a) 1 and 2 only​
+(b) 2 only​
+(c) 2 and 3 only​
+(d) 3 only ​
+**********Cabinet approves ₹5 lakh Health Cover for Senior Citizens
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+AB PM-JAY and its beneficiaries
+Why in the News?
+The Union Cabinet has approved
+health coverage of ₹5 lakh for all senior citizens aged 70 years and above,
+regardless of their income, under the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY).
+About Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)
+AB PM-JAY is the
+world’s largest publicly funded health assurance scheme
+, offering
+₹5 lakh of coverage
+per family
+annually
+secondary and tertiary care
+hospitalizations.
+It was launched in
+February 2018
+It is a
+Centrally Sponsored Scheme
+having central sector component under the
+Ayushman Bharat Mission.
+It covers
+surgery, medical and day care treatments
+cost of medicines
+diagnostics
+It covers up to
+3 days of pre-hospitalization
+15 days post-hospitalization
+expenses.
+It currently covers
+55 crore people from 12.34 crore families
+, providing comprehensive health benefits regardless of the family members’ age.
+7.37 crore hospital admissions
+have been covered under the scheme, with 49% of the beneficiaries being women.
+Eligibility Criteria:
+All senior citizens aged 70 and above
+are eligible for the scheme, receiving a ₹5 lakh health cover on a family basis.
+Additional Benefits:
+Senior citizens belonging to families already under AB PM-JAY will get an
+extra top-up of ₹5 lakh
+, exclusively for their personal healthcare.
+Those with
+private health insurance
+can also avail of the scheme.
+covered under other public health insurance schemes
+, like CGHS, ECHS, or CAPF,
+must choose between their current plan
+and AB PM-JAY.
+All eligible beneficiaries
+will be issued a
+distinct health
+card
+for easy access to the scheme’s benefits.
+PYQ:
+[2012]
+With reference to National Rural Health Mission, which of the following are the jobs of Asha, a trained community health worker?
+1. Accompanying women to the health facility for antenatal care checkups
+2. Using pregnancy test kits for early detection of pregnancy
+3. Providing information on nutrition and immunization
+4. Conducting the delivery of baby
+Select the correct answer using the codes given below:
+(a) 1, 2 and 3 only
+(b) 2 and 4 only
+(c) 1 and 3 only
+(d) 1, 2, 3 and 4
+**********Launch of PM Gram Sadak Yojana- Phase IV
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+All phases of PMGSY
+Why in the News?
+The Union Cabinet has approved
+Phase IV of the Pradhan Mantri Gram Sadak Yojana (PMGSY-IV)
+to build 62,500 km of all-weather roads, connecting villages across India.
+About
+Pradhan Mantri Gram Sadak Yojana (PMGSY)
+Details
+2000
+by former PM Late Atal Bihari Vajpayee.
+To provide connectivity to unconnected habitations.
+Nodal Agency
+Ministry of Rural Development
+Type
+Centrally Sponsored Scheme
+Phases
+Phase I:
+Focus on connecting unconnected habitations.
+Phase II:
+Upgrading roads built in Phase I to enhance rural infrastructure.
+Phase III:
+Consolidation of 1.25 lakh km of rural roads connecting habitations to Gramin Agricultural Markets, Higher Secondary Schools, and Hospitals. Cost: ₹80,250 crore (2019-2025). Funding: 60:40 (Centre), 90:10 for North-East and Himalayan States.
+Phase IV:
+Aims at constructing 62,500 km of all-weather roads to provide connectivity to 25,000 unconnected habitations with focus on Left-Wing Extremism (LWE) areas, tribal areas, and remote regions.
+Road Length and Coverage
+62,500 km of all-weather roads covering 25,000 unconnected habitations.
+Benefits of PMGSY-IV
+Road Connectivity for 25,000 Villages:
+All-weather roads
+will provide reliable access to previously
+unconnected rural habitations,
+improving transportation and accessibility.
+Socio-Economic Transformation:
+These roads will act as
+catalysts for socio-economic development in rural areas,
+enabling access to government educational institutions, health services, markets, and growth centers.
+Enhanced Infrastructure:
+The construction will adopt international benchmarks and best practices, such as using
+Cold Mix Technology, Waste Plastic, Full Depth Reclamation
+materials like Fly Ash and Steel Slag,
+contributing to eco-friendly construction.
+PYQ:
+[2020]
+In rural road construction, the use of which of the following is preferred for ensuring environmental sustainability or to reduce carbon footprint?
+Copper slag
+Cold mix asphalt technology
+Geotextiles
+Hot mix asphalt technology
+Portland cement
+Select the correct answer using the code given below:
+(a) 1, 2 and 3 only
+(b) 2, 3 and 4 only
+(c) 4 and 5 only
+(d) 1 and 5 only
+**********Union Cabinet approves ‘Mission Mausam’
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Union Cabinet has approved ‘Mission Mausam’ with a budget of ₹2,000 crore over two years.
+About Mission Mausam
+Mission Mausam focuses on strengthening
+R&D in weather surveillance
+, forecasting, and atmospheric sciences.
+Ministry of Earth Sciences (MoES)
+will be the nodal body responsible for implementing the mission.
+It aims to set a new benchmark for
+high-precision weather forecasting
+and management.
+Three institutes under the MoES will
+lead the implementation
+of Mission Mausam:
+India Meteorological Department (IMD)
+Indian Institute of Tropical Meteorology (IITM)
+National Centre for Medium-Range Weather Forecasting (NCMRWF)
+Critical Components of the Mission:
+Next-generation radars and satellite systems equipped with advanced sensors.
+Deployment of high-performance supercomputers to enhance computational capabilities.
+Development of improved earth system AI models and a GIS-based automated Decision Support System for real-time data dissemination.
+Benefits and Applications
+Mission Mausam is expected to benefit key sectors, including:
+Agriculture, through improved weather prediction for farming activities.
+Disaster management, with better preparedness for natural calamities.
+Defence, aviation, and shipping, through enhanced forecasting for operational safety.
+Energy, water resources, power, and tourism sectors.
+The mission will also enhance data-driven decision-making for urban planning, transport, offshore operations, and environmental monitoring.
+PYQ:
+[2022]
+Discuss the meaning of colour-coded weather warnings for cyclone prone areas given by India Meteorological Department.
+**********

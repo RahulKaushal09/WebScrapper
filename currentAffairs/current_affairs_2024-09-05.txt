@@ -1,0 +1,736 @@
+Genome mapping of Chandipura virus
+Why in news?
+The Gujarat Biotechnology Research Centre (GBRC) in Gandhinagar has successfully published the first fully mapped genome of the Chandipura Vesiculovirus (CHPV).
+This virus is responsible for causing encephalitis or brain swelling, which accounted for a significant portion of cases during the outbreak in Gujarat in July-August.
+What’s in today’s article?
+Key Findings of the study
+About
+Genome mapping refers to the process of identifying the locations of genes and important sequences on a genome.
+Genome mapping provides important clues on where a virus comes from, how it is changing, and whether it has any mutations that are likely to make it more transmissible or deadly.
+Genome maps are of two types:
+genetic maps
+, which show the relative positions of genes based on recombination frequency, and
+physical maps
+, which show the absolute positions of genes based on DNA base pairs.
+Significance
+Understanding Genetic Disorders
+: Genome mapping helps identify genes associated with genetic diseases, facilitating early diagnosis, targeted treatment, and genetic counseling.
+Personalized Medicine
+: Mapping can lead to customized treatment plans based on an individual's genetic makeup, improving the effectiveness of therapies.
+Agriculture
+: In crops and livestock, genome mapping allows the identification of desirable traits, aiding in breeding programs for higher yield, disease resistance, and quality.
+Vaccine and Drug Development
+: Understanding the genomic structure of pathogens like viruses helps develop effective vaccines and drugs, as seen in the fight against infectious diseases like COVID-19 and CHPV.
+Evolutionary Studies
+: Genome maps provide insights into evolutionary relationships between species by comparing genetic sequences across organisms.
+Challenges
+Complexity of Genomes
+: Larger genomes, such as those in plants and animals, are highly complex and contain repetitive sequences, making accurate mapping difficult.
+Ethical Concerns
+: Genome mapping can raise privacy and ethical issues, especially regarding how genetic information is used and who has access to it.
+Cost and Resources
+: Although costs have reduced, genome mapping, particularly for large-scale projects, still requires significant financial investment and technological resources.
+Data Interpretation
+: Even after mapping, interpreting the significance of various genes and sequences remains a challenge due to gaps in our understanding of their functions.
+Chandipura is a viral infection that can lead to outbreaks of Acute Encephalitis Syndrome (AES) or brain swelling.
+It is known to cause fever, headache, and encephalitis leading to convulsions, coma, and death, usually within a few days of the symptoms showing up.
+Family and Vectors
+CHPV belongs to the
+Rhabdoviridae family
+, which includes viruses like the lyssavirus (rabies).
+Several sandfly species, such as
+Phlebotomine sandflies
+Phlebotomus papatasi
+, along with Aedes aegypti mosquitoes (also responsible for dengue), act as vectors.
+The virus resides in the salivary glands of these insects and is transmitted to humans or other vertebrates through bites.
+Transmission and Progression of Infection
+Once transmitted, CHPV can spread to the central nervous system, leading to encephalitis (brain inflammation).
+Symptoms begin with flu-like signs such as fever, body aches, and headaches, and may escalate to altered mental status, seizures, and encephalitis.
+Other symptoms may include respiratory distress, bleeding tendencies, or anemia.
+The infection often progresses rapidly, leading to death within 24-48 hours of hospitalization.
+Most Affected Population
+The virus predominantly affects children under 15 years of age.
+The infection tends to be seasonal, with outbreaks often reported during periods when the sandfly population increases, particularly in monsoon seasons.
+Historical Outbreaks and Endemic Regions
+CHPV was first identified in 1965 during a dengue/chikungunya investigation in Maharashtra.
+Significant outbreaks occurred in 2003-2004 in Maharashtra, northern Gujarat, and Andhra Pradesh, resulting in over 300 deaths among children.
+The case fatality rate (CFR) during the 2004 Gujarat outbreak reached 78%, while Andhra Pradesh reported a CFR of 55% in 2003.
+The infection remains endemic in central India, where the vector population is more concentrated.
+Outbreaks are most commonly reported in rural, tribal, and peripheral areas.
+Key Findings from GBRC's Genome Mapping of CHPV
+No Major Change in Genetic Makeup
+The CHPV virus from the recent Gujarat outbreak is highly similar to the 2012 strain, with only a single amino acid mutation in the glycoprotein-B gene.
+This gene is crucial for the virus’s ability to bind to human cell receptors and trigger an immune response.
+Unlike COVID-19, the virus has not needed to change much, possibly due to low population-wide antibody development and the absence of a vaccine.
+Low Viral Load but Severe Impact
+Despite the high Cycle Threshold (Ct) value in RT-PCR tests, indicating a low viral load, the virus still caused severe symptoms.
+Indigenous Virus, Not Imported
+Genome sequencing revealed that the current virus strain is closely related to those from previous Indian outbreaks in 2003-04 and 2007.
+The virus was not imported from abroad and is distinct from strains found in Europe and Africa, confirming that it is circulating within India.
+Genome mapping of Chandipura virus.pdf
+( Size:  2.9 MB  )
+Click to View More
+Science & Tech
+**********PM Modi’s visit to Brunei
+Why in news?
+India’s Prime Minister Narendra Modi visited Brunei Darussalam on an official two-day visit. This is the first-ever bilateral visit by an Indian Prime Minister to Brunei.
+The historic visit of Prime Minister coincides with the 40th anniversary of establishment of diplomatic ties between India and Brunei.
+What’s in today’s article?
+Significance of Brunei for India
+Key highlights of the visit
+Importance in India’s ‘Act East’ Policy
+Brunei is an important partner in India’s ‘Act East’ Policy and Indo-Pacific Vision.
+The ASEAN (Association of Southeast Asian Nations) is the “central pillar” of India’s Act East Policy. Brunei is also an ASEAN member.
+Economic significance
+Many Southeast Asian countries have seen rapid economic growth in the last few decades. Therefore, commerce is also central to these ties.
+India-Brunei trade last year was approximately $286.20 million.
+Brunei is one of the largest oil and gas producers in the region
+Brunei’s location in South China Sea
+India also has vital stakes in the South China Sea, as almost 55 per cent of its trade passes through the disputed waters.
+To counter China
+Brunei claims to be part of the South China Sea, most of which Beijing says belongs to China.
+But unlike some other countries with claims in the region, Brunei has kept silent on its own claim to a relatively small area off northern Borneo, focusing on growing trade ties with China as the oil-reliant nation diversifies its economy.
+Experts believe India can capitalise on Brunei’s potential to tap into its China+1 strategy.
+The China Plus One strategy is a business strategy that encourages companies to diversify their manufacturing and supply chains by investing in countries other than China.
+Indian diaspora
+The first phase of Indians arriving in Brunei started with the discovery of oil in the 1920s. Currently, approximately 14,000 Indians are residing in Brunei.
+The contribution of Indian doctors and teachers to the growth and development of Brunei’s healthcare and education sectors has been well acknowledged.
+Sultan Haji Hassanal Bolkiah’s Visits to India
+Sultan Bolkiah, one of the world’s longest-reigning monarchs, has visited India four times.
+His visits have emphasized strengthening ties, with his most recent visit in 2018 as Chief Guest at India’s Republic Day parade.
+About the visit
+PM Modi landed in Bandar Seri Begawan, the capital of Brunei Darussalam, on September 3 for his official visit to the country.
+The first Indian PM to visit the Southeast Asian nation, his trip also
+marks 40 years since India and Brunei officially established diplomatic ties
+Inaugurated a new Chancery of the High Commission of India
+PM Modi inaugurated a new Chancery of the High Commission of India and visited the Omar Ali Saifuddien Mosque.
+The mosque has a fusion of architecture from the Mughal era and the Italian Renaissance period.
+The new Chancery will highly enhance the diplomatic relations between the two countries.
+This chancery design shows Indian motifs, which embody the cultural spirit in Indian buildings and help establish Indianness in Brunei.
+Defense Cooperation
+A Joint Working Group will be established to enhance defense ties between India and Brunei.
+Space Cooperation Pact
+PM Modi and Sultan Haji Hassanal Bolkiah discussed signing a space cooperation agreement, indicating a mutual interest in advancing technological collaboration in space exploration and satellite technology.
+PM Modi expressed appreciation for
+Brunei's support in hosting ISRO's Telemetry Tracking and Telecommand (TTC) Station
+Cooperation in energy sector
+The two countries discussed the possibility of long-term cooperation in LNG supplies.
+This is significant as India has dropped its demand for oil from Brunei in favour of Russian oil imports in recent years.
+Strengthening Bilateral Ties: Enhanced Partnership
+elevated their bilateral relationship to an
+"enhanced partnership
+," agreeing to cooperate on key areas such as defense, trade, investment, space, health, education, and cultural exchanges.
+They also recognized the importance of regular dialogue through platforms like the Joint Trade Committee (JTC).
+PM Modi’s visit to Brunei.pdf
+( Size:  3.3 MB  )
+Click to View More
+International Relations
+**********Green Hydrogen in India
+Why in the News?
+The Ministry of New and Renewable Energy (MNRE) has exempted export-oriented green hydrogen projects from its solar module shortlist of domestic manufacturers.
+This aimed at enabling green hydrogen projects to lower costs to the level of grey hydrogen.
+What’s in Today’s Article?
+About Hydrogen (Properties, abundance)
+Types of Hydrogen (Grey, Blue, Green)
+About Green hydrogen (Benefits, India’s goals, Challenges, etc.)
+News Summary (SIGHT Program)
+About Hydrogen:
+Hydrogen is the
+lightest chemical element
+It is colourless, odourless, tasteless, non-toxic, and highly combustible.
+It is the
+3
+rd
+most abundant element in the human body
+The two most abundant elements in human body are
+Oxygen
+Carbon
+most abundant chemical substance in the universe
+, constituting roughly 75% of all normal matter.
+Hydrogen can be produced from a range of resources including fossil fuels, nuclear energy, biomass and renewable energy sources.
+Types of Hydrogen:
+Depending on production methods, hydrogen can be Grey, Blue or Green.
+Grey Hydrogen
+Grey hydrogen is created from natural gas, or methane, using
+Steam Methane Reformation
+(SMR) but
+without capturing the greenhouse gases made in the process
+In SMR, high-temperature steam (700°C–1,000°C) is used to produce hydrogen from a methane source, such as natural gas.
+The CO2 produced in this process is released directly into the atmosphere.
+Unfortunately this accounts from roughly 95% of the hydrogen produced in the world today.
+Blue Hydrogen
+Hydrogen is labelled blue
+whenever the carbon generated from steam reforming is captured and stored underground through industrial carbon capture and storage (CSS)
+Blue hydrogen is, therefore, sometimes referred to as carbon neutral as the emissions are not dispersed in the atmosphere.
+However, some argue that “low carbon” would be a more accurate description, as 10-20% of the generated carbon cannot be captured.
+It has significant cost and emissions advantages.
+Green hydrogen is
+produced by using clean energy from surplus renewable energy sources, such as solar or wind power
+, to split water into two hydrogen atoms and one oxygen atom through a process called electrolysis.
+This makes green hydrogen the cleanest option –
+hydrogen from renewable energy sources without CO2 as a by-product
+It currently makes up about 0.1% of overall hydrogen production, but this is expected to rise as the cost of renewable energy continues to fall.
+India’s Green Hydrogen Production goals w.r.t. other countries:
+In August 2021, Prime Minister Narendra Modi announced the
+National Hydrogen Mission
+as a step towards environmental security and make India a global hub for the production and export of green hydrogen.
+India plans to
+manufacture 5 million tonnes of green hydrogen per year by 2030
+This would be half of the European Union’s 2030 target of 10 million tonnes.
+On the other hand, China announced a relatively shorter-term target to produce up to 2,00,000 tonnes per year of green hydrogen by 2025.
+Spain, Germany and France have announced their commitment to install 4 GW, 5GW and 6.5 GW of green hydrogen respectively, by 2030.
+Present Capacity:
+There are
+26 hydrogen projects in India
+, with a total capacity of 255,000 tonnes per year.
+However, a majority of these announced projects are still in their early stages.
+Only around
+8,000 tonnes per year
+of capacity is expected to be operational by 2024.
+Challenges associated with Green Hydrogen:
+Technology
+Electrolysis is the process of using electricity to split water into hydrogen and oxygen.
+By running an electrical current through water, the membrane and electrolyte can separate the water into hydrogen and oxygen.
+Green hydrogen needs electrolysers to be built on a scale larger than we've yet seen.
+Transportation & Storage
+Either very high pressures or very high temperatures are required, both with their own technical difficulties.
+Electricity
+Creating green hydrogen needs a huge amount of electricity, which means an exponential increase in the amount of wind and solar power to meet global targets.
+Exemptions to export-oriented green hydrogen projects:
+granted exemptions to export-oriented green hydrogen projects from its Approved List of Models and Manufacturers (ALMM)
+, which mandates the use of domestically produced solar modules.
+This exemption allows such projects to use cheaper imported modules, significantly reducing production costs and enhancing cost-competitiveness against grey hydrogen.
+This move aims to expand global demand for green hydrogen, where India has a focus on exports. India aims to produce 5 million metric tons of green hydrogen by 2030, with projects already announced for 7.5 MMT.
+MNRE has also allocated Rs 17,490 crore under its SIGHT program for electrolyser manufacturing and green hydrogen capacity
+, along with Rs 400 crore for R&D projects.
+Other incentives include the waiving of transmission charges and environmental clearance requirements for green hydrogen projects.
+About SIGHT Program:
+The SIGHT (
+Strategic Interventions for Green Hydrogen Transition
+) program is an initiative by the Government of India aimed at promoting the production and adoption of green hydrogen in the country.
+Key Features Include:
+Focus on Electrolyser Manufacturing
+: The program aims to boost domestic manufacturing of electrolysers, which are essential for producing green hydrogen through renewable energy sources.
+: It also encourages the establishment of green hydrogen production facilities in India, with an emphasis on making the country a global leader in green hydrogen exports.
+Financial Allocation
+: The Indian government has allocated Rs 17,490 crore under the SIGHT program. This financial support is intended to incentivize investments in electrolyser manufacturing, green hydrogen projects, and other related infrastructure.
+Boosting Employment and Investment
+: By fostering a green hydrogen industry, the program is expected to create job opportunities and attract both domestic and international investments in clean energy technologies.
+Incentives and Policy Support
+: The program includes incentives such as waiving transmission charges for green hydrogen projects and providing funds for research and development (R&D).
+newspaper.pdf
+( Size:  904.2 KB  )
+Click to View More
+Environment & Ecology
+**********The Aparajita Bill and Other Similar Laws to Curb Sexual Assaults on Women
+Why in News?
+The Aparajita Woman and Child (West Bengal Criminal Laws Amendment) Bill 2024, which mandates the death penalty in rape cases if the victim dies or is left in a permanent vegetative state, was unanimously approved by the state Assembly.
+This comes while West Bengal is still roiling under the public demonstrations against the rape and killing of a young doctor at Kolkata's R G Kar Medical College and Hospital.
+What’s in Today’s Article?
+The Current Indian Laws to Curb Sexual Assaults on Women
+Salient Provisions of the Aparajita Bill
+Other Similar State Laws to Curb Sexual Assaults on Women
+Difficulties in Introducing State Laws to Curb Sexual Assaults on Women
+The  Indian Laws to Curb Sexual Assaults on Women:
+The Criminal Law (Amendment) Act 2013
+amended Indian Penal Code (IPC) to allow death penalty in rape cases when it led to death or left the victim in a persistent vegetative state, and in cases of repeat offenders.
+The Criminal Laws (Amendment) Act 2018
+provided for death penalty for rape and gang rape of girls below the age of 12.
+The Bhartiya Nyaya Sanhita 2023
+keeps all the old penal provisions and adds that gang rape of a woman
+18 is punishable by death.
+Salient Provisions of the Aparajita Bill:
+The Bill amends
+provisions of the Bharatiya Nyaya Sanhita 2023 (BNS), the Bharatiya Nyaya Suraksha Sanhita 2023 (BNSS), and the Protection of Children Against Sexual Offences Act 2012 (POCSO) in the state.
+Provisions of BNS amended:
+In cases where aggravating circumstances are present
+(such as rape by a public servant, etc), the Bill adds the words “or with death” at the end of the description of the maximum punishments (imprisonment for life).
+In rape cases where the victim dies
+or is left in a permanent vegetative state, the Bill makes the death penalty
+mandatory
+in such cases.
+In cases of gang rape,
+the Bill provides for the death penalty for the gang rape of a woman
+above
+age 18.
+For repeat offenders,
+the Aparajita Bill replaces the punishment of simple “imprisonment for life” with “rigorous imprisonment for life”.
+For disclosing the identity of a rape victim
+and for publishing information relating to court proceedings in rape cases, it also increases the jail terms.
+In cases of acid attacks,
+the Bill removes the lighter punishments (prison terms less than life and fine) with “rigorous imprisonment for life” as the only punishment.
+Provisions of POCSO Act amended:
+The Bill provides for the death penalty for penetrative sexual assault, where the highest punishment currently is life imprisonment.
+Provisions of BNSS amended:
+The Bill reduces the time provided under BNSS to complete the investigation into the relevant BNS and POCSO offences from two months to 21 days (which can be extended by another 15 days if necessary).
+The Bill also reduces the time given to complete the trial after the chargesheet is filed from two months to 30 days.
+Task Forces, Special Courts:
+The Aparajita Bill provides for
+special institutions
+(like Special Police Teams to investigate crimes against women) with the express purpose of investigating, hearing, and deciding rape cases on strict timelines.
+For example,
+the Bill creates
+a special Aparajita Task Force
+in every district to investigate cases of rape.
+The Bill also introduces
+in every district for the purpose of expeditious completion of inquiry or trial in rape cases, and to appoint a
+Special Public Prosecutor
+Other Similar State Laws to Curb Sexual Assaults on Women:
+Before West Bengal, the Andhra Pradesh (
+Disha Bill
+) and Maharashtra (
+Shakti Bill
+) Assemblies had passed laws prescribing the death penalty for rape by amending the criminal laws in force at the time.
+The Disha Bill
+2019
+introduced the death penalty as punishment for the crimes of rape, including against a minor below 16 years of age, gang rape and for repeat offenders.
+The Shakti Bill 2020
+too introduced the death penalty in rape cases and provided shortened timelines for concluding the investigation and trial.
+Neither Bills has received the mandatory assent of the President yet.
+Earlier, the
+Madhya Pradesh
+(in 2017) and
+Arunachal Pradesh
+(in 2018) Assemblies introduced the death penalty for the rape or gangrape of a woman up to 12 years of age.
+Difficulties in Introducing State Laws to Curb Sexual Assaults on Women:
+The Aparajita Bill will now be presented to the Governor of West Bengal who will send it to the President, who will then decide whether to give her assent and allow the Bill to come into force.
+Why is the President's assent crucial?
+In Mithu versus State of Punjab case
+(1983), the Supreme Court ruled that ‘mandatory’ death sentence
+Violates fundamental rights
+of equality before law (Art 14) and right to life (Art 21), and
+Would result in "
+unfair, unjust and unreasonable procedure
+" that can deprive a person of his/her life.
+Bengal bill proposes death or life in jail till death for all rape cases.pdf
+( Size:  723.6 KB  )
+Click to View More
+Polity & Governance
+**********State changes in rape law
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Aparajita Bill, Disha Bill and Shakti Bill;
+Mains level:
+Issues related to women;
+Why in the News?
+Due to the ongoing protest in Kolkata, the WB Assembly has unanimously passed a Bill mandating the death penalty for rape cases where victims die or are left in vegetative states.
+Features of West Bengal’s Aparajita Bill:
+Death Penalty:
+The Bill mandates the
+death penalty for individuals convicted of rape
+if the
+victim dies
+or is left in a
+permanent vegetative state
+. It also introduces the death penalty as the maximum punishment for all rape cases.
+Amendments to Existing Laws:
+The Bill amends the
+Bharatiya Nyaya Sanhita, 2023, Bharatiya Nagarik Suraksha Sanhita, 2023,
+and the
+Protection of Children from Sexual Offences Act, 2012,
+to strengthen penalties for sexual offenses.
+Special Task Force and Courts:
+It establishes a
+district-level
+Aparajita Task Force for investigating rape cases and mandates the creation of Special Courts to expedite trials, aiming to complete investigations within 21 days.
+Increased Penalties for Repeat Offenders:
+The Bill enhances punishments for repeat offenders, replacing simple life imprisonment with
+rigorous life imprisonment
+Privacy Protections:
+It introduces penalties for unauthorized disclosure of a victim’s identity and for publishing information related to court proceedings in rape cases.
+Focus on Speedy Justice:
+The Bill aims to reduce the time frame for investigations and trials, emphasizing a victim-centered approach to minimize trauma.
+How Bengal’s Aparajita Bill differ from the Andhra Pradesh and Maharashtra laws?
+Dimensions
+West Bengal (Aparajita Bill)
+Andhra Pradesh (Disha Bill)
+Maharashtra (Shakti Bill)
+Scope of Death Penalty
+Death is mandatory in cases of rape leading to the victim’s death or vegetative state
+Death penalty for the rape of minors below 16, gang rape, and repeat offenders
+Similar to Andhra Pradesh, it introduced the death penalty for heinous cases, such as acid attacks and severe rape cases, but it also does not mandate death in all instances.
+Special Institutions
+Aparajita Task Forces and Special Courts in every district specifically for rape cases, ensuring expedited legal proceedings with strict timelines.
+Propose Special Police Teams and Exclusive Special Courts for dealing with crimes against women, along with a registry for offenders.
+Formation of special courts but also emphasizes digital cooperation
+Timeframes for Legal Processes
+Investigation time is 21 days (extendable to 15 more), and trials must be completed within 30 days post-chargesheet.
+Investigation time is  seven days and mandates trials be completed within 21 days.
+Completed within 15 working days after an FIR is filed, with an extension of up to 7 days if the investigating officer provides written reasons for the delay and the trial must be completed within 30 working days from the date of filing the charge sheet.
+Amendments to POCSO
+Introduces the death penalty for penetrative sexual assault under the POCSO Act.
+Amended the POCSO Act to include death penalties, particularly for heinous offenses, but do not make it mandatory in all cases.
+Same as Disha bill
+Use of Digital Platforms
+No available
+Unique features penalizing social media platforms and intermediaries that fail to provide requested data for investigations.
+Why President’s Assent is essential?
+Criminal law falls under the
+Concurrent List of the Indian Constitution
+, meaning both
+state and central legislatures can legislate on the subject.
+However, state
+laws require the President’s approval to take precedence over existing central laws.
+Without presidential assent, the provisions of the Aparajita Bill, as well as those from Andhra Pradesh and Maharashtra,
+cannot be enforced, rendering them ineffective despite being passed by the respective state assemblies.
+Conclusion:
+The state should launch public awareness campaigns and involve stakeholders to build broad-based support, emphasizing the Bill’s objectives of enhancing victim protection and delivering speedy justice to encourage timely presidential approval.
+**********Singapore: A partner in India’s growth story  
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+India-Singapore Bilateral Relations; ASEAN Countries;
+Mains level:
+Why in the News?
+The PM’s upcoming visit to Singapore offers a chance to reflect on the current state of the relationship. India-Singapore ties are dynamic, continually presenting new opportunities.
+Historical Ties:
+Diplomatic relations were established shortly after
+Singapore’s independence in 1965
+, with
+India being one of the first countries to recognize Singapore.
+The relationship has evolved through
+high-level visits and collaborations, particularly since the 1990s.
+Look East Policy:
+Singapore has been pivotal in India’s “Look East” policy
+initiated in the early 1990s,
+which
+aimed to strengthen economic and strategic ties with Southeast Asia
+Comprehensive Economic Cooperation Agreement (CECA):
+Signed in 2005, CECA has significantly
+enhanced trade and investment ties, making Singapore India’s largest ASEAN trading partner and a key foreign direct investment (FDI) source
+Defense and Security Cooperation:
+The bilateral relationship includes
+extensive defence cooperation, with joint military exercises and training,
+particularly in maritime security, reflecting shared strategic interests.
+What is Singapore’s contribution to India’s Growth Story?
+Economic Hub:
+Singapore is India’s largest trade partner in ASEAN. Singapore serves as a
+crucial gateway for Indian companies seeking to expand in Southeast Asia,
+providing a robust platform for trade and investment.
+Largest Source of FDI:
+It is the leading source of FDI, among the largest sources of External Commercial Borrowings and Foreign Portfolio Investment,
+accounting for about 17% of total FDI inflows since 2000,
+with investments
+exceeding USD 136 billion over the last 22 years.
+Knowledge exchange:
+Singapore’s status as a hub for Indian talent,
+especially from IITs and IIMs, facilitates knowledge exchange and enhances India’s capabilities
+in various sectors
+Cultural Exchange:
+The strong cultural ties, supported by the Indian community in Singapore, have enriched bilateral relations. Ethnic Indians constitute
+approximately 9.1% of Singapore’s resident population.
+How this relationship can achieve more considering the ASEAN region and Chinese dominance? (Way forward)
+Strategic Partnership:
+The relationship can be further
+strengthened by enhancing strategic dialogues and collaborations in areas like security, technology, and sustainability,
+particularly in the context of the Indo-Pacific region.
+Regional Connectivity:
+Initiatives like the
+Trilateral Highway, which aims to connect India with Myanmar and Thailand
+, can enhance regional connectivity and trade, positioning India and Singapore as central players in ASEAN.
+Countering Chinese Influence:
+As China asserts its
+influence in the region, India and Singapore can collaborate more closely to address shared concerns,
+leveraging their partnership to promote stability and security in Southeast Asia.
+Emerging Technologies:
+Focusing on
+emerging sectors such as semiconductors, green technologies, and electric mobility
+can open new avenues for cooperation, aligning with both nations’ goals for sustainable development.
+**********Gap between allocations for health, outcomes in States 
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Centrally Sponsored initiatives related to the Health sector;
+Mains level:
+Health Infrastructure and Funding in India;
+Why in the News?
+Realizing the full potential of
+Union Budget 2024-25 health allocations
+depends on State-level factors, as states share costs and handle the implementation of
+Centrally Sponsored Schemes (CSS).
+About the two major Centrally Sponsored initiatives
+Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)
+: Focuses on improving health infrastructure through health and wellness centres (AB-HWCs), block-level public health units (BPHUs), district public health laboratories (IDPHLs), and critical care hospital blocks (CCHBs).
+Human Resources for Health and Medical Education (HRHME)
+: Aims to boost medical personnel by building new medical, nursing, and paramedical colleges, increasing seats, and upgrading district hospitals to medical colleges.
+Issue of Low Fund Utilization and
+Faculty Shortage
+Poor Fund Absorption in PM-ABHIM:
+Fund absorption has been poor, with
+only 29%
+used in 2022-23. The reasons are – complex execution structures, reliance on health grants from the
+15th FC (only 45% utilized),
+and delays in construction due to rigid procedures.
+Low Fund Utilization in HRHME:
+Utilization of funds in educational infrastructure was
+only around 25%
+of the budget estimates in both 2022-23 and 2023-24.
+Shortage of teaching faculty:
+There is a significant shortage of teaching faculty in newly established medical institutions, with ove
+r 40% vacancies reported in 11 of the 18 All India Institutes of Medical Sciences.
+For example, in
+Uttar Pradesh
+, 30% of teaching faculty positions were vacant in 2022 for government medical colleges established between 2019-21.
+Lack of specialist positions:
+The shortage of specialists affects the establishment and upgrading of medical colleges and district hospitals, with
+more than a third of sanctioned specialist positions in urban CHCs and two-thirds in rural CHCs
+remaining vacant as of March 2022.
+How can states work on Fiscal space? (Way forward)
+Enhanced Budget Planning and Allocation:
+States should prioritize and allocate funds efficiently for health infrastructure and recurring costs.
+Strengthening Revenue Generation:
+States can explore increasing their own revenue sources through improved tax collection, introducing new revenue streams, or enhancing public-private partnerships.
+Optimizing Expenditure Management:
+Implementing better financial management practices, such as cost control measures, transparent procurement processes, and efficient use of existing resources, can help in managing and maximizing the impact of budget allocations for health infrastructure and services.
+**********Ancient India Temple Music: Haveli Sangeet
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Haveli Sangeet is a unique form of classical music rooted in ancient temple traditions in India.
+About
+Haveli Sangeet:
+Details
+Origin
+Linked to the
+Pushti Margiya temples
+of the
+Vaishnava Tradition
+; rooted in ancient temple music traditions.
+Historical Background
+Revived during the Bhakti movement; declined during the medieval period due to socio-political changes.
+Founder
+Mahaprabhu Vallabhacharya
+16th century
+founder of
+and proponent of devotional worship (Bhakti).
+Key Elements
+Involves
+Raga
+(melody),
+Bhog
+(offering), and
+Shringar
+(adornment) as part of sewa (service) in temples.
+Musical Styles
+Includes
+Prabandh, Dhrupad, Dhamar, Khyal, Kirtana,
+Bhajan
+; not limited to
+style
+alone.
+Languages Used
+Songs are performed in
+Brij Bhasha, Sanskrit, Punjabi,
+Marwari
+Significant Figures
+Vallabhacharya, Shri Vitthalnathji (Shri Gusaiji), Astachaps poets (e.g., Kumbhandas, Surdas), Pandit Jasraj.
+Role in Vaishnavism
+Serves as a vehicle for Kirtan Bhakti
+, focusing on collective singing and emotional devotion to Lord Krishna.
+PYQ:
+[2014]
+A community of people called Manganiyars is well-known for their:
+(a) Martial arts in North-East India
+(b) Musical tradition in North-West India
+(c) Classical vocal music in South India
+(d) Pietra dura tradition in Central India
+**********Bandipur Tiger Reserve (BTR)
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+An elephant was rescued from a rail barricade in the Maddur range of
+Bandipur Tiger Reserve.
+About the Bandipur Tiger Reserve (BTR):
+Details
+Location
+Mysore and Chamarajanagar districts, Karnataka; at the tri-junction of
+Karnataka, Tamil Nadu, and Kerala.
+Part of
+Nilgiri Biosphere Reserve
+UNESCO World Heritage Site.
+Geography
+“Ecological confluence” of the Western and Eastern Ghats (along with Mudumalai and Wayanad)
+History
+Established as Venugopala Wildlife Park in 1931; expanded as Bandipur Tiger Reserve under Project Tiger in 1973.
+Surrounding Reserves
+Bordered by
+Nagarahole Tiger Reserve (NW), Mudumalai Tiger Reserve (S),
+Wayanad Wildlife Sanctuary (SW).
+Rivers
+Surrounded by
+River Kabini
+(North) and
+River Moyar
+(South).
+Climate
+Tropical climate with distinct wet and dry seasons.
+Flora
+Dry deciduous to tropical mixed deciduous forests; includes rosewood, sandalwood, Indian laurel, and bamboo species.
+Fauna
+Home to the largest population of wild Asian elephants in South Asia; also includes Bengal tiger, gaur, sloth bear, dhole, and others.
+PYQ:
+[2017]
+From the ecological point of view, which one of the following assumes importance in being a good link between the Eastern Ghats and the Western Ghats?
+(a) Sathyamangalam Tiger Reserve
+(b) Nallamala Forest
+(c) Nagarhole National Park
+(d) Seshachalam Biosphere Reserve
+**********[pib] HIM- DRONE-A-THON-2 & HIMTECH-2024
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Read the attached story
+Why in the News?
+The
+Indian Army
+has announced two significant events,
+HIM-DRONE-A-THON 2 and HIMTECH-2024
+, aimed at advancing military technologies for operations in high-altitude areas.
+About HIM-DRONE-A-THON 2
+HIM-DRONE-A-THON 2 is scheduled to take place at
+Wari La, near Leh
+17-18 September 2024
+This event serves as a platform for the
+Indian Drone Industry
+to demonstrate drone solutions tailored for high-altitude areas, where the Indian Army frequently operates.
+The event will be conducted under actual terrain and environmental conditions at altitudes ranging from
+4,000 to 5,000 meters
+to test the drones’ performance in realistic scenarios.
+Indigenous drone manufacturers
+are invited to participate, demonstrating various drone types, including:
+Surveillance drones
+Loitering munitions
+Logistics drones
+Swarm drones
+Drones with specialized roles and payloads, such as Electronic Warfare, Synthetic Aperture Radar, Communication Intelligence, and Electronic Intelligence.
+HIMTECH-2024: Advancing High-Altitude Technologies
+HIMTECH-2024 will follow HIM-DRONE-A-THON 2.
+It is conceptualized to discuss, demonstrate, and explore new opportunities for the development and integration of technologies for high-altitude military operations.
+It has been organized in collaboration with
+FICCI (Federation of Indian Chambers of Commerce & Industry)
+It will highlight the latest technologies and systems developed to meet the operational requirements along India’s
+Northern Borders
+**********Project Strawberry by OpenAI
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Project ‘Strawberry’; LLMs.
+Why in the News?
+has planned to release its most powerful AI model likely as part of ChatGPT-5. Initially called
+Project Q* (Q-star)
+, it is now codenamed
+Project Strawberry.
+What is Project Strawberry?
+Nearly six months ago, OpenAI’s secretive
+Project Q* (Q-Star)
+gained attention for its innovative approach to AI training.
+OpenAI is now working on a
+new reasoning technology
+under the
+code name “Strawberry”
+believed to be the
+new name for Project Q*.
+Strawberry aims to enable AI models to plan ahead,
+autonomously search the internet, and conduct deep research.
+What are Large Language Models (LLMs)?
+are advanced
+artificial intelligence (AI) systems
+designed to understand, generate, and process human language.
+They are built using deep learning techniques, particularly neural networks, and are trained on vast amounts of text data.
+Difference from Existing AI Models
+Existing Large Language Models (LLMs) can
+summarize texts and compose prose but struggle with common sense problems and multi-step logic tasks.
+Current LLMs cannot plan ahead effectively without
+external frameworks.
+Strawberry models are expected to
+enhance AI reasoning, allowing for planning and complex problem-solving.
+These models could
+enable AI to perform tasks
+that require a series of actions over an extended time, potentially revolutionizing AI’s capabilities.
+Potential Applications of Strawberry Models
+Advanced AI models could conduct experiments, analyze data, and suggest new hypotheses, leading to breakthroughs in sciences.
+In medical research, AI could assist in drug discovery, genetics research, and personalized medicine analysis.
+AI could solve complex mathematical problems, assist in engineering calculations, and participate in theoretical research.
+AI could contribute to writing, creating art and music, generating videos, and designing video games.
+PYQ:
+[2020]
+With the present state of development, Artificial Intelligence can effectively do which of the following?
+Bring down electricity consumption in industrial units.
+Create meaningful short stories and songs.
+Disease diagnosis.
+Text-to-Speech Conversion.
+Wireless transmission of electrical energy.
+Select the correct answer using the code given below:
+(a) 1, 2, 3 and 5 only
+(b) 1, 3 and 4 only
+(c) 2, 4 and 5 only
+(d) 1, 2, 3, 4 and 5
+**********What is a Review Petition?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Some medical students have filed a review petition against the
+Supreme Court’s dismissal of their plea to cancel NEET UG 2024
+over alleged malpractices.
+Details
+Constitutional Provision
+Article 137
+of the Constitution allows the Supreme Court to review any of its judgments or orders.
+Scope of Review
+Corrects “
+patent errors
+” and not minor mistakes.
+It is not an appeal; it does not involve re-evaluating the entire case but
+correcting grave errors resulting in a miscarriage of justice.
+Filing Review Petition
+Can be filed by
+any person aggrieved by a ruling
+not necessarily a party
+to the case.
+Must be filed
+within 30 days
+of the judgment or order.
+Delay can be condoned
+if justified with strong reasons.
+Grounds for Review
+Discovery of new and important evidence
+not available earlier despite due diligence.
+Mistake or errors apparent
+on the face of the record.
+Procedure in the Court
+Review petitions are usually
+heard through circulation
+without
+oral arguments
+In exceptional cases,
+oral hearings may be allowed
+, especially in
+death penalty cases.
+Heard by the same bench of judges
+who delivered the original judgment or order.
+Option After Review Fails
+If a review petition is dismissed, a
+curative petition can be filed
+as per the
+Roopa Hurra v. Ashok Hurra (2002)
+ruling, on very narrow grounds similar to a review petition.
+PYQ:
+[2017]
+In India, Judicial Review implies:
+(a) the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders.
+(b) the power of the Judiciary to question the wisdom of the laws enacted by the Legislatures.
+(c) the power of the Judiciary to review all the legislative enactments before they are assented to by the President.
+(d) the power of the Judiciary to review its own judgements given earlier in similar or different cases.
+**********

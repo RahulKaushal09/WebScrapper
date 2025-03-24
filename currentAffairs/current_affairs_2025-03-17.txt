@@ -1,0 +1,1374 @@
+Starlink - Elon Musk's satellite-based internet service
+Why in news?
+Bharti Airtel and Reliance Jio have partnered with SpaceX’s Starlink to provide satellite internet in India, marking a shift from the telecom industry's earlier resistance to launching Starlink without spectrum auctions.
+What’s in today’s article?
+About Starlink
+Starlink Pricing Structure
+Regulatory Challenges for Starlink in India
+Starlink is a low-earth orbit (LEO) satellite constellation with over 7,000 satellites that provide internet access to users via ground terminals.
+It is owned by Elon Musk's SpaceX and is available in around 40 countries.
+Working of Starlink
+Satellites continuously orbit the Earth, covering almost the entire habitable surface.
+Ground terminals connect to satellites, which in turn communicate with ground stations physically linked to the internet.
+This setup enables wireless internet connectivity in areas lacking traditional broadband infrastructure.
+Starlink’s Speed and Latency
+Offers speeds of around 100 Mbps, similar to many home broadband connections.
+Latency (time for data transmission) is higher than wired broadband, making it less ideal for applications requiring real-time responsiveness
+Starlink’s Use in India
+Not very useful in cities with strong 5G and wired broadband networks, as these offer better speed and reliability.
+Highly beneficial for rural and remote areas, providing instant connectivity where traditional networks are unavailable.
+Starlink’s Potential Benefits
+Bridging the Digital Divide
+Starlink can provide internet access to rural and remote areas, helping reduce the gap between urban and rural regions.
+Connectivity for Maritime & Offshore Operations
+Useful for commercial fishing ships, merchant vessels, offshore oil rigs, and deep-sea researchers.
+Solo sea voyagers can stay connected for entertainment or emergency assistance.
+Disaster Response & Emergency Communication
+During natural disasters (tsunamis, cyclones, earthquakes), when telecom infrastructure fails, Starlink can enable quick setup of communication centres for military and emergency responders.
+Trekkers with Starlink mobile kits can send SOS messages for timely rescue.
+Starlink has two main costs:
+User Terminal (Hardware)
+– A router-like device required to access the satellite network.
+Monthly Subscription Fee
+– The cost to stay connected to the service.
+Starlink’s pricing in India is not expected to be lower, as the technology’s costs remain the same worldwide.
+Final pricing will depend on regulatory approvals and local market adjustments.
+Starlink has encountered several regulatory hurdles, primarily due to the Indian government’s strict scrutiny of internet services, particularly those enabling nationwide access.
+Key Approvals Required
+GMPCS Authorisation
+– SpaceX needs a Global Mobile Personal Communications by Satellite (GMPCS) license under the Telecommunications Act, 2023.
+The new rules under this Act are yet to be published.
+It is unclear if the license will be issued under previous regulations.
+Security Clearance from the Ministry of Home Affairs
+– Reports suggest SpaceX has addressed corporate ownership disclosure concerns, but the security clearance status remains unknown.
+Ground Stations & Law Enforcement Access
+Starlink must establish ground stations in India that comply with telecom regulations.
+The Telecom Act requires tapping equipment at ground stations for law enforcement access, a standard requirement for internet networks.
+Spectrum Allocation Dispute
+Government Stance
+: The government does not plan to auction satellite spectrum, as these narrow beams can be shared among providers.
+Telcos' Demand
+: Before partnering with Starlink, telecom companies (especially Reliance Jio) argued that spectrum should be auctioned, citing the Supreme Court’s 2012 judgment in the 2G scam case, which mandated auctions for scarce natural resources.
+Legal Uncertainty
+: Jio has commissioned legal opinions supporting spectrum auctions, but the government’s final decision remains unclear.
+Potential Fast-Tracking of Approval
+Elon Musk’s growing influence in the U.S. government and trade pressures from the U.S. (including under Donald Trump’s administration) may accelerate Starlink’s entry into India.
+Current Status
+No official confirmation on regulatory approvals yet.
+Airtel and Jio have signed commercial distribution agreements, but regulatory clearance is still pending.
+Starlink - Elon Musk's satellite-based internet service.pdf
+( Size:  219.3 KB  )
+Click to View More
+Polity & Governance
+**********Supreme Court’s Stand on Linguistic Secularism and Language Rights in India
+Why in the News?
+Tamil Nadu Chief Minister has accused the Centre of imposing Hindi through the National Education Policy at the cost of “totally destroying Tamil Nadu’s progress in education”.
+What’s in Today’s Article?
+Background (Context, Supreme Court Judgments on Language Policies, etc.)
+NPE and Recent Controversy (Contentions, Future Implications, etc.)
+Background:
+The Supreme Court of India has played a crucial role in shaping language policies and upholding linguistic secularism, a principle that promotes
+acceptance of the aspirations of different language speakers
+This was highlighted in the
+2014 judgment of U.P. Hindi Sahittya Sammelan vs State of U.P.
+, where the court emphasized that India's language laws are
+not rigid but accommodative
+, ensuring that linguistic diversity is preserved.
+As language debates continue, particularly in the context of the
+National Education Policy (NEP) 2020
+, the Supreme Court’s past rulings reaffirm the importance of
+federal pluralism and democratic sensitivity
+in linguistic matters.
+Key Supreme Court Judgments on Language Policies:
+U.P. Hindi Sahittya Sammelan vs State of U.P. (2014)
+The Supreme Court ruled that language laws in India evolve organically and should be accommodative rather than rigid.
+It upheld the idea that
+linguistic secularism is necessary to maintain harmony in a multilingual country like India
+State of Karnataka vs Associated Management of Primary/Secondary Schools (2014)
+The court affirmed that the right to choose the medium of instruction is protected under Article 19 (Freedom of Speech & Expression).
+The state cannot force students or parents to adopt a particular language for primary education.
+Sunil K.R. Sahastrabudhey vs Director, IIT Kanpur (1982)
+The Allahabad High Court ruled that Article 351, which directs the Union government to promote Hindi, does not grant individuals the right to demand education in Hindi.
+Institutions cannot be compelled to impart education in a specific language unless it aligns with broader national policies.
+These judgments highlight that India's language laws aim to protect individual linguistic freedoms while promoting inclusivity rather than imposing a single language.
+Language Conflicts and Constitutional Provisions:
+Article 343 & The Official Language Debate
+Article 343 of the Constitution
+states that
+Hindi in Devanagari script is the official language
+of the Union.
+However, Hindi
+is not the national language
+, as it is not spoken uniformly across all states.
+Munshi-Ayyangar formula
+, introduced during the Constituent Assembly debates in 1949, sought to
+balance regional language interests while designating Hindi as the official language
+Article 29(1) & Minority Language Rights
+This article provides
+constitutional protection
+for any group with a
+distinct language, script, or culture
+, ensuring they have the right to
+conserve and promote their linguistic identity
+The Supreme Court has clarified that this right is applicable to
+both majority and minority communities
+, emphasizing
+equal language rights for all citizens
+Article 351 & The Promotion of Hindi
+Article 351 directs the government to promote Hindi
+to develop it as a medium of expression for India’s composite culture
+However, courts have ruled that
+this does not mean Hindi can be imposed upon individuals or institutions
+The National Education Policy (NEP) and Language Controversy:
+The National Education Policy (NEP) 2020 has reignited the language debate.
+Critics, including Tamil Nadu, argue that the policy promotes Hindi at the cost of regional languages.
+The Supreme Court’s past rulings reinforce that
+no language should be imposed against the will of people
+, as language is an emotional and cultural issue.
+Justice Krishna Iyer, in his remarks on the
+216th Law Commission Report
+, stated:
+"I am all for Hindi as a personal preference, but I am all against Hindi by compulsion. Linguistic militancy will alienate and divide, but federal pluralism is democratic sensitivity."
+This highlights the importance of
+voluntary language adoption
+forced implementation
+Future Implications of Linguistic Secularism:
+Given the ongoing debates on language policies, the Supreme Court’s principle of linguistic secularism will likely shape future policies in education and administration. Some key implications include:
+Greater Autonomy for States:
+States will continue to have the right to determine language policies for education and administration based on local needs.
+Protection of Regional Languages:
+The emphasis on linguistic secularism ensures that regional languages are preserved and not overshadowed by Hindi or English.
+Legal Challenges to Language Imposition:
+Any attempt to impose a particular language could face legal scrutiny, as seen in previous court rulings.
+The courts will play a critical role in balancing national integration with linguistic diversity, ensuring that language policies remain inclusive and democratic.
+In language debates, SC had voted for ‘linguistic secularism’.pdf
+( Size:  298.9 KB  )
+Click to View More
+Polity & Governance
+**********The Future of the Five Eyes - A Shifting Intelligence Landscape
+Context:
+The Five Eyes intelligence alliance, comprising
+Australia, Canada, New Zealand, the UK, and the US,
+is facing an
+unprecedented crisis
+due to
+shifts in US foreign policy under Donald Trump’s second term
+.
+This article explores the internal turmoil within the alliance, its historical significance, and the impact of changing US policies on intelligence-sharing and global security.
+Origins and Evolution of the Five Eyes:
+World War II formation:
+The alliance originated during World War II with intelligence-sharing agreements between the US and the UK.
+Expansion of the alliance:
+Canada joined in 1948, followed by Australia and New Zealand in 1956.
+Cold war and counterterrorism:
+Initially focused on monitoring Soviet activities, the alliance expanded post-9/11 to counterterrorism and cybersecurity.
+Focus on China:
+In recent years, the Five Eyes have prioritized countering threats from China, particularly
+Huawei’s role in 5G networks.
+Challenges to the Five Eyes Under Trump:
+US foreign policy shift:
+rapprochement with Russia
+, push for a ceasefire in Ukraine, and weakening of NATO and the EU have unsettled traditional allies.
+Anglosphere tensions:
+Trade conflicts with Canada
+, including Trump’s remarks about annexing Canada, suggesting that Canada should become the “
+51st state
+” of the US.
+Even more provocative was his bid to “annex”
+Greenland
+, a territory tied to Denmark - one of the closest allies of the Anglo-American powers in Europe.
+Controversial statements
+by US officials about
+Britain’s political landscape
+- accusations of censorship and political extremism within the UK.
+Impact of Trump’s appointees:
+Concerns over intelligence-sharing due to appointments of
+Tulsi Gabbard
+as Director of National Intelligence and
+Kash Patel
+as FBI Director.
+Potential expulsion of Canada from the alliance, though denied by the White House.
+Geopolitical Implications and the Indo-Pacific:
+Expansion of military ties:
+The alliance has extended its focus to the
+Indo-Pacific through AUKUS
+- wherein the US and UK are assisting Australia in developing nuclear-powered submarines - heralding a new purpose for the Anglo-American alliance.
+Engagement with Asian partners:
+Japan and other regional players are increasingly involved in intelligence cooperation.
+Future of intelligence diplomacy:
+The ongoing instability presents an opportunity for
+India
+to assess the situation and strengthen its intelligence alliances.
+Conclusion:
+The Five Eyes, once a pillar of the global intelligence network, faces
+a crucial turning point due to ideological
+(deep divide between Trump’s MAGA movement and the traditional Anglosphere) and
+strategic shifts within the US.
+While the alliance remains strong, its future will depend on how members navigate these internal fractures and
+adapt to evolving geopolitical realities
+For India,
+this crisis offers insights into reshaping its
+in an uncertain global order.
+Click to View More
+Editorial Analysis
+**********From Insurance-Driven Private Health Care to Equity
+Context
+India, as the world’s largest democracy,
+has long been
+committed to the principle of ‘Health for All’ under the World Health Organisation’s Universal Health Coverage (UHC)
+This framework emphasizes primary health care (PHC) and
+aims to reduce out-of-pocket expenditure (OOPE) for medical services.
+However,
+while policies like the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) have sought to address OOPE
+through insurance-based models, they have inadvertently shifted focus away from PHC,
+weakening public health infrastructure and increasing dependence on private health care.
+The Challenges of an Insurance-Based Health Model
+Weakening of Primary Health Care (PHC)
+strong PHC system
+is the foundation of an efficient health-care system, ensuring
+early diagnosis, preventive care, and lower long-term medical costs
+However, AB-PMJAY focuses primarily on
+hospitalization reimbursement
+, diverting funds and attention away from
+preventive and community-based care
+This shift contradicts the
+Bhore Committee's recommendation
+pyramid-shaped health system
+, where PHC forms the base, followed by secondary and tertiary care.
+Delayed medical interventions
+– Without strong PHC, many patients seek medical help only at
+later stages of illness
+, increasing reliance on
+costly tertiary care
+Hospitals become
+overcrowded
+with patients who could have been treated at the primary level, leading to
+longer wait times
+higher medical costs
+Preventive care is
+cheaper and more effective
+than curative care. Without strong PHC, diseases that could have been managed at an early stage become
+more severe and expensive to treat
+Increased Long-Term Costs and Rising OOPE
+While AB-PMJAY aims to
+, it primarily covers
+hospital-based treatments
+rather than
+outpatient consultations, diagnostic tests, or medicines
+, which account for a significant portion of
+health expenses for low-income households
+Since the scheme mainly
+reimburses hospital admissions
+, it discourages
+early-stage medical consultations
+, forcing patients to seek
+even for manageable conditions.
+With increasing demand,
+private hospitals may inflate charges
+for procedures and consumables, passing the burden onto patients.
+Expenses for
+medications, diagnostics, and follow-up treatments
+often remain uncovered,
+forcing patients to pay out of pocket
+Strengthening of Market-Driven Private Health Care
+AB-PMJAY’s
+insurance-based approach
+has led to a
+rapid expansion of private health care
+, reducing the role of
+government-run hospitals and PHC centres
+The increasing
+privatisation of health care
+raises concerns about
+profit-driven motives
+Private hospitals operate
+for profit
+and may
+overcharge or prescribe unnecessary treatments
+maximize insurance claims
+Many private hospitals are
+urban-centred
+, leaving
+rural areas underserved
+. This forces
+rural patients to travel long distances
+for treatment, increasing
+financial and logistical burdens
+Exclusion of Informal Workers and Vulnerable Populations
+India has a
+large informal workforce
+, including
+migrant labourers, daily wage earners, and gig workers
+, many of whom
+lack proper documentation
+to access
+insurance-based schemes
+digital and formal enrolment process
+creates barriers for these groups, leading to:
+Many informal workers
+do not fully understand the scheme
+low enrolment rates
+reliance on middlemen
+for insurance claims.
+The scheme covers individual hospitalization expenses but does not adequately address
+the medical needs of entire families
+Vulnerable populations, particularly
+pregnant women and children
+, require
+continuous, preventive care
+rather than hospitalization-focused interventions.
+Budgetary Trends: Privatisation and Insurance Expansion
+2025 health budget reflects a clear shift towards privatisation
+and an insurance-driven approach to health care.
+With ₹95,957.87 crore allocated to the Department of Health and Family Welfare
+and ₹3,900.69 crore to Health Research,
+there is a strong emphasis on expanding digital medical infrastructure and medical education
+rather than reinforcing grass-root PHC systems.
+Further,
+FDI in insurance has been raised to 100% in a bid to improve insurance penetration
+, particularly in rural areas.
+While this aims to attract private investment and expand coverage, it also raises concerns about:
+Complexity and Accessibility
+: Insurance illiteracy prevents vulnerable groups, such as migrant workers and the urban poor, from availing proper benefits, often making them dependent on middlemen.
+Unregulated Private Sector
+: Without strong regulations, OOPE may rise due to inflated medical costs and non-covered consumables.
+Lessons from Global Models
+India can learn from international experiences in designing effective universal health care systems.
+United States:
+Over-
+reliance on private insurance has led to rising medical costs and widening inequalities,
+leaving uninsured individuals with limited access to essential care.
+Thailand and Costa Rica:
+These countries
+rely on general tax revenue
+, strong public investments, and regulated private
+insurance to maintain affordable and community-based health care.
+To ensure that India's UHC commitment translates into actual benefits,
+it is crucial to strengthen public health-care systems rather than disproportionately relying on tertiary-level private insurance models.
+Policy Recommendations to Achieve Sustainable and Inclusive Health Care
+Strengthening Primary Health Care
+: Increased investment in preventive and community-based health services will reduce long-term costs and minimize OOPE.
+Regulating Private Insurance
+: Safeguards should be put in place to prevent private players from inflating medical costs, ensuring fair pricing and transparent claims processing.
+Comprehensive Health Benefit Packages
+: Expanding public health-care benefits for informal workers, migrant populations, and the unemployed will ensure true universal access.
+Data-Driven Policy Implementation
+: With India’s last Census conducted in 2011, outdated population data hinders efficient resource allocation.
+Periodic updates are necessary to track evolving health-care needs.
+Conclusion
+India stands at a critical juncture in its health-care policy
+; while initiatives like AB-PMJAY have improved financial protection for hospital-based treatments, they fall short of ensuring equitable access to primary and preventive care.
+A balanced approach, focusing on public health investment
+, regulation of private insurance, and cost-effective community care,
+is essential for India to uphold its commitment to ‘Health for All.’
+Click to View More
+Editorial Analysis
+**********The Challenges of Public Health Education in India
+Context
+Public health plays a critical role in shaping national healthcare systems
+, and the increasing demand for professionals in this field has led to the rapid expansion of public health education in India.
+However, a
+widening gap between training and employment
+, coupled with the absence of a standardised regulatory framework,
+has created challenges for aspiring public health professionals.
+Therefore,
+it is crucial to explore
+the evolution of public health training in India,
+the hurdles faced by graduates, and potential approaches
+to address these concerns.
+Evolution of Public Health Training and Employment in India
+Colonial Legacy and Early Public Health Education
+The roots of public health education in India can be
+traced back to the British colonial period when health interventions primarily focused on controlling infectious diseases
+and improving sanitation.
+Public health training was
+embedded within medical education, with an emphasis on hygiene, epidemiology
+, and disease prevention.
+However, it remained a peripheral subject rather than a distinct discipline.
+A major milestone in the formalisation of public health education was the establishment of the
+All-India Institute of Hygiene and Public Health (AIIHPH) in Kolkata in 1932.
+This
+institution became a pioneering
+centre for
+training professionals
+in hygiene, sanitation, and disease control.
+Despite this effort, public health remained
+largely confined to medical colleges
+, where it was incorporated into preventive and social medicine (PSM), later known as community medicine.
+Post-Independence Developments and Expansion of Public Health Education
+After India’s independence in 1947, the country faced significant public health challenges, including
+malnutrition, infectious diseases, and inadequate healthcare access.
+Recognising the need for a strong public health workforce,
+the government introduced several initiatives to expand healthcare services.
+However, public health training remained restricted to
+medical graduates
+, limiting the supply of specialists in the field.
+During the 1970s and 1980s,
+there was a
+gradual shift towards broadening public health training
+beyond medical colleges.
+New institutions such as the
+National Institute of Health and Family Welfare (NIHFW)
+in Delhi were established to provide advanced training in public health and family welfare.
+Despite these developments, the field continued to be dominated by community medicine specialists, and there was
+little focus on interdisciplinary public health education.
+The Rise of MPH Programs and Institutional Growth (2000-Present)
+A significant turning point in public health education in India occurred in the early 2000s, with the introduction of Master of Public Health (
+) programs.
+Unlike traditional community medicine courses, MPH programs were
+open to graduates from diverse academic backgrounds
+, including social sciences, nursing, and allied health sciences.
+This shift allowed for a
+more interdisciplinary approach
+to public health, incorporating expertise from epidemiology, health policy, and health management.
+2000, there was only one institution offering an MPH program in India
+, but by 2024, the number has grown to over
+100 institutions
+Challenges Faced by Public Health Graduates
+Disparity between Graduates and Jobs
+demand for entry-level positions
+such as research or program assistants far exceeds supply,
+leading to fierce competition and low success rates.
+issue is compounded by a shrinking number of public health roles within the government
+, as efforts to establish dedicated public health management cadres in different states have encountered bureaucratic roadblocks.
+Growing Demand of Private Sector in Healthcare
+Another significant factor limiting employment opportunities is the
+growing dominance of the private sector in healthcare.
+Unlike government agencies, private hospitals and health institutions often
+prioritise hospital administration and business management
+over public health expertise.
+Research and development organisations remain a major employer for public health professionals, but these
+rely heavily on foreign grants.
+As India is
+no longer a priority country for international funding
+these opportunities are also dwindling.
+The Quality of Health Education
+Beyond employment challenges, the
+quality of public health education itself is a matter of concern.
+rapid increase in MPH programs has led to a competitive market
+where institutions sometimes compromise on admission standards.
+Many students enrol without a clear understanding of the field
+, while faculty members often lack adequate training and real-world experience.
+Absence of a Standardised Curriculum
+The absence of a standardised curriculum across institutions
+results in inconsistent quality among graduates.
+Unlike medical degrees, which fall under the regulatory purview of the National Medical Commission (NMC) or the University Grants Commission (UGC),
+MPH programs remain unregulated, raising concerns about their credibility and effectiveness.
+Geographical Barriers
+Many large and populous states
+such as Bihar, Jharkhand, and Assam, along with several smaller states,
+have limited or no institutions offering public health courses.
+This not only
+restricts access
+to education for aspiring professionals in these regions but also
+weakens the overall public health infrastructure.
+Approaches to Strengthening Public Health Education and Employment
+Creation of More Public Health Jobs
+The first and most urgent priority is
+the creation of more public health jobs within government systems.
+In developed nations
+with well-established public health education frameworks,
+governments serve as the primary employers of public health professionals.
+India should follow a similar model
+by establishing dedicated public health cadres within state governments.
+This would not only enhance employment prospects for graduates but also strengthen public health systems
+at multiple levels, from primary care to national health policy implementation.
+Regulation and Standardisation of Public Health Education
+specialised regulatory body should be established within the NMC
+or UGC to oversee MPH programs.
+This agency, led by public health experts, would be responsible for setting curriculum standards,
+establishing minimum training requirements, and ensuring that graduates receive adequate practical exposure.
+Given the dynamic nature of public health,
+institutions should still retain flexibility for innovation
+while maintaining a baseline of quality and competence.
+Incorporation of More Practical Learning Opportunities
+To bridge the gap between education and employment,
+public health training programs must incorporate more practical learning opportunities.
+Institutions
+should establish stronger ties with government agencies, research organisations, and non-governmental organizations (NGOs)
+to provide students with hands-on experience.
+integration will help graduates develop real-world skills
+that make them more competitive in the job market.
+Efforts should be made to expand public health education
+in states where access remains limited.
+Encouraging the establishment of new institutions
+or introducing public health courses within
+existing universities can help distribute opportunities more evenly across the country.
+Additionally,
+incentivising students to work in underserved regions
+by offering scholarships or guaranteed placements in government programs could help
+address regional disparities
+in public health infrastructure.
+Conclusion
+The field of public health is critical for the well-being of any nation
+, yet India’s rapidly growing pool of public health graduates faces significant employment and educational challenges.
+The expansion of public health education, while a positive development, has not been matched by job creation
+, leading to an oversaturated market.
+Strengthening the public health workforce is essential
+not only for improving employment prospects but also for ensuring a
+robust and resilient healthcare system
+for the future.
+Click to View More
+Editorial Analysis
+**********Incentive Policy for Electronic Components Manufacturing
+Why in news?
+The IT Ministry has finalized a ₹23,000 crore incentive policy for electronic components manufacturing over six years.
+This initiative aims to enhance domestic value addition, following the successful localization of smartphone assembly in India.
+What’s in today’s article?
+Electronics Component Manufacturing Sector in India
+India’s ₹23,000 Crore Incentive Scheme for Electronic Components Manufacturing
+India’s Electronic Components Manufacturing sector is growing rapidly with strong government support and strategic initiatives to make the country a global electronics hub.
+Market Size
+Valued at $101 billion in March 2023, the sector aims to reach $300 billion by 2025-26.
+Production Linked Incentive (PLI) schemes
+have boosted production and attracted major global players like Apple and Samsung.
+Exports of electronic goods rose by 23.6% in FY 2023–24 to $29.12 billion.
+Key Initiatives
+Key initiatives by MeitY, includes
+Scheme for Promotion of Manufacturing of Electronic Components and Semiconductors (SPECS)
+and the
+Modified Electronics Manufacturing Clusters (EMC 2.0)
+These schemes focus on infrastructure and investment in high-value components.
+The National Policy on Electronics 2019, along with Make in India and Digital India, supports domestic manufacturing, job creation, and technological growth.
+Investments in R&D and manufacturing clusters further enhance the sector’s expansion.
+Future Prospects
+With rising domestic demand due to digitalization and urbanization, the sector plays a vital role in economic growth and global supply chain integration.
+The government’s comprehensive approach highlights its strategic importance in achieving India's long-term economic and technological goals.
+The IT Ministry has finalized an incentive policy worth around ₹23000 crore over six years to boost electronic components manufacturing and deepen domestic value addition.
+The scheme follows the success of the PLI scheme for smartphone assembly but
+aims to address the low domestic value addition of 15-20%, targeting an increase to 30-40%.
+Targeted Components
+The scheme will support the manufacturing of key electronic components such as:
+Display modules
+Camera sub-assemblies
+Printed circuit board assemblies
+Lithium cell enclosures
+Resistors, capacitors, ferrites, and more
+Employment Generation
+The initiative aims to create 91,600 direct jobs over six years.
+Annual incentive payouts will range from ₹2,300 crore to ₹4,200 crore, conditional on companies meeting investment, production, and employment targets.
+3 Types of Incentives
+Operational Incentives
+– Based on net incremental sales, similar to PLI schemes.
+Capital Expenditure (Capex) Incentives
+– Based on eligible capital investments.
+Hybrid Model
+– A combination of both operational and capex incentives.
+Investment Eligibility
+Both greenfield (new projects) and brownfield (existing projects) investments are eligible.
+Foreign companies can participate by either transferring technology to an Indian company or forming joint ventures with domestic firms.
+Demand-Supply Gap in Electronic Components
+A government assessment identified a $100 billion domestic demand-supply gap, which increases to $140 billion with exports.
+India's current production capacity is only $10.75 billion, covering just 10% of total electronics production.
+Challenges in Domestic Manufacturing
+Lack of Scale
+– India’s electronic components sector lacks large-scale domestic production.
+High Investment to Turnover Ratio
+– Unlike smartphones, where ₹1 investment yields ₹20, in components, it only yields ₹2-4.
+High Import Dependence
+– Electronics imports account for
+75%
+of total electronics production, making it the second-largest import category after oil.
+Future Projections and Urgency
+Component demand is expected to reach $160 billion by 2028-29.
+Imports of key components grew from $29 billion in FY21 to $46.5 billion in FY23
+To meet demand, domestic component production with exports must grow at a CAGR of over 53%.
+Conclusion
+The government’s incentive scheme is a crucial step to reduce import dependence, scale up domestic manufacturing, and integrate India into the global supply chain.
+By addressing infrastructure, investment challenges, and skill development, the initiative aims to establish India as a key player in electronic components manufacturing.
+Incentive Policy for Electronic Components Manufacturing.pdf
+( Size:  773.0 KB  )
+Click to View More
+Economics
+**********[17th March 2025] The Hindu Op-ed: The challenges of public health education in India
+Governance
+PYQ Relevance:
+) “In a crucial domain like the public healthcare system, the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level.”
+(2024)
+Reason:
+This question requires an understanding of the challenges within the public healthcare system, including the availability and competence of public health professionals, which is linked to the quality and accessibility of public health education.
+Mentor’s Comment:
+UPSC Mains have focused on the
+‘Public health system’
+(in 2015) and  ‘
+role of Indian state in public healthcare system’ (2024)
+The U.S. decision to leave the World Health Organization (WHO) and cut funding for the United States Agency for International Development (USAID) has caused major disruptions in healthcare services in many developing countries. However, India has remained mostly unaffected because it relies very little on international aid, which makes up only 1% of its total health spending.
+Today’s editorial discusses the impact of the U.S. decision to withdraw from the World Health Organization (WHO) and reduce funding for the United States Agency for International Development (USAID). This analysis is relevant for GS Paper 2, covering International Relations (IR) and Governance in the health sector.
+_
+Let’s learn!
+Why in the News?
+Recently,
+U.S. decided to leave the World Health Organization (WHO) and cut funding for the United States Agency for International Development (USAID)
+Why has the withdrawal of U.S. funding from WHO and USAID had a limited impact on India’s public health system?
+Low Dependence on Foreign Aid
+– International aid accounts for only
+1% of India’s total health expenditure
+, making the system largely
+self-reliant
+. For example, India’s
+Ayushman Bharat scheme
+is fully funded by the government, reducing dependence on external grants.
+Strong Domestic Health Programs
+– India has
+large-scale, government-funded health programs
+National Health Mission (NHM)
+and the
+Universal Immunization Programme (UIP)
+. For instance, India’s
+polio eradication drive
+was successful primarily due to government initiatives rather than foreign aid.
+Growing Private Healthcare Sector
+– The
+private sector plays a dominant role
+in healthcare delivery, reducing reliance on foreign-funded public health initiatives. For example, large hospital networks like
+Apollo Hospitals and Narayana Health
+operate independently of international funding.
+Diversified Funding Sources
+– India receives aid from
+multiple global organizations
+Gavi Vaccine Alliance and the Global Fund
+, ensuring that a reduction in U.S. contributions does not severely impact the overall funding pool. For example, India’s
+HIV/AIDS control programs
+receive support from
+UNAIDS and the Global Fund
+, not just USAID.
+Increased Government Health Spending
+Union Budget allocations
+for health have consistently increased, helping sustain key health initiatives. For instance,
+India’s health budget in 2023-24 was ₹89,155 crore
+, allowing for the continued expansion of
+primary health infrastructure and insurance schemes
+without heavy reliance on foreign aid.
+What are the key challenges faced by Master of Public Health (MPH) graduates in securing employment in India?
+Limited Government Job Opportunities
+– Despite the increasing number of MPH graduates,
+government recruitment has stagnated
+. For example, the
+National Rural Health Mission (NRHM)
+initially opened roles for non-medical public health specialists, but hiring has since slowed.
+Preference for Medical and Management Professionals
+private healthcare sector
+prioritizes
+hospital administrators and business managers
+over public health specialists. For instance, private hospitals often recruit
+MBA (Healthcare) graduates
+for leadership roles rather than MPH holders.
+Declining International Funding for Public Health
+– Many
+research institutions and NGOs
+rely on
+foreign grants
+, which are shrinking due to the
+U.S. withdrawal from WHO and USAID cuts
+. For example, NGOs working on
+tuberculosis control
+have faced funding reductions, limiting hiring capacity.
+Lack of Practical Training and Standardization
+– Many MPH programs
+lack field experience
+, making graduates less competitive. For example, graduates from institutions with
+strong internships (like PHFI)
+are often preferred over those from colleges with purely theoretical training.
+Absence of a Public Health Cadre
+– Unlike developed nations where public health professionals have
+dedicated government roles
+, India lacks a structured
+Public Health Management Cadre
+. For example, states like
+Tamil Nadu and Maharashtra
+have proposed such a cadre, but implementation remains slow.
+How has the expansion of public health education in India led to concerns about the quality of MPH training?
+Lack of Standardized Curriculum
+– Different universities follow varied curricula, leading to inconsistencies in training quality. For example,
+Tata Institute of Social Sciences (TISS)
+emphasizes social determinants of health and policy, while
+Manipal Academy of Higher Education (MAHE)
+focuses more on epidemiology and biostatistics. This lack of uniformity affects the competencies of graduates.
+Insufficient Practical Training
+– Many MPH programs lack field-based learning, making graduates less prepared for real-world public health challenges. For instance,
+Public Health Foundation of India (PHFI)
+offers strong internship opportunities in collaboration with state governments, whereas some newer private universities, like
+Amity University
+, provide limited hands-on experience.
+Shortage of Qualified Faculty
+– Several institutions face a shortage of experienced public health faculty, affecting the depth of education. For example,
+Banaras Hindu University (BHU)
+has an established public health faculty, whereas some recently launched programs in private universities struggle to recruit trained professionals, leading to a reliance on general medical or social science faculty.
+What are the steps taken by the Indian government?
+Expansion of Public Health Institutes
+– The government has established institutions to strengthen public health education.
+Example:
+All India Institute of Hygiene and Public Health (AIIHPH)
+National Institute of Public Health Training & Research (NIPHTR)
+provide specialized training in public health.
+Inclusion of Public Health in Government Initiatives
+– Various health programs now incorporate public health professionals.
+programs employ MPH graduates in areas like health policy, epidemiology, and disease surveillance.
+Strengthening Public Health Cadre
+– Several states are working on creating a structured public health cadre for MPH graduates.
+Tamil Nadu and Maharashtra have proposed dedicated
+Public Health Management Cadres (PHMCs)
+to integrate MPH professionals into government health services.
+Skill Development and Capacity Building
+– Initiatives to enhance practical training and research skills.
+Indian Council of Medical Research (ICMR)
+National Centre for Disease Control (NCDC)
+offer training in epidemiology, biostatistics, and field research.
+Accreditation and Regulation Efforts
+– Steps are being taken to ensure uniform standards in MPH education.
+University Grants Commission (UGC)
+has proposed guidelines for public health courses, and discussions are ongoing for a central regulatory body to oversee MPH programs.
+Way forward:
+Establishment of a Public Health Cadre
+– The government should create a
+dedicated Public Health Management Cadre (PHMC)
+at the state and central levels to ensure structured employment for MPH graduates. For example, states like Tamil Nadu and Maharashtra have proposed such cadres, but national-level implementation is required.
+Standardization of MPH Curriculum
+– A central body like the
+National Medical Commission (NMC) or the University Grants Commission (UGC)
+should regulate MPH programs, ensuring a
+uniform curriculum
+with a balance of theoretical knowledge and practical skills. For instance, defining
+core competencies
+such as epidemiology, health policy, and program management would enhance graduate employability.
+**********Tackling the problem of nutrition
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Welfare schemes;
+Why in the News?
+In the upcoming financial year, the government has increased funding for two key schemes—Saksham Anganwadi and Poshan 2.0.
+What are the key nutrition-related schemes that received higher allocations in Budget 2025?
+Saksham Anganwadi and POSHAN 2.0
+: Allocated ₹21,960 crore, up from ₹20,070.90 crore in the previous year, these initiatives aim to combat malnutrition and strengthen early childhood care.
+Mission Vatsalya (Child Protection Services)
+: Received ₹1,500 crore, an increase from ₹1,391 crore last year, focusing on creating a safe environment for vulnerable children through institutional and family-based care.
+Mission Shakti (Women’s Empowerment)
+: Allocated ₹3,150 crore, with components like Sambal and Samarthya receiving significant funding to support initiatives such as Beti Bachao Beti Padhao and the Pradhan Mantri Matru Vandana Yojana (PMMVY).
+Mid-Day Meal Scheme (PM POSHAN)
+: While specific figures were not detailed in the available sources, the scheme continues to provide nutritious meals to school children, aiming to improve health and learning outcomes.
+Food Subsidy Program
+: The government plans to increase the food subsidy bill by about 5% to nearly ₹2.15 trillion, primarily due to higher rice purchases and rising storage costs, ensuring food security for the underprivileged.
+​
+Why is India’s nutrition challenge not just about food insecurity but also linked to cultural and social factors?
+Dietary Habits Shaped by Culture:
+Traditional food choices often lack diversity in essential nutrients, leading to malnutrition. According to the
+National Family Health Survey-5 (NFHS-5)
+, only
+11% of breastfed children (6-23 months)
+receive an adequate diet.
+Example:
+Many vegetarian diets in India lack
+protein, iron, and vitamin B12
+, increasing anaemia risks.
+Caste and Social Norms Impact Food Access:
+Historical caste-based discrimination limits access to nutrient-rich foods for marginalized communities.
+Many lower-caste communities have
+restricted access to milk and pulses
+, key protein sources.
+Gender Disparities in Nutrition:
+Women often eat last and consume less nutritious food compared to men in the family.
+reports that
+57% of Indian women (15-49 years old) are anaemic
+, significantly higher than men.
+Urbanization and Processed Food Consumption:
+Rising income levels and urban lifestyles have increased
+fast food and processed food consumption
+, leading to diet-related diseases. Around
+23% of women and 22.2% of men
+in India are
+overweight or obese
+, according to NFHS-5.
+High consumption of
+sugar-laden, fiber-poor packaged foods
+contributes to rising cases of diabetes and hypertension.
+Limited Nutrition Focus Beyond Maternal and Child Health:
+National policies prioritize nutrition interventions for pregnant women and children but ignore other vulnerable groups.Elderly populations and working men receive
+little policy attention
+, despite being at risk of malnutrition and lifestyle diseases.
+According to NFHS-5, only 27.5% of adults with diabetes were aware of their condition, 21.5% were on treatment, and just 7% had their diabetes under control.
+How does the existing nutrition policy overlook certain segments of the population?
+Focus on Women and Children, Ignoring Other Vulnerable Groups:
+Most policies, like
+Poshan 2.0 and Saksham Anganwadi
+, prioritize
+maternal and child nutrition
+but neglect other groups.
+Elderly populations, adolescent boys, and working men rarely receive targeted nutritional support.
+Lack of Attention to Non-Communicable Diseases (NCDs):
+Policies focus on undernutrition but ignore rising
+lifestyle-related diseases
+like diabetes and hypertension.
+14% of adults
+in India require diabetes medication, yet
+nutrition plans rarely address high sugar and processed food consumption
+Limited Inclusion of Urban Poor and Middle-Class Nutritional Needs:
+Urban food insecurity and poor dietary habits are often overlooked in favor of rural nutrition programs.
+Many urban poor rely on
+cheap, processed foods with low nutritional value
+, increasing obesity and micronutrient deficiencies.
+One-Size-Fits-All Approach Ignores Local Dietary Diversity:
+National policies provide standardized nutrition interventions that may not align with
+regional food habits
+In some tribal areas,
+traditional nutrient-rich foods like millets are being replaced with government-distributed wheat and rice
+, reducing diet diversity.
+Inadequate Support for Special Groups (Elderly, Disabled, Recuperating Patients):
+People recovering from illnesses, trauma, or those with disabilities have
+special dietary needs
+that existing policies fail to address.
+Health and Wellness Centres (HWCs)
+provide minimal nutrition support for
+elderly individuals with osteoporosis or post-surgical patients needing high-protein diets
+What steps has taken by the Indian government?
+Increased Allocation for Nutrition Schemes:
+Higher funding for
+to improve maternal and child nutrition.
+Focus on aspirational districts and take-home rations for malnourished children.
+Fortification of Staple Foods:
+Distribution of
+fortified rice, wheat, and edible oil
+to tackle micronutrient deficiencies.
+Fortified rice with
+iron, folic acid, and vitamin B12
+in Mid-Day Meal (PM-POSHAN).
+Strengthening Public Distribution System (PDS):
+Free ration under
+Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)
+to ensure food security.
+5 kg of free grains per person per month
+for priority households.
+Promotion of Millets and Local Food:
+Encouraging
+millet consumption
+for better nutrition and climate resilience.
+2023 was the
+International Year of Millets
+, and millets are now included in PM-POSHAN.
+Awareness and Behavioral Change Campaigns: POSHAN Abhiyan
+promotes healthy dietary habits, anemia prevention, and hygiene.
+Campaigns to
+promote breastfeeding
+and combat
+at the grassroots level.
+Way forward:
+Expand Nutrition Coverage Beyond Maternal and Child Health:
+Develop
+inclusive policies
+targeting adolescents, elderly populations, and working adults.
+Introduce nutrition programs for
+non-communicable diseases (NCDs)
+like diabetes and obesity.
+Promote Region-Specific and Sustainable Diets:
+Encourage
+traditional, locally available
+nutrient-rich foods over a one-size-fits-all approach.
+Integrate
+millets and indigenous grains
+into government nutrition programs.
+Mains PYQ:
+“Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle?
+(2024)
+Reason:
+This question directly addresses the link between poverty and malnutrition and asks for solutions.
+**********India, New Zealand resume trade deal talks after decade
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+India - New Zealand relations;
+Why in the News?
+After nearly 10 years,
+India and New Zealand
+have resumed talks on a free trade agreement (FTA) to strengthen economic relations.
+What is the main objective of resuming India-New Zealand FTA negotiations?
+Enhancing Market Access & Trade Growth:
+The FTA aims to
+expand trade opportunities
+by reducing tariffs and trade barriers. Example:
+Bilateral trade surpassed USD 1 billion (April-January 2025)
+, highlighting the potential for further growth.
+Strengthening Supply Chain Integration:
+The agreement seeks to improve
+logistics and supply chain efficiency
+between the two countries. Example:
+New Zealand’s dairy and agricultural products
+could find structured entry into India, while
+India’s IT and pharmaceutical sectors
+could benefit from easier access to the New Zealand market.
+Boosting Investment & Business Opportunities:
+The FTA will help
+attract investments and foster job creation
+in sectors like
+IT, services, and agriculture
+. Example: India seeks
+better mobility for skilled professionals
+, benefiting industries like
+software services and engineering
+Why did the India-New Zealand trade talks stall in 2015?
+Disagreements Over Dairy Market Access:
+New Zealand demanded
+greater access to India’s dairy market
+, but India resisted to protect its
+millions of dairy farmers
+India’s dairy imports from New Zealand were minimal (~$0.57 million), and India remained firm against allowing
+raw dairy imports
+Tariff Reduction Challenges:
+New Zealand had a
+low average tariff of 2.3%
+, while India had a
+higher average tariff of 17.8%
+, making tariff reductions challenging.
+India was reluctant to lower tariffs on
+New Zealand’s dairy, meat, and wine exports
+, fearing a negative impact on domestic industries.
+Limited Gains for India in Goods Trade:
+Since New Zealand already had
+low tariffs and duty-free access for many goods
+, India saw
+fewer advantages
+in an FTA.
+Indian exports such as
+textiles, apparel, and pharmaceuticals
+already had significant access to the New Zealand market.
+Concerns Over Skilled Labor Mobility:
+India wanted
+easier movement of skilled professionals
+in IT and services, but New Zealand was hesitant.
+India sought
+better visa provisions
+for IT and engineering professionals, which faced resistance.
+External Trade Pressures:
+India faced
+pressure from other countries like the U.S.
+to open its dairy and agricultural sectors, complicating negotiations.
+Allowing
+New Zealand’s dairy products
+could have set a precedent for
+other trade partners
+demanding similar concessions.
+How does the tariff disparity between India and New Zealand pose a challenge to the negotiations?
+Significant Difference in Average Tariff Rates:
+New Zealand’s average import tariff is
+only 2.3%
+, with over
+half of its tariff lines duty-free
+, while India’s
+average tariff stands at 17.8%
+Indian goods already have substantial access to the New Zealand market, making a traditional FTA
+less beneficial for India
+Limited Market Access Gains for India:
+Since New Zealand already imposes
+low or no tariffs
+on many products, India’s exporters may
+not gain significant new access
+Sectors like
+textiles, pharmaceuticals, and auto components
+already enter New Zealand with minimal restrictions, reducing the FTA’s potential benefits for India.
+Pressure on India to Lower Tariffs on Sensitive Sectors:
+New Zealand is pushing for
+tariff reductions on dairy, meat, and wine exports
+, but India is
+to protect domestic farmers and industries.
+dairy sector
+supports millions of small farmers, making it difficult to allow imports that could undercut local production.
+Imbalance in Reciprocal Concessions:
+If India significantly lowers its tariffs,
+New Zealand would gain more than India
+, creating an
+imbalance in trade benefits
+India would have to make
+greater tariff cuts
+, while New Zealand’s market access would remain largely unchanged.
+Potential Precedent for Other Trade Partners:
+agrees to major tariff cuts for New Zealand
+, other countries in future FTAs may
+demand similar concessions
+, complicating trade policy.
+Countries like
+Australia, the EU, and the U.S.
+could push India to open up its
+agriculture and dairy sectors
+, which India has traditionally protected.
+Way forward:
+Balanced Trade Concessions & Sectoral Safeguards:
+India and New Zealand should explore
+sector-specific agreements
+rather than blanket tariff reductions.
+India can allow
+limited access to value-added dairy products
+while ensuring
+safeguards for domestic farmers
+. Similarly, New Zealand can offer
+better terms for India’s IT and services sector
+Enhanced Collaboration in Non-Tariff Areas:
+Both nations should
+focus on investment facilitation, technology exchange, and regulatory cooperation
+to maximize mutual benefits beyond tariff cuts.
+Joint ventures in agritech, renewable energy, and pharmaceuticals
+can create
+new trade opportunities
+without tariff-related conflicts.
+Mains PYQ:
+Critically analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) highlighting their increasing significance in regional and global geopolitics.
+(2024)
+Reason:
+It highlights the importance of analyzing India’s evolving economic relations with other regions, which is similar to the context of resuming talks with New Zealand.
+**********Air Pollution will Lower India’s Solar Generation Capacity: Study
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+India's Solar Capacity
+Why in the News?
+A new study by
+IIT Delhi
+, published in
+Environmental Research Letters
+(November 2024)
+, reveals that air pollution and climate change are undermining solar panel efficiency in India.
+Key Findings of the IIT Delhi Study
+Efficiency Loss Forecast
+Scenario 1 (Moderate climate efforts)
+: Solar panel efficiency is projected to decline by more than 2.3% by 2041-2050.
+Scenario 2 (Weak climate action, strong air pollution control)
+: Efficiency drops by 2.3%, amounting to at least 840 GWh loss annually.
+Primary Causes
+Solar radiation decline
+is the biggest factor.
+Temperature increase follows closely, with a
+2°C rise in cell temperature predicted by mid-century
+Wind speed variations
+have minimal but present impact.
+Kerala and Northeast
+regions could see
+higher solar potential
+due to
+reduced cloud cover
+, offering opportunities for
+future solar investments
+India’s Solar Capacity
+India, is the
+5th-largest solar power
+producer globally.
+India has achieved a significant milestone with a total installed
+solar capacity of 100.33 GW
+as of January 31, 2025.
+India’s solar capacity has increased
+35 times
+in the past decade, growing from
+2.82 GW in 2014
+100 GW in 2025
+PM SuryaGhar Muft Bijli Yojana
+has been a key driver in promoting rooftop solar, with nearly
+9 lakh rooftop installations
+already completed.
+A record
+24.5 GW
+of solar capacity was added in
+, more than doubling the installations compared to
+2023
+18.5 GW
+of utility-scale solar capacity was installed, a nearly
+2.8 x
+increase compared to the previous year.
+Rajasthan, Gujarat, Tamil Nadu, Maharashtra,
+Madhya Pradesh
+are the top-performing states, contributing significantly to India’s solar installations.
+India’s solar module production capacity has surged from
+60 GW in 2024
+, establishing the country as a global leader in solar manufacturing.
+PYQ:
+[2020]
+India has immense potential for solar energy though there are regional variations in its developments. Elaborate.
+[2018]
+With reference to solar power production in India, consider the following statements:
+1. India is the third largest in the world in the manufacture of silicon wafers used in photovoltaic units.
+2. The solar power tariffs are determined by the Solar Energy Corporation of India.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********Definition of ‘Tribe’ in India
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Scheduled Tribes (STs)
+Why in the News?
+At the recent
+Indian Anthropology Congress
+officials from the
+Anthropological Survey of India (AnSI)
+and
+National Commission for Scheduled Tribes (NCST)
+called for a shift in defining tribes.
+Instead of a rigid binary classification—tribe or not—they advocate for a
+“spectrum of tribalness”
+About Scheduled Tribes (STs)
+STs are defined under
+Article 366(25)
+of the Indian Constitution as “
+such tribes or tribal communities or parts of or groups within such tribes or tribal communities as are deemed under Article 342 to be Scheduled Tribes for the purposes of this Constitution.
+Under
+President notifies STs for each State/UT
+after consultation with the Governor, and modifications can only be made by
+Parliament through legislation
+Currently,
+705 STs
+are notified across
+30 States/UTs
+, comprising
+8.6% of India’s population (2011 Census)
+They are mainly concentrated in
+Central India (Madhya Pradesh, Chhattisgarh, Jharkhand, etc.)
+and the
+North-East
+Existing Criteria for ST Classification (Lokur Committee, 1965)
+Lokur Committee (1965)
+laid down 5 key criteria for classifying STs:
+Primitive Traits
+Distinctive Culture
+Geographical Isolation
+Shyness of Contact with the Community at Large
+Backwardness
+Criticisms of Existing Criteria:
+Termed
+obsolete, condescending, and colonial
+by scholars.
+Many communities today
+do not fully meet all criteria
+Fails to reflect
+regional diversity, historical coexistence, and social changes
+Overly dependent on a
+binary view of ‘tribe’ vs. ‘non-tribe’
+, leading to inclusion-exclusion conflicts (e.g.,
+Meitei ST demand in Manipur
+).
+Proposal for a ‘Spectrum of Tribalness’
+Recent academic and policy discussions (e.g., at the Indian Anthropology Congress) advocate for a paradigm shift:
+Replace binary classification with a
+matrix of indicators
+Use a broader set of
+100-150 indicators
+, including:
+Marriage, kinship systems, language, rituals, governance structures, cultural materiality (e.g., headgear, weaponry) etc.
+Assign
+weightage
+to each indicator to determine the
+degree of tribalness
+PYQ:
+[2024]
+Consider the following statements:
+1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe.
+2. A community declared as a Scheduled Tribe in a State need not be so in another State.
+Which of the statements given above is/are correct?
+(a) 1 only (b) 2 only (c) Both 1 and 2 (d) Neither 1 nor 2
+**********What Laws govern Import of Gold into India?
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+India’s Gold Imports
+Why in the News?
+India is facing a
+rise in gold smuggling
+due to higher global gold prices, with a recent
+high-profile case
+where an
+actor was arrested
+for smuggling over
+14
+kg of gold
+from Dubai to Bengaluru.
+Laws Against Gold Smuggling in India:
+Gold smuggling is regulated by the
+Customs Act, 1962
+Sections 111 & 112
+allow confiscation and fines for illegal imports.
+Section 135
+provides up to
+7 years imprisonment
+if the smuggled goods’ value exceeds ₹1 lakh.
+Under the
+Baggage Rules, 2016
+, men abroad for 1+ year can bring
+20g duty-free (₹50,000 cap)
+; women can bring
+40g (₹1 lakh cap)
+Customs duty rates
+3% duty
+: Men (20-50g), Women (40-100g).
+6% duty
+: Men (50-100g), Women (100-200g).
+10% duty
+: Beyond these limits.
+The
+Bharatiya Nyaya Sanhita, 2023
+, punishes
+organized smuggling
+5 years to life imprisonment
+under
+Section 111
+UAPA Section 15
+, smuggling that affects
+India’s monetary stability
+is treated as a
+terrorist act
+, attracting life imprisonment.
+Supreme Court (2003)
+ruled that non-compliant imports are
+prohibited goods
+, liable for confiscation and punishment.
+India’s Gold Imports:
+India is the
+second-largest gold consumer after China
+, with gold making up
+5% of total imports
+, mostly for the
+jewellery industry
+Major import sources:
+Switzerland (40%)
+UAE (16%)
+South Africa (10%)
+Budget 2024
+reduced import duty from
+15% to 6%
+to control smuggling and balance trade.
+April-July 2024-25
+, gold imports dipped by
+4.23%
+, easing pressure on the
+Current Account Deficit (CAD)
+April-June 2024
+Gems & jewellery exports:
+US$ 6.87 bn.
+Diamonds:
+53.47%,
+gold jewellery:
+32.39% (US$ 608 mn),
+silver jewellery:
+3.36%.
+Gold jewellery imports:
+US$ 88.61 mn (June 2024).
+Major production hubs:
+Surat, Mumbai, Jaipur, Thrissur, Nellore, Delhi, Hyderabad, Kolkata
+India targets
+US$ 100 billion gems & jewellery exports by 2027
+, making it a
+focus sector for export promotion
+PYQ:
+[2016]
+What is/are the purpose/purposes of Government’s ‘Sovereign Gold Bond Scheme’ and ‘Gold Monetization Scheme’?
+1. To bring the idle gold lying with Indian households into the economy.
+2. To promote FDI in the gold and jewellery sector.
+3. To reduce India’s dependence on gold imports.
+Select the correct answer using the code given below:
+(a) 1 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3
+**********International Criminal Court (ICC)
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+International Criminal Court (ICC) and its jurisdiction
+Why in the News?
+The International Criminal Court (ICC) has
+taken into custody
+former
+Philippines President
+Rodrigo Duterte on
+charges of crimes against humanity
+, linked to his infamous
+“war on drugs”
+.
+About the International Criminal Court (ICC)
+is the world’s first permanent international court established to prosecute individuals responsible for the gravest crimes of global concern.
+Founded under the
+Rome Statute
+1998
+, it became operational in
+2002
+and is headquartered in
+The Hague, Netherlands
+The ICC has jurisdiction over
+4 core international crimes
+War crimes
+Crimes against humanity
+Genocide
+Crimes of aggression
+It has
+125 member states
+, signatories to the
+, though major powers like
+India
+US
+China
+Russia
+Israel
+, and
+Ukraine
+are NOT members due to concerns over sovereignty and political misuse.
+The ICC’s budget, primarily funded by member states with additional voluntary contributions, for
+2025
+is approximately
+€195 million
+The ICC structure includes
+18 judges
+elected for
+9-year terms
+and an independent
+Office of the Prosecutor
+responsible for investigations and prosecutions.
+Key bodies include the
+Trust Fund for Victims
+Detention Centre
+, and the
+Assembly of States Parties
+, which oversees its administrative functions.
+The ICC lacks an enforcement mechanism and depends on
+member states’ cooperation
+for executing arrest warrants, gathering evidence, and enforcing sentences.
+Reach of an ICC Warrant:
+Applicability
+Applies to crimes committed by nationals of member states or on member state territories.
+Maintains jurisdiction over crimes committed before a state withdraws from membership.
+State Obligations
+Member states must execute ICC arrest warrants under the
+Non-compliance can lead to reporting to the
+and potential escalation to the
+UN Security Council (UNSC)
+This applies particularly in cases involving UNSC-mandated probes, like
+Darfur
+Libya
+Challenges to Enforcement
+Non-member states (
+e.g. US, Russia, China
+) are not bound by ICC warrants.
+Political considerations
+lead to inconsistent compliance.
+Special Mechanisms
+2016
+, the ICC formed an
+Arrest Working Group
+to improve intelligence-sharing and warrant execution.
+Duterte Case Implications
+Even after
+Philippines’ withdrawal in 2019
+, the ICC retains jurisdiction for crimes committed from
+2011-2019
+Duterte’s arrest
+highlights how domestic politics, such as the collapse of the Duterte-Marcos alliance, can influence warrant execution.
+PYQ:
+[2019]
+Consider the following statements:
+1.The International Criminal Court (ICC) has jurisdiction to prosecute nationals of even those States that have not ratified the Rome Statute.
+2. The International Criminal Court is a ‘court of last resort’ intended to complement national judicial systems.
+3. The United Nations Security Council can refer a situation to the Prosecutor of the ICC even if the State concerned is not a party to the Statute.
+Which of the statements given above are correct?
+(a) 1 and 3 only
+(b) 2, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+**********

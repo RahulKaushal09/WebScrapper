@@ -1,0 +1,191 @@
+
+**********
+Poleward Shift of Atmospheric Rivers
+Source: DTE
+Why in News?
+A recent study reported that atmospheric rivers have shifted 6 to 10 degrees poleward over the past 40 years, influencing global weather patterns.
+This shift is increasing
+droughts
+in some regions while intensifying
+floods
+in others, with major implications for water resources and climate stability.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1730098356_Atmospheric_River.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+Why are Atmospheric Rivers Shifting Polewards?
+Sea Surface Temperature Changes:
+Atmospheric rivers are shifting poleward due to
+cooling of sea surface temperatures
+in the
+eastern tropical Pacific
+since 2000, associated with
+La Niña
+conditions.
+As a result,
+subtropics may experience more prolonged droughts
+nd water scarcity,
+higher latitudes could see more extreme rainfall and flooding
+Walker Circulation
+: During
+Walker circulation
+strengthens over the
+western Pacific
+, expanding the tropical rainfall belt. This change, combined with alterations in atmospheric eddy patterns, creates high-pressure anomalies that steer ARs toward the poles.
+The
+is a cyclic pattern of air movement around the
+equator
+that plays a crucial role in
+climate and weather.
+Long-term Climate Trends:
+IPCC
+reports that global temperatures have increased by approximately 1.1°C since the pre-industrial era. Warmer conditions have altered jet stream patterns, shifting them poleward. This movement pushes ARs toward higher latitudes, impacting weather patterns and raising the frequency of extreme events in those areas.
+What are Implications of the Poleward Shift of Atmospheric Rivers?
+Water Resource Management
+: Subtropics regions like California and southern Brazil, which rely on ARs for vital rainfall, may face
+longer droughts and water shortages
+as ARs become
+less frequent
+. This could lead to increased stress on agriculture and local communities.
+Increased Flooding and Landslides
+: Higher Latitudes areas like the US Pacific Northwest, Europe, and even polar regions could see more
+extreme rainfall, flooding, and landslides
+due to the poleward movement of ARs threatening infrastructure and safety.
+Arctic Climate Impact:
+The movement of ARs into the Arctic could
+accelerate sea ice melting
+Research found that atmospheric rivers contribute to
+36% of the rise in summer moisture
+over the Arctic since 1979.
+Predictive Challenges:
+The variability of natural processes, such as the oscillation between
+El Niño
+La Niña,
+complicates predictions about future atmospheric river behaviour.
+Current
+climate models
+may underestimate these natural variabilities, leading to potential miscalculations in forecasting weather patterns and water availability.
+What are Atmospheric Rivers?
+About:
+Atmospheric rivers (ARs)
+long, narrow bands of moisture in the atmosphere
+transport vast amounts of water vapour from tropical regions to mid-latitude areas
+other areas
+, particularly outside of the tropics.
+E.g., The
+“Pineapple Express”
+is an atmospheric river transporting warm, humid air from the tropical Pacific near Hawaii to North America’s west coast, particularly California.
+Conditions Required for Formation of AR:
+Strong Low-Level Winds:
+These winds serve as pathways for transporting water vapour, with
+jet streams
+Northern and Southern hemispheres
+acting as
+high-speed channels,
+sometimes reaching up to 442 km/h (275 mph).
+High Moisture Levels
+: Adequate moisture is critical to initiate precipitation processes.
+Orographic Lift:
+When moist
+air masses
+ascend over elevated terrain, such as mountains, they cool as they rise. This cooling process increases humidity, leading to cloud formation and, under suitable conditions, precipitation.
+Categories:
+Category 1 (Weak):
+A mild, short-duration event, with beneficial effects like
+light rainfall
+over 24 hours.
+Category 2 (Moderate):
+A Category 2 atmospheric river is a
+moderate storm
+with mostly beneficial effects, but also somewhat hazardous.
+Category 3 (Strong):
+stronger and more prolonged event
+, bringing 5-10 inches of rain over 36 hours. It can help replenish reservoirs but may also raise some rivers near flood stage.
+Category 4 (Extreme):
+Primarily hazardous, though with limited benefits. It can bring
+intense rainfall
+over several days, likely pushing many rivers to flood levels.
+Category 5 (Exceptional):
+Largely hazardous
+e.g., an atmospheric river over Central California during the 1996-97 caused damages exceeding USD 100 billion.
+Key Characteristics:
+Length:
+Often referred to as
+"rivers in the sky,"
+atmospheric rivers can extend for thousands of kilometres and vary in size and strength, similar to terrestrial rivers.
+Seasonal Occurrence
+: In the Northern Hemisphere, they typically occur between December and February, while in the Southern Hemisphere, they are most common from June to August.
+In August 2022,
+New Zealand
+experienced an atmospheric river that caused record
+rainfall, flooding, and displacement
+was struck by
+12 atmospheric rivers
+between December 2022 and March 2023, resulting in intense
+rainfall, flooding, and wind damage.
+Water Vapour Capacity:
+An average atmospheric river transports water vapour equivalent to the flow at the mouth of the
+Mississippi River
+, with exceptionally strong ones capable of carrying up to 15 times that volume.
+Variability:
+No two atmospheric rivers are alike; their characteristics differ based on factors like atmospheric instability and
+Atmospheric rivers can produce both beneficial rainfall and destructive flooding, highlighting their dual role in influencing weather patterns.
+Atmospheric River on Reaching Land:
+When an
+atmospheric river reaches land
+moisture-laden air rises and cools
+over mountain ranges, resulting in
+heavy precipitation as rain or snow.
+Unlike cold winter storms, atmospheric rivers are warm, leading to rapid snowpack melting, runoff, and flooding, impacting regions’ water supply.
+The Role of Climate Change:
+Climate change
+is causing average temperatures on Earth to rise, leading to more water vapour in the
+and increasing the likelihood of damaging atmospheric rivers.
+Studies indicate that atmospheric rivers in the Southern Hemisphere have been
+shifting poleward by up to 0.72° per decade
+due to anthropogenic factors.
+These shifts influence
+ocean temperatures, atmospheric CO2 levels,
+and the
+ozone layer
+As the planet warms, the
+intensity and frequency
+of atmospheric rivers are
+expected to increase
+more extreme rainfall events
+by up to 40% in some areas.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1730098178_Pineapple_Express.png" style="display: block; margin-left: auto; margin-right: auto;" width="500"/>
+What are the Role of Atmospheric Rivers?
+Positive Role:
+Redistribution of Freshwater:
+AR are responsible for more than 50% of the mean annual runoff in many regions. For example, California relies on ARs for up to 50% of its annual rainfall, making them vital for water supply and agriculture.
+Global Water Cycle:
+AR plays a vital role in the
+global water cycle
+, influencing both water supply and flood risks, especially in the western United States. They are essential for replenishing snowpacks and can significantly impact weather patterns.
+Snowpack Formation:
+During colder months, atmospheric rivers deposit snow, which later melts to maintain water levels in warmer months. Snowpacks also reflect sunlight, helping cool Earth's surface.
+Negative Role:
+Flooding:
+Excessive precipitation can lead to soil saturation, which in turn causes
+, particularly in areas without sufficient vegetation.
+Landslides and Mudslides:
+Steep terrain, deforested areas, and large amounts of rain increase the risk of
+and mudslides
+Droughts:
+A lack of atmospheric rivers can contribute to prolonged droughts, leading to water scarcity,
+food insecurity,
+and heightened human conflicts.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1730098334_Atmospheric_River.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="500"/>
+Conclusion
+poleward shift of atmospheric rivers
+, driven by climate change, is causing significant disruptions in global weather patterns.
+Higher latitudes
+increased precipitation and flooding
+lower latitudes
+may face severe
+. To mitigate these impacts, it is crucial to improve
+weather forecasting
+, invest in
+water infrastructure,
+and reduce
+greenhouse gas emissions
+Drishti Mains Question:
+What are atmospheric rivers? How does climate change influence their behaviour and impact?

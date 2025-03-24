@@ -74,7 +74,8 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
                 # print("******************************")
                 html_text = html_text.format(mathjax=mathjax)
                 encoded_html = urllib.parse.quote(html_text)
-                service = Service(ChromeDriverManager().install())
+                # service = Service(ChromeDriverManager().install())
+                service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
                 options = webdriver.ChromeOptions()
                 
                 user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
@@ -181,7 +182,8 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
             # print(html_text)
             # print("******************************")
             encoded_html = urllib.parse.quote(html_text)
-            service = Service(ChromeDriverManager().install())
+            # service = Service(ChromeDriverManager().install())
+            service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
             options = webdriver.ChromeOptions()
             
             user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
@@ -221,6 +223,102 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
             # math_element = driver.find_element(By.CLASS_NAME, "math-tex")
 
             # driver.save_screenshot(uuid_image_path)
+            # Take a screenshot of just the MathJax element
+            math_element.screenshot(uuid_image_path)
+
+            # Cleanup
+            driver.quit()
+            return True
+        elif(mathjax_container == 'katex'):
+            # print(mathjax)
+            html_text = f'''
+            <!DOCTYPE html>
+            <html>
+            <head>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.css">
+
+            <meta charset="UTF-8">
+                <title>MathJax Image Automation</title>
+                <style>
+                    body, html {{
+                        
+                        overflow: hidden;
+                        height: 100%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        font-family: 'Lato', sans-serif !important;
+                        font-size: 16px !important;
+                    }}
+                    #math-content {{
+                        
+                        
+                        text-align: center;
+                        transform-origin: center center;
+                    }}
+                </style>
+            </head>
+            <body>
+                <div id="math-content">
+                    {mathjax}
+                </div>
+            </body>
+                <script src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.min.js"></script>
+
+    <!-- Automatically render all LaTeX equations on the page -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {{
+            renderMathInElement(document.body);
+        }});
+    </script>
+        <script>
+
+                    
+            </html>
+            '''
+            # height was 65 phele
+            # print("******************************")
+            # print(html_text)
+            # print("******************************")
+            encoded_html = urllib.parse.quote(html_text)
+            # service = Service(ChromeDriverManager().install())
+            service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
+            options = webdriver.ChromeOptions()
+            user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+            options.add_argument(f"user-agent={user_agent_string}")
+            options.add_argument('--headless')  # Run in background
+            options.add_argument("window-size=1400,1500")
+            options.add_argument("--disable-gpu")
+            options.add_argument("--no-sandbox")
+            options.add_argument("start-maximized")
+            options.add_argument("enable-automation")
+            options.add_argument("--disable-infobars")
+            options.add_argument("--disable-dev-shm-usage")  # Run in background
+            # Setup WebDriver
+            
+            options.headless = True  # Enable headless mode if no GUI is needed
+            driver = webdriver.Chrome(service=service, options=options)
+
+            # Use the data URI scheme to load the HTML content directly
+            driver.get(f"data:text/html;charset=utf-8,{encoded_html}")
+
+            # Wait for MathJax to render (adjust the timeout as necessary)
+            # WebDriverWait(driver, 10).until(lambda x: driver.execute_script("hey"))
+                # WebDriverWait(driver, 10).until(lambda x: driver.execute_script("return MathJax.isReady();"))
+
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.ID, "math-content"))
+            )
+
+            # Wait a bit for rendering to stabilize
+            time.sleep(5)
+
+            # Find the MathJax container element
+            math_element = driver.find_element(By.ID, "math-content")
+
+
+
             # Take a screenshot of just the MathJax element
             math_element.screenshot(uuid_image_path)
 
@@ -274,7 +372,8 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
             # print(html_text)
             # print("******************************")
             encoded_html = urllib.parse.quote(html_text)
-            service = Service(ChromeDriverManager().install())
+            # service = Service(ChromeDriverManager().install())
+            service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
             options = webdriver.ChromeOptions()
             user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
             options.add_argument(f"user-agent={user_agent_string}")
@@ -316,6 +415,7 @@ def get_image(mathjax_container,mathjax, uuid_image_path):
             # Cleanup
             driver.quit()
             return True
+
     except Exception as e:
         print(str(e))
         logging.error(f"error in image: "+str(mathjax))
@@ -362,7 +462,8 @@ def get_table_image(table_container, uuid_image_path):
     # print(html_text)
     # print("******************************")
     encoded_html = urllib.parse.quote(html_text)
-    service = Service(ChromeDriverManager().install())
+    # service = Service(ChromeDriverManager().install())
+    service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
     options = webdriver.ChromeOptions()
     
     user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
@@ -401,7 +502,9 @@ def get_table_image(table_container, uuid_image_path):
 
 
 image_folder_path = "/var/www/html/images"
-Public_IP = "https://fc.edurev.in/images"
+# Public_IP = "https://fc.edurev.in/images"
+Public_IP = "http://167.172.89.41/images"
+
 
 def find_top_most_parent_span(element):
     current = element
@@ -424,6 +527,27 @@ def get_parent(soup):
             # Mark the parent as 'done'
         
     return top_most_parents
+
+def contains_katex(html_content):
+    soup = BeautifulSoup(html_content, 'html.parser')
+    # print(soup)
+    # Check for KaTeX CSS or JS links
+    katex_css = soup.find('link', {'href': lambda href: href and 'katex.min.css' in href})
+    katex_js = soup.find('script', {'src': lambda src: src and 'katex.min.js' in src})
+
+    # Check for KaTeX math delimiters in the text
+    contains_inline_katex = r'\(' in soup.text or r'\)' in soup.text
+    contains_block_katex = r'\[' in soup.text or r'\]' in soup.text
+
+    # Check for any element with the 'katex' class
+    katex_class = soup.find_all(class_='katex')
+    # print(katex_class)
+    # If any of the conditions are True, we assume it contains KaTeX
+    if len(katex_class) > 0:
+        return True, ["1"]
+    if katex_css or katex_js or contains_inline_katex or contains_block_katex or katex_class:
+        return True, [soup]
+    return False ,[]
 def replace_mathjax_with_images(html_content,quizrr = False):
     try:
         """
@@ -447,26 +571,10 @@ def replace_mathjax_with_images(html_content,quizrr = False):
 
         textBook = False
         attribute = "mathMlContainer"
+        ktx_check = 0
         # Adjust this selector based on your HTML structure
         math_elements = soup.find_all(class_="mathMlContainer")
-        # if(len(math_elements) == 0) :
-        #     math_elements = soup.find_all(lambda tag: tag.has_attr('data-mathml'))
-        #     # data-mathm
-        #     # print(math_elements)
-        #     if (len(math_elements) == 0) :
-        #         math_elements = soup.find_all("mjx-container")
-        #         if (len(math_elements) == 0) :
-        #             return html_content
-        #         else:
-        #             attribute = "mjx-container"
-        #             textBook = True
-        #     else:
-        #         attribute = "data-mathml"
-        #         textBook = True
-        # else:
-        #     attribute = "mathMlContainer"
-        #     textBook = True
-        #     # math_elements = soup.find_all(class_="mathMlContainer")
+        # print(soup)
         if(len(math_elements) == 0) :
             math_elements = soup.find_all('span',class_=first_element)
             
@@ -485,8 +593,24 @@ def replace_mathjax_with_images(html_content,quizrr = False):
 
                             math_elements = get_parent(soup)
                             
-                            if (len(math_elements) == 0) :
-                                return str(soup)
+                            if ( len(math_elements) == 0) :
+                                # math_elements = soup.find_all(class_='katex')
+                                # print(math)
+                                contains_ktx, math_elements_ = contains_katex(str(soup))
+                                if(contains_ktx == True):
+                                    if math_elements_[0] == "1":
+                                        math_elements = soup.find_all(class_='katex')
+                                    else:
+                                        math_elements = [soup]
+                                        ktx_check =1
+                                # print(math_elements_)
+                                # print(contains_ktx)
+                                if(len(math_elements) == 0 or contains_ktx == False):
+                                    return str(soup)
+                                else:
+                                    attribute = "katex"
+                                    textBook = True
+                                    # print(katex_elements
                             else:
                                 textBook = True
                                 attribute = "data-mathml"
@@ -518,7 +642,7 @@ def replace_mathjax_with_images(html_content,quizrr = False):
             attribute = "mathMlContainer"
             textBook = True
             # math_elements = soup.find_all(class_="mathMlContainer")
-
+        # print(attribute)
 
 
         # print(soup)
@@ -559,7 +683,12 @@ def replace_mathjax_with_images(html_content,quizrr = False):
                         if element_to_replace:
                             element_to_replace.replace_with(new_img_tag)
                     else:
-                        elements.replace_with(new_img_tag)
+                        if(ktx_check ==1):
+                            # create soup with katex image :
+                            soup = BeautifulSoup(str(new_img_tag), 'html.parser')
+                        else:
+                            elements.replace_with(new_img_tag)
+                        
             else:
                 uuid_str = str(uuid.uuid4())
                 # Assuming the LaTeX string can be directly obtained from the element's text
@@ -573,7 +702,7 @@ def replace_mathjax_with_images(html_content,quizrr = False):
                     else:
 
                         elements.replace_with(new_img_tag)
-        print(soup.prettify())
+        # print(soup.prettify())
         return str(soup)
     except Exception as e:
         print(str(e))
@@ -604,7 +733,7 @@ def replace_tables_with_images(html_content):
         # convert it to an image, and save it to the provided image_url.
         if get_table_image(table, image_url):
             public_image_url = f"{Public_IP}/{uuid_str}.png"
-            print(public_image_url)
+            # print(public_image_url)
             new_img_tag = soup.new_tag("img", src=public_image_url)
             table.replace_with(new_img_tag)
 

@@ -1,0 +1,1443 @@
+REAL EFFECTIVE EXCHANGE RATE (REER) SOARS TO AN ALL-TIME HIGH
+Syllabus:
+Prelims & Mains – ECONOMY
+Context:
+The rupee is hitting fresh lows against the US dollar each day, yet its exchange rate has scaled an all-time-high in “real effective” terms.
+Background: –
+Real effective exchange rate (REER) is a measure of a currency’s value against its trading partners, adjusted for inflation.
+Key takeaways
+The real effective exchange rate (REER) index of the rupee touched a record 108.14 in November, strengthening by 4.5 per cent during this calendar year, according to the latest Reserve Bank of India (RBI) data.
+The REER measures the rupee’s value vis-à-vis not only the dollar, but other global currencies as well. In this case, it is a weighted average of the rupee’s exchange rate against a basket of 40 currencies of countries that account for about 88 per cent of India’s annual exports and imports. The REER also adjusts for inflation differentials between India and each of these trading partners.
+The rupee’s REER — with 2015-16 as the base year — fell from 105.32 in January 2022 to 99.03 in April 2023. But since then, it has been on an appreciating trajectory.
+The main reason for the divergence — the rupee’s simultaneous weakening and strengthening — has to do with the dollar’s behaviour over the past three months, especially post Trump’s victory.
+In other words, the rupee isn’t weakening as much as the dollar is strengthening — against all currencies. The dollar is strengthening because of Trump’s public pronouncements favouring tariff hikes, income tax cuts and deportations of illegal immigrants.
+From a longer timeframe, the rupee has, since the start of 2022, dipped against the dollar (from 74.30 to 85.19), euro (84.04 to 88.56) and pound (100.30 to 106.79), while firming up only against the yen (0.6454 to 0.5425). Despite that, its REER has increased. And that is a result of inflation in India being higher relative to its major partners.
+Assuming the rupee was “fairly” valued in 2015-16, when the REER was set to 100, any value above 100 signifies overvaluation and the exchange rate not falling enough to offset higher domestic inflation. The rupee is, to that extent, is overvalued today, making imports cheaper and exports less competitive.
+<img alt="" class="size-medium wp-image-200745 aligncenter" decoding="async" fetchpriority="high" height="300" sizes="(max-width: 179px) 100vw, 179px" src="https://iasbaba.com/wp-content/uploads/2024/12/27-dna-1-179x300.png" srcset="https://iasbaba.com/wp-content/uploads/2024/12/27-dna-1-179x300.png 179w, https://iasbaba.com/wp-content/uploads/2024/12/27-dna-1.png 195w" width="179"/>
+Source:
+Indian Express
+**********
+PRADHAN MANTRI AYUSHMAN BHARAT HEALTH INFRASTRUCTURE MISSION (PM-ABHIM)
+Prelims & Mains – CURRENT EVENT
+The Delhi High Court directed that the Aam Aadmi Party government in Delhi needed to sign an MoU with the Ministry of Health and Family Welfare before January 5 for implementation of the Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM), irrespective of imposition of Model Code of Conduct in the run-up to the Assembly elections.
+PM-ABHIM is a Central government scheme that aims to strengthen public health infrastructure to respond to future pandemics and outbreaks.
+Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM) is a Centrally Sponsored Scheme (CSS) with some Central Sector Components (CS) which has an outlay of Rs. 64,180 Crores for the scheme period (2021-22 to 2025-26).
+The measures under the scheme focus on developing capacities of health systems and institutions all levels viz. primary, secondary and tertiary level and on preparing health systems in responding effectively to the current and future pandemics/disasters.
+The objective of the scheme is to fill critical gaps in health infrastructure, surveillance and health research – spanning both the urban and rural areas.
+The following are the components under CS Component of the scheme:
+12 Central Institutions as training and mentoring sites with 150 bedded Critical Care Hospital Blocks (CCBs);
+Strengthening of the National Centre for Disease Control (NCDC), 5 New Regional NCDCs and 20 metropolitan health surveillance units;
+Expansion of the Integrated Health Information Portal to all States/UTs to connect all public health labs;
+Operationalization of 17 new Public Health Units and strengthening of 33 existing Public Health Units at Points of Entry, that is at 32 Airports, 11 Seaports and 7 land crossings;
+Setting up of 15 Health Emergency Operation Centres and 2 container based mobile hospitals; and
+Setting up of a national institution for One Health, 4 New National Institutes for Virology, a Regional Research Platform for WHO South East Asia Region and 9 BioSafety Level III laboratories.
+Following support is provisioned for States/UTs under CSS component of the scheme:
+Construction of 17,788 rural Health and Wellness Centres (HWCs).
+Support for 11,024 urban Health and Wellness Centres in all the States with the focus on slum like areas.
+Establishing 3382 Block Public Health Units (BPHUs) at block levels.
+Setting up of Integrated Public Health Labs (IPHLs) in 730 districts.
+Establishing Critical Care Hospital Blocks (CCBs) in 602 districts (with population more than 5 lakhs) and with referral linkages in other districts.
+**********
+CONDUCT OF ELECTION RULES
+Prelims & Mains – POLITY
+The Centre recently amended the Conduct of Election Rules to restrict access for the public to a section of poll documents. This was done by the Union Law Ministry following a recommendation from the Election Commission (EC).
+While the EC said the amendment aims to restrict access to electronic data, the Opposition and transparency activists have been up in arms, branding it as an attack on the right to information and electoral freedom.
+The Conduct of Election Rules,1961, is a set of rules which provide for provisions on how to conduct the elections as per the Representation of People Act.
+Rule 93(2)(a) of the 1961 Conduct of Election Rules had earlier stated that “all other papers relating to the election shall be open to public inspection” but after the amendment, it reads, “all other papers as specified in these rules relating to the election shall be open to public inspection.”
+Why has the amendment been brought in now?
+The move comes after a recent direction to the EC by the Punjab and Haryana High Court to share all documents related to the Haryana Assembly election, including treating CCTV footage also as permissible under Rule 93(2) of the Conduct of Election Rules, to a petitioner.
+An official of the Election Commission explained that the rule previously mentioned election papers but did not explicitly refer to electronic records, leading to ambiguity. To address this and considering concerns over the violation of voting secrecy and the potential misuse of CCTV footage from polling stations, particularly through artificial intelligence, the rule was amended. The official noted that sharing such footage could have serious consequences, especially in sensitive regions like Jammu and Kashmir, where voters’ lives might be at risk.
+Why are the transparency activists protesting?
+RTI activists have termed the move as a setback to transparency. Rule 93 is akin to the Right to Information Act as far as elections are concerned and, any change hurts the citizen’s right to know about the process.
+The amendment appears to aim at restricting citizens access to a wide range of documents generated during elections. Many of these documents are not explicitly mentioned in the Conduct of Election Rules but are referenced in handbooks and manuals published periodically by the Election Commission. These records include reports submitted by Election Observers, scrutiny reports from Returning Officers after polling day, and Index Cards sent to the Election Commission following the declaration of results, which contain detailed election statistics.
+Given the controversy surrounding voter turnout in recent Lok Sabha and Assembly elections, access to the Presiding Officers’ diaries, which include detailed data about voter turnout at various times during polling day and the number of tokens distributed to voters in the queue at the scheduled closing hour, is not specifically mentioned in the Conduct of Election Rules. Yet access to such documents is crucial to assess the fairness of elections.
+The Hindu
+**********
+BELGAUM CONGRESS SESSION
+Prelims – CURRENT EVENT
+The centenary celebrations of the historic 1924 Belgaum Congress session was inaugurated on December 26 in Belagavi (as Belgaum is now called).
+The session remains historic because it is the only one chaired by Mahatma Gandhi (39th All-India Congress session). The leader, who arrived from South Africa became a Congress members in 1915, and became president of the all-India session after nine years.
+<img alt="" class="alignnone size-medium wp-image-200748" decoding="async" height="191" sizes="(max-width: 300px) 100vw, 300px" src="https://iasbaba.com/wp-content/uploads/2024/12/27-dna-2-300x191.png" srcset="https://iasbaba.com/wp-content/uploads/2024/12/27-dna-2-300x191.png 300w, https://iasbaba.com/wp-content/uploads/2024/12/27-dna-2.png 605w" width="300"/>
+Held from December 26 to December 28, 1924, in Belgaum (now Belagavi, Karnataka), this session marked a crucial phase in India’s struggle for independence.
+Key Features and Importance:
+Gandhi’s Leadership: This session highlighted Mahatma Gandhi’s influence within the Congress. It allowed him to address growing differences within the party and reaffirm his commitment to non-violence and Swaraj (self-rule).
+Resolution on Unity: The session emphasized Hindu-Muslim unity, a theme central to Gandhi’s vision for a united struggle against colonial rule.
+Focus on Grassroots Movements: Gandhi advocated for strengthening grassroots movements, including promoting khadi and boycotting foreign goods, as part of the larger non-cooperation strategy.
+Strategic Recalibration: Coming after Gandhi’s release from prison following the Non-Cooperation Movement, the session provided an opportunity to reassess the movement’s direction and strategies.
+As chairman of the session, Gandhiji reduced the annual membership fee by 90% and urged all party members to realise that the Congress was a movement, and that they were all social workers, working not only for political liberation from the British, but also from social evils like untouchability.
+Apart from the routine sessions, the Belgaum session held separate conferences against untouchability and in favour of khadi and village industries, students, municipal administration, and formation of States on linguistic grounds.
+**********
+NATION MOURNS FORMER PM MANMOHAN SINGH
+Former Prime Minister Manmohan Singh, 92, passed away.
+Dr. Singh, who was PM for two terms in the Congress-led United Progressive Alliance government from 2004 to 2014, had been in poor health for the past few months
+Manmohan Singh (1932–2024) was a distinguished economist and statesman, renowned for his pivotal role in transforming India’s economic landscape.
+Early Life and Academic Pursuits
+Born on September 26, 1932, in Gah, Punjab (now in Pakistan), Singh’s academic brilliance led him to the University of Cambridge and the University of Oxford, where he earned his doctorate in economics.
+Architect of Economic Reforms
+As Finance Minister from 1991 to 1996, Singh introduced groundbreaking economic reforms that transitioned India from a closed, state-controlled system to a more liberalized and globally integrated economy.
+Facing a severe balance of payments crisis, he implemented policies that reduced trade barriers, encouraged foreign investment, and deregulated domestic markets, setting the stage for India’s rapid economic growth in subsequent decades.
+Prime Ministerial Tenure (2004–2014)
+Singh served as Prime Minister from 2004 to 2014, becoming the first Sikh to hold the position.
+Economic Growth: Under his leadership, India experienced substantial GDP growth, lifting millions out of poverty and expanding the middle class.
+Social Programs: Singh’s government launched key initiatives, including the National Rural Employment Guarantee Act (NREGA) and the National Rural Health Mission, aiming to improve employment and healthcare access for rural populations. Other notable achievements include :
+Right to Information (RTI) Act: Enacted in 2005, this act empowered citizens to access information from public authorities, promoting transparency and accountability.
+National Food Security Act: Introduced in 2013, this act ensured subsidized food grains to approximately two-thirds of India’s population.
+US-India Civil Nuclear Agreement: In 2008, Singh finalized a landmark civil nuclear deal with the United States, ending India’s nuclear isolation and enabling access to nuclear technology and fuel for civilian purposes.
+**********
+Daily Practice MCQs
+Q1.) Which of the following statements about the Belgaum Congress Session of 1924 is/are correct?
+It was the only Congress session presided over by Mahatma Gandhi.
+The session focused on promoting khadi and resolving differences within the Congress.
+The session rejected the idea of Swaraj.
+Options:
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2, and 3
+Q2.) Which of the following initiatives are associated with Dr. Manmohan Singh during his tenure as Prime Minister?
+Goods and Services Tax (GST)
+a) 1 and 2 only
+b) 1, 2, and 3 only
+c) 2, 3, and 4 only
+d) 1, 3, and 4 only
+Q3.) Consider the following statements about the Real Effective Exchange Rate (REER):
+REER measures a currency’s value against a basket of currencies, adjusted for inflation.
+A REER value above 100 indicates overvaluation of the currency.
+The strengthening of the dollar has no impact on REER calculations.
+b) 2 and 3 only
+c) 1 and 3 only
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********NHRC Action on Tribal Suicides in Kerala
+The NHRC took suo motu cognisance of a news report highlighting an alarming rise in suicides among the tribal population in Kerala’s Peringammala Panchayat in Thiruvananthapuram district. The report revealed that 23 suicides occurred in 2024, following 138 suicides in the region between 2011 and 2022.
+About National Human Rights Commission (NHRC):
+is an
+independent statutory body
+established on
+October 12, 1993
+, under the
+Protection of Human Rights Act, 1993
+It serves as a
+guardian of human rights
+in India, overseeing the rights associated with
+life, liberty, equality, and dignity
+as guaranteed by the
+Constitution of India
+and international covenants.
+The NHRC aligns with the
+Paris Principles on Human Rights
+, ensuring accountability and compliance.
+Definition of Human Rights:
+According to
+Section 2(1)(d)
+of the
+, human rights encompass the
+rights related to life, liberty, equality, and dignity
+protected by the Constitution or outlined in international treaties enforceable in Indian courts.
+NHRC Composition
+The NHRC is a
+multi-member body
+, comprising:
+Full-Time Members
+A chairperson (retired Chief Justice of India or Supreme Court judge).
+Members include a sitting/retired Supreme Court judge, a Chief Justice of a High Court, and three experts in human rights (one must be a woman).
+Ex-Officio Members
+: Chairpersons of:
+National Commission for Minorities, Scheduled Castes, Scheduled Tribes, Women, Backward Classes, Protection of Child Rights, and Chief Commissioner for Persons with Disabilities.
+Appointment:
+Members are appointed by the
+President of India
+based on recommendations from a
+six-member committee
+led by the
+Prime Minister
+, with participation from:
+Speaker of the Lok Sabha
+Deputy Chairman of the Rajya Sabha
+Leaders of the Opposition in both Houses of Parliament,
+Union Home Minister
+Consultation with the
+is required for appointing judicial members.
+Tenure and Conditions of Service:
+Term
+: 3 years or up to 70 years of age (whichever is earlier).
+Reappointment
+: Allowed after completing the term.
+After tenure, members cannot seek employment with the
+Central or State governments
+Salaries and Allowances:
+Determined by the
+Central Government
+, but terms cannot be altered to members’ disadvantage post-appointment.
+Removal Process:
+can remove members on grounds such as:
+Insolvency, paid employment outside office, physical/mental incapacity, unsound mind, or criminal conviction.
+For
+misconduct or incapacity
+, the matter is referred to the
+for inquiry, and removal is based on its recommendation.
+Click to View More
+Source :
+NHRC notice to Kerala CS, DGP over ‘increase’ in suicides among tribals
+Polity & Governance
+**********Wealth Tax
+Should wealth tax be brought back to address inequality in India?
+About Wealth Tax:
+is levied on the
+net market value
+of various assets owned by an individual, such as
+cash, bank deposits, shares, fixed assets, personal cars, and real property
+.
+Globally, several countries like
+France, Portugal, and Spain
+impose wealth tax.
+The primary
+objective
+of the tax is to
+target unproductive and non-essential assets
+of individuals.
+Wealth Tax in India:
+Introduction:
+Wealth Tax Act
+was introduced in
+1957
+based on the recommendations of the
+Kaldor Committee
+(1955) as a part of tax rationalization measures.
+It imposed a
+1% tax
+on earnings exceeding
+₹30 lakh per annum
+for individuals, Hindu Undivided Families (HUFs), and companies.
+Abolition:
+Abolished in
+2015
+due to issues such as
+Extensive litigation
+Increased compliance burden
+High administrative costs
+Replaced by an increase in the
+surcharge
+on the super-rich.
+Replacement measures
+: The surcharge for individuals with income exceeding
+₹1 crore
+and companies with income over
+₹10 crore
+was increased from
+2% to 12%
+Other Relevant Economic Concepts:
+Tobin Tax
+: A tax on financial transactions, especially currency exchanges.
+Pigovian Tax
+: Levied to correct negative externalities (e.g., pollution tax).
+Laffer Curve
+: Demonstrates the relationship between tax rates and tax revenue.
+Tax-GDP Ratio
+: Indicates the tax revenue as a percentage of GDP, critical for fiscal analysis.
+Click to View More
+Source :
+Should wealth tax be brought back to address inequality in India? | The Hindu parley podcast
+Economy
+**********Tiger Translocation from Madhya Pradesh
+MP to translocate 15 tigers to Chhattisgarh, Rajasthan and Odisha
+Overview
+:
+The
+Madhya Pradesh government
+has announced the translocation of
+Rajasthan, Chhattisgarh, and Odisha
+.
+This initiative involves
+12 tigresses
+3 tigers
+, subject to approval from the
+Central Government
+The tigers will be relocated from the
+Bandhavgarh
+Pench
+Kanha Tiger Reserves
+About Kanha Tiger Reserve (KTR):
+, also known as
+Kanha National Park
+, is the largest national park in Madhya Pradesh.
+Location
+: Spread across
+Mandla
+Balaghat districts
+, nestled in the
+Maikal range of Satpuras
+, forming part of the
+Central Indian Highlands
+History
+: It was established as a
+national park on June 1, 1955,
+and Declared a
+Tiger Reserve in 1973
+Cultural Reference
+: The reserve inspired
+Rudyard Kipling’s "The Jungle Book"
+Mascot
+: It was the first in India to introduce an official mascot,
+Bhoorsingh the Barasingha
+Flora:
+Lowland Forests
+are dominated by
+sal (Shorea robusta)
+and mixed forest trees interspersed with meadows.
+Highland Forests
+consist of
+tropical moist deciduous trees
+bamboo (Dendrocalamus strictus)
+on slopes.
+Fauna:
+Significant populations of
+Royal Bengal Tigers
+leopards
+sloth bears
+Indian wild dogs
+. Globally renowned for saving the
+Barasingha (state animal of Madhya Pradesh)
+from extinction.
+About Bandhavgarh Tiger Reserve:
+Located in the
+Umaria district of Madhya Pradesh
+, Bandhavgarh Tiger Reserve lies between the
+Vindhyan and Satpura ranges
+It was declared a
+national park in 1968
+and became a
+Tiger Reserve in 1993
+Cultural Significance
+: Home to the
+Bandhavgarh Fort
+, said to have been gifted by
+Lord Rama to his brother Lakshmana
+, lending the name
+("Brother’s Fort").
+Dominated by
+tropical moist deciduous forests
+, sal trees, grasslands, and bamboo on lower slopes. Notable species include
+Saj, Dhaora, Tendu, Arjun, Amla
+Palas
+Known for the
+highest density of Royal Bengal Tigers
+in India and the world. Other species like
+Leopards
+wolves
+jackals
+chital
+sambar
+barking deer
+nilgai
+chowsingha
+About Pench Tiger Reserve:
+spans the
+Seoni
+Chhindwara districts
+in Madhya Pradesh and extends into the
+Nagpur district in Maharashtra
+Pench River
+, flowing north to south through the reserve.
+Components
+: Includes the
+Indira Priyadarshini Pench National Park
+Pench Mowgli Sanctuary
+, and a buffer zone.
+Cultural connection
+: Inspired by
+Terrain:
+Undulating landscape with small hills and steep slopes.
+Vegetation:
+Mosaic of vegetation types, from
+moist valleys
+dry deciduous forests
+Diverse flora includes
+teak, saag, mahua
+, and various grasses and shrubs.
+Abundant populations of
+Chital
+Sambar
+Nilgai
+Gaur (Indian Bison)
+wild boar
+Key predators:
+, followed by
+wolf
+Rich avian diversity with over
+325 species of birds
+, including the
+Malabar Pied Hornbill
+Indian Pitta
+Grey-Headed Fishing Eagle
+Click to View More
+Source :
+Environment
+**********Comptroller and Auditor General of India (CAG)
+Uncertainty looms over Delhi Assembly special session to table CAG reports
+About CAG:
+The
+, under
+Article 148
+of the Indian Constitution, plays a pivotal role in the financial administration of the country.
+CAG is the guardian of the public purse
+, ensuring accountability and transparency in the management of public funds at both the
+Central and State levels
+CAG safeguards the Constitution and parliamentary laws
+, upholding financial discipline.
+It is a key institution for promoting
+and ensuring
+checks and balances
+in a
+democratic system
+Constitutional and Legal Provisions for the CAG:
+Appointment
+: The
+President appoints
+the CAG under his/her hand and seal.
+Tenure and Conditions
+: Determined by Parliament; CAG cannot hold further office under Central or State governments.
+Independence
+: Salary, allowances, and pensions are charged on the
+Consolidated Fund of India (CFI)
+, ensuring autonomy.
+Duties and Powers
+Article 149)
+: Parliament prescribes the
+CAG's powers and functions
+Form of Accounts (Article 150)
+: Prescribes the manner of keeping accounts for the
+Union and States
+President’s advice
+Submission of Reports (Article 151)
+: Reports on Union accounts are submitted to the
+and placed before
+. Reports on State accounts are submitted to the
+Governor
+and placed before the respective
+State Legislature
+Certification of Net Proceeds (Article 279)
+: CAG certifies the net proceeds of taxes and duties, which is final and binding.
+CAG’s (Duties, Powers, and Conditions of Service) Act, 1971
+: Six years or until the age of 65, whichever is earlier.
+Removal
+: Follows the procedure for removing a Supreme Court judge.
+Resignation
+: Addressed to the President.
+Service Conditions
+: Cannot be varied to the CAG's disadvantage after appointment.
+Click to View More
+Source :
+Polity & Governance
+**********Artificial Intelligence and Machine Learning
+AI and machine learning to help the Indian pharma industry to pivot innovation.
+What is Artificial Intelligence (AI)?
+AI refers to machines performing human-like tasks such as learning, reasoning, and decision-making.
+Core components include:
+Machine Learning (ML)
+: Algorithms that improve over time with data.
+Neural Networks
+: Mimicking the human brain for pattern recognition.
+Natural Language Processing (NLP)
+: Enabling machines to understand and generate human language.
+AI systems process inputs, apply algorithms and deliver intelligent outputs.
+Types of Artificial Intelligence:
+Narrow AI
+: Task-specific systems like virtual assistants (e.g., Alexa, Siri).
+General AI
+: Mimics human intelligence across diverse tasks (yet to be achieved).
+Super AI
+: A hypothetical future form surpassing human intelligence.
+AI Techniques in Machine Learning:
+Supervised Learning
+: Uses labelled data to predict outcomes (e.g., facial recognition).
+Unsupervised Learning
+: Identifies patterns in unlabelled data (e.g., clustering algorithms).
+How Does AI Work?
+Data acquisition:
+Collect and preprocess data.
+Feature extraction:
+Identify relevant patterns in the data.
+Algorithm selection and training:
+deep learning
+, or rule-based methods to create models.
+Evaluation and deployment:
+Optimize and deploy models to make intelligent predictions or decisions.
+Indian Pharmaceutical Industry’s Growth Potential:
+Current market size
+: Approximately
+USD 58 billion
+, expected to grow to
+USD 120-130 billion by 2030
+Global contribution
+: India contributes about
+20% of the global generic drug supply
+, focusing on affordability and quality.
+Policy support and digital talent
+: India is leveraging
+favourable policies
+skilled workforce
+digital innovation
+to strengthen its global healthcare position.
+Click to View More
+Source :
+AI, machine learning to help Indian pharma industry to pivot on innovation
+Science & Tech
+**********United Nations Disengagement Observer Force
+UN Secretary-General Antonio Guterres has paid tributes to Brigadier General Amitabh Jha of India, who was serving with the United Nations Disengagement Observer Force (UNDOF) at Golan Heights.
+About UNDOF
+:
+It was established by UN
+Security Council Resolution 350
+(1974) on 31 May 1974 immediately following disengagement of
+Forces Agreement between Israel and Syria.
+Mandate:
+To maintain the ceasefire and supervise the area of separation — a demilitarized buffer zone — as well as the area of limitation — where Israeli and Syrian troops and equipment are restricted — in the Golan.
+The mandate of the mission is regularly
+renewed every six months
+and it has been
+extended till June 2025.
+Method of financing:
+UNDOF is funded through a separate account approved on an annual basis by the UN General Assembly.
+is the top third troop and police contributing countries to
+this mission.
+Headquarter:
+Camp Faouar, Syria
+Key points about Golan Heights
+It is a hilly area overlooking the
+upper Jordan River valley on the west.
+It is a Syrian territory
+occupied by Israel since 1967.
+Borders:
+It is bounded by the
+Jordan River and the Sea of Galileeon
+the west, Mount Hermon on the north, the seasonal Wadi Al-Ruqqād River on the east, and the Yarmūk River on the south.
+Click to View More
+Source :
+UN Secretary General pays tribute to Brigadier Amitabh Jha who led UN peacekeeping force
+International Relations
+**********SVAMITVA Scheme
+The Prime Minister of India will distribute over 50 lakh property cards under SVAMITVA Scheme on 27th December.
+About SVAMITVA Scheme:
+The Survey of Villages and Mapping with Improvised Technology in Village Areas (SVAMITVA) is a
+central sector scheme,
+launched in 2020.
+It was launched with a vision to
+enhance the economic progress
+of rural India by providing ‘
+Record of Rights’
+to households possessing houses in inhabited areas in villages through the latest surveying drone technology.
+The scheme seeks to achieve the
+following objectives:
+To bring
+financial stability
+to the citizens in rural India by enabling them to use their property as a financial asset for taking loans and other financial benefits.
+Creation of accurate
+land records
+for rural planning.
+Determination of
+property tax,
+which would accrue to the GPs directly in States where it is devolved or else, add to the State exchequer.
+survey infrastructure and GIS maps
+that can be leveraged by any department for their use.
+To support in preparation of
+better-quality Gram Panchayat Development Plan (GPDP)
+by making use of GIS maps.
+To reduce property related
+disputes and legal cases.
+Nodal Ministry:
+Ministry of Panchayati Raj
+(MoPR) is the Nodal Ministry for implementation of the scheme.
+Click to View More
+Source :
+PM to distribute over 50 lakh property cards to property owners under SVAMITVA Scheme
+Polity & Governance
+**********Veer Baal Diwas
+Recently, the Prime Minister of India participated in Veer Baal Diwas event at Bharat Mandapam, New Delhi.
+About Veer Baal Diwas:
+It is annually observed on
+December 26 every year since 2022.
+It is commemorated to honour the martyrdom of
+Baba Fateh Singh and Zorawar Singh
+, the sons of 10th Guru Govind Singh Ji.
+Background:
+Guru Gobind Singh, along with his family and disciples, were compelled to flee as the Mughal Army encircled the Anandpur fort.
+During the chaos,
+Guru Gobind Singh’s
+sons,
+Zorawar Singh and Fateh Singh
+, were captured by the Mughal forces.
+The two young boys courageously refused to abandon their faith, and consequently, Wazir Khan ordered them to be bricked alive around December 26, 1705.
+Exemplifying bravery and loyalty to their religion, Government of India in 2022 declared to mark December 26 as Veer Bal Diwas annually to honour and remember their sacrifice.
+Who was Guru Gobind Singh?
+was the 10th Sikh Guru, following the demise of his father, Guru Tegh Bahadur, the 9th Guru.
+Contributions to Sikh religion:
+He is renowned for
+founding the principles of Khalsa
+or the Five ‘K’s viz. kesh (uncut hair), kangha (wooden comb), kara (iron or steel bracelet), kirpan (dagger) and kachera (short breeches).
+He fought against the Mughals in the
+Battle of Muktsar in 1705.
+He declared Guru Granth Sahib as Sikhism's holy scripture in 1708, before his death.
+Click to View More
+Source :
+Prime Minister Shri Narendra Modi participates in Veer Baal Diwas programme in New Delhi
+History
+**********Bald Eagle
+Recently, Bald eagle was officially declared as United States national bird after 250 years.
+About Bald Eagle:
+The Bald eagle (Haliaeetus leucocephalus) is a magnificent bird of prey
+found in North America.
+It usually leads a solitary life, gathering in groups during nesting season.
+Appearance:
+Its body and wings
+are dark browns
+in color while the head and tail are white.
+The legs and feet are bright yellow and the eyes are light yellow.
+Males of this species are smaller than females.
+Habitat:
+It typically prefers areas near large water bodies such as
+sea coasts, coastal estuaries and inland lakes and rivers
+, in many areas,
+Reproduction:
+Bald eagles have a
+monogamous mating system
+. These birds are believed to mate for life, or until a pair member dies.
+Distribution:
+Their range extends from the Mexico border through the
+United States and Canada.
+They can be seen year-round in Alaska, along the East and West coasts, the Rocky Mountains, and the Mississippi River.
+The rest of the United States only sees bald eagles during the winter and their migration.
+Conservation status:
+IUCN:
+Least Concern
+Click to View More
+Source :
+Bald eagle is officially America's national bird after Joe Biden's signature
+Environment
+**********Kaveri Engine
+India’s Gas Turbine Research Establishment (GTRE), part of the Defence Research and Development Organisation (DRDO), has announced that the Kaveri engine has been cleared for inflight testing.
+About Kaveri Engine:
+The Kaveri engine project began in the late 1980s with the goal of powering the Light Combat Aircraft (LCA) Tejas.
+It has been developed by the
+under the Defence Research and Development Organisation.
+Features:
+The current version of the Kaveri engine produces
+approximately 49-51 kN of thrust.
+This thrust level is suitable for UAV applications like the Ghatak, India's stealth UCAV program. The DRDO plans to integrate an afterburner to increase the thrust to 73-75 kN for more demanding scenarios.
+The Kaveri engine has undergone extensive ground testing, modifications, and enhancements over the years.
+tested in high-altitude simulations in Russia
+and ground trials in India. These tests demonstrated promising results in reliability, thrust output, and operational stability, meeting the required performance metrics for inflight testing.
+Significance:
+This signifies a major step for India's self-reliance in aero-engine technology, particularly for unmanned aerial vehicles (UAVs) like the Ghatak stealth UCAV program.
+Click to View More
+Source :
+Kaveri engine approved for inflight testing: A breakthrough in Indian aerospace
+Science & Tech
+**********Tapping into Kazakhstan’s Rare Earths Potential
+Context
+As the global shift toward renewable energy accelerates,
+rare earth elements (REEs) have become vital for enabling cleaner technologies.
+India, the third-largest carbon emitter globally, faces a growing need for rare earths
+as it transitions to sustainable energy sources.
+Despite being the fifth-largest holder of REE reserves
+, India heavily depends on imports from China due to insufficient domestic extraction technologies.
+However,
+geopolitical tensions and supply chain disruptions have prompted India to diversify its sources,
+with Kazakhstan emerging as a promising alternative.
+Understanding the Strategic Challenge of China’s Rare Earth Monopoly
+Geopolitical Leverage and Economic Influence
+China has frequently leveraged its monopoly in rare earth elements as a geopolitical tool
+, disrupting supplies to assert its strategic interests.
+For instance,
+it has imposed export restrictions or outright bans on critical minerals during diplomatic standoffs.
+A recent example is its halt on antimony supplies
+, a mineral integral to flame retardants, batteries, solar cells, and military applications, under the pretext of national security.
+Additionally,
+in December 2023, Beijing implemented a ban on exporting technologies related to rare earth extraction and magnet production
+, further consolidating its grip on the sector.
+Such actions illustrate how China wields its dominance
+not just for economic advantage but also to influence global trade dynamics.
+Concentrated Supply Chains and Global Dependence
+China's control
+over the rare earth industry also
+stems from its vertically integrated supply chain.
+It not only mines the resources but also processes them and manufactures high-value products like permanent magnets
+, which are essential for wind turbines, electric vehicles, and defence technologies.
+This comprehensive control ensures that nations reliant on rare earth imports have limited alternatives,
+further entrenching their dependence on Beijing.
+The
+vulnerabilities of such concentrated supply chains became evident during geopolitical crises
+, such as the Russia-Ukraine conflict.
+Reduced Russian ore supplies,
+primarily antimony concentrates used in renewable energy production,
+exacerbated global reliance on Chinese sources.
+Impact on India’s Renewable Energy Transition
+India’s renewable energy ambitions amplify the challenges
+posed by China’s monopoly.
+nation’s commitment to achieving 500 GW of renewable energy capacity by 2030 depends on access to rare earth elements
+like neodymium and dysprosium, which are critical for manufacturing wind turbines and electric vehicle motors.
+India’s over-reliance on Chinese imports exposes it to supply disruptions
+that could derail these efforts.
+China’s dominance in the rare earth sector
+, coupled with its strategic use of supply chain leverage,
+poses a multifaceted challenge for India and other nations.
+The Importance of Kazakhstan
+A Strategic Alternative to China in Rare Earths
+Kazakhstan is
+emerging as a promising alternative to China
+for rare earth supplies, offering strategic and economic advantages.
+Rich in rare earth reserves and well-positioned geographically,
+Kazakhstan is increasingly seen as a viable partner for nations like India
+that are seeking to diversify their supply chains.
+country’s combination of abundant resources, advanced extraction technologies, and willingness to collaborate presents a strong counterbalance to China's dominance
+in this sector.
+Abundant Rare Earth Reserves
+Kazakhstan is among the world’s richest sources of REEs
+, possessing 15 of the 17 known REEs.
+These elements are essential for a wide range of applications
+, including renewable energy technologies, telecommunications, and defence systems.
+Kazakhstan’s reserves include dysprosium, neodymium, and terbium, elements crucial for manufacturing wind turbines
+, electric vehicle motors, and advanced military equipment.
+Kazakhstan has demonstrated its commitment to developing these resources
+by forming strategic partnerships with key global players.
+Agreements with Japan and Germany, as well as recent deals with the U.S
+., South Korea, and the European Union,
+underline the growing international interest in Kazakhstan’s rare earth reserves.
+Advanced Extraction Capabilities
+Kazakhstan is making
+significant investments in advanced extraction and processing technologies
+, which are critical for competing with China’s well-established supply chain.
+country is one of the few in the world to host full-cycle facilities
+for beryllium and scandium, key materials for aerospace and telecommunications industries.
+Kazakhstan is a leading producer of tantalum and niobium, essential components for nuclear reactors
+and clean energy technologies.
+Strategic Connectivity and Proximity to India
+Geographical proximity and shared strategic interests
+further enhance
+Kazakhstan’s appeal as a rare earth partner for India.
+Initiatives such as the
+‘Connect Central Asia’ policy and the International North-South Transport Corridor provide robust frameworks
+for deepening economic and logistical ties between the two countries.
+These connectivity projects aim to streamline trade routes
+, reduce transportation costs, and facilitate the flow of critical materials like rare earth elements.
+India’s increasing engagement with Kazakhstan is exemplified by high-level dialogues
+and cooperative agreements.
+the second India-Central Asia Summit saw discussions on establishing an ‘India-Central Asia Rare Earths Forum.’
+India’s Renewable Energy Goals, Challenges, and the Path Forward
+India’s Renewable Energy Goals and Challenges
+India’s ambitious pledge at COP29 to achieve 500 GW of renewable energy by 2030 underscores the critical role of REEs in this transition.
+India’s current capacity across the rare earth supply chain remains insufficient.
+While
+the government aims to increase mining output by 400% over the next decade, challenges persist
+, including limited extraction technologies and logistical hurdles in connecting with resource-rich regions like Kazakhstan.
+The establishment of the ‘India-Central Asia Rare Earths Forum,
+’ proposed during the second India-Central Asia Summit,
+represents a strategic move to address these challenges.
+initiative aims to foster bilateral training, joint mining ventures, and the exchange of geological expertise
+, thereby paving the way for sustainable and efficient rare earth extraction.
+Such collaborations could reduce India’s reliance on China
+and create a regional market for critical minerals.
+The Path Forward
+India’s partnership with Kazakhstan offers a pathway to secure its rare earth needs
+while reducing dependency on China.
+By leveraging Kazakhstan’s advanced technologies
+and vast reserves,
+India can enhance its energy security and support its renewable energy transition.
+Collaborative frameworks
+, such as the proposed Rare Earths Forum,
+will be instrumental in overcoming technological and logistical barriers.
+Kazakhstan’s role as a strategic partner aligns with India’s broader geopolitical objectives.
+Diversifying rare earth sources
+through closer ties with Kazakhstan
+not only enhances India’s energy security but also mitigates risks associated with China’s monopoly.
+For Kazakhstan, collaboration with India provides an opportunity to expand its market reach and attract investments in mining and technology sectors.
+Conclusion
+Kazakhstan’s vast rare earth reserves, advanced extraction capabilities
+, and strategic proximity to India,
+position it as a compelling alternative to China.
+By deepening ties with Kazakhstan, India can secure its rare earth supply chain
+, support its renewable energy transition, and reduce its reliance on Chinese imports.
+This partnership represents a mutually beneficial opportunity for economic growth, technological advancement, and geopolitical stability
+in the evolving global landscape of critical minerals.
+Click to View More
+Editorial Analysis
+**********PM Modi participates in Veer Baal Diwas programme
+Why in news?
+Prime Minister Shri Narendra Modi participated in the
+3rd Veer Baal Diwas
+, commemorating the bravery and sacrifice of the Sahibzades.
+He described the day as a festival of inspiration for Indians, particularly the youth, and lauded 17 children conferred with Veer Baal Awards in various fields such as bravery, innovation, sports, and arts.
+What’s in today’s article?
+Vir Bal Diwas
+Key highlights of the speech delivered by PM Modi
+About
+On 9th January 2022, the day of the Prakash Purab of Sri Guru Gobind Singh Ji, the PM had announced that 26th December would be observed as ‘Veer Bal Diwas’.
+This was announced to mark the martyrdom of sons of Sri Guru Gobind Singh - Sahibzadas Baba Zorawar Singh Ji and Baba Fateh Singh Ji.
+Sacrifices made by the sons of Guru Gobind Singh
+While two of Guru Gobind Singh’s sons were killed fighting the Mughals, two other sons were bricked alive on the orders of Aurangzeb’s governor of Sirhind.
+The two younger sons, Sahibzada Zorawar Singh ji and Sahibzada Fateh Singh ji, attained martyrdom after being sealed alive in a wall.
+Veer Baal Diwas is observed on the same day the two younger sons, Sahibzada Zorawar Singh ji and Sahibzada Fateh Singh ji, attained martyrdom.
+Tributes to Sahibzades and Teachings on National Integrity
+The PM paid homage to Sahib Zorawar Singh, Sahib Fateh Singh, and Gurus, highlighting their unmatched courage and sacrifice.
+He emphasized the importance of instilling patriotism among youth and drawing inspiration from the Sahibzadas' unwavering faith and bravery.
+Veer Baal Diwas serves as a reminder that the nation and its interests should always come first.
+Youth Empowerment: A Pillar of Development
+PM Modi underlined the role of youth in India’s progress, from independence movements to modern revolutions.
+The government has prioritized youth-centric policies, including initiatives in start-ups, AI, machine learning, skill development, and sports.
+Over 10,000 Atal Tinkering Labs and the
+'Mera Yuva Bharat' campaign
+have been launched to encourage innovation and societal contribution among youth.
+Health and Fitness Initiatives
+The Prime Minister launched the
+'Suposhit Gram Panchayat Abhiyan
+,' aimed at
+eliminating malnutrition through healthy competition among village panchayats
+It aims at improving the nutritional outcomes and well-being by strengthening implementation of nutrition related services and by ensuring active community participation.
+The programme will involve a competition among anganwadis.
+A total of 1,000 gram panchayats will get Rs 1 lakh while a part of this amount will be used for better nutrition in the anganwadis.
+He emphasized the importance of fitness through 'Fit India' and 'Khelo India' movements, highlighting the link between a healthy youth and a capable nation.
+Vision for India's Future
+PM Modi encouraged youth to aim for excellence in all fields, including infrastructure, manufacturing, tourism, and space research.
+He expressed confidence in the youth’s ability to lead global revolutions and achieve the goals of a developed India and Atmanirbhar Bharat.
+Political Engagement of Youth
+PM unveiled his
+vision of bringing one lakh youth into politics
+, particularly those from non-political backgrounds.
+He announced the launch of the
+'Viksit Bharat Young Leaders Dialogue'
+on Swami Vivekananda's birth anniversary to discuss India's roadmap for development.
+PM Modi participates in Veer Baal Diwas programme.pdf
+( Size:  2.3 MB  )
+Click to View More
+History & Culture
+**********China to build world’s largest hydropower dam in Tibet
+Why in news?
+China has approved the construction of the world's largest hydropower dam on the lower reaches of the Yarlung Zangbo River (Brahmaputra) on the Tibetan plateau.
+The ambitious project aims to produce 300 billion kilowatt-hours (kWh) of electricity annually, more than tripling the capacity of the Three Gorges Dam, the current world leader in hydropower.
+What’s in today’s article?
+Course of the river Brahmaputra
+China’s Brahmaputra Dam project
+Concerns and implications of China's Tibet dam project on India
+India’s response
+The Brahmaputra, originating in Tibet as the Yarlung Tsangpo, flows through India’s Arunachal Pradesh and Assam before entering Bangladesh and emptying into the Bay of Bengal.
+As a perennial river, it sustains communities through irrigation, fisheries, and inland transport.
+While it enriches agriculture by depositing fertile alluvial soil, its lower course poses challenges with recurring, devastating floods in Assam and Bangladesh due to climatic and geographical conditions.
+About
+China is constructing the dam in Medog County, Tibet Autonomous Region, where the Yarlung Tsangpo drops 2,000 meters, creating ideal hydropower conditions.
+The project is part of China’s renewable energy initiatives, aiming to achieve carbon neutrality by 2060 while promoting regional development in Tibet.
+The project, costing $137 billion, is part of China's 14th Five-Year Plan (2021–2025) and Long-Range Objectives through 2035.
+Scale and Significance of the Project
+The dam is projected to generate up to 60 gigawatts of power, triple the capacity of the Three Gorges Dam.
+It will produce 300 billion kWh of clean, renewable electricity annually, supporting Beijing’s clean energy targets and bolstering water security.
+The project will generate 20 billion yuan ($3 billion) annually for Tibet.
+Agriculture
+The dam could retain a significant amount of silt, which is crucial for downstream agriculture. Reduced silt deposits may negatively impact the fertility of agricultural lands in India.
+Water Resources
+China claims the dam is a run-of-the-river hydropower project.
+However, experts warn it could reduce water flow downstream during dry seasons and exacerbate flooding during monsoons if excess water is released, potentially causing disasters in Assam.
+Potential Use of Water as a Weapon
+China’s upstream position gives it control over the Brahmaputra’s flow.
+During geopolitical tensions, such as the 2017 Doklam standoff, China withheld hydrological data crucial for flood forecasting, raising concerns over the weaponization of water resources.
+Seismological Threats
+The Himalayan region's seismic vulnerability could pose risks to downstream populations due to the scale of infrastructure projects like this dam.
+Ecological Impact
+The dam could disrupt the fragile Himalayan ecosystem, home to critically endangered species.
+Combined with ongoing climate change effects, deforestation, and soil erosion, the ecological consequences may be severe.
+India’s Response
+India has urged China to safeguard downstream interests.
+Additionally, India is planning a 10 GW hydropower project in the Dibang Valley, Arunachal Pradesh, to counterbalance the potential impacts of China’s dam.
+Also, data sharing between India and China on trans-border rivers, established under the Expert Level Mechanism (ELM) in 2006, remains critical.
+China to build world’s largest hydropower dam in Tibet.pdf
+( Size:  2.2 MB  )
+Click to View More
+Geography
+**********Strengthening Fisheries Extension Services in India
+What’s in Today’s Article?
+Introduction (Context of the Article, About Fisheries Sector)
+Fisheries Extension Services (Importance, Govt Initiatives, Challenges, Way Forward, etc.)
+Introduction:
+India, with its diverse aquatic resources, plays a pivotal role in global fisheries and aquaculture.
+The sector
+provides livelihood to more than 25 million fishers and fish farmers at the primary level
+and twice the number along the value chain.
+India is the
+3
+largest fish producing country
+, contributing 8 percent to the global fish production and ranks
+in aquaculture production
+The fish production in 2021-22 is 16.24 Million Tonnes (MTs) comprising of marine fish production of 4.12 MTs and 12.12 MTs from Aquaculture.
+Importance of Fisheries Extension Services:
+Fisheries extension services bridge the gap between scientific advancements and fish farmers' practices, ensuring:
+Knowledge Transfer
+: Guidance on species lifecycle management, water quality, disease control, and rearing technologies.
+Capacity Building
+: Training on sustainable practices and promoting fisheries as viable business models.
+Sustainable Practices
+: Addressing the challenges posed by climate change and overfishing through regenerative and conservation management.
+Key Government Initiatives:
+Matsya Seva Kendras (MSKs)
+Launched under the
+Pradhan Mantri Matsya Sampada Yojana (PMMSY)
+, MSKs serve as
+one-stop centres
+for fisheries-related services.
+Role and Features
+Provide disease testing and water/soil analysis.
+Train fishers on seed/feed technology and sustainable practices.
+Mobilize startups, cooperatives, self-help groups, and Fish Farmer Producer Organizations (FFPOs) to share best practices.
+Examples
+MSK in Thrissur, Kerala: Offers advanced water and soil testing services.
+MSKs in Nasik and Sangli, Maharashtra: Focus on capacity building with technological inputs.
+Sagar Mitras
+Deployed in
+coastal states and union territories
+, Sagar Mitras act as intermediaries between the government and marine fishers.
+Key Functions
+Provide information on weather forecasts, fishing zones, and marketing needs.
+Educate fishers on local regulations, hygienic fish handling, and disaster preparedness.
+Digital Platforms
+AquaBazaar
+: A virtual learning platform initiated by the National Fisheries Development Board. It offers:
+Expert guidance on breeding and seed production.
+Practical demonstrations to enhance fishers' knowledge.
+World Bank-Assisted Project
+Aims to formalize the fisheries and aquaculture sector by creating
+work-based digital identities
+for fishers and fish farmers.
+Focuses on capacity building, awareness generation, and streamlining extension services.
+Challenges in Fisheries Extension Services:
+Fragmentation
+: Lack of coordination among multiple initiatives.
+Digital Divide
+: Limited digital literacy and infrastructure in rural areas.
+Climate Change
+: Unpredictable weather patterns and resource depletion demand adaptive strategies.
+Way Forward:
+Institutional Convergence
+: Integrate fisheries extension services with the
+Krishi Vigyan Kendras (KVKs)
+and state agricultural departments to leverage existing networks.
+Promote Digital Outreach
+: Expand platforms like AquaBazaar to ensure wider access to knowledge and training.
+Public-Private Partnerships
+: Encourage private sector involvement in technology dissemination and capacity building.
+Focus on Climate Resilience
+: Develop strategies for sustainable resource management in the face of environmental changes.
+Conclusion:
+Strengthening fisheries extension services is critical to sustaining India’s growth in the fisheries and aquaculture sector.
+By enhancing last-mile connectivity, integrating digital tools, and fostering collaborations, India can empower its fishers and fish farmers to adopt sustainable practices and contribute to the nation’s economic and ecological well-being.
+Why is strengthening fisheries extension services crucial.pdf
+( Size:  298.2 KB  )
+Click to View More
+Economics
+**********Domestic Migration in India
+Why in News?
+Domestic migration in India has witnessed a significant slowdown
+, with the total number of migrants declining by 11.78% from 2011 to 2023.
+A recent working paper by the Economic Advisory Council to the Prime Minister (EAC-PM), titled “
+400 Million Dreams!
+”, highlights key trends, reasons for the decline, and changes in migration patterns.
+What’s in Today’s Article?
+What is Migration?
+Methodology Used by the EAC-PM for Finding Domestic Migration in India
+Key Findings EAC-PM Paper on Domestic Migration in India
+Challenges in Migration Data
+Conclusion
+Meaning:
+Migration is the
+movement of people away from their usual place of residence
+, either internal (within the country) or international (across countries) borders.
+The migration arising out of various
+social, economic, or political reasons
+helps in
+understanding the dynamics of the society better.
+Various forms and patterns of migration:
+Internal migration
+(rural-urban, intra-state, inter-state, etc.) refers to migration from one place to another within a country, while
+external migration or international migration
+refers to migration from one country to another.
+Forced migration
+refers to migration that is not chosen by the individual or family but is forced upon them by factors such as war, persecution, or natural disasters.
+Voluntary migration
+refers to migration that is chosen by the individual or family, driven by factors such as better economic opportunities or a desire for a better life.
+Temporary migration
+refers to migration that is intended to be of short duration, such as seasonal or temporary work.
+Permanent migration
+refers to migration that is intended to be of long duration, intending to settle permanently in a new place.
+Reverse migration
+refers to the migration of individuals or families (who have previously migrated), back to their country of origin or their original place of residence.
+Methodology Used by the EAC-PM for Finding Domestic Migration in India:
+The report used 3 datasets to estimate migration trends:
+Indian Railway Unreserved Ticketing System (UTS) for passenger volumes.
+TRAI mobile roaming data to study seasonal movement.
+District-level banking data for remittances.
+These alternative sources were employed due to delays in the decennial Census, which is a more comprehensive but less timely data source.
+Key Findings EAC-PM Paper on Domestic Migration in India:
+Decline in migration numbers:
+Overall reduction:
+The number of migrants reduced from 45.57 crore (2011 Census) to 40.20 crore (2023).
+Migration rate:
+The migration rate dropped from 37.64% in 2011 to 28.88% in 2023.
+Improved economic opportunities:
+Migration is slowing due to better economic opportunities in smaller cities, improved infrastructure, and access to education and healthcare near traditional migration hubs.
+This shift indicates overall economic growth in source regions.
+Recipient states:
+Top recipient states:
+UP, Maharashtra, and Madhya Pradesh remain prominent,
+while West Bengal and Rajasthan are new entrants
+, replacing Andhra Pradesh and Bihar.
+Growth patterns:
+States like West Bengal, Rajasthan, and Karnataka showed the highest growth in migrant arrivals, whereas Maharashtra and Andhra Pradesh experienced a decline.
+Regional migration trends:
+Top origin districts:
+Areas around major urban centers like Delhi, Mumbai, Chennai, Bangalore, and Kolkata remain prominent sources.
+Top destination districts:
+Mumbai, Bengaluru urban, Howrah, Central Delhi, and Hyderabad are key destinations.
+Seasonality of migration:
+Peak migration movements occur during April-June, with secondary peaks in November-December.
+Post-pandemic data shows reduced passenger movement during these high months, with May 2023 levels 6.67% lower than May 2012.
+Challenges in Migration Data:
+The lack of regular and granular data
+poses challenges in understanding migration patterns.
+Existing reports, such as the MoSPI Migration in India 2020-21 and the Ministry of Housing and Urban Poverty Alleviation (MoHUPA) Working Group Report on Migration (2017),
+highlight limitations in tracking trends effectively.
+Conclusion:
+The slowdown in domestic migration reflects
+economic growth and regional development
+but underscores the need for improved data collection mechanisms.
+Accurate and timely data is crucial for policy formulation to address migration-related challenges and opportunities effectively.
+newspaper.pdf
+( Size:  1.5 MB  )
+Click to View More
+Social Issues
+**********Architect of Indian Economic Reforms passes way
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Economic reforms;
+Why in the News?
+People around the world paid tribute to Dr. Manmohan Singh, known for opening up India’s economy and making it a global player, who passed away at the age of 92.
+How did Manmohan Singh’s reforms transform India’s economic landscape?
+1991 Economic Liberalization (LPG):
+He abolished the “License Raj,” which required businesses to seek government approvals for setting up industries.
+Example:
+The IT sector flourished, with companies like Infosys and Wipro gaining international prominence.
+Tax Reforms and Currency Devaluation:
+Singh’s government implemented substantial tax cuts and devalued the Indian rupee to enhance competitiveness.
+Corporate tax was reduced from
+50% (pre-1991)
+to around
+35% by the mid-1990s
+, boosting business sentiment.
+Welfare Schemes:
+Alongside economic liberalisation, Singh’s administration introduced welfare initiatives aimed at sharing the benefits of growth with the rural poor, thereby addressing socio-economic disparities.
+Introduced schemes like
+MGNREGA (2005)
+and expanded rural credit, improving employment and poverty alleviation.
+Poverty rates dropped from
+37.2% (2004-05)
+21.9% (2011-12)
+, and India’s middle class expanded significantly due to higher income levels.
+Economy growth:
+As Finance Minister, in 1991 economic reforms addressed the balance-of-payments crisis by reducing the fiscal deficit from
+8.4% of GDP (1991)
+5.7% (1993)
+and reviving GDP growth from
+1.1% (1991-92)
+5.3% (1992-93)
+through measures such as dismantling industrial licensing, devaluing the rupee, and encouraging foreign investment.
+How did he left a lasting imprint on external relations?
+US-India Civil Nuclear Deal (2008):
+He played a pivotal role in finalising the Civil Nuclear Agreement, which ended India’s nuclear isolation and strengthened strategic ties with the United States.
+It also marked a shift in global recognition of India as a responsible nuclear power.
+Strengthening India’s Strategic Partnerships:
+Deepened ties with major global powers, including the US, EU, Japan, and Russia, enhancing India’s diplomatic and economic engagement globally.
+Championing India’s Role in Global Governance:
+Advocated for reforms in international institutions like the UN, IMF, and World Bank to reflect the rising stature of emerging economies, particularly India.
+His leadership elevated India’s voice in global forums like G20 and BRICS.
+Focus on Regional and Economic Integration:
+Fostered closer economic and diplomatic ties with ASEAN, SAARC nations, and other Asian neighbours, reinforcing India’s position in regional trade and security frameworks.
+His outreach contributed to India’s Act East Policy and improved relations with key partners in the Indo-Pacific region.
+Conclusion:
+The Indian government should embrace Dr. Manmohan Singh’s legacy by prioritizing bold economic reforms, fostering global partnerships, and championing inclusive growth. Emphasizing strategic investments in infrastructure, skilling, and technology while deepening ties with regional and global partners can sustain long-term growth, reduce disparities, and solidify India’s leadership in global governance.
+Mains PYQ:
+Has the Indian governmental system responded adequately to the demands of Liberalization, Privatization and Globalization started in 1991? What can the government do to be responsive to this important change?
+(UPSC IAS/2016)
+**********In the Pegasus case, a stark difference in the efficiency of law enforcement in India and the US
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Cybercrime;
+Why in the News?
+The US court ruling found the maker of
+spyware guilty of hacking WhatsApp, while in India, the investigation ended quietly without any results.
+What are the implications of the US court ruling against NSO Group?
+Legal Accountability Established:
+The US District Court’s ruling that NSO Group is liable for hacking WhatsApp users marks a significant legal precedent. It affirms that private companies engaged in illegal surveillance can be held accountable in a court of law, which may encourage other jurisdictions to take similar actions against such entities.
+Protection of Privacy Rights:
+The ruling underscores the importance of user privacy and proprietary technology protection. It emphasizes that courts can act decisively to safeguard individual rights against corporate malfeasance, setting a standard for privacy protection that could influence global norms.
+Pressure on NSO Group:
+The verdict amplifies economic and operational pressures on NSO Group, potentially leading to stricter regulations and oversight of surveillance technology firms worldwide. This could deter similar future actions by other companies in the industry.
+Why has India’s inquiry into the Pegasus allegations been ineffective?
+Government Evasion:
+The Indian government’s refusal to confirm or deny the use of Pegasus spyware has significantly hampered any meaningful investigation. This silence has been framed as a matter of national security but is perceived as a deliberate evasion of accountability.
+Lack of Cooperation:
+The Supreme Court’s appointed committee faced challenges due to the government’s lack of cooperation.
+Key stakeholders like WhatsApp and Apple were not compelled to provide evidence or testimony, limiting the committee’s ability to draw conclusive findings.
+Judicial Delays and Inaction:
+India’s judicial system is plagued by delays and inefficiencies, which have further stalled inquiries into Pegasus. Parliamentary debates have devolved into unproductive exchanges, failing to generate actionable outcomes.
+What are the legislations related to spyware attacks in India?
+Information Technology Act, 2000 (IT Act):
+Section 43:
+Criminalizes unauthorized access to computer systems and networks, making hacking a punishable offense.
+Section 66:
+Addresses cybercrime and provides penalties for violations of computer-related laws.
+Section 69:
+Allows government agencies to intercept data on grounds of national security but does not authorize the installation of spyware like Pegasus on devices without proper oversight.
+Information Technology (Procedure and Safeguards for Interception, Monitoring and Decryption of Information) Rules, 2009:
+These rules require that no interception can occur without the direction and approval of a competent authority, aiming to provide some level of oversight.
+Digital Personal Data Protection Act (DPDPA):
+Recently passed in 2023, this act has faced criticism for allegedly providing legal cover for state surveillance while lacking robust protections for individual privacy rights. Critics argue that its vague language allows for arbitrary government.
+What should be the next steps for Indian authorities following the US verdict? (Way forward)
+Reinitiate Investigations:
+Indian authorities should consider reopening investigations into Pegasus with renewed vigour, leveraging insights from the US court ruling. This includes calling for transparency from technology companies involved in the case.
+Engage with Stakeholders:
+Authorities should actively engage with WhatsApp, Apple, and other relevant parties to gather comprehensive evidence regarding the spyware’s use in India. This collaboration is crucial for establishing accountability.
+Legislative Reforms:
+There is an urgent need for systemic reforms in surveillance laws and practices in India. Authorities should work towards creating robust frameworks that protect citizens’ privacy rights and establish clear guidelines for state surveillance activities.
+Public Disclosure:
+To rebuild public trust, it is essential for the government to disclose findings from previous inquiries and commit to transparency moving forward. This includes making reports from technical committees publicly available
+Mains PYQ:
+Discuss different types of cyber crimes and measures required to be taken to fight the menace.
+(UPSC IAS/2020)
+**********Communist Party of India (CPI)
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Communist Party of India (CPI) and its contributions
+Why in the News?
+December 26, 2024, marks the
+100th foundation day
+of the Communist Party of India (CPI). The CPI has played a pivotal role in India’s
+freedom struggle
+social reforms
+, and
+political evolution
+About the Communist Party of India (CPI)
+Reasons for Formation
+Founded on
+December 26, 1925
+, at the
+Kanpur Conference
+, inspired by the
+1917 Russian Revolution
+Earlier efforts included the
+Tashkent group (1920)
+led by
+M.N. Roy
+Abani Mukherji
+, supported by the
+Comintern (Communist International)
+Faced early repression through cases like:
+Kanpur Bolshevik Conspiracy Case (1924)
+Meerut Conspiracy Case (1929–1933)
+Dissatisfaction with
+Gandhian methods
+and moderate nationalism.
+Inspiration from the
+Soviet Revolution (1917)
+and global socialist movements.
+Split (1964)
+Ideological rift during the
+Cold War
+over alignment with the
+Soviet Union
+China
+Led to the creation of the
+Communist Party of India (Marxist)
+CPI(M)
+Prominent Leaders and Key Contributions
+M.N. Roy (1920s)
+: Founder of the
+; advocated socialism and anti-colonialism.
+Abani Mukherji (1920s)
+: Drafted the
+Indian Communist Manifesto
+S.A. Dange (1924)
+: Founding CPI member; labour leader implicated in the
+Kanpur Conspiracy Case
+Muzaffar Ahmed (1920s)
+: Mobilized workers and peasants; key figure in
+AITUC (1920)
+Shaukat Usmani (1920s–1930s)
+M. Singaravelu (1925)
+: Early CPI activists.
+Demand for Poorna Swaraj (1927)
+Advocated for
+complete independence
+, influencing the
+Indian National Congress (INC)
+Workers and Peasants Movements (1920s–1950s)
+Mobilized workers through
+and peasants through
+All India Kisan Sabha (1936)
+Led uprisings like the
+Telangana Rebellion (1946–1951)
+Opposition to British Rule (1920s–1947)
+Organized strikes and protests during the
+Quit India Movement (1942)
+Achievements of CPI
+In the
+First Lok Sabha (1952–57)
+, CPI was the
+single largest opposition party
+1957
+, CPI won the
+state elections in Kerala
+, becoming the
+first democratically elected communist government
+in independent India.
+: The
+All India Trade Union Congress (AITUC)
+, India’s oldest trade union federation, was founded in
+Lala Lajpat Rai
+and others in Bombay to represent India at the
+ILO (International Labour Organisation)
+PYQ:
+[2018]
+Consider the following events:
+The first democratically elected communist party government was formed in a State in India.
+India’s then largest bank, ‘Imperial Bank of India’, was renamed ‘State Bank of India’.
+Air India was nationalised and became the national carrier.
+Goa became a part of independent India.
+Which of the following is the correct chronological sequence of the above events?
+(a) 4 – 1 – 2 – 3
+(b) 3 – 2 – 1 – 4
+(c) 4 – 2 – 1 – 3
+(d) 3 – 1 – 2 – 4
+**********United Nations Disengagement Observer Force (UNDOF)
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+UN Secretary-General
+paid tribute to
+Brigadier General Amitabh Jha
+of India, who died serving with the
+Golan Heights
+.
+About United Nations Disengagement Observer Force (UNDOF)
+The UNDOF is a
+peacekeeping
+mission established by the
+United Nations Security Council (UNSC)
+to oversee the implementation of a
+ceasefire agreement
+between
+Israel
+and
+Syria
+following the
+1973 Yom Kippur War
+(October 6-24, 1973) was fought between
+Egypt
+(in the
+Sinai
+) and Israel and Syria (in the
+).
+It operates in the
+, a region of strategic importance and long-standing contention.
+The UNSC formally established
+under
+Resolution 350
+to:
+Maintain the
+Supervise the
+disengagement
+of forces.
+Monitor the
+separation zones
+established by the agreement.
+UNDOF became
+operational on June 6, 1974
+, with an initial deployment of approximately
+1,200 personnel
+Its mandate is
+renewed every 6 months
+by the UNSC, emphasizing its ongoing role in maintaining stability.
+Structural Mandate and Functions
+UNDOF’s core responsibilities include:
+Ceasefire Maintenance:
+Monitor and ensure adherence to the ceasefire agreement between Israel and Syria.
+Supervision of Disengagement:
+Oversee the withdrawal of forces to their respective areas as per the
+1974 Agreement on Disengagement
+Monitoring Areas of Separation and Limitation:
+Area of Separation (AOS):
+A demilitarized zone controlled by UNDOF, where no military activity is permitted.
+Approx.
+80 km long
+, ranging from
+200 m to 8 km wide
+Marked by
+barrel lines
+for identification on the ground.
+Areas of Limitation:
+Zones on both Israeli and Syrian sides where the number of troops and types of weapons are restricted.
+Functions:
+Observation and Reporting:
+Monitor troop movements and ensure no violations of the agreement occur.
+Regularly report to the
+and the UNSC on ground conditions.
+Civilian Assistance:
+Facilitate the return of
+Syrian civilians
+to their homes in the AOS under the agreement.
+Verification of Compliance:
+Conduct inspections to ensure adherence to restrictions in
+Confidence-Building Measures:
+Act as a neutral party to reduce tensions between Israel and Syria.
+Liaison Services:
+Maintain open communication channels between Israeli and Syrian forces to prevent misunderstandings or escalation.
+PYQ:
+[2015]
+The area known as ‘Golan Heights’ sometimes appears in the news in the context of the events is related to:
+(a) Central Asia
+(b) Middle East
+(c) South-East Asia
+(d) Central Africa
+**********Matsya Seva Kendras
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+India’s fisheries sector, contributing to the livelihoods of over
+3 crore fishers
+and producing a record
+175 lakh tons
+of fish in 2022-23, is being strengthened through initiatives like
+Matsya Seva Kendras.
+About Matsya Seva Kendra (MSK)
+MSKs are one-stop centers established under the
+Pradhan Mantri Matsya Sampada Yojana (PMMSY)
+to support fishers and fish farmers.
+They provide a wide range of technical, advisory, and capacity-building services aimed at modernizing the fisheries sector and ensuring sustainable practices.
+Role of MSKs:
+Offer water, soil, and microbial analysis
+to address disease management and improve aquaculture productivity.
+Conduct capacity-building programs
+for fishers, focusing on sustainable practices and advanced aquaculture techniques.
+Empower
+women and weaker sections
+with
+60% financial assistance
+for setting up MSKs.
+Mobilize start-ups, cooperatives
+producer organizations to share best practices.
+Promote regenerative and conservation practices
+to tackle challenges posed by climate change.
+Pradhan Mantri Matsya Samapada Yojana (PMMSY):
+The scheme aims to bring about a
+Blue Revolution
+sustainable and responsible development
+of India’s fisheries sector.
+It was launched as part of the
+‘Atma Nirbhar Bharat’ package
+with an investment of
+₹20,050 crore
+, the highest-ever allocation for the fisheries sector.
+It is implemented across all
+States and Union Territories
+from
+FY 2020-21 to FY 2024-25
+It provides
+insurance coverage
+Kisan Credit Card (KCC)
+facilities to fishers.
+It is implemented as an
+umbrella scheme
+with two components:
+Central Sector Scheme
+: Entirely funded by the Central Government.
+Centrally Sponsored Scheme
+: Cost shared between the
+Centre
+States/UTs
+How Do
+Sagar Mitras
+Support Fishers?
+act as a vital link between the government and sea-borne fishers, facilitating access to information and resources in coastal regions.
+Role of Sagar Mitras:
+Collect data on marine catch, price trends, and market requirements.
+Provide updates on local regulations, weather conditions, and potential fishing zones.
+Educate fishers on hygienic fish handling, sustainable fishing techniques, and compliance with regulatory measures.
+Act as a key contact during emergencies, offering information on natural calamities and safety protocols.
+PYQ:
+[2018]
+Defining the Blue Revolution, explain the problems and strategies of fisheries in India.
+**********African Wild Cat (Leptailurus serval)
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Border Security Force (BSF) has rescued a Serval, the African wild cat (Leptailurus serval) from an alleged wildlife smuggling attempt along the India-Bangladesh border.
+About
+African Wild Cat (Leptailurus serval):
+Details
+Scientific Name
+Common Name
+: African Wild Cat, Serval
+Family
+: Felidae
+Physical Description
+: Medium-sized wild cat with a slim, long-legged body, tawny coat with
+black spots and stripes
+, and large rounded ears. Can leap
+3 meters (10 feet)
+vertically.
+Habitat and Features
+Found across
+Sub-Saharan Africa
+Preferred Habitats
+Savannahs
+, grasslands, and wetlands; avoids arid regions and dense forests.
+Diet
+: Carnivorous, feeding on small mammals, birds, reptiles, and insects. Uses acute hearing to hunt.
+Behavior
+: Solitary,
+nocturnal or crepuscular
+, and communicates through vocalizations and scent-marking.
+Reproduction
+: Breeds year-round, with
+2–3 kittens
+per litter; gestation period is
+74 days
+Conservation Status
+IUCN Red List
+: Listed as
+Least Concern
+CITES
+: Included in
+Appendix II
+to regulate trade.
+Threats
+: Habitat loss, illegal hunting for fur, and conflicts with humans (e.g., poultry attacks).
+PYQ:
+[2015]
+With reference to the International Union for Conservation of Nature and Natural Resources (IUCN) and the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), which of the following statements is/are correct?
+IUCN is an organ of the United Nations and CITES is an international agreement between governments.
+IUCN runs thousands of field projects around the world to better manage natural environments.
+CITES is legally binding on the States that have joined it, but this Convention does not take the place of national laws.
+Select the correct answer using the code given below:
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********

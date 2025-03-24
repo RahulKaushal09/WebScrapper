@@ -1,0 +1,807 @@
+Issue of Railway Safety in India
+Why in News?
+According to Union Budget 2024-25, the Ministry of Railways has received a record allocation of over ₹2.55 lakh crore in financial year 2024-25, which is a jump of 5.85% from the previous year’s ₹2.41 lakh crore.
+However, the Economic Survey 2023-24 indicates limited progress on safety-related works such as deployment of automatic train protection system Kavach and overhaul of signaling systems at all stations.
+What’s in Today’s Article?
+Highlights of the Union Budget 2024-25
+Highlights of the Economic Survey 2023-24
+Issue of Railway Safety in India:
+Total number of train accidents in India:
+The six-year period between 2015-16 to 2021-22 saw 449 train accidents (excluding train accidents from Konkan Railways).
+Most prominent categories of train accidents in India:
+Incidents of derailments
+have been the most common cause of train accidents in India.
+According to the CAG’s Performance Audit of Indian Railways,
+nearly three fourth of 217 train accidents
+across the country between 2017-18 and 2020-21 were caused by derailments.
+The 2nd most common cause of train accidents is
+level crossing accidents
+, followed by
+fire and collisions
+Major factors responsible for derailments:
+Maintenance of tracks, deviation of track parameters beyond permissible limits, and bad driving/over speeding.
+Recommendations of the CAG:
+Development of a strong monitoring mechanism:
+To ensure timely implementation of maintenance activities by adopting fully mechanised methods of track maintenance and improved technologies.
+Rashtriya Rail Sanraksha Kosh (RRSK):
+Railway administration must follow the guiding principles for deployment of RRSK funds.
+Detailed Outcome Framework:
+Indian Railway may prepare the framework for each item of safety work.
+Conducting and finalising accident inquiries:
+Ensuring strict adherence to the scheduled timelines for conducting and finalising accident inquiries.
+Highlights of the Union Budget 2024-25:
+The total outlay provided for capital expenditure:
+It comes to ₹2.65 lakh crore
+after accounting for ₹2.52 lakh crore from general revenue, ₹200 crore from the Nirbhaya Fund, ₹3,000 crore from internal resources, and ₹10,000 crore from extra budgetary resources.
+The majority of this fund will be spent on
+ensuring safety works,
+along with the creation of assets, acquisitions, construction and replacement.
+In 2014, only ₹35,000 crore was spent towards capital expenditure on railways.
+The actual operating ratio of the railways
+Operating ratio is the number of rupees spent to earn every hundred rupees.
+In Budget Estimates of FY 2024-25, this has gone up a bit to
+98.22%
+(from 98.10% for FY 2022-23). This means for every 100 rupees spent, railways earn 98.22 rupees.
+The operating ratio shows how efficient the management is at keeping costs low while generating revenue.
+Kavach installation:
+Kavach (Automatic Train Protection System) consists of multiple components like hardware, software, optical fibre.
+As India has a diverse network of railway systems, the challenge is to combine all networks for deployment of Kavach.
+However, as approvals on Kavach 4.0 have been received, the pace of installation of the system will be rapid.
+Highlights of the Economic Survey 2023-24:
+Slow pace of Kavach installation:
+Kavach has been deployed on 1,465 route km in the South-Central Railway. This is just 2.14% of the total railway network of 68,426 route km and 7,349 railway stations.
+Switch from mechanical signaling:
+Out of 17 operational railway zones in India, eight zones have become free from mechanical signaling.
+However, only 46% of India’s 7,325 railway stations had made the switch from mechanical signaling to electronic interlocking system (introduced in India 12 years ago) till FY24.
+Capex deployment:
+The capex deployment in railways has increased by 77% over the past five years, ranging to ₹2.62 lakh crore in FY24 with significant investments in construction of new lines, gauge conversion and doubling.
+Installation of signaling intervention - Automatic Block Signaling (ABS):
+This system uses automatic signals to regulate train passage between blocks, preventing rear-end collisions and assisting trains travelling in the same direction.
+While the ABS is a proven low-cost signaling solution, it has been commissioned on only
+6.47%
+of total length of Indian Railways.
+Budget 2024_ With ₹2.65 lakh crore outlay.pdf
+( Size:  393.5 KB  )
+Click to View More
+Polity & Governance
+**********Supreme Court’s Split Verdict on Permission for GM Mustard
+Why in the News?
+The Supreme Court on July 23 pronounced a split verdict on the validity of the Centre’s 2022 decision granting conditional approval for environmental release of genetically modified (GM) mustard crops.
+What’s in Today’s Article?
+About GM Crops (Meaning, Benefits, Concerns, etc.)
+Regulations in India (Laws/Bodies Related to GM Crops)
+News Summary
+About Genetically Modified (GM) Crops:
+Genetically Modified (GM) crops are plants whose DNA has been altered through genetic engineering techniques to introduce desirable traits.
+These traits may include resistance to pests, diseases, or environmental conditions, improved nutritional content, or increased yield.
+Unlike traditional crossbreeding methods, genetic modification allows for the direct manipulation of a plant’s genetic material, often incorporating genes from different species to achieve specific results.
+Benefits of GM Crops:
+Increased Yield:
+GM crops can produce higher yields, contributing to food security.
+Pest and Disease Resistance:
+Crops can be engineered to be resistant to specific pests and diseases, reducing the need for chemical pesticides.
+Herbicide Tolerance:
+Some GM crops are designed to withstand certain herbicides, making weed control more effective.
+Enhanced Nutritional Content:
+Crops can be modified to contain higher levels of essential nutrients, addressing malnutrition in developing countries.
+Environmental Benefits:
+Reduced need for chemical inputs can lower the environmental impact of agriculture.
+Concerns / Controversies w.r.t. GM Crops:
+Environmental Impact:
+There is ongoing debate about the potential for GM crops to affect non-target species and lead to a reduction in biodiversity.
+Health Concerns:
+While extensive research indicates that GM foods are safe to eat, public concern about potential long-term health effects persists.
+Economic Issues:
+GM seeds are often patented, leading to concerns about corporate control over the food supply and the economic impact on small-scale farmers.
+Ethical and Labeling Issues:
+There are ethical debates surrounding the manipulation of genetic material, and many advocate for clear labeling of GM products to inform consumer choice.
+Regulations w.r.t. GM Crops in India:
+In India, the Ministry of Environment, Forest, and Climate Change oversees all activities, operations, and products associated with genetically modified organisms.
+These are regulated under the
+Environment (Protection) Act, 1986
+Genetic Engineering Appraisal Committee
+(GEAC), part of MoEFCC, has the authority to review, monitor, and approve all GMO-related activities, including import, export, transportation, manufacture, use, and sale.
+GEAC is a statutory body established under the Environment Act.
+Additionally, GM foods must comply with the regulations set by the
+Food Safety and Standards Authority of India
+(FSSAI).
+Currently,
+cotton is the only GM crop approved for commercial cultivation in India
+About GM Mustard:
+In 2023, the GEAC had recently given the green light for the commercial cultivation of genetically modified mustard.
+Dhara Mustard Hybrid
+(DMH-11), created by scientists at Delhi University, employs genes from soil bacteria to make mustard, typically a self-pollinating plant, more suitable for hybridization than traditional methods.
+The GEAC approved "the environmental release of mustard hybrid DMH-11 for seed production and testing in accordance with existing ICAR guidelines and other applicable regulations prior to its commercial release."
+Supreme Court’s Split Verdict on Permission for GM Mustard:
+The SC delivered a split verdict on the Centre's 2022 decisions regarding the environmental release of the genetically modified mustard hybrid DMH-11 for seed production and testing.
+Petitions:
+The court was responding to pleas by activist Aruna Rodrigues and the NGO 'Gene Campaign.
+The petition called for a moratorium on the release of any GMOs into the environment until a comprehensive, transparent, and rigorous biosafety protocol is publicly available and conducted by independent experts.
+Divergent Opinions:
+Justice Nagarathna:
+She deemed the October 2022 decisions of the GEAC invalid due to the absence of a health department member and the absence of eight members from the meeting.
+Justice Karol:
+He found no manifest arbitrariness in the GEAC decisions and stated that field trials should proceed with strict safeguards.
+Next Steps:
+The bench referred the matter to Chief Justice of India D Y Chandrachud for further adjudication by the appropriate bench.
+National Policy on GM Crops:
+Both justices agreed on the
+need for a national policy on Genetically Modified (GM) crops
+They directed the Centre to consult all stakeholders and experts within four months to formulate this policy.
+newspaper.pdf
+( Size:  264.8 KB  )
+Click to View More
+Polity & Governance
+**********Summary of the Union Budget 2024-2025 – Part II
+What’s in today’s article?
+Key highlights of Union Budget 2024-2025 – Part II
+Priority 6: Energy Security
+In line with the announcement in the interim budget, PM Surya Ghar Muft Bijli Yojana has been launched to install rooftop solar plants to enable 1 crore households obtain free electricity up to 300 units every month.
+The scheme has generated remarkable response with more than 1.28 crore registrations and 14 lakh applications.
+Priority 7: Infrastructure
+Improving infrastructure has had a strong multiplier effect on the economy.
+Priority 8: Innovation, R&D
+The govt will operationalize the
+Anusandhan National Research Fund
+for basic research and prototype development.
+It will also set up a mechanism for spurring private sector-driven research and innovation at commercial scale with a financing pool of ₹1 lakh crore in line with the announcement in the interim budget.
+Space Economy:
+For emphasis on expanding the space economy by 5 times in the next 10 years, a venture capital fund of ₹1,000 crore will be set up.
+Priority 9: Next Generation Reforms
+Other highlights of the budget
+Labour related reforms
+A comprehensive integration of
+e-shram portal
+with other portals will facilitate such one-stop solution.
+It will include mechanism to connect job seekers with potential employers and skill providers.
+Shram Suvidha and Samadhan portals
+will be revamped to enhance ease of compliance for industry and trade.
+Government will develop a taxonomy for climate finance for enhancing the availability of capital for climate adaptation and mitigation.
+Foreign Direct Investment and Overseas Investment
+The rules and regulations for FDI and Overseas Investments will be simplified to:
+facilitate FDI,
+nudge prioritization, and
+promote opportunities for using Indian Rupee as a currency for overseas investments.
+NPS Vatsalya
+NPS-Vatsalya, a plan for contribution by parents and guardians for minors will be started.
+On attaining the age of majority, the plan can be converted seamlessly into a normal NPS account.
+New Pension Scheme (NPS)
+The Committee to review the NPS has made considerable progress in its work and a solution will be evolved which addresses the relevant issues while maintaining fiscal prudence to protect the common citizens.
+Taxation in Budget 2024-25
+Budget Estimates 2024-25
+For the year 2024-25, the
+total receipts other than borrowings and the total expenditure
+are estimated at ₹32.07 lakh crore and ₹48.21 lakh crore respectively.
+net tax receipts
+are estimated at ₹25.83 lakh crore and the
+fiscal deficit
+is estimated at 4.
+9 per cent of GDP
+The gross and net market borrowings through dated securities during 2024-25 are estimated at ₹14.01 lakh crore and ₹11.63 lakh crore respectively.
+The government will aim to reach a
+deficit below 4.5 per cent next year
+Angel Tax abolished
+Budget has given boost to entrepreneurial spirit and start-up ecosystem by abolishing angel tax for all classes of investors.
+Capital Gain Tax
+Short term gains shall henceforth attract a rate of 20% on certain financial assets.
+Long term gains on all financial & non-financial assets to attract 12.5 per cent rate.
+Listed financial assets held for more than a year and unlisted assets (financial and non-financial) held for more than two years to be classified as long-term assets.
+Limit of exemption of capital gains has been increased to ₹1.25 Lakh per year to benefit lower and middle-income classes.
+Vivad se Vishwas Scheme 2024
+For dispute resolution and dispose-off backlogs, Union Finance Minister proposed Vivad se Vishwas Scheme, 2024 for resolution of certain income tax disputes pending in appeal.
+The monetary limits for filing appeals related to direct taxes, excise and service tax in High Courts, Supreme Courts and tribunals has been increased to ₹ 60 Lakh, ₹ 2 Crore and ₹ 5 Crore, respectively.
+Summary of the Union Budget 2024-2025 – Part II.pdf
+( Size:  2.8 MB  )
+Click to View More
+Economics
+**********Summary of the Union Budget 2024-2025 – Part I
+Why in news?
+Minister of Finance and Corporate Affairs Smt. Nirmala Sitharaman presented the Union Budget 2024-25 in Parliament.
+What’s in today’s article:
+Union Budget/ 'Annual Financial Statement'
+Key highlights of Union Budget 2024-2025 – Part I
+Article 112 of the Constitution
+requires the government to present to Parliament a statement of estimated receipts and expenditure in respect of every financial year, from April 1 to March 31.
+This statement is called the annual financial statement.
+It is divided into three parts -
+Consolidated Fund, Contingency Fund and Public Account
+For each of these funds, the government has to present a statement of receipts and expenditure.
+Focus
+As mentioned in the interim budget, the focus is on
+4 major groups
+, namely ‘
+Garib’ (Poor), ‘Mahilayen’ (Women), ‘Yuva’ (Youth) and ‘Annadata’ (Farmer)
+Theme
+Focus was given on employment, skilling, MSMEs, and the middle class.
+FM announced the
+Prime Minister’s package of 5 schemes and initiatives to facilitate employment, skilling and other opportunities for 4.1 crore youth over a 5-year period with a central outlay of ₹2 lakh crore
+This year, ₹1.48 lakh crore has been allocated for education, employment and skilling.
+9 Priorities in pursuit of Viksit Bharat
+Priority 1: Productivity and resilience in Agriculture
+New 109 high-yielding and climate-resilient varieties of 32 field and horticulture crops will be released for cultivation by farmers.
+In the next two years, 1 crore farmers across the country will be initiated into natural farming supported by certification and branding.
+10,000 need-based bio-input resource centres will be established.
+For achieving self-sufficiency in pulses and oilseeds, government will strengthen their production, storage and marketing and to achieve ‘atmanirbharta’ for oil seeds such as mustard, groundnut, sesame, soybean, and sunflower.
+Government, in partnership with the states, will facilitate the implementation of the
+Digital Public Infrastructure (DPI) in agriculture
+for coverage of farmers and their lands in 3 years.
+A provision of ₹1.52 lakh crore for agriculture and allied sector was announced this year.
+Other announcements
+Issuance of Jan Samarth based Kisan Credit Cards in 5 states
+Financial support for setting up a network of Nucleus Breeding Centres for Shrimp Broodstocks
+National Cooperation Policy to be framed with an objective to Fast-tracking growth of rural economy
+Priority 2: Employment & Skilling
+The government will implement 3 schemes for ‘Employment Linked Incentive’, as part of the Prime Minister’s package.
+These will be based on enrolment in the EPFO, and focus on recognition of first-time employees, and support to employees and employers.
+Higher participation of women in the workforce through setting up of working women hostels in collaboration with industry, and establishing creches.
+FM announced a new centrally sponsored scheme, as the 4th scheme under the Prime Minister’s package, for skilling.
+20 lakh youth will be skilled over a 5-year period and 1,000 Industrial Training Institutes will be upgraded in hub and spoke arrangements with outcome orientation.
+Model Skill Loan Scheme
+will be revised to facilitate loans up to ₹7.5 lakh with a guarantee from a government promoted Fund.
+This is expected to help 25,000 students every year.
+For helping the youth, who have not been eligible for any benefit under government schemes and policies, she announced a financial support for loans upto ₹10 lakh for higher education in domestic institutions.
+E-vouchers for this purpose will be given directly to 1 lakh students every year for annual interest subvention of 3 per cent of the loan amount.
+Priority 3: Inclusive Human Resource Development and Social Justice
+Purvodaya
+Government will formulate a plan, Purvodaya, for the all-round development of the eastern region of the country covering Bihar, Jharkhand, West Bengal, Odisha and Andhra Pradesh.
+This will cover human resource development, infrastructure, and generation of economic opportunities to make the region an engine to attain Viksit Bharat.
+Pradhan Mantri Janjatiya Unnat Gram Abhiyan
+For improving the socio-economic condition of tribal communities
+It will be launched by adopting saturation coverage for tribal families in tribal-majority villages and aspirational districts covering 63,000 villages and benefitting 5 crore tribal people.
+Oher announcements
+More than 100 branches of India Post Payment Bank will be set up in the North East region to expand the banking services.
+A provision of ₹2.66 lakh crore for rural development including rural infrastructure was made this year.
+₹3 lakh crore for schemes benefitting women and girls.
+Priority 4: Manufacturing & Services
+Support for promotion of MSMEs
+A separately constituted
+self-financing guarantee fund will provide, to each applicant, guarantee cover up to ₹100 crore
+, while the loan amount may be larger.
+Similarly, Public sector banks will build their in-house capability to assess MSMEs for credit, instead of relying on external assessment.
+A new mechanism was announced for facilitating continuation of bank credit to MSMEs during their stress period.
+Mudra Loans
+The limit of Mudra loans will be
+enhanced to ₹ 20 lakh
+from the current ₹ 10 lakh for those entrepreneurs who have availed and successfully repaid previous loans under the ‘Tarun’ category.
+MSME Units for Food Irradiation, Quality & Safety Testing
+Financial support for setting up of 50 multi-product food irradiation units in the MSME sector will be provided.
+Setting up of 100 food quality and safety testing labs with NABL accreditation will also be facilitated.
+To enable MSMEs and traditional artisans to sell their products in international markets,
+E-Commerce Export Hubs will be set up in public-private-partnership (PPP) mode
+Internship in Top Companies
+As the
+5th scheme under the Prime Minister’s package
+, government will launch a comprehensive scheme for providing internship opportunities in 500 top companies to 1 crore youth in 5 years.
+12-month Prime Minister’s Internship with monthly allowance of Rs 5000.
+Priority 5: Urban Development
+Urban Housing
+Under the PM Awas Yojana Urban 2.0, housing needs of 1 crore urban poor and middle-class families will be addressed with an investment of ₹ 10 lakh crore.
+This will include the central assistance of ₹ 2.2 lakh crore in next 5 years.
+Water Supply and Sanitation
+Government will promote water supply, sewage treatment and solid waste management projects and services for 100 large cities through bankable projects.
+PM SVANidhi
+This was lauched to transform the lives of street vendors.
+Now, Govt envisions a scheme to support each year, over the next five years, the development of 100 weekly ‘haats’ or street food hubs in select cities.
+Summary of the Union Budget 2024-2025 – Part I.pdf
+( Size:  2.7 MB  )
+Click to View More
+Economics
+**********For the social sector, it is old wine in an old bottle 
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Schemes related to the social sector;
+Mains level:
+Employment challenges;
+Why in the News?
+Budget 2024 maintains the same approach as previous years regarding social sector allocations.
+Decreasing allocations in the Budget for social sector schemes
+Education Sector:
+The allocations for school education increased by ₹5,000 crore and for higher education by ₹3,000 crore. The increased recoveries from fees and self-financing schemes suggest a shift towards cost recovery in educational institutions.
+Health Sector:
+The allocation for the Department of Health and Family Welfare rose by only ₹1,500 crore.
+Food Subsidy:
+There is a limited increase in food subsidies despite rising economic costs and the need to update coverage based on the latest population figures.
+Shift in Approach:
+The government giving greater emphasis on cost-effectiveness and privatization in education and health, shifting focus towards contributory schemes like the Atal Pension Yojana.
+Social Sector Schemes in Budget 2024-25
+Social Protection Schemes:
+POSHAN Scheme:
+There is a slight increase from ₹11,600 crore to ₹12,467 crore, but still less than the actual expenditure in 2022-23.
+Saksham Anganwadi Scheme:
+The allocation increased to ₹21,200 crore from ₹20,554 crore, but no increase in salaries for Anganwadi workers or honorarium for mid-day meal cooks.
+Maternity and Social Assistance:
+Samarthya Scheme:
+The budget reduced to ₹2,517 crore from ₹2,582 crore. The PMMVY scheme’s maternity benefits have remained unchanged since 2017.
+NSAP:
+Allocation for social security pensions remains unchanged at ₹9,652 crore, reducing real coverage and value.
+Schemes for the Unemployed
+The ‘Prime Minister’s Package for Employment and Skilling’ includes government-sponsored internships, formalization of jobs through incentives for EPFO enrolments, and skill-development programmes
+An allocation of ₹2 lakh crore over five years for the employment package, linked to industry response
+Schemes for Street Vendors
+The PM SVANidhi Scheme (PM Street Vendor’s AtmaNirbhar Nidhi) aims to benefit over 50 Lakh street vendors across India
+All lending institutions, including NBFCs, are participating in the scheme to provide affordable loans to street vendors
+Employment Challenges
+Stagnant Wages and Dampened Demand:
+The Indian economy faces significant challenges with stagnant wages, which affect consumer demand. This stagnation can hinder overall economic growth and employment generation.
+Reliance on the Private Sector for Job Creation:
+The government is increasingly looking to the private sector to address employment challenges.
+Initiatives like the
+aim to incentivize private sector job creation through government-sponsored internships and skill development programs.
+Limited Budgetary Allocations:
+The budgetary allocations for employment-related schemes are limited, with the entire employment package amounting to ₹2 lakh crore over five years.
+Focus on Supply-Side Solutions:
+The current approach emphasizes supply-side measures to incentivize the private sector rather than addressing the underlying demand-side issues, such as low consumer spending and economic uncertainty.
+Way forward:
+Enhance Social Sector Investments
+: The government should significantly increase budget allocations for critical social sector schemes, particularly in education, health, and social protection.
+Comprehensive Employment Strategy
+: Need to develop a holistic approach to employment that addresses both supply and demand-side issues.
+**********Key takeaways from the 2023-24 Economic Survey   
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Data trends in economic survey;
+Mains level:
+Major five issues with the Indian Economy;
+Why in the News?
+The 2023-24 Economic Survey highlights realistic challenges for India’s growth, projecting GDP growth at 6.5%-7% for FY 2024-25 despite 8% growth in FY 2023-24.
+What are the major five issues with the Indian Economy?
+Weak Demand:
+In India, an unfavourable environment for FDI growth is due to high interest rates in developed countries, which increases the cost and opportunity cost of investment in India.
+Dependence on China:
+Due to over-reliance on China for imports, particularly in key sectors like renewable energy, limits India’s manufacturing capabilities and increases vulnerability to geopolitical tensions.
+Tepid Private Investment:
+Despite tax cuts aimed at stimulating capital formation, the corporate sector has not significantly increased investment, leading to a lack of job creation and economic dynamism.
+Employment Challenges:
+The need to generate approximately 78.5 lakh jobs annually in the non-farm sector until 2030 to accommodate the growing workforce, coupled with insufficient data on job creation, complicates labour market analysis.
+Infrastructure Deficiencies:
+Inadequate infrastructure, such as roads, railways, and sanitation, continues to hinder economic development and efficiency, requiring substantial investment and reform to improve productivity.
+What are the suggestions given in the Economic Survey?
+Private Sector’s Role in Job Creation:
+The corporate sector should take responsibility for creating jobs, as it is in their enlightened self-interest.
+Embracing Healthy Lifestyle:
+Indian businesses should learn from India’s traditional lifestyle, food, and recipes to live healthily and in harmony with nature.
+Focusing on Agriculture:
+The farm sector can generate higher value addition, boost farmers’ income, create opportunities for food processing and exports, and make the sector attractive to urban youth.
+Removing Regulatory Bottlenecks:
+Licensing, inspection, and compliance requirements imposed by various levels of government are an onerous burden on businesses, especially MSMEs.
+Improving Data Quality:
+The lack of availability of timely data on the absolute number of jobs created in various sectors precludes an objective analysis of the labour market situation.
+Way forward:
+Enhance Infrastructure Development
+: Need to prioritize investments in essential infrastructure such as roads, railways, and sanitation to boost economic efficiency and productivity.
+Strengthen Data Collection and Analysis
+: The government should develop robust mechanisms for timely and accurate data collection on employment and other key economic indicators.
+Mains PYQ:
+Do you agree with the view that steady GDP growth and low inflation have left the Indian economy in good shape? Give reasons in support of your arguments.
+(2019)
+**********Nepal, Sri Lanka, Seychelles secure more funds under Budget allocation for MEA   
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Bordering countries of India;
+Mains level:
+Neighbourhood First Policy;
+Why in the News?
+The Union Budget presented by Finance Minister Nirmala Sitharaman prioritized India-funded projects in neighbouring countries, receiving the majority of the Ministry of External Affairs’ allocation.
+What are the India-funded projects in the neighbourhood?
+India has provided significant aid to
+including funding for
+hydroelectric power
+plants like
+Pardi, Trishuli and Devighat.
+Afghanistan,
+India has provided over $3 billion in assistance and was involved in over 400 projects across 34 provinces, including major infrastructure projects like the
+Salma Dam
+he Zaranj-Dalaram Highway.
+Myanmar, Kaladan Multi-Modal Transit Transport Projects
+is $484 million project aims to connect the northeastern Indian state of Mizoram to the Sittwe port in Myanmar’s Rakhine state.
+In the 2024-25 budget, India allocated ₹700 crore to Nepal (up from ₹550 crore), ₹245 crore to Sri Lanka (up from ₹150 crore), and ₹30 crore to Seychelles (up from ₹10 crore).
+Reasons for reduced focus on Bhutan
+Bhutan, the largest recipient of MEA’s annual allocation, saw a dip in funding by ₹332.02 crore to ₹2,068.56 crore.
+However, this slight reduction does not indicate a decrease in funding for projects in Bhutan, as India and Bhutan recently cleared 61 projects amounting to ₹4,958 crore.
+Importance of Bhutan for India:
+Strategic Importance:
+Bhutan shares borders with India and China, acting as a buffer state between the two. Its strategic location is crucial for India’s security interests.
+India has provided assistance to Bhutan in areas like defence, infrastructure, and communication to maintain its sovereignty and territorial integrity.
+During the 2017 Doklam standoff between India and China, Bhutan allowed Indian troops to enter its territory to resist Chinese incursions.
+Economic Importance:
+India is Bhutan’s largest trading partner, accounting for 98% of its exports and 90% of its imports.
+Bhutan’s hydropower potential is a significant source of revenue, and India has been instrumental in assisting Bhutan in developing these projects.
+India provides substantial economic support to Bhutan. In 2015-16, India’s budgetary support to Bhutan stood at ₹61.60 billion, making it the largest recipient of India’s foreign aid.
+Cultural Ties:
+Bhutan and India share strong cultural ties, as both countries are predominantly Buddhist
+Future scope for India’s Neighbourhood Policy (Way forward)
+Strengthening Bilateral Ties:
+Need to negotiate free trade agreements, promote investments, and collaborate on infrastructure projects to boost economic ties.
+For example,
+India and Bangladesh have made significant progress in recent years, with the inauguration of the Maitri Setu bridge connecting Tripura to Bangladesh. The two countries are also working on the Akhaura-Agartala rail link to enhance connectivity.
+Promoting Regional Cooperation
+Need to collaborate on regional initiatives such as the BBIN (Bangladesh, Bhutan, India, Nepal) Motor Vehicles Agreement for seamless movement of goods and people.
+For instance,
+India has been actively involved in the BIMSTEC Coastal Shipping Agreement and the BIMSTEC Grid Interconnection project to enhance regional connectivity and energy cooperation.
+Mains PYQ:
+Evaluate the economic and strategic dimensions of India’s Look East Policy in the context of the post-Cold War international scenario.
+(UPSC IAS/2016)
+**********Defence funds decline, BRO gets backing 
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Trend in Defence budgeting;
+Mains level:
+Significance of indigenisation in defence sector ;
+Why in the News?
+Union Finance Minister Nirmala Sitharaman has allocated ₹6.22 lakh crore for the Defence Ministry for 2024-25, matching the amount presented in the interim Budget in February.
+Budgetary allocation for different sectors
+Border Roads Organisation (BRO):
+The BRO received a significant increase in funding, with an allocation of ₹6,500 crore, aimed at improving border infrastructure and promoting socio-economic development in border areas.
+Indian Coast Guard:
+The allocation for the Indian Coast Guard is ₹7,651.8 crore, which is 6% lower than the revised estimates for FY24. Of this, ₹3,500 crore is designated for capital expenditure to enhance maritime capabilities.
+Innovation in Defence:
+An additional ₹400 crore has been allocated for innovation in defence through the Acing Development of Innovative Technologies with iDEX (ADITI) scheme, aimed at engaging startups and MSMEs in developing indigenous defence technologies.
+Overall Allocation Breakdown:
+The allocation for the Defence Ministry includes 27.66% for capital expenditure, 14.82% for revenue expenditure, 30.66% for pay and allowances, 22.7% for defence pensions, and 4.17% for civil organizations under the Defence Ministry.
+Marginal Capex Push
+Slight increase in capital expenditure:
+The budget reflects a marginal increase in capital expenditure, focusing on strengthening the capabilities of the armed forces and enhancing domestic procurement.
+Strategic infrastructure development:
+The increased allocation to the BRO and the Coast Guard indicates a strategic push towards improving infrastructure in border areas and maritime security, though the overall capital push remains modest.
+Focus on Indigenous solutions:
+The emphasis on domestic capital procurement and innovation through the iDEX scheme aims to bolster self-reliance in defence technology, fostering a more robust Indigenous defence industry.
+Long-term strategic goals:
+The allocations are aligned with long-term strategic goals, including enhancing operational preparedness and infrastructure development in sensitive regions, although the overall growth in capital expenditure may be viewed as conservative.
+Balancing defence needs with budget constraints:
+While the budget seeks to address critical defence needs, the slight reduction in the overall percentage of the budget allocated to defence suggests a balancing act between defence priorities and other pressing social and economic needs.
+Way forward:
+Enhance Focus on Indigenous Production:
+The government should further promote indigenous production capabilities by increasing investments in research and development, and by providing incentives for domestic manufacturers to produce advanced defence technologies.
+Strengthen Infrastructure Development:
+The need for continued emphasis on infrastructure projects, particularly in border areas, should be prioritized to enhance national security and socio-economic development, ensuring that allocations are effectively utilized for maximum impact.
+**********[pib] Birth Anniversary of Chandrashekhar Azad and Lokmanya Tilak  
+significant Personalities in History
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Contributions of Chandrashekhar Azad and Lokmanya Tilak
+Why in the News?
+Prime Minister
+paid his tributes to legendary freedom fighters
+Bal Gangadhar Tilak
+Chandra Shekhar Azad
+on their birth anniversaries.
+About
+[1] Chandrashekhar Azad:
+Details:
+Born Chandra Shekhar Tiwari on 23 July 1906;
+Indian revolutionary leader of HSRA;
+Died 27 February 1931.
+Early Life
+From Bardarka, Uttar Pradesh;
+Joined Non-Cooperation Movement
+at 15;
+Famously declared his name as
+“Azad”
+when arrested.
+Revolutionary Life
+Hindustan Republican Association (HRA)
+, participated in
+Kakori Train Robbery,
+avenged Lala Lajpat Rai’s death;
+Reorganized HRA into Hindustan Socialist Republican Association (HSRA);
+Influenced by
+socialist literature
+Support from Congress
+Financially supported by
+Motilal Nehru
+Activities in Jhansi
+Used Jhansi as a base, practiced shooting, lived as Pandit Harishankar Bramhachari, taught children, connected with local revolutionaries.
+Collaboration with Bhagat Singh
+Reorganized HRA into HSRA, planned to assassinate James A. Scott, mistakenly killed John P. Saunders.
+Death
+Surrounded by police in Alfred Park, Allahabad;
+Ensured companion’s escape; shot himself to avoid capture on 27 February 1931.
+[2] Lokmanya Tilak:
+Born Bal Gangadhar Tilak
+on 23rd July 1856 in
+Ratnagiri, Maharashtra;
+Died on 1st August 1920.
+Education
+Founded
+Deccan Education Society (1884)
+Fergusson College (1885)
+in Pune.
+Ideology
+Devout Hindu using scriptures to inspire resistance;
+Advocated for
+self-rule (Swarajya)
+; famous slogan: “
+Swaraj is my birthright and I shall have it!
+”;
+Emphasized cultural and religious revival.
+Popularized Ganesh Chaturthi and Shiv Jayanti festivals.
+Political Life
+Early advocate for complete independence;
+Part of the
+Lal-Bal-Pal trio
+; joined
+Indian National Congress (INC) in 1890.
+Surat Split (1907)
+Split INC into Extremists (
+led by Tilak
+) and Moderates (
+led by Gopal Krishna Gokhale
+) due to leadership disputes and differing approaches.
+Contribution to Freedom Movement
+Promoted
+swadeshi movements
+boycott of foreign goods
+; co-led Indian
+Home Rule Movement (1916);
+Founded All India Home Rule League;
+Involved in Lucknow Pact (1916) for Hindu-Muslim unity.
+Imprisonment
+Imprisoned from 1908 to 1914 in Mandalay Prison for defending revolutionaries Khudiram Bose and Prafulla Chaki.
+Publications
+Edited weekly Kesari (Marathi) and Mahratta (English);
+Authored books “Gita Rahasya” and “Arctic Home of the Vedas.”
+PYQ:
+[2022]
+Who among the following is associated with ‘Songs from Prison’, a translation of ancient Indian religious lyrics in English?
+(a) Bal Gangadhar Tilak
+(b) Jawaharlal Nehru
+(c) Mohandas Karamchand Gandhi
+(d) Sarojini Naidu
+**********What is a Climate Finance Taxonomy, announced by FM Sitharaman?
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The 2024 Union Budget, presented by Finance Minister, includes developing a
+taxonomy for climate finance.
+The aim is to enhance the availability of capital for climate adaptation and mitigation.
+What is a Climate Finance Taxonomy?
+A climate finance taxonomy is a classification system that identifies which
+economic activities
+can be marketed as
+sustainable investments.
+It serves as a
+guide for investors
+financial institutions
+to direct capital towards projects that contribute to climate adaptation and mitigation, aligning with broader environmental goals.
+Significance of a Climate Finance Taxonomy
+Net-Zero Economy:
+With global temperatures rising and the adverse effects of climate change worsening, countries need to transition to a net-zero economy.
+Alignment with Transition Pathways
+: Taxonomies help ascertain if economic activities are aligned with credible, science-based transition pathways.
+Deployment of Climate Capital
+: They provide an impetus for the deployment of climate capital by directing investments towards sustainable projects.
+Reduction of Greenwashing Risks
+: Taxonomies help reduce the risks of greenwashing by providing clear criteria for what constitutes a sustainable investment.
+Why does India need a Green Taxonomy?
+According to the IFC,
+India needs an estimated
+$10.1 trillion
+to achieve net-zero by 2070
+Public investments alone can’t match this goal
+, calling for standardization in investments.
+Benefits for India
+For India, a taxonomy could
+attract more climate funds
+from international sources.
+Currently,
+green finance flows in India are falling short
+of the country’s needs, accounting for
+only around 3% of total FDI inflows
+, according to the Landscape of Green Finance in India 2022 report by the Climate Policy Initiative.
+lack of clarity on what constitutes sustainable activity
+is a significant reason for the low green finance flows. A taxonomy would address this issue.
+India’s Climate Commitments:
+India aims to achieve a
+The country has pledged
+to reduce the emissions intensity of its GDP by 45% by 2030
+, compared to the 2005 level.
+India has also committed to
+achieving about 50% of its cumulative electric power
+installed capacity from non-fossil fuel-based energy resources by 2030.
+Steps taken by India:
+In January 2021, India established a
+task force on sustainable finance
+under the Department of Economic Affairs, Ministry of Finance.
+The task force’s objectives include creating a framework for sustainable finance, establishing pillars for a sustainable finance roadmap, suggesting a draft taxonomy of sustainable activities, and creating a framework of risk assessment by the financial sector.
+In April 2021, the RBI joined the Central Banks and Supervisors
+Network for Greening the Financial System (NGFS)
+as a member.
+RBI is also a member of a task force on
+climate-related financial risks
+set up by the Basel Committee on Banking Supervision and the International Platform on Sustainable Finance.
+Potential for Green Investments in India
+According to a report by the International Finance Corporation (IFC), India has a
+climate-smart investment potential of $3.1 trillion
+from 2018 to 2030.
+The largest investment opportunity
+lies in the electric vehicle segment
+, with a potential of $667 billion as India aims to electrify all new vehicles by 2030.
+renewable energy sector
+also presents a substantial investment opportunity,
+estimated at $403.7 billion.
+International Adoption of Taxonomies
+Many countries have either started developing or have finalized their taxonomies.
+Countries with developed taxonomies include South Africa, Colombia, South Korea, Thailand, Singapore, Canada, and Mexico.
+The European Union has also developed its own taxonomy.
+PYQ:
+[2016]
+With reference to the Agreement at the UNFCCC Meeting in Paris in 2015, which of the following statements is/are correct?
+The Agreement was signed by all the member countries of the UN, and it will go into effect in 2017.
+The Agreement aims to limit the greenhouse gas emissions so that the rise in average global temperature by the end of this century does not exceed 2ºC or even 1.5ºC above pre-industrial levels.
+Developed countries acknowledged their historical responsibility in global warming and committed to donate $ 1000 billion a year from 2020 to help developing countries to cope with climate change.
+Select the correct answer using the code given below:
+(a) 1 and 3 only
+(b) 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+**********What is Angel Tax that was scrapped in Budget 2024?
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Finance Minister announced the abolition of the angel tax, aiming to strengthen the startup ecosystem and support innovation in India.
+What is Angel Investment?
+An angel investor is an individual who provides financial backing to
+early-stage startups or entrepreneurs
+, typically in exchange for equity in the company.
+Angel investors are typically high-net-worth individuals who invest their own personal funds, rather than investing on behalf of a firm or institution.
+Features of Angel Investing:
+Early-stage funding, equity investment, high-risk, high-reward, active involvement,personal investment,f lexible terms and shorter investment horizon.
+What is Angel Tax?
+Referred to as Angel Tax, this rule is described in
+Section 56(2)(vii)(b)
+Income Tax Act, 1961
+Essentially it’s a
+tax on capital receipts
+unique to India
+in the global context.
+This clause was
+inserted by the Finance Act
+in 2012
+to prevent laundering of black money, round-tripping via investments with a large premium into unlisted companies.
+The tax covers investment in any private business entity, but
+only in 2016
+was it applied to startups.
+Why was angel tax introduced?
+The complicated nature of
+VC fundraising
+with offshore entities
+, multiple limited partners and blind pools is contentious.
+There has been some element of
+money laundering
+or round-tripping under guise.
+Details of its levy
+The Angel Tax is being levied on startups at
+9% on net investments
+in excess of the fair market value.
+For angel investors, the amount of investment that exceeds the
+can be claimed for a
+100% tax exemption
+However, the investor must have a
+net worth of ₹2 crores
+or an income of
+more than ₹25 Lakh
+in the past 3 fiscal years.
+Key Issues with Angel Tax
+Share Valuation:
+The tax impacted the valuation of shares, causing complications for startups in raising funds.
+Discounted Cash Flow (DCF) Method:
+Issues arose with the treatment of estimated figures in the DCF method, leading to disputes.
+Scrutiny of Funding Sources:
+The scrutiny of funding sources and investor credibility added another layer of complexity for startups.
+Retrospective Application:
+The retrospective application of the tax and its effect on the conversion of convertible instruments into equity were also significant points of dispute.
+Significance for the Startup Community
+Startups has long advocated for a more supportive and less restrictive environment for fundraising.
+With this change, the government aims to create a more favourable atmosphere for innovation and investment in India.
+PYQ:
+[2014]
+What does venture capital mean?
+(a) A short-term capital provided to industries.
+(b) A long-term start-up capital provided to new entrepreneurs.
+(c) Funds provided to industries at times of incurring losses.
+(d) Funds provided for replacement and renovation of industries.
+**********Bihar’s Vishnupad and Mahabodhi Temples
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Vishnupad and Mahabodhi Temples; Kashi Vishwanath Temple
+Why in the News?
+Finance Minister announced during her Union Budget speech that corridor projects will be built for the
+Vishnupad Temple
+Gaya
+and the
+Bodh Gaya
+in Bihar.
+These will be modelled on the
+Kashi Vishwanath Temple Corridor
+, to transform them into world-class pilgrim and tourist destinations.
+About the Vishnupad Temple at Gaya
+Details
+Dedicated to
+Lord Vishnu
+Significance
+Contains a 40 cm long footprint of Lord Vishnu; considered sacred in Hinduism; attracts pilgrims for
+“Pind Daan”
+rituals.
+Historical Importance
+Believed to be over 1000 years old; associated with various legends and historical references in Hindu texts.
+Architecture
+Built in
+Shikhara style
+Features intricate carvings and silver-plated flagposts;
+Constructed of grey granite blocks.
+Built by
+Queen Ahilyabai Holkar of Indore in 1787.
+Festivals and Rituals
+Major site for “Pind Daan” rituals during
+Pitru Paksha
+Attracts thousands of pilgrims during this period.
+Mythology
+The footprint is believed to be where Lord Vishnu placed his foot to subdue the demon Gayasur.
+Associated River
+Located on the banks of the
+Phalgu River
+, considered sacred for ritual offerings.
+Access and Visitation
+Accessible year-round; major pilgrimage site with facilities for devotees.
+Recent Developments
+Ongoing efforts for preservation and restoration; improved infrastructure for pilgrims.
+About the Mahabodhi Temple Complex:
+Location
+Bodh Gaya, Bihar;
+Marks the location where Buddha attained enlightenment
+UNESCO Status
+World Heritage Site since 2002
+One of the four holy sites related to
+Buddha’s life
+(Enlightenment).
+Other holy sites:
+Lumbini (Birth) in Nepal, Sarnath (First Sermon) in Uttar Pradesh, Kushinagar (Death) in Uttar Pradesh
+Original Construction
+Built by Mauryan Emperor
+Ashoka
+around 260 BCE
+Reconstruction
+Reconstructed in brick
+during the late Gupta period
+(5th or 6th centuries)
+Archaeological Finds
+Indicates site of veneration
+since the Mauryan period.
+Vajrasana (Diamond Throne):
+Located within the temple, dated to the third century BCE
+Main Temple Structure
+Dates from the 6th century CE, incorporates parts from 2nd or 3rd century CE
+Architectural Features
+Two large shikhara towers, the largest over 55 meters high
+Influenced Jain, Hindu, and Buddhist architecture globally
+Materials
+Made mostly of brick covered with stucco
+Bodhi Tree
+Direct descendant of the original tree under which Buddha attained enlightenment
+Traditional Accounts
+Describes
+7 weeks
+Buddha spent meditating after enlightenment at various spots within the complex
+Decline and Revival
+Declined after
+Huna invasions
+and early Islamic invasions.
+Revived under the Pala Empire
+(8th-12th century).
+Declined again after 12th century CE invasions by Turk armies.
+**********

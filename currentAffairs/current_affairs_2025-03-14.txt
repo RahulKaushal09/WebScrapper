@@ -1,0 +1,341 @@
+The gender budget — bigger allocations, little impact
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Gender Budget; Vulnerable class issues;
+Why in the News?
+The Union Budget 2025-26 has increased funding for women-centric schemes to ₹4.49 lakh crore, a 37.25% rise from ₹3.27 lakh crore in the previous year. This increase remains significant even after accounting for an estimated inflation rate of 3.61%.
+What are the major reasons for the underutilisation of funds allocated under the Scheduled Castes Sub-Plan (SCSP) and Tribal Sub-Plan (TSP)?
+Bureaucratic Delays and Complex Procedures:
+In many states, lengthy approval processes and multi-tiered administrative hurdles delay fund disbursement, preventing timely implementation of welfare schemes. The “Post-Matric Scholarship for SC/ST Students” often faces delays due to slow bureaucratic processing.
+Lack of Community Involvement in Planning:
+The absence of direct consultation with SC/ST communities results in schemes that do not align with their specific needs.
+In tribal areas, the lack of local representation has led to the failure of livelihood programs tailored for forest-based communities.
+Inadequate Awareness and Outreach:
+Many eligible beneficiaries are unaware of available programs due to poor dissemination of information. Despite a substantial allocation to the
+“Pradhan Mantri Adarsh Gram Yojana,”
+low awareness among SC/ST households has limited its reach.
+Underutilisation due to Misallocation:
+Funds intended for targeted development are often diverted to general welfare projects, reducing the impact on SC/ST communities. In some states, funds under the TSP have been used for infrastructure projects that do not directly benefit tribal populations.
+Digital and Procedural Barriers:
+The shift to digital application processes without adequate digital literacy programs has excluded many SC/ST beneficiaries. In Rajasthan, digitization of welfare schemes like
+“PVTG Development Programmes”
+has created barriers for those lacking internet access or digital skills.
+Why is the lack of gender-disaggregated data within SCSP and TSP a major challenge in assessing the impact on SC/ST women?
+Inability to Measure Gender-Specific Outcomes
+: Without data distinguishing male and female beneficiaries, it’s challenging to evaluate the effectiveness of initiatives aimed at SC/ST women.
+For instance, literacy rates among SC women stand at 56.5%, and among ST women at 49.4%, compared to the national female literacy rate of 64.63%.
+Failure to Address Intersectional Disparities:
+SC/ST women experience layered discrimination based on caste, gender, and class. Without data distinguishing their experiences, policies fail to address these overlapping vulnerabilities.
+For example, in tribal areas, women’s access to maternal healthcare remains poor because gender-specific needs are not reflected in TSP allocations.
+Ineffective Policy Design and Implementation:
+The absence of gender-specific data prevents the government from designing targeted interventions and monitoring their effectiveness.
+In the
+Pradhan Mantri Awas Yojana (Gramin)
+, there is no separate data on SC/ST women beneficiaries, making it difficult to assess if they are receiving adequate housing support.
+How has digitalisation created new barriers for women, particularly those from marginalised communities?
+Limited Digital Literacy and Access:
+Many women from SC/ST and other marginalised groups lack basic digital skills, making it difficult to access welfare schemes and online services. For instance, beneficiaries of the
+Pradhan Mantri Jan Dhan Yojana
+often struggle to navigate digital banking platforms, leading to dependency on intermediaries.
+Exclusion Due to Lack of Digital Infrastructure:
+Poor digital infrastructure in rural and tribal areas limits women’s ability to participate in digital governance processes. For example, the Aadhaar-linked Public Distribution System (PDS) often fails to deliver benefits to women in remote regions due to biometric authentication issues.
+Increased Dependence on Intermediaries:
+Digital processes intended to reduce corruption have increased reliance on middlemen for those who cannot navigate online systems. For instance, women applying for the
+PM Ujjwala Yojana
+face difficulties completing online applications, forcing them to seek help and sometimes pay additional fees.
+Case study:
+What lessons can be drawn from Kerala’s Kudumbashree mission to improve the effectiveness of gender budgets?
+Community-Led Participatory Approach:
+Involving women from the grassroots level in planning, implementation, and monitoring ensures that schemes address their real needs. For instance, Kudumbashree’s neighbourhood groups empower women to influence local budget decisions, ensuring better allocation and utilisation of resources.
+Transparent Monitoring and Accountability:
+Regular audits and community-based tracking improve fund utilisation and prevent leakages. For example, Kudumbashree’s micro-level monitoring system tracks welfare schemes, ensuring funds reach the intended beneficiaries and improving service delivery.
+Way forward:
+Strengthen Data Systems and Targeted Monitoring:
+Implement gender-disaggregated and caste-specific data collection within SCSP and TSP to track the impact on SC/ST women and address intersectional vulnerabilities effectively.
+Enhance Digital and Community Accessibility:
+Invest in digital literacy programs and community-based facilitation to ensure equitable access to welfare schemes, especially for women in rural and marginalised communities.
+Mains PYQ:
+Distinguish between gender equality, gender equity and women’s empowerment. Why is it important to take gender concerns into account in programme design and implementation?
+(UPSC IAS/2024)
+**********India’s choice between progress and parochialism
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to linguistic policies ;
+Why in the News?
+India faces a challenge in advancing global technology and promoting cultural nationalism.
+What are the key contradictions between India’s linguistic policies and its ambitions for global technological leadership?
+Promotion of Global Tech Leadership vs. Linguistic Nationalism:
+While the government advocates for technological innovation and global collaboration (e.g., PM Modi’s co-chairing of the AI Action Summit in Paris), cultural nationalist groups like the RSS push to reject English and promote indigenous languages.
+Example:
+Maharashtra’s mandate to prioritize Marathi in government offices conflicts with the need for English proficiency in global tech and business environments.
+Dual Education System:
+Private schools emphasize English, preparing students for global opportunities, while most government schools focus on regional languages, limiting access to global knowledge.
+Elite private-school graduates secure jobs in multinational tech firms, while students from regional-language schools face barriers in competitive industries like AI and software development.
+Language as Identity vs. Economic Pragmatism:
+While India debates language as a cultural marker, other countries treat English as a tool for economic advancement.
+China and South Korea prioritize English proficiency to foster technological growth, whereas India’s linguistic nationalism hampers similar progress.
+Global Collaboration vs. Linguistic Isolation:
+Success in emerging fields like AI requires collaboration in English-led international forums, but domestic policies discourage its widespread adoption.
+Israel mandates English alongside STEM education, enabling global research participation, while India’s restrictive policies hinder such integration.
+Access to AI and Digital Technologies:
+AI technologies are predominantly developed and documented in English, yet linguistic policies limit access for a majority of Indians.
+Indian startups working on AI and machine learning struggle to scale globally due to the language barrier affecting workforce readiness.
+Why is English proficiency considered crucial for India’s future workforce in the AI-driven economy?
+Access to Global Knowledge and Innovation:
+Most research papers, technical documentation, and AI frameworks are published in English. Without proficiency, Indian professionals face barriers to understanding and applying the latest advancements.
+Cutting-edge AI models like GPT and TensorFlow are primarily documented in English, making it essential for developers to engage with and innovate using these tools.
+Enhanced Employment Opportunities:
+English is the dominant language in multinational companies and global tech ecosystems. Proficiency opens doors to better-paying jobs and international collaborations.
+Indian engineers fluent in English are preferred by global tech giants like Google, Microsoft, and Meta for roles in AI development and data science.
+Participation in Global AI Governance and Policy:
+As AI evolves, international regulatory frameworks and ethical discussions are conducted in English. Without linguistic competence, India risks being sidelined in shaping global AI norms.
+India’s ability to contribute to forums like the Global Partnership on AI (GPAI) depends on having experts who can engage in technical and policy dialogues in English.
+Which regions in India demonstrate better educational and economic outcomes due to their multilingual approach?
+Southern States (Kerala, Karnataka, Tamil Nadu):
+These states follow a three-language policy (regional language, Hindi, and English) in schools, ensuring proficiency in English while preserving local identity.
+Bengaluru in Karnataka is a leading global technology hub, attracting investments in AI and IT due to a highly skilled, multilingual workforce.
+Western States (Maharashtra, Gujarat):
+Urban areas in these states emphasize English-medium education alongside regional languages, enabling access to both domestic and international job markets.
+Mumbai’s multilingual workforce supports thriving sectors like finance, media, and global trade, making it India’s economic powerhouse.
+Union Territories (Delhi, Chandigarh):
+The education system here integrates English, Hindi, and local languages, fostering linguistic adaptability and attracting businesses requiring bilingual professionals.
+Delhi’s multilingual policies contribute to its prominence in sectors like legal services, information technology, and international commerce.
+Way forward:
+Balanced Language Policy:
+Implement a multilingual education framework that promotes regional languages while ensuring universal access to English from an early age to enhance global competitiveness.
+Inclusive Digital Ecosystem:
+Invest in translating AI resources and technical content into regional languages while encouraging English proficiency to bridge the linguistic divide in emerging technologies.
+Mains PYQ:
+Is diversity and pluralism in India under threat due to globalisation? Justify your answer.”
+(2019)
+**********What is Hantavirus and how does it spread?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Betsy Arakawa, wife of Oscar-winning actor Gene Hackman, died from a respiratory illness linked to hantavirus, a rare disease transmitted by infected rodents, officials have confirmed.
+What is Hantavirus?
+Hantavirus is a
+family of viruses
+carried by rodents that cause
+severe illnesses
+in humans. The two primary diseases it causes are:
+Hantavirus Pulmonary Syndrome (HPS)
+– A
+fatal respiratory illness
+common in the
+Americas
+Hemorrhagic Fever with Renal Syndrome (HFRS)
+– Affects the
+kidneys and causes internal bleeding
+, mostly found in
+Asia and Europe
+Hantavirus spreads through
+contact with infected rodent waste
+, primarily via:
+Inhalation (Aerosolization)
+– Breathing in airborne particles from
+rodent urine, droppings, or saliva
+Direct Contact
+– Touching contaminated surfaces and then touching the
+eyes, nose, or mouth
+Open Wounds
+– Virus entering through
+cuts or scratches
+Rodent Bites
+(Rare).
+Human-to-Human Transmission
+– Extremely rare, except for
+Andes virus
+in South America.
+Is there a Cure or Treatment?
+No specific antiviral treatment or vaccine exists.
+Medical care focuses on symptom management:
+Oxygen therapy for breathing difficulties.
+ICU support & mechanical ventilation in severe cases.
+Early detection is crucial – Seek medical help immediately after potential rodent exposure.
+**********ISRO undocks SpaDex Satellites in First Attempt
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+PSLV-C60 SpaDeX Mission
+Why in the News?
+India achieved a major milestone in space docking technology with the successful undocking of satellites under the SpaDeX mission, marking ISRO’s first-ever undocking operation on March 14, 2025, just two months after the initial docking.
+With this success,
+India joins an elite group of nations
+—
+the U.S., Russia, and China
+—that have demonstrated space docking and undocking capabilities.
+What is PSLV-C60 SpaDeX Mission?
+The
+is a landmark mission aimed at demonstrating
+in-space docking and undocking technology
+This mission would position India as the
+fourth country in the world
+to master space docking, following the
+US, Russia, and China
+Objective
+To demonstrate the
+docking, undocking, and rendezvous
+capabilities of two satellites in
+low-Earth orbit (LEO)
+Facilitate
+power transfer
+between docked spacecraft, an essential capability for future space missions.
+: (Each weighing 220kg.)
+SDX01 (Chaser)
+: Equipped with a
+High-Resolution Camera (HRC)
+SDX02 (Target)
+: Carries a
+Miniature Multispectral Payload (MMX)
+and a
+Radiation Monitor (RadMon)
+Configuration
+The satellites will be launched using the
+Polar Satellite Launch Vehicle (PSLV-C60)
+in a
+core-alone (CA)
+configuration, meaning without strap-on boosters.
+They will be placed in a
+476-km circular orbit
+with an
+inclination of 55°
+Post-Docking
+After the docking demonstration, the satellites will continue standalone missions for
+two years
+, conducting imaging, natural resource monitoring, and radiation environment studies.
+Significance
+: It is a strategic step towards several ambitious space objectives, including:
+Preparing for the
+Gaganyaan
+human spaceflight program
+Enabling
+Chandrayaan-4
+lunar sample return missions
+Developing the
+Bharatiya Antariksh Station (BAS),
+India’s proposed space station35
+What is Space Docking?
+Space docking
+refers to the process where two spacecraft in orbit
+rendezvous and physically connect
+to form a single entity. It is a highly complex and precise maneuver essential for advanced space missions.
+Key Steps of Space Docking:
+Rendezvous
+: Involves bringing two spacecraft into the same orbit with minimal distance and velocity difference.
+: Establishing a
+mechanical connection
+between the spacecraft using specialized docking systems.
+Power and Resource Sharing
+: Once docked, the spacecraft can transfer
+power, fuel, or crew
+to support joint operations.
+PYQ:
+[2018]
+“The experiment will employ a trio of spacecraft flying in formation in the shape of an equilateral triangle that has sides one million kilometres long, with lasers shining between the craft.” The experiment in question refers to-
+Options:
+(a) Voyager-2  (b) New Horizons (c) LISA Pathfinder (d) Evolved LISA
+**********Neurobiological basis of Substance Abuse Addiction
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Three-Stage Cycle of Addiction
+Why in the News?
+A groundbreaking study at the University of British Columbia, published in
+Nature Mental Health
+, reveals that
+addiction involves a complex neural circuit
+regulating cravings, emotions, and decision-making, shifting approaches to treatment and recovery.
+Key Findings of the Research:
+Addiction Alters a Network of Brain Regions:
+A multi-center study analyzing
+144 neuroimaging studies
+with
+9,000 participants
+confirmed that addiction
+does not affect isolated brain areas
+but rather disrupts a
+circuit responsible for craving, emotional regulation, and decision-making
+Brain’s Reward System is Hijacked:
+The
+nucleus accumbens
+releases
+dopamine
+, reinforcing pleasurable behaviors. Addictive substances
+exploit this mechanism
+, making substance use
+compulsive over time
+Withdrawal Causes Emotional Distress:
+extended amygdala
+triggers
+stress, anxiety, and irritability
+when substance use stops, driving continued consumption to
+avoid discomfort
+Decision-Making is Impaired:
+prefrontal cortex weakens
+, reducing
+impulse control and rational thinking
+, making quitting
+extremely difficult
+despite awareness of harm.
+Adolescents are More Vulnerable:
+Since the
+prefrontal cortex matures last
+, early substance exposure
+increases long-term addiction risk
+Neuroadaptations Persist Even After Abstinence:
+Brain changes caused by addiction
+do not immediately reverse
+, leading to
+relapse vulnerability
+even after long periods of sobriety.
+The Three-Stage Cycle of Addiction
+Binge/Intoxication Stage (Basal Ganglia – Reward Processing)
+Substance use
+triggers dopamine release
+Over time, the
+brain associates substance use with intense rewards
+, increasing
+dependence
+Users experience
+, leading to compulsive drug-seeking behavior.
+Withdrawal/Negative Affect Stage (Extended Amygdala – Emotional Distress)
+When substance use stops, individuals
+experience withdrawal symptoms
+like
+stress, anxiety, and depression
+The brain craves relief
+, pushing individuals toward
+continued substance use
+to avoid
+This stage
+makes quitting extremely difficult
+, reinforcing addiction.
+Preoccupation/Anticipation Stage (Prefrontal Cortex – Impulse Control & Cravings)
+, impairing
+decision-making and self-control
+dominate thoughts
+obsessive focus on substance use
+Despite knowing the
+negative consequences
+struggle to quit
+due to impaired
+cognitive function
+This cycle
+continuously repeats
+, making addiction
+a self-reinforcing loop
+PYQ:
+[2007]
+Which one of the following parts of the human brain is the regulating center for swallowing and vomiting?
+Options:
+(a) Cerebellum (b) Cerebrum (c) Medulla oblongata (d) Pons
+**********

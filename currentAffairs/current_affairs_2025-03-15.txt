@@ -1,0 +1,1571 @@
+LAWS GOVERNING IMPORT OF GOLD
+Syllabus:
+Prelims & Mains – CURRENT EVENT
+Context:
+A Special Court of Economic Offences in Bengaluru rejected the bail plea of Kannada actor Ranya Rao, who was arrested for allegedly smuggling over 14 kilograms of gold on a flight from Dubai to Bengaluru.
+Background: –
+Directorate of Revenue Intelligence (DRI) officials called it one of the biggest seizures of gold at Bengaluru airport in recent times.
+Key takeaways
+Until its repeal in 1990, the Gold (Control) Act, 1968, curbed gold imports and placed heavy restrictions on the acquisition, possession, and disposal of gold in India. However, with liberalisation in 1990s, the government modified its approach, imposing an import duty on gold.
+Now, gold imports are largely governed under the Customs Act, 1962, and by the Central Board of Indirect Taxes and Customs (CBIC).
+The customs duty for gold may differ depending on the amount of gold carried by a passenger and the duration spent abroad before traveling back to India, as per the Baggage Rules, 2016 (issued under the Customs Act).
+Under these rules, a man residing abroad for over a year may carry up to 20 grams of jewellery duty free (with a value cap of Rs 50,000) and a woman may similarly carry up to 40 grams (with a cap of Rs 1 lakh).
+The CBIC also has specific guidelines for Indian passengers returning from Dubai after residing there for over six months, allowing them to carry up to 1 kg of gold as long as the applicable customs duty is paid.
+In 2003, the Supreme Court held that any article imported without complying with the relevant conditions or restrictions must be considered a “prohibited good”. Such goods are liable to be confiscated under Section 111 and punished under Section 112 of the Customs Act.
+The punishment may include a fine of up to the value of the goods. Section 135 provides a punishment of up to 7 years imprisonment if the market price of the smuggled goods exceeds Rs. 1 lakh.
+Smuggling is also punishable under Section 111 (Organised Crime) of the Bharatiya Nyaya Sanhita, 2023, which punishes “trafficking in illicit goods” with imprisonment of at least five years, extendable to life imprisonment.
+The UAPA also carries the same punishment for smuggling as a “terrorist act” under Section 15 if it causes “damage to the monetary stability of India”.
+Source:
+Indian Express
+**********
+DIFFERENT TYPES OF BONDS
+Prelims & Mains – ECONOMY
+The Sovereign Green Bonds (SGrBs) in India has received a luke response. The two new SGrBs worth Rs 10,000 crore auctioned in November and January faced muted response as bonds valued at Rs 7,443 crore remained unsold. This came despite a rule change allowing NRIs and foreign portfolio investors to participate without restrictions.
+The government’s inability to raise adequate proceeds through bonds increases fiscal constraints.
+A bond is an instrument to borrow money. A bond could be floated/issued by a country’s government or by a company to raise funds.
+Since government bonds (referred to as G-secs in India, Treasury in the US, and Gilts in the UK) come with the sovereign’s guarantee, they are considered one of the safest investments. As a result, they also give the lowest returns on investment (or yield).
+The yield of a bond is the effective rate of return that it earns. But the rate of return is not fixed — it changes with the price of the bond.
+Sovereign green bonds (SGrBs) are those that are issued by sovereign entities, like the Government of India, which formulated a framework for issuing such bonds in 2022.
+The framework defines “green projects” as those that encourage energy efficiency in resource utilisation, reduce carbon emissions, promote climate resilience, and improve natural ecosystems.
+Masala Bonds
+Masala Bonds are rupee-denominated bonds i.e. the funds would be raised from the overseas market in Indian rupees.
+According to RBI, any corporate, body corporate, and Indian bank is eligible to issue rupee-denominated bonds overseas.
+Advantages of Masala Bonds :
+Lower Cost of Borrowing: Interest rates may be lower compared to domestic borrowing.
+Diversification of Funding Sources: Enables Indian companies to access global capital markets.
+Boosts Rupee Internationalization: Encourages wider acceptance of the Indian rupee in global finance.
+Foreign Investors Bear Currency Risk: If the rupee depreciates, investors receive fewer dollars upon conversion, making it riskier for them.
+Social Impact Bonds
+Social Impact Bonds (SIBs) are innovative financial instruments designed to fund social programs through a results-based approach.
+Unlike traditional bonds, SIBs do not provide fixed returns to investors. Instead, returns are linked to the achievement of predefined social outcomes (e.g., reducing unemployment, improving public health, or enhancing education).
+How SIBs Work?
+Government/Authority Identifies a Social Issue: A government or public sector entity defines a social problem that needs intervention.
+Investors Provide Upfront Capital: Private investors or philanthropic organizations fund the project.
+Service Providers Implement the Program: Non-profits or social enterprises execute interventions to achieve the desired impact.
+Independent Evaluation: Third-party assessors measure the project’s success based on pre-agreed metrics.
+Outcome-Based Repayment: If the project meets its goals, the government repays investors with a return. If the project fails, investors may lose part or all of their investment.
+Key Features
+Pay-for-Success Model: Government pays only if the intervention achieves measurable results.
+Risk Transfer: Shifts financial risk from the public sector to private investors.
+Encourages Innovation: Service providers have flexibility in implementing evidence-based solutions.
+Examples of Social Impact Bonds : India’s Educate Girls Development Impact Bond (2015): Focused on improving girls’ education in Rajasthan.
+**********
+CORONAL MASS EJECTIONS (CMES)
+Prelims & Mains – SCIENCE & TECHNOLOGY
+Scientists from the Indian Institute of Astrophysics (IIA) have reported observations of a flareless coronal mass ejection (CME) from the solar atmosphere with the Visible Emission Line Coronagraph (VELC) instrument onboard Aditya-L1 mission.
+The Aditya-L1 mission is India’s first scientific mission dedicated to studying the sun.
+Coronal Mass Ejections (CMEs) are massive bursts of solar plasma and magnetic fields ejected from the Sun’s corona into space. They are often associated with solar flares and can have significant effects on Earth’s magnetosphere.
+Causes of CMEs:
+Intense magnetic field activity in the Sun’s corona.
+Reconnection of magnetic field lines leading to explosive energy release.
+Increased solar activity, particularly during solar maximum (the peak of the Sun’s 11-year solar cycle).
+Impact of CMEs on Earth:
+Geomagnetic Storms: When CMEs interact with Earth’s magnetosphere, they can cause geomagnetic storms, leading to disturbances in satellite communications and GPS signals.
+Auroras: High-energy charged particles from CMEs interact with Earth’s atmosphere, creating bright auroras (Northern and Southern Lights).
+Disruptions in Power Grids & Communication: Intense CMEs can induce electric currents in power grids, potentially causing large-scale blackouts.
+Radio communications, especially HF (High Frequency) bands, can experience disruptions.
+Satellite Damage: CMEs can increase the radiation exposure of satellites, leading to malfunctions or permanent damage.
+Health Risks to Astronauts: Increased radiation exposure from CMEs poses health risks to astronauts in space.
+The Hindu
+**********
+UN80 INITIATIVE
+Prelims – CURRENT EVENT
+UN Secretary-General Antonio Guterres has announced the ‘UN80 Initiative’.
+While announcing the initiative, Mr. Guterres said that the world is facing challenges on every front. He also voiced concern over shrinking resources and liquidity crisis amid an environment of uncertainty and unpredictability.
+The UN80 Initiative is a comprehensive reform program launched by United Nations Secretary-General António Guterres as the organization approaches its 80th anniversary.
+This initiative aims to enhance the UN’s efficiency, effectiveness, and responsiveness to global challenges.
+Key Objectives of the UN80 Initiative:
+Identify Inefficiencies and Improvements: Rapidly pinpoint areas where the UN can optimize its operations to work more effectively.
+Review Implementation of Mandates: Thoroughly assess how mandates from member states are executed, especially given their significant increase in recent years.
+Strategic Structural Review: Conduct a comprehensive evaluation to implement deeper structural changes and realign programs within the UN System.
+Rationale Behind the Initiative:
+The UN faces multiple challenges, including escalating conflicts, persistent poverty, human rights violations, and the rapid advancement of unregulated technologies like artificial intelligence.
+The UN has been grappling with a liquidity crisis for at least the past seven years, primarily because not all member states pay their dues in full or on time.
+Leadership and Implementation:
+The UN80 Initiative will be spearheaded by Under-Secretary-General for Policy, Guy Ryder, leading a task force comprising top officials from across the UN system. The initiative encompasses all UN entities, including those based in Geneva, Nairobi, and Vienna.
+News On Air
+**********
+UN CONFERENCE ON TRADE AND DEVELOPMENT (UNCTAD)
+Global cooperation and balanced policies are critical to preventing economic fragmentation and safeguarding long-term growth amid growing trade uncertainty, the UN Conference on Trade and Development (UNCTAD) has said.
+Coming even as tariff wars look set to intensify in the face of proposed reciprocal tariffs by the U.S., the UNCTAD report said world trade saw record expansion to $33 trillion in 2024.
+Established: 1964
+Headquarters: Geneva, Switzerland
+Parent Organization: United Nations General Assembly (UNGA)
+India is a founding member and benefits from UNCTAD’s trade and investment research.
+Functions & Role
+Assists developing nations in integrating into the global economy.
+Provides policy advice, technical assistance, and research on trade and development issues.
+Publishes key reports like:
+Trade and Development Report
+World Investment Report
+Technology and Innovation Report
+Digital Economy Report
+Focuses on issues like trade policies, investment flows, economic inequality, digital economy, and debt sustainability.
+Key Initiatives
+Global System of Trade Preferences (GSTP): It is a preferential trade agreement, currently encompassing 42 members signed in 1988 with the aim of increasing trade between developing countries. It was negotiated within the framework of UNCTAD.
+eTrade for All Initiative: Supports digital trade in developing countries.
+Creative Economy Programme: Encourages cultural and creative industries.
+**********
+Daily Practice MCQs
+Q1.) With reference to Coronal Mass Ejections (CMEs), consider the following statements:
+CMEs are massive eruptions of plasma and magnetic fields from the Sun’s corona.
+CMEs travel at speeds up to 3,000 kilometers per second and can impact Earth’s magnetosphere.
+The Aditya-L1 mission has been designed specifically to study the Sun and its CMEs, with the Visible Emission Line Coronagraph (VELC) playing a key role.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2, and 3
+Q2.) Which of the following correctly describes the UN80 Initiative?
+(a) A United Nations effort to reform its internal structures and improve operational efficiency as it approaches its 80th anniversary.
+(b) A global economic cooperation framework aimed at strengthening trade among developing nations.
+(c) A UN Security Council initiative for peacekeeping and conflict resolution worldwide.
+(d) A new climate agreement focusing on carbon neutrality by 2080.
+Q3.) Consider the following statements regarding UNCTAD:
+UNCTAD is a permanent intergovernmental body of the United Nations established to promote international trade and economic development.
+It publishes the annual “World Economic Outlook” report.
+Its headquarters is located in Geneva, Switzerland.
+(a) 1 and 3 only
+(c) 1 and 2 only
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********SpaDeX Mission
+The Indian Space Research Organisation (ISRO) has successfully completed the undocking of two satellites, part of the Space Docking Experiment (SpaDeX) mission, marking a significant milestone in India's space exploration journey.
+About SpaDeX Mission:
+SpaDeX mission is a
+cost-effective technology demonstrator mission
+for the demonstration of in-space docking using two small spacecraft launched by
+PSLV
+primary objective of the SpaDeX
+mission is to develop and demonstrate the technology needed for rendezvous, docking, and undocking of two small spacecraft (
+SDX01
+, which is the Chaser, and
+SDX02
+, the Target, nominally) in a low-Earth circular orbit.
+The secondary objectives include:
+Demonstration of the transfer of electric power between the docked spacecraft, which is essential for future applications such as in-space robotics,
+Composite spacecraft control, and
+Payload operations after undocking.
+The SpaDeX mission consists of two small spacecraft (about 220 kg each) launched by PSLV-C60.
+Recent Developments:
+The SPADEX satellites were successfully docked recently. ISRO has now accomplished the pivotal operation of undocking of SPADEX satellites in the very first attempt on 13th March, 2025.
+The undocking of the satellites took place in
+460 km circular orbit with 45-degree inclination.
+The satellites are now orbiting independently and their health is normal.
+With this, ISRO has now successfully demonstrated all the capabilities required for rendezvous, docking and undocking operations in a circular orbit.
+Significance:
+This accomplishment made India the
+fourth country after USA, Russia and China
+in the world to achieve the feat.
+SpaDEx mission is expected to be a stepping stone for India’s future endeavours in space exploration which include getting rocks and soil from the moon on Earth, the proposed Bharatiya Antariksha Station and landing an astronaut on the lunar surface.
+What is ISRO?
+Founded in 1969, the Indian Space Research Organisation (ISRO) is the
+space agency of India
+, responsible for the planning and execution of space-related activities in the country.
+ISRO is one of the most prominent and successful space agencies in the world, known for its cost-effective and efficient space missions.
+ISRO operates under the
+Department of Space
+, which reports directly to the Prime Minister of India. The department primarily executes the Indian Space Programme through various ISRO Centres.
+Click to View More
+Source :
+“Isro successfully undocks Spadex satellites, paves way for Chandrayaan-4”
+Science & Tech
+**********Nagorno-Karabakh
+Armenia and Azerbaijan have agreed to a peace agreement set to end nearly four decades of conflict between over disputed Nagorno-Karabakh region.
+About Nagorno-Karabakh:
+Nagorno-Karabakh, referred to as
+Artsakh
+by Armenians, is a landlocked, mountainous region in the South Caucasus.
+The general region includes the northeastern flank of the
+Karabakh Range
+of the Lesser Caucasus and extends from the crest line of the range to the margin of the
+Kura Rive
+r lowland at its foot.
+Nagorno-Karabakh’s environments vary from
+steppe
+on the Kura lowland through
+dense forest
+of oak, hornbeam, and
+beech
+on the lower mountain slopes to birchwood and alpine meadows higher up.
+Following the
+Russian Empire's collapse
+in 1917, both Armenia and Azerbaijan asserted claims over this area, leading to enduring tensions.
+Internationally recognized as
+part of Azerbaijan
+, until recently much of it was governed by the unrecognised Nagorno-Karabakh Republic, also known as the Republic of Artsakh.
+Historically, the region's population was predominantly ethnic Armenian, and it operated a self-established government closely aligned with Armenia, though lacking official recognition from Armenia or other United Nations member states.
+Nagorno-Karabakh Conflict Timeline:
+The conflict has roots dating back well over a century into competition between Christian Armenian and Muslim Turkic and Persian influences.
+1920s:
+After World War I and the Bolshevik revolution, Soviet rulers created the Nagorno-Karabakh Autonomous Region within Azerbaijan, with an ethnic Armenian majority.
+1991:
+As the Soviet Union collapsed, Karabakh declared independence, and tensions between Armenians and Azerbaijanis led to full-scale war.
+1992-94:
+The First Karabakh War resulted in up to 30,000 deaths. Armenians took control of the region and occupied surrounding Azerbaijani land, creating a buffer zone.
+2017:
+A referendum in Karabakh changed the government to a fully presidential system and renamed the region from Nagorno-Karabakh Republic to Republic of Artsakh.
+2020:
+The Second Karabakh War saw Azerbaijan reclaiming territory around Karabakh, with 3,000 Azerbaijani and 4,000 Armenian soldiers killed in six weeks of fighting.
+2022:
+Clashes broke out between Armenian and Azerbaijani forces, with 100 Armenian and 70 Azerbaijani soldiers killed.
+2024:
+Nagorno-Karabakh was officially dissolved.
+Click to View More
+Source :
+“Armenia and Azerbaijan signal breakthrough in peace talks”
+International Relations
+**********Supersolid
+In an exciting scientific breakthrough, researchers have successfully turned light into a "supersolid" for the first time ever.
+About Supersolid:
+Supersolids are a strange state of matter defined by
+quantum mechanics
+where particles condense into an orderly, crystalline solid but also move like a liquid that has
+no viscosity
+Usually, solids don't move on their own, but supersolids change direction and density depending on particle interactions while maintaining an organized lattice structure.
+Why Are Supersolids So Cold?
+Supersolids require
+extremely low temperatures to form
+— usually very close to absolute zero (minus 459.67 degrees Fahrenheit, or minus 273.15 degrees Celsius).
+Most of the particles have to occupy the
+lowest energy state available
+, and heat makes particles jump up and down like excitable toddlers in a ball pit.
+If a material is cold enough, the temperature no longer obscures how the particles interact with each other. Instead, the tiny effects of quantum mechanics become the defining factors in how the material behaves.
+Significance of the Discovery:
+Supersolids have traditionally been observed in
+Bose-Einstein condensates (BECs)
+of ultracold atoms near absolute zero.
+However, this new development expands the scope by
+coupling light and matter
+, enabling researchers to study condensed-matter physics
+under extreme quantum conditions
+The discovery has profound implications for quantum computing, where supersolid-based systems could enhance
+qubit stability
+It also opens pathways for advancements in optical circuits, photonic devices, and fundamental physics research.
+Click to View More
+Source :
+“World's First 'Supersolid' Created From Light: A Groundbreaking Discovery”
+Science & Tech
+**********Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)
+The Delhi government is set to sign a Memorandum of Understanding (MoU) with the Ministry of Health and Family Welfare to implement the Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).
+About PM-ABHIM:
+It is a
+Centrally Sponsored Scheme (CSS)
+with certain Central Sector Components which has total outlay of Rs. 64,180 Crores for the scheme period (2021-22 to 2025-26).
+The scheme envisages a new generation of reforms
+to integrate and strengthen health service delivery and public health action
+The measures under the scheme are aimed at strengthening health systems and institutions in order to provide
+a continuum of care at all levels, namely primary, secondary, and tertiary
+, as well as preparing health systems to respond effectively to current and future pandemics and disasters.
+The following are the components under CS Component of the scheme:
+Construction of 17,788 Building less Sub-Centres as Ayushman Bharat- Health & Wellness centres, now known as Ayushman Arogya Mandir (AAM).
+Establishment of 11,024 Health & Wellness Centres, now AAM in Urban areas with a focus on slum and slum-like areas.
+Establishment of 3382 Block Public Health Units (BPHUs) at the block level.
+Establishment of 730 District Integrated Public Health Labs (IPHL) in the country, wherein each district will have one such lab.
+Establishing 602 Critical Care Hospital Blocks (CCBs) in all districts with a population of more than 5 lakhs.
+The CSS components of PM-ABHIM are implemented by following the existing framework, institutions and mechanisms of the National Health Mission.
+Public Health and Hospital are State subjects
+, implementation of the scheme lies under the purview of State Government. However, MoHFW provides technical and financial support to the States/Union Territories (UTs) for effective implementation of the scheme.
+The scheme is
+implemented by the State government
+and awareness generation activities including IEC for the scheme is periodically conducted by the State health department along with other public health programs under the National Health Mission.
+Click to View More
+Source :
+“PM-ABHIM: Delhi to ink pact with Centre next week to implement healthcare project”
+Polity & Governance
+**********United Nations Conference on Trade and Development (UNCTAD)
+UNCTAD warns of economic fragmentation, and stresses global cooperation to prevent trade disruption and ensure long-term growth.
+About UNCTAD:
+Headquartered in Geneva, Switzerland, UNCTAD is a permanent intergovernmental body established by the
+United Nations General Assembly
+in 1964.
+It supports developing countries
+to access the benefits of a globalized economy more fairly and effectively
+It provides economic and trade analysis, facilitates consensus-building and offers technical assistance to help developing countries use trade, investment, finance and technology for inclusive and sustainable development.
+It is part of the
+UN Secretariat
+. It reports to the UN General Assembly and the Economic and Social Council but has its own membership, leadership, and budget. It is also part of the
+United Nations Development Group
+Key Developments:
+The first United Nations Conference on Trade and Development (UNCTAD) was held in
+Geneva in 1964
+In 1989, the Agreement on the
+Global System of Trade Preferences among Developing Countries (GSTP)
+came into force. It provided for the granting of tariff as well as non-tariff preferences among its members. To date, the Agreement has been ratified by 44 countries.
+The conclusion of the
+Uruguay Round of trade negotiations under the GATT
+resulted in the establishment of the World Trade Organization in 1995, which led to a strengthening of the legal framework governing international trade.
+It highlighted the need for a differentiated approach to the problems of developing countries. Its tenth conference, held in Bangkok in February 2000, adopted a political declaration – "
+The Spirit of Bangko
+k" – as a strategy to address the development agenda in a globalizing world.
+Reports published by UNCTAD:
+Trade and Development Report
+World Investment Report
+The Least Developed Countries Report
+Click to View More
+Source :
+“Actions taken now by govts, businesses to shape trade resilience for years: UNCTAD”
+Economy
+**********Pilibhit Tiger Reserve
+Pilibhit Tiger Reserve (PTR) is set to become a new sanctuary for rhinos from Nepal, as efforts to establish a permanent habitat for the visiting pachyderms gain momentum.
+About Pilibhit Tiger Reserve:
+It is situated in the Pilibhit district of
+Uttar Pradesh
+, forming part of the
+Terai Arc Landscape,
+upper Gangetic Plain Biogeographic Province
+It lies along the
+India-Nepal border
+foothills of the Himalayas.
+The
+river Gomati originates
+from the PTR, which is also the catchment of several others like
+Sharda, Chuka, and Mala Khannot.
+The habitat is characterized by
+sal forests,
+all grasslands, and swamps,
+maintained by
+periodic flooding from rivers.
+Sharda Sagar Dam
+extending up to a length of 22 km. is on the boundary of the reserve.
+It has a
+dry and hot climate,
+which brings a combination of
+dry teak forest and Vindhya Mountain soils.
+Vegetation: North Indian moist deciduous type.
+Flora:
+sal woodland
+is very dense with good natural regeneration, amounting to almost 76% of the reserve area.
+The forest patches are
+interspersed with grass meadows
+with several species like Sacchrum, Sclerostachya, Imperata, Themeda, Bothriochloa, Vetiveria, Apluda, Dichanthium, Digitaria, and Cyperus.
+Fauna:
+It is home to a myriad of wild animals, including the
+tiger, swamp deer, Bengal florican, hog deer, leopard, e
+The rich bird life in Pilibhit includes species like
+Swamp Francolin, Great Hornbill,
+Bengal Florican, Lesser Florican, Black Francolin, Jungle Bush Quail, Red Junglefowl, Asian Openbill, etc.
+Click to View More
+Source :
+Nepal’s rhinos may soon call PTR home
+Environment
+**********Brahmani River
+Eight years after construction began, the bridge over the Brahmani river near Brahmabarada remains unfinished, causing inconvenience to residents of over 20 villages under five gram panchayats in Rasulpur and Jajpur blocks.
+About Brahmani River:
+It is one of the major rivers in eastern India,
+primarily flowing through
+The river is
+known as Dhamra
+in its lower reaches.
+Course
+formed by
+the confluence of the
+Sankh and South Koel rivers
+near the major industrial town of
+Rourkela in Odisha.
+Both the sources
+of the Brahmani River are on the
+Chota Nagpur Plateau.
+The Sankh River has its origins near the Jharkhand-Chhattisgarh border, along with the South Koel River, which also rises in Jharkhand.
+basin flows through Jharkhand, Chhattisgarh, and Odisha
+, draining a total area of 39,033
+sq.km
+. before it outfalls into the Bay of Bengal.
+Together with
+the rivers
+Mahanadi and Baitarani
+, it
+forms a large delta before emptying into the Bay of Bengal
+at Palmyras Point, Odisha.
+Brahmani delta
+is the site of the
+Bhitarkanika Wildlife Sanctuary
+, famous for its
+estuarine crocodiles.
+Length
+: The total length of its run is about
+799 km
+, of which 541 km are in Odisha itself.
+It is one of the few rivers that
+cut across the Eastern Ghats
+and has formed a minor gorge at Rengali in Odisha, where a dam has been built.
+Tributaries
+: The principal tributaries of this river are
+Sankh, Tikra, and Karo.
+Click to View More
+Source :
+Eight years on, bridge over Brahmani river remains incomplete in Jajpur
+Geography
+**********Automated Permanent Academic Account Registry (APAAR) ID
+Parents and activists worry that the Ministry of Education’s Automated Permanent Academic Account Registry (APAAR) ID for school students could become near impossible to opt out from, even though the programme is supposed to be voluntary.
+About APAAR ID:
+It is a specialized
+identification system
+designed
+for all students in India.
+This initiative is part of the
+'One Nation, One Student ID' program
+launched by the Union government, aligning with the new
+National Education Policy of 2020.
+The APAAR ID serves as a
+lifelong academic passport,
+consolidating all achievements and credentials of a student in one place.
+APAAR assigns a
+unique and permanent 12-digit ID
+to every student, offering a
+comprehensive record of their academic achievements,
+including degrees, scholarships, awards, and other credits.
+This identifier
+remains with the student throughout their educational career
+, fostering a seamless transition from one level of education to another.
+How APAAR Works:
+Schools
+: Record and
+manage students' academic data
+, achievements, and activities in APAAR.
+Higher Education Institutions (HEIs) and Skill Institutes
+Access students' academic history
+and records for admission and recruitment purposes.
+Students
+: Digitally
+store and retrieve
+comprehensive academic
+, achievements, and co-curricular accomplishments.
+Benefits to Students:
+Unified Academic Identity:
+A single platform to consolidate and showcase academic records.
+Streamlining Student Records:
+Simplifying record-keeping for students, parents, and educators.
+Digital Repository: S
+ecurely storing academic data and achievements.
+Seamless Academic Mobility:
+Facilitating smooth transitions between educational levels.
+Data Security and Confidentiality:
+APAAR prioritizes data security and confidentiality,
+sharing information only with
+necessary government agencies
+for privacy and security.
+Consent-based document sharing
+ensures that students have control over the information shared through APAAR.
+Academic Progress Tracking:
+Students can effortlessly monitor their academic journey, enabling personalized study plans and
+real-time performance analytics.
+The system aids in skill gap analysis and provides industry-relevant content for up skilling programs.
+Enrolment process:
+The enrollment process will be
+carried out by the school with
+consent of their parents,
+who will also be able to withdraw their consent at any given point of time.
+The government assured that the data will be shared only with concerned government agencies if and when required.
+collected on each student by the schools will be
+stored in centrally functioning District Information for Education portal.
+Click to View More
+Source :
+APAAR ID for school students voluntary, but parents, activists worry about growing mandates
+Polity & Governance
+**********Mission Amrit Sarovar
+The Indian Railways will dig ponds as part of the Union government’s Mission Amrit Sarovar that aims to address the critical issue of water scarcity in the country.
+About Mission Amrit Sarovar:
+It was launched in 2022 to
+construct or
+rejuvenate 75 Amrit Sarovars (ponds) in each district
+, totaling 50,000 across the country.
+It helps to
+overcome the water crisis in rural areas
+of the country.
+Every Amrit Sarovar
+will have a
+pondage area of at least 1 acre
+with a water holding capacity of about 10,000 cubic metre.
+site of Amrit Sarovars will be approved by special Gram Sabh
+a, which will also name
+Panchayat Partinidhi
+, who will on its behalf supervise the development of Amrit Sarovar.
+It focuses on water conservation, people’s participation, and proper
+utilization of soil excavated
+from the water bodies to boost infrastructure projects.
+It is based on the “
+Whole of Government” approach
+with the participation from the Ministry of Rural Development, Ministry of Jal Shakti, Ministry of Culture, Ministry of Panchayati Raj, Ministry of Environment, Forest & Climate Change, and technical organizations.
+There is
+no separate financial allocation
+for Mission Amrit Sarovar.
+Bhaskar Acharya National Institute for Space Application and Geo-informatics (BISAG-N)
+has been engaged as a
+technical partner
+for the Mission.
+Amrit Sarovar Portal and Mobile App
+developed by BISAG-N is used for tracking the progress/ performance of Mission Amrit Sarovar in districts.
+Click to View More
+Source :
+Railways to dig ponds under Mission Amrit Sarovar to fight water scarcity
+Polity & Governance
+**********Ashwini Radar
+The Union Ministry of Defence (MoD) recently signed a ₹2,906 crore contract with Bharat Electronics Limited (BEL), Ghaziabad for the procurement of Low-level Transportable Radar, LLTR (Ashwini).
+About Ashwini Radar:
+LLTR (Ashwini) is active
+electronically scanned phased array radar
+based on state-of-the-art
+solid-state technology.
+It is capable of
+tracking aerial targets
+from high-speed fighter aircraft to slow-moving targets such as Unmanned Aerial Vehicles and helicopters.
+The fully indigenous Ashwini radars have been jointly developed by the
+Defence Research and Development Organisation (DRDO) and BEL.
+These radars feature i
+ntegrated Identification Friend or Foe (IFF) system
+s with electronic scanning in azimuth and elevation, enabling 4D surveillance.
+Designed for mobility, the radars come with advanced
+Electronic Counter-Countermeasures (ECCM)
+capabilities and can operate across various terrains.
+Click to View More
+Source :
+Ministry of Defence signs ₹2,906 crore radar contract with BEL for the Indian Air Force
+Science & Tech
+**********ISRO Successfully Undocks SpaDeX Satellites, Strengthening India’s Space Capabilities
+Why in the News?
+Nearly two months after the Indian Space Research Organisation (ISRO) successfully demonstrated its docking capability, it disengaged and undocked two satellites.
+What’s in Today’s Article?
+SpaDeX Mission (Introduction, Key Features, Significance, Road Ahead, etc.)
+Introduction:
+ISRO successfully undocked the
+SpaDeX (Space Docking Experiment)
+satellites SDX01 (Chaser) and SDX02 (Target) after nearly two months of testing their docking capabilities.
+The manoeuvre marks India’s significant progress in autonomous docking and undocking technology.
+This accomplishment positions India as the fourth country after the United States, Russia, and China to develop this advanced space docking capability.
+The achievement is critical for future ISRO missions, including human spaceflight, lunar exploration, and the construction of India’s planned space station.
+About the SpaDeX Mission:
+SpaDeX is an ambitious ISRO mission designed to test India's ability to autonomously dock and undock satellites in orbit. The experiment involved:
+Docking:
+Two 220-kg satellites, SDX01 and SDX02, were maneuvered into the same orbit and progressively brought closer until they were joined on January 16, 2025.
+Power Sharing:
+The mission demonstrated power-sharing capabilities, where both satellites operated as a single composite unit.
+Undocking:
+On March 14, the capture levers were released, and the satellites were commanded to separate, successfully completing the undocking operation.
+ISRO officials took their time before executing the undocking manoeuvre to ensure every step was thoroughly analysed, as this was the agency’s first attempt at such a mission.
+Significance of this Capability:
+Chandrayaan-4 and Lunar Sample Return Missions
+ISRO plans to launch
+, a mission aimed at bringing back lunar surface samples. This will require two critical docking operations:
+In Lunar Orbit:
+The ascender module carrying Moon samples will dock with a transfer module.
+In Earth Orbit:
+The transfer module will dock with a re-entry module, which will carry the samples back to Earth.
+The Bharatiya Antariksha Station (India’s Own Space Station)
+India is working on launching its own space station, the
+, by 2035.
+This will consist of five separate modules that must be docked together in space to form the complete station.
+Human Spaceflight and Resupply Missions
+In future human spaceflight missions, docking and undocking will be crucial for sending astronauts to space stations and facilitating cargo transport, similar to how the International Space Station (ISS) functions.
+ISRO’s Indigenous Docking System: A Major Innovation
+One of the highlights of the SpaDeX mission is the development of
+Bharatiya Docking System
+, which is:
+Inspired by International Standards
+: Similar to the International Docking System Standard used by spacecraft docking with the ISS.
+Designed with Simplicity
+: While the ISS docking system has 24 motors, ISRO’s system operates efficiently with just two motors.
+Androgynous Design
+: Both the Chaser and Target satellites have identical docking systems, making the process seamless.
+This indigenous innovation strengthens India’s self-reliance in space technologies and paves the way for future deep-space missions.
+The Road Ahead: Further Refinements and More Experiments
+ISRO officials stated that they might conduct further docking and undocking experiments to refine the system’s accuracy.
+Exhaustive ground simulations and analysis
+were key to achieving this milestone in the first attempt itself.
+The organization is now focused on integrating docking systems into upcoming missions, including the
+Gaganyaan human spaceflight program
+future lunar missions
+satellite servicing projects
+Conclusion:
+The successful undocking of the SpaDeX satellites is a major milestone for ISRO, showcasing its growing expertise in space docking technology.  This capability is essential for future lunar exploration, space station assembly, and human spaceflight missions.
+As ISRO continues its research and experimentation, SpaDeX lays the groundwork for a future where India can independently conduct complex space missions, marking a giant leap toward self-sufficiency in space exploration.
+Isro undocks SpaDeX satellites 2 months after docking them in space.pdf
+( Size:  705.7 KB  )
+Click to View More
+Science & Tech
+**********A School Closure That Must be Called Out
+Context
+The
+decision to close the only Gondi-medium school in a village
+in Maharashtra raises crucial questions about the preservation of linguistic and cultural rights
+, the power dynamics embedded in education policies, and the broader socio-political neglect of Adivasi communities.
+While the
+official justification for the closure is based on procedural concerns,
+a deeper analysis reveals a historical and systemic bias against tribal languages and cultures.
+Therefore,
+it is important to critically examine the implications of the closure within constitutional,
+socio-political, and cultural contexts.
+The Constitutional and Legal Framework
+establishment of the Gondi-medium school in Mohgaon village
+was a
+progressive step towards ensuring that tribal students receive primary education
+in their mother tongue.
+initiative aligned with Article 29 of the Indian Constitution
+, which guarantees minorities the right to preserve their distinct languages, scripts, and cultures.
+Additionally,
+Article 350(a) mandates the state to make provisions for children from linguistic minorities
+to receive education in their mother tongue.
+These
+constitutional safeguards acknowledge the importance of linguistic diversity
+in India’s pluralistic democracy.
+However,
+the closure of the school has been justified on the grounds
+that it is not registered under the
+Right to Education (RTE) Act, 2009.
+administration argues that non-recognition could lead to challenges in monitoring educational standards
+and might jeopardize students' future academic prospects.
+While these procedural concerns are valid,
+they should not override the constitutional commitment to minority linguistic rights.
+government's refusal to formally recognise the school suggests a deeper issue of power
+and systemic bias rather than a mere legal technicality.
+The Politics of Recognition and Subordination
+non-recognition of the school reflects a broader structural and socio-political subordination
+state’s normative bias against tribal languages and cultures is evident in its refusal
+to acknowledge Gondi as a medium of education.
+This
+bureaucratic resistance must be understood in the context of historical oppression
+and marginalisation of Adivasi communities.
+Jawaharlal Nehru believed that tribal communities should be allowed to develop according to their own traditions
+and knowledge systems.
+This vision was
+shaped by the historical reality
+that colonial policies had devastated many indigenous communities worldwide.
+In response,
+the Indian Constitution incorporated special provisions to protect tribal rights
+, including land ownership, cultural preservation, and linguistic diversity.
+despite these constitutional safeguards, tribal communities continue to face systemic marginalisation
+, particularly in education and language policies.
+The Issue of Forces of Absorption and Linguistic Suppression
+Since Independence
+, Adivasi communities have been subjected to forces of absorption
+, both secular and religious, that have eroded their cultural identities.
+secular forces of absorption operate through the state and market mechanisms
+, while religious forces work through the denigration and erasure of tribal belief systems.
+closure of the Gondi-medium school represents a form of state-led absorption
+, where the lack of official recognition undermines the legitimacy of tribal education systems.
+One of the most striking examples of this linguistic neglect is the
+exclusion of major tribal languages like Gondi and Bhili from the Eighth Schedule
+of the Constitution, which recognizes 22 languages.
+According to the 2011 Census,
+Gondi is spoken by over 2.9 million people across six states,
+yet it remains unrecognised at the national level.
+In contrast, Sanskrit, spoken by fewer than 25,000 people, enjoys state recognition
+and institutional support.
+disparity highlights the socio-political power imbalance in language recognition,
+where dominant cultural groups shape policies to their advantage, while marginalised communities struggle for basic linguistic rights.
+The Urgency of Preserving Adivasi Languages
+The Oral Nature of Adivasi Languages and the Threat of Extinction
+Unlike many dominant languages that have a well-established written tradition,
+Adivasi languages primarily exist in oral form.
+Their knowledge systems, folk tales
+, myths, songs, religious practices, and historical narratives,
+are passed down verbally from generation to generation.
+oral tradition makes Adivasi languages highly vulnerable to extinction
+, as they rely on active usage rather than written records for survival.
+As younger generations shift to dominant regional or national languages due to educational and economic pressures,
+there is a risk that traditional knowledge embedded in Adivasi languages will be lost forever.
+Once a language disappears,
+an entire worldview, along with its unique ways of understanding nature,
+medicine, governance, and spirituality, vanishes with it.
+This loss is irreversible, making the need for preservation urgent.
+The Impact of Modernisation and Globalisation
+forces of modernisation, urbanisation, and market-driven economies
+have significantly
+accelerated the decline of Adivasi languages.
+As tribal communities integrate into mainstream society,
+the pressure to adopt dominant languages such as Hindi, Marathi, or English increases.
+Schools, government institutions, and employment sectors predominantly operate in these languages, making fluency in them a necessity for economic survival.
+This linguistic shift creates a generational divide
+where younger members of the community lose proficiency in their native tongue, while elders remain its last custodians.
+Over time,
+as the elder speakers pass away, the language is pushed to the brink of extinction.
+Without active efforts to promote and teach Adivasi languages within formal education and daily life, they will continue to fade, erasing an integral part of India’s cultural diversity.
+Exclusion from Institutional Recognition and Support
+The neglect of Adivasi languages is institutionalised in India’s language policies.
+Constitution recognises 22 languages in the Eighth Schedule,
+major tribal languages like Gondi and Bhili are absent.
+This exclusion has following consequences:
+Lack of Educational Support
+Schools do not offer instruction in Adivasi languages
+, forcing tribal children to study in unfamiliar languages.
+creates a learning barrier,
+leading to poor academic performance and high dropout rates.
+Limited Literary and Media Presence
+Without official recognition
+, there is little incentive to develop books, newspapers, digital content, or broadcasts in Adivasi languages
+, restricting their reach and development.
+Government Apathy in Language Preservation
+absence of state support means there are no significant efforts to document, standardise, or promote these languages,
+leaving their survival entirely dependent on community efforts.
+failure to acknowledge and promote Adivasi languages reflects deeper inequalities
+Conclusion
+The preservation of Adivasi languages is
+a race against time; each passing generation witnesses a decline in the number of fluent speakers
+, and with them, invaluable cultural knowledge disappears.
+The state’s failure to recognise and promote these languages reflects broader issues of neglect
+and marginalization.
+However, w
+ith proactive measures, ranging from constitutional recognition to community-driven initiatives,
+it is possible to reverse this trend.
+Recognising and promoting these languages would not only uphold constitutional values
+but also ensure that India remains a truly pluralistic society that respects and nurtures all its cultures.
+Click to View More
+Editorial Analysis
+**********The Gender Budget, Bigger Allocations, Little Impact
+Context
+Union Budget 2025-26 has been widely acknowledged for its increased allocation towards women-centric schemes
+, with the gender budget rising to ₹4.49 lakh crore, a significant 37.25% increase from the previous fiscal year.
+However,
+despite the substantial rise in allocations, the benefits have not been equally distributed,
+particularly among marginalized women from Scheduled Caste (SC) and Scheduled Tribe (ST) communities.
+Therefore, there is the need to
+critically evaluate the gender budget’s effectiveness, highlighting its key shortcomings,
+structural barriers, and potential solutions to improve its impact.
+Primary Concern Surrounding the Gender Budget: Rising Allocations, Limited Outcomes
+Over the years,
+the gender budget has grown consistently
+, reflecting the government’s intent to bridge gender disparities.
+economic benefits have not reached women in proportion to these allocations,
+especially among marginalised groups.
+government has introduced targeted schemes such as the PM Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN) and the Dharti Aba Janjatiya Gram Utkarsh Abhiyan
+, yet their actual impact remains limited.
+These schemes have struggled to
+address the deep-rooted socio-economic disadvantages
+faced by SC/ST women.
+One major issue is the lack of an intersectional approach in gender budgeting.
+Despite India having a
+for two decades, it has
+failed to incorporate learnings from previous budgets
+or consider factors such as caste, class, and tribal identity.
+Without addressing these intersections, welfare programs remain ineffective in transforming the lives of marginalized women.
+Structural Barriers and Implementation Challenges
+Digital Exclusion
+Several structural barriers hinder the
+effective implementation
+of gender-focused schemes. One such challenge is digital exclusion.
+While digitisation aims to eliminate intermediaries,
+many women, particularly in rural and tribal areas, lack digital literacy
+, preventing them from accessing welfare benefits independently.
+Without investment in digital literacy programs,
+the government's push for digitized welfare delivery may inadvertently create new barriers
+rather than eliminating old ones.
+Outdated Census Data
+Another significant challenge is the
+outdated Census data.
+last Census in India was conducted in 2011, meaning current policy decisions are based on data
+that is over a decade old.
+This
+gap in updated statistics weakens accountability mechanisms
+and makes it difficult to assess whether funds are reaching those who need them most.
+For instance,
+the Ministry of Tribal Affairs saw a 45.79% budget increase, yet there is no gender-disaggregated data
+available to evaluate how these funds benefit SC/ST women specifically.
+Bureaucratic Inefficiencies
+Bureaucratic inefficiencies further limit the effectiveness of gender-focused allocations.
+The ‘
+Dalit Adivasi Budget Analysis 2023-24’ report
+found that over 35% of funds allocated under the SC and ST Sub-Plans remain underutilised due to complex procedures, lack of community involvement, and poor outreach.
+Many women struggle to navigate financial and bureaucratic jargon,
+making it harder for them to benefit from government initiatives.
+Key Areas for Reform
+Adopting an Intersectional Approach
+Gender budgets
+must be designed with an understanding of how caste, class, and tribal identities influence
+access to resources.
+comprehensive audit should be conducted at both central and state levels
+to ensure budget allocations address these factors effectively.
+Strengthening Local Governance and Panchayati Raj Institutions
+Panchayati Raj institutions
+play a crucial role in delivering services at the grassroots level,
+yet they often lack autonomy and resources.
+Strengthening these institutions, providing adequate funding
+, and preventing the dominance of ‘sarpanch husbands’ (male relatives of elected female leaders who control decision-making) are necessary steps for ensuring that schemes benefit women directly.
+Community-Led Participatory Planning
+Involving women,
+particularly those from SC/ST backgrounds, in the planning and monitoring of welfare schemes can improve their effectiveness.
+Kudumbashree model
+Kerala demonstrates how community-led initiatives can enhance outreach and implementation.
+Similar models should be adopted nationwide.
+Improving Data Collection and Transparency
+The government must
+ensure regular updates to gender-disaggregated data
+to track the actual impact of policies.
+Establishing a
+gender budget tracking
+portal could enhance public accountability and provide real-time insights into fund utilisation.
+Investing in Digital Literacy
+Given the government's reliance on digitisation,
+investment in digital literacy programs is crucial to enable women,
+particularly in rural and marginalized communities, to access welfare benefits independently.
+Conclusion
+While the increased allocation in the Union Budget 2025-26 signals a step in the right direction,
+real progress depends on effective implementation.
+Addressing structural barriers
+such as digital exclusion, bureaucratic inefficiencies
+, and outdated data is crucial.
+More importantly
+, policies must move beyond token allocations to ensure that marginalized women, particularly those from SC/ST communities
+, receive tangible benefits.
+By adopting an intersectional approach
+, strengthening local governance, and improving accountability mechanisms,
+the gender budget can become a transformative tool for women's empowerment
+rather than a symbolic gesture.
+Click to View More
+Editorial Analysis
+**********National Wildlife Board - History, Role, Impact of the Body
+Why in news?
+PM Modi chaired his first-ever National Board for Wildlife (NBWL) meeting on March 3, World Wildlife Day, at Gir National Park.
+The board reviewed key wildlife conservation programs and announced new initiatives for gharials and the Great Indian Bustard, along with expanding Project Cheetah and Project Lion.
+This was the first full-body NBWL meeting since September, 2012, when it was chaired by then-PM Manmohan Singh.
+What’s in today’s article?
+History of the National Board for Wildlife (NBWL)
+National Board for Wildlife (NBWL) – Overview
+Criticism of the National Board for Wildlife (NBWL)
+Origins: Indian Board for Wildlife (IBWL)
+Established in March 1952 as the Central Board for Wildlife, renamed IBWL during its first meeting in November 1952 at Lalitha Mahal Palace, Mysore.
+Formed to address the decline in wildlife populations.
+First Chairman: Maharaja Sri Jayachamaraja Wadiyar of Mysore.
+Early Contributions of IBWL
+Divided into
+four committees
+National Parks
+Trophies and Trading
+Union and State Legislation
+Administrative Matters
+Key Decisions:
+1961:
+Declared the peacock as the national bird.
+1972:
+Played a role in passing the Wild Life Protection Act (WLPA), providing a legal framework for wildlife conservation.
+1973:
+Paved the way for Project Tiger.
+1982
+: Established Keoladeo National Park in Rajasthan.
+1983
+: Adoption of the National Wildlife Action Plan.
+Transition to NBWL
+In 2003, IBWL was restructured as NBWL through an amendment to The Wild Life Protection Act, 1972, giving it more regulatory authority.
+It functions as the apex body for wildlife policy, conservation, and recommending new national parks and sanctuaries.
+Composition
+Chairperson:
+Prime Minister of India.
+Vice-Chairperson:
+Union Environment Minister.
+Members (47 total):
+Chief of the Army Staff.
+Secretaries from key ministries (Defence, Tribal Affairs, Information & Broadcasting, Finance).
+Three Lok Sabha MPs and one Rajya Sabha MP.
+Director General of Forests.
+Ten eminent conservationists, ecologists, and environmentalists.
+Five representatives from the non-governmental sector.
+Functions and Responsibilities
+Frames wildlife conservation policies.
+Reviews and recommends setting up new protected areas.
+Evaluates projects affecting forests and wildlife.
+Standing Committee
+Delegated key tasks such as assessing projects on forest land in and around protected areas.
+Its recommendations are advisory, and the Environment Ministry can overrule them.
+Over the past decade, the NBWL has cleared several development projects in and around wildlife habitats, leading to controversy and protests from ecologists.
+Key controversial approvals
+Ken-Betwa River Linking Project
+– Daudhan Dam to submerge nearly 100 sq km of Panna National Park & Tiger Reserve.
+Vedanta Oil Exploration
+– Approved in the eco-sensitive zone of Hollongapar Gibbon Sanctuary, home to the endangered Hoolock Gibbon.
+Denotification of Galathea Bay Sanctuary (2021)
+– A vital nesting site for leatherback sea turtles in the Andaman and Nicobar Islands.
+Concerns Over Dilution of Powers
+2014 Reconstitution:
+Allegations of weakening the board’s independence.
+Only three non-governmental members appointed (compared to seven in the UPA era).
+One appointee was from the Gujarat government-linked Gujarat Ecological Education and Research Foundation (GEER).
+Standing Committee Composition Issues:
+Held 50 meetings since 2014 without the required number of conservation experts and non-governmental members.
+National Wildlife Board - History, Role, Impact of the Body.pdf
+( Size:  776.6 KB  )
+Click to View More
+Environment & Ecology
+**********How US Farm Subsidies Impact Washington-Delhi Trade Negotiations
+Why in news?
+In 2023, the US had only 1.82 million family farms, far fewer than India’s 93.09 million agricultural households (2019 data). Despite their smaller numbers, US farmers, with a median household income of $97,984 (higher than the national median), receive substantial government support.
+This is a key issue in US-India trade negotiations, as Washington pushes for greater market access for American agricultural products, arguing that India’s farm sector must open up.
+What’s in today’s article?
+Form of Assistance in the US
+Magnitude of Assistance
+Lessons for India
+Unlike India, the US does not subsidize farm inputs like fertilizer, electricity, or water, nor does it intervene through large-scale procurement and stocking.
+Instead, government support is primarily provided through direct payments to farmers.
+Key Financial Assistance Programs
+Price Loss Coverage (PLC)
+Farmers receive payments when the market price of a covered crop falls below the
+Effective Reference Price (ERP)
+, similar to India’s Minimum Support Price (MSP).
+Unlike India’s MSP, which requires government procurement, US farmers are compensated directly for the price difference.
+Agriculture Risk Coverage (ARC)
+This provides financial assistance when actual revenue from a crop falls below a guaranteed level based on county-specific yields and a five-year price average.
+Dairy Margin Coverage (DMC)
+This program offers financial aid when the margin between farmgate milk prices and feed costs drops below a set threshold, ensuring stable farmer incomes.
+These mechanisms help US farmers manage price fluctuations and revenue shortfalls, providing a more predictable income without direct market interventions.
+The US farm sector receives substantial direct payments from the government, ranging from
+$9.3 billion to $45.6 billion
+in recent years.
+These payments help farmers manage risks and income fluctuations.
+Key Financial Assistance Figures
+Peak Assistance in 2020
+– Farmers received
+billion, including
+$31.4
+billion in pandemic and disaster relief, making up
+38% of their net cash income
+Projected Payments for 2025
+– Estimated at $42.4 billion, largely driven by disaster assistance under the American Relief Act of 2025.
+Total Aid (2019-2023)
+– The US Government Accountability Office reported that
+$161 billion
+was disbursed through 27 programs, with major allocations:
+Crop insurance: $53.6 billion
+COVID-19 aid: $30.9 billion
+Trade relief: $22.6 billion
+PLC/ARC/DMC payments: $16.8 billion
+Environmental conservation: $16.2 billion
+India provides substantial support to its farmers through multiple subsidy programs, but the distribution and impact differ significantly from the US model.
+Scale of Agricultural Support
+Total Annual Assistance – Estimated at ₹5 lakh crore ($57.5 billion), covering:
+PM-Kisan: ₹63,500 crore (₹6,000 per farmer annually)
+Fertilizer subsidy: ₹1,71,300 crore
+Crop loan subsidy: ₹22,600 crore
+Crop insurance subsidy: ₹15,864 crore
+MSP procurement and state-level subsidies
+Comparison with US Assistance
+India’s support is spread across
+111 million farmers
+, while the US aids just
+1.04 million
+Average annual federal payment:
+India (PM-Kisan):
+₹6,000 ($69) per farmer
+US:
+₹26.8 lakh ($30,782) per producer
+Unequal Competition in Trade Negotiations
+US farmers, despite fewer in number, receive far greater direct financial assistance.
+Opening India’s agricultural market to US produce could lead to unfair competition due to the disparity in government support.
+World Trade Organization (WTO) rules allow “special and differential treatment” for developing nations, ensuring they are not forced into reciprocal trade concessions.
+Key Question for US-India Trade Talks
+Whether the US will respect this WTO principle of non-reciprocity—allowing India to safeguard its farmers without equivalent market access for American produce—remains uncertain.
+How US Farm Subsidies Impact Washington-Delhi Trade Negotiations.pdf
+( Size:  1.0 MB  )
+Click to View More
+Polity & Governance
+**********Challenges and Complexities of Federalism in India
+Context:
+Federalism in India is facing
+multiple challenges,
+both minor and major, which require careful political negotiation.
+Issues such as delimitation, state representation, language disputes, and financial allocations have sparked
+tensions between the Centre and states
+Additionally,
+structural issues
+like power distribution, administrative imbalances, and political dominance are impacting the
+federal structure
+Key Challenges in Indian Federalism:
+Regional representation and delimitation:
+The issue of delimitation and balancing representation between North and South India remains a contentious topic.
+Jammu and Kashmir
+still awaits the restoration of full statehood.
+Centre-State conflicts:
+Tamil Nadu vs. Centre:
+Disputes over language and education policies.
+Tamil Nadu accuses the Centre of withholding
+Samagra Shiksha funds and attempting to impose Hindi.
+The Centre counters that Tamil Nadu is politicizing the National Education Policy (
+NEP
+).
+States continue to express dissatisfaction over the Centre’s growing control over subjects like
+health and education
+, originally part of
+the State List
+Horizontal and vertical imbalances:
+There is an increasing gap in development across states, creating horizontal imbalances.
+The division of power
+between the Union, State, and Concurrent Lists needs reconsideration.
+Centralization of authority
+has been co-produced by both the Centre and states due to
+failures in governance
+Political and administrative federalism:
+The dominance of political parties affects the autonomy of states.
+The anti-defection law
+has weakened legislative oversight, with political party structures superseding federal considerations.
+National parties, while unifying different regions, sometimes override federal demands.
+Financial federalism and GST:
+The Goods and Services Tax
+(GST) framework
+is a unique model where states collectively make binding decisions.
+There is potential for extending such collective decision-making models to other domains, ensuring fair financial governance across states.
+Inter-State cooperation:
+Current discussions on federalism often focus on
+Centre-State relations rather than State-to-State cooperation.
+Issues like airshed management and water disputes require states to
+collaborate independently
+without Centre or judicial intervention.
+The role of political parties
+further complicates independent state-level decision-making.
+Conclusion
+Federalism in India remains a "
+messy affair
+" influenced by political, economic, and administrative complexities.
+While historically federalism has evolved through trial and error, modern challenges necessitate
+innovative solutions
+The distinction between party politics and federal governance
+needs to be
+re-evaluated to ensure the autonomy and equitable development of all states.
+Click to View More
+Editorial Analysis
+**********[15th March 2025] The Hindu Op-ed: Modern day summitry, its perils and its prospects
+op-ed snap
+PYQ Relevance:
+)  The West is fostering India as an alternative to reduce dependence on China’s supply chain and as a strategic ally to counter China’s political and economic dominance.’ Explain this statement with examples.
+(2023)
+Mentor’s Comment:
+This question focused on India’s strategic positioning and alliances with the West, relates to the broader context of
+high-level summit diplomacy and strategic interactions between nations
+A strong leader is often seen as someone who holds significant power, shaping both government policies and their political party. This leadership style is debated, but many agree it can be useful in politics and diplomacy. Leaders like Donald Trump and Narendra Modi are considered strong leaders. Both actively engage in summit diplomacy, which has both advantages and risks. While decisive leadership can bring benefits, relying too much on personal judgment can lead to problems. Despite these challenges,
+has become a key tool for powerful leaders in handling major global issues like war and peace.
+Today’s editorial highlights the importance of summit diplomacy and the key traits of a strong leader. This topic is useful for
+GS Paper 2
+in the
+UPSC Mains exam.
+_
+Let’s learn!
+Why in the News?
+Despite unplanned meetings like Trump’s, summit diplomacy will remain important in global relations.
+What are the key characteristics of a “strong leader” in the context of modern politics and diplomacy?
+Centralization of Power:
+A strong leader often consolidates power, making key policy and political decisions with minimal consultation.
+Example:
+Vladimir Putin’s centralized control over Russian politics and military decisions.
+Assertive Foreign Policy and Summit Diplomacy:
+They engage directly in high-profile diplomatic negotiations, often prioritizing personal rapport over traditional diplomatic channels.
+Donald Trump’s direct summits with Kim Jong-un to negotiate North Korea’s nuclear program.
+Image Building and Popular Appeal:
+They craft a strong public persona through rhetoric, social media, and large-scale events to project authority and national pride.
+Recep Tayyip Erdoğan’s use of mass rallies and media control to consolidate power in Turkey.
+Decisive but Controversial Decision-Making:
+They make bold decisions, sometimes bypassing institutional checks, which can lead to both positive reforms and authoritarian tendencies.
+Xi Jinping’s removal of term limits in China, allowing him to rule indefinitely.
+Why is summit diplomacy considered both beneficial and problematic in resolving international conflicts?
+Benefits of summit diplomacy:
+Direct and Efficient Decision-Making:
+Summits allow leaders to bypass bureaucratic delays and make high-stakes decisions quickly.
+Cuban Missile Crisis (1962)
+saw U.S. President John F. Kennedy and Soviet Premier Nikita Khrushchev negotiate directly, preventing nuclear war.
+Confidence-Building and Diplomatic Trust:
+Face-to-face interactions help build mutual trust and diplomatic relationships between nations.
+Reagan-Gorbachev Summits (1985-1988)
+played a key role in reducing Cold War tensions and leading to nuclear arms reduction.
+Breakthroughs in Long-Standing Disputes:
+Summit diplomacy has resolved historical disputes that traditional diplomacy failed to address.
+Camp David Accords (1978)
+led to peace between Egypt and Israel after decades of hostility.
+Symbolic and Strategic Value:
+High-profile summits reinforce a country’s global leadership and strategic partnerships.
+Singapore Summit (2018)
+between Donald Trump and Kim Jong-un, which temporarily reduced tensions on the Korean Peninsula.
+Crisis Management and De-escalation:
+Summits provide a platform for crisis diplomacy, helping to prevent conflicts from escalating into full-scale wars.
+Dayton Accords (1995)
+ended the Bosnian War by bringing together leaders of Bosnia, Croatia, and Serbia for direct negotiations.
+Problems of
+Risk of Superficial Agreements:
+Leaders often prioritize political optics over substantive solutions, leading to vague or unenforceable agreements.
+Minsk Agreements (2014-2015)
+aimed at resolving the Ukraine conflict but lacked effective implementation mechanisms.
+Personal Egos and Power Imbalances:
+Strong-willed leaders may focus more on personal victories rather than genuine conflict resolution.
+Trump-Zelenskyy Summit (2025)
+, where public confrontations and political grandstanding overshadowed meaningful negotiations on Ukraine.
+How did the Trump-Zelenskyy exchanges highlight the complexities and risks of pseudo-summit diplomacy?
+Blurred Lines Between Diplomacy and Personal Interests:
+Instead of focusing purely on state interests, pseudo-summit diplomacy can be influenced by personal or political gains.
+Trump-Zelenskyy phone call (2019)
+became controversial when Trump allegedly pressured Zelenskyy to investigate Joe Biden’s son, intertwining diplomacy with U.S. domestic politics.
+Lack of Institutional Safeguards:
+Informal or direct leader-to-leader diplomacy can bypass traditional diplomatic channels, reducing oversight and accountability.
+The absence of career diplomats in the Trump-Zelenskyy exchanges led to concerns over improper diplomatic conduct and potential abuse of power.
+Vulnerability to Misinformation and Manipulation:
+Without structured diplomatic engagement, such interactions can be misused for propaganda or misinterpreted in ways that escalate tensions.
+impeachment inquiry against Trump
+was fueled by the whistleblower complaint alleging that the U.S. was leveraging military aid for political favors.
+What should India learn from this? (Way forward)
+Institutionalize Diplomatic Processes:
+Informal leader-to-leader diplomacy should not replace structured diplomatic engagement involving foreign service professionals.
+India should prioritize institutional mechanisms (e.g., MEA-led negotiations) to ensure consistency and avoid undue political influence in international relations.
+Avoid Mixing Domestic Politics with Foreign Policy:
+Diplomatic engagements must remain separate from electoral or partisan interests to maintain credibility.
+India must ensure that foreign policy decisions are not dictated by short-term political gains and avoid using international diplomacy for domestic political narratives.
+Strengthen Transparency and Accountability:
+Diplomatic engagements should be conducted with oversight to prevent misuse or misinterpretation.
+India should continue using parliamentary committees and professional diplomats to maintain transparency and avoid secretive deals that could lead to unintended consequences.
+**********A voluntary mandate: On the APAAR student ID
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Data protection; impact of APAAR;
+Why in the News?
+The Ministry of Education introduced the
+Automated Permanent Academic Account Registry (APAAR) ID
+digitally store each student’s academic records,
+providing a single, reliable source of their educational history throughout their life in India.
+Should the APAAR ID be imposed without a legal framework in place?
+Violation of Right to Privacy:
+Without a legal framework, imposing APAAR violates the
+right to privacy
+upheld by the Supreme Court in the
+Puttaswamy judgment (2017)
+Example:
+The Court ruled that
+Aadhaar
+cannot be mandatory for basic services like school admissions. APAAR, linked to Aadhaar, may similarly infringe on privacy rights.
+Lack of Informed Consent:
+Mandatory implementation without clear legal guidelines undermines
+voluntary participation
+informed consent
+Parents in
+Uttar Pradesh
+Karnataka
+face pressure to enroll their children despite official claims that APAAR is voluntary.
+Data Security Risks:
+Collecting sensitive student data without legal safeguards increases
+vulnerability to data breaches
+and misuse.
+Aadhaar leak incidents
+exposed millions of personal records, highlighting risks in handling large-scale digital databases without strict protection laws.
+Discrimination and Exclusion:
+Errors in digital records (e.g., name mismatches) can
+exclude
+students from educational benefits if no legal recourse is available.
+DigiLocker
+, discrepancies in Aadhaar details have led to failed registrations and denial of services. Similar risks exist with APAAR.
+Need for Legislative Oversight:
+A legal framework ensures
+transparency
+accountability
+, and
+public trust
+in the system’s operation.
+Countries like
+Germany
+regulate educational data under the
+General Data Protection Regulation (GDPR)
+to protect citizens’ privacy. India lacks similar comprehensive safeguards for APAAR.
+What is the purpose of the APAAR ID introduced by the Ministry of Education?
+Digitisation of Academic Records:
+APAAR (Automated Permanent Academic Account Registry) aims to create a
+digital repository
+for every student’s academic transcripts, ensuring a
+lifetime record
+of their educational journey.
+It seeks to provide a
+unified and verified database
+for academic credentials, reducing discrepancies and ensuring
+authenticity
+across institutions.
+Improved Accessibility and Portability:
+Enables students to
+access, share, and transfer
+their academic records seamlessly across educational institutions and employment platforms.
+Integration with Digital Public Infrastructure (DPI):
+APAAR is part of the broader
+strategy, aligning with initiatives like
+UDISE+
+and the
+Student Database Management System
+to enhance educational governance.
+Facilitating Future Opportunities:
+It aims to streamline processes like
+scholarship applications
+higher education admissions
+employment verification
+, making these services more
+efficient and transparent
+How are schools and state education authorities in Uttar Pradesh and Karnataka enforcing APAAR enrolment?
+Imposing 100% Enrolment Targets:
+Schools have been directed to achieve
+“saturation”
+, meaning
+complete APAAR enrolment
+for all students, putting pressure on administrators and parents.
+, education authorities have set
+strict deadlines
+for schools to register every student under the APAAR system.
+Threatening Consequences for Non-Enrolment:
+Schools are
+warning parents
+of potential penalties or loss of educational services if they refuse to enroll their children.
+, some schools have informed parents that
+students may face issues
+in accessing government benefits and future educational opportunities without APAAR registration.
+Targeting Minority Institutions and Administrators: Religious minority schools
+and district education officials face
+increased scrutiny
+for discrepancies between APAAR and existing student records.
+, authorities have questioned
+minority institutions
+over mismatched enrollment data, raising concerns about
+discrimination
+administrative overreach
+Way forward:
+Enact a Clear Legal Framework:
+Introduce
+legislation
+to regulate APAAR, ensuring
+data protection
+compliance
+with the
+as upheld by the Supreme Court.
+Ensure Voluntary Participation and Transparency:
+Maintain
+APAAR enrolment as optional
+, provide
+clear communication
+to parents and institutions, and establish
+grievance redressal mechanisms
+to address errors and concerns.
+Mains PYQ:
+Examine the scope of Fundamental Rights in the light of the latest judgement of the Supreme Court on the Right to Privacy.
+(UPSC IAS/2017)
+Reason-
+UPSC’s focus on privacy concerns related to government actions.
+**********A school closure that must be called out
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to Adivasi communities;
+Why in the News?
+The shutdown of the only Gondi-medium school in Maharashtra’s Gadchiroli district, which was started in 2019 by the Mohgaon gram panchayat, raises concerns about tribal students learning in their own language.
+What constitutional provisions support the preservation of Adivasi languages and cultures in India?
+Article 29
+: Protects the rights of minorities to conserve their distinct languages, scripts, and cultures.
+Article 350A
+: Directs the state to provide adequate facilities for instruction in the mother tongue at the primary education level for minority children.
+Fifth Schedule
+: Provides special protections and governance provisions for Scheduled Areas, where many Adivasi communities reside.
+Sixth Schedule
+: Grants autonomy to certain tribal areas in the northeastern states, allowing self-governance and cultural preservation.
+Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA)
+: Recognizes the role of gram sabhas in self-governance, including decisions related to education in tribal areas.
+How do the forces of absorption in secular and religious realms impact Adivasi communities?
+Marginalization of Adivasi Languages in Education:
+Adivasi students are forced to learn in dominant languages, leading to the decline of their mother tongues and weakening of cultural identity.
+Example
+: The closure of the Gondi-medium school in Maharashtra due to non-recognition under the Right to Education Act.
+Loss of Land and Displacement Due to Development Projects:
+Adivasi communities are displaced from their ancestral lands due to industrial and infrastructural projects, leading to economic instability and cultural loss.
+: Large-scale mining and dam projects in Jharkhand and Chhattisgarh have forced many Adivasis to migrate to urban slums.
+Religious Assimilation and Erosion of Indigenous Beliefs:
+Traditional tribal religious practices are undermined or replaced by dominant religions, leading to cultural homogenization.
+: The decline of Sarna worship among Adivasis due to conversions to Hinduism and Christianity.
+Market-Driven Cultural Appropriation:
+Tribal art, music, and traditions are exploited for commercial purposes without benefiting the Adivasi creators.
+: Warli and Gond paintings being sold globally, while many Adivasi artists remain in poverty.
+Denial of Political and Constitutional Recognition:
+The lack of official recognition for Adivasi languages and cultures weakens their identity and limits access to resources and opportunities.
+: Gondi, spoken by over 2.9 million people, is not included in the Eighth Schedule of the Constitution, whereas Sanskrit, spoken by fewer than 25,000, is recognized.
+What are the steps taken by the government?
+National Education Policy (NEP) 2020:
+Emphasizes mother-tongue-based education at the primary level, promoting indigenous languages.
+Example:
+Bilingual textbooks in tribal languages have been introduced in states like Odisha and Jharkhand.
+Eklavya Model Residential Schools (EMRS):
+Aims to provide quality education to tribal students while incorporating their cultural heritage.
+Over 700 EMRS schools are planned across India, with some offering instruction in tribal languages.
+Documentation and Digital Preservation Initiatives:
+Projects to document and preserve endangered tribal languages and cultures.
+The Scheme for Protection and Preservation of Endangered Languages (SPPEL) under the CIIL (Central Institute of Indian Languages) focuses on documenting languages like Gondi.
+What are the factors that highlight the contrast between the recognition of Sanskrit and Gondi in the Eighth Schedule?
+Oral vs. Textual Tradition:
+Sanskrit has a vast corpus of classical texts and scriptures, whereas Gondi follows an oral tradition, making it vulnerable to erosion without formal preservation efforts.
+: Ancient Sanskrit texts like the Vedas are archived and studied, but Gondi folklore and oral histories are at risk of being lost due to a lack of institutional documentation.
+Number of Speakers:
+Gondi is spoken by over 2.9 million people across six states, while Sanskrit has fewer than 25,000 speakers.
+: Despite its widespread use among Adivasi communities, Gondi remains unrecognized, whereas Sanskrit, with a much smaller speaker base, is included in the Eighth Schedule.
+State Support and Promotion:
+Sanskrit receives government funding, university courses, and institutional backing, whereas Gondi lacks state-supported educational and literary initiatives.
+: Sanskrit is taught in schools and has dedicated institutions like the Rashtriya Sanskrit Sansthan, while Gondi-medium schools struggle for recognition, such as the case in Maharashtra.
+Socio-Political Influence:
+Sanskrit is associated with elite Brahminical traditions and enjoys support from powerful socio-political groups, whereas Gondi is linked to marginalized Adivasi communities with limited political representation.
+: Political leaders and policymakers advocate for Sanskrit’s preservation, but there is little lobbying for Gondi’s inclusion in the Eighth Schedule.
+Economic and Employment Relevance:
+Sanskrit is promoted as a classical and sacred language, but it has minimal practical usage in employment, whereas Gondi is actively spoken by tribal communities in daily life.
+: Sanskrit is used in religious and academic contexts, while Gondi is the primary language for communication among Adivasis, yet lacks state recognition.
+Way forward:
+Institutional Recognition and Policy Support:
+Need to include Gondi and other major Adivasi languages in the Eighth Schedule to ensure constitutional recognition, funding for education, and cultural preservation.
+Community-Led Preservation and Promotion:
+The Government should strengthen grassroots efforts by empowering Adivasi organizations, establishing indigenous language schools, and promoting digital documentation of oral traditions.
+Mains PYQ:
+Given the diversities among tribal communities in India, in which specific contexts should they be considered as a single category?
+(UPSC IAS/2022)
+Reason-
+This question is relevant because the closure of the Gondi-medium school highlights the specific educational needs of a particular tribal community (Gondi speakers).
+**********India’s 1st Exploration Licence Auction for Critical Minerals
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Union Coal and Mines Minister has launched the
+first-ever auction
+of Exploration Licences (ELs) for 13 critical mineral blocks.
+About the Critical Minerals Exploration Policy
+India’s Critical Minerals Policy is designed to
+reduce import dependence, boost domestic production, and ensure secure access to essential minerals
+required for modern technology, defense, and clean energy.
+It is driven by amendments to the
+Mines and Minerals (Development and Regulation) Act (MMDR), 2023
+, introduces
+systematic exploration, private sector participation, and transparent auctions
+Key Features of the Policy:
+Private Sector Involvement:
+Allows private companies to explore and develop mineral blocks through Exploration Licences (ELs).
+Transparent Auction Process:
+Introduces an auction-based allocation of exploration blocks, ensuring efficiency and competition.
+Focus on Deep-Seated Minerals:
+Encourages the exploration of hard-to-extract minerals like lithium, rare earth elements (REEs), and platinum group metals (PGMs).
+Financial Support for Exploration:
+Provides risk-sharing mechanisms, where 50% of exploration costs are borne by the government if minerals are not found.
+What are Critical Minerals?
+Critical minerals are
+essential elements required for high-tech industries, clean energy technologies, and national security
+They are however
+at risk of supply chain disruptions
+due to their limited availability or geopolitical factors.
+India’s 30 Critical Minerals (2023 List)
+includes: Lithium, Cobalt, Nickel, Graphite, Rare Earth Elements (REEs), Platinum Group Elements (PGEs), Silicon, Phosphorous, Potash, Tin, Tungsten, Vanadium, Zirconium, and others.
+Uses of Critical Minerals:
+Electronics & Semiconductors:
+Copper, gallium, germanium, indium.
+Electric Vehicles & Batteries:
+Lithium, cobalt, nickel, graphite.
+Renewable Energy Technologies:
+Rare Earth Elements (REEs) for wind turbines and solar panels.
+Aerospace & Defense:
+Titanium, tungsten, platinum group elements (PGEs).
+PYQ:
+[2019]
+With reference to the management of minor minerals in India, consider the following statements:
+Sand is a ‘minor mineral’ according to the prevailing law in the country.
+State governments have the power to grant mining leases of minor minerals, but the powers regarding the formation of rules related to the grant of minor minerals lie with the Central Government.
+State Governments have the power to frame rules to prevent illegal mining of minor minerals.
+Which of the statements given above is/are correct?
+(a) 1 and 3
+(b) 2 and 3
+(c) 3 only
+(d) 1, 2 and 3
+**********Bird Flu is Spreading in Bihar
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+H5N1 Bird Flu
+Why in the News?
+Bihar is currently facing a
+bird flu outbreak
+, yet the state
+lacks a dedicated testing facility
+for confirming cases.
+What is H5N1 Bird Flu?
+H5N1 (Avian Influenza A) is a highly contagious virus affecting birds and some mammals
+It was
+first detected in China in 1996
+and has since spread
+globally, including India
+2020, a highly pathogenic strain emerged
+, leading to outbreaks in
+Europe, Africa, Asia, and the Americas
+Impact of H5N1 on Animals:
+Wild birds, especially
+endangered species like California condors
+, have suffered mass casualties.
+The virus
+previously targeted poultry
+, but now
+marine mammals (sea lions, dolphins) and terrestrial mammals (foxes, bears, pumas, minks) are also infected
+India’s first
+H5N1 outbreak occurred in
+Maharashtra and Gujarat in 2015
+Human Risk and Potential Transmission:
+Direct human infections are rare
+and usually occur through
+close contact with infected birds
+Climate change is worsening the spread
+, altering bird migration patterns and increasing interspecies interactions.
+Human-to-human transmission is uncommon
+, but experts warn that mutations could make it possible in the future.
+PYQ:
+[2015]
+H1N1 virus is sometimes mentioned in the news with reference to which one of the following diseases?
+(a) AIDS
+(b) Bird flu
+(c) Dengue
+(d) Swine flu
+**********Aditya-L1 Mission: Scientists observe a Flareless Coronal Mass Ejection
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Aditya L1 Mission, CMEs
+Why in the News?
+India’s first solar mission,
+, has made a significant scientific observation—a
+flareless Coronal Mass Ejection (CME)
+using the
+Visible Emission Line Coronagraph (VELC)
+Payload.
+About Flareless Coronal Mass Ejection (CME)
+A Flareless CME is a
+solar eruption
+that occurs
+without an associated solar flare
+Unlike typical CMEs, which are often linked to
+intense bursts of electromagnetic radiation
+, flareless CMEs result from
+magnetic instabilities in the solar corona
+without sudden energy releases.
+Key Features of Flareless CMEs:
+No Solar Flare Trigger
+: Unlike most CMEs, they do not originate from an intense energy burst.
+Magnetic Instability Driven:
+Plasma ejection occurs due to internal rearrangements in the Sun’s
+magnetic field
+Gradual Energy Release:
+These CMEs may expand more slowly compared to CME-flare events.
+Scientific Significance:
+Helps differentiate
+CME mechanisms from flare activities
+, improving
+space weather forecasts
+About the Aditya-L1 Mission
+Aditya-L1 is
+India’s first space-based observatory dedicated to solar studies
+Launched by
+ISRO
+, it is positioned at
+Lagrange Point 1 (L1)
+, about
+1.5 million km from Earth
+It takes
+125 days
+to reach L1, where
+gravitational equilibrium
+allows continuous solar observation.
+It is India’s
+second space observatory
+after
+AstroSat (2015)
+Mission Objectives:
+Study the
+solar corona, photosphere, chromosphere
+, and
+solar wind dynamics
+Monitor
+solar activity, flares, and CMEs
+to predict space weather events.
+Provide
+early warnings for geomagnetic storms
+affecting Earth’s
+satellites and power grids
+Scientific Instruments:
+Visible Emission Line Coronagraph (VELC):
+Observes the
+and tracks CMEs.
+Solar Ultraviolet Imaging Telescope (SUIT):
+Captures images of the Sun’s
+lower atmosphere
+Solar Low Energy X-ray Spectrometer (SoLEXS):
+Measures
+soft X-ray emissions
+from the Sun.
+High Energy L1 Orbiting X-ray Spectrometer (HEL1OS):
+Detects
+high-energy solar X-rays
+Aditya Solar Wind Particle Experiment (ASPEX):
+Studies
+solar wind particles
+and their impact on space weather.
+Plasma Analyser Package for Aditya (PAPA):
+Analyzes
+plasma properties
+in the solar wind.
+Magnetometer:
+magnetic field variations
+at L1.
+PYQ:
+[2022]
+If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth ?
+1. GPS and navigation systems could fail.
+2. Tsunamis could occur at equatorial regions.
+3. Power grids could be damaged.
+4. Intense auroras could occur over much of the Earth.
+5. Forest fires could take place over much of the planet.
+6. Orbits of the satellites could be disturbed.
+Select the correct answer using the code given below:
+(a) 1 and 2 only (b) 3 and 4 only (c) 1, 3, 4 and 6 only (d) 2, 5 and 6 only
+**********Centre makes ‘Quantum Hub’ operational
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+National Quantum Mission (NQM)
+Why in the News?
+The Government of India has launched four Thematic Hubs (T-Hubs) for quantum computing research, with Uttar Pradesh receiving the highest allocation of ₹28.7 crore for quantum technology development in FY 2024-25, followed by Karnataka, Maharashtra, Delhi, and Tamil Nadu.
+About the Quantum Hubs
+Quantum Hubs, also known as Thematic Hubs (T-Hubs), are
+specialized research centres established under India’s National Quantum Mission (NQM)
+They are designed to
+drive innovation, research, and development
+in different aspects of
+Four T-Hubs have been established
+in leading academic institutions.
+Each hub focuses on a
+specific domain of quantum research
+Quantum Computing (IISc Bengaluru).
+Quantum Communication (IIT Bombay).
+Quantum Sensing & Metrology (IIT Delhi).
+Quantum Materials & Devices (IIT Madras).
+IIT Kanpur
+serves as the
+management coordinating center
+, overseeing administration and funding allocation.
+The hubs operate across 17 States and 2 Union Territories
+14 technical research groups
+collaborating on different projects.
+About National Quantum Mission (NQM)
+The NQM was launched by the
+Union Cabinet on April 19, 2023
+, with a total budget of
+₹6,003.65 crore
+for a period of
+eight years (2023-2031)
+It is implemented by the
+Department of Science & Technology (DST), Ministry of Science & Technology.
+The mission aims to build
+intermediate-scale quantum computers
+, starting with:
+20-50 qubits
+in 3 years,
+50-100 qubits
+in 5 years, and
+50-1,000 qubits
+in 8 years.
+Additionally, it seeks to
+establish satellite-based quantum communication over 2,000 km within India, inter-city quantum key distribution (QKD), and multi-node quantum networks
+PYQ:
+[2022]
+Which one of the following is the context in which the term “qubit” is mentioned?
+(a) Cloud Services
+(b) Quantum Computing
+(c) Visible Light Communication Technologies
+(d) Wireless Communication Technologies
+**********

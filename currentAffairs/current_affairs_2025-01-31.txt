@@ -1,0 +1,1438 @@
+What is Leprosy?
+World Leprosy Day is observed on January 30 every year to make people aware of leprosy and remove the misconceptions spread in society.
+About Leprosy:
+Leprosy, also known as
+Hansen’s disease,
+is a
+chronic infectious diseas
+e caused by a type of bacteria,
+Mycobacterium leprae.
+The disease predominantly
+affects the skin and peripheral nerves.
+Left untreated,
+the disease may cause progressive and
+permanent disabilities.
+Apart from the physical deformity, persons affected by leprosy also
+face stigmatization
+and discrimination.
+It is a
+neglected tropical disease (NTD)
+that still occurs in more than 120 countries, with more than 200,000 new cases reported each year.
+It is known to
+occur at all ages,
+ranging from early childhood to old age.
+Transmission
+The disease is transmitted
+through droplets
+from the nose and mouth
+of an untreated case
+of leprosy, containing the causative agent,
+following prolonged, close contact.
+does not spread through casual contact
+(like shaking hands or hugging, sharing meals or sitting next to each other).
+The patient stops transmitting the disease upon initiation of treatment.
+Symptoms:
+It usually takes about
+3 to 5 years for symptoms to appear
+after you come into contact with the bacteria that cause leprosy.
+The main symptom of leprosy is
+disfiguring skin sores, lumps, or bumps
+that don’t go away after several weeks or months.
+In some cases,
+body parts may lose their sense of touch and pain,
+increasing the likelihood of injuries such as cuts and burns.
+Treatment:
+Leprosy is a
+curable disease.
+The currently recommended treatment regimen consists of three medicines (dapsone, rifampicin and clofazimine) and is referred to as
+multi-drug therapy (MDT).
+Click to View More
+Source :
+World Leprosy Day 2025: Debunking myths related to the chronic infectious disease
+Science & Tech
+**********What is a Graphics Processing Unit (GPU)?
+As many as six firms will develop Indian foundational Artificial Intelligence (AI) models using newly provisioned Graphics Processing Units (GPUs) by the IndiaAI Mission, Union Minister for Electronics and Information Technology announced recently.
+About Graphics Processing Unit (GPU):
+A GPU is an
+electronic circuit board
+that can
+quickly perform many mathematical calculations.
+Like a Central Processing Unit (CPU), a GPU is also a
+chip component in computing devices.
+The technology was
+originally designed to speed up 3-D graphics rendering.
+Since its introduction in the 1990s, the GPU has transformed computer software and video games, allowing programmers to produce vivid and realistic images on screens.
+More recently, GPUs have been used beyond computer graphics in areas including
+high-performance computing, machine learning, Artificial Intelligence (AI), weather forecasting and cryptocurrency mining.
+CPU vs. GPU:
+CPUs
+are designed to handle general-purpose tasks such as
+running applications and managing system resources.
+On the other hand,
+are optimized for specific tasks such as rendering
+3D graphics and video decoding.
+CPUs have fewer cores than GPUs, but each core is capable of handling more complex instructions.
+This means that CPUs can handle sequential tasks more efficiently than GPUs, but GPUs outperform CPUs when it comes to parallel tasks like image rendering or video encoding/decoding.
+Click to View More
+Source :
+Global AI race: India to build own foundational models; 18,693 GPUs to power compute facility
+Science & Tech
+**********What is the Axiom-4 Mission (Ax-4)?
+Shubhanshu Shukla, an Indian Air Force (IAF) officer and ISRO astronaut, was recently named the pilot for Axiom Mission 4 (Ax-4).
+About Axiom-4 Mission (Ax-4):
+Ax-4 is the fourth private astronaut mission to the
+International Space Station (ISS).
+It is organized by
+Axiom Space
+in collaboration with
+The Ax-4 crew will launch aboard a
+SpaceX Dragon spacecraft
+to the ISS from NASA’s Kennedy Space Center in Florida.
+Once docked, the private astronauts plan to
+spend up to 14 days aboard the ISS.
+During their time aboard the ISS, the crew will
+conduct scientific experiments,
+perform
+technology demonstrations
+, and engage in
+educational outreach.
+Research areas include materials science, biology, Earth observation and more, with the potential to yield groundbreaking discoveries and innovations.
+The mission will send the
+first Indian astronaut to the station
+as part of a joint effort between NASA and the Indian space agency.
+The private mission also carries the
+first astronauts from Poland and Hungary to stay
+Click to View More
+Source :
+Shubhanshu Shukla: IAF officer becomes 1st Indian astronaut for private Axiom Mission 4 to ISS
+Science & Tech
+**********Key Facts about Point Nemo
+Two young women officers of the Indian Navy onboard the sailing vessel INSV Tarini recently crossed Point Nemo in the southern Pacific as a part of their efforts to circumnavigate the globe under Navika Sagar Parikrama-II.
+About Point Nemo:
+Point Nemo, also known as the
+Oceanic Pole of Inaccessibility,
+holds the distinction of being the
+farthest point from any landmass on Earth.
+This remote point lies in the
+South Pacific Ocean
+and is named after Captain Nemo, the sailor from Jules Verne’s famous novel Twenty Thousand Leagues Under the Sea.
+Situated approximately
+2,688 km from the nearest landmass,
+this isolated point is famous for its extreme remoteness, with
+the closest human presence often being aboard the International Space Station
+orbiting above.
+The
+in each direction is:
+To the north lies
+Ducie Island,
+Pitcairn Islands (British Overseas Territory).
+To the northeast is
+Motu Nui
+, one of the
+Easter Islands
+(Chilean dependency).
+To the south is
+Maher Island, part of Antarctica.
+Due to its isolation, the waters around Point Nemo have
+very little marine life,
+and the region
+falls within the South Pacific Gyre
+, known for having some of the clearest and least biologically active ocean waters.
+Due to its remoteness and relative lack of marine traffic, Point Nemo has become a popular location for space agencies to dispose of space junk.
+Click to View More
+Source :
+2 Indian Navy women officers cross Pacific's Point Nemo, Earth's remotest location, in sailboat
+Geography
+**********What is the Enforcement Case Information Report (ECIR)?
+The Enforcement Directorate recently informed the Kerala High Court that 18 ECIRs (Enforcement Case Information Reports) have been registered against cooperative banks/societies in Kerala to investigate money laundering in connection with financial irregularities.
+About Enforcement Case Information Report (ECIR):
+The ECIR is a
+formal entry of the complaint lodged by the Enforcement Directorate (ED).
+It serves as a starting point for ED's proceedings, including the attachment of assets and arrests.
+There is no mention of the ECIR in the
+Prevention of Money Laundering Act, 2002
+(PMLA Act) or Rules.
+However, as per the practice of ED, the ECIR is lodged before taking any action under the PMLA Act.
+The ECIR under the PMLA Act is similar to the First Information Report (FIR) lodged by the Police for cognizable offences.
+However, the
+Supreme Court held that ECIR cannot be equated with an FIR.
+As per the ED,
+ECIR is a document meant for the identification of a particular case and for departmental convenience and is
+purely an internal document
+ED is
+not legally bound
+to provide a
+copy of the ECIR
+to the accused.
+Click to View More
+Source :
+ED cases against 16 coop banks, two societies in Kerala
+Polity & Governance
+**********Guantánamo Bay
+Recently, the US President signed an executive order directing the preparation of a large-scale migrant detention centre at the US naval base in Guantánamo Bay.
+About
+Guantánamo Bay:
+It forms an inlet of the Caribbean Sea, indenting
+southeastern Cuba.
+It is a large and well-sheltered bay; it has a narrow entrance to a harbour and is capable of accommodating large vessels.
+Ports:
+It is served by the ports of
+Caimanera and Boquerón.
+The strategic importance of the bay—close to the
+Windward Passage
+between
+Cuba and Haiti
+that links the
+Atlantic Ocean to the Caribbean Sea and Panama.
+Guantanamo Bay,
+widely known as “Gitmo,”
+has been used to house terrorism suspects since the September 11, 2001, attacks, but it also has a small, separate facility known as the Migrant Operations Centre.
+This centre has historically held migrants intercepted while attempting to enter the US by boat, primarily from Haiti and Cuba.
+The facility occupies only a small part of the base and currently lacks the capacity to house the 30,000 detainees.
+Click to View More
+Source :
+Trump orders setting up of migrant detention centre at Guantánamo Bay
+Geography
+**********Household Consumption Expenditure Survey
+Recently, the Ministry of Statistics and Programme Implementation (MoSPI) published the summary findings of the second of the two consecutive surveys on household consumption expenditure survey.
+About
+Household Consumption Expenditure Survey (HCES):
+It is designed to collect information on the consumption and expenditure of
+households on goods and services.
+The survey provides data required to assess trends in economic well-being and to determine and update the basket of consumer goods and services and weights used for the calculation of the Consumer Price Index. Data collected in HCES is also used to
+measure poverty, inequality and social exclusion.
+Monthly Per Capita Consumption Expenditure
+(MPCE) compiled from HCES is the primary indicator used for
+most analytical purposes.
+Key Highlights of the Survey
+There is a persistent
+decline in urban-rural consumption difference
+across India’s major States continues in 2023-24.
+average MPCE is on the rise
+across all Household types in rural and urban Areas.
+Among 18 major states, the difference between urban and rural average monthly per capita expenditure (MPCE) of households is the lowest in Kerala, followed by Punjab, Andhra Pradesh (AP) and Bihar.
+Consumption inequality,
+both in rural and urban areas, for almost all the 18 major states
+has declined
+in 2023-24 from the level of 2022-23.
+At the all-India level, the
+Gini coefficient of consumption expenditure
+to 0.237 in 2023-24 from 0.266 in 2022-23 for rural areas and to 0.284 in 2023-24 from 0.314 in 2022-23 for urban areas.
+Click to View More
+Source :
+Household Consumption Expenditure Survey: 2023-24
+Economy
+**********Controlled Cannabis Cultivation
+Recently, the Himachal Pradesh Cabinet approved a pilot study by two universities on the controlled cultivation of cannabis for medicinal and industrial purposes.
+About
+Controlled Cannabis Cultivation:
+It is the
+regulated cultivation of specific cannabis varieties
+having minimal intoxicating properties, along with strict monitoring to prevent misuse. Such varieties are commonly known as
+The
+tetrahydrocannabinol (THC)
+cannabinoid content (a kind of chemical that has an intoxicating effect) in controlled cannabis should be less than or equal to
+3 per cent.
+Under this, authorities focus on its non-narcotic applications, particularly in the pharmaceutical and industrial sectors.
+Uses of Hemp:
+Hemp’s stalks, leaves, and seeds can also be converted into textile, paper, food, cosmetics, biofuel and more. Additionally,
+cannabidiol
+(CBD) compounds in the plant are effective in
+treating chronic pain.
+Laws related to cannabis cultivation in India
+Cannabis cultivation is
+largely prohibited
+in India due to its
+psychoactive properties.
+Section 2 of the
+Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985
+, prohibits the production and sale of cannabis resin and flowers.
+It defines charas as the separated resin, in any form (crude or purified), obtained from the cannabis plant. It also includes concentrated preparations such as hashish oil or liquid hashish.
+However, it provides exceptions for cannabis cultivation and use for
+industrial and medicinal purposes under government regulation
+Section 10 of the Act allows state governments to regulate, permit, or prohibit cannabis cultivation for medicinal and scientific purposes.
+Section 14
+grants the Central government the power to authorise and regulate cannabis cultivation for research or other approved purposes.
+Click to View More
+Source :
+Why Himachal Pradesh could soon allow controlled cannabis cultivation
+Geography
+**********e-Shram Microsite and Occupational Shortage Index
+Recently, the Union Minister for Labour & Employment launched two significant initiatives – State and Union Territory Microsites under the e-Shram initiative and the Occupational Shortage Index (OSI).
+About
+e-Shram Microsite:
+It is a transformative initiative aimed at ensuring that
+unorganised workers
+have seamless access to both
+State and Central government welfare programs.
+Features
+These microsites are
+state-specific digital platforms
+seamlessly
+integrated with the national e-Shram database.
+It will facilitate two-way integration between State portals and the eShram portals and will facilitate simplified registration of unorganised workers.
+This will provide a one-stop solution for seamless access to both Central and State welfare programs for unorganised workers, employment opportunities, skilling programmes, etc.
+For States/UTs, the microsites provide a ready-to-use digital infrastructure, reducing the need for costly and time-consuming development processes. With real-time analytic dashboards, they facilitate better policy decision-making and allow States to include tools specific to their labour market requirements.
+It offers a
+seamless registration process
+and access to a wide range of social security benefits.
+The platform ensures
+multilingual accessibility
+, enabling workers from different regions to access information and services in their preferred language.
+Through two-way integration with the e-Shram database, workers receive real-time updates on welfare schemes and employment opportunities.
+Significance:
+It will enhance transparency and efficiency in welfare service delivery.
+About Occupational Shortage Index (OSI):
+It provides data-driven insights into occupations
+facing shortages, helping align job seekers' skills with industry demands.
+The OSI will support policymakers, training institutions, and businesses in
+bridging skill gaps in high-demand sectors.
+The index is designed to enable more effective decision-making in workforce planning and skill development initiatives, optimizing job matching and guiding State governments and employers in creating targeted skill development programs.
+Click to View More
+Source :
+Union Minister Dr. Mansukh Mandaviya Launches State-Specific Microsites under e-Shram Initiative & Occupational Shortage Index
+Economy
+**********Human African Trypanosomiasis
+Recently, the World Health Organization (WHO) announced that Guinea has successfully eliminated the gambiense form of Human African Trypanosomiasis (HAT) as a public health problem.
+About
+Human African Trypanosomiasis:
+It is a
+parasitic disease
+transmitted through the
+bite of infected tsetse flies.
+It is also known as
+sleeping sickness
+and is endemic in
+sub-Saharan Africa.
+Symptoms:
+It initially presents with symptoms such as
+fever, headaches, and joint pain
+, but can progress to neurological issues like confusion, disrupted sleep, and behavioural changes. If left untreated, the disease can be fatal.
+First signs and symptoms emerge a few weeks or months after infection. The disease develops rapidly with
+multi-organ invasion, including the brain.
+It takes 2 forms, depending on the subspecies of the infecting parasite:
+Trypanosoma brucei gambiense:
+It is found in 24 countries of west and central Africa, currently accounts for 92% of reported cases and causes a chronic illness.
+A person can be infected for months or even years without major signs or symptoms. When evident symptoms emerge, often the disease is advanced with the central nervous system already affected.
+Trypanosoma brucei rhodesiense:
+It is found in 13 countries of eastern and southern Africa accounts for 8% of reported cases and causes an acute disease.
+more prevalent
+amongst
+rural populations
+which depend on agriculture, fishing, animal husbandry or hunting are the most exposed.
+To date, WHO has validated the elimination of the gambiense form of HAT in seven countries: Togo (2020), Benin (2021), Ivory Coast (2021), Uganda (2022), Equatorial Guinea (2022), Ghana (2023) and Chad (2024).
+Click to View More
+Source :
+Guinea successfully eradicates sleeping sickness
+Science & Tech
+**********Supreme Court relaxes condition for appointment of ad hoc judges to HCs
+Why in news?
+The Supreme Court has eased its previous condition for appointing
+in High Courts to clear pending criminal cases.
+It ruled that ad hoc appointments can be made even if vacancies do not exceed 20% of the sanctioned strength.
+The 20% condition was imposed by the Supreme Court in an April 2021 judgment in the
+Lok Prahari versus Union of India
+case.
+What’s in today’s article?
+Article 224A: Appointment of Retired Judges in High Courts
+Condition for appointment of ad hoc judges to HCs relaxed
+The Chief Justice of a High Court, with the
+President’s prior consent
+, can request a retired judge of that or any other High Court to serve as a judge in that state’s High Court.
+Such judges will have
+the same jurisdiction, powers, and privileges
+as regular judges but will not be considered permanent judges.
+Their allowances will be determined by the
+President’s order
+In Lok Prahari v. Union of India (2021), the Supreme Court
+invoked Article 224-A
+of the Constitution to allow the appointment of ad hoc judges in High Courts to address the backlog of cases.
+It set guidelines ensuring such appointments occur only after efforts to fill regular vacancies.
+The Chief Justice of a High Court may exercise this discretion if:
+vacancies exceed 20% of the sanctioned strength,
+cases in a category have been pending for over five years,
+over 10% of pending cases are older than five years, or
+the disposal rate is lower than the rate of new case filings.
+The Supreme Court has allowed High Courts across India to appoint retired judges on an ad-hoc basis to address the backlog of criminal cases.
+These judges will only hear criminal appeals in benches headed by a sitting High Court judge.
+Guidelines for Appointment
+A special bench comprising Chief Justice of India Sanjiv Khanna and Justices BR Gavai and Surya Kant ruled that:
+Chief Justices of High Courts can recommend retired judges for appointment.
+Each High Court may appoint
+2 to 5 ad-hoc judges
+, not exceeding
+10% of its sanctioned strength
+Modification of Earlier Conditions
+The Supreme Court modified and kept in abeyance certain conditions set in its April 2021 ruling by then CJI SA Bobde, including:
+The earlier requirement that vacancies should not exceed
+20% of sanctioned strength
+before appointing ad-hoc judges.
+The restriction that ad-hoc judges
+could sit separately on benches
+to deal with cases.
+No Fixed Timeline for Appointments
+The Supreme Court declined a request to set a fixed timeline for appointing ad-hoc judges but emphasized that the process should begin immediately.
+Addressing the Pendency Crisis
+ruling was prompted by the acute backlog of cases
+The High Courts have over 60 lakh cases pending, of which nearly 20 lakh are criminal appeals.
+The 80% working strength condition from the 2021 ruling had prevented ad-hoc appointments in several High Courts, such as Allahabad HC (80 judges out of 160 sanctioned strength).
+Supreme Court relaxes condition for appointment of ad hoc judges to HCs.pdf
+( Size:  274.4 KB  )
+Click to View More
+Polity & Governance
+**********Mahakumbh Stampede: Understanding the Causes and Strategies for Prevention
+Why in news?
+A stampede at the Mahakumbh Mela in Allahabad on January 29 claimed several lives. UP CM attributed the tragedy to the overwhelming crowd gathering for Mauni Amavasya.
+The National Disaster Management Authority (NDMA) had in 2014 published a report on crowd management at big events and prevention of stampedes. The report said, “
+Majority of the crowd disasters in India and developing countries have occurred at religious places
+.”
+What’s in today’s article?
+Causes of Stampedes
+Role of Crowd Behaviour in Stampedes
+Past Stampede Incidents
+Proactive Planning for Crowd Control
+Importance of Infrastructure and Information in Crowd Control
+Stampedes can result from multiple factors, including structural weaknesses (poor barricading, weak guardrails, narrow exits, inadequate lighting), fire or electrical failures, poor crowd control, and lack of coordination among stakeholders.
+Failures in Crowd Control
+The NDMA report highlights key reasons for crowd control failures, such as:
+Underestimation of expected crowd size
+Exceeding venue capacity
+Limited holding areas before entry
+Locked or closed exits
+Weak railings and lack of queue management
+Absence of sectoral partitions to regulate movement
+Consequences of Poor Management
+Inadequate arrangements often trigger panic or excitement, leading to overcrowding or rapid movement.
+This, in turn, results in crushing, suffocation, and trampling.
+The report identifies compressive asphyxia as the leading cause of fatalities in such disasters.
+Understanding crowd behaviour is crucial for preventing stampedes.
+The actions of a few individuals can influence many, sometimes leading to panic or disorder.
+A community-based approach to crowd control is more effective than force-based methods.
+Impact of Overcrowding
+At many events, demand exceeds available space, leading to overcrowding.
+To manage this,
+input control
+—such as restricting entry through a mandatory registration process—can help regulate the crowd.
+Risks of Poor Crowd Management
+Long wait times may prompt individuals to climb fences, causing others to follow and leading to congestion in another area.
+Additionally, poorly executed control measures, such as police chasing unruly groups toward an incoming crowd, can create dangerous collisions, worsening the situation.
+The NDMA report references several past stampedes, including:
+Nashik Kumbh (August 2003):
+29 pilgrims died due to overcrowding at barricades, sudden reverse crowd flow, sadhus moving in procession with pilgrims, and unforeseen influx of pilgrims at various points.
+Kalubai Yatra Mandhardevi (January 2005):
+293 people were killed due to wrong crowd estimates, inadequate temple space, narrow, slippery paths with illegal vendors, lack of safety measures, and poor infrastructure.
+Causes Identified in Investigations
+Nashik Kumbh:
+The stampede was triggered by crowd pressure at barricades and the unplanned movement of pilgrims and sadhus.
+Kalubai Yatra:
+Causes included inaccurate crowd estimates, narrow paths, illegal activities, lack of safety and medical facilities, and poor coordination between stakeholders.
+The NDMA report stresses that most stampedes can be avoided with proactive planning and effective execution. It outlines a
+holistic approach
+that includes:
+Controlling the crowd inflow
+Regulating the crowd within the venue
+Managing the crowd outflow
+Understanding Demand and Supply
+To manage demand, authorities must analyze:
+Historical crowd data
+Arrival patterns and peak times (e.g., festivals, holidays)
+Advance registration and ticketing systems
+Public transport schedules
+For supply management, the venue's capacity must be calculated to avoid overcrowding.
+Role of Online Registration
+Examples from Vaishnodevi and Sabarimala show that
+online registration
+can help manage crowd arrivals and influence patterns.
+Dealing with Limited Supply Capacity
+In places where increasing supply is not feasible due to religious beliefs or geography, authorities should focus on making waiting times more comfortable for visitors.
+The report highlights the need for
+adequate infrastructure
+for crowd management at religious sites.
+It recommends setting up
+staging points
+for visitors, equipped with necessary facilities like rest areas, food, water, and hygiene. These points should be monitored effectively.
+The report also emphasizes the role of
+information management
+and the need for effective
+dissemination of information
+to guide visitors and maintain order.
+Mahakumbh Stampede - Understanding the Causes and Strategies for Prevention.pdf
+( Size:  1.7 MB  )
+Click to View More
+Social Issues
+**********India to Develop Indigenous Large Language Model Under IndiaAI Mission
+Why in the News?
+The Indian government has announced plans to develop its own
+large language model (LLM)
+as part of the ₹10,370 crore
+.
+The initiative aims to boost India’s artificial intelligence (AI) ecosystem by creating a
+bias-free, culturally contextualized AI model
+The move comes amid global advancements in AI, including China's recent launch of the
+DeepSeek
+foundational model
+What’s in Today’s Article?
+Govt Strategy (Key Developments, India’s AI Model, Companies Selected, Reasons, Challenges, etc.)
+Key Developments and Government Strategy:
+Building India’s AI Model
+Union IT Minister
+Ashwini Vaishnaw
+confirmed that the government has been actively engaging with
+startups, researchers, and academic institutions
+over the past 1.5 years to develop a
+world-class foundational AI model
+The initiative is expected to take
+4-8 months
+for completion.
+The government is currently in discussions with
+six AI developers
+to work on the project, though specific details about costs and involved companies remain undisclosed.
+Hardware Support: 18,693 GPUs Approved
+To facilitate AI model training and research, the government has selected
+10 companies
+to supply a total of
+18,693 high-end Graphics Processing Units (GPUs)
+, which are crucial for developing
+machine learning and AI models
+Companies Selected for GPU Supply:
+Yotta (Hiranandani Group-backed) – 9,216 GPUs (largest contributor), Jio Platforms, Tata Communications, E2E Networks, CMS Computers, Ctrls Datacenters, Locuz Enterprise Solutions, NxtGen Datacenter, Orient Technologies, Vensysco Technologies
+According to Minister
+10,000 GPUs are ready for immediate installation
+to support AI projects.
+Affordable Compute Power for AI Developers:
+The government plans to launch a
+common compute facility
+to provide startups and researchers with
+affordable access
+to GPU resources.
+Pricing for Compute Access:
+High-end GPUs:
+₹150 per hour
+Lower-end GPUs:
+₹115.85 per hour
+Government Subsidy:
+40% discount for startups and research institutions
+Competitive Pricing:
+Post-subsidy rates will be around
+$1 per hour
+, significantly lower than global GPU access costs of
+$2.5-$3 per hour
+Application-Level AI Development:
+Under the
+18 AI-based applications
+for funding in its first phase.
+These applications focus on
+agriculture, learning disabilities, and climate change
+—key sectors where AI can drive
+social and economic impact
+Reasons for India Investing in AI Development:
+With AI emerging as a
+key driver of innovation and economic growth
+, India aims to:
+Reduce dependency on foreign AI models
+and promote indigenous AI research.
+Support multilingual AI capabilities
+to cater to India’s diverse linguistic and cultural landscape.
+Enhance computational capabilities
+to strengthen AI startups and research institutions.
+Compete with global AI advancements
+, ensuring India remains a major player in AI development.
+Challenges and Future Outlook:
+While India’s AI mission is ambitious, certain challenges remain:
+Infrastructure Development:
+Ensuring seamless GPU availability and processing capacity.
+Skilled Workforce:
+Training researchers and developers to build high-quality AI models.
+Regulatory Frameworks:
+Establishing AI ethics, data privacy, and security guidelines.
+The government’s proactive approach in setting up
+funding, compute infrastructure, and industry collaborations
+positions India strongly in the global AI race.
+If successfully executed, the IndiaAI Mission could transform India into a
+major AI hub
+, reducing reliance on foreign AI systems while driving technological progress across sectors.
+newspaper.pdf
+( Size:  911.3 KB  )
+Click to View More
+Science & Tech
+**********The Yamuna Crisis - Beyond Politics
+Context:
+The issue of the
+Yamuna river’s contamination
+has turned into a
+political controversy
+, with Ex. Delhi Chief Minister accusing Haryana of polluting Delhi’s water supply.
+As legal battles ensue and the Election Commission intervenes, it is essential to
+examine the health of the Yamuna beyond political rhetoric.
+Key Issues Related to the Yamuna:
+Three major concerns regarding the Yamuna and Delhi's water supply are:
+Drinking Water Supply
+Pollution
+Environmental Flow
+Drinking Water Supply:
+The supply challenges:
+Delhi's drinking water comes primarily from
+, with major inlets at Wazirabad Barrage, which depends on releases from Haryana’s Hathni Kund Barrage.
+Delhi’s treatment plants (Wazirabad, Chandrawal, Okhla, Haiderpur, and Bawana) rely entirely on Haryana’s water supply.
+Water shortages
+arise during
+lean seasons
+, forcing plant shutdowns and leading to supply of untreatable water and water scarcity crisis.
+The ammonia issue in Delhi’s water:
+Ammonia, a colorless gas with a sharp odor, dissolves in water and is widely used in industries, fertilizers, and cleaning agents.
+It enters water bodies through
+industrial effluents, agricultural runoff, and untreated sewage.
+High ammonia levels in the Yamuna, caused by industrial discharge from
+Panipat
+Sonipat
+and sewage from colonies, impact water quality by reducing
+dissolved oxygen
+Water treatment plants in Delhi
+cannot process ammonia levels above 1 part per million (ppm)
+, leading to disruptions in the capital’s water supply.
+How is ammonia-laden water treated?
+The Delhi Jal Board (DJB) uses
+chlorine
+to neutralize ammonia in water treatment plants.
+Approximately 11.5 kg of chlorine is needed per litre of water per hour to counteract one ppm of ammonical nitrogen.
+Efficiency of treatment plants
+drops in winter due to increased ammonia levels.
+Government actions on ammonia contamination:
+A long-term solution has yet to be implemented by Delhi and Haryana governments.
+In March 2023, Delhi proposed an
+in-situ ammonia treatment plant
+at Wazirabad, but it remains under development.
+Haryana has not completed laying pipelines to prevent pollutant mixing in the river.
+Pollution - A Lingering Threat:
+Apart from ammonia contamination,
+multiple factors contribute to Yamuna’s pollution:
+Unregulated sewage discharge:
+Sewage flows into stormwater drains due to incomplete sewer connections in unauthorized colonies.
+Industrial waste:
+Unlicensed household industries discharge untreated effluents.
+Solid waste dumping:
+Illegal dumping continues despite regulations.
+Key findings and unfulfilled commitments:
+The National Green Tribunal’s
+Yamuna Monitoring Committee (YMC)
+(2018–2021) identified
+16 major polluters
+, including Delhi Jal Board and authorities from Haryana and Uttar Pradesh.
+The Najafgarh, Supplementary, and Shahdara drains are major contributors to pollution.
+Haryana had committed to setting up Sewage Treatment Plants (STPs) but failed to implement them fully.
+Delhi’s Interceptor Project
+aimed at treating sewage before discharge has seen partial success but remains ineffective due to incomplete execution.
+Environmental Flow - The Need for Sustained Water Levels:
+The National Institute of Hydrology (
+NIH
+) study highlighted that
+excessive water withdrawals
+upstream
+drastically reduce Yamuna’s flow through Delhi.
+Reduced flow
+increases pollutant
+concentration and disrupts aquatic life.
+The YMC recommended revisiting the 1994 water-sharing agreement between Delhi, Haryana, Himachal Pradesh, Rajasthan, and Uttar Pradesh for fairer water distribution.
+Regulatory intervention
+by the central government or courts is necessary to ensure a sustainable environmental flow.
+Conclusion - The Need for Political Will and Action:
+While reports and recommendations exist,
+implementation remains weak due to political and bureaucratic inertia.
+Unless policymakers, engineers, and administrators take decisive action, neither political promises nor manifestos will have any real impact.
+Citizens must recognize the gravity of the crisis and
+demand accountability
+to ensure the Yamuna’s
+restoration and sustainable management
+Click to View More
+Editorial Analysis
+**********An Opportunity to Settle Sri Lanka’s Ethnic Problem
+Context
+India's decision to name the Jaffna Cultural Centre after the Tamil poet
+-philosopher Thiruvalluvar is a symbolic move that
+underscores its deep historical and cultural ties with Sri Lanka.
+This
+gesture not only acknowledges the Tamil heritage but also serves as a diplomatic tool to reinforce India's influence in Sri Lanka
+, particularly among the Tamil-speaking population.
+However, beyond the cultural significance,
+the relationship between the two nations has been shaped by decades of political complexities,
+particularly regarding the Tamil issue and the implementation of the
+13th Amendment (13A) to Sri Lanka’s Constitution.
+Historical and Political Context of 13
+Amendment and India’s Stance
+India’s involvement in Sri Lanka’s Tamil issue dates back to the
+1983 anti-Tamil pogrom,
+which
+led to its role as a mediator
+and later as an active player in resolving the ethnic conflict.
+This culminated in the
+Indo-Lanka Accord of 1987
+which resulted in the 13th Amendment
+, introducing
+Provincial Councils with limited autonomy.
+However, the
+amendment has remained a contentious issue
+, facing resistance from both Sinhalese nationalist groups and Tamil separatist forces.
+The Janatha Vimukthi Peramuna (JVP),
+the party of Sri Lankan President Anura Kumara Dissanayake, has
+traditionally opposed 13A, viewing it as an imposition by India.
+Similarly, the Liberation Tigers of Tamil Eelam (LTTE
+), though advocating Tamil autonomy,
+rejected the amendment as inadequate.
+India’s Stance on the 13th Amendment
+Despite over 35 years since its introduction,
+the full implementation of 13A remains elusive, especially in Tamil-majority areas.
+Successive Indian governments
+have consistently
+urged Sri Lanka to implement the amendment fully.
+recent developments, such as Indian Prime Minister Narendra Modi’s omission of any direct mention of 13A
+during Sri Lankan President Dissanayake’s visit in December 2024,
+have raised questions about whether India is shifting its stance.
+While Foreign Minister S. Jaishankar reiterated India’s call for devolution, Modi’s silence suggests a possible recalibration of India's approach, potentially influenced by Sri Lanka’s evolving domestic politics.
+Sri Lanka’s Political Landscape and Devolution Debate
+The JVP and the NPP’s Stance on Devolution
+A critical factor shaping the debate on devolution today is the stance of the JVP, a left-wing nationalist party that has historically opposed 13A.
+The party,
+which played a significant role in two armed uprisings (in 1971 and 1987-89),
+viewed the Indo-Lanka Accord and its resulting constitutional amendment as an
+infringement on Sri Lanka’s sovereignty.
+This position has persisted even as the JVP evolved into a mainstream political force.
+Currently,
+the JVP leads the National People’s Power (NPP) coalition
+, which has emerged as a dominant political force in Sri Lanka.
+who hails from the JVP,
+has not explicitly stated whether his government will fully implement 13A.
+During his 2024 parliamentary election campaign in Jaffna,
+he largely avoided discussing the issues of power devolution and a political settlement for the Tamils
+, raising concerns that his administration may not prioritize Tamil autonomy.
+The Ambiguity in the NPP’s Constitutional Promises
+NPP’s 2024 election manifesto promised to draft a new constitution
+that strengthens democracy and ensures equality for all citizens.
+it did not explicitly mention greater autonomy for the Tamil-majority Northern and Eastern provinces.
+Instead,
+it proposed a "devolution of political and administrative power to every local government, district, and province
+", suggesting a broader but less concrete approach to decentralisation.
+manifesto also committed to holding provincial and local government elections within a year
+, a crucial step given that provincial councils have been defunct since 2019.
+it remains unclear whether these elections will lead to meaningful devolution or if they will merely reinforce existing administrative structures
+without addressing Tamil political demands.
+The Risk of Local Government Supplanting Provincial Councils
+One of the key debates in Sri Lanka’s devolution discourse is
+whether local government bodies can serve as an alternative to provincial councils.
+Local bodies, such as municipal and district councils, have a much longer history in Sri Lanka than provincial councils and are responsible for grassroots governance.
+they lack the financial and administrative capacity
+to address broader regional challenges,
+particularly in the Tamil-majority areas,
+which continue to struggle with post-war reconstruction and economic underdevelopment.
+The fear among many Tamil leaders is that the government may prioritise strengthening local government institutions while ignoring provincial councils
+, thereby sidestepping the core issue of regional autonomy.
+Unlike provincial councils, which were established as a direct outcome of 13A,
+local bodies function under a different administrative framework with limited powers.
+If the government focuses only on local bodies
+without empowering provincial councils,
+Tamil aspirations for meaningful self-governance may remain unfulfilled.
+The Role of Sinhalese Nationalism in the Devolution Debate
+The broader devolution debate in Sri Lanka is also influenced by
+Sinhalese nationalist sentiment,
+opposes granting more autonomy to Tamil-majority regions.
+Many nationalist groups fear that
+implementing 13A fully—especially provisions related to land and police powers—could lead to a gradual push for separatism.
+sentiment has historically shaped government policies
+, leading to reluctance in implementing devolution measures despite repeated Indian diplomatic pressure.
+The Way Forward: Towards a Durable Solution
+For Sri Lanka to achieve long-term stability and reconciliation,
+the ruling coalition must recognize that the Provincial Councils
+are not merely an Indian creation but a product of Sri Lanka’s own political evolution.
+The country’s constitutional framework has historically drawn from global models,
+including British, American, and French systems.
+Therefore,
+dismissing 13A as an external imposition overlooks its potential to provide a democratic solution
+to the ethnic conflict.
+With a two-thirds majority in Parliament and a popular President
+, the NPP has a unique opportunity to enact meaningful reforms.
+A balanced approach that respects the aspirations of the Tamil population
+while maintaining national unity is essential.
+Implementing the full provisions of 13A, including holding provincial council elections, would be a significant step
+in addressing Tamil grievances and reinforcing Sri Lanka’s democratic credentials.
+Conclusion
+India’s decision to rename the Jaffna Cultural Centre after Thiruvalluvar symbolises its commitment to cultural diplomacy
+and its historical ties with Sri Lanka, however, the deeper issue of Tamil political rights remains unresolved.
+The 13th Amendment, despite its flaws
+, remains the most
+viable framework for addressing Tamil aspirations
+within a united Sri Lanka.
+While India’s stance on the issue may be evolving,
+Sri Lanka’s leadership must recognise that meaningful devolution is not merely a diplomatic obligation but a necessity
+for national harmony.
+Click to View More
+Editorial Analysis
+**********The Science is Clear, Crowd Disasters Are Preventable
+Context
+recent disaster at the Maha Kumbh in India,
+which claimed 30 lives, is
+another reminder of the dangers posed by high-density crowds.
+Despite scientific research offering clear solutions,
+local governments and event organisers often fail to take the necessary precautions.
+Therefore,
+it is important to explore the causes of crowd crushes, examines their global impact, stricter regulations
+and better crowd management strategies to prevent future tragedies.
+The Science Behind Crowd Crushes and Similar Past Incidents
+Crowd crushes occur when
+too many people are compressed into a confined space
+, increasing the density beyond safe limits.
+Research shows that
+injuries begin occurring at a density of five people per square meter
+, while a density of seven people per square meter or more can lead to severe injuries or fatalities.
+This is because,
+at such high densities, individuals lose the ability to control their movements
+, and breathing itself can become difficult.
+recent Maha Kumbh disaster is a textbook example
+of how crowd density can spiral out of control.
+Reports suggest that
+a large crowd formed behind a barrier, leading to intense pressure on those at the front.
+When movement is restricted,
+even minor disturbances, such as pushing or sudden shifts in direction, can trigger a deadly crush.
+Similar Incidents
+Similar incidents have occurred worldwide, including the
+2021 Astroworld concert in Houston, the 2022 Itaewon Halloween tragedy in South Korea, the 2023 Yemen charity distribution stampede,
+and the 2024 religious festival disaster in Nigeria.
+These examples
+highlight the widespread nature of the problem
+and emphasize the need for proactive crowd management strategies.
+Misconceptions Surrounding Crowd Crush Incidents and Economic Incentives Behind the Inaction
+The Myth of Crowd Behaviour as the Cause
+Historically,
+people have believed that
+crowd crushes are caused by panic, with individuals recklessly pushing and trampling others
+in an attempt to escape.
+However,
+scientific studies on crowd dynamics have consistently debunked this notion.
+In reality,
+crowd crushes occur due to extreme density
+, not panic or aggression.
+When too many people are forced into a small space, physical movement becomes restricted, and individuals lose their ability to control their own actions.
+At this point,
+even minor pressure from behind—whether intentional or not—can cause people at the front to be squeezed against barriers
+, walls, or other individuals, leading to asphyxiation and fatal injuries.
+Furthermore,
+once a crowd reaches a critical density, people inside the mass are unable to see or understand what is happening
+around them.
+Even if they sense danger,
+they may have no way to escape or influence the movement of the crowd.
+This is why crowd crushes often occur even in calm settings
+, such as religious pilgrimages, where there is no aggressive or reckless behaviour.
+The Economic Incentives Behind Inaction
+Despite the clear benefits of proper crowd management,
+many event organisers fail to implement these strategies.
+A major reason for this
+is financial incentive
+Large-scale events
+, whether concerts, religious gatherings, or sports matches,
+generate significant revenue
+through ticket sales, concessions, and merchandise.
+Organisers often have a vested interest
+in packing as many people as possible into a venue to maximize profits.
+Implementing safety measures
+, such as limiting attendance, expanding venue space, or hiring trained crowd managers,
+is often seen as an unnecessary expense.
+Governments also share some of the blame.
+In many countries, there are no strict regulations
+requiring event organisers to follow best practices for crowd safety
+As a result,
+safety measures are often left to the discretion of private promoters
+, who may prioritise cost-cutting over public safety.
+Without legal mandates and strict enforcement,
+profit-driven decision-making can put thousands of lives at risk.
+Key Actions to Prevent Dangerous Crowd Densities
+Venue Design and Capacity Management
+Ensuring that
+event spaces are designed to accommodate the expected number of attendees
+without creating choke points, bottlenecks, or dead ends.
+Calculating crowd capacity based on scientifically proven density limits is essential.
+Sufficient Entry and Exit Points
+Having enough
+well-spaced entry and exit routes prevents dangerous congestion.
+Restricted or blocked exits have been a major factor in past crowd disasters, trapping people in deadly situations.
+Staggered Arrivals and Departures
+Large crowds do not necessarily have to move all at once.
+Organisers can schedule staggered entry and exit times
+, reducing the likelihood of mass surges at any given moment.
+Real-Time Crowd Monitoring
+Using surveillance cameras, drones, and other monitoring technologies can help organisers track crowd density and respond to potential dangers before they escalate.
+Crowd Segmentation Strategies
+Dividing large crowds into smaller, controlled sections can significantly reduce the risk of dangerous surges.
+New York City’s Times Square New Year’s Eve celebration is a prime example,
+where barriers segment the crowd into smaller groups, making it easier to manage.
+The Way Forward: Shifting Responsibility to Where It Belongs
+Instead of blaming individuals for ‘chaotic behaviour’ in crowd crush incidents,
+governments and the public must hold event organisers accountable.
+Authorities must enforce strict safety regulations
+, requiring all large events to implement proven crowd management techniques.
+Penalties for negligence should be severe enough to deter reckless planning
+, and event permits should be contingent on organizers demonstrating clear safety protocols.
+Conclusion
+The loss of life at the Maha Kumbh,
+like so many other crowds crush incidents,
+was not an accident but a preventable failure of planning and regulation.
+Scientific research has made it clear how and why these disasters occur
+, yet event organisers and governments continue to ignore basic safety measures.
+Until authorities take proactive steps
+to enforce proper crowd management,
+these tragedies will continue to claim innocent lives.
+Only through strict regulations, better planning,
+and a commitment to safety, we
+can prevent future crowd crush disasters.
+Click to View More
+Editorial Analysis
+**********[31st January 2025] The Hindu Op-ed: An opportunity to settle Sri Lanka’s ethnic problem
+International Relations
+PYQ Relevance:
+) ‘India is an age-old friend of Sri Lanka.’ Discuss India’s role in the recent crisis in Sri Lanka in the light of the preceding statement.
+(UPSC CSE 2022)
+Mentor’s Comment:
+UPSC mains have always focused on
+India is an age-old friend of Sri Lanka (2022),
+and
+India — Sri Lanka relations
+’ (2013).
+Over the past 40 years, India’s role in Sri Lanka’s ethnic conflict evolved from mediator to active player, leading to the 1987 Indo-Lanka Accord and the 13th Amendment, which introduced Provincial Councils. The JVP opposed it, calling it an Indian imposition. The LTTE also rejected it and demanded a separate Tamil Eelam, which India never supported.
+Today’s editorial talks about the India Srilanka relation. This content would help in GS Paper 2 International relations.
+_
+Let’s learn!
+Why in the News?
+Recently, India’s decision to name the Jaffna Cultural Centre after Tamil poet-philosopher Thiruvalluvar is a symbolic way to strengthen its deep ties with Sri Lanka.
+What are the historical roots of the ethnic conflict in Sri Lanka?
+Colonial Legacy
+: British colonial rule (1815-1948) favoured the Tamil minority in administration and education, causing resentment among the Sinhalese majority.
+Sinhala-Only Act (1956)
+: The official adoption of Sinhala as the sole national language marginalized Tamil speakers and led to widespread Tamil discontent.
+Discrimination in Education & Employment
+: Policies like the standardization of university admissions (1970s) made it harder for Tamils to access higher education and government jobs.
+Ethnic Violence & Riots
+: The 1983 anti-Tamil pogrom (Black July) led to mass violence against Tamils, intensifying the demand for Tamil autonomy.
+Rise of the LTTE
+: The Liberation Tigers of Tamil Eelam (LTTE) emerged as the dominant militant group demanding an independent Tamil Eelam, leading to a brutal civil war (1983-2009).
+Indo-Lanka Accord (1987) & 13th Amendment
+: This attempt at devolution through Provincial Councils failed to fully address Tamil aspirations, leading to continued tensions.
+How can the new government address Tamil aspirations and rights?
+Full Implementation of the 13th Amendment:
+The government should prioritize the effective implementation of the 13th Amendment to the Constitution, which allows for provincial councils and limited autonomy for Tamil-majority regions. This step is crucial for addressing Tamil political representation and governance.
+Engagement in Inclusive Dialogue:
+Establishing a direct and inclusive dialogue with Tamil political leaders and communities is essential. This dialogue should focus on addressing historical grievances, ensuring that Tamil voices are heard in national policy-making, and fostering reconciliation.
+Address Land Rights and Resettlement Issues:
+The government must take action to return lands occupied by the military to their rightful Tamil owners and halt any ongoing land grabs that threaten Tamil communities. Ensuring land rights is vital for restoring trust and dignity among Tamils.
+Commitment to Human Rights Accountability:
+The new administration should commit to addressing past human rights violations during the civil war, including accountability for wartime atrocities. This includes repealing repressive laws like the Prevention of Terrorism Act (PTA) that disproportionately affect Tamils.
+Cultural Recognition and Language Rights:
+Promoting Tamil culture and ensuring that Tamil is recognized as an official language alongside Sinhala would help foster a sense of inclusion and respect for Tamil identity within the broader national framework, enhancing community cohesion.
+What role does international support play in resolving Sri Lanka’s ethnic issues?
+Mediation and Pressure:
+Countries like India have historically acted as mediators in Sri Lankan affairs. Their support can encourage the government to adhere to commitments regarding Tamil rights and autonomy.
+Development Assistance:
+International aid can facilitate economic development in Tamil areas, addressing disparities that fuel ethnic tensions. India’s financial assistance for infrastructure projects is an example of how external support can aid reconciliation efforts.
+Monitoring Human Rights:
+International organizations can monitor human rights conditions in Sri Lanka, advocating for accountability and justice for past atrocities against Tamils, which is essential for building trust and moving towards lasting peace.
+Way forward:
+Strengthen Political and Constitutional Reforms
+: Ensure full implementation of the 13th Amendment, conduct Provincial Council elections, and explore further constitutional reforms to enhance Tamil political representation and autonomy.
+Promote Inclusive Economic Development and Reconciliation
+: Invest in infrastructure, employment, and education in Tamil-majority areas while advancing truth, justice, and reconciliation initiatives to address past grievances and build long-term social cohesion.
+**********Cabinet approves Mechanism for procurement of ethanol by Public Sector Oil Marketing Companies (OMCs) under EBP Programme
+Schemes
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Ethanol Production ;
+Why in the News?
+The Cabinet Committee on Economic Affairs (CCEA) has approved a revision in the ethanol procurement price for Public Sector Oil Marketing Companies (OMCs) for the Ethanol Supply Year (ESY) 2024-25.
+What is the significance of the Price Revision?
+The recent revision of the ethanol procurement price for Public Sector Oil Marketing Companies (OMCs) is significant for several reasons:
+Price Stability and Remuneration:
+The increase from ₹56.58 to ₹57.97 per litre ensures price stability and provides a more remunerative rate for ethanol suppliers, which is crucial for maintaining a steady supply of ethanol.
+Support for Sugarcane Farmers:
+The separate payment of Goods and Services Tax (GST) and transportation charges will benefit sugarcane farmers, enhancing their income and encouraging production.
+Meeting Blending Targets:
+The 3% increase in the price is aimed at ensuring adequate availability of ethanol to meet the ambitious blending target of 20% by 2025-26, advancing from the original target of 2030.
+Reducing Crude Oil Dependency:
+This initiative is part of a broader strategy to reduce India’s dependency on crude oil imports, leading to substantial foreign exchange savings and environmental benefits.
+What is Ethanol Blended Petrol (EBP)?
+The Ethanol Blended Petrol (EBP) Programme is a government initiative aimed at promoting the blending of ethanol with petrol to create a more sustainable and environmentally friendly fuel option.
+OMCs are currently
+blending up to 20% ethanol with petrol
+, which helps reduce reliance on imported crude oil and lowers carbon emissions.
+Ethanol blending has dramatically increased from 38 crore litres in the
+Ethanol Supply Year (ESY) 2013-14
+to 707 crore litres in ESY 2023-24, achieving an average
+blending rate of 14.60%.
+The programme has resulted in estimated savings of over
+₹1,13,007 crore
+in foreign exchange and has substituted approximately
+193 lakh metric tonnes of crude oil
+over the past decade.
+What are other initiatives taken to promote biofuels?
+National Policy on Biofuels (2018):
+This policy aims to reduce dependency on fossil fuels and promote sustainable development by encouraging the production and use of biofuels from various feedstocks such as sugarcane, broken rice, and maise.
+Pradhan Mantri JI-VAN Yojana:
+This initiative focuses on accelerating the development of second-generation (2G) ethanol capacity in India, providing viability gap funding to support the establishment of 2G ethanol projects.
+Global Biofuels Alliance (GBA):
+Launched in September 2023, this alliance aims to accelerate the global adoption of cleaner fuels and support decarbonization goals. It involves collaboration with multiple countries to enhance biofuel deployment.
+Repurpose Used Cooking Oil (RUCO) Initiative:
+Launched by the
+Food Safety and Standards Authority of India (FSSAI) in 2018,
+this initiative aims to convert used cooking oil into biofuel, thereby preventing its reuse in food preparation and promoting sustainability.
+Biodiesel Production Targets:
+India has set a
+biodiesel blending target of 5% by 2030.
+The government is mobilizing production through policies that support feedstock availability, including used cooking oil and non-edible industrial oils.
+Sustainable Aviation Fuel (SAF) Initiatives:
+The National Biofuel Coordination Committee has established targets for blending SAF in domestic flights, aiming for
+1% by 2025 and 5% by 2030.
+Ethanol Blending Advancements:
+The target for ethanol blending has been advanced from 2030 to 2025, with plans to
+achieve 20% blending.
+This includes signing long-term off-take agreements with dedicated ethanol plants to ensure a steady supply.
+Way forward:
+Strengthen Feedstock Supply Chain:
+Enhance agricultural productivity and diversify feedstock sources including maize and non-food biomass, to ensure a stable and sustainable ethanol supply.
+Expand Infrastructure and Investments:
+Develop ethanol storage, blending, and distribution networks while encouraging private sector participation through financial incentives and policy support.
+Prelims PYQ:
+[2013]
+With reference to the usefulness of the by-products of the sugar industry, which of the following statements is/are correct?
+Bagasse can be used as biomass fuel for the generation of energy.
+Molasses can be used as one of the feedstocks for the production of synthetic chemical fertilizers.
+Molasses can be used for the production of ethanol.
+Select the correct answer using the codes given below.
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********The science is clear, crowd disasters are preventable
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Crowd Management;
+Why in the News?
+This week in India, a tragic crowd crush at the Maha Kumbh claimed the lives of 30 people.
+What scientific evidence supports the prevention of crowd disasters?
+Crowd Density Studies:
+Research indicates that crowd crushes become dangerous at densities of five persons per square meter, with serious risks emerging at seven persons per square meter or more. This evidence underscores the need for effective crowd management to prevent dangerous overcrowding.
+Predictability of Crowd Behavior:
+Scientific studies have shown that crowd dynamics can be predicted and managed. By understanding how crowds behave in different environments, planners can implement strategies to avoid conditions that lead to crushes.
+Historical Data on Past Incidents:
+Analysis of previous crowd disasters reveals common factors leading to fatalities, such as inadequate space and poor crowd control measures. Lessons learned from these incidents can inform better practices for future events.
+How can effective crowd management practices be implemented at large events?
+Strategic Planning:
+Event organizers should create a comprehensive plan that includes crowd flow evaluation, risk assessment, and clearly marked exits and entrances. This planning should involve local officials to ensure safety measures are adequate.
+Staggered Entry and Exit Times:
+To reduce peak crowd density, organizers can stagger arrival and departure times for attendees, allowing for a more manageable flow of people into and out of the venue.
+Use of Barriers:
+Implementing physical barriers can help segment crowds into smaller groups, reducing the likelihood of dangerous surges. Barriers should be designed to allow for emergency exits if needed.
+Crowd Monitoring Systems:
+Utilizing technology for real-time monitoring of crowd density and behaviour can help event staff respond quickly to potential dangers. Mass notification systems can alert staff about growing concerns, enabling timely interventions.
+Staff Training and Communication:
+Ensuring that all staff and security personnel are trained in crowd management techniques is essential. Clear communication protocols should be established to relay information quickly during an event.
+What role do policies and regulations play in enhancing crowd safety?
+Mandatory Safety Regulations:
+Governments should introduce regulations requiring event organizers to adhere to safety standards that limit crowd density and ensure adequate emergency planning. Such policies can hold organizers accountable for crowd safety.
+Economic Incentives for Compliance:
+While event organizers often prioritize profit over safety, regulations can create incentives for them to implement safer practices, such as limiting ticket sales based on venue capacity.
+Post-Incident Reviews and Accountability:
+Establishing a framework for reviewing crowd disasters can lead to improved regulations and practices in the future. Accountability measures can encourage compliance with safety standards among event planners and local authorities.
+Public Awareness Campaigns:
+Governments can promote awareness about crowd safety among the public, educating attendees on how to behave in crowded situations and the importance of following safety protocols during events.
+What are the steps taken by the government?
+National Disaster Management Authority (NDMA) Guidelines:
+The NDMA has formulated guidelines to ensure safe crowd management during mass gatherings. These guidelines include regulating traffic, using barricades, and ensuring adequate police presence to manage crowds effectively.
+Capacity Evaluation:
+Before hosting large events, there is a requirement for proper evaluation of the venue’s capacity. This ensures that the infrastructure can handle the expected crowd size without leading to dangerous overcrowding.
+Use of Technology:
+The government encourages the deployment of advanced technologies such as CCTV surveillance, drones for aerial monitoring, and public address systems to enhance crowd management and safety.
+Traffic Management:
+Effective traffic management strategies are implemented, including displaying route maps, managing unauthorized parking, and controlling pedestrian flow around event venues to prevent bottlenecks.
+Way forward:
+Strengthen Regulatory Framework
+– Governments should enforce stricter crowd safety regulations, mandating capacity limits, emergency preparedness, and real-time crowd monitoring for all large events.
+Enhance Technological Integration
+– Deploy AI-based crowd analytics, drone surveillance, and real-time alert systems to monitor crowd density and movement. Training event staff in using these technologies will improve response times and prevent disasters.
+Mains PYQ:
+Discuss the recent measures initiated in disaster management by the Government of India departing from the earlier reactive approach.
+(UPSC IAS/2020)
+How important are vulnerability and risk assessment for pre-disaster management? As an administrator, what are key areas that you would focus on in a Disaster Management System?
+(UPSC IAS/ 2013)
+**********India approves Mutual Credit Guarantee Scheme for MSME manufacturers
+Schemes
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Mutual Credit Guarantee Scheme (MCGS)
+Mains level:
+Challenges in MSMEs;
+Why in the News?
+The government approved a
+Mutual Credit Guarantee Scheme  (MCGS)
+for micro, small, and medium enterprises (MSMEs).
+What is MCGS-MSME?
+The Mutual Credit Guarantee Scheme for MSMEs (MCGS-MSME) is a government initiative aimed at enhancing financial accessibility for micro, small, and medium enterprises in India.
+What are the Provisions and Salient Features of MCGS-MSME?
+Eligibility and Loan Coverage:
+The MCGS-MSME is available to MSMEs with a valid Udyam Registration Number, providing loan guarantees of up to Rs 100 crore for purchasing equipment and machinery.
+Guarantee Coverage:
+The scheme offers 60% guarantee coverage by the National Credit Guarantee Trustee Company Limited (NCGTC) for loans sanctioned to Member Lending Institutions (MLIs).
+Project Cost Requirements:
+While the guaranteed loan amount is capped at Rs 100 crore, the total project cost can exceed this amount, provided that at least 75% of the project cost is allocated for equipment or machinery.
+Repayment Terms:
+Loans up to Rs 50 crore have a repayment period of up to 8 years, including a moratorium of up to 2 years on principal repayments. For loans above Rs 50 crore, longer repayment schedules may be considered.
+Scheme Duration and Fees:
+The MCGS-MSME will be in effect for four years from the issuance of operational guidelines or until cumulative guarantees of Rs 7 lakh crore are issued. The initial guarantee fee is waived for the first year, followed by a fee of 1.5% per annum for the next three years, and then reduced to 1% per annum thereafter.
+What are the other steps taken to ease access to Credit for MSMEs?
+In addition to the MCGS-MSME, several other measures have been implemented to facilitate easier access to credit for MSMEs:
+Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE):
+This scheme provides collateral-free loans up to Rs 2 crore, offering up to 85% guarantee coverage, thereby reducing lender risk.
+Raising and Accelerating MSME Performance (RAMP) Program:
+This initiative involves an investment of Rs 6,000 crore over five years, aimed at enhancing MSME growth and performance.
+Trade Receivables Discounting System (TReDS):
+An online platform that enables MSMEs to receive faster payments from larger companies, improving cash flow and liquidity.
+Emergency Credit Line Guarantee Scheme (ECLGS):
+Introduced during COVID-19, this scheme provided a Rs 3 lakh crore relief package, offering a 100% government-backed guarantee for loans.
+Priority Sector Lending (PSL) Norms:
+These regulations require banks to allocate a portion of their loans specifically for MSMEs, ensuring that they receive necessary financial support.
+What are the challenges faced by MSMEs in accessing finance?
+Access to Finance:
+One of the most significant challenges faced by MSMEs is obtaining timely and affordable financing. For example, The
+Bank of Baroda
+reported that over
+50%
+of MSMEs in India could not access formal credit.
+Lack of Financial Knowledge:
+Many MSMEs lack awareness of available financial schemes and products, which restricts their ability to access funding. For example, Many business owners remain unaware of the
+Shishu, Kishor, and Tarun loan schemes.
+Way forward:
+Enhanced Financial Literacy and Awareness Campaigns:
+There is a need for targeted outreach programs to educate MSMEs about available financial schemes, including loan products and government initiatives like Shishu, Kishor, and Tarun schemes, to ensure they are aware and can leverage them effectively.
+Streamlined Loan Processes and Collateral-Free Options:
+Simplifying the loan application process and expanding collateral-free loan schemes like CGTMSE, along with improving credit rating systems, will ensure quicker and easier access to funds, especially for smaller MSMEs.
+Mains PYQ:
+Can the strategy of regional-resource-based manufacturing help in promoting employment in India?
+(UPSC IAS/2019)
+**********[pib] E-Shram Microsites & Occupational Shortage Index (OSI)
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Union Minister for Labour & Employment has launched State and Union Territory Microsites under the e-Shram initiative and the Occupational Shortage Index (OSI).
+About E-Shram Microsites
+state-specific digital platforms
+integrated with the
+national e-Shram database
+It is aimed at providing
+unorganised workers seamless access to both Central and State government welfare programs
+These platforms ensure
+real-time integration
+between
+State portals and the e-Shram database
+, allowing simplified
+registration of unorganised workers
+Key benefits includes:
+(1) For Workers:
+One-stop access
+employment opportunities, skilling programs, and social security benefits
+Multilingual accessibility
+, ensuring workers from different regions can navigate the platform in their
+preferred language
+Two-way integration
+, allowing workers to receive
+real-time updates
+on welfare schemes and job opportunities.
+(2) For States/UTs:
+Cost-effective digital infrastructure
+, reducing the need for separate
+State-level portals
+Real-time analytics dashboards
+better policy decision-making
+customized tools
+for specific
+labour market requirements
+What is Occupational Shortage Index (OSI)?
+data-driven tool
+designed to
+identify job roles and industries facing labour shortages
+, improving workforce planning and employment outcomes.
+It is based on
+ILO methodology and quarterly Periodic Labour Force Survey (PLFS) data
+, ensuring an
+accurate and updated analysis
+of the job market.
+It comprise of following 4 sub-indicators:
+Hourly Wage Growth
+Employment Growth
+Growth in Hours Worked
+Share of Under-qualified Workers
+High OSI
+indicates
+higher demand of workers
+within a particular occupation, which may result in higher wages, more job opportunities.
+Low OSI
+Surplus/less demand of workers
+, which may lead to lower wages, fewer job opportunities, and increased competition for available positions.
+PYQ:
+[2015]
+Discuss the changes in the trends of labour migration within and outside India in the last four decades.
+**********MoEFCC approves Reconstruction of Teesta Dam despite Safety Concerns
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Teesta River
+Why in the News?
+The Union Ministry of Environment, Forest and Climate Change (MoEF&CC) has
+approved the reconstruction
+of the
+Teesta-III Dam
+, which was destroyed by a
+Glacial Lake Outburst Flood (GLOF) in October 2023
+.
+About Teesta River
+The Teesta River is a
+transboundary river
+flowing through
+India and Bangladesh
+Originates from
+Tso Lhamo Lake
+Sikkim
+, at
+5,330 meters
+in the Himalayas.
+Major tributary of the
+Brahmaputra River (Jamuna in Bangladesh)
+Vital for
+irrigation, hydroelectric power, and water supply
+in Sikkim, West Bengal, and Bangladesh.
+Teesta Water Dispute
+remains unresolved, with Bangladesh seeking an equitable share of water.
+Geographical Features:
+Length:
+414 km
+(309 km in India, 105 km in Bangladesh).
+Basin Area:
+12,159 sq. km
+Sikkim and North Bengal
+Originates in
+North Sikkim
+→ flows through
+→ enters
+before merging with the
+Passes through major towns like
+Mangan, Kalimpong, Jalpaiguri, and Rangpo
+Tributaries:
+Left-bank:
+Rangit, Relli, Great Rangit.
+Right-bank:
+Lachung, Lachen, Talung.
+It supports
+Himalayan biodiversity
+, crucial for
+tea plantations and terrace farming
+Conservation Initiatives:
+National River Conservation Plan (NRCP):
+Includes efforts to
+reduce pollution and improve water quality
+of the Teesta.
+Teesta Barrage Project (West Bengal):
+Aimed at
+irrigation development and hydroelectric power generation
+in North Bengal.
+Hydroelectric Projects in Sikkim:
+Several
+Teesta Hydropower Projects (Teesta Stage III, IV, V, VI, etc.)
+have been established to
+generate renewable energy
+while ensuring
+minimum ecological impact
+India-Bangladesh Water Sharing Talks:
+Ongoing diplomatic negotiations to
+resolve the Teesta water-sharing dispute
+, ensuring equitable distribution.
+Catchment Area Treatment (CAT) Plan:
+Implemented to prevent
+soil erosion and siltation
+, protecting river health.
+PYQ:
+[2017]
+With reference to river Teesta, consider the following statements:
+1. The source of river Teesta is the same as that of Brahmaputra but it flows through Sikkim.
+2. River Rangeet originates in Sikkim and it is a tributary of river Teesta.
+3. River Teesta falls into Bay of Bengal at the border of India and Bangladesh.
+Which of the statements given above is/are correct?
+(a) 1 and 3 only
+(b) 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+**********Asteroid Bennu Samples hold Secrets of Life’s Origins
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Asteroid Bennu; OSIRIS-REx Mission
+Why in the News?
+NASA’s
+OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, Security–Regolith Explorer) mission
+has delivered samples from
+asteroid Bennu
+, revealing
+amino acids, nucleobases, and signs of ancient saltwater
+, key components in the origins of life.
+Key Findings of the Study:
+14 out of 20 amino acids
+essential for proteins on Earth were found.
+All
+five nucleo-bases
+used in
+DNA and RNA
+were detected, indicating
+prebiotic chemistry
+beyond Earth.
+Ammonia & Formaldehyde
+compounds can react under suitable conditions to form
+complex organic molecules
+It thus supports the idea that asteroids
+delivered key building blocks for life
+to early Earth.
+Calcite, halite, sylvite, and trona
+were found, indicating
+prolonged exposure to liquid water
+Similar briny conditions have been observed on
+Ceres and Enceladus
+, suggesting the
+solar system had widespread environments suitable for organic chemistry
+Life on Earth exclusively uses
+left-handed amino acids
+, but Bennu samples show an
+equal mix
+, raising questions about
+why life evolved with this preference
+About Asteroid Bennu
+is a
+carbon-rich
+asteroid that orbits between
+Earth and Mars
+It is believed to be a
+primitive remnant of the early solar system
+, holding clues to the origins of life.
+The asteroid is
+porous
+, with up to
+60% empty space
+, affecting its
+collision potential with Earth
+in the distant future.
+It periodically
+ejects material
+, classifying it as an
+active asteroid
+was NASA’s
+first asteroid sample-return mission
+, launched in
+2016
+to study and collect material from
+Bennu’s surface
+The spacecraft
+arrived at Bennu in 2018
+, mapped its surface for two years, and
+collected samples in 2020
+It successfully
+returned the material to Earth in 2023
+The mission aimed to analyze
+Bennu’s composition
+, understand its
+water history
+, and study the
+that may have played a role in the origin of life.
+Significance of the Study:
+It strengthens the theory that
+asteroids contributed to life’s origins
+by delivering
+organic molecules and water
+It confirms that
+essential ingredients for life were widespread in the early solar system
+, increasing the possibility of
+life beyond Earth
+It helps refine
+planetary defense strategies
+, as Bennu has a
+small chance of impacting Earth in the future
+PYQ:
+[2011]
+What is the difference between asteroids and comets?
+Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material.
+Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and Mercury.
+Comets show a perceptible glowing tail, while asteroids do not.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+**********Places in news: Kurdistan Region
+world map
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+India has dispatched a humanitarian aid consignment to the Kurdistan region of Iraq.
+What is the Kurdistan Region?
+The
+refers to areas inhabited by
+ethnic Kurds
+, primarily in
+Iraq, Iran, Syria, and Turkey
+Kurdistan Regional Government (KRG)
+administers
+Iraqi Kurdistan
+autonomous region in northern Iraq
+The Kurds, a distinct
+ethnic and linguistic group
+, have long sought
+independence and greater autonomy
+Geographical Significance:
+Spans across
+Turkey, Iraq, Iran, and Syria
+, covering the
+Zagros Mountains and fertile plains
+Rich in oil and natural gas
+, particularly in
+, making it geopolitically significant.
+Controls key
+border regions
+and trade routes, influencing regional stability.
+Political Implications:
+Kurdish struggle for autonomy
+has led to
+tensions with central governments
+Iraq and Turkey
+Kurdish forces (Peshmerga)
+have played a key role in
+fighting ISIS
+and maintaining security in northern Iraq.
+KRG has diplomatic ties
+with Western countries but lacks full sovereignty.
+Ongoing Dispute:
+Kurdish independence movement
+faces opposition from
+Iraq, Turkey, Iran, and Syria
+, fearing territorial fragmentation.
+Iraq rejected the 2017 Kurdistan independence referendum
+, leading to military and economic retaliation.
+Turkey continues military operations against Kurdish groups
+, considering them a security threat.
+Turkey-ISIS-Kurd relationship
+remains controversial, with allegations that
+Turkey indirectly enabled ISIS against the Kurds
+PYQ:
+[2018]
+The term “two-state solution” is sometimes mentioned in the news in the context of the affairs of:
+(a) China
+(b) Israel
+(c) Iraq
+(d) Yemen
+**********

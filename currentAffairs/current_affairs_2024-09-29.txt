@@ -1,0 +1,223 @@
+Digital Personal Data Protection Act
+Why in News?
+NITI Aayog, the top think tank of the government, had opposed some of the provisions of the Digital Personal Data Protection Act 2023. The Aayog particularly raised concerns regarding the changes proposed to the Right to Information (RTI) Act 2005.
+What’s in Today’s Article?
+What is the Digital Personal Data Protection Act (DPDPA) 2023?
+Key Features of the DPDPA
+Concerns Regarding DPDPA Raised by the NITI Aayog
+It is a comprehensive privacy and data protection law
+that provides guidelines on processing, storing and securing personal data.
+It recognises the right of individuals
+, referred to as
+data principals
+, to protect their personal data during the processing of that data for lawful purposes.
+The law culminates a seven-year journey
+that began when the Supreme Court of India (SC), in the
+K.S. Puttaswamy case
+, ruled the right to privacy was protected under the Constitution of India in 2017.
+The DPDPA includes provisions regarding
+consent, legitimate uses, breaches, data fiduciary and processor responsibilities, and individuals' rights over their data.
+The law doesn't apply to paper data
+unless it's digitised or data collected for personal, artistic and journalistic use.
+Fines for non-compliance
+range from Rs 10,000 for individuals to Rs 2.5 billion for organisations.
+The law is yet to be operationalised
+, with necessary rules for its implementation still pending.
+Key Features of the DPDPA:
+Applicability:
+It applies to all types of data linked to an individual, including name, addresses, ID numbers and behavioural information such as location, web history and preferences.
+But it doesn't apply to data
+made publicly available by an individual or third parties.
+This means information that an individual has consented to share is considered protected,
+but not data indexed by search engines or social media sites
+Defines data processing:
+It includes how the data is collected, recorded, structured, stored, shared or automatically acted on.
+This data can be processed in India or other countries
+unless specifically barred and applies to all companies that offer goods or services within India, regardless where their headquarters is located.
+Defines responsibilities of specific entities:
+Data fiduciaries
+are businesses and other organisations that interact with individuals to collect, amend and delete data as requested.
+They need to specify why data is required, how long it's retained and how it can be used.
+Significant data fiduciary (SDF):
+Companies that process large amounts of data may be designated as a SDF and need to
+Appoint an Indian data protection officer,
+Conduct third-party audits and
+Perform data protection impact assessments.
+Data processors
+are third-party businesses that process data on behalf of fiduciaries. They can include cloud providers or services in relation to KYC, fraud detection and credit ratings.
+Concerns Regarding DPDPA Raised by the NITI Aayog:
+The DPDP Bill proposed
+an amendment to a section
+[Section 8(1)(j)]
+in the RTI Act
+with such effect that
+disclosure of personal information about public officials
+would not be allowed even when these are justified in larger public interest.
+The NITI Aayog (then in the inter-ministerial consultations) suggested the Ministry of Electronics and Information Technology (MeitY)
+to not pass the proposed law in its current form as it could weaken the RTI Act
+The provision to amend the RTI Act was also criticised by the Opposition parties and civil society activists during the consultation period and when the Bill came up for discussion in Parliament.
+However, the MeitY
+kept the proposed changes to the RTI Act unchanged
+despite the reservations of NITI Aayog.
+The government was of the view that
+the right to privacy is a fundamental right
+under the Constitution of India, and should be made available to officers in government institutions as well.
+newspaper.pdf
+( Size:  1.1 MB  )
+Click to View More
+Polity & Governance
+**********Was Animal Fat Present in Tirupati Laddus?
+What’s in Today’s Article?
+Introduction (About the Recent Controversy)
+Adulteration Allegations (Report Findings, How Adulteration is Detected, Challenges, etc.)
+Conclusion
+Introduction:
+The Tirupati laddu, a revered offering at the
+Tirumala Tirupati Devasthanams
+(TTD) in Andhra Pradesh, has recently come under scrutiny after reports suggested that the ghee used in its preparation might be adulterated with animal fats, including beef tallow and lard.
+The controversy has sparked public outrage and raised questions about the authenticity of the ingredients used in this iconic prasadam.
+Allegations of Adulteration:
+The controversy began after a technical report by the Centre for Analysis and Learning in Livestock and Food (CALF) of the
+National Dairy Development Board (NDDB) found that the ghee supplied to TTD was adulterated
+The report identified the presence of various fats, including those from soybean, sunflower oil, rapeseed oil, linseed, cottonseed, fish oil, coconut, palm oil, and even animal fats such as beef tallow and lard.
+The issue gained further traction when former
+Andhra Pradesh Chief Minister Chandrababu Naidu publicly alleged that animal fats, including beef and pig fat, were being used in the laddus, leading to widespread protests
+How Adulteration is Detected?
+Milk fat, like all organic fats, is
+composed of triglycerides
+, which are
+glycerol
+bonded with fatty acids.
+The composition of these triglycerides can vary significantly depending on the source of the fat, such as cow ghee, vegetable oils, or animal fats.
+most precise method for detecting adulteration is gas chromatography
+, which separates the chemical components of a sample, creating a waveform that identifies the presence and proportions of various triglycerides.
+One widely used method, developed by German scientist Dietz Precht in 1991, uses a set of five equations to generate ‘s values’ that can detect specific adulterations.
+Each ‘s value’ corresponds to a type of foreign fat, such as s1 for soybean oil, s3 for palm oil and beef tallow, and s4 for lard.
+To qualify as pure cow ghee, all five values must lie within a specific range
+. Even if one value falls outside this range, it indicates the presence of adulteration.
+Findings from the Tirupati Laddu Analysis:
+analysis conducted on two ghee samples revealed that all the ‘s values’ were outside the prescribed ranges, suggesting adulteration
+For instance, the s3 value, associated with palm oil and beef tallow, was recorded at 22.43, well outside the acceptable range of 95.9 to 104.1.
+However, experts caution that this alone does not confirm the presence of beef tallow, as the test identifies adulterants as groups rather than specific fats
+Challenges in Differentiating Sources of Fat:
+Differentiating the exact sources of fat, especially in the complex Indian context, presents significant challenges.
+methods used for detecting adulteration were originally developed for European cows
+, and applying them to Indian cows requires recalibration of the ‘s values’ based on local biochemical data.
+A lack of specific baseline data for Indian bovines and tallow complicates the accuracy of such tests.
+Experts suggest that establishing a comprehensive database on the biochemistry of Indian ghee and animal fats is crucial for precise detection.
+According to experts, accurate differentiation of adulterants is possible with advanced spectrography methods, provided India-specific data is available.
+Conclusion:
+The allegations of adulteration in Tirupati laddus have raised serious concerns about food safety and authenticity.
+While advanced testing methods indicate the presence of foreign fats,
+pinpointing specific adulterants remains complex without localized data
+As this issue unfolds, it
+underscores the need for stringent quality checks, transparency, and reliable data tailored to Indian conditions
+to ensure the purity of offerings that hold cultural and religious significance.
+Was animal fat present in Tirupati laddus.pdf
+( Size:  372.8 KB  )
+Click to View More
+Social Issues
+**********Hezbollah chief Nasrallah killed in Israeli strikes
+Why in news?
+The Israel Defense Forces killed Hasan Nasrallah, the longtime leader of Hezbollah — the Iran-backed armed group and political party that controls much of southern Lebanon.
+Nasrallah remained in charge of Hezbollah for more than 32 years. He played a key role in building the group into the potent force and was one of the most influential and best-known figures in the Middle East.
+What’s in today’s article?
+Why are Israel and Hezbollah fighting?
+Key takeaways from Israel’s attack on Hezbollah chief
+Hezbollah was formed in 1982 as a Shia resistance group with support from Iran’s Islamic Revolutionary Guard Corps (IRGC) following Israel’s invasion of Lebanon.
+Israel aimed to expel the Palestine Liberation Organisation (PLO) from Lebanon and succeeded in relocating the PLO to Tunisia and establishing a buffer zone in southern Lebanon.
+However, the invasion spurred the rise of Hezbollah, which became a long-term security threat to Israel.
+Historically marginalized in Lebanon, the Shia community reorganized under Hezbollah, which now operates as a powerful political, military, and social force.
+group has a political party with parliamentarians
+, provides social services to poorer sections, and commands a strong military unit backed by Iran, with fighters and a range of missiles.
+Hezbollah’s core purpose is resistance against Israel, with the destruction of Israel stated in its manifesto.
+Regarded as a terrorist organization by Israel and the U.S.
+, Hezbollah is credited for forcing Israel to end its occupation of southern Lebanon in 2000.
+The last full-scale war between Israel and Hezbollah occurred in 2006 after a Hezbollah cross-border raid led to an Israeli invasion of Lebanon.
+The latest conflict flared after Hamas’s October 7, 2023 attack on Israel.
+In response to Israel’s retaliation on Gaza, Hezbollah began firing rockets into Israel in solidarity with the Palestinians, prompting Israeli airstrikes on Lebanon.
+This ongoing border conflict has displaced 70,000 Israelis, with tensions escalating after Israel killed Hezbollah commander Fuad Shukr in a Beirut airstrike, leading to intensified rocket attacks from Hezbollah.
+A seismic episode
+Hasan Nasrallah, 64, was Hezbollah’s leader for over three decades, and his assassination by Israeli forces is seen as a pivotal event, likened to the killing of Osama bin Laden by U.S. Navy SEALs.
+Nasrallah became Hezbollah’s leader in 1992 after the assassination of Abbas al-Musawi by Israel.
+Under his leadership, Hezbollah forced Israel to withdraw from Lebanon after wars in 2000 and 2006.
+Nasrallah's Hezbollah harassed Israel after Hamas's October 7, 2023 attacks, leading to the evacuation of 63,000 Israelis.
+His death eliminates one of Israel’s most significant military threats.
+Half of Hezbollah's leadership council eliminated
+Recently, targeted blasts by Israel killed or severely injured around 3,500 middle-to-senior Hezbollah leaders who used pagers and walkie-talkies for secure communication.
+These leaders, holding ranks equivalent to Colonel to General, were crucial for decision-making, organizing retaliatory strikes, and countering Israeli threats.
+The crippling of this leadership tier likely explains Hezbollah’s inability to launch counter-attacks following Israel’s aerial strikes in southern Lebanon and Beirut.
+This disruption in command and control weakened Hezbollah's decision-making and intelligence-sharing.
+A power moment for Israel
+The Axis of Resistance is Iran’s term for the groups targeting Israel, including Hamas, Hezbollah, and the Houthis in Yemen.
+Hezbollah, the strongest of this group, has launched over 8,000 rockets at northern Israel and the Israeli-occupied Golan Heights since Hamas's attacks last year.
+The assassination of Hezbollah leader Hassan Nasrallah marks the peak of Israel’s campaign against the group's leadership, which began with the killing of Fuad Shukr in July.
+Israel has also eliminated Hamas's political head, Ismail Haniyeh, and the military commander behind the October 7 attacks, Mohammed Deif, leaving only Hamas leader Yahya Sinwar alive.
+Meanwhile, the Houthis are a smaller group with limited capabilities, mainly targeting international maritime traffic in the Red Sea.
+Significant moment for Lebanon as well
+Hezbollah has long been the most powerful force in Lebanon, dominating both militarily and politically, with strongholds in Beirut and extensive military assets in rural areas.
+Its mass support, largely due to its charitable activities and propaganda, has significantly waned since 2019, when large-scale protests erupted against Lebanon’s corrupt establishment, of which Hezbollah is seen as a part.
+While Nasrallah’s killing sparked street protests by his mourners, it also offers Lebanon a chance to reduce Hezbollah’s grip on the country, potentially easing its influence over national affairs.
+Saudi Arabia, UAE, Qatar and Iran to have a key role in coming days
+It remains uncertain whether Nasrallah's killing will escalate the West Asian crisis or lead to a de-escalation.
+Countries like Saudi Arabia, the UAE, and Qatar are closely monitoring developments, particularly Iran's potential response—whether it will retaliate and prolong the conflict or allow tensions to ease.
+Another key issue is the stalled hostage deal, with 101 hostages still held by Hamas, some feared dead. Their release could signal a possible end to the conflict.
+India wants early return of peace in the region
+New Delhi, like Saudi Arabia and the UAE, seeks stability in West Asia to resume connectivity projects such as the India-Middle East-Europe Economic Corridor and focus on regional prosperity.
+India's primary concerns are the safety of around 9 million Indians living in the West Asian and Gulf regions, as well as energy security, with two-thirds of its crude oil and natural gas coming from this area.
+A broader conflict would threaten both.
+New Delhi is closely monitoring Israel and Iran's next moves and has issued security advisories for Lebanon amid the ongoing tensions.
+Hezbollah chief Nasrallah killed in Israeli strikes.pdf
+( Size:  3.0 MB  )
+Click to View More
+International Relations
+**********New draft guidelines on passive euthanasia
+Why in news?
+The 'Draft Guidelines for Withdrawal of Life Support in Terminally Ill Patients,' was released by the Union Health Ministry. Feedback and suggestions have been invited from the stakeholders on the draft by October 20.
+While doctors have been informally advising families to withdraw care for terminal patients, there was no formal legal framework.
+What’s in today’s article?
+Euthanasia (Meaning, Types of Euthanasia, Legality in India)
+Draft guidelines on passive euthanasia
+About
+It is defined as the
+hastening of death of a patient to prevent further sufferings
+Active Euthanasia
+Active euthanasia refers to the physician deliberate act, usually the administration of lethal drugs, to end an incurably or terminally ill patient’s life.
+There are three types of active euthanasia, in relation to giving consent for euthanasia, namely:
+Voluntary euthanasia – at patient request,
+Nonvoluntary – without patient consent,
+Involuntary euthanasia – patient is not in a position to give consent.
+Passive Euthanasia
+Passive euthanasia refers to the intentional withholding or withdrawal of medical treatments or life-sustaining interventions, allowing a person to die naturally from their underlying condition.
+This can include stopping treatments like ventilators, feeding tubes, or medications that keep the patient alive.
+Decisions for passive euthanasia are typically made based on the patient's wishes, advance directives, or through family members and healthcare proxies when the patient cannot make decisions themselves.
+A five-judge bench of the Supreme Court in Common Cause vs Union of India (2018) recognised a person’s right to die with dignity.
+It said that a terminally ill person can opt for passive euthanasia and execute a living will to refuse medical treatment.
+The Court permitted an individual to draft a living will specifying that she or he will not be put on life support if they slip into an incurable coma.
+The Court recognised the right to die with dignity as a fundamental right and an aspect of Article 21 (Right to Life).
+In India, active euthanasia is a crime. Only those who are brain dead can be taken off life support with the help of family members.
+Legality in other parts of the world
+Euthanasia is legal in several countries. Euthanasia is legal in the Netherlands, Belgium, Luxembourg, and Spain.
+Switzerland allows assisted suicide.
+Canada permits both euthanasia and assisted suicide, while certain U.S. states, such as Oregon, Washington, and California, allow assisted suicide under strict regulations. Colombia has legalized euthanasia.
+Each country or region has specific criteria, such as terminal illness or unbearable suffering, that must be met for euthanasia or assisted suicide to be performed legally.
+Defined terminal illness
+The draft has defined terminal illness as an irreversible or incurable condition from which death is inevitable in the foreseeable future.
+Based on four conditions
+The guidelines for withdrawing or withholding medical treatment in terminally ill patients are based on four key conditions:
+The individual has been declared brainstem dead.
+There is a medical assessment that the patient's condition is advanced and unlikely to improve with aggressive treatment.
+The patient or their surrogate has provided informed refusal to continue life support after understanding the prognosis.
+The procedure follows the directives set by the Supreme Court.
+Allow patients to decide on life support and resuscitation
+Developed by AIIMS experts, these guidelines allow patients to decide on life support and resuscitation.
+They also permit the withdrawal of supportive care such as ventilation or dialysis if a patient is brain dead, unlikely to benefit from further intervention, and if the patient or surrogate refuses care.
+Provisions related to advance medical directives
+The guidelines also mention advance medical directives, where individuals document their treatment preferences in case they lose decision-making capacity.
+The physician, upon deeming life-sustaining treatments inappropriate, will refer the case to a primary medical board for review.
+If the board agrees, a shared decision is made with the family, and a secondary medical board’s approval is required before withdrawing support.
+New draft guidelines on passive euthanasia.pdf
+( Size:  997.1 KB  )
+Click to View More
+Social Issues
+**********

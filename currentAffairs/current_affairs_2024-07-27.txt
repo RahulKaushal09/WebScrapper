@@ -1,0 +1,391 @@
+Using Children’s Personal Data Legally and Securely
+Context
+The Indian school education system
+stands as one of the
+most expansive and intricate ecosystems globally.
+It
+encompasses approximately 15 lakh schools, 97 lakh teachers, and nearly 26.5 crore students
+from pre-primary to higher secondary levels.
+This vast system includes stakeholders from varied socioeconomic backgrounds,
+which adds to its complexity and richness and therefore adherence to the principles of data privacy and data minimisation is particularly pertinent
+given the sensitive nature of children’s personal data.
+Key Functions of Unified District Information System for Education Plus (UDISE+)
+Data Collection, Management and Real-Time Updates
+UDISE+ is
+designed to collect comprehensive data from schools
+across the country.
+includes information on school infrastructure, teacher demographics, student enrolment,
+and academic performance.
+By
+integrating this data into a centralised system, UDISE+ provides a holistic view
+of the education landscape in India.
+One of the standout features of UDISE+ is its
+ability to provide real-time updates.
+This means that any changes in school infrastructure, staff, or student enrolment can be quickly reflected
+in the system.
+Such immediacy ensures that policymakers have the most current information
+when making decisions.
+Resource Allocation, Monitoring and Evaluation
+With accurate and up-to-date data,
+UDISE+ facilitates more effective resource allocation
+Whether it is the distribution of textbooks, deployment of teachers, or infrastructure development,
+resources can be directed to areas where they are most needed
+, enhancing the overall quality of education.
+UDISE+ enables continuous monitoring and evaluation of educational programs
+and policies.
+By tracking progress and identifying trends, the Ministry of Education can assess the effectiveness of its initiatives
+and make necessary adjustments to achieve desired outcomes.
+Educational Trends Mapping and Policy Formulation
+platform is instrumental in mapping educational trends
+includes tracking enrolment rates, dropout rates, gender parity, and academic achievements.
+Such data is crucial for identifying gaps and areas that require targeted interventions.
+The insights gained from UDISE+ data are invaluable for policy formulation.
+The Ministry can develop and implement policies that are evidence-based and tailored to the specific needs of different regions
+and demographics, ultimately improving the quality of education.
+The Linkage of UDISE+ and the National Education Policy 2020 and Its Benefits
+alignment with the National Education Policy (NEP) 2020, UDISE+ incorporates the Automated Permanent Academic Account Registry (APAAR).
+serves as a unique identifier for each student
+, allowing for the consolidation of academic credentials and demographic information in one place.
+integration ensures that every student's educational journey is tracked accurately,
+facilitating seamless transitions between different levels of education.
+Enhancing Ease of Schooling
+linkage between UDISE+ and APAAR is central to enhancing the ease of schooling
+Automating student admissions helps reduce dropout rates
+during critical transitional phases, such as moving from primary to secondary education.
+This automation also improves opportunities for continuing education
+by making the admission process smoother and more accessible.
+Collaborations with Ed-Tech Companies
+UDISE+ frequently collaborates with ed-tech companies
+and entities like DigiLocker.
+These
+collaborations integrate modern technological solutions
+into the education system, providing digital infrastructure for storing and accessing academic records securely.
+Concerns Surrounding UDISE+ and Solution
+Data Privacy and Security
+While UDISE+ significantly improves data management and policy formulation,
+it also brings challenges related to data privacy and security.
+There are
+numerous potential pressure points wherein non-compliance of the involved actors may materialise.
+For instance,
+there is limited guidance on what constitutes verifiable parental consent. Consent from parents for minors’ data
+, sought under the UDISE+/APAAR regime, may violate this requirement.
+Moreover,
+the DPDP Act emphasises the importance of collecting personal data for specified legitimate purposes only.
+Sharing children’s data under UDISE+ for a purpose incremental to the authorised one could violate this statutory requirement.
+The interlinking of data raises concerns about the exposure of student information
+to various actors within the educational ecosystem.
+platform’s reliance on personal data, including Aadhaar information, necessitates stringent measures
+to protect sensitive information.
+Solution: Adherence to SC’s Puttaswamy Judgement
+The Supreme Court's recognition of the right to privacy as a fundamental right in the Justice K.S. Puttaswamy (Retd.) v. Union of India (2018) case laid down a three-part test for assessing the impact of state action on citizens' privacy rights.
+The test includes
+legitimate state interest in restricting the right, necessity and proportionality of the restriction to achieve the interest, and the restriction being imposed by law.
+Aadhaar integration in APAAR/UDISE+ must comply with these conditions
+, with due caution to prevent data theft and cyber breaches.
+The Need for Specific Protocols to Handle Children’s Data in Indian Education System
+Lack of Specific Mechanism for Sharing Children’s Data
+When it comes to sharing children's personal data without a clear purpose,
+involving third parties like DigiLocker can create uncertainty about their roles.
+It is necessary to identify who is responsible for data (data fiduciary), who processes it (data processor), and whose data it is (data principal) to assign liability, but this has not been done yet.
+APAAR's privacy policy includes some data security and handling rules,
+but it lacks specific protocols for sharing children's data for unspecified purposes.
+No Clarity on Legal Responsibilities
+Both the data policy and the annual report state that the Ministry is not legally responsible
+for the disclosure or accuracy of data shared on UDISE+.
+The privacy policy directs complaints to a grievance officer
+, but it is unclear how legal responsibility is assigned or handled.
+This shows a clear lack of a proper complaint system
+for those whose data is collected and shared under APAAR.
+There are many questions about how different systems work together, consent, and how complaints are handled.
+Developing standard operating procedures, both technical and legal, within a strong governance framework is urgently needed.
+These protocols will help ensure data accuracy and establish legal responsibilities for everyone involved.
+Conclusion
+The Indian school education system, with its vast and diverse ecosystem, requires robust mechanisms
+to manage and protect the personal data of millions of students.
+Standard operating procedures, both technical and legal
+, under a comprehensive governance framework,
+are essential to preserve data authenticity and enforce legal obligations
+for stakeholders.
+Implementing such protocols will create a conscientious approach to sharing, using, and retaining children's personal data,
+ensuring it is done lawfully and securely.
+Click to View More
+Editorial Analysis
+**********Kanwar Yatra - Supreme Court Extends Stay on Directives To Eateries To Display Names
+Why in news?
+The Supreme Court has extended the interim order staying the directives of the Uttar Pradesh and Uttarakhand governments that the eateries along the Kanwariya pilgrim route must display the names of the owners and the staff.
+The stay order will continue till August 5, the next hearing date.
+What’s in today’s article
+Background of the case
+Key takeaways from the hearing
+Legal basis for the directions issued by police
+Police directives and shopkeepers’ right to privacy
+Police directions and the issue of discrimination
+Directive issued by the Muzaffarnagar district police
+On July 17, Uttar Pradesh’s Muzaffarnagar district, directing hotels, dhabas, and shops on the route of the Kanwar Yatra to display the names of their owners and employees.
+The Kanwar Yatra began on July 22 and will continue until August 19.
+It said that while there is no intention of "religious discrimination," previous "law-and-order situations" have arisen due to shop names causing confusion among the Kanwariyas, who follow a strictly vegetarian diet.
+Directive challenged in Apex court
+The notice has been challenged by several parties.
+The petitioners argue that the directive targets Muslim-owned businesses by forcing them to disclose their religious identity, which could have economic consequences and lead to targeting of businesses and individuals.
+They have requested that the directive be publicly withdrawn.
+Stay order by the SC
+The Supreme Court has prohibited the enforcement of the public notice until further hearing.
+No Government Order
+The Court noted that there was no government order empowering the police to give directions in this case.
+In its order, the Bench observed that
+such directions could be issued under the Food Safety and Standards Act, 2006 or the Street Vendors Act, 2014
+to ensure shudh shakahari (strictly vegetarian) food is served to the Kanwar Yatris.
+Limits to Police Action
+The Bench stated that the police cannot usurp the powers of the competent authority under these Acts without a legal foundation.
+The police directions asked shops to "voluntarily display" the names of their owners and employees.
+However, the court noted the petitioners' submissions that penal actions had been initiated against food business operators, indicating that the police's actions may have overstepped their legal authority.
+Question of Discrimination
+The court did not address the petitioners' constitutional arguments.
+Petitioners argued that the directions violated Article 15(1) by discriminating against individuals based on religion and supported the practice of untouchability, which is banned under Article 17.
+This, he contended, led to an economic boycott of establishments hiring people from backgrounds including Muslims and Dalits.
+Police did not cite any specific law in their directions
+The Muzaffarnagar Police have not cited any specific law in their directions to shopkeepers, prompting the Supreme Court to consider which law might authorize such actions by the police and state governments.
+Typically, in urgent situations involving "nuisance or apprehended danger," orders are issued under Section 144 of the Indian Penal Code, 1860, which is largely mirrored in Section 163 of the Bharatiya Nagarik Suraksha Sanhita, 2023.
+This provision allows a Magistrate, empowered by the state government, to direct individuals to refrain from certain acts to prevent public disturbances or danger to life and safety.
+SC guidelines for exercising power under Section 144
+In 2012, the Supreme Court established guidelines for exercising power under Section 144 in the
+'In Re: Ramlila Maidan Incident' case
+This involved a protest organized by yoga guru Baba Ramdev in 2011 against alleged corruption, where Section 144 was imposed, leading to police intervention at night.
+The court held that actions by public authorities under statutory power must be tested on two grounds:
+whether the action was within the legal authority conferred by law, and
+whether it was reasonable.
+Onus on apex court
+In the Kanwar Yatra case, the court must determine whether any law grants the police and state government the power to issue directions to shopkeepers and whether those directions were reasonable.
+The court will need to decide if requiring businesses to publicly disclose the names of shop owners and employees violates their right to privacy under Article 21 of the Constitution.
+In the 2017 Right to Privacy judgment (
+'Justice K S Puttaswamy v. Union of India'
+), the Supreme Court recognized the fundamental right to privacy.
+This included the "
+privacy of the mind
+which covers religious faith and the freedom to express or withhold such choices
+Justice D Y Chandrachud outlined a
+"three-fold" test for government restrictions on privacy
+There must be an existing law allowing such restrictions.
+The restriction must serve a legitimate state aim.
+The restriction must not be "disproportionate" to the government's objective, ensuring a
+rational nexus between the restriction and the objective
+In the Kanwar Yatra case, the court will consider if the police directions restrict the right to privacy.
+If a supporting law is found, the court will evaluate whether avoiding a "law and order situation" is a legitimate aim and if requiring businesses to display names is a proportionate measure to achieve this aim.
+Article 15(1) of the Constitution states, “The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.”
+The court will need to assess whether the requirement for individuals to disclose their names, potentially revealing their religious and caste identities, constitutes discrimination against shop owners and employees based on identity, particularly targeting Muslim-owned businesses.
+The Muzaffarnagar police stated that the directions were intended to provide convenience to devotees passing through Muzaffarnagar district who abstain from certain food items.
+However, petitioners have argued that the directions are based on a discriminatory assumption that only people of certain castes/religions can prepare and serve satvik or pure veg food.
+Additionally, the court may consider whether these directions violate the right to
+"practise any profession, or to carry on any occupation, trade or business
+" under
+Article 19(1)(g)
+Petitioners claimed that the directions have led to the
+complete economic boycott of Muslim minorities
+Kanwar Yatra.pdf
+( Size:  3.4 MB  )
+Click to View More
+Polity & Governance
+**********Moidams Inscribed in the UNESCO World Heritage List as India’s 43rd Entry
+Why in news?
+In an important cultural achievement for India “Moidams – the Mound-Burial System of the Ahom Dynasty” from Assam has been officially inscribed on the UNESCO World Heritage List under the category
+Cultural Property.
+The announcement was made during the ongoing 46th session of the World Heritage Committee at New Delhi. This makes it the 43rd property from India to be included in the list.
+This is the
+third World Heritage Property from Assam
+, following Kaziranga National Park and Manas Wildlife Sanctuary (both inscribed under the Natural category in 1985).
+India became a member of the World Heritage Committee from 2021-25
+and is currently hosting its first ever session since joining UNESCO’s World Heritage Convention of 1972. The 46th session of the World Heritage Committee started on July 21st and will last until July 31st at Bharat Mandapam in New Delhi.
+What’s in today’s article?
+Ahoms
+Significance of Charaideo
+About
+The Ahoms were one of India's longest-reigning dynasties, with a kingdom that stretched from modern-day Bangladesh to deep inside Burma.
+The Ahom rule lasted for about 600 years until the British annexed Assam in 1826.
+They were known for their administrative skills and valor in battle, with enduring cultural significance in Assam.
+As per the historians, Ahoms represented a time of unity for the Assamese people, especially in their resistance against the Mughal empire.
+Celebration in recent years
+Last year, the
+400th birth anniversary of Ahom general and folk hero Lachit Borphukan was celebrated in New Delhi from November 23 to 25
+PM Modi highlighted Borphukan's courage and leadership, noting his prioritization of the people's well-being.
+Although the Ahoms originated from South Chinese ruling dynasties, they are remembered today as local Indian rulers who left a lasting legacy.
+The Moidams (also Maidams) are the mound-burial system of the Ahom dynasty (13th century-19th century).
+The mound-burial system of the royals of the Ahom dynasty in
+Assam’s Charaideo district
+can be likened to the royal tombs of ancient China and the Pyramids of the Egyptians Pharaohs.
+Basically, a moidam is a tumulus – a mound of earth raised over a grave – of Ahom royalty and aristocracy.
+Location
+While Charaideo exclusively contains moidams of Ahom royals, other moidams of aristocrats and chiefs can be found scattered across Eastern Assam, in the region between the towns of Jorhat and Dibrugarh.
+Features
+Charaideo moidams are burial sites for Ahom kings and queens, similar to pyramids, located in Assam.
+These structures feature one or more chambers in a vault, topped by a hemispherical earthen mound covered in grass.
+A pavilion, called the chow chali, sits atop the mound, which is encircled by a low octagonal wall with one entrance.
+Unlike Hindus who typically cremate their dead, the Ahoms, who trace their origins to the Tai people, practiced burial.
+The height of a moidam reflects the power and stature of the person buried within
+Within these chambers, the deceased king was interred alongside items needed for the "afterlife," as well as servants, horses, livestock, and even their wives.
+The burial practices of the Ahoms bear a resemblance to those of ancient Egyptians, earning the moidams the nickname "Pyramids of Assam.
+The name "Charaideo" comes from the Tai Ahom words "Che-Rai-Doi," meaning "a shining town situated on a hilltop."
+It was the
+first capital of the Ahom kingdom
+, established in 1253 AD by King Sukaphaa.
+Sukaphaa was buried there in 1856, and it became the chosen resting place for subsequent Ahom royals.
+Though the Ahoms changed capitals several times over their 600-year rule, Charaideo remained a symbolic and ritual center due to its historical significance.
+Today, the moidams of Charaideo are major tourist attractions.
+Moidams Inscribed in the UNESCO World Heritage List as India’s 43rd Entry.pdf
+( Size:  1.6 MB  )
+Click to View More
+History & Culture
+**********Govt to form Inter-Ministerial Core Group on Employment
+Why in the News?
+Union labour minister chaired an inter-ministerial roundtable meeting on capturing and creating a central database on employment.
+What’s in Today’s Article?
+Employment in India (Current Trends, Challenges, Key Initiatives, Suggestions, etc.)
+Employment in India:
+Employment in India is a multifaceted issue, influenced by the country's diverse economy, demographic trends, and evolving industrial landscape.
+As one of the world's fastest-growing economies, India faces both opportunities and challenges in creating sufficient and quality employment for its vast population.
+Current Employment Trends:
+India's labor market is characterized by a large informal sector, significant rural employment, and a burgeoning services industry. Key trends include:
+Informal Sector Dominance:
+Over 80% of India's workforce is employed in the informal sector
+, which includes agriculture, construction, and small-scale industries. This sector often lacks job security, benefits, and consistent income.
+Rural Employment:
+A substantial portion of India's population still relies on agriculture for their livelihood.
+As per Government data,
+about 65 percent of the people in India are engaged in agriculture and allied activities directly
+Growth of Services Industry:
+The services sector, including IT, finance, and retail, has seen significant growth, contributing to job creation in urban areas and improving India's global economic standing.
+Challenges w.r.t. Employment in India:
+India's employment scenario faces several challenges that need to be addressed to ensure sustainable growth:
+Unemployment and Underemployment:
+Despite economic growth, unemployment remains a concern, particularly among the youth and educated populations. Underemployment, where individuals work in jobs that do not fully utilize their skills, is also prevalent.
+Skill Gap:
+There is a notable gap between the skills possessed by the workforce and those demanded by employers. This mismatch hinders productivity and limits economic potential.
+Job Quality:
+Many jobs in India, especially in the informal sector, are characterized by poor working conditions, low wages, and lack of social security, impacting the overall quality of life.
+Key Government Initiatives:
+Skill India Mission:
+It was launched in 2015 with an aim to train over 400 million people in different skills by 2022, enhancing employability and bridging the skill gap.
+Pradhan Mantri Mudra Yojana:
+Launched in 2015 to provide loans up to Rs. 10 lakh to the non-corporate, non-farm small/micro-enterprises.
+Make in India:
+Encourages domestic and international companies to manufacture in India, creating jobs in manufacturing and related sectors.
+Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA):
+Provides legal guarantee for at least 100 days of wage employment in rural areas, promoting livelihood security.
+Suggestions / Way Ahead:
+Economic Diversification:
+Expanding beyond traditional sectors to include emerging industries like renewable energy, biotechnology, and digital services can drive job creation.
+Educational Reforms:
+Aligning educational curricula with market demands and promoting vocational training can prepare the workforce for future challenges.
+Technological Integration:
+Embracing technology in various sectors can enhance productivity and create new job opportunities, particularly in tech-driven fields.
+Latest Employment Data for India:
+According to PLFS and RBI's KLEMS data,
+India has generated more than 8 crore (80 million) employment opportunities from 2017-18 to 2021-22
+This translates to an average of over 2 crore (20 million) employment per year, despite of the fact that the world economy was hit by COVID-19 pandemic during 2020-21.
+Govt to form Inter-Ministerial Core Group on Employment:
+Union Labour Minister chaired an inter-ministerial meeting focused on
+creating a central employment database to integrate various employment data sources for a comprehensive view of employment generation in India
+The meeting involved 19 union ministries and industry associations aiming to establish systematic data recording on employment resulting from government schemes, programs, and projects.
+Minister emphasized the need for a core group comprising different ministries, departments, and industry to
+build synergies and integrate efforts currently existing in silos
+He also highlighted the industry's demand for a skilled workforce, urging industry bodies to offer internships to young people to prepare them with adequate skills and professional qualifications.
+This initiative
+aligns with recent Union Budget proposals related to employment, internships, and skilling
+newspaper.pdf
+( Size:  136.0 KB  )
+Click to View More
+Economics
+**********Promoting Affordable Cancer Treatment in India
+Why in News?
+In her Budget 2024-25 speech, the Finance Minister announced customs duty (which was earlier ~10%) exemptions on 3 targeted cancer drugs - trastuzumab deruxtecan, osimertinib, and durvalumab.
+The decision is likely to make these drugs
+more accessible
+to Indian patients, and
+reduce the overall cost of cancer therapies
+What’s in Today’s Article?
+What is the Cancer Profile in India?
+What are Some of the Targeted Cancer Therapies?
+About the 3 Custom Duty Exempted Targeted Cancer Drugs
+Regulation of Prices of These Cancer Drugs in India
+What will be the Impact of the Customs Duty Exemptions
+is a disease in which some of the
+body’s cells grow uncontrollably and spread
+to other parts of the body.
+When cells grow old or become damaged, they die, and new cells take their place.
+Sometimes this orderly process breaks down, and
+abnormal or damaged cells grow and multiply.
+These cells may form tumors, which are lumps of tissue and can be cancerous or not cancerous.
+The number of cancer cases in India is on the rise
+. According to the National Cancer Registry data,
+An estimated
+14.6 lakh new cancer cases were detected in 2022
+, up from 14.2 lakh in 2021 and 13.9 lakh in 2020.
+The number of deaths
+due to cancer increased to an estimated
+8
+08 lakh in 2022
+, up from 7.9 lakh in 2021 and 7.7 lakh in 2020.
+The incidence of cancer cases in India:
+According to the Indian Council of Medical Research (ICMR),
+1 in 9 Indians will develop cancer during their lifetime.
+The incidence is higher among women
+- 103.6 per 100,000 population in 2020 compared to 94.1 among men.
+The most common cancers
+of the lung, mouth, prostate, tongue and stomach;
+for women
+, they were breast, cervix, ovary, uterus and lung.
+Targeted cancer drugs:
+These drugs are designed to
+attack only the cancer cells,
+leaving the normal cells unaffected.
+They target specific genetic changes in cancer cells
+that help them grow, divide and spread.
+These drugs have
+better outcomes and fewer side effects
+compared to traditional chemotherapy drugs that indiscriminately target all cells.
+Immunotherapy:
+Immunotherapy does not target the cancer itself by using any drug. Instead, they
+train the patient’s immune system
+to find and attack the cancer cells.
+About the 3 Custom Duty Exempted Targeted Cancer Drugs:
+Trastuzumab deruxtecan:
+It is an antibody-drug conjugate
+developed by Daiichi Sankyo and marketed by Astrazeneca as Enhertu.
+It is a second-line treatment
+, which costs around
+Rs 1.6 lakh per vial
+and is used when traditional therapies have failed. In 2019, the drug was approved for the treatment of
+breast cancers.
+In 2024, it became the first drug in its class to receive “tissue-agnostic approval” (from the US FDA) - meaning it can be used to treat any cancer with HER-2 receptor regardless of where it originates.
+Osimertinib:
+It is the
+most commonly used
+of the three cancer drugs in India and it is quite expensive as it costs
+5 lakh per strip of ten pills
+, and has to be taken every day.
+Marketed as Tagrisso by AstraZeneca, the drug is used to treat
+lung cancers.
+Durvalumab:
+An immunotherapy treatment
+, it is used for the treatment of certain
+, biliary tract cancers, bladder cancer, and liver cancer.
+Sold as Imfinzi, durvalumab costs around Rs 1.5 lakh for every 10ml vial.
+Regulation of Prices of These Cancer Drugs in India:
+Trastuzumab Injection is a scheduled drug
+under National List of Essential Medicines (NLEM) 2022 and National Pharmaceutical Pricing Authority (NPPA) has fixed the ceiling price (Rs. 54725 per vial) of the same.
+The other two medicines
+i.e., Osimertinib and Durvalumab are
+non-scheduled medicines
+under Drug Prices Control Order (DPCO), 2013.
+Hence, NPPA monitors the maximum retail price (MRP) of the non-scheduled formulation to ensure that the same does not increase by more than 10% of MRP during the preceding 12 months.
+What will be the Impact of the Customs Duty Exemptions?
+In India, one in 68 men will develop lung cancer, and one in 29 women will develop breast cancer.
+This means,
+around one lakh patients need
+rastuzumab deruxtecan, osimertinib, and durvalumab in India, as they are useful for the treatment of lung and breast cancers.
+Hence, the customs duty exemptions on these drugs is widely expected to help
+reduce the financial burden on cancer patients and their families
+Budget provides customs duty exemptions for three cancer treatment drugs.pdf
+( Size:  237.9 KB  )
+Click to View More
+Science & Tech
+**********

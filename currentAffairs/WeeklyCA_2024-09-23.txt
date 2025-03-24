@@ -1,0 +1,110 @@
+
+**********
+US Federal Reserve's Rate Cut and Implications
+Source: TH
+Why in News?
+Recently, the
+United States (US) Federal Reserve
+cut its benchmark
+interest rates by 50 basis points
+, marking its first significant reduction since the onset of the
+Covid-19 pandemic.
+This move signals a strategic approach to combat inflation while promoting economic growth.
+Why Did the US Federal Reserve Cut Interest Rates?
+Economic Recovery Post-Pandemic:
+Following the Covid-19 pandemic, the  Federal Reserve initially slashed interest rates to stimulate the economy. However, as
+surged due to various factors, including
+global supply chain disruptions (due to
+Russia-Ukraine Conflict
+),
+the Federal Reserve raised rates to combat rising prices.
+Moderation of Inflation:
+By mid-2023, inflation had started to stabilise, moving closer to the
+Federal Reserve's target of 2%.
+Recent jobs data showed that
+high interest rates were negatively impacting employment,
+with
+U.S.
+unemployment
+rising to 4.2% in August 2024.
+This raised concerns about a
+potential
+recession
+prompting the Federal Reserve to prioritize job creation alongside price stability.
+Dual Mandate
+: The Federal Reserve operates under a
+dual mandate of maintaining stable prices and achieving maximum employment.
+As the economic landscape evolved, it became clear that a
+rate cut would help balance these objectives.
+Implications for US:
+By cutting rates, the US hopes to balance inflationary pressures. Although inflation has moderated, the central bank is focused on maintaining its
+target rate of around 2%,
+seeking a “soft landing” for the economy.
+Lower interest rates typically make loans cheaper for both individuals and businesses. With unemployment rising, the Fed is prioritising job creation alongside price stability.
+The rate cut could help
+reduce borrowing costs for businesses, potentially leading to increased hiring
+and economic expansion.
+How Inflation and Unemployment are Related?
+Inverse Correlation:
+Generally, inflation and unemployment are inversely related—when one rises, the other falls.
+During
+periods of low unemployment, wage inflation tends to rise
+as employers offer higher wages to attract workers, eventually pushing prices higher.
+Conversely,
+in times of high unemployment,
+wage growth remains stagnant,
+leading to lower inflation.
+Phillips Curve
+is an economic theory that explains the inverse relationship between an
+economy's unemployment rate and inflation rate,
+as initially suggested by A.W. Phillips in the 1950s.
+The Phillips curve suggests that
+higher demand for labour during low unemployment periods leads to higher wages,
+which, in turn, drives inflation.
+This model has been widely used in monetary policy, particularly in balancing inflation and employment levels.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1726837122_image4.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+How will India be Affected by the Federal Reserve Rate Cut?
+Impact on Emerging Markets:
+The US plays a significant role in the global economy. A lower US interest rate makes
+investing in countries like India more appealing through
+carry trades.
+Carry trade is a strategy where
+investors(
+Foreign Institutional investors
+) borrow money in the US (where rates are low)
+and invest it where rates are higher, making a profit on the difference.
+Limited Impact:
+Chief Economic Adviser of India noted that while the
+rate cut could lower the dollar cost of capital and increase liquidity,
+it cannot be viewed as a standalone solution for boosting the global economy.
+Increased Foreign Investment
+: Lower US interest rates may incentivize global investors to borrow in the US and invest in India. This influx could take the form of
+Foreign Direct Investment (FDI)
+or debt from the US,
+providing much-needed capital for the Indian economy.
+Stock Market Sentiment:
+The rate cut has attracted
+considerable investor interest in the
+Indian stock market
+indicating a positive sentiment among investors despite global uncertainties.
+Crude Oil Prices:
+When the US dollar weakens,
+oil becomes cheaper for holders of other currencies
+, leading to increased demand and potentially higher prices.
+Increased oil prices may
+increase India's energy import costs
+and potentially reigniting inflation in India.
+Impact on Currency Exchange Rates
+: A weakening US dollar against other currencies, including the Indian rupee, could adversely affect
+Indian exporters while benefiting importers
+RBI’s Response
+Reserve Bank of India (RBI)
+faces pressure to cut interest rates, but it operates
+under different
+inflation targets
+and economic mandates compared to the Federal Reserve.
+The RBI is more focused on
+Gross Domestic Product (GDP)
+growth and is not as heavily influenced by US unemployment data.
+Drishti Mains Question:
+Analyze the implications of the US Federal Reserve’s interest rate cut on emerging economies like India.

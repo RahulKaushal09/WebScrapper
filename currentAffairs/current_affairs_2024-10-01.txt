@@ -1,0 +1,1244 @@
+Having Private Participation in India’s Nuclear Energy
+Context
+The
+Union Budget for FY 2024-25 included a proposal for partnerships with the private sector to research and develop Bharat Small Reactors (BSR), Bharat Small Modular Reactors (BSMR),
+and other nuclear energy technologies.
+This
+move is aligned with India’s broader goal of generating 500 Gigawatts of non-fossil fuel energy by 2030,
+as pledged at the COP26 Summit in 2021.
+However,
+this ambitious plan faces numerous legal, regulatory, and financial hurdles
+that must be addressed for the successful involvement of private entities in the nuclear sector.
+Existing Legal Framework Governing the Nuclear Sector and SC’s Judgement on Private Sector Participation
+India’s nuclear energy sector
+operates under a stringent regulatory framework
+, primarily governed by the
+Atomic Energy Act, 1962 (AEA).
+AEA grants exclusive control over nuclear energy activities to the central government,
+which
+executes these through designated authorities or companies
+, such as the Department of Atomic Energy (DAE) and the Nuclear Power Corporation of India Limited (NPCIL).
+centralised control has historically limited private sector involvement to specific roles,
+primarily in
+engineering, procurement, and construction (EPC) services
+, while excluding private entities from core activities like research and development (R&D).
+SC’s Decision on Private Sector Participation
+In a significant legal development, the
+Supreme Court of India recently upheld the provisions of the AEA in the case Sandeep T.S. vs Union of India (September 2024).
+judgement dismissed a petition challenging the law’s restrictions on private sector participation
+in nuclear power licensing.
+Court emphasised the importance of stringent safeguards
+due to the potential risks associated with atomic energy.
+ruling reinforces the central government's dominance over nuclear energy activities
+, which complicates efforts to introduce private players in a meaningful capacity.
+The Current Role of Private Sector, Need for Private Sector Participation, and the Government’s Proposal
+The Current Role of the Private Sector
+Currently, private companies such as Megha Engineering & Infrastructures and Reliance are involved in nuclear energy projects, but only in non-core areas
+, primarily through EPC contracts.
+These
+companies build and maintain the physical infrastructure
+of nuclear plants, but they are
+restricted from engaging in activities related to nuclear material management
+operations that involve handling radioactive substances.
+Need for Private Sector Participation: Capital Investment
+nuclear sector is highly capital-intensive,
+and the scale of investment required for further expansion, especially with advanced technologies like BSR and BSMR, is enormous.
+NITI Aayog has estimated that nearly $26 billion of private investment
+will be needed
+to develop the nuclear sector to meet India’s energy goals.
+Given the financial burden on the government, involving private firms in more substantial roles could provide the necessary capital,
+technical expertise, and innovation.
+such participation is currently prohibited under Section 3(a) of the AEA,
+which bars private companies from producing or utilizing atomic energy, keeping R&D activities strictly under government control.
+The Government’s Proposal
+government’s proposal to invite private participation in nuclear R&D
+, as announced in the Union Budget 2024-25, therefore,
+clashes with the prevailing legal restrictions.
+While the
+announcement signals a policy shift
+, any real progress would require substantial amendments to the AEA or the creation of a legal framework.
+new provisions should balance the involvement of private entities with government oversight to mitigate risks
+related to nuclear safety, security, and liability.
+Legal Challenges Surrounding Private Sector Participation in India’s Nuclear Energy
+Strict Provisions of Atomic Energy Act
+One of the primary legal hurdles for private sector involvement is the
+rigidity of the AEA, which monopolises control of nuclear activities
+under the government.
+legal structure ensures that only government-owned or controlled entities,
+such as the NPCIL and the DAE,
+manage nuclear energy production.
+While this structure has maintained a high level of safety and security,
+it significantly hampers the ability to leverage private sector efficiency
+, innovation, and investment.
+Legal Environment Around Nuclear Safety and Liability
+Civil Liability for Nuclear Damage Act (CLNDA) of 2010 is a central piece of legislation designed to provide prompt compensation for victims of nuclear incidents
+and to impose liability on the operator (usually the NPCIL).
+CLNDA enforces a no-fault liability regime on nuclear operators
+, meaning that the operator is liable for damages irrespective of fault.
+This provision, while intended to protect public safety, also disincentivises private participation
+because private entities would likely hesitate to invest in an industry where they may bear enormous liability in case of an accident.
+Complex Regulatory Framework and Lack of Transparency
+The Atomic Energy Regulatory Board (AERB),
+established to monitor radiation safety and regulate nuclear technology,
+has faced criticism for lacking independence from the government.
+AERB’s perceived lack of autonomy could hinder private investment
+, as companies may seek more transparent and impartial regulatory oversight before committing to such a high-risk industry.
+Nuclear Safety Regulatory Authority (NSRA) Bill of 2011, which aimed to establish an independent nuclear safety body, has yet to be enacted
+, leaving unresolved concerns about regulatory transparency and effectiveness.
+The Path Forward for Private Sector Participation in India’s Nuclear Energy
+Public-Private Partnership (PPP)
+A key legal avenue that
+could bridge the gap between current regulations and private sector involvement is the creation of PPP
+in the nuclear energy sector.
+In a PPP structure,
+the government could retain a majority stake, 51% or more, in nuclear projects,
+ensuring that control and accountability remain with the state while allowing private companies to contribute capital and technical know-how.
+approach would align with Section 3(a) of the AEA,
+which limits the involvement of private players, while still leveraging private sector resources for the development of newer nuclear technologies such as SMRs and modular reactors.
+Moreover,
+under a PPP structure, projects would be subject to the Right to Information (RTI)
+Act, promoting transparency and public accountability.
+By holding the majority stake,
+the government would remain responsible for critical decisions and the safety of the reactors
+private entities would be involved in more specialised roles such as technology development, innovation
+, and infrastructure creation.
+Need for Regulatory Reform
+For private investment to materialise,
+regulatory reform is essential.
+role of the AERB, for instance, must be reevaluated
+to ensure that it functions with greater independence and impartiality.
+Investors will only feel confident entering the nuclear sector if they are assured that safety regulations are enforced
+by an autonomous and technically competent regulatory body.
+Resolution of Pending Litigation Regarding the CLNDA
+ambiguity surrounding nuclear liability creates a significant obstacle
+to private sector involvement.
+A clear and stable legal environment, where liability is well-defined and manageable, will encourage private entities
+to participate more actively.
+could potentially be achieved through amendments to the CLNDA that clarify the extent of operator liability,
+as well as government-backed insurance schemes to cover catastrophic incidents, thereby sharing the burden of liability between the state and private players.
+Conclusion
+ambitions
+are both
+admirable and challenging.
+introduction of private sector participation, especially in the context of BSRs and BSMRs, could provide the financial and technological boost
+necessary to achieve the country’s decarbonization goals.
+this shift must be accompanied by comprehensive legislative and regulatory reforms,
+particularly in areas such as liability, safety, and transparency.
+Click to View More
+Editorial Analysis
+**********What are Neutrinos?
+Researchers exploring neutrinos in dense environments like supernovae and neutron star mergers discovered that these “ghost particles” can become entangled, sharing quantum states and evolving chaotically.
+About Neutrinos:
+Neutrinos are
+tiny subatomic particles, often called 'ghost particles'
+because they
+barely interact with anything else.
+Neutrinos are, however, the
+most common particle
+in the universe.
+Approximately 100 trillion neutrinos pass completely harmlessly through your body every second.
+Their tendency not to interact very often with other particles makes detecting neutrinos very difficult.
+Neutrinos have
+no charge
+; they are
+neutral
+, as their name implies.
+They belong to the family of particles called
+leptons
+, which are
+not subject to the strong force.
+don't interact at all with the strong nuclear force
+that binds atomic nuclei together, but they
+do interact with the weak force
+that controls radioactive decay.
+Neutrinos come from all kinds of different sources and are often the
+product of heavy particles turning into lighter ones
+, a process called “
+.”
+created by various radioactive decay
+, such as during a supernova, by cosmic rays striking atoms, etc.
+Click to View More
+Source :
+In the Heart of Supernovae, Ghost Particles Reveal New Quantum Secrets
+Science & Tech
+**********What is Harpoon Missile?
+The first shipment of 100 land-based Harpoon anti-ship missile systems ordered from the United States has reportedly arrived in Kaohsiung, Taiwan.
+About Harpoon Missile:
+The Harpoon (RGM-84/UGM-84/AGM-84) is a
+United States-designed subsonic antiship cruise missile
+that has been in service since 1977.
+Numerous variants have been produced since its inception, including air-, ship-, and sub-launched versions.
+It is currently
+in service with the armed forces of more than 30 countries, including India.
+Features:
+It is an all-weather, over-the-horizon, anti-ship missile system.
+A single missile measures 4.5 m in length and weighs 526 kg.
+Propulsion:
+Turbojet, solid propellent.
+Its low-level,
+sea-skimming cruise trajectory, active radar guidance
+, and warhead design assure high survivability and effectiveness.
+It is capable of executing
+both land-strike and anti-ship missions.
+This missile is fitted with a heavy 221-kilogram penetration blast warhead.
+It uses
+GPS-aided inertial navigation
+to hit a designated target point.
+Range:
+90-240 km
+Click to View More
+Source :
+Taiwan Receives First Shipment of Harpoon Anti-Ship Missile Systems That Can Complicate Chinese Attack
+Science & Tech
+**********Mount Erebus
+In a strange incident, Antarctica's second largest volcano, Mount Erebus, is spewing out gold dust, which has left scientists in complete shock.
+About Mount Erebus:
+It is the
+world’s southernmost active volcano.
+Location:
+It is situated on
+Ross Island, Antarctica.
+It was discovered in 1841 by the British explorer Sir James Clark Ross, who named it after his ship, the Erebus.
+It’s a
+stratovolcano
+characterized by a conical shape and layers of hardened lava, tephra, and volcanic ash.
+Mount Erebus is known for its
+persistent lava lake.
+The lake has been
+active since at least 1972
+and is one of only a few long-lived lava lakes on Earth.
+It constantly churns and occasionally spews bombs of molten rock in Strombolian eruptions.
+Because the volcano is in a remote location, researchers monitor it using satellites.
+largest Antarctic settlement—McMurdo Station
+operated by the United State
+s—stands within sight of the volcano (about 40 kilometers or 25 miles away).
+Click to View More
+Source :
+Antarctica's Mount Erebus Volcano Is Spewing Gold Dust Worth Rs 5 Lakh Leaving Scientists Baffled
+Geography
+**********What are White Goods?
+The Department for Promotion of Industry and Internal Trade (DPIIT) recently asked white goods manufacturers to participate in large numbers to avail fiscal benefits under the Production-Linked Incentive (PLI) scheme for the sector.
+About White Goods:
+White goods traditionally refer to
+large home appliances
+such as stoves, refrigerators, freezers and washing machines.
+Originally,
+such goods
+were only available in white
+, hence the designation.
+Today, the same goods are offered in an array of colors but are still collectively referred to as white goods.
+White goods are also used in a different connotation within other categories.
+In fabrics
+can
+refer to home products made from linen, cotton,
+or other
+white base materials
+. This includes curtains, towels, and sheets.
+White goods can
+also refer to colorless spirits
+In the alcoholic beverage industry, white goods are often used as a collective designation for colorless spirits such as
+vodka and gin.
+Click to View More
+Source :
+Govt Invites White Goods Makers To Explore PLI
+Economy
+**********Key Facts about Kosi River
+Several regions of Bihar are facing severe flooding due to the heavy release of water from the Kosi Barrage in Birpur, following intense rainfall.
+About Kosi River:
+It is a
+transboundary river
+which flows through
+China, Nepal and India.
+It is a prominent
+tributary of the Ganges.
+Course:
+Origin:
+The river Kosi is formed by the
+confluence of three streams
+, namely the Sun Kosi, the Arun Kosi, and the Tamur Kosi, all of which have their origin in the
+Himalayan region of Nepal and Tibet.
+About 30 miles (48 km) north of the Indian-Nepalese frontier, the Kosi is joined by several major tributaries and breaks southward through the
+Siwalik Hills
+at the narrow
+Chatra Gorge.
+The river then emerges on the
+great plain of northern India
+in Bihar state on its way to the Ganges River, which it enters south of Purnea after a course of about 450 miles (724 km).
+The Kosi drains an area of 74,500
+sq.km
+, of which only 11,070
+lie within Indian Territory.
+Kosi River valley is bounded by steep margins that disconnect it from the Yarlung Zangbo River
+to the north, the
+Mahananda River
+to the east, the
+Gandaki
+to the west, and the
+Ganga
+to the south.
+Because of its great outflushing of debris, the Kosi has
+no permanent channel
+in its course
+through the great plain of northern India
+It is well known for its
+tendency to change course
+generally in a westward direction. During the last 200 years, the river has shifted westwards for a distance of about 112 km and has laid waste large tracks of agricultural land.
+Kosi is known as the "
+sorrow of Bihar",
+as it has caused widespread human suffering in the past due to flooding and very frequent course changes when it flows from Nepal to Bihar.
+Tributaries
+: It has seven major tributaries:
+Sun Koshi, Tama Koshi or Tamba Koshi, Dudh Koshi, Indravati, Likhu, Arun,
+Tamore
+or Tamar.
+Click to View More
+Source :
+Flood situation in Bihar worsens as embankments of Kosi, Bagmati rivers breached
+Geography
+**********Tsetse flies
+According to a new atlas published by Food and Agriculture Organization of the United Nations (FAO), Tsetse flies are present in 34 African countries.
+About
+Tsetse flies:
+Tsetse flies (genus Glossina) are unicellular
+blood-sucking insects.
+They are
+holometaboulos insects
+, females giving birth to full-grown larvae which rapidly pupate in the soil.
+They are arranged taxonomically and ecologically into three groups:
+the fusca, or forest
+, group (subgenus Austenina); the morsitans, or
+savanna, group
+(subgenus Glossina); and the palpalis, or
+riverine, group
+(subgenus Nemorhina).
+Habitat:
+They are found in local patches of dense vegetation along
+banks of rivers.
+Also found in lakes in arid terrain, and also in dense, wet, heavily forested equatorial rainforest
+They feed on blood and
+transmit the Trypanosoma parasites,
+which are responsible for sleeping sickness in humans and animal trypanosomosis or "
+Nagana" in cattle.
+They are also linked to
+nagana in African livestock,
+resulting in annual agricultural losses estimated in the billions of dollars.
+The collected data confirmed the presence of Glossina species in 34 countries, ranging from Northern Senegal (around 15 degrees north) to South Africa (Kwazulu-Natal province at 28.5 degrees south).
+Click to View More
+Source :
+Tsetse fly present in 34 countries in Africa, confirms FAO atlas
+Environment
+**********Exercise KAZIND
+The 8th edition of Exercise KAZIND is scheduled to be conducted from 30th September to 13th October 2024 at Surya Foreign Training Node, Auli, Uttarakhand.
+About
+Exercise KAZIND:
+It is a joint
+military Exercise
+held every year between
+India and Kazakhstan.
+The Indian Armed Forces, comprising 120 personnel, are being represented by a battalion of the
+KUMAON Regiment of Indian Army,
+along with other arms and services, as well as personnel from the
+Indian Air Force.
+The Kazakhstan contingent will be represented mainly by personnel from Land Forces and Air Borne Assault Troopers.
+Aim
+: To enhance the joint military capability of both sides to undertake
+counter-terrorism operations
+in a sub-conventional scenario under Chapter VII of the United Nations Charter.
+It will focus on operations in the
+semi-urban and mountainous terrain
+. Objectives to be achieved from the Joint Exercise are a high degree of physical fitness, rehearsing and refining drills for operations at the tactical level and sharing of best practices.
+Tactical drills to be rehearsed during the Joint Exercise include joint response to terrorist action, establishment of a Joint Command Post, establishment of an Intelligence and Surveillance Centre
+Joint Exercise KAZIND-2024 will enable both sides to share best practices in tactics, techniques and procedures of conducting joint operations.
+It will facilitate the development of inter-operability, bonhomie and camaraderie between the two armies. The Joint Exercise will also enhance defence cooperation, further augmenting bilateral relations between the two friendly nations.
+Click to View More
+Source :
+INDIA- KAZAKHSTAN JOINT MILITARY EXERCISE KAZIND -2024 COMMENCES IN AULI
+International Relations
+**********Dadasaheb Phalke Award
+Legendary actor Mr. Mithun Chakraborty will be honoured with the Dadasaheb Phalke Lifetime Achievement Award for the year 2022.
+About
+Dadasaheb Phalke Award:
+It is India's highest award in the
+field
+of cinema.
+It is presented annually at the National Film Awards ceremony by the Directorate of Film Festivals, an organisation set up by the
+Ministry of Information and Broadcasting.
+The recipient is honoured for their "
+outstanding contribution
+to the growth and development of Indian cinema".
+The award prize consists of a golden lotus, a
+cash prize of
+₹
+10 lakh and a shawl.
+The award was introduced by the Government of India to commemorate Dadasaheb Phalke's contribution to Indian cinema, who is popularly known as and often regarded
+as "the father of Indian cinema".
+It was first presented in 1969. The first recipient of the award was actress
+Devika Rani,
+“the first lady of Indian cinema.
+Who was Dhundiraj Govind ‘Dadasaheb’ Phalke?
+He was born in 1870 at Trimbak in Maharashtra.
+He studied engineering and sculpture and developed an interest in motion pictures after watching the 1906
+silent film The Life of Christ.
+Before venturing into films, Phalke worked as a photographer, owned a printing press, and had even worked with the
+famed painter Raja Ravi Varma.
+In 1913, Phalke wrote, produced, and directed India’s first feature film,
+the silent Raja Harishchandra.
+A commercial success, it propelled Phalke to make 95 more films and 26 short films in the next 19 years.
+Click to View More
+Source :
+Dadasaheb Phalke Award: reward for Mithun Chakraborty’s versatility
+Art and Culture
+**********Overseas Citizen of India
+Recently, the Consulate General of India in New York has clarified that rumours circulating on social media regarding Overseas Citizen of India (OCIs) becoming reclassified as “foreigners” are false.
+About
+Overseas Citizen of India:
+The
+Overseas Citizen of India (OCI)
+scheme was introduced in
+August 2005
+which provides for registration of
+all Persons of Indian Origin (PIOs)
+who were citizens of India on January 26, 1950, or thereafter, or were eligible to become citizens of India on the said date.
+Who cannot be an OCI?
+An applicant is
+not eligible
+to get an OCI card if his/her parents or grandparents have ever been
+a citizen of Pakistan or Bangladesh.
+Foreign military personnel
+either in service or retired are also not entitled to grant of OCI.
+However, the spouse of foreign origin of a citizen of India or spouse of foreign origin of an OCI, whose marriage has been registered and subsisted for
+not less than two years,
+can apply for an OCI card.
+Advantages of OCI cardholders:
+An OCI card holder — essentially a foreign passport holder — gets a multiple entry,
+multi-purpose life-long visa
+for visiting India,
+and is exempt from registration with local police authority for any length of stay in the country.
+The OCI cardholder is
+Not entitled to vote;
+to be a member of a Legislative Assembly or of a Legislative Council or of Parliament; to hold Indian constitutional posts such as that of the President, Vice President, Judge of the Supreme Court or High Court.
+He or she cannot normally hold employment in the government.
+Latest rules regarding OCIs
+On March 4, 2021, the Ministry of Home Affairs issued a gazette notification amending the rules regarding OCI card holders.
+These rules required OCI card holders to
+seek permission or a permit to visit protected areas in India.
+The same restrictions apply to foreign nationals visiting Jammu & Kashmir and Arunachal Pradesh.
+They need to secure a
+special permit
+to undertake “
+any research
+”, to undertake any “missionary” or “Tablighi”
+or “journalistic activities”
+or to visit any area in India notified as “protected”, “restricted” or “prohibited”.
+They are at par with “foreign nationals” in respect of “all other economic, financial and educational fields” for the purposes of the
+Foreign Exchange Management Act, 2003
+although past circulars by the Reserve Bank of India under FEMA continued to hold ground.
+Click to View More
+Source :
+Who is an Overseas Citizen of India? What are the rights and privileges of OCI card holders?
+Polity & Governance
+**********Cruise Bharat Mission
+Recently, the Union Minister of Ports, Shipping & Waterways (MoPSW) launched the ‘Cruise Bharat Mission’ from the Mumbai port.
+About
+Cruise Bharat Mission:
+It is aimed at
+boosting the tremendous potential
+cruise tourism
+in the country and to propel the country’s cruise tourism industry by doubling cruise passenger traffic within
+five years; i.e. by 2029.
+It will be implemented in three phases, beginning from 1 October 2024 up to 31 March 2029.
+Phase 1
+(01.10.2024 – 30.09.2025) will focus on
+conducting studies, master planning,
+and forming cruise alliances with neighbouring countries. It will also modernise existing cruise terminals, marinas, and destinations to enhance the potential of cruise circuits.
+Phase 2
+(01.10.2025 – 31.03.2027) will concentrate on
+developing new cruise terminals, marinas,
+and destinations to activate high-potential cruise locations and circuits.
+Phase 3
+(01.04.2027 – 31.03.2029) will focus on
+integrating all cruise circuits
+across the Indian Subcontinent, marking the maturity of the cruise ecosystem while continuing the development of cruise terminals, marinas, and destinations.
+The mission has identified key initiatives across
+five strategic pillars.
+The Sustainable Infrastructure & Capital:
+It addresses infrastructure gaps, focusing on developing world-class terminals, marinas, water aerodromes, and heliports, alongside digitalisation (e.g., facial recognition) and decarbonisation (e.g., shore power). It includes creating a
+National Cruise Infrastructure Masterplan
+2047, setting up a cruise-focused SPV under the Indian Ports Association (IPA), and establishing a cruise development fund.
+The Operations Including Technology Enabled:
+This pillar aims to streamline operations, ensuring smooth embarkation, disembarkation, and destination visits with a focus on digital solutions such as e-clearance systems and e-visa facilities.
+The Cruise Promotion & Circuit Integration:
+It focuses on international marketing and investment promotion, including linking cruise circuits, hosting events like the "Cruise India Summit," and forming alliances with neighbouring countries.
+The Regulatory, Fiscal & Financial Policy:
+This pillar is centred on creating tailored fiscal and financial policies, with a focus on tax scenarios, cruise regulations and the launch of a National Cruise Tourism Policy.
+The Capacity Building and Economic Research:
+This pillar emphasizes skill development, creating a Centre of Excellence for cruise-related economic research, and formulating National Occupational Standards to promote youth employment in the cruise industry.
+Nodal Ministry:
+Union Ministry of Ports, Shipping & Waterways
+Click to View More
+Source :
+The Union Minister for Ports, Shipping, and Waterways, Shri Sarbananda Sonowal Launches ‘Cruise Bharat Mission,’ to Double Cruise Calls and Passengers within Five years
+Economy
+**********Telecom Ministry to Disconnect 2.17 Crore Mobile Connections Amid 'Cyber Slavery' Concerns
+Why in news?
+The Union Ministry of Telecommunications has informed a high-level inter-ministerial panel that it will disconnect 2.17 crore mobile connections obtained through forged documents or used in cybercrime, and block 2.26 lakh mobile handsets.
+What’s in today’s article?
+Background
+Cyber scams and fraud are increasingly common in India, often involving spam calls where scammers pose as government officials to steal sensitive information like Aadhaar and ATM details.
+To avoid detection, these scammers now operate from foreign countries but use Indian mobile numbers to make their calls seem legitimate.
+This shift has given rise to a dangerous trend called
+'cyber slavery,'
+where individuals are lured abroad under false job promises and forced to participate in cybercrime operations.
+About
+Cyber slavery refers to a modern form of exploitation where individuals are lured, often through deceptive job offers, and forced to engage in cybercrimes.
+Victims are usually promised lucrative jobs, such as data entry or tech roles, in foreign countries, particularly in Southeast Asia.
+Upon arrival, their passports and identification documents are confiscated, trapping them in a form of digital servitude.
+These individuals are coerced into performing illegal online activities, such as cyber fraud, phishing, and scamming.
+They may be forced to create fake social media profiles or lure people into fraudulent investment schemes, like fake cryptocurrency platforms.
+Victims often work under harsh conditions, with no freedom of movement, and face threats or violence if they attempt to escape.
+Cause of worry
+Cyber slavery is part of a broader pattern of
+human trafficking
+and is increasingly prevalent due to the rise of
+digital crimes
+It highlights the intersection of human rights violations and online criminal networks, requiring international cooperation to combat.
+Indians trapped as cyber slaves
+A report revealed that over 5,000 Indians were believed to be ensnared in Cambodia, allegedly held against their will and compelled to commit cyber fraud.
+Government estimates suggest that Indians had been defrauded of at least Rs 500 crore in the six months leading up to March of this year.
+Analysis of data by the Indian Cyber Crime Coordination Centre (I4C) has observed an increase in the number of cybercrime incidents targeting India.
+About 45% of them originate from the Southeast Asia region, mainly Cambodia, Myanmar and Laos PDR.
+Inter-ministerial panel formed to address the issue
+This incident prompted the Indian government to establish an inter-ministerial panel to address the issue and pinpoint the loopholes.
+The panel identified deficiencies in the banking, immigration, and telecom sectors.
+It identified three loopholes that enable cyber scams originating from Southeast Asian countries. These are:
+Involvement of the senior bank managers of two nationalised banks to open mule accounts;
+It was found that maximum accounts were allegedly opened with the connivance of senior bank managers/ staffers in several branches of State Bank of India and Punjab National Bank.
+around 30,000 unreturned passengers travelling on visitor visa to Cambodia, Thailand, Myanmar and Vietnam from January 2022-May 2024; and
+misuse of bulk SIM cards.
+Steps taken by Indian government
+The Union Ministry of Telecommunications has announced to:
+disconnect approximately 2.17 crore mobile connections obtained through forged documents or used in cybercrime and
+DoT has also directed telecom companies to block all incoming international spoofed calls that display Indian mobile numbers.
+This has resulted in a 35% drop in such calls, with full implementation expected by December 31 of this year.
+Additionally, the DoT is working to identify roaming phone numbers involved in scams in Southeast Asia.
+The DoT reported that over 6 lakh Indian SIM cards were roaming in Southeast Asia between April and June 2023.
+Over 1.4 lakh point of sale (PoS) agents across India were identified as being involved in selling SIM cards used in scam operations in countries like Cambodia, Myanmar, and Laos.
+Telecom service providers (TSPs) are required to submit weekly data on Indian mobile numbers utilizing roaming services in countries like Hong Kong, Cambodia, Laos, Philippines, and Myanmar
+newspaper.pdf
+( Size:  1.7 MB  )
+Click to View More
+Polity & Governance
+**********Export ban on Non-Basmati White Rice lifted
+Why in news?
+Recently, the Indian government lifted the ban on the export of Non-Basmati White Rice. However, it set a minimum export price (MEP) of $490 per tonne.
+Earlier, the government had removed the 20% export duty on Non-Basmati White Rice and reduced the export duty on three other rice categories: 'rice in the husk (paddy or rough)', 'husked (brown) rice', and 'parboiled rice' from 20% to 10%.
+What’s in today’s article?
+Rice Cultivation
+Rice Production in India
+India’s status as a rice exporter
+Crop Season
+Rice is primarily grown during the
+Kharif season (June to November)
+, which coincides with the monsoon.
+In some areas, it is also grown in the
+Rabi season (November
+to April), particularly in irrigated regions like Tamil Nadu and coastal Andhra Pradesh.
+Climatic Conditions
+Rice thrives in tropical and subtropical regions with high humidity. It requires:
+Temperature:
+An average temperature of 21°C to 37°C. The ideal temperature for germination is around 21°C, while the growing period requires temperatures above 25°C.
+Rainfall:
+Rice needs plenty of water. It requires 150-300 cm of rainfall during the growing period, ideally distributed evenly throughout the season.
+Soil Conditions
+Rice grows best in clayey or loamy soils that retain water.
+Alluvial soils in river basins and coastal areas are also ideal for rice cultivation. The soil should be deep, fertile, and capable of holding moisture.
+Water Requirements
+Rice is a water-intensive crop, usually grown in flooded fields (paddy fields). Adequate irrigation is necessary in areas with insufficient rainfall.
+Area of cultivation for rice
+In fiscal year 2024, India had an estimated
+47.
+6 million hectares of land area
+India is the second-largest producer of rice globally, and the largest exporter.
+India's rice production in 2023-24 is estimated to be 1378.25 lakh metric tons (LMT), a 20.70 LMT increase from the previous year.
+State's share in rice production
+Rice is produced in the coastal strips on the eastern and western pockets of the country, the plains of Assam in the north-east, and the foothills of the Himalayas.
+Statistics
+India is the second-largest rice producer and the largest exporter globally, contributing significantly to world rice trade.
+Along with China, India accounts for over half of the world's rice production. While China is the largest consumer, leaving little for export, India plays a dominant role in the export market.
+According to the USDA, India accounted for 33% (17 million tonnes) of the world’s total rice exports (53 million tonnes) in 2023.
+In 2022, before the Non-Basmati White Rice export ban, India contributed about 40% of the global rice exports (56 million tonnes).
+India’s export breakup
+India’s rice exports are divided into two main categories: basmati and non-basmati rice.
+Basmati rice accounts for nearly one-third of India’s total rice exports, with 52.42 lakh tonnes exported in 2023-24.
+Non-basmati rice has six subcategories: rice in husk (seed quality and other), husked (brown) rice, parboiled rice, non-basmati white rice, and broken rice.
+Export destination
+The primary destinations for Indian rice exports in 2023-24 are Saudi Arabia, Iran, Iraq, Benin, United Arab Emirates, Guinea, Senegal, Togo, and Yemen.
+Saudi Arabia was the leading importer of Indian rice in terms of export value, mainly purchasing basmati rice varieties.
+Non-basmati white rice went to Kenya, Mozambique, Cameroon, Vietnam, Malaysia, Togo, Madagascar, Cote D’ Ivoire, and Benin in the biggest quantities.
+India’s competitor
+Two east Asian countries—
+Thailand and Vietnam
+—are the two main competitors of India in the global rice market.
+In 2023, the combined rice export of these two countries was almost equal to Indian exports.
+Besides, Pakistan, Cambodia and the United States are also in the list of rice exporters.
+Philippines, Indonesia, Vietnam, China, European Union, Nigeria, Iraq, Saudi Arabia and Malaysia are the
+top rice importers
+About the news
+The Centre has lifted the ban on export of Non-Basmati White Rice. It has, however, imposed a minimum export price (MEP) of $490 per tonne.
+Reasons behind lifting the ban
+Higher Sowing of Paddy
+India has seen an increase in paddy sowing due to a good monsoon, with most of the crop being planted during the kharif season.
+By September 20, 2023, the paddy cultivation area reached 413.50 lakh hectares, a 2.2% increase over last year.
+Record Rice Production
+India’s total rice production for 2023-24 (kharif, rabi, and summer) is estimated at 137.82 million tonnes, a 1.5% increase compared to last year.
+Declining Wholesale Prices, Stable Retail Inflation
+On September 27, the wholesale price of rice was Rs 3,324.99 per quintal, down from Rs 3,502.91 a month ago.
+However, retail inflation based on the Consumer Price Index has remained in double digits for the past two years, peaking at 13.09% in July 2023.
+Inflation dropped to 9.52% in August after the government’s export ban.
+Surplus Rice Stocks
+As of September 1, the Food Corporation of India (FCI) held 323.11 lakh tonnes of rice in its Central pool.
+Including unmilled paddy, the total stock amounted to 423 lakh tonnes, well above the required buffer stock norms of 135.40 lakh tonnes for July and 102.50 lakh tonnes for October.
+Who will get benefitted?
+The lifting of the ban will benefit traders, who previously paid a 20% duty, and is expected to improve export sentiment.
+Farmers growing premium varieties like
+Sona Masoori
+(mainly in
+Karnataka, Andhra Pradesh, and Telangana
+) are likely to benefit, as they were impacted by the ban.
+However, for domestic consumers, already high retail prices may increase further.
+Export ban on Non-Basmati White Rice lifted.pdf
+( Size:  2.6 MB  )
+Click to View More
+Economics
+**********India’s Current Account Deficit Widens to $9.7 billion
+What’s in Today’s Article?
+Definition of Key Economic Terms
+Background (Context of the Article)
+Key Factors Contribution to the Deficit (Trade Deficit, Transfer Receipts, etc.)
+Definition of Key Economic Terms:
+Current Account Deficit (CAD):
+The current account deficit occurs when a country's total imports of goods, services, and transfers exceed its total exports. It represents a negative balance of trade and reflects the extent to which a nation is borrowing or using its foreign reserves to finance its spending.
+Gross Domestic Product (GDP):
+GDP is the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period. It is a broad measure of overall domestic production.
+Merchandise Trade Deficit:
+A trade deficit occurs when a country’s imports exceed its exports of goods (or merchandise). The merchandise trade balance specifically refers to the balance of physical goods traded internationally.
+Net Services Receipts:
+These are the earnings a country receives from its services sector (e.g., IT services, transportation, travel) minus the payments it makes for services imported from abroad.
+Private Transfer Receipts:
+These represent the remittances sent by individuals working abroad to their home country. They are an important source of foreign exchange inflows for many developing countries.
+Primary Income Account:
+This account in the balance of payments reflects income flows between residents and non-residents, such as dividends, interest, and wages. A net outflow means that more payments were made abroad than received.
+Foreign Direct Investment (FDI):
+FDI refers to the investments made by a foreign entity or individual into the business assets of another country, typically in the form of ownership stakes in companies, real estate, or infrastructure.
+Foreign Portfolio Investment (FPI):
+FPI refers to investment in financial assets, such as stocks and bonds, in another country without the intention of controlling the company. It is generally more short-term and volatile compared to FDI.
+External Commercial Borrowings (ECBs):
+ECBs are loans or borrowings made by a country or its corporations from non-resident lenders in foreign currencies.
+Non-Resident Indian (NRI) Deposits:
+These are deposits made by Indians living abroad into accounts in India, often benefiting from favorable interest rates and contributing to the country's foreign exchange reserves.
+Foreign Exchange Reserves:
+These are assets held by a central bank in foreign currencies, which can include bonds, treasury bills, and other government securities. They are used to back liabilities and influence monetary policy.
+Background:
+India’s current account deficit (CAD) expanded marginally in the first quarter of the fiscal year 2024-25 (Q1 FY25).
+According to the data released by the Reserve Bank of India (RBI) recently, the CAD reached $9.7 billion, which
+is equivalent to 1.1% of the country's Gross Domestic Product (GDP)
+This marks
+an increase from $8.9 billion (1.0% of GDP) during the same period in the previous year
+, Q1 FY24.
+Furthermore, it represents a stark contrast to the surplus of $4.6 billion (0.5% of GDP) recorded in the fourth quarter of FY24 (Q4 FY24).
+Key Factors Contributing to the Deficit:
+One of the primary reasons for the widening of the CAD is the increase in the merchandise trade deficit.
+The trade deficit, which is the difference between the value of a country’s imports and exports, grew to $65.1 billion in Q1 FY25, compared to $56.7 billion in Q1 FY24.
+growth in imports, particularly in sectors such as oil, gold, and other non-oil products, was a significant contributor to this phenomenon
+Services and Private Transfer Receipts:
+On a positive note, India's net services receipts improved year-on-year (y-o-y) from $35.1 billion in Q1 FY24 to $39.7 billion in Q1 FY25.
+This rise was seen across major service categories, including:
+Computer services
+Business services
+Travel services
+Transportation services
+Additionally,
+private transfer receipts, primarily remittances from Indians working overseas, increased from $27.1 billion in Q1 FY24 to $29.5 billion in Q1 FY25
+, reflecting the continued growth in inflows from expatriates.
+The net outgo on the primary income account, which mainly represents payments of investment income, increased slightly from $10.2 billion in Q1 FY24 to $10.7 billion in Q1 FY25.
+This reflects the payments made on returns to foreign investments in India.
+Financial Account:
+In terms of the financial account, the data presented several shifts:
+Net FDI inflows rose to $6.3 billion in Q1 FY25, up from $4.7 billion in Q1 FY24, indicating continued investor confidence in India.
+On the other hand, net inflows under FPI decreased significantly from $15.7 billion in Q1 FY24 to just $0.9 billion in Q1 FY25.
+ECBs also saw a decline, with net inflows falling from $5.6 billion in Q1 FY24 to $1.8 billion in Q1 FY25.
+Net inflows from NRI deposits were higher, reaching $4.0 billion in Q1 FY25 compared to $2.2 billion in the same period last year.
+: India's foreign exchange reserves increased by $5.2 billion in Q1 FY25 on a Balance of Payments (BoP) basis. However, this was a substantial decline from the $24.4 billion accretion seen in Q1 FY24.
+Expert Commentary:
+As per experts, the overall balance of payments situation remained largely stable for Q1 FY25.
+As per them, the $5.2 billion net accretion to foreign exchange reserves as a positive, although it was lower than the $24.4 billion in the previous year.
+Both oil and gold imports contributed to the widening trade deficit, along with other non-oil imports.
+They said that
+while the CAD at 1.1% of GDP was higher than last year’s 1%, it was still within a comfortable range
+India’s current account deficit in Q1 FY25 widens.pdf
+( Size:  208.5 KB  )
+Click to View More
+Economics
+**********The Annual Survey of Industries (ASI) for 2022-23
+Why in News?
+The Ministry of Statistics and Programme Implementation (MoSPI) recently released the Annual Survey of Industries (ASI) for 2022-23.
+What’s in Today’s Article?
+What is the Annual Survey of Industries (ASI)?
+Manufacturing Sector in India
+Highlights of the Annual Survey of Industries (ASI) for 2022-23
+About:
+ASI is the principal source of industrial statistics and data for
+organised manufacturing
+in India and is conducted by the
+National Sample Survey Office (NSSO)
+under the MoSPI.
+It has been
+conducted since 1959
+under the Collection of Statistics Act 1953. Presently, the survey is being conducted under
+the Collection of Statistics Act 2008
+as amended in 2017 and Rules framed there under in 2011.
+Objective:
+The Survey is designed to obtain comprehensive and detailed data -
+Estimating the
+contribution
+of the registered manufacturing sector as a whole
+to Gross Domestic Product (GDP)
+of the Country and also by type of industry,
+Systematic studying the
+structure of the industries
+Studying various factors influencing the industries for formulation of
+industrial policies.
+The survey covers:
+Factories
+registered under the Factories Act 1948. It relates to factories employing 10 or more workers using power and those employing 20 or more workers without using power.
+For states of Maharashtra, Rajasthan and Goa
+, data is collected for factories employing 20 or more workers with power and factories having 40 or more workers without power.
+Bidi and cigar manufacturing establishments
+under the Bidi and Cigar Workers (Conditions of Employment) Act 1966, and
+All electricity undertakings
+engaged in generation, transmission and distribution of electricity, not registered with the Central Electricity Authority (CEA).
+Significance:
+The survey results
+give valuable input
+to the planners and policy makers in objectively evaluating the industrial scenario of the economy.
+Manufacturing Sector in India:
+Manufacturing is emerging as
+an integral pillar
+in the country’s economic growth, thanks to the performance of key sectors like
+automotive, engineering, chemicals, pharmaceuticals, and consumer durables.
+With
+17% of the nation’s GDP and over 27.3 million workers
+, the manufacturing sector plays a significant role in the Indian economy.
+India is gradually progressing on the road to
+Industry 4.0
+through the Government of India’s initiatives like -
+National Manufacturing Policy
+which aims to increase the share of manufacturing in GDP to
+25% by 2025
+Production Linked Incentive (PLI)
+scheme for manufacturing which was launched in
+to develop the core manufacturing sector at par with global manufacturing standards.
+Highlights of the Annual Survey of Industries (ASI) for 2022-23:
+Main drivers of the manufacturing growth in 2022-23:
+These were industries related to
+basic metal, coke & refined petroleum products, food products, chemical and chemical products and motor vehicles
+These industries (taken together) contributed about
+58% of the total output
+of the sector and showed output growth of 24.5% and gross value added (GVA) growth of 2.6% in comparison to 2021-22.
+Number of factories:
+The total number of factories increased from 2.49 lakh in 2021-22 to 2.53 lakh in 2022-23.
+Gross fixed capital formation (GFCF):
+GFCF,
+a proxy for capital investment
+, grew by over 77% to Rs 5.85 lakh crore in 2022-23 from Rs 3.3 lakh crore in 2021-22.
+Number of employees in the formal sector:
+Employees
+include all workers and persons receiving wages and holding clerical or supervisory or managerial positions, etc.
+include all persons employed directly or through any agency and includes both paid and unpaid workers engaged in any manufacturing process, etc.
+The total number of employees in manufacturing industries
+increased by 7.5% to 1.84 crore
+in 2022-23 from 1.72 crore in 2021-22.
+This is the
+highest rate of increase in employment
+in manufacturing industries in the last 12 years.
+The highest employment was recorded in
+factories producing food products
+, followed by textiles, basic metals, wearing apparel and motor vehicles, trailers and semi-trailers.
+The average emoluments:
+These also improved in 2022-23, with average emoluments per person rising by 6.3% in 2022-23 as against the previous year.
+Performance of the states:
+In terms of GVA,
+ranked first in 2022-23 followed by Gujarat, Tamil Nadu, Karnataka and UP.
+These top five states together contributed over 54%
+of the total manufacturing GVA of the country in 2022-23.
+In terms of employment
+, the top five states were
+, Maharashtra, Gujarat, UP and Karnataka in ASI 2022-23, contributing
+about 55% of total manufacturing employment in 2022-23.
+Key takeaways:
+The ASI suggests that the impact of the Covid pandemic has been “wiped out”.
+For example
+, the estimated number of persons engaged in the manufacturing industries in 2022-23 is higher than the pre-pandemic level of 2018-19 by over 22.14 lakh.
+The growth is better in sectors where there is a
+PLI scheme.
+Annual survey of industries shows growth in manufacturing sector.pdf
+( Size:  111.9 KB  )
+Click to View More
+Economics
+**********Tea tribes marginalized in Assam despite their contribution to the economy
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to STs
+Why in the News?
+Recently, Jharkhand Chief Minister Hemant Soren urged Assam’s Himanta Biswa Sarma to grant ST status to tea tribes, he was also strategically countering the BJP’s campaign in election-bound Jharkhand.
+Demand for Scheduled Tribe Status
+Recognition of Marginalization:
+The Jharkhand CM has emphasized that the tea tribes in Assam, numbering around 70 lakh, are marginalized despite their significant contributions to the state’s economy.
+He has formally requested
+Scheduled Tribe (ST)
+status for these communities, which are currently classified as
+Other Backward Classes (OBCs)
+in Assam, limiting their access to essential government benefits and protections associated with ST status.
+ST Status:
+The tea tribes meet the criteria for ST status due to their distinct cultural identity, traditional way of life, and vulnerability to exploitation.
+Many members of these tribes are indigenous to Jharkhand and have historical ties to Assam, having migrated there during colonial rule to work in tea plantations.
+Which are the Tea Tribes in Assam?
+Munda:
+Originating from the Chotanagpur plateau, they are one of the most prominent groups among the tea tribes in Assam.
+Santhal:
+They have a rich cultural heritage and are known for their traditional music and dance.
+Oraon:
+This group also hails from central India and has a strong presence in Assam’s tea gardens.
+Gond:
+Primarily found in central India, Gonds are part of the tea tribes due to historical migration patterns.
+Kurukh:
+This group is related to the Oraon and shares linguistic and cultural ties with them.
+Bhumij
+: They were brought to Assam for labor in tea plantations.
+The criteria for a community to be recognized as a Scheduled Tribe (ST) in India:
+As established by the
+Lokur Committee
+and currently followed by the Office of the
+Registrar General of India (RGI),
+include:
+Primitive Traits:
+Indications of a primitive lifestyle or cultural practices that are less developed compared to mainstream society.
+Distinctive Culture
+: A unique cultural identity that differentiates the community from others, including language, traditions, and customs.
+Geographical Isolation:
+Communities that are historically or currently isolated from the mainstream population, often residing in remote areas.
+Shyness of Contact with the Community at Large
+: A tendency to avoid interaction with broader society, which may stem from historical marginalization.
+Backwardness:
+Socio-economic disadvantages compared to the general population, including lower levels of education and economic development.
+How do the Tea Tribes contribute to the Economy?
+Major Workforce
+: The tea tribes form the backbone of Assam’s tea industry, which is one of the largest in the world.
+Approximately
+53% of India’s total tea production
+comes from Assam, and a significant portion of this labor force comprises tea tribe members, particularly women.
+Economic Dependence
+: It is estimated that around
+20 lakh people (2 million) in Assam
+are directly or indirectly dependent on the tea industry for their livelihoods.
+The wages earned by tea tribe workers are a
+primary source of income
+for many families within these communities.
+Cultural Heritage and Historical Injustices
+Due to Cultural Displacement:
+The tea tribes face challenges in preserving their cultural heritage due to their classification
+as OBCs.
+This status affects their
+land rights
+and access to employment opportunitie
+leading to a
+loss of cultural identity
+Due to Socio-economic Challenges:
+Despite contributing significantly to Assam’s tea industry, the tea tribes suffer from
+poor living conditions, lack of educational facilities
+inadequate healthcare.
+They often live in poverty and
+face systemic barriers
+that prevent them from accessing government programs designed for marginalized communities. This situation reflects historical
+injustices stemming
+from colonial labor practices that uprooted them from their ancestral lands.
+Way forward:
+Granting ST Status
+: Expedite the process of granting Scheduled Tribe (ST) status to the tea tribes, which would provide them with legal recognition and access to special protections, reservations, and welfare schemes aimed at uplifting marginalized communities.
+Improving Living Conditions
+: Implement targeted government programs to improve the living conditions of tea tribe communities, focusing on access to education, healthcare, and better infrastructure in tea plantation areas.
+**********The La Nina and North India’s pollution
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Climate change; Pollution; Impact of La-Nina;
+Why in the News?
+The delayed onset of La Niña and the late retreat of the monsoon have diminished hopes that Delhi’s residents might enjoy improved air quality this winter compared to previous years.
+What is Triple-dip
+La- Nina?
+Triple-dip La Niña refers to the rare occurrence of La Niña persisting for three consecutive years, causing prolonged cooler ocean temperatures in the Pacific and influencing global weather patterns, including stronger monsoons.
+How has the triple-dip La Niña phenomenon influenced air quality in North India?
+No dispersion of pollutants:
+The delayed onset of La Niña has led to stagnant air and calm winds, preventing the dispersion of pollutants. In previous winters, La Niña helped improve air quality with stronger winds and atmospheric circulation.
+Trapped air pollutants:
+The slower monsoon retreat resulted in extended periods of high humidity, reduced atmospheric mixing, and trapped pollutants near the surface, contributing to deteriorated air quality.
+What meteorological factors contributed to the observed anomalies in air quality?
+Monsoon Retreat and Humidity:
+The delayed retreat of the monsoon contributes to prolonged periods of high humidity and calm winds. These conditions
+reduce atmospheric mixing
+, trapping pollutants near the surface and leading to elevated levels of PM2.5 and PM10.
+Stagnant Winds:
+The absence of La Niña conditions results in stagnant surface winds, which hinder the
+. This stagnation is particularly problematic given the regional emissions from stubble burning and other sources.
+Stubble Burning:
+With prevailing north-north-westerly winds, stubble burning in Punjab and Haryana could significantly worsen Delhi’s air quality if it occurs at even half the intensity seen in previous years.
+What implications does this have for future climate and air quality management strategies?
+Need for Broader Focus:
+There is a growing recognition that air quality management must shift from a
+localized emission-centric approach
+to one that considers larger
+meteorological patterns
+and regional airsheds.
+Policy Recommendations:
+Policymakers should prioritize mitigating
+PM2.5 emissions over PM10
+, as PM2.5 poses greater health risks.
+Integration of Climate Factors:
+Future air quality strategies should integrate climate change considerations, recognizing that local emissions are only part of the equation.
+Way forward:
+Adopt Regional Airshed Management:
+Shift from a localized approach to a broader airshed strategy, accounting for meteorological patterns and regional pollution sources to improve air quality management.
+Prioritize PM2.5 Mitigation and Climate Integration:
+Focus on reducing PM2.5 emissions, which pose higher health risks, and incorporate climate change factors into long-term air quality policies for comprehensive solutions.
+**********New science awards, old political project 
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Initiative related to scientific research;
+Why in the News?
+In 2023, the government replaced numerous opaque science awards with the Rashtriya Vigyan Puraskar (RVP), a streamlined set with clear criteria. It aimed to address concerns about transparency by involving committees led by respected scientists.
+Introduction of Rashtriya Vigyan Puraskar (RVP):
+replaced multiple science-related awards
+with the RVP, a consolidated and streamlined set of awards.
+RVP introduced
+specific categories
+clear eligibility criteria
+to enhance transparency and reduce opacity in the selection process.
+Committees led by reputed scientists were tasked with finalizing the awardees, a measure intended to
+address concerns about bureaucratic interference.
+Concerns Over Selection Process:
+Chance of political interference:
+The modification of rules overnight and the omission of some scientists from the final list, despite being shortlisted by the RVP committee, created suspicion of political interference.
+Omission of the critic of Govt policy:
+Notably, some of the omitted scientists had previously criticized government policies, leading to concerns that the awards process might be used to marginalize dissenting voices within the scientific community.
+Shift in Authority:
+Original Process:
+Initially, the
+head had the authority to finalize the awardees.
+Recent Change:
+A last-minute rule modification allowed the committee head to only “recommend” the final list to the Science Ministry, increasing the possibility of government intervention in the selection process.
+Recognition Framework:
+The RVP awards are categorized into four main types:
+Vigyan Ratna
+for lifetime achievements,
+Vigyan Shri
+for distinguished contributions,
+Vigyan Yuva
+for young scientists,
+Vigyan Team
+for collaborative efforts.
+Impact on the Scientific Community
+Concerns Over Transparency:
+The modification of selection criteria just before the announcement of awardees has led to suspicions that political motives might influence who receives recognition.
+Notably, some scientists who were initially included in the recommended list were omitted from the final public announcement, prompting questions about whether political pressures were involved.
+Exclusion of Dissenting Voices:
+Many excluded scientists had previously expressed dissent against government policies. This trend suggests a troubling pattern where recognition is contingent upon alignment with governmental perspectives, potentially
+stifling academic freedom
+and critical discourse within the scientific community.
+Way forward:
+Strengthen Transparency and Autonomy
+: Establish an independent, non-governmental oversight body to ensure that the selection process remains transparent and free from political interference.
+Safeguard Academic Freedom
+: Implement safeguards to prevent exclusion based on political or ideological views, ensuring that recognition is purely merit-based.
+**********Annular Solar Eclipse
+Trivia
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+An annular solar eclipse will be visible in parts of South America on October 2, 2023.  It, however, will not be visible from India.
+What is a Solar Eclipse?
+occurs when the
+Moon
+moves between the
+Earth
+and the
+Sun
+, blocking the Sun’s light either fully or partially, casting a shadow on certain parts of the Earth.
+There are
+four types of solar eclipses
+Total Solar Eclipse
+: When the Moon completely blocks the Sun, turning the sky dark. People in the path of a total solar eclipse can witness the
+Sun’s corona
+(its outer atmosphere), which is normally hidden by the bright sunlight.
+: Occurs when the Moon is at or near its
+farthest point from Earth
+. The Moon does not fully cover the Sun, leaving a visible
+ring of fire
+around the Moon. This is what people in parts of South America will witness on
+Partial Solar Eclipse
+: Happens when the Moon blocks only a part of the Sun, giving it a
+crescent shape
+. During both partial and annular eclipses, areas outside the Moon’s
+umbra
+(the darkest part of its shadow) experience a partial eclipse. It is the most common type of solar eclipse.
+Hybrid Solar Eclipse
+: The
+rarest
+type, where the eclipse shifts between
+as the Moon’s shadow moves across the Earth. Some places see a total solar eclipse, while others see an annular one.
+Frequency of Solar Eclipses
+A solar eclipse can only occur during the
+new moon
+, when the
+are aligned on the same side of the Earth.
+happens approximately every
+29.5 days
+because that is the time it takes for the Moon to orbit the Earth.
+However,
+don’t happen every month. They occur
+two to five times annually
+, but not every new moon results in an eclipse.
+Why don’t they occur every month:
+Moon’s orbit
+around the Earth is tilted by about
+5 degrees
+compared to the Earth’s orbit around the Sun.
+This means the Moon’s
+shadow usually misses
+A solar eclipse only
+occur when the Moon crosses specific points
+in its orbit, called
+nodes
+, where the Moon’s orbit intersects the plane of Earth’s orbit around the Sun.
+When a
+occurs at one of these nodes, a
+is possible.
+PYQ:
+[2019]
+On 21st June, the Sun
+(a) does not set below the horizon at the Arctic Circle
+(b) does not set below the horizon at Antarctic Circle
+(c) shines vertically overhead at noon on the Equator
+(d) shines vertically overhead at the Tropic of Capricorn
+**********Dadasaheb Phalke Award
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Veteran actor Mithun Chakraborty will be conferred with the 2022 Dadasaheb Phalke Award.
+Mithun Chakraborty to Receive Dadasaheb Phalke Award
+Mithun Chakraborty has played a wide range of roles throughout his career, from a tribal in
+‘Mrigayaa’
+(1976) to an action hero and a dancing star, becoming one of the most versatile actors in Indian cinema.
+His performance in
+‘Disco Dancer’
+(1982) made him an international sensation, with the movie being a massive hit across
+Asia
+, then
+Soviet Union
+Eastern Europe
+, and other regions after
+Raj Kapoor
+He has worked in more than
+350 films
+across multiple Indian languages, including
+Hindi
+Bengali
+Odia
+Bhojpuri
+Tamil
+Punjabi
+, demonstrating his wide-ranging influence.
+Mithun has won
+three National Film Awards
+for his outstanding performances in films like
+(1976),
+‘Tahader Katha’
+(1992), and
+‘Swami Vivekananda’
+(1998).
+He was awarded the
+Padma Bhushan
+, India’s third-highest civilian honor, in
+2023
+, recognizing his contributions to the arts.
+As the chairperson of the
+Film Studios Setting & Allied Mazdoor Union (FSSAMU)
+for three decades, Mithun has been actively involved in improving the welfare of film industry workers.
+About Dadasaheb Phalke Award
+Details
+Organized by
+Directorate of Film Festivals, Ministry of Information and Broadcasting.
+Presented by the
+President of India
+First Presented
+1969
+Purpose
+To honor individuals (filmmakers, actors, singers etc.) for their “great and outstanding contribution to the growth and development of Indian cinema”
+Named After
+Dadasaheb (Dhundiraj Govind) Phalke, “Father of Indian Cinema”.
+He directed and produced India’s first full-length feature film,
+Raja Harishchandra
+1913
+This landmark film is considered the
+starting point
+of the Indian cinema.
+Notable Recipients
+Devika Rani (1969), Prithviraj Kapoor (1971), Satyajit Ray (1985), Raj Kapoor (1987), Lata Mangeshkar (1989), Asha Bhosle (2000), Yash Chopra (2001), Rajinikanth (2019), Amitabh Bachchan (2018) , Waheeda Rehman (2021).
+Components of the Award
+₹1,000,000 (US$12,000) cash prize;
+Swarna Kamal (Golden Lotus) medallion, a shawl.
+Selection Criteria
+Awarded to individuals for their “great and outstanding contribution to the growth and development of Indian cinema”.
+Selection Committee
+A committee consisting of eminent personalities from the Indian film industry.
+PYQ:
+[2014]
+What do understand by the concept “freedom of speech and expression”? Does it cover hate speech also? Why do the films in India stand on a slightly different plane from other forms of expression? Discuss.
+**********[pib] Exercise KAZIND-2024
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+8
+edition
+of Exercise KAZIND-2024 has commenced in Uttarakhand.
+About Exercise KAZIND-2024
+is an
+annual
+joint military exercise between
+India
+Kazakhstan
+It was first initiated as
+Exercise PRABAL DOSTYK
+2016
+and later renamed
+after the second edition.
+The exercise involves
+Army contingents
+from both countries and, since 2023, also includes
+Air Force personnel
+, making it a
+Bi-service Exercise
+Focus Areas:
+It focuses on
+Counter Terrorism operations
+sub-conventional environments
+under the
+United Nations mandate
+Tactical drills
+practiced include
+Raid
+Search and Destroy Operations
+Small Team Insertion and Extraction
+, and
+Counter Unmanned Aerial System Operations
+Significance:
+The exercise aims to develop
+skills, resilience, and coordination
+for joint military operations in
+semi-urban and urban environments
+It allows both countries to
+share best practices
+enhance mutual cooperation
+strengthen military ties
+PYQ:
+[2024]
+Which of the following statements about the Exercise Mitra Shakti-2023 is/ are correct?
+This was a joint military exercise between India and Bangladesh.
+It commenced in Aundh (Pune).
+Joint response during counter-terrorism operations was a goal of this operation.
+Indian Air Force was a part of this exercise.
+Select the answer using the code given below:
+(a) 1, 2 and 3
+(b) 1 and 4
+(c) 1 and 4
+(d) 2, 3 and 4
+**********Who is an Overseas Citizen of India (OCI)?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Following complaints from Overseas Citizen of India (OCI) card holders about being reclassified as “foreigners,” the Ministry of External Affairs clarified, that no changes have been made to the rules governing OCI status.
+About
+Details
+OCI scheme, introduced in August 2005, allows Persons of Indian Origin (PIOs) who were citizens of India
+after January 26, 1950
+or were eligible for Indian citizenship on that date, to register for OCI status.
+Serves as a form of
+dual citizenship
+for the Indian diaspora.
+The Ministry of Home Affairs
+defines an OCI.
+OCI Card Benefits
+OCI cardholders receive a multiple-entry, life-long visa to visit India and are exempt from registering with local authorities for extended stays.
+Population (as of 2023)
+USA
+: 16.8 lakh >
+UK
+: 9.34 lakh
+> Australia
+: 4.94 lakh>
+Canada
+: 4.18 lakh
+Recent Rules (2021 Notification)
+OCI card holders need
+permission to visit
+protected, restricted, or prohibited areas.
+Special permits
+are also required for activities such as conducting research, undertaking missionary or journalistic work, and visiting areas like Jammu & Kashmir.
+OCI vs NRI Rights
+Under the
+Foreign Exchange Management Act (FEMA) 2003
+, OCI card holders are now on par with foreign nationals regarding economic, financial, and educational rights, reversing earlier parity with NRIs.
+Significant Changes to OCI Rules
+: Lifelong visas and exemption from FRRO registration
+2007
+: Parity with NRIs for inter-country adoption and domestic airfare
+2009
+: Parity with NRIs for entry fees to monuments and professions like doctors and architects
+Eligibility Restrictions
+Individuals with
+parents or grandparents from Pakistan or Bangladesh
+cannot apply for an OCI card.
+Foreign military personnel
+(retired or active) are also not eligible.
+Spouse Eligibility
+Spouses of Indian citizens or OCI card holders, whose marriage has been registered for at least two years, can apply for an OCI card.
+OCI Card Restrictions
+cannot vote, hold constitutional positions
+, or be elected as a members of Parliament or Legislative Assembly.
+They are also
+restricted from holding government employment
+in India.
+PYQ:
+[2021]
+With reference to India, consider the following statements: (2021)
+There is only one citizenship and one domicile.
+A citizen by birth only can become the Head of State.
+A foreigner once granted citizenship cannot be deprived of it under any circumstances.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) 1 and 3
+(d) 2 and 3
+**********

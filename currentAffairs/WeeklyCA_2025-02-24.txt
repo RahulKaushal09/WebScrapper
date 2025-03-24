@@ -1,0 +1,20 @@
+
+**********
+MoD, BEL Sign Contract for Software Defined Radios
+February 21, 2025
+The Indian Ministry of Defence has recently signed contract with Bharat Electronics Limited (BEL) for the procurement of 149 Software Defined Radios (SDRs). This contract, valued at ₹1220.12 crore, was finalised on 20th February 2025. It marks a very important move towards enhancing the operational capabilities of the Indian Coast Guard (ICG) and aligns with the government’s broader objectives for maritime security and indigenous defence manufacturing.
+What are Software Defined Radios?
+Software Defined Radios are advanced communication systems that use software to manage radio functions.
+This technology allows for high-speed data transmission and secure voice communication.
+The SDRs will enable the ICG to share vital information securely and collaborate effectively during operations.
+Importance for the Indian Coast Guard
+The new SDRs will boost the ICG’s core responsibilities. These include maritime law enforcement, search and rescue missions, fisheries protection, and marine environment safeguarding. Enhanced communication capabilities will improve situational awareness and operational efficiency.
+Interoperability
+The procurement of SDRs will also enhance interoperability between the Indian Coast Guard and the Indian Navy. Improved communication systems will facilitate better coordination during joint operations, thereby strengthening national maritime security.
+Supporting Atmanirbhar Bharat Initiative
+The contract falls under the “Buy (Indian-IDDM)” category, which promotes indigenous defence manufacturing. This initiative is part of the
+(self-reliant India) campaign. It aims to reduce dependency on foreign technology and enhance domestic production capabilities.
+Economic and Employment Opportunities
+The contract is expected to generate employment opportunities. It will encourage technological expertise in advanced military-grade communication systems. This is crucial for building a robust defence manufacturing ecosystem in India.
+Strategic Modernisation Efforts
+This procurement is a strategic step in modernising the operational capabilities of the Indian Coast Guard. It reflects a commitment to adopting cutting-edge technology to meet evolving security challenges in maritime domains.

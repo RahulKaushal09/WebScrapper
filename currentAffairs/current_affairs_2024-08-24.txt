@@ -1,0 +1,1403 @@
+BHISHM Cubes
+During his recent visit to Kyiv, the Prime Minister of India gifted four BHISHM cubes to the President of Ukraine.
+What is BHISHM?
+BHISM (
+Bharat Health Initiative for Sahyog, Hita, and Maitri) provides compact, mobile medical units for emergency care, designed to deliver medical facilities swiftly and effectively.
+Key features of BHISHM cubes:
+Compact and organised:
+Medical supplies and equipment are packed into 15-inch cubical boxes. These boxes are organized based on injury types and medical needs, making them efficient for quick deployment in emergencies.
+Transport flexibility:
+The cubes are mounted on an adjustable framework, allowing them to be
+transported via multiple modes
+, including air, sea, land, and drone. Each cube weighs up to 20 kg and is designed to be carried by an individual.
+Mother and BHISHM cubes:
+36 mini cubes
+combine to form one mother cube.
+Two mother cubes combine to form one BHISHM Cube.
+Functionality of mother cubes:
+One Mother Cube offers first-line care, shelter, and food for up to
+five people for 48 hours.
+The second mother cube is equipped for surgical care, handling
+10-15
+basic surgeries per day.
+Ease of use and management:
+Medicines and equipment are classified, with
+Radio Frequency Identification (RFID)
+inventory management
+and real-time stock updates. Additionally, a dedicated app and a tablet with support for
+180 languages
+are provided for operational instructions.
+Capacity and Features:
+Each BHISHM Cube can handle around
+200 emergency cases,
+including trauma, burns, fractures, and shock.
+The cubes are capable of supporting basic surgeries and can generate their power and oxygen for limited durations.
+Technological Integration
+: BHISHM cubes incorporate
+Artificial Intelligence (AI) and data analytics
+for effective coordination, real-time monitoring and efficient management of medical services.
+Project Aarogya Maitri
+Objective
+: Part of India's initiative
+to provide essential medical supplies
+to developing countries affected by disasters or humanitarian crises.
+Importance
+: Highlights India's commitment to international humanitarian assistance
+Click to View More
+Source :
+New Delhi’s gift to Kyiv: 4 BHISHM cubes for emergency medical care | India News
+Defence & Security
+**********Ramsar Sites in India
+Recently, the Union Minister for Environment, Forest and Climate Change announced three new Ramsar sites in Tamil Nadu and Madhya Pradesh.
+Total Ramsar Sites in India
+: 85.
+New Sites Added
+Nanjarayan Bird Sanctuary (Tamil Nadu)
+Location
+: Northeastern Uthukuli Taluk, Tiruppur District.
+Ecological Significance
+: Originally a reservoir for irrigation, now a vital ecosystem supporting various bird species, including migratory birds from the
+Central Asian Flyway.
+Avifauna
+: Home to species like the
+Eurasian coot, spot-billed duck, and various herons.
+Kazhuveli Bird Sanctuary (Tamil Nadu)
+: Villupuram District, North of Pondicherry on the Coromandel Coast.
+Ecology
+: A brackish water wetland with salt marshes, mudflats, and shallow waters.
+Flora and Fauna
+: Hosts endangered species like the
+black-headed ibis and greater flamingo.
+Mangrove patches and reed beds dominate the area.
+: Important stopover for migratory birds along the East Asian-Australasian Flyway, contributing to flood control and groundwater recharge.
+Tawa Reservoir (Madhya Pradesh)
+: Constructed at the confluence of the
+Tawa and Denwa rivers
+, inside the Satpura Tiger Reserve.
+Ecological role
+: Provides irrigation, and drinking water, and supports local fisheries. It’s a major wintering ground for migratory birds.
+Key features
+: Largest protected area in Madhya Pradesh, forming the western boundary of
+Satpura National Park
+Bori Wildlife Sanctuary.
+Tawa River
+: The longest tributary of the
+Narmada River (172 km
+), originating in the
+Mahadeo hills
+, and flowing through the Betul district.
+Wetlands:
+Wetlands include areas like marshes, swamps, peatlands, rivers, lakes, and other water bodies.
+They can be natural or artificial, and the water may be fresh, brackish, or salt, and can vary in its state (static or flowing).
+Wetlands also cover shallow marine waters with a depth not exceeding six meters at low tide.
+Ramsar Convention
+Background
+: An intergovernmental treaty signed in
+1971
+Ramsar, Iran,
+aimed at the conservation of wetlands worldwide.
+Criteria for selection
+: Sites are designated based on their importance to the life cycles of species, support for biodiversity, and ability to sustain waterbirds and fish.
+India’s involvement
+: India joined the Ramsar Convention in
+1982
+, initially designating
+Chilika Lake (Odisha)
+Keoladeo National Park (Rajasthan)
+as Ramsar sites.
+Click to View More
+Source :
+India adds 3 new Ramsar sites: What are wetlands, why do they matter for the environment? | Explained News
+**********Tanager-1 Satellite
+Recently, NASA has launched a satellite to track methane emissions.
+About Tanager-1 Satellite:
+Launch details
+Launch vehicle
+: SpaceX Falcon 9 rocket.
+Launch site
+: Vandenberg Space Force Base, California.
+Development collaboration
+: Jointly developed by NASA’s Jet Propulsion Laboratory and other partners.
+Mission purpose
+Primary Objective
+: Detection of major
+carbon dioxide (CO₂)
+methane (CH₄
+) emissions.
+Environmental Focus
+: Targeting key greenhouse gases that significantly contribute to global warming.
+Technological features
+Spectrometer technology
+: Utilizes advanced imaging spectrometers from NASA’s Jet Propulsion Laboratory.
+Emission tracking
+Method
+: Measures light wavelengths reflected from the Earth's surface to identify specific atmospheric compounds.
+Spectral fingerprints
+: Identifies and quantifies greenhouse gases like CO₂ and CH₄ by their unique infrared signatures.
+Coverage capacity
+: Capable of monitoring emissions across 130,000 square kilometres daily.
+Data access
+: Plume data will be publicly available to support global emission reduction efforts.
+Significance of Methane Monitoring
+Global warming impact
+Potency
+: Methane is approximately 80 times more effective than CO₂ at warming the atmosphere over 20 years.
+Contribution
+: Accounts for 30% of global warming since the Industrial Revolution.
+Health implications
+: Linked to the formation of ground-level ozone, contributing to up to one million premature deaths annually.
+Click to View More
+Source :
+Tanager-1: Why NASA has launched a satellite to track methane emissions | Explained News
+Science & Tech
+**********TRAI's Proposal on Broadband Tariffs under PM-WANI
+Recently, TRAI has proposed a reduction in broadband rates for Public Data Offices (PDOs) under the PM-WANI scheme to make internet access more affordable and boost the program's success.
+Background
+: The
+Prime Minister Wi-Fi Access Network Interface (PM-WANI)
+scheme was launched in 2020 which aims to democratise broadband access via public Wi-Fi hotspots. However, the program has faced challenges due to the high cost of connectivity charged by
+Telecom Service Providers (TSPs)
+Internet Service Providers (ISPs).
+Current tariff issues
+PDOs have been charged up to
+₹8 lakh annually
+for Internet leased lines, making the project economically unviable.
+In contrast, personal broadband connections are available at rates as low as
+₹300-400 per month.
+TRAI's Solution
+: Proposed tariffs for PDOs under the PM-WANI scheme should be aligned with retail broadband (FTTH) rates to support small-scale PDOs like local shops, kiranawalas, and storekeepers.
+TRAI plans to review the proposed tariff arrangement after two years, based on the scheme's progress.
+Targets vs. Reality
+As of July 2024, there are
+207,642
+deployed PM-WANI Wi-Fi hotspots, far below the
+National Digital Communications Policy 2018
+target of
+5 million by 2020.
+For
+Digital India 2030,
+the target is set at
+50 million public Wi-Fi hotspots.
+The average daily data usage per hotspot has dropped significantly, highlighting the need for tariff rationalization.
+About PM-WANI Scheme:
+Launch
+: Initiated by the
+Department of Telecommunications (DoT)
+in December 2020.
+Objective
+: To provide affordable, high-speed internet connectivity, particularly in rural and remote areas, through a nationwide public Wi-Fi network.
+PM-WANI Ecosystem Components
+Public Data Office (PDO)
+: Sets up Wi-Fi hotspots and provides internet access. No license is required from DoT.
+Public Data Office Aggregator (PDOA)
+: Offers authorization, accounting services, and user interfaces for purchasing data plans and monitoring usage.
+App Provider
+: Develops applications to help users locate and connect to nearby PM-WANI hotspots, facilitating easy internet access.
+Central Registry
+: Managed by the Centre for Development of Telematics, maintaining records of App Providers, PDOs, and PDOAs.
+Accessing PM-WANI Wi-Fi
+Users download an app to find available PM-WANI hotspots.
+They can select a network, pay for the service, and access the internet until their balance runs out.
+Click to View More
+Source :
+PM Wani revival: Trai proposes reduction in high Internet costs by telcos - Industry News
+Polity & Governance
+**********Right to Education (RTE) Act, 2009
+Recently, the Delhi High Court addressed the issue of separate identification numbers (IDs) for different wings of the same school, impacting the admission of students under the Economically Weaker Section/Disadvantaged Group (EWS/DG) category.
+Court Order
+:
+It directed the
+merger of identification numbers for different wings of the same schools
+in Delhi to ensure a seamless transition for students, particularly under the
+EWS/DG category.
+It also highlighted the goal of serving the broader objectives of the RTE Act by promoting
+equality and dignity for all students.
+The court mandated the appointment of nodal officers in every
+private unaided recognized
+school in Delhi to oversee the EWS/DG admission process.
+It also ordered the
+Department of Education (DoE)
+to merge the IDs within
+eight weeks and file a compliance report.
+About the Right to Education (RTE) Act, 2009:
+Background
+RTE Act Originates from the
+1993
+Supreme Court ruling in the
+Unnikrishnan vs. State of Andhra Pradesh case,
+establishing education as a fundamental right under
+Article 21.
+Constitution (86
+Amendment) Act, 2002
+introduced
+Article 21A,
+guaranteeing free and compulsory education for children aged 6-14 years.
+Key Constitutional Amendments
+: State's responsibility to provide free and compulsory education to children aged 6-14.
+Article 45
+: State to provide early childhood care and education until the age of six.
+Article 51A
+: Parents' duty to provide educational opportunities for children aged 6-14.
+Significant provisions of the RTE Act:
+Free and compulsory education
+Right to education for all children aged
+in a neighbourhood school.
+Provision for age-appropriate class placement for older children who missed schooling.
+No detention, expulsion, or mandatory board exams until the completion of elementary education.
+Curriculum and Recognition
+Government to establish curriculum and evaluation procedures.
+Compliance with pupil-teacher ratios and infrastructure norms is mandatory for school recognition.
+Teachers must qualify through the
+Teacher Eligibility Test
+(TET).
+Responsibilities of schools
+Government and aided schools must provide free and compulsory education.
+Schools must establish
+School Management Committees (SMCs)
+to monitor grant utilization and school development.
+Government responsibilities
+Central Government: National Advisory Council, curriculum framework, and teacher training standards.
+State Government: Ensure compulsory admission, attendance, and elementary education completion; establish neighbourhood schools.
+Grievance redressal
+National and State Commissions for Protection of Child Rights to safeguard rights under the RTE Act.
+Status and impact of the RTE Act:
+Achievements
+Increased enrolment rates, especially at the upper primary level (Class 6-8), with a
+4% rise
+from 2009 to 2016.
+Improved infrastructure, with
+13% of schools
+achieving full RTE compliance.
+Significant impact of the
+25% EWS/DG quota
+, facilitating access to education for millions of students.
+Amendments to the RTE Act, 2009:
+2012 Amendment
+: The 2012 Amendment included children with disabilities within the Act’s purview and exempted religious and minority institutions.
+2019 Amendment
+: Abolished the no-detention policy up to class VIII, allowing states the discretion to implement it.
+Click to View More
+Source :
+High Court orders merger of school IDs in bid to ‘serve larger goal of RTE Act’ | Delhi News
+Polity & Governance
+**********Amrabad Tiger Reserve (ATR)
+The state government recently gave the final go ahead for the relocation of four villages from deep inside the core area of the Amrabad Tiger Reserve to an area outside.
+About Amrabad Tiger Reserve (ATR):
+Location
+: It is located in the Nagarkurnool and Nalgonda districts in the southern part of
+Telangana
+ATR covers a
+part of the Nallamala Forest
+, which is part of the
+Eastern Ghats chain.
+Spread over 2611.4 square kilometers, it is
+one of the largest tiger reserves
+in India.
+It is the
+second-largest Tiger Reserve in terms of core area.
+Earlier
+, it was
+part of 'Nagarjunasagar-Srisailam Tiger Reserve
+, but
+post-state bifurcation
+, the
+northern part
+of the reserve was
+vested with Telangana
+and renamed 'Amrabad Tiger Reserve'.
+The southern portion continues to be 'NSTR' with Andhra Pradesh.
+Major reservoirs like the
+Srisailam Dam
+Nagarjuna Sagar Dam
+fed by the
+river
+Krishna
+and its several perennial streams
+that
+originate in the ATR.
+Chenchu tribe
+is one of the major tribal communities that live in the ATR.
+Flora
+Dense grass
+occurs in
+30% of the area
+and is scattered in an additional 20%.
+Dominant tree species include Terminalia tomentosa, Hardwickia binata, Madhuca latifolia. Diospyros melanoxylon, Gardenia latifolia, etc.
+Fauna
+Major wild animals found are
+Tiger, Leopard, Wild dog
+, Indian Wolf, Indian fox, Rusty-spotted cat, Small Indian civet, Sloth bear,
+Honeybadger,
+Wild boar, etc.
+Over 303 bird species have been identified in this region. Some important groups include Eagles, Pigeons, Doves, Cuckoos, Woodpeckers, Drongos, etc.
+Click to View More
+Source :
+Government Okays Relocation of 4 Villages from Within Amrabad Tiger Reserve
+Environment
+**********What is Angkor Wat?
+Visitors are replicating the Temple Run video game at Cambodia’s Angkor Wat, sparking concerns among conservationists about potential damage to the 900-year-old site.
+About Angkor Wat:
+It is the
+largest religious monument
+in the world.
+It covers an area of 200 acres.
+It was
+built by
+Khmer King Suryavarman II
+first half of the 12th century
+, around the year 1110-1150, making Angkor Wat almost
+900 years old.
+originally dedicated to
+the Hindu god
+Vishnu
+before becoming a Buddhist temple
+the end of the
+12th century.
+In 1992, the temple complex was named a
+UNESCO World Heritage Site.
+Features
+The temple is at the top of the
+high classical style of
+Khmer architecture.
+Sandstone blocks
+were
+used to build the structure
+The precision in
+carving and the fitting
+together
+stones without
+the use of
+mortar
+is a testament to the engineering skills of the Khymer builders, and the technique used is yet to be ascertained correctly, though a section claims it to be wooden paste or a lime plaster mix.
+protected by
+a 15
+-foot-high wall and
+wide moat.
+The temple can be
+accessed only via small bridges
+spanning across the moat from the eastern and western sides.
+The temple has
+five major towers
+symbolising
+peaks of Mount Meru,
+believed to be the abode of the gods in Hindu and Buddhist mythology.
+Thousands of bas-reliefs
+depicting
+important deities
+and figures
+in Hindu and Buddhist religions,
+as well as key events in their narrative traditions, adorn the temple walls.
+Where is Angkor Wat?
+It is located in the northwestern province of Siem Reap in
+city of Angkor
+, home to Angkor Wat,
+was the capital of
+Khmer Empire
+and thrived between the
+9th and 15th centuries
+itself stretched over
+400
+sq.km
+and is now home to the magnificent remains of a
+variety of temples, including Angkor Wat, Angkor Thom
+, Bayon Temple, and Ta Prohm.
+Click to View More
+Source :
+Tourists trample Angkor Wat mimicking Temple Run game for TikTok hits
+Art and Culture
+**********Comptroller and Auditor General of India (CAG)
+Reports of the Comptroller and Auditor General (CAG) are “subject to scrutiny by Parliament, and the Government can always offer its views on the said report”, the Supreme Court said recently.
+About Comptroller and Auditor General of India (CAG):
+CAG is an
+independent authority
+established
+under Article 148
+of the Indian Constitution.
+CAG is the
+apex authority
+responsible for inspecting and
+auditing
+all the
+expenditures
+and receipts
+of both the
+Central and State Governments
+as well as of those organizations
+or bodies
+which are
+significantly funded by the government.
+Constitutional Provisions:
+broadly deals with the
+CAG appointment, oath, and conditions
+of service.
+Article 149 deals with the duty and power of CAG.
+Article 150
+says that the
+accounts of
+Union and
+States shall be kept
+in such form as the President may
+on the advice of the CAG, prescribe.
+Article 151
+reports of the CAG
+relating to the accounts of the Union shall be
+submitted to the President,
+who
+cause them to be laid before each House of Parliament.
+As per
+Article 279
+Calculation of "net proceeds
+" is ascertained and
+certified by the CAG
+, whose
+certificate is final.
+Appointment and Terms of Service:
+As per Article 148 of the Constitution, there shall be a CAG who shall be
+appointed by the President
+and can be
+removed
+from office
+only in the manner
+and on the grounds
+that a Judge of the Supreme Court is removed.
+He
+holds office
+for a period of
+six years or upto
+age of 65 years
+, whichever is earlier.
+After the retirement
+or resignation
+from his office, he is
+no longer eligible for
+any jobs
+or offices
+under the Central or State Governments.
+Functions of CAG:
+audits the accounts
+related to all
+expenditure from
+Consolidated Fund of India
+Consolidated Fund of each state,
+and UT’s
+having
+a legislative
+assembly
+expenditure from the Contingency Fund of India
+Public Account of India,
+as well as the
+Contingency Fund and Public Account of each state.
+audits all trading, manufacturing, profit and loss accounts, balance sheets
+other subsidiary accounts
+kept by any department
+of the Central Government and the state governments.
+receipts and expenditures of all bodies
+and authorities
+substantially financed from the Central or State revenues
+; government companies; other corporations and bodies, when so required by related laws.
+any other authority
+when requested by
+or Governor
+g. Local bodies.
+advises the President
+with regard to the
+prescription of the form
+in which the
+accounts of the Centre and States shall be kept.
+Reports by CAG:
+The CAG
+submits his audit
+Centre to the President
+, who shall,
+in turn, place them
+both the houses of
+. He
+submits 3 audit reports
+to the President-
+Audit report
+on appropriation accounts
+on finance accounts
+on public undertakings
+He also
+reports relating
+to the accounts of a
+State to the Governor
+, who shall, in turn, place them before the state legislature.
+Public Accounts Committees of
+Parliament and State
+legislatures
+review these audits.
+oversees the Indian Audit and Accounts Service (IA&AS),
+ensuring government spending aligns with parliamentary sanctions and maintaining financial accountability.
+The CAG is an agent of the Parliament and conducts audits of expenditure on behalf of the Parliament. Therefore,
+CAG is responsible only to the Parliament.
+Limitations:
+role of CAG
+auditing of public corporations is limited
+Some corporations
+audited directly by the CAG
+. For example, ONGC, Air India, and others.
+audited by private professional auditors
+who are
+Central Government in consultation with CAG
+. If necessary, there may be a supplementary audit by CAG.
+in the auditing of Government Companies
+is also
+. They are
+audited by private auditors
+appointed by the Central Government
+advice of the CAG.
+Click to View More
+Source :
+CAG report subject to Parliament scrutiny, says Supreme Court
+Polity & Governance
+**********What is meant by the term ‘Green Shoots’?
+The green shoots of a recovery have started to appear in the first six months of this calendar year, with niche verticals starting to draw investor interest, according to India’s startup sector.
+About Green Shoots:
+"Green shoots" is a term used to
+describe signs of economic recovery
+or positive data
+during an economic downturn.
+The term "green shoots" is a reference to plant growth and recovery, when plants start to show signs of health and life, and, therefore, has been employed as a
+metaphor for a recovering economy.
+The term was first used by UK chancellor Norman Lamont to refer to economic growth during the economic downturn in the United Kingdom in 1991.
+Particularly
+after a recession, green shoots are welcome as symbols of
+the fact that the
+economy is slowly treading the path upward.
+While there is
+no consensus on what exactly constitutes green shoots
+improvement in industrial production
+figures,
+rise in car sales
+developments in
+infrastructure
+sector, including the steadying of prices of cement and steel, have been
+seen as green shoots.
+Click to View More
+Source :
+Green shoots of recovery sprout among start-ups amid funding woes, investors' eye on niche players
+Economy
+**********Key Facts about Marshyangdi River
+At least 14 people lost their lives, and 16 others sustained injuries when an Indian tourist bus plunged 150 metres into the fast-flowing Marsyangdi River in central Nepal recently.
+About Marshyangdi River:
+It is a mountain river in
+with a length of 150 km.
+It is also one of the major
+tributaries of the Gandaki River
+that joins the Ganga River in India.
+Origin
+: It originates from the
+northern slopes of the Annapurna massif
+, one of the highest mountain ranges in the world.
+The
+glaciers of
+Annapurna Himalayan range
+, the
+Manaslu Himalayan range,
+and the
+Larkya Himalayan sub-range
+are the significant
+sources of this river.
+Flowing through the rugged landscapes of the Himalayas, the Marsyangdi River is known for its
+fast-paced and powerful currents
+The river cuts through
+deep gorges
+, cascades down
+waterfalls
+, and provides stunning views of the surrounding mountains, including
+Annapurna II, Annapurna III,
+Gangapurna
+Marsyangdi and its tributaries like
+Nyagdi and Dorti
+are known for their fresh taste of
+snow trout.
+It is famous among adventure enthusiasts, particularly for its
+white water rafting
+kayaking opportunities
+Several hydropower projects
+have been established along its course.
+Click to View More
+Source :
+14 people killed as Indian bus plunges into Nepal's Marsyangdi River
+Geography
+**********ISRO’s Chandrayaan-4 Mission
+Why in the News?
+The designs of India’s next mission to the Moon, Chandrayaan-4 has been finalized, and will most likely happen in 2027, said ISRO chairman S Somanath said on the occasion of National Space Day.
+What’s in Today’s Article?
+About Chandrayaan-4 Mission (Objectives, Strategy, Components, Payloads, etc.)
+News Summary
+Chandrayaan-4 Mission:
+Following the success of Chandrayaan-3, ISRO is now turning its attention to Chandrayaan-4, a lunar sample-return mission.
+This ambitious project aims to achieve a soft landing on the Moon, collect lunar rock samples, and return them to Earth.
+If successful, India would join the ranks of the United States, Russia, and China in accomplishing this challenging feat.
+Key Objectives of the Mission:
+Achieving a safe and gentle landing on the lunar surface.
+Collecting and storing lunar samples.
+Lifting off from the Moon's surface.
+Docking and undocking in lunar orbit.
+Transferring samples between spacecraft modules.
+Returning the collected samples safely to Earth.
+Mission Strategy and Components:
+Chandrayaan-4’s strategy is notably complex, involving five distinct components of the spacecraft:
+Propulsion System
+: Responsible for transporting the lander and ascender stages to the Moon.
+Descender
+: Designed for the lunar landing, carrying equipment for soil sampling.
+Ascender
+: Detaches from the lander after collecting samples, then lifts off from the lunar surface.
+Transfer Module
+: Receives samples from the Ascender and transports them to the Re-entry module.
+Re-entry Module
+: Safely brings the lunar samples back to Earth, designed to withstand the re-entry into Earth's atmosphere.
+Detailed Payloads:
+Lunar Propulsion Module
+: Transports the Lunar Lander and Ascender stages to the Moon, similar to the propulsion module used in Chandrayaan-3.
+: Touches down on the Moon, carrying instruments to support the Ascender stage and soil sampling equipment.
+Lunar Module Ascender
+: After collecting samples, it detaches from the Lander, ascends to lunar orbit, and prepares for docking.
+: Transfers the samples from the Ascender to the Re-entry Module, propelling them back to Earth.
+: Designed to safely return to Earth with the lunar samples.
+Dual Rocket Launch Strategy:
+Chandrayaan-4 will utilize two different rockets:
+Launch Vehicle Mark-3 (LMV-3)
+: The heavy lifter will carry the propulsion, descender, and ascender modules.
+Polar Satellite Launch Vehicle (PSLV)
+: The workhorse will transport the transfer and re-entry modules to their designated lunar orbits. These rockets will be launched on different dates, with the earliest launch not expected before 2028.
+Advanced Technology and Space Docking Experiment (SPADEX):
+The mission’s success will hinge on the successful docking of the Ascender Module with the Transfer Module in lunar orbit, a process that relies on the completion of the Space Docking Experiment (SPADEX).
+This experiment, developed by ISRO, involves two spacecraft and aims to advance technologies for orbital rendezvous, docking, and formation flying, which are crucial for the Chandrayaan-4 mission.
+By leveraging these sophisticated technologies and innovative strategies, ISRO aims to advance India’s capabilities in lunar exploration and bring back samples from the Moon, marking another significant milestone in the country's space exploration journey.
+ISRO’s Chandrayaan-4 Mission:
+ISRO has finalized the design for Chandrayaan-4, India’s next Moon mission, which aims to bring lunar rock and soil samples back to Earth, with the mission likely to occur in 2027.
+Chandrayaan-4 will be more complex than its predecessor, involving five separate modules and requiring two space docking operations— a first for ISRO.
+Two key capabilities for this mission were successfully tested during Chandrayaan-3.
+Final government approval is awaited
+. Additionally,
+ISRO has also completed the design for Chandrayaan-5
+, though its objectives and timeline are yet to be disclosed.
+ISRO_ Chandrayaan-4 design final, samples from Moon by 2027.pdf
+( Size:  1.4 MB  )
+Click to View More
+Science & Tech
+**********Space sector contributed ₹20,000 crore to India’s GDP over the last decade
+Why in news?
+As per the report initiated by the Indian Space Research Organisation (ISRO), India’s space sector has directly contributed about $24 billion (₹20,000 crore) to India’s Gross Domestic Product over the last decade.
+What’s in today’s article?
+Space Sector in India: Overview, Contributions, and Key Players
+Key highlights of the report
+India's space sector has emerged as a significant player on the global stage, known for its cost-effective and innovative space missions.
+The journey began in 1962 with the establishment of the Indian National Committee for Space Research (INCOSPAR) under the leadership of Dr. Vikram Sarabhai, which later evolved into the ISRO in 1969.
+Over the decades, India has developed robust capabilities in satellite development, launch vehicle technology, space exploration, and space applications.
+Satellite Technology
+Communication Satellites:
+The INSAT (Indian National Satellite System) and GSAT (Geostationary Satellite) series provide critical services in telecommunications, broadcasting, weather forecasting, and disaster management.
+Remote Sensing:
+The IRS (Indian Remote Sensing) satellite series helps in resource management, agricultural monitoring, urban planning, and environmental conservation.
+Launch Vehicle Technology:
+Polar Satellite Launch Vehicle (PSLV):
+Known as ISRO's workhorse, PSLV is renowned for its reliability and versatility in launching satellites into various orbits.
+Geosynchronous Satellite Launch Vehicle (GSLV):
+GSLV, particularly the GSLV Mk III variant, is used for launching heavier satellites into geostationary orbits and is key to India's human spaceflight program.
+Space Exploration:
+Chandrayaan Missions:
+India's moon missions, Chandrayaan-1 (2008), Chandrayaan-2 (2019) and Chandrayaan-3 (2023) have significantly contributed to lunar science.
+Mars Orbiter Mission (Mangalyaan):
+Launched in 2013, Mangalyaan made India the first country to successfully reach Mars in its first attempt, demonstrating advanced space technology at a fraction of the cost of similar missions by other countries.
+Navigation Systems
+NAVIC:
+The Navigation with Indian Constellation (NAVIC) is India's regional satellite navigation system, providing accurate positioning services over India and the surrounding region.
+Role of Private Players
+NewSpace India Limited (NSIL)
+Established in 2019, NSIL is ISRO's commercial arm responsible for transferring technologies to the private sector, manufacturing launch vehicles, and providing satellite launch services.
+Indian National Space Promotion and Authorization Center (IN-SPACe)
+IN-SPACe is a regulatory body that promotes and authorizes private sector participation in space activities, ensuring fair and transparent access to space resources.
+Private Companies
+Companies like
+Skyroot Aerospace, Agnikul Cosmos
+Pixxel
+are emerging as key players in satellite manufacturing, launch services, and space applications.
+About the report
+The report was initiated” by ISRO to evaluate the socio-economic impact of the space sector from 2014-2023.
+The study was conducted by Indian economics research firm econONE and Novaspace.
+It was presented during the National Space Day celebrations in New Delhi on August 23, 2024.
+The Space Day celebrations are to commemorate the first anniversary of the successful landing of the Chandrayaan-3 on August 23 last year.
+Key findings
+Impact on Indian Economy
+India’s space sector has directly contributed about $24 billion (₹20,000 crore) to India’s GDP over the last decade.
+It has directly supported
+96,000 jobs in the public and private sector
+For every dollar produced by the space sector, there was a
+multiplier effect of $2.54 to the Indian economy
+India’s space force was 2.5 times more productive than the country’s broader industrial workforce.
+8th largest space economy (in terms of funding) in the world
+With $13 billion invested in the last decade it is the 8th largest space economy (in terms of funding) in the world.
+Satellite communications contributed 54% to the space economy, followed by navigation (26%) and launches (11%).
+Diversified space sector
+The Indian space sector was diversifying and now had 700 companies including 200 start-ups.
+It had seen revenues grow to $6.3 billion in 2023, which was about 1.5% of the global space market.
+Way ahead
+India's space sector has significantly enhanced the nation's prestige, sovereignty, and global leadership, but its impact on the profitability and competitiveness of companies within the country has been limited.
+According to industry stakeholders, this is because the space program over the past decade has been primarily driven by political considerations.
+However, there is a shift occurring as commercial space is becoming a priority.
+Regulatory reforms have been introduced but have yet to fully take effect, and an under-developed venture capital ecosystem is hindering space technology start-ups from accessing necessary capital.
+Space sector contributed ₹20,000 crore to India’s GDP over the last decade.pdf
+( Size:  866.7 KB  )
+Click to View More
+Science & Tech
+**********PM Modi's Visit to Ukraine
+Why in news?
+PM Modi met Ukrainian President Volodymyr Zelenskyy in Kyiv, marking a significant diplomatic milestone amidst the Russia-Ukraine war.
+It was the first-ever visit to Ukraine by an Indian prime minister after Ukraine became independent in 1991.
+What’s in today’s article?
+India – Ukraine Bilateral Relation
+Key highlights of the visit
+Significance of this visit
+Political Relation
+India recognized Ukraine as a sovereign country in December 1991 and established diplomatic relations in January 1992.
+The Embassy of India in Kyiv was opened in May 1992.
+India and Ukraine enjoy warm and friendly relations and cooperate in areas like Education, Mutual Legal Assistance and Outer Space cooperation.
+Economic relation
+In the first half of 2024 the volume of bilateral trade amounted to 1.07 billion USD. Export of goods from Ukraine – 0.41 billion USD, import of goods from India – 0.66 billion USD.
+The negative trade balance for Ukraine amounted to 0.25 billion USD.
+The top commodities exported from Ukraine to India were fats and oils of vegetable origin, maize, hard coal, anthracite.
+Main Indian commodities imported to Ukraine were pharmaceutical products, mineral fuels, petroleum and distillation products, flat-rolled steel, electrical machinery.
+Defence Relation
+Ukraine has been a source of military technology and equipment for India since its independence.
+Ukraine manufactures the R-27 air-to-air missiles which are in use by the IAF on its SU-30MKI fighters.
+Cultural Relation
+There is a great interest in Indian culture in Ukraine at the public level, covering various aspects such as dances, yoga, philosophy, Ayurveda and spirituality.
+There were about 18,000 Indian students studying in Ukraine, mainly in the field of medicine.
+Reiterated India’s support for peace
+PM Modi reiterated India’s support for peace, mentioning that
+India is not neutral but is in favour of peace
+He highlighted India's tradition of non-violence from Buddha and Gandhi.
+Expressed sorrow over the loss of innocent children in the conflict
+Modi visited the Martyrologist Exposition at the National Museum of History of Ukraine and expressed sorrow over the loss of innocent children in the conflict.
+India presented four BHISHM Cubes to Ukraine
+PM Modi presented four BHISHM Cubes to Ukraine, which include medical equipment and supplies for emergency treatment and surgery.
+BHISM stands for Bharat Health Initiative for Sahyog Hita & Maitri
+. It is a mobile hospital aimed at providing emergency medical care to Ukraine.
+Bhishm was initiated under the umbrella of
+Project Aarogya Maitri
+, a programme to provide crucial medical supplies to developing nations for humanitarian aid.
+The purpose of the initiative is to deliver all basic facilities and equipment for providing emergency medical care in an easy to use and rapidly deployable manner.
+This
+consists of
+all essential medicines and equipment in cubical boxes that are each of 15 inches, in a well-organised manner
+They are arranged in accordance with the type of medical assistance and injuries that could happen in a war or natural disaster.
+These mini cubes are said to be then positioned on a strong, adjustable, which allows multi-mode transportation -by air, sea, land and drone.
+In addition to this, the cubes can be carried by an individual too as their maximum weight is 20 kg.
+As per the officials, one cube can manage about 200 emergency situations of diverse nature including trauma, bleeding, burns, fractures, shock, along with managing initial triage and classification.
+They also said that the cubes also provide the ability to support basic surgeries and can generate power and oxygen in limited amounts and duration.
+Four landmark agreements were reached
+India and Ukraine signed four agreements to provide for cooperation in
+agriculture, medicine, culture & humanitarian assistance
+PM Modi's visit to Kyiv marks a significant diplomatic shift for India, as it re-engages with Ukraine and asserts itself in the global geopolitical landscape amid the ongoing Russia-Ukraine war. This visit highlights three key developments:
+India's Role in European Peace Efforts
+Modi's engagement with Ukrainian President demonstrates India's commitment to understanding Ukraine's concerns and contributing to global peace efforts.
+This positions
+India as a more active participant in resolving the conflict, especially in the Global South
+Diplomatic and Strategic Space
+Modi's visit signals India's intention to play a more proactive role in shaping global power dynamics, particularly in Europe.
+This is contrasted with China's growing influence in the region and the U.S.'s evolving stance on its involvement in European security.
+Ukraine is not only about renewed contest between Russia and the West but also about the role of Delhi and Beijing in Europe
+Reviving India-Ukraine Relations
+Modi's visit also seeks to restore and enhance India's ties with Ukraine, which had been neglected post-Soviet Union.
+The commitment to a strategic partnership, along with economic, defense, and cultural cooperation, represents a significant renewal of the relationship between the two nations.
+PM Modi's Visit to Ukraine.pdf
+( Size:  2.5 MB  )
+Click to View More
+International Relations
+**********Reviving the PM-WANI Scheme
+Why in News?
+The Telecom Regulatory Authority of India (TRAI) has released a draft Telecommunication Tariff (70th Amendment) Order 2024 on "Regulatory framework for PM-WANI scheme”.
+What’s in Today’s Article?
+What is the PM-WANI Scheme?
+Status of Public Wi-Fi Hotspots under PM-WANI
+Reasons for the Poor Penetration of Public Wi-Fi Hotspots
+Changes Proposed by the Draft Telecommunication Tariff (70th Amendment) Order 2024
+The Prime Minister’s Wi-Fi Access Network Interface
+(PM-WANI) was launched by the Department of Telecommunication (Ministry of Communications, GoI) in
+2020
+The scheme aims
+To enhance the proliferation of
+public Wi-Fi hotspots
+to create robust digital communications infrastructure in the country, especially in rural areas.
+To increase employment
+for small and micro-entrepreneurs and provide low-cost internet to the underserved urban poor and rural households.
+To encourage local shops and establishments
+to provide Wi-Fi for last-mile internet delivery which does not require a licence or charge a registration fee.
+To access public hotspots
+under the scheme one needs to download a relevant App which shows the available networks.
+The user can then choose from a list of available connections and
+make a payment
+to use the network till his/her balance is exhausted.
+PM-WANI ecosystem consists of 4 parts:
+Public Data Office (PDO), Public Data Office Aggregator (PDOA), App Provider, and Central Registry.
+(local shops/ retailers, kiranawalas, storekeepers, etc) establishes the Wi-Fi Hotspots and provides internet access to users.
+provides authorisation and accounting services to PDOs.
+The app provider
+displays the available hotspots in the phone’s proximity.
+The central registry
+overseen by the Centre for Development of Telematics maintains details of App Providers, PDOs, and PDOAs.
+The benefits of PM-WANI include
+enhanced internet penetration (especially in rural areas), which will
+narrow the digital divide, help boost digital India
+and could lead to an increase in GDP.
+Status of Public Wi-Fi Hotspots under PM-WANI:
+The National Digital Communications Policy 2018
+under ‘Connect India’ mission had set the goal to enable deployment of 10 million public Wi-Fi hotspots by 2022 for creating a robust digital communication infrastructure.
+Further, the Bharat 6G Vision
+also sets the goal of 10 million public Wi-Fi hotspots by 2022 and 50 million by 2030 for Digital India 2030 mobile and broadband policy objectives.
+However, PM-Wani hotspot numbers presently are
+much below the targeted numbers.
+For instance
+, as per the information gathered from PM-Wani Central Registry,
+There were
+only 207,642 deployed PM-Wani Wi-Fi hotspots
+in the country and 199 PDOs and 111 app providers (as of July 2024).
+The average daily data usage
+per Wi-Fi hotspot was of the order of 1 GB till last year, and now it has come down to a few MBs.
+This is quite less than the monthly average data limit being provided to retail broadband customers.
+Reasons for the Poor Penetration of Public Wi-Fi Hotspots:
+This is mainly due to the
+extremely high cost of backhaul internet connectivity
+charged by Telecom Service Providers (TSPs) and Internet Service Providers (ISPs) from Public Data Offices (PDOs).
+Backhaul is the physical part of a network that connects the core network to local networks
+Also, TSPs/ISPs often insist on PDOs to connect public Wi-Fi Access Points using
+expensive Internet Leased Lines (ILL)
+instead of regular Fibre-to-the-Home (FTTH) broadband connections.
+For comparison, 100 Mbps of ILL rate versus an FTTH broadband connection showed that ILLs are 40 to 80 times higher than the retail connection.
+As most small-scale shop owners are unable to pay the high tariffs applicable to commercial entities, there are not many public Wi-Fi hotspots under the scheme.
+Changes Proposed by the Draft Telecommunication Tariff (70th Amendment) Order 2024:
+The telecom regulator has proposed
+a lower cost structure
+under the PM-Wani scheme.
+For example,
+tariff for PDO under the PM-Wani scheme shall be the same as is applicable for retail broadband (FTTH) connections.
+This will
+rationalise
+the cost of broadband connectivity to PDOs and will
+pace up
+the proliferation of the public Wi-Fi hotspots.
+Trai proposes reduction in high Internet costs by telcos.pdf
+( Size:  3.0 MB  )
+Click to View More
+Polity & Governance
+**********How to ensure dignity for the terminally ill?  
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Need legal clarity of Patient Rights;
+Why in the News?
+The Supreme Court of India
+denied permission
+to the parents of Harish Rana, a 32-year-old man in a vegetative state for 11 years, to
+remove his Ryles tube which is a device used for feeding.
+A Ryles tube, also known as a
+nasogastric (NG) tube,
+is a medical device used for various purposes related to
+nutrition and gastric management.
+It is inserted through the nose, passing through the nasal cavity, down the esophagus, and into the stomach.
+Recent Supreme Court Judgment:
+The Bench headed by
+CJI D.Y. Chandrachud
+observed that the
+Ryles tube is not a life support system and therefore could not be withdrawn.
+This decision has
+stirred legal and ethical debates,
+as the
+Supreme Court’s 2018 judgment permits the withdrawal of life support in terminal cases under the concept of
+“passive euthanasia.”
+Passive euthanasia
+involves the
+withdrawal of medical treatment
+with the intention of hastening the
+death of a terminally ill patient.
+initially legalized this practice in 2018,
+allowing patients to create a
+“living will”
+to refuse life-sustaining treatment when they are unable to communicate their wishes.
+Ethical Challenges:
+Question of whether the decision benefits the patient:
+The judgment raises concerns about whether the decision benefits the patient, as prolonging life in such a condition may increase suffering.
+Prolonged suffering:
+The principle of not causing harm is challenged since keeping the patient in a vegetative state with artificial feeding may lead to prolonged suffering for both the patient and their caregivers.
+Against Right to Life and Death:
+The patient’s rights to a dignified life and death may be compromised which is addressed in various judgments like
+Common Cause v. Union of India (2018).
+This judgment recognised the
+right to die with dignity
+as part of the right to life under Article 21.
+Autonomy:
+The patient’s right to choose, which is central to the concept of dignity, has been overlooked. The judgment did not consider the wishes of the patient or their family in determining the course of action.
+Need for Legal Clarity:
+Distinguishing Euthanasia from Withdrawal of Life Support:
+There is a pressing need to
+legally clarify the difference between
+euthanasia and the withdrawal of futile life-sustaining interventions.
+Involvement of Medical and Ethical Experts:
+The decision-making process in such sensitive cases should
+involve palliative care physicians and ethical experts
+to ensure that medical and ethical considerations are fully addressed.
+Advance Care Planning:
+Promoting Advance Medical Directives and Advance Care Planning is crucial to
+empower individuals to have control over their end-of-life decisions
+, ensuring that their rights to a good quality of life and death are respected.
+Systemic Reforms:
+The judgment highlights the need for systemic reforms to
+avoid forcing families into legal battles and to ensure that patients’ rights are safeguarded
+with appropriate legal frameworks.
+Conclusion:
+The recent Supreme Court judgment highlights the urgent need for legal clarity, ethical considerations, and systemic reforms to protect patient rights and ensure dignity in end-of-life decisions.
+Mains question for practice:
+Discuss the need for legal clarity and systemic reforms to uphold the dignity and rights of patients in end-of-life decisions.
+(150 words) 10M
+**********Time to reset the GST system   
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Taxation; Issues related to GST;
+Why in the News?
+Most states appear to be opposed to altering the current five primary GST rate slabs: 0%, 5%, 12%, 18%, and 28%.
+About Goods and Service Tax (GST):
+The Goods and Services Tax (GST) in India was introduced by the Constitutional (One Hundred and First Amendment) Act of 2017. It is a
+unified tax
+system that replaced multiple indirect taxes levied by both the Central and State Governments.
+Under GST, the
+(CGST) and state government (SGST) share the authority
+to levy and collect taxes
+on goods and services. In the case of Inter-state transactions,
+Integrated GST
+(IGST) is applicable.
+Essential Features of GST
+Multiple Tax Levels:
+India’s GST system has multiple tax rates, with
+four primary tax rates
+(5%, 12%, 18%, and 28%). Additionally, there is a “
+zero rate
+” for certain essential goods and services (e.g. exports).
+One Nation, One Tax:
+GST is based on the
+principles of value-added tax
+and applies
+to the supply of goods and services across the nation.
+It brings uniformity in the tax structure across India, eliminating the cascading effect of taxes.
+Destination-Based Tax:
+This means that the revenue generated from GST is collected by the state where the goods or services are consumed, rather than where they are produced.
+Eliminating Cascading Effect:
+Under the Indian GST system, businesses can claim
+input tax credit
+for the GST they paid on their purchases. This ensures that taxes are levied only on the value added at each stage of the supply chain.
+Sector-specific Exemptions:
+Certain sectors, such as healthcare, education, and basic necessities like food grains, are either exempted from GST or have reduced tax rates to ensure affordability and accessibility.
+Threshold Exemption:
+Small businesses with a turnover below a specified threshold (currently, it is
+20 lakhs:
+supplier of both goods & services and
+40 lakhs:
+for supplier of goods (Intra–State) in India) are exempt from GST.
+Present Challenges in GST Rates
+Complexity and Confusion:
+The existence of
+multiple GST slabs creates confusion
+for businesses and consumers alike. Different rates for similar items lead to complications in compliance and classification, resulting in litigation and disputes.
+For instance, the GST on cement is
+28%, while essential items like milk are exempt,
+yet products derived from milk, such as
+skimmed milk powder, are taxed at 5%.
+Anomalies in Taxation:
+There are notable inconsistencies in the application of GST rates. For example, the
+taxation of medical and life insurance premiums at 18% is seen as burdensome for individuals seeking financial protection against uncertainties
+Need to simplify the current GST Slabs
+Rationalization Proposal:
+There is a growing consensus among industry experts and some government officials that the GST structure should be
+simplified to a maximum of three slabs.
+This would not only streamline compliance but also reduce the administrative burden on businesses and the government alike.
+Economic Stimulus:
+Simplifying GST rates could potentially stimulate economic activity by
+lowering indirect tax burdens, encouraging consumption,
+and ultimately leading to higher tax revenues.
+Why are states resisting?
+Fear of Revenue Loss:
+Many states are apprehensive about the
+implications of changing the GST
+structure, fearing that it might
+lead to a decrease in their revenue streams
+Political Considerations:
+The political landscape also plays a role in the resistance to change. With upcoming elections and the
+need to maintain fiscal health,
+state governments may prioritize short-term revenue stability over long-term structural reforms.
+Way forward:
+Phased Implementation:
+Start by introducing pilot programs in select states or sectors to test the impact of GST simplification. This approach can help address specific concerns and refine the model before a nationwide rollout.
+Revenue Protection Schemes:
+Develop robust mechanisms to compensate states for any potential revenue losses during the transition. This could involve a formula-based compensation fund or a temporary revenue guarantee.
+Mains PYQ:
+Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions?
+(2020)
+**********The road to 2047 for Indian agriculture   
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Challenges to Indian agriculture;
+Why in the News?
+India’s 100th independence anniversary in 2047 is approaching, and the goal to become ‘a developed nation’ has a significant focus.
+Goals of Indian Agriculture by Vision 2047:
+Comprehensive Goal
+: India’s centennial year of independence
+requires a six-fold increase in per capita Gross National Income (GNI),
+emphasizing the
+need for comprehensive development, especially in
+agriculture.
+Trade Goal:
+India’s agricultural and processed food exports have gone up to more than USD 50 billion in 2022-23.
+The Vision 2047 aims to improve the availability of nutritious foods by enhancing the processing of fruits and vegetables, and augment the proportion of
+value-added products in India’s export portfolio.
+Sustainable Goal
+: Transforming Indian agriculture will hinge on
+adopting sustainable practices
+such as precision farming, genetically
+modified crops, and advanced irrigation techniques (e.g., drip and sprinkler systems).
+Present starking Imbalance in the Indian Economy
+Workforce vs. GDP Contribution
+: Despite agriculture engaging nearly
+46% of the workforce,
+it contributes only about
+18% to the GDP
+, revealing a significant imbalance.
+Growth Disparity
+: While the overall GDP has grown at
+6.1% annually since 1991-92, agricultural GDP has lagged at 3.3%
+. In the last decade (2013- 2023), overall GDP growth was
+5.9%, with agriculture growing at 3.6%,
+which is insufficient for the sector’s socio-economic importance.
+Future Projections
+: By 2047, agriculture’s share in GDP might
+shrink to 7%-8%,
+but it could still employ over
+30% of the workforce,
+necessitating significant structural changes to avoid exacerbating the disparity.
+Government Initiatives:
+For Water Management
+: The
+Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)
+has promoted water-use efficiency through micro-irrigation,
+covering 78 lakh hectares with a ₹93,068 crore allocation for 2021-26.
+For Risk Management
+Pradhan Mantri Fasal Bima Yojana (PMFBY)
+offers financial assistance for crop losses, with
+49.5 crore farmers enrolled and claims totalling over ₹1.45 lakh crore.
+For Market Access
+Electronic National Agriculture Market (eNAM)
+integrates existing markets through an electronic platform, benefiting
+1.76 million farmers and recording trade worth ₹2.88 lakh crore by September 2023.
+For better Farmer Support
+Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme
+, disbursing
+₹6,000 annually to farmers
+, has benefited over
+11.8 crore farmers.
+For enhanced Soil Health
+Soil Health Card (SHC) scheme
+aims to optimize soil nutrient use, enhancing productivity, with over
+23 crore SHCs distributed.
+Need for Strategic Planning
+Population Growth
+: India’s population is projected to
+reach 1.5 billion by 2030 and 1.59 billion by 2040
+, increasing the demand for food by approximately 2.85% annually.
+Future Demand
+: By 2047-48, food grain demand is projected to range from
+402 million tonnes to 437 million tonnes,
+requiring sustainable production exceeding demand by 10%-13% under the Business-As-Usual scenario.
+Way Forward:
+Investment in R&D
+: To meet future demands sustainably, significant
+investments in agricultural research, infrastructure, and policy support are necessary.
+Budget Allocation
+: The Budget for 2024-25 includes ₹20 lakh crore for
+targeted agricultural credit and the launch of the Agriculture Accelerator Fund
+highlighting a proactive approach to fostering agricultural innovation and growth.
+Enhance Digital Infrastructure
+: Support and expand
+digital platforms like eNAM
+to improve market access, provide real-time data, and facilitate better price realization for farmers.
+Mains PYQ:
+Give the vulnerability of inidan agriculture to vagaries of nature, discuss the need for crop insurance and bring out the salient features of the Pradhan Mantri Fasal Bima Yojana (PMFBY).
+(2016)
+**********PM Modi presents BHISHM Cube to Ukraine
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Mains level:
+‘Aarogya Maitri’ Diplomacy
+Why in the News?
+Prime Minister Modi has presented the BHISHM Cube, a state-of-the-art mobile hospital designed for rapid deployment in disaster zones to Ukraine.
+What is the BHISHM Cube?
+The BHISHM Cube is an
+advanced mobile hospital unit
+in disaster zones and emergency situations.
+It is developed under the “
+Project BHISHM
+” (
+Bharat Health Initiative for Sahyog, Hita, and Maitri
+), reflecting India’s commitment to providing swift medical assistance in crisis areas.
+The unit is capable of
+treating up to 200 casualties
+Key Features:
+It weighs
+720 kg
+and is composed of
+72 components
+that can be easily transported by hand, bicycle, or drone.
+The unit can be fully
+operational within 12 minutes
+of deployment, a critical feature in emergencies where every second counts.
+It includes an
+operating theatre, X-ray machines, ventilators
+, and facilities for treating a wide range of injuries.
+It incorporates
+AI and data analytics for real-time monitoring
+and coordination of medical services.
+It also uses
+RFID-tagged equipment
+for efficient tracking and management of medical supplies.
+robust and waterproof
+, making it suitable for diverse environments and capable of withstanding various weather conditions.
+Significance of the move
+By providing the BHISHM Cube to countries in need, such as Ukraine, India demonstrates its
+commitment to global humanitarian efforts
+The project aligns with India’s broader initiatives like ‘
+, aimed at supporting developing countries affected by natural disasters or crises.
+The deployment of the BHISHM Cube
+enhances disaster preparedness
+by ensuring that essential medical services are available when and where they are needed most.
+The gifting serves as a
+tool of soft diplomacy
+, strengthening India’s international relations by contributing to global health and safety.
+PYQ:
+[2022]
+With reference to the Ayushman Bharat Digital Mission, consider the following statements:
+Private and public hospitals must adopt it.
+As it aims to achieve universal, health coverage, every citizen of India should be part of it ultimately.
+It has seamless portability across the country.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********Polaris Dawn Mission: A Private Space Endeavor
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Polaris Dawn is set to be the
+first privately-funded mission
+to conduct a spacewalk, aiming to reach an altitude of about
+700 kilometers above Earth
+, the highest altitude for a human space mission to date.
+What is Polaris Dawn Mission?
+Polaris Dawn is a
+privately-funded space mission
+led by billionaire entrepreneur
+Jared Isaacman
+, in collaboration with SpaceX.
+It is set to be the
+first non-government mission
+This
+700km altitude
+will surpass the current record held by
+NASA’s Gemini 11 mission
+in 1966.
+The mission will test
+new spacesuits
+designed by SpaceX to protect astronauts from high radiation levels encountered in the
+Van Allen Belts
+What are the Van Allen Belts?
+The Van Allen Belts are
+two zones
+of charged particles
+that surround Earth, held in the
+magnetosphere
+These belts were
+discovered in 1958
+by American physicist
+James Van Allen
+Inner Belt:
+This belt is located approximately 680 to 3,000 km above Earth’s surface and is primarily composed of high-energy protons. It is formed by cosmic rays interacting with Earth’s atmosphere.
+Outer Belt:
+Located about 15,000 to 20,000 km above Earth’s surface, the outer belt mainly consists of high-energy electrons captured from solar wind.
+Why are the Van Allen Belts dangerous for Humans?
+The Van Allen Belts are dangerous for humans because they contain
+high levels of radiation
+that can pose significant health risks to astronauts.
+The belts are
+filled with charged particles
+that can cause
+radiation sickness
+damage human tissues, and increase the risk of cancer.
+PYQ:
+[2011]
+What is the difference between asteroids and comets?
+Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material.
+Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and Mercury.
+Comets show a perceptible glowing tail, while asteroids do not.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+**********[pib] PM-JANMAN Mission
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Union Ministry of Tribal Affairs
+is conducting an Information,
+Education and Communication (IEC)
+campaign under the
+PM-JANMAN Mission.
+About Pradhan Mantri Janjati Adivasi Nyaya Maha AbhiyaN (PM-JANMAN):
+Details
+Launched on
+November 15, 2023, on Janjatiya Gaurav Diwas
+Objective
+Improve socio-economic welfare of
+Particularly Vulnerable Tribal Groups (PVTGs)
+through 11 critical interventions across 9 ministries.
+Vision
+Bridge gaps in health, education, and livelihoods; enhance infrastructure in PVTG communities aligned with existing schemes from nine ministries.
+Total Outlay
+Rs 24,104 crore over three years
+Rs 15,000 crore allocated under the
+Development Action Plan for the Scheduled Tribes (DAPST)
+for the housing component over three years.
+Implementation
+Central Sector
+Centrally Sponsored
+Schemes designed to enhance socio-economic conditions of PVTGs.
+through the State Governments/ UT Administration/departments have undertaken habitation level data collection exercise through
+PM Gati Shakti
+mobile application to estimate PVTG population figures and infrastructure gaps under PM-JANMAN Mission.
+Coverage
+Targets
+75 PVTGs
+in 18 states and 1 Union Territory, focusing on health, education, and livelihoods.
+Competitive Federalism
+Performance-based ranking of districts; top districts and Ministries recognized and rewarded for outstanding performance.
+PYQ:
+[2017]
+What are the two major legal initiatives by the State since Independence addressing discrimination against Scheduled Tribes (STs)?
+[2019]
+Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India:
+PVTGs reside in 18 States and one Union Territory.
+A stagnant or declining population is one of the criteria for determining PVTG status.
+There are 95 PVTGs officially notified in the country so far.
+Irular and Konda Reddi tribes are included in the list of PVTGs.
+Which of the statements given above are correct?
+(a) 1, 2 and 3
+(b) 2, 3 and 4
+(c) 1, 2 and 4
+(d) 1, 3 and 4
+**********[pib] National Human Rights Commission (NHRC)
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+India has taken
+suo motu cognizance
+of the two alleged incidents of food poisoning related deaths in an orphanage in Andhra Pradesh.
+About National Human Rights Commission (NHRC)
+Details
+Establishment
+As a
+Statutory
+Body and established under the
+Protection of Human Rights Act, 1993
+Functions
+Inquire into any violation of human rights
+Recommend immediate interim relief to victims or their families
+Intervene in court proceedings involving human rights violations
+Review constitutional and legal safeguards for human rights
+Study international instruments on human rights
+Support the efforts of NGOs working in the field of human rights
+Powers
+Regulate
+its own procedure
+Possess all the
+powers of a civil court
+Proceedings have a
+judicial character
+May take any of the following steps upon the completion of an inquiry
+To recommend to the concerned government or authority to make payment of compensation or damages to the victim.
+To recommend to the concerned government/authority the initiation of proceedings for prosecution or any other action against the guilty public servant.
+To recommend to the concerned government/authority for the grant of immediate interim relief to the victim.
+To approach the SC or the HC concerned for the necessary directions, orders, or writs.
+Chairperson
+Must be a former
+Justice of the Supreme Court or CJI
+(appointed by the President of India)
+Members
+Four full-time members;
+Chairperson:
+former Supreme Court Justice or Chief Justice;
+Other Member:
+former Judge of the Supreme Court;
+former Chief Justice of a High Court;
+Three Members:
+with knowledge or experience in human rights, including at least one woman –
+Seven ex-officio members:
+Chairpersons of National Commissions viz., National Commission for Scheduled Castes, National Commission for Scheduled Tribes, National Commission for Women , National Commission for Minorities, National Commission for Backward Classes, National Commission for Protection of Child Rights; and the Chief Commissioner for Persons with Disabilities.
+Appointment
+Appointed by the
+based on a
+committee recommendation
+including the
+Prime Minister, Speaker of Lok Sabha, Home Minister, Leaders of the Opposition in Lok Sabha
+Rajya Sabha,
+and others
+Consultation with the Chief Justice of India for judicial appointments
+Removal
+By order of the
+before removal
+Terms of Office
+Hold office for a
+term of three years or until the age of 70
+Ineligibility for further government employment after office
+Eligible for reappointment
+Salaries
+Determined by the
+Central government
+Reporting
+Submits annual or special
+reports to the Central government and the concerned State government
+Reports laid before the respective legislatures, along with a memorandum of action taken on the recommendations and reasons for non-acceptance of any recommendations
+Limitations
+The commission is not empowered to inquire into any matter after the
+expiry of one year
+from the date on which the act constituting the violation of human rights is alleged to have been committed
+Functions are recommendatory in nature, with no power to punish or award relief to violators
+Limited role concerning armed forces violations
+PYQ:
+[2011]
+Consider the following:
+Right to education.
+Right to equal access to public service.
+Right to food.
+Which of the above is/are Human Right/Rights under “Universal Declaration of Human Rights”?
+(a) 1 only
+(b) 1 and 2 only
+(c) 3 only
+(d) 1, 2 and 3
+**********

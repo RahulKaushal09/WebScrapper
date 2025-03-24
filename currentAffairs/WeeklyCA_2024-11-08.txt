@@ -1,0 +1,99 @@
+
+**********
+Urbanisation and Industrialisation Depleting Groundwater
+Source: DTE
+Why in News?
+A recent study titled
+Detection and Socio-Economic Attribution of Groundwater Depletion in India,
+highlighted the significant impact of urbanisation and industrialisation on groundwater depletion in five Indian states.
+What are the Key Findings of the Study?
+Affected States:
+The study raises serious concerns for five hotspots namely Punjab and Haryana, Uttar Pradesh, West Bengal, Chhattisgarh and Kerala:
+Punjab and Haryana (Hotspot I):
+Most affected, with 64.6 billion cubic metres of groundwater lost in two decades.
+Uttar Pradesh (Hotspot II):
+Irrigation demand fell by 8%, while domestic and industrial use rose by 38%, causing a 4% groundwater decline.
+West Bengal (Hotspot III):
+Minimal irrigation growth (0.09%), but a 24% rise in other uses, led to a 3% groundwater drop.
+Chhattisgarh (Hotspot I
+V): Increased use in all sectors led to declining groundwater levels.
+Kerala (Hotspot V):
+Groundwater declined by 17% despite high rainfall, due to a 36% irrigation drop and 34% increase in other uses.
+Primary Cause:
+Rapid Urbanisation: It increased by 10 per cent between 2001 and 2011 and industrialisation,
+especially in urban areas like Faridabad and Gurgaon which are not heavily reliant on agriculture, but saw sharp declines in groundwater levels since 2012.
+Rising Demand
+: Increased domestic and industrial water consumption, coupled with only a slight decrease in rainfall during the study period.
+What are the Major Causes of Groundwater Depletion?
+Over-Reliance on Groundwater:
+Irrigation accounts for approximately 80% of India's total water usage, with a significant portion of this water drawn from groundwater. As the demand for food rises, the extraction of groundwater for irrigation is increasing, leading to its depletion.
+Poor Water Management
+: Inefficient water use, leaking pipes, and inadequate infrastructure for capturing and storing rainwater all contribute to the depletion of groundwater.
+Decline in Traditional Water Conservation Methods:
+Practices like rainwater harvesting, step wells, and check dams have decreased, leading to missed opportunities for groundwater recharge.
+Climate Change
+: Rising temperatures and shifts in precipitation patterns can impact the recharge rates of groundwater aquifers, making them more susceptible to depletion.
+Factors like deforestation, which leads to soil erosion, can reduce the amount of water able to seep into the ground, diminishing the natural recharge of groundwater aquifers.
+Climate change events such as droughts, flash floods, and disrupted monsoon seasons are intensifying pressure on India's groundwater resources.
+What are the Impacts of Groundwater Depletion?
+Reduced Crop Yields:
+Depleted groundwater limits irrigation, impacting crop productivity and food security.
+Urban Water Scarcity:
+Cities increasingly rely on groundwater, and depletion leads to higher costs, reduced water availability, and strain on municipal services.
+Public Health Risks
+: India is home to
+18%
+of the world’s population, but only holds 4% of the world’s freshwater resources.
+Declining water quality from overuse and contamination increases the spread of waterborne diseases and heavy metal exposure.
+Ecosystem Loss:
+Lowered water tables affect wetlands, forests, and aquatic ecosystems, disrupting biodiversity.
+Increased Drought Risks
+: Groundwater depletion reduces resilience to droughts, which are projected to become more frequent with climate change.
+What are the Challenges in Groundwater Management in India ?
+Overexploitation:
+Green Revolution
+increased the need for groundwater to support food security, leading to widespread borewell installations.
+The Central Groundwater Board reports
+of blocks are overexploited, with significant depletion in north-western, western, and southern India.
+Climate Induced Challenges:
+Erratic rainfall and increased pollution have exacerbated water scarcity.
+Groundwater serves
+85%
+of rural domestic water,
+45%
+of urban water, and over
+60%
+of agricultural irrigation, impacting multiple sectors.
+Weak Regulatory Framework:
+Regulations currently cover only
+14%
+of overexploited blocks, allowing unchecked groundwater extraction.
+Lack of local regulatory enforcement in early stages of depletion exacerbates water scarcity.
+Community Involvement and Institutional Weaknesses:
+Participatory Groundwater Management (PGM)
+has empowered communities in some regions, but success is limited by weak institutions and supply failures.
+Informal groundwater committees often become inactive after project completion, lacking sustainability in the long term.
+Subsidies and Usage:
+Subsidized power for water pumping encourages excessive groundwater extraction, leading to rapid depletion.
+Industrial and domestic usage rose by 34%, while irrigation-related groundwater demand dropped by 36%.
+What are the Strategies for Sustainable Groundwater Management?
+Address Demand and Supply:
+Supply Side: Initiatives like watershed management and aquifer recharge are vital but need complementary demand-side measures.
+Demand Side: Promoting water-efficient irrigation (e.g., drip systems) and encouraging less water-intensive crops can reduce stress on groundwater resources.
+Community Participation:
+Enhanced community involvement in governance improves sustainability, as shown by the PGM approach in regions with defined aquifers.
+Empowering local institutions and supporting capacity development at the community level is essential for effective management.
+Regulatory Enhancements:
+Comprehensive regulatory measures at local levels before blocks reach the overexploited stage can prevent further depletion.
+Long-term viability of institutions like
+Water User Associations (WUAs)
+is crucial for sustained groundwater management.
+Cross Sectoral Reform:
+Cross-sectoral reforms that reduce incentives for groundwater overexploitation,
+such as revising power subsidies,
+are critical for sustainable usage.
+Repurposing support for climate-smart agriculture and aligning energy policies with
+water conservation objectives
+can aid in sustainable resource use.
+Drishti Mains Question
+Q. Analyze the impact of urbanization and industrialization on India’s groundwater resources, noting states with significant depletion. Discuss associated challenges and propose mitigation measures.

@@ -1,0 +1,1645 @@
+INDIA’S CITIES AS ENGINES OF GROWTH
+Syllabus:
+Prelims – GS 2 & GS 3
+Context:
+The Union Budget 2025, emphasised urban development as one of the six domains for transformative reforms. This renewed focus on urban areas points to the government’s commitment to empowering cities as a vital component of India’s development.
+Background: –
+By prioritising infrastructure investment, encouraging Urban Local Bodies to diversify their revenue streams, and fostering public-private partnerships, the budget lays the groundwork for greater financial autonomy and sustainable urban development.
+Key takeaways
+In the 2025-26 budget, the Ministry of Housing and Urban Affairs (MoHUA), has been allocated Rs. 96,777 crore, accounting for 1.91% of the total estimated expenditure.
+In recent years, budgetary allocation for urban development has seen a steady rise — from 50,000 crore in 2021 to 79,000 crore in 2024 and 96,777 crore in 2025.
+Several key schemes, such as Pradhan Mantri Awas Yojana (PMAY-Urban), which focuses on affordable urban housing; the Smart Cities Mission, which focuses on creating smart cities; and the Atal Mission for Rejuvenation and Urban Transformation (AMRUT), which focuses on water and sanitation infrastructure, are recipients of these budgetary allocations.
+In recent years, allocations have also gone to urban transport projects, particularly Metro rail and Mass Rapid Transit projects. Moreover, to boost incomes for the urban poor, a revamp of the Prime Minister Street Vendors AtmaNirbhar Nidhi (PM SVANidhi) – was also announced.
+The budget also announced “Urban Challenge Fund”. Under this fund, proposals shall be evaluated along three categories: “Cities as growth hubs, creative redevelopment of cities, and water and sanitation projects.” The fund will finance up to 25% of the cost of bankable projects, with a stipulation that at least 50% of the project cost is sourced from bonds, bank loans, or Public-Private Partnerships (PPPs).
+Structuring the Urban Challenge Fund to include private enterprise participation is a signal to empower Urban Local Bodies to raise their own sources of finance to fund projects. As the analysis by PRS Legislative Research points out, the majority of ULBs’ revenue comes from central and state government grants.
+Main revenue sources of ULBs
+The main revenue sources of ULBs can be primarily categorised as tax and non-tax revenues. Tax revenues mainly include property tax, professional tax, and entertainment tax, while non-tax revenues include user fees such as parking fees, water supply fees, license fees, and rental income from municipal property.
+For example, in the 2021-22 financial year, the Brihanmumbai Municipal Corporation (BMC) had 19% of its revenue from tax, 54% from fees and user charges, and the remaining from other sources of income. In comparison, the Greater Chennai Corporation (GCC) generated 80% of its income from tax sources and the remaining 20% from other sources of income.
+While large cities have a wider tax base and capacity to generate revenues, smaller cities have to rely on grants from central and state governments. For example, in 2021-22, 57% of Kochi Municipal Corporation’s revenue came from revenue grants, contributions, and subsidies.
+How urban local bodies raise funds
+The most prominent example of this is municipal bonds, where ULBs issue bonds. Ahmedabad Municipal Corporation was one of the first ULBs in India to issue a municipal bond to service its water and sanitation projects.
+ULBs can also raise loans from financial institutions such as HUDCO, the World Bank, etc., for specific projects.
+A glance at the database of public-private partnership projects in India shows that at least 5-10% of the total projects are urban projects in the fields of water-sanitation and transport. These projects not only bring private finance onboard, but also facilitate expertise and capabilities from the private sector.
+Source:
+Indian Express
+**********
+FOR SECOND YEAR, NO DEATH PENALTY PASSES SC TEST
+Prelims – GS 2 & GS 4
+Reflecting a divergence in decision-making on death penalty at different levels in the judiciary, the Supreme Court — for the second consecutive year — did not confirm a single death sentence in 2024 while trial courts awarded 139 such verdicts, according to a report by Project 39A, a criminal justice programme at the National Law University Delhi.
+The SC heard six appeals in 2024 — it commuted five death sentences to life imprisonment while one was acquitted.
+‘Death Penalty in India: Annual Statistics Report 2024’, states that at the end of 2024, there were 564 death row prisoners in jails across India, the highest number since 2000.
+In 2024, of the 139 death sentences awarded by trial courts, 87 (62%) were imposed in murder cases and 35 (25%) in cases of murder involving sexual offences. This is a reversal from the previous year, when more death sentences were imposed in cases of murder involving sexual offences (59) than in simple murder cases (40).
+The total number of death row prisoners (564 in 2024) has risen every year since 2019, when there were 378 inmates on death row. In 2024, 17 women were on death row.
+The report attributes the high number of death row convicts to a trend of “high imposition of death sentences at trial courts, and the low rates of death penalty appeal disposals at High Courts”.
+Under Section 366 of the Criminal Procedure Code, 1973, and Section 407 of the Bharatiya Nyaya Suraksha Sanhita, 2023, death sentence proceedings must be forwarded to the High Court for confirmation before they can be executed.
+**********
+SHADOW FLEET BRINGS RISK OF OIL SPILL IN THE BALTIC
+Prelims & Mains – CURRENT EVENT
+As ageing and deficient tankers in the “Russian shadow fleet” traffic the shallow waters of the Baltic Sea, a major oil spill disaster looms, experts say.
+Security analysts say Russia is operating a large “shadow fleet” of hundreds of vessels, seeking to dodge the sanctions Western nations imposed on its oil exports over its full-scale invasion of Ukraine in 2022.
+A shadow fleet refers to a group of aging or unregistered vessels that operate outside standard maritime regulations to transport goods—especially sanctioned oil, arms, or illicit cargo—while avoiding detection and international trade restrictions.
+Key Features of the Shadow Fleet:
+Use of Aging & Decommissioned Ships
+Many vessels in the shadow fleet are old, poorly maintained, and operate without proper safety inspections.
+They are often sold by reputable shipping companies to anonymous or shell companies in opaque jurisdictions.
+Frequent Flag Changes (Flag of Convenience)
+These vessels frequently change their flag registrations (e.g., from Panama to Liberia) to evade tracking.
+They operate under the jurisdiction of countries with lax maritime laws.
+Manipulation of AIS Transponders (Ghost Ships)
+Ships in the shadow fleet turn off their Automatic Identification System (AIS) to disappear from tracking systems.
+This practice, known as “going dark,” is a violation of international maritime law.
+Ship-to-Ship Transfers (STS Transfers) : They transfer cargo mid-sea to disguise the origin of oil or goods, making it difficult for authorities to trace their movements.
+Ties to Sanctioned Nations & Illicit Trade : Countries like Russia, Iran, North Korea, and Venezuela have been accused of using shadow fleets to bypass U.S. and EU sanctions.
+Hindu
+**********
+LYMPHATIC FILARIASIS (LF)
+Prelims & Mains – SCIENCE & TECHNOLOGY
+Union Minister for Health and Family Welfare, Shri Jagat Prakash Nadda launched the Annual Nationwide Mass Drug Administration (MDA) Campaign for Lymphatic Filariasis (LF) Elimination.
+The campaign covers 111 endemic districts across 13 States with door-to-door administration of filaria prevention medications.
+Lymphatic Filariasis (Elephantiasis) is a neglected tropical disease (NTD) caused by filarial parasites (Wuchereria bancrofti, Brugia malayi, and Brugia timori).
+LF is commonly known as “Hathi Paon”.
+It is transmitted by mosquitoes (Culex, Anopheles, and Aedes species).
+The infection affects the lymphatic system, causing severe swelling (lymphedema), hydrocele (scrotal swelling), and elephantiasis (skin thickening & enlargement of limbs).
+Acute Symptoms:
+Fever, pain, swelling of lymph nodes.
+Inflammation of the skin and lymphatic vessels.
+Chronic Symptoms:
+Permanent swelling of limbs, genitals, and breasts (Elephantiasis).
+India accounts for ~40% of the global LF cases.
+Government Initiatives to Eliminate LF:
+The Mass Drug Administration (MDA) campaign involves the supervised administration of a combination of anti-filarial medicines to all eligible individuals in LF-endemic areas, regardless of whether they show symptoms.
+The goal of MDA is to reduce the spread of LF by eliminating the microscopic filarial parasites present in the bloodstream of infected individuals, thus preventing further transmission by mosquitoes.
+India’s Roadmap for LF Elimination by 2027
+Mass Drug Administration (MDA) campaigns in endemic districts.
+Morbidity management and disability prevention (MMDP) for affected individuals.
+Vector control measures like mosquito habitat management.
+PIB
+**********
+PM YUVA SCHEME
+Prelims – CURRENT EVENT
+Union Minister for Education, Shri Dharmendra Pradhan, launched 41 new books under the PM YUVA 2.0 scheme at the New Delhi World Book Fair 2025 today.
+The Pradhan Mantri YUVA (Young, Upcoming and Versatile Authors) Scheme is an initiative by the Indian government aimed at nurturing young literary talent.
+Launched on May 29, 2021, by the Ministry of Education, PM YUVA is designed to mentor young authors below the age of 30. The scheme aims to cultivate a new generation of writers who can contribute to the literary landscape of India.
+The primary objectives of PM YUVA include:
+Mentorship: Providing guidance and support to young authors through experienced mentors.
+Literary Development: Encouraging the creation of high-quality literary works in Indian languages.
+Cultural Promotion: Highlighting Indian culture, heritage, history, and languages through literature.
+Global Reach: Expanding the reach of Indian literature to a global audience.
+Selection Process:
+An all-India contest is conducted to select 75 young authors.
+Participants submit a manuscript based on a specified theme.
+A committee constituted by the National Book Trust (NBT) evaluates the submissions.
+Mentorship and Scholarship:
+Selected authors receive guidance from established mentors to develop their manuscripts into full-fledged books.
+A consolidated scholarship of ₹50,000 per month is provided for six months to each author.
+Publication and Royalty:
+The developed manuscripts are published by the NBT.
+Authors receive a 10% royalty on the published books.
+Themes:
+First Edition (2021): Focused on the “National Movement of India,” highlighting unsung heroes and lesser-known aspects of India’s freedom struggle.
+Second Edition (2022): Centered on “Democracy (Institutions, Events, People, and Constitutional Values),” aiming to develop writers who can explore various facets of democracy in India.
+**********
+Daily Practice MCQs
+Q1.) Consider the following statements regarding the “Shadow Fleet”:
+It consists of vessels that frequently change their flag registration to evade tracking and sanctions.
+These ships turn off their Automatic Identification System (AIS) to operate undetected, violating international maritime laws.
+The shadow fleet primarily operates in the Indian Ocean to facilitate illegal fishing activities.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2, and 3
+Q2.) With reference to Lymphatic Filariasis (LF), consider the following statements:
+LF is caused by parasitic worms, including Wuchereria bancrofti and Brugia species.
+The primary mode of transmission is through contaminated water and food.
+India’s strategy to eliminate LF includes Mass Drug Administration (MDA) and vector control measures.
+(a) 1 and 3 only
+(c) 1 and 2 only
+Q3.) Which of the following statements about the Pradhan Mantri YUVA (Young, Upcoming, and Versatile Authors) scheme is correct?
+It is an initiative of the Ministry of Education, launched in 2021, to mentor young authors under the age of 30.
+Selected authors under the scheme receive a monthly scholarship and mentorship.
+The books developed under this scheme are published internationally, bypassing Indian publishers.
+Select the correct answer using the code below:
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********Fishery Survey of India (FSI)
+A deep-sea fishing expedition by the Fishery Survey of India (FSI) recently revealed several highly productive, potentially untouched fishing grounds in the Arabian Sea.
+About Fishery Survey of India (FSI):
+The FSI, under the
+Ministry of Fisheries, Animal Husbandry, and Dairying
+, is the
+nodal fishery institute in India
+Primary Responsibility: Survey and assessment of fishery resources in the Indian exclusive economic zone (EEZ)
+and adjoining areas
+for their optimum utilization and sustainable development.
+Headquarters: Mumbai,
+Maharashtra
+History
+It was
+established
+in the year
+1946 as Deep Sea Fishing Station
+with the objective of augmenting food supply through the
+development of deep-sea fishing.
+It graduated to the
+status of a survey institute in the year 1974 under
+the name
+Exploratory Fisheries Project,
+with bases known as Offshore Fishing Stations in all the maritime states.
+The objectives of exploratory fishing and charting of fishing grounds, training of fishing            operatives, and testing commercial possibilities of deep-sea fishing were assigned to it.
+In 1983
+it was reorganized and
+upgraded as a national institute, the FSI.
+recognised as a Science & Technology Institute
+in the year 1988.
+Click to View More
+Source :
+New fishing grounds in Arabian Sea discovered
+Geography
+**********What is Vancomycin?
+A study led by the University of Birmingham recently found that vancomycin, a commonly used antibiotic for diarrhea, could effectively treat a type of inflammatory bowel disease (IBD) linked to autoimmune liver disease.
+About Vancomycin:
+It is a
+glycopeptide antibiotic
+used to treat severe
+but susceptible
+bacterial infections such as MRSA
+(methicillin-resistant Staphylococcus aureus).
+It is commonly used to
+treat infections in the bloodstream,
+skin and soft tissues,
+heart valves
+(endocarditis),
+bones, joints,
+and certain
+intestinal infections like  difficile-associated diarrhea.
+However, it may cause some
+serious side effects,
+including
+damage to
+hearing and kidneys.
+These side effects may be more
+likely to occur in elderly patients.
+will not work for colds, flu or other viral infections.
+●
+Mechanism of Action of Vancomycin:
+It works by
+interfering with the bacterial cell wall synthesis.
+Bacterial cells have a rigid outer layer called the cell wall, which provides structural support and protects the cell from bursting.
+Vancomycin binds to specific components in the cell wall, preventing the formation of a stable cell wall structure.
+As a result, the
+bacterial cell becomes weak
+and more
+susceptible to damage, leading to its death.
+Click to View More
+Source :
+Common antibiotic that treats diarrhea can also treat inflammatory bowel disease: Study
+Science & Tech
+**********Bailey Bridge
+A suspension Bailey bridge over the Teesta river at Sangkalang in the Mangan district of north Sikkim collapsed recently.
+About Bailey Bridge:
+A Bailey bridge is a
+portable, prefabricated truss bridge,
+capable of supporting vehicular traffic.
+It was conceptualized and designed by Sir Donald Bailey, UK in 1941 and used extensively since
+World War II.
+The characteristics of the Bailey bridge were
+standardization and simplicity of panels,
+readiness of assembly
+in the field,
+capacity for additional strengthening
+by doubling or tripling the truss girders, and adaptability to long spans with the aid of pontoons.
+assembly covers a small area
+, which can avoid the situation that large hoisting equipment cannot enter the construction site.
+It is
+limited by its structure and bearing capacity
+, and the standard length should not exceed 60 meters. Therefore, it is generally
+used in terrains that span rivers, valleys, and spans
+that are
+not very large.
+Click to View More
+Source :
+Bailey bridge over Teesta river in north Sikkim collapses, no injuries reported
+Geography
+**********Crocodile Catfish
+The recent discovery of the Crocodile Catfish in the Bahini River, located in the Basistha locality of Guwahati, has raised alarm over potential ecological disruptions.
+About Crocodile Catfish:
+Crocodile Catfish, commonly known as the
+Asian giant river catfish, crocodile goonch catfish,
+or the
+giant devil catfish
+, is a species of catfish that belongs to the family Sisoridae.
+It is one of the largest freshwater catfish species in Asia.
+Scientific name: Bagarius suchus
+Distribution
+: It is native to freshwater habitats in
+South and Southeast Asia
+, including countries like
+India, Nepal, Bangladesh, Myanmar and Thailand.
+Habitat
+It is typically found in large rivers and deep pools with slow to moderate currents.
+They are often associated with rocky and gravelly substrates in their natural habitats.
+Appearance
+It can
+reach impressive lengths of up to 1.5 meters
+or more and can weigh over 50 kilograms.
+It has a
+long, cylindrical body
+with a
+broad head
+and a
+wide mouth.
+Its body is typically
+dark brown or black,
+and it may have irregular patches or spots on its body.
+The dorsal fin is long and extends almost the entire length of the back.
+Behaviour
+It is a
+carnivorous predator.
+It primarily feeds on other fish and various aquatic organisms.
+It is known for its
+voracious appetite
+consume prey
+that is relatively
+large compared to its own size.
+Conservation Status:
+IUCN Red List: Near Threatened
+Click to View More
+Source :
+Assam: Rare Crocodile Catfish discovery in Guwahati sparks ecological concerns
+Environment
+**********Brahmagiri Wildlife Sanctuary
+The state government's move to build a village for tribals in the buffer zone of Brahmagiri Wildlife Sanctuary has raised questions over their safety, besides concerns over fueling wildlife conflicts.
+About Brahmagiri Wildlife Sanctuary:
+It is nestled in the
+Western Ghats
+in the Kodagu district of
+Karnataka
+It covers an area of about 181
+sq.km
+The sanctuary gets its name from the highest point, the
+Brahmagiri peak
+, which is 1607 m in height.
+Rivers
+: The
+Lakshmana Tirtha
+River originates in the sanctuary and is a
+tributary of the Cauvery River.
+Terrain
+: The area is generally of undulating terrain with several steep valleys and hillocks.
+Flora
+The primary vegetation of the sanctuary includes
+evergreen and semi-evergreen
+forests,
+shoal forest patches in grasslands, and bamboos.
+surrounded by coffee and cardamom plantations.
+Fauna
+It is the home of the
+lion-tailed macaque,
+which is a rare and endangered species.
+Tiger, elephants, bonnet macaque, common langur,
+barking deer, mouse deer, Malabar giant squirrel,
+giant flying squirrel,
+and Indian Gaur are the big mammals commonly found here.
+Click to View More
+Source :
+Concerns raised over proposal to build tribal village close to Brahmagiri wildlife sanctuary
+Environment
+**********SAFTA
+Recently, the Solvent Extractors’ Association of India (SEA) has requested the Government to regulate the inflow of edible oils from Nepal and other SAARC countries due to misuse of SAFTA norms.
+About SAFTA:
+It is the free trade arrangement of the South Asian Association for Regional Cooperation (SAARC).
+The agreement came
+into force in 2006,
+succeeding the 1993 SAARC Preferential Trading Arrangement.
+SAFTA signatory countries:
+Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka.
+SAFTA recognizes the need for special and differential treatment for LDCs in its preamble.
+bjectives of this Agreement are to promote and enhance mutual trade and economic cooperation among Contracting States by, inter-alia:
+Eliminating barriers to trade
+in, and facilitating the cross-border movement of goods between the territories of the Contracting States;
+Promoting conditions
+fair competition
+in the free trade area, and ensuring equitable benefits to all Contracting States, taking into account their respective levels and pattern of economic development;
+Creating effective mechanism
+for the implementation and application of this Agreement, for its joint administration and for the resolution of disputes; and
+Establishing a framework for
+further regional cooperation
+to expand and enhance the mutual benefits of this Agreement.
+Click to View More
+Source :
+SEA urges Centre to regulate edible oil imports from Nepal due to misuse of SAFTA norms
+International Relations
+**********Asian Fisheries and Aquaculture Forum
+The 14th Asian Fisheries and Aquaculture Forum (14AFAF) is being organized in New Delhi during February 12-14, 2025.
+About Asian Fisheries and Aquaculture Forum
+:
+It is a
+triennial event
+of the Asian Fisheries Society which has a strong legacy of fostering global collaboration in the sector.
+Since its inception, the forum has been successfully hosted in multiple countries across Asia.
+This prestigious event is
+being hosted in India for the 2nd time
+after the 8AFAF held at Kochi in 2007.
+The forum will provide a platform to
+showcase India’s contributions,
+strengthen international partnerships and promote innovative approaches for sustainable, resilient, and economically viable
+fish production systems.
+With a rapidly expanding blue economy, progressive government policies
+and significant scientific advancements, India has emerged as a key player in sustainable fisheries and aquaculture.
+Today, India occupies 2nd position in total fish production and also aquaculture production globally.
+Headquarters:
+Kuala Lumpur, Malaysia.
+Key facts about 14th AFAF:
+It has
+brought
+together key players from the fisheries and aquaculture sectors and will host around 1,000 delegates from 24 countries, including researchers, policymakers, industry leaders, and stakeholders.
+Theme of 14th AFAF:
+“Greening the Blue Growth in Asia-Pacific”
+It is being jointly organized by the
+(AFS), Kuala Lumpur;
+Indian Council of Agricultural Research (ICAR), New Delhi; the Department of Fisheries
+(DoF), Government of India; and the Asian Fisheries Society Indian Branch (AFSIB), Mangalore.
+Click to View More
+Source :
+14th Asian Fisheries and Aquaculture Forum (14AFAF) on “Greening the Blue Growth in Asia-Pacific” to be held in Delhi
+Economy
+**********UK-India Young Professionals Scheme
+The ballot for this year’s United Kingdom-India Young Professionals Scheme (YPS) will open next week.
+About UK-India Young Professionals Scheme:
+It was conceived as part of an
+India-U.K. Migration and Mobility
+MoU signed in May 2021 and was announced in November at the 2022 G20 summit in Bali.
+It was formally
+launched in February 2023.
+Features
+It allows Indian citizens between
+18 and 30 years
+old to live and work in the UK for up to 2 years.
+It will enable
+candidates to enter the UK at any time
+while their visa is valid and leave and return anytime during their stay.
+Eligibility to get Visa under this initiative:
+One
+ha
+to be an Indian national
+aged
+between 18 and 30 years.
+must have a bachelor’s degree or above.
+must have 2,530 pounds in savings.
+must not have
+any children under the age of 18
+who live with you or whom you are financially supporting.
+A person must be selected in the India Young Professionals Scheme ballot before
+s/he
+can apply for a Young Professionals Scheme visa.
+S/he
+cannot apply if already been in the UK under this scheme or the Youth Mobility Scheme visa.
+In case the applicant is issued a visa,
+must enter the UK within six months of the date on which the visa was issued.
+Once in the UK, the applicant can:
+Study -for certain degree programs,
+such as post-graduation or research in sensitive subjects in the UK, an additional certificate under the Academic Technology Approval Scheme (ATAS) needs to be applied before starting the course or research.
+Be self-employed and set up a
+company - as long as
+premises are rented, equipment is not worth more than £5,000 and does not have any employee
+Click to View More
+Source :
+Ballot for UK-India Young Professionals Scheme opens next week: Everything you need to know
+International Relations
+**********Market Intervention Scheme
+Recently, the central government has revised the Market Intervention Scheme (MIS) guidelines.
+About Market Intervention Scheme:
+It is
+implemented on the request
+of the State
+/UT Government
+for procurement of various perishable agricultural/horticultural commodities such as tomato, onion and potato etc. for which Minimum Support Price (MSP) is not applicable.
+implemented only when
+there is a minimum reduction of 10%
+in the prevailing market price as compared to the previous normal year.
+Revised Market Intervention Scheme Guidelines
+It made MIS a
+component of
+the integrated
+scheme of PM-AASHA.
+The procurement/coverage limit of
+production quantity of crops
+has been increased from the
+existing 20 percent ​​to 25 percent.
+The States ha
+also been given the option to
+pay the difference
+between the Market Intervention Price (MIP) and the selling price
+directly into the bank account of the farmers
+in place of physical procurement.
+Reimbursement:
+operational cost incurred in storage
+and transportation of crops from the producing State to other consuming States will be
+reimbursed by Central
+odal
+gencies like NAFED and NCCF
+, in the interest of farmers.
+Click to View More
+Source :
+Govt. revises guidelines for Market Intervention Scheme, increasing procurement limit of crops to 25% from 20%
+Economy
+**********Devolution Index
+The Ministry of Panchayati Raj will release the comprehensive Devolution Index Report on 13th February, 2025, at Indian Institute of Public Administration (IIPA), New Delhi.
+About Devolution Index:
+It is a result of meticulous research and empirical analysis, provid
+ing
+insights into the progress of decentralization across States and Union Territories.
+The Index
+evaluates six critical dimensions:
+Framework, Functions, Finances, Functionaries, Capacity Building, and Accountability of the Panchayats
+The Index specifically examines how ‘free’ Panchayats are to make and implement independent decisions, reflecting the true spirit of
+Article 243G of the Constitution.
+This article empowers State legislatures to devolve powers and responsibilities to Panchayats across
+29 subjects listed in the Eleventh Schedule.
+serves as a tool for strengthening cooperative federalism and local self-governance, enabling States to identify areas for improvement and adopt best practices for more empowered and effective Panchayats.
+What sets this Index apart is its practical utility for multiple stakeholders.
+For citizens,
+it provides
+transparency in tracking
+Panchayat functioning and resource allocation.
+elected representatives,
+it offers
+data-driven insights
+for advocacy and reform.
+For government officials
+, it serves as a
+roadmap for implementing
+effective decentralization policies.
+Policymakers
+can use
+to assess the overall health of local governance and identify where reforms are most urgently needed.
+Significance:
+The initiative aligns with the vision of Viksit Bharat, where  Panchayats serve as the foundation for rural transformation, driving inclusive growth and sustainable development at the grassroots level.
+Click to View More
+Source :
+Minister of State Prof. S.P. Singh Baghel to Release Devolution Index Report in New Delhi on 13th February 2025
+Polity & Governance
+**********Gross Domestic Knowledge Product
+Why in news?
+The government is reviving its 2021 plan to supplement GDP with a new metric, the Gross Domestic Knowledge Product (GDKP), to measure the impact of knowledge on economic and social life.
+Recently, the Ministry of Statistics and Programme Implementation (MoSPI) held a session to discuss the conceptual framework.
+GDKP would better reflect the contributions of innovation, intellectual assets, and knowledge-driven sectors to India’s economic growth.
+What’s in today’s article?
+Capturing the impact of knowledge on economic and social life
+Challenges in Implementing GDKP
+Conclusion
+About Gross Domestic Knowledge Product (GDKP)
+The GDKP is a proposed metric to supplement Gross Domestic Product (GDP) by capturing the contribution of
+knowledge-driven sectors, intellectual assets, and innovation
+to the economy.
+Unlike GDP, which primarily measures economic output through production and consumption, GDKP aims to assess the impact of knowledge on economic and social development
+Need for GDKP in India
+The government recognizes that in an era of rapid technological advancements and digital transformation, traditional economic indicators may not fully reflect the value generated by intellectual capital, research, and innovation
+Capturing the Knowledge Economy
+India is experiencing growth in research, patents, software development, AI, digital services, and intellectual property.
+These knowledge-driven sectors significantly contribute to economic progress but are not fully accounted for in GDP measurements.
+Beyond Traditional Economic Indicators
+GDP focuses on tangible goods and services but does not adequately reflect knowledge creation, education, and digital transformation.
+A more holistic metric is required to understand how knowledge impacts economic and social well-being.
+Aligning with Global Trends
+Many advanced economies are working on alternative indicators that measure intangible assets, digital innovation, and intellectual capital.
+India aims to develop a framework that aligns with these international efforts.
+Policy and Investment Decisions
+A well-defined GDKP could help the government formulate better policies for sectors like education, research, technology, and entrepreneurship.
+It could guide investment in knowledge infrastructure, such as R&D, digital connectivity, and skill development.
+Currently, Intellectual Property Products (IPP) are recorded under Gross Fixed Capital Formation (GFCF) in the GDP dataset.
+GFCF is the total value of assets acquired for production purposes, minus the value of assets disposed of. It's also known as investment.
+Satellite Account for Knowledge Economy
+Currently, discussions are underway to explore the feasibility of a
+satellite account
+to measure the knowledge base of the economy.
+MoSPI has prior experience with
+tourism, culture, ocean, and blue economy satellite accounts.
+However, a framework for capturing the knowledge economy is lacking.
+technical committee
+will be formed to evaluate and guide the proposal.
+NITI Aayog’s GDKP Proposal
+The GDKP was initially proposed in 2021 by NITI Aayog, but the National Statistical Commission found that it lacked a clear methodology for data collection and computation.
+It noted the need for identification of knowledge parameters and adjustments to ensure accurate reflection of outcomes.
+However, due to various complexities,
+after a review by NITI Aayog in August 2021, the project was shelved
+Data Collection Issues
+Unlike GDP, which relies on well-established economic indicators, GDKP requires new methodologies to measure knowledge output.
+Data on intellectual property, research output, digital innovation, and human capital development is fragmented and difficult to quantify.
+Integration with GDP
+Since some aspects of knowledge contribution are already captured in GDP (e.g., Intellectual Property under Gross Fixed Capital Formation), integrating GDKP with GDP without duplication is a challenge.
+Subjectivity in Measurement
+The National Statistical Commission earlier noted that defining and quantifying knowledge parameters is highly subjective and requires extensive refinement.
+MoSPI has acknowledged the need for a proper methodology to ensure accuracy and avoid perception-based estimations.
+India’s move to explore GDKP reflects its ambition to shift from a production-based economic model to a knowledge-driven one.
+While challenges exist in defining and measuring knowledge contributions, a well-structured GDKP could provide valuable insights for policymaking, investment, and long-term economic planning in an increasingly digital and innovation-led economy.
+Gross Domestic Knowledge Product.pdf
+( Size:  1.9 MB  )
+Click to View More
+Economics
+**********Paris AI Action Summit
+Why in news?
+Prime Minister Narendra Modi co-chaired the AI Action Summit in Paris alongside French President Emmanuel Macron.
+The week-long summit (which began with the Science Days on February 6-7) concluded with a High-Level Segment featuring global leaders, policymakers, and industry experts.
+What’s in today’s article?
+Key Takeaways from the AI Action Summit
+PM Modi’s Address at the AI Action Summit: Key Highlights
+The AI Action Summit is a high-profile international event focused on advancing discussions and collaborations in Artificial Intelligence (AI).
+Hosted by France, the summit was co-chaired by Indian Prime Minister Narendra Modi and French President Emmanuel Macron.
+It brought together global leaders, policymakers, industry experts, and researchers to explore the transformative potential of AI in various sectors.
+Themes of AI Action Summit
+The summit will focus on five main areas:
+Public Interest AI
+Future of Work
+Innovation and Culture
+Trust in AI
+Global AI Governance
+AI Declaration
+The US and UK refused to sign the summit’s
+declaration on “inclusive and sustainable” AI
+, citing concerns over excessive regulation.
+60 nations, including
+India and China
+, supported the declaration, which promotes
+AI accessibility, sustainability, human rights, and transparency
+Key objectives of the declaration
+Accessibility of AI:
+Ensuring AI is available to all and does not create technological divides.
+Trust and Safety:
+Deploying AI in a way that is ethical, safe, secure, and trustworthy.
+Economic and Labor Market Development:
+Encouraging AI innovation while preventing market concentration and ensuring positive impacts on labor markets.
+Support for Developing Countries:
+Narrowing inequalities and assisting nations in AI capacity-building.
+Coalition for Sustainable AI launched
+The Coalition for Sustainable AI was initiated by the French government in collaboration with the UN Environment Programme and the International Telecommunication Union (ITU).
+The coalition aims to create a driving force that brings together various actors committed to working towards sustainable AI.
+The UK joined the Coalition for Sustainable AI but emphasized national interests, while the US criticized Europe’s regulatory approach.
+India has also joined the coalition
+Current AI Launched
+A new global
+public interest AI Foundation
+called
+was launched at the AI Action Summit in Paris.
+With an initial $400M investment, Current AI aims to reshape the existing AI landscape by developing and supporting large-scale initiatives that serve the public interest.
+It was launched to promote AI for public good, aiming to counterbalance private-sector dominance. It will foster public-private collaboration in the field of AI.
+The Dawn of the AI Age
+PM Modi emphasized that the
+world is at the beginning of the AI revolution
+, which is rapidly reshaping governance, the economy, security, and society.
+Call for a Global AI Framework
+Modi advocated for a
+global governance structure for AI that promotes innovation while ensuring fair access, especially for the Global South
+, which lacks compute power, talent, data, and financial resources.
+Open-Source AI for Trust and Transparency
+He stressed the importance of
+open-source AI systems and bias-free datasets to enhance trust and transparency
+Modi urged global collaboration in pooling resources and talent to democratize AI technology.
+AI and the Future of Jobs
+Acknowledging concerns over job losses due to AI, Modi reassured that
+history has shown technology does not eliminate work but rather changes its nature
+He stressed the need for skilling and reskilling to prepare for an AI-driven future.
+The Need for Sustainable AI
+Modi highlighted AI’s high energy consumption and called for green power solutions.
+He also emphasized making AI models efficient in size, data needs, and resource requirements to ensure sustainability.
+India to Host the Next AI Summit
+Modi proposed that India host the next AI Summit, an offer that was accepted.
+He reiterated India’s commitment to sharing expertise and experiences in AI for the global good.
+Strengthening Global AI Partnerships
+Modi welcomed the establishment of the AI Foundation and the Council for Sustainable AI, assuring India’s full support.
+He also called for the Global Partnership for AI to be more inclusive of the Global South.
+Paris AI Action Summit.pdf
+( Size:  277.4 KB  )
+Click to View More
+International Relations
+**********India's New Immigration and Foreigners Bill, 2025
+Why in the News?
+The Immigration and Foreigners Bill, 2025, is likely to be introduced by Union Home Minister Amit Shah in the ongoing Budget session of Parliament.
+What’s in Today’s Article?
+Introduction (Context of the Article)
+Immigration and Foreigners Bill (Key Features, Need for the Law, Challenges, Criticism, etc.)
+Introduction:
+, is expected to be introduced by
+during the
+The proposed legislation aims to
+streamline immigration laws
+, bringing them in line with modern security needs and regulatory requirements. It will
+replace outdated laws
+such as:
+The Passport (Entry into India) Act, 1920
+The Registration of Foreigners Act, 1939
+The Foreigners Act, 1946
+The Immigration (Carriers’ Liability) Act, 2000
+The Bill introduces
+stricter penalties, clearer regulations for educational and medical institutions
+, and a more defined framework for
+foreigner registration, visa issuance, and deportation procedures
+Key Features of the Immigration and Foreigners Bill, 2025:
+Stricter Penalties for Violations
+The Bill proposes
+hefty fines and stricter enforcement mechanisms
+for violations of immigration laws:
+Unauthorised entry into India:
+Penalty up to ₹5 lakh.
+Use of fake passports:
+Fine up to ₹10 lakh.
+These penalties aim to
+deter illegal immigration and document fraud
+, ensuring better compliance with entry and exit regulations.
+Clearer Regulations for Universities and Medical Institutions
+The Bill explicitly defines
+the roles and responsibilities of universities, hospitals, and medical institutions
+that admit foreign nationals.
+Educational institutions
+must register foreign students and report them to authorities
+Hospitals and medical institutions admitting foreign nationals will have
+legal obligations to maintain records
+This provision ensures
+better tracking of foreigners in India
+prevents misuse of visas
+Revised Visa and Passport Rules
+The Bill grants the Central Government greater control over
+visa regulations, passport requirements, and foreigner registration
+. Key changes include:
+Stricter requirements for obtaining Indian visas
+Enhanced scrutiny of foreigners residing in India
+Improved tracking mechanisms for visitors and long-term foreign residents
+This is intended to
+tighten border security and improve monitoring of foreigners
+staying in India.
+More Power to Immigration Officers
+Under the new law,
+immigration officers
+will have:
+Greater authority to
+detain, investigate, and deport illegal immigrants
+The power to
+control movements of restricted foreigners
+The right to
+deny entry based on security risks
+This will strengthen
+India’s border security and internal monitoring system
+Liability of Carriers and Transport Operators
+The Bill includes provisions
+holding transport operators responsible
+for carrying unauthorized foreigners into India:
+Airlines, shipping companies, and transport agencies
+must verify passenger documents
+before boarding.
+Carriers found in violation
+will face legal penalties
+This ensures
+better enforcement of international travel norms
+prevents illegal entry into India
+Need for the New Law:
+existing laws on immigration and foreigners are outdated
+, dating back to the
+pre-Independence era (1920-1946)
+. These laws were framed
+during wartime conditions
+and are no longer suitable for India’s current security and immigration challenges.
+, and the
+, were originally enacted
+during World War II
+to regulate wartime movements.
+, was introduced to hold airlines accountable for bringing undocumented passengers into India.
+However, due to
+technological advancements, evolving security threats, and increasing global migration
+, the government believes that
+a single, comprehensive law is needed
+to effectively manage immigration.
+Potential Challenges and Criticism:
+Concerns Over Human Rights and Deportation Policies
+The law could
+lead to stricter deportation policies
+, affecting long-term foreign residents and asylum seekers.
+Human rights activists may
+raise concerns about due process and treatment of deported individuals
+Impact on Universities and Medical Institutions
+Educational institutions and hospitals may
+find it difficult to comply with the new reporting requirements
+for foreign nationals.
+There may be concerns regarding
+bureaucratic hurdles in admitting international students and medical tourists
+Enforcement and Implementation Issues
+Effective
+implementation will require strong coordination
+between immigration officers, airlines, universities, and security agencies.
+The government must
+ensure transparency
+in enforcement to prevent harassment or wrongful detentions.
+Conclusion:
+, is a
+major legislative reform
+aimed at modernizing India's immigration system, strengthening border security, and improving foreigner regulation.
+By replacing outdated laws with a single, comprehensive act, the government aims to streamline visa policies, increase penalties for violations, and enforce stricter control over foreigner registration.
+However, successful implementation will require careful balancing of security concerns with human rights, ensuring that legitimate travellers, students, and expatriates
+do not face unnecessary bureaucratic obstacles
+As the
+Parliament debates the Bill
+, it will be crucial to address concerns from stakeholders, educational institutions, and civil rights groups to create a fair yet effective immigration framework.
+Immigration and Foreigners Bill, 2025.pdf
+( Size:  438.2 KB  )
+Click to View More
+Polity & Governance
+**********Addressing the Growing Threat of Forest Fires
+Context
+Forest fires are a growing global crisis
+, exacerbated by human activities and climate change.
+Recent
+wildfires in Los Angeles have highlighted the devastating consequences of these disasters,
+bringing attention to the urgent need for preventive measures.
+However,
+such concerns often emerge only after significant loss of life, property, and biodiversity.
+In India, the issue is equally alarming
+, with a significant portion of the country’s forests prone to fires.
+The Rising Threat of Forest Fires in India
+India’s forests
+, vital for biodiversity conservation and community livelihoods,
+are increasingly vulnerable to fires
+. Reports suggest that
+over 36% of the country’s forest cover is at risk.
+Alarmingly,
+incidents of forest fires have surged tenfold in the past two decades
+, even as
+overall forest cover has increased by a mere 1.12%.
+States such as
+Uttarakhand, Himachal Pradesh, Madhya Pradesh, Maharashtra, Odisha, and Karnataka are among the worst affected
+, facing frequent and intense fires.
+Human activities are a primary cause of these fires, with
+nearly 90% attributed to practices such as land clearing, slash-and-burn agriculture
+, and unattended campfires.
+Climate change further worsens the situation
+, with rising temperatures and prolonged dry spells creating ideal conditions for wildfires to spread uncontrollably.
+The Devastating Consequences of Forest Fires
+Environmental Damage
+loss of trees and biodiversity disrupts ecosystems and threatens endangered species.
+contribute significantly to carbon emissions
+, worsening global warming.
+Indian forest fires
+alone release an estimated 69 million tonnes of CO₂ annually.
+Degradation of soil fertility
+and disruption of the water cycle
+affect long-term environmental stability.
+Economic Losses
+destruction of timber and non-timber forest products affects communities
+reliant on forests for their livelihoods.
+According to a 2018 report by
+India’s Ministry of Environment, Forest, and Climate Change, forest degradation
+, including fires, results in an annual
+economic loss of approximately ₹1.74 lakh crore.
+Social Disruptions
+force wildlife into human settlements
+, increasing human-animal conflicts.
+Health hazards from smoke and air pollution
+exacerbate respiratory illnesses, particularly among vulnerable populations.
+Existing Policies and Their Limitations
+Budget Constraints
+funding for Forest Fire Prevention and Management Scheme (FFPMS) has fluctuated significantly
+, affecting its ability to sustain long-term prevention programs.
+For instance,
+allocations ranged from ₹46.40 crore in 2019-2020 to as low as ₹28.25 crore in 2022-2023,
+indicating inconsistent financial support.
+Technological Shortcomings
+Forest Fire Alert System struggles to differentiate between forest fires and other types of fires
+, leading to delays in response.
+lack of advanced predictive modelling and real-time data integration hampers early warning systems.
+A Multi-Faceted Approach to Forest Fire Management
+Strengthening Financial and Policy Support
+steady and increased budget allocation
+for fire prevention schemes is essential.
+Policies must
+prioritise long-term solutions
+, including afforestation and sustainable land management practices.
+Leveraging Technology for Early Detection and Response
+Implementing predictive modelling
+using climatic and geographic data can help identify high-risk areas.
+Drones equipped with thermal imaging cameras can assist in fire detection,
+damage assessment, and targeted firefighting efforts.
+Data from agencies
+such as the Forest Survey of India, India Meteorological Department, and Indian Space Research Organisation
+should be integrated for better decision-making.
+Enhancing Community Involvement
+Early warning systems can be strengthened
+by equipping local communities with mobile applications, toll-free helplines, and SMS-based reporting tools.
+Self-help groups in states like Uttarakhand and Himachal Pradesh already collect pine needles to reduce fire hazards
+; such initiatives can be expanded.
+India can learn from international models such as
+Nepal’s Community Forest User Groups
+Indonesia’s Fire-Free Village Program
+, where local communities actively participate in fire prevention efforts.
+Educating and Training Local Populations
+Awareness campaigns can help change behaviours
+that contribute to fire risks.
+Training local youth as
+forest fire scouts can create a dedicated workforce
+for early detection and prevention.
+Conclusion
+Forest fires are not merely environmental disasters
+; they have profound social and economic consequences that demand urgent action.
+Addressing this issue requires collaboration between policymakers, scientists, civil society organisations, and local communities
+From policy intervention and increased funding to technological advancements and community engagement,
+a multi-pronged strategy is necessary to mitigate the risk of wildfires.
+Only through proactive and sustained efforts
+can we hope to turn the tide and protect our forests,
+wildlife, and communities from the devastating impact of forest fires.
+Click to View More
+Editorial Analysis
+**********A Role for India in South-South Climate Cooperation
+Context
+The
+29th Conference of the Parties (COP29) in Baku
+, Azerbaijan, often termed the ‘Climate Finance COP,’
+marked a significant milestone in the operationalisation of
+Article 6 of the Paris Agreement (PA).
+India, as a major developing economy
+with ambitious climate targets,
+stands to benefit from these mechanisms.
+However,
+challenges such as financial constraints, governance issues
+, and equitable benefit-sharing
+remain critical.
+Amid these developments,
+it is crucial to explore the implications of Article 6 for India, its alignment with India’s domestic climate policies,
+opportunities for international collaboration, and potential challenges that need to be addressed.
+An Overview of Article 6 of the Paris Agreement and Its Alignment with India’s Climate Policies
+6 has the potential to meet climate ambitions through cooperative approaches
+By emphasising market-based mechanisms,
+COP29 has provided countries with new avenues to achieve their climate goals, particularly through cooperative approaches
+such as Article 6.2, a key component of article 6 of the Paris Agreement.
+This framework facilitates the transfer of Internationally Transferred Mitigation Outcomes (ITMOs)
+between host and partner countries, thereby fostering emissions reductions, technology exchange, capacity building, and financial resource mobilisation.
+India’s Climate Policies and Article 6.2
+India has set ambitious Nationally Determined Contributions (NDCs),
+including a pledge to reduce emissions intensity by 45% by 2030.
+financial and technical limitations have been a significant roadblock,
+with India repeatedly calling for developed nations to mobilise at least $1 trillion annually in climate finance for developing countries.
+introduction of India’s Carbon Credit Trading Scheme (CCTS) in 2023 demonstrates a commitment
+to integrating market mechanisms into national policy.
+While not directly linked to Article 6.2, the CCTS provides a structured approach to carbon credit verification and tracking
+, enhancing India’s readiness to engage in international carbon markets.
+Furthermore,
+India’s experience with mechanisms such as the Clean Development Mechanism (CDM),
+Voluntary Carbon Market (VCM), Energy Saving Certificates (ESCerts), and Renewable Energy Certificates (REC)
+strengthens its foundation for effective participation in Article 6.2 transactions.
+Opportunities for India Under Article 6.2
+Unlocking Climate Finance and Foreign Investment
+One of the most significant opportunities for India under Article 6.2 is its
+potential to generate large-scale climate finance by selling ITMOs
+to countries that need additional emission reductions to meet their NDCs.
+Given the high cost of mitigation measures in developed countries,
+many of them may find it more cost-effective to purchase ITMOs from India.
+This can help India attract financial resources
+to fund its transition to a low-carbon economy.
+ITMO transactions can further enhance investor confidence
+and lead to increased funding for renewable energy, energy efficiency, and other sustainable projects.
+India’s CCTS, launched in 2023, can be integrated with Article 6.2 mechanisms
+to create a transparent and efficient carbon market,
+attracting further investments.
+Accelerating Renewable Energy and Clean Technology Development
+India has already made significant strides in renewable energy deployment
+, with ambitious targets such as achieving 500 GW of non-fossil fuel energy capacity by 2030.
+Under Article 6.2, India can enhance its clean energy transition
+by collaborating with developed nations and selling ITMOs from renewable energy projects.
+Partner countries investing in India’s ITMO projects can facilitate technology transfer
+in areas like solar photovoltaics, wind energy, and smart grid systems.
+These advancements can drive efficiency, reduce costs, and improve energy security.
+India has identified green hydrogen and sustainable aviation
+as priority areas for Article 6.2 collaboration.
+By securing investments
+from countries like Japan, South Korea, and the EU,
+India can establish itself as a global leader in these emerging technologies.
+Strengthening South-South Cooperation and Leadership in the Global Carbon Market
+India has the potential to
+play a pivotal role in strengthening South-South cooperation under Article 6.2
+by engaging in ITMO transactions with other developing countries, particularly in Africa.
+Many African nations face severe climate vulnerabilities
+, particularly in agriculture, water resources, and energy security.
+India’s expertise in renewable energy deployment
+, digital tools, and sustainable agriculture
+can help these nations transition to a low-carbon economy.
+India’s past collaborations with African countries
+in trade, investment, and infrastructure development
+provide a strong foundation for climate partnerships.
+Under the principles of India-Africa engagement
+outlined by Prime Minister Narendra Modi,
+India can support Africa’s clean energy transition
+while securing carbon credits for its own sustainability goals.
+Generating Economic and Social Co-Benefits
+not only facilitate emissions reductions but also provide significant economic and social benefits.
+Expanding renewable energy projects and clean technology industries will create employment opportunities,
+particularly in rural areas where green jobs can support economic development.
+Reducing reliance on fossil fuels can lead to improved air quality
+, reducing respiratory illnesses and public health expenditures.
+Investments in climate-resilient infrastructure
+, such as sustainable urban transport and energy-efficient buildings,
+can enhance India’s long-term sustainability.
+Challenges in ITMO Transactions and Climate Finance Mechanisms
+key concern is that developed countries might rely on purchasing low-cost ITMOs from India
+instead of undertaking substantial domestic decarbonisation efforts.
+could shift the burden of mitigation disproportionately onto India
+, potentially undermining its own sustainability goals.
+Another challenge is the
+governance and transparency of ITMO mechanisms.
+If not properly regulated, ITMO transactions could lead to inefficiencies, inequities, and potential carbon leakage
+, where emissions reductions are merely shifted between regions rather than genuinely mitigated.
+risk of over-reliance on carbon markets at the expense of direct emissions reductions must also be carefully managed.
+The Way Forward to Address These Challenges
+To address these risks
+, India must incorporate strong safeguards in its ITMO agreements, ensuring equitable benefit-sharing,
+robust governance, and alignment with both national and global climate ambitions.
+Learning from existing mechanisms
+such as Japan’s Joint Crediting Mechanism (JCM), where credit allocation is determined based on mutual contributions,
+India can establish transparent frameworks to optimise ITMO utilisation
+while safeguarding its developmental interests.
+Conclusion
+COP29 has reinforced the role of market-based mechanisms in advancing global climate ambitions,
+with Article 6.2 emerging as a key enabler of cooperative action.
+For India, this presents a significant opportunity to unlock climate finance
+, enhance technological capabilities, and strengthen international partnerships.
+the country must navigate the complexities of ITMO transactions carefully to avoid financial dependencies, governance pitfalls, and potential trade-offs with
+its own sustainability objectives.
+Click to View More
+Editorial Analysis
+**********Reimagining the University - A Reflection on Higher Education in India
+Context:
+India established its
+first universities in 1857
+in Bombay, Calcutta, and Madras.
+Despite their crucial role
+in shaping intellectual and social life,
+policies on university education lack reflective discussions.
+The University Grants Commission (
+UGC
+), established in 1953 and given statutory status in 1956,
+faces criticism
+for its inconsistent policies (for example, inconsistency of its stances on issues such as M.Phil, PhD, and CARE-list journals).
+The debate on higher education often misses the core question:
+What is the fundamental idea of a university?
+The Western Legacy of Universities:
+In ancient India, universities like
+Nalanda and Takshashila
+existed, but their models remain inadequately understood.
+Modern
+Indian universities have adopted
+Western structures
+Understanding the
+historical evolution of Western universities
+can inform India’s higher education policies.
+The Evolution of Universities in the West:
+Greek tradition and medieval universitas:
+The university is
+one of the oldest institutions
+, alongside the army and church.
+Originated in medieval Europe as "universitas,"
+meaning a guild for theological studies
+Transformed over time into
+secular institutions
+focused on
+intellectual inquiry.
+Socratic dialogues,
+Plato’s
+Academy, and
+Aristotle’s
+disciplinary approach shaped the idea of inquiry and knowledge.
+The Humboldt model (19th century Germany):
+Wilhelm von Humboldt conceptualized universities as
+institutions of research and self-cultivation
+through liberal arts education (this concept nation-building involved the
+noble idea of Bildung
+This inspired the establishment of the
+University of Berlin in 1809-10
+, a modern university, which became
+a global reference point
+This idea of a university, which went hand in hand with the formation of nation-states in Europe, was
+conceived against vocational education
+(of the Napoleanic period), and emphasized liberal arts and knowledge pursuit.
+Other ideas in Europe:
+John Henry Newman’s "The Idea of a University" in Britain reinforced universities as
+spaces for universal knowledge.
+Rethinking Universities for 21st-Century India:
+The evolution of universities over 800 years provides insights for shaping the future.
+Understanding the historical roots of concepts like research, seminars, and liberal arts education is essential.
+Artificial intelligences (AI) and automation
+make the idea of self-cultivation (bildung) even more critical.
+Universities should foster
+interdisciplinary dialogue
+between sciences and humanities.
+UGC’s initiatives must focus on
+training teachers as knowledge-makers
+rather than mere instructors.
+Conclusion:
+While classical ideas of universities remain relevant,
+alternative modes of learning
+must be explored.
+The future of Indian universities should
+blend historical wisdom with contemporary challenges
+A well-rounded education should prioritize both
+knowledge creation and self-development.
+In addition to
+Plato’s "Allegory of the Cave"
+(people must seek the truth and not to settle for what they see in front of them as truth/reality), the university culture should be governed by
+Socrates'
+maxim that "
+an unexamined life is not worth living
+."
+Click to View More
+Editorial Analysis
+**********[12th February 2025] The Hindu Op-ed: A role for India in South-South climate cooperation
+Enviro & Biodiversity
+PYQ Relevance:
+Q)
+Clean energy is the order of the day.’ Describe briefly India’s changing policy towards climate change in various international fora in the context of geopolitics
+(UPSC CSE 2018)
+Mentor’s Comment:
+UPSC mains have always focused on
+Climate Change (2017),
+and
+COP 26 (2021).
+In the
+Climate Change Performance Index (CCPI) 2025
+, India ranks among the top 10 climate performers globally, underscoring its commitment to climate action. India has been recognized for its significant role in
+, reflecting its leadership in fostering collaboration among developing nations to address climate change.
+Today’s editorial highlights how
+South-South cooperation
+can help achieve
+climate goals
+, promote
+sustainable development
+, and empower developing countries to meet their climate targets, drawing attention to India’s strategic opportunities and responsibilities in this area. This content would help in substantiation of answers in Mains GS Paper III (Environment and Biodiversity).
+_
+Let’s learn!
+Why in the News?
+India’s potential role in fostering climate cooperation between developing nations through South-South cooperation in the context of the Paris Agreement is needed for the  global solutions to tackle climate change.
+How does Article 6 of the Paris Agreement benefit India in achieving its climate goals?
+Carbon Markets:
+Under Article 6.2, countries can trade carbon credits to meet their emissions reduction targets. India can participate in these carbon markets, generating revenue by selling surplus carbon credits earned through emission reductions in sectors like renewable energy, energy efficiency, and afforestation.
+By engaging in carbon trading, India can attract foreign investments from companies in developed countries looking to offset their emissions. This can provide funding for clean energy projects, supporting India’s transition to a low-carbon economy.
+Cooperative Approaches:
+Article 6.4 establishes a global carbon market mechanism, similar to the Clean Development Mechanism (CDM) under the Kyoto Protocol, but with improvements. India could utilize this mechanism to undertake joint projects with other countries that help reduce emissions while fostering sustainable development.
+Through cooperative approaches, India can access advanced technologies, practices, and expertise from other countries, enabling its industries to adopt cleaner technologies and improve energy efficiency, contributing to its climate and development goals.
+Non-Market Approaches:
+Article 6.8 promotes non-market mechanisms, which focus on facilitating actions like capacity-building, finance, and knowledge sharing to address climate change. This can help India strengthen its national capabilities to implement climate policies and adapt to the impacts of climate change, particularly in vulnerable regions.
+India, being highly vulnerable to the effects of climate change, can benefit from non-market approaches to enhance its adaptive capacities and resilience, addressing critical sectors like agriculture, water resources, and infrastructure.
+Flexibility in Meeting Targets:
+The flexibility provided by Article 6 allows India to find the most cost-effective solutions for emission reductions, especially in sectors where technology deployment is expensive or challenging. It provides an opportunity to meet its Nationally Determined Contributions (NDCs) in a way that balances economic growth with environmental sustainability.
+What are the potential challenges India faces in utilizing ITMOs and engaging in international climate finance?
+Monitoring, Reporting, and Verification (MRV) Systems:
+India’s current MRV systems for tracking emissions reductions may not meet the rigorous standards required for ITMOs, which are crucial for ensuring transparency and accountability in carbon markets.
+Inadequate MRV mechanisms could hinder India’s ability to accurately quantify and report emission reductions, limiting its participation in carbon trading and climate finance.
+Accessing Climate Finance:
+Despite being a major developing country, India faces challenges in accessing sufficient and predictable climate finance from international sources, as the global financing mechanisms often favor smaller or more vulnerable nations.
+Limited access to finance can slow down India’s ability to implement large-scale climate projects, especially in sectors like renewable energy, adaptation, and infrastructure development.
+Ensuring Environmental Integrity:
+While ITMOs enable carbon trading, there’s a risk of “low-quality” credits or “double counting” (where emissions reductions are claimed by multiple parties), which could undermine the credibility and environmental integrity of the system.
+If India is not careful in ensuring robust methodologies for generating and trading ITMOs, it might face challenges in maintaining the credibility of its climate commitments, affecting its international reputation.
+Domestic Policy and Institutional Coordination:
+India’s domestic policies on climate change may not be fully aligned with the requirements of international climate finance mechanisms or ITMO systems. There is also a need for better coordination among various ministries and stakeholders to implement and track climate action effectively.
+Misalignment between international climate goals and domestic policies could result in inefficiencies and missed opportunities to access ITMOs and climate finance.
+What are the opportunities for India under South-South cooperation via Article 6.2?
+Carbon Trading with Fellow Developing Countries:
+India can collaborate with neighbouring countries like Sri Lanka, Bangladesh, and others in the South Asian region to work together to reduce emissions through renewable energy, afforestation, or energy efficiency programs.
+India could sell any surplus carbon credits generated through its own emission reduction efforts to other developing countries that need help meeting their own NDCs (Nationally Determined Contributions). This allows India to both achieve its climate goals and potentially generate revenue.
+Technology and Knowledge Transfer:
+India has already made significant progress in solar energy and can offer valuable lessons and technologies to fellow developing countries.
+India can also help other countries develop adaptation strategies for climate change impacts, such as water management techniques, disaster preparedness, and climate-resilient infrastructure.
+In return, India could receive new technologies, methods, and knowledge to enhance its own climate resilience.
+Joint Ventures for Clean Energy Projects:
+India can partner with other developing countries to co-develop large-scale renewable energy projects, such as solar, wind, or hydropower. Joint initiatives could be supported by carbon markets, with emission reductions which could attract investments, expertise, and improve access to clean energy technologies.
+By collaborating with other developing countries, India can contribute to the development of affordable, scalable solutions that are tailored to the specific needs of developing nations.
+These solutions could be implemented locally, reducing emissions and improving energy access.
+Strengthening Capacity and Institutional Frameworks:
+South-South cooperation can help India and other developing countries to assist in establishing frameworks for monitoring, reporting, and verifying (MRV) emissions reductions, benefiting both India and its partner countries.
+India can help south countries in refining its strategies and implementing the best practices that suit their own development contexts.
+Leveraging Climate Finance:
+India, by engaging in South-South cooperation, could also have access to international financial instruments that make climate action more affordable.
+This would be particularly beneficial in sectors where India faces challenges in scaling up clean technologies, like electric vehicles, or in regions like rural areas that require adaptation interventions.
+**********Struggling with poor cyber security
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Cyber attack-related issues;
+Why in the News?
+Kaveri 2.0, a web portal launched in 2023 to make property registrations in Karnataka easier was recently hit by a DDoS attack carried out using AI-powered bots.
+What is a DDoS attack?
+Distributed Denial of Service (DDoS) attack
+is a type of cyberattack where multiple computers or bots flood a website or online service with excessive traffic, overwhelming its servers and causing it to slow down or crash.
+What are the key issues with Karnataka’s response to cyber attacks, specifically the DDoS attack on Kaveri 2.0?
+Lack of Proactive Cybersecurity Measures:
+Despite previous cyber incidents like the
+2017 WannaCry ransomware attack
+and the
+2019 e-procurement portal hack
+, the State failed to implement robust preventive measures. The DDoS attack on Kaveri 2.0 in
+December 2024 – February 2025
+exposed the absence of real-time threat monitoring systems.
+Poor Coordination Between Departments:
+e-Governance Department
+did not involve the State cyber crime police until
+February 7, 2025
+, despite weeks of disruption. Resistance within departments to share cybersecurity concerns with law enforcement delayed incident response, worsening the crisis.
+Lack of a Dedicated Cybersecurity Infrastructure:
+Karnataka lacks a
+Cyber Security Operation Centre
+like Maharashtra and Odisha. A
+₹20 crore cybersecurity centre
+, proposed in
+February 2023
+, was scrapped after the new government took over, leaving critical digital infrastructure vulnerable.
+Government Response and Security Measures:
+While the government has initiated a police probe and FIR registration under the Information Technology Act, and the Kaveri 2.0 application has been restored with enhanced security measures,
+Karnataka launched a cyber security policy in 2024 to combat rising cybercrime, focusing on awareness, skill building, and industry promotion.
+How have past attacks influenced the current state of cyber security?
+Failure to Implement Robust Cybersecurity Measures:
+Despite the
+on the Karnataka State Data Centre and the
+2019 e-Procurement portal hack
+(₹11.5 crore stolen), the state did not establish strong preventive mechanisms.
+The lack of a
+dedicated Cyber Security Operation Centre
+resulted in inadequate monitoring and delayed responses to threats like the recent
+DDoS attack on Kaveri 2.0 (2024-25)
+Persistent Coordination Gaps Between Departments:
+Earlier attacks, such as the
+2022 cyber attack on NIMHANS
+, highlighted poor inter-departmental coordination, yet similar gaps persisted during the
+Kaveri 2.0 DDoS attack
+handled the crisis alone without informing the
+, delaying investigative action until February 7, 2025.
+Neglect of Cybersecurity Infrastructure Development:
+₹20 crore Cyber Security Operation Centre
+, was dropped in the
+May 2023 budget revision
+after a change in government.
+Unlike
+, which have dedicated cyber security setups, Karnataka still lacks a
+real-time threat detection system
+, leaving it vulnerable to repeated cyber attacks.
+Why has the coordination between the e-Governance Department and the State Police been ineffective during cyber incidents?
+Lack of a Unified Cybersecurity Framework:
+Cyber Security Committee (2023)
+is led by bureaucrats
+without police representation
+, unlike national-level bodies like
+I4C (Indian Cyber Crime Coordination Centre)
+NCIIPC (National Critical Information Infrastructure Protection Centre)
+This results in
+fragmented decision-making
+, where
+cybersecurity response remains within the e-Governance Department
+, sidelining law enforcement agencies.
+Delayed Involvement of the Cyber Crime Police:
+In the
+Kaveri 2.0 DDoS attack (2024-25)
+, the e-Governance Department
+did not inform the State cyber crime police
+until February 7, 2025—long after the attack began in
+Earlier incidents like the
+2022 NIMHANS cyber attack
+also saw delayed police involvement, allowing attackers more time to operate.
+Departmental Hesitation to Engage Law Enforcement:
+Sources indicate a
+reluctance within the e-Governance Department to involve the police
+, possibly due to bureaucratic hurdles or fears of administrative scrutiny.
+lack of trust and procedural clarity
+has led to
+independent firefighting efforts
+rather than a
+coordinated response
+between technical teams and law enforcement.
+Why is it crucial for the state to establish a Cyber Security Operation Centre similar to the national model?
+Real-Time Threat Detection and Response:
+went undetected for weeks, causing major disruptions in property registrations. A
+Cyber Security Operation Centre (CSOC)
+would enable
+24/7 monitoring
+early detection
+of cyber threats.
+National agencies like
+use
+AI-driven analytics and real-time threat intelligence
+to mitigate cyber risks, a model Karnataka must adopt.
+Coordinated and Rapid Incident Response:
+e-Governance Department handled the Kaveri 2.0 attack alone
+, only involving
+cyber crime police weeks later
+, delaying mitigation efforts.
+A CSOC would
+centralize cybersecurity efforts
+, ensuring
+immediate coordination between technical experts, government departments, and law enforcement agencies
+to prevent prolonged disruptions.
+Way forward:
+Establish a Cyber Security Operation Centre (CSOC):
+Revive the ₹20 crore CSOC proposal with
+real-time threat monitoring, AI-driven analytics, and centralized coordination
+between government agencies and law enforcement.
+automated response mechanisms
+to detect and neutralize cyber threats before they escalate.
+Strengthen Inter-Departmental Coordination and Cybersecurity Framework:
+Mandate
+immediate police involvement
+in cyber incidents and integrate law enforcement into
+cybersecurity governance structures
+like the Cyber Security Committee.
+Conduct
+joint cybersecurity drills
+e-Governance Department, State Police, and IT experts
+to improve incident response efficiency.
+Mains PYQ:
+What are the different elements of cyber security? Keeping in view the challenges in cyber security, examine the extent to which India has successfully developed a comprehensive National Cyber Security Strategy.
+(UPSC IAS/2022)
+**********Unlocking women’s workforce potential in India
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Women related issues;
+Why in the News?
+Increasing the number of women in the workforce is not just about equality and it is also essential for economic growth.
+What are their challenges in enabling women’s economic participation in India?
+Unpaid Care Work Burden:
+Women in India spend
+7.2 hours per day
+on unpaid domestic work, compared to
+2.8 hours by men
+(Time Use in India Report, 2019). This leaves them with
+less time for paid employment
+Example:
+Many women
+drop out of the workforce after marriage
+due to caregiving responsibilities, particularly in rural areas where childcare facilities are scarce.
+Lack of Formal Part-time Employment:
+India lacks
+legally regulated part-time work
+, unlike OECD countries where part-time work is protected by law and provides benefits.
+According to the NCAER study (2024),
+57% of women prefer part-time jobs for flexibility
+, but due to the absence of formal options, many take
+low-wage, informal sector jobs without security
+Gender Discrimination and Wage Gap:
+Women in India earn
+only 77% of what men earn
+for the same work (World Economic Forum, Global Gender Gap Report 2023).
+The
+STEM sector in India has only 16% female representation
+, limiting women’s access to high-paying jobs and leadership roles.
+Limited Access to Safe and Affordable Transport:
+safe and reliable transport
+restricts women’s mobility for work, especially in cities with high crime rates against women.
+A study by
+Ola Mobility Institute (2022)
+found that
+over 50% of women in Delhi and Mumbai reject job opportunities
+due to safety concerns while commuting.
+Low Financial and Digital Literacy:
+Women in India have lower financial and digital literacy, limiting their participation in modern, high-skilled jobs and entrepreneurship.
+National Family Health Survey-5 (2019-21)
+, only
+33% of Indian women use the Internet
+, reducing their access to online job markets and digital banking.
+What are the Study and Findings from the LFPR Report?
+Low Female Labour Force Participation Rate (LFPR) in India:
+India’s
+Female LFPR
+stands at
+37%
+, which is much lower than the
+global average of 47%
+and the
+OECD average of 67%
+. The
+primary reasons
+for this low participation include
+unpaid care work, lack of formal part-time jobs, gender discrimination, and mobility constraints
+Impact of Addressing Barriers on LFPR Growth:
+The study used the
+McCall-Mortensen job search model
+to simulate the effects of policy changes. It found that
+addressing two major barriers
+(formalizing part-time work and redistributing unpaid care work) could
+increase women’s LFPR by 6 percentage points
+, from
+37% to 43%
+Projected Increase in LFPR:
+The study found that addressing these two barriers could raise India’s female LFPR by six percentage points, increasing it from the current 37% to 43%.
+Formalizing Part-Time Employment:
+The study highlighted that introducing formally recognized part-time work contracts with pro-rated wages and benefits would offer women the flexibility they need.
+Redistributing Unpaid Care Work:
+Achieving gender equality in caregiving responsibilities, through policies like paid parental leave and investment in childcare along with cultural changes, is crucial for enabling women’s participation in the labour force.
+What are the steps taken by the government?
+Maternity and Childcare Support
+– The
+Maternity Benefit (Amendment) Act, 2017
+increased paid maternity leave to 26 weeks, and schemes like
+PM Matru Vandana Yojana
+provide financial aid to pregnant women.
+Skill Development and Entrepreneurship
+– Programs like
+PM Kaushal Vikas Yojana (PMKVY)
+train women in various skills, while
+Mudra Yojana
+Stand-Up India
+provide financial support for women entrepreneurs.
+Workplace Safety and Legal Protections
+Sexual Harassment of Women at Workplace Act, 2013
+ensures safer workplaces and the
+Working Women’s Hostels Scheme
+provides secure housing for working women.
+Way forward:
+Policy Reforms for Flexible Work and Social Security:
+Introduce
+formal part-time work laws
+, ensuring job security and flexibility for women. Expand
+affordable childcare facilities
+to reduce the unpaid care work burden.
+Improving Safety, Mobility, and Digital Inclusion:
+Strengthen
+safe public transport infrastructure
+women-only commuting options
+to enhance workplace accessibility. Promote
+financial and digital literacy programs
+, ensuring women’s participation in online job markets and entrepreneurship.
+Mains PYQ:
+‘Women’s movement in India has not addressed the issues of women of lower social strata.’ Substantiate your view.
+(UPSC IAS/2018)
+**********[pib] Nationwide Mass Drug Administration (MDA) Campaign for Lymphatic Filariasis (LF) Elimination 
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Union Minister for Health and Family Welfare has launched the Annual Nationwide Mass Drug Administration (MDA) Campaign to eliminate Lymphatic Filariasis (LF).
+About Lymphatic Filariasis (LF):
+Lymphatic Filariasis (LF), or “Hathi Paon”
+, is a
+mosquito-borne parasitic disease
+caused by
+Wuchereria bancrofti, Brugia malayi, and Brugia timori
+It affects the
+lymphatic system
+, leading to
+swelling of limbs (lymphoedema) and scrotal swelling (hydrocele)
+, causing
+permanent disability
+LF spreads through repeated
+mosquito bites
+, making it a
+major public health challenge in tropical regions
+, including
+India
+India aims to eliminate LF by 2027
+, ahead of the
+2030 Sustainable Development Goal (SDG) target
+What is Mass Drug Administration (MDA)?
+MDA is a large-scale public health campaign
+where anti-filarial medicines are
+administered to all eligible individuals in endemic areas
+to stop LF transmission.
+Medication Regimens:
+Double Drug Therapy (DA):
+Diethylcarbamazine Citrate (DEC) + Albendazole
+Triple Drug Therapy (IDA):
+Ivermectin + DEC + Albendazole
+Key Features of MDA
+Door-to-door supervised drug administration ensures high coverage.
+Drugs are safe, free, and given twice a year in targeted districts.
+MDA is crucial for eliminating LF, as it reduces parasite transmission and protects millions from disability.
+EXCEPTIONS:
+Children below 2 years, pregnant women, and seriously ill individuals.
+PYQ:
+[2017]
+Consider the following statements:
+1. In tropical regions, Zika virus disease is transmitted by the same mosquito that transmits dengue.
+2. Sexual transmission of Zika virus disease is possible.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********[pib] Exercise CYCLONE-III
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+3rd edition of Joint Special Forces Exercise CYCLONE
+commenced at
+Mahajan Field Firing Ranges in Rajasthan
+.
+Note:
+India and the UAE held the
+‘Desert Cyclone 2024’
+joint military exercise in
+January 2024
+. One must not get confused with this.
+About Exercise
+It is the
+3rd edition of the Joint Special Forces Exercise
+between
+India and Egypt
+, aimed at enhancing
+interoperability, joint tactical operations, and counter-terrorism capabilities
+The exercise is conducted at
+from
+10th to 23rd February 2025
+CYCLONE is an annual exercise
+, held
+alternately in India and Egypt
+previous edition (CYCLONE-II)
+was conducted in
+Egypt in January 2024
+The exercise focuses on
+high-intensity special forces training
+desert and semi-desert terrains
+Features and Significance:
+This exercise involves 25 personnel from each side, focusing on
+counterterrorism, CQB, hostage rescue, and heliborne operations
+in desert terrain.
+48-hour final validation exercise
+tests combat strategies in semi-desert conditions, while an Indian defense technology showcase strengthens military ties.
+The exercise enhances
+India-Egypt defense cooperation
+, improves joint counter-terrorism capabilities, and builds readiness for future operations.
+It also boosts India’s strategic
+outreach in the Middle East and North Africa (MENA) region
+, reinforcing defense collaborations and regional security.
+**********Phase 2 of ASPIRE Programme 
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+4th India-UK Energy Dialogue
+, chaired by the Union Minister of Power and the UK’s Energy Security Secretary, was recently held in New Delhi. The dignitaries launched
+Phase-2 of the ASPIRE programme
+to improve power supply, energy efficiency, and renewable energy.
+About the ASPIRE Programme
+The ASPIRE (
+ccelerating
+mart
+nergy in
+ndia) program was
+officially launched in November 2021
+during the India-UK Energy for Growth Partnership.
+It focuses on
+renewable energy expansion, power distribution reforms, and energy efficiency improvements
+The program is implemented in collaboration with India’s
+Ministry of Power (MoP), Ministry of New and Renewable Energy (MNRE),
+UK Foreign, Commonwealth & Development Office (FCDO)
+Key Features of ASPIRE Phase-2:
+Round-the-Clock (RTC) Power Supply:
+Ensuring uninterrupted electricity with smart grid integration.
+Renewable Energy Expansion:
+Scaling up solar, wind, and offshore wind projects with investment support.
+Industrial Energy Efficiency & Decarbonization:
+Reducing carbon emissions in key industries like steel, aluminum, and cement.
+Power Distribution & Market Reforms:
+Enhancing smart metering, grid resilience, and regulatory cooperation between CERC (India) and OFGEM (UK).
+Offshore Wind Development:
+Establishing a UK-India Offshore Wind Taskforce to boost supply chains & financing models.
+Electric Mobility & Green Data Centers:
+Expanding EV charging infrastructure and sustainable energy solutions.
+**********India introduces new HS code for GI-recognised Rice Varieties
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+World Customs Organization (WCO); HS Code
+Why in the News?
+India has introduced a
+Harmonised System (HS) code
+geographical indication (GI) recognised rice exports
+under an
+amendment to the Customs Tariff Act
+1975
+announced by
+Finance Minister Nirmala Sitharaman
+2025-26 Union Budget
+February 1, 2025
+.
+India’s GI-Tagged Rice Varieties:
+The
+Indian Patent Office
+has granted
+GI status
+20 rice varieties
+, including:
+Navara, Palakkadan Matta, Pokkali, Wayanad Jeerakasala, Wayanad Gandhakasala, Kalanamak, Kaipad, Ajara Ghansal, Ambemohar, Joha, Gobindobog, Tulapanji, Katarni, and Chokuwa
+(awarded GI tag before
+March 2020
+).
+Bhadara Chinoor, Mushqbudji, Marcha, Khaw Tai (Khamti), Uttarakhand’s Lal Chawl, Kalonunia, and Koraput Kalajeera
+(received GI recognition between
+April 2023 and March 2024
+Andaman Karen Musley
+(awarded GI status in the
+current fiscal year
+Pending GI Applications for Rice Varieties:
+Currently,
+20 additional rice varieties
+are awaiting
+GI certification
+Seeraga Samba, Seoni Jeera Shankar, Thooyamalli, Kanakchur, Sivagangai Karuppu Kavuni, Ramanathapuran Poongar, J&K Red Rice
+Wada Kolam Paddy rice.
+Most of these varieties are grown on
+small landholdings
+, typically
+less than 12,500 acres
+Kalapad rice (Kerala)
+is an exception, grown over
+30,000 acres
+, with
+maximum yields of 2,200 kg per acre
+About
+Harmonised System (HS) Code
+HS Code is an
+internationally recognized
+classification system for traded goods
+, developed by the
+It is used to
+standardize the identification of products
+in global trade, ensuring uniformity in
+customs procedures, tariffs, and trade policies
+The HS Code is a
+six-digit numerical code
+, categorized as follows:
+First two digits:
+Represent the
+chapter
+of goods (e.g., “10” for cereals).
+Next two digits:
+Indicate the
+heading
+(e.g., “06” for rice).
+Last two digits:
+Define the
+subheading
+(e.g., “30” for semi-milled or wholly milled rice).
+Countries can
+extend the HS Code beyond six digits
+to accommodate
+specific national requirements
+(e.g., India uses an
+8-digit
+system).
+Impact of HS Code on GI Rice Exports:
+Trade experts believe that the
+introduction of an HS code
+will:
+Facilitate GI rice exports
+, even when
+general rice exports are restricted
+Ensure better market access
+specialty rice varieties
+in global markets.
+Differentiate GI-tagged rice from conventional rice exports
+to prevent mislabelling.
+About the World Customs Organization (WCO):
+intergovernmental organization
+responsible for overseeing and
+standardizing global customs regulations
+It was established in
+1952
+as the
+Customs Co-operation Council (CCC)
+and later renamed the WCO in
+1994
+Key Functions of the WCO:
+Develops and maintains the
+, used by over
+200 countries
+and territories.
+Regulates customs procedures, trade facilitation, and enforcement of trade laws.
+Supports the fight against illegal trade, smuggling, and counterfeit goods.
+The organization works closely with the
+World Trade Organization (WTO)
+United Nations (UN)
+to promote
+global trade efficiency
+India is a
+member of the WCO
+and follows its
+HS classification system
+for trade regulations.
+The WCO’s
+Revised Kyoto Convention (RKC)
+serves as a
+blueprint for India’s customs modernization efforts
+PYQ:
+[2017]
+Consider the following statements:
+India has ratified the Trade Facilitation Agreement (TFA) of WTO.
+TFA is a part of WTO’s Bali Ministerial Package of 2013.
+TFA came into force in January 2016.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+**********

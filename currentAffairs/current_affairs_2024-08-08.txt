@@ -1,0 +1,229 @@
+The Waqf (Amendment) Bill 2024
+Why in News?
+Through the Waqf (Amendment) Bill 2024, which seeks to amend the Waqf Act 1995, the Centre is set to bring in key amendments to overhaul the regulatory framework of Muslim charitable endowments.
+What’s in Today’s Article?
+What is a Waqf Property?
+What is a Waqf Board?
+What is the 1995 Waqf Act?
+What are the Proposed Amendments in Waqf (Amendment) Bill 2024?
+Criticism of the Waqf (Amendment) Bill 2024
+Waqf refers to the moveable or immovable properties
+dedicated exclusively for religious or charitable purposes under the Islamic law.
+A Waqf property is non-transferable
+and held perpetually in the name of God. It can either be for public charitable purposes or held private to benefit an individual's descendants.
+The proceeds from a Waqf typically
+fund educational institutions, graveyards, mosques, and shelter homes
+, benefitting a large number of Muslims.
+A Waqf board is a legal entity
+with nominated members to manage Waqf properties under the Waqf Act 1995.
+The board appoints a custodian to each property
+to ensure its proceeds are used for intended purposes.
+Waqf Boards currently control 8.7 lakh properties spanning 9.4 lakh acres across India with an estimated value of 1.2 lakh crores.
+It makes them the third largest landowner
+in India after the armed forces and the Indian Railways.
+Central Waqf Council (CWC)
+, established in 1964, oversees and advises state-level Waqf Boards across India.
+The Waqf Act of 1995 regulates ‘auqaf’
+(assets dedicated and notified as waqf) by a wakif, the person who dedicates property for purposes recognised by Muslim law as pious, religious, or charitable.
+Under the 1995 Act, in case of dispute whether a property can be considered a Waqf,
+the decision of the Waqf Tribunal in respect of such matter shall be final
+The 1995 Act was amended in
+2013
+to give far-reaching powers to the Waqf Board to designate a property as 'Waqf Property'. This has since been contentious.
+The bill aims to restrict the power of Waqf boards
+to manage its properties and provides for more government regulation.
+The bill proposes to make registration
+with the District Collector's Office mandatory for any Waqf property, so that the property can be evaluated.
+It also states that any government property
+identified or declared as Waqf property (before or after the commencement of this Act), shall not be deemed to be a waqf property.
+The district collector will be the arbiter
+to decide whether a property is waqf property or government land and the decision shall be
+Once decided, the collector can make necessary changes to the revenue record and submit a report to the state government.
+The bill also states that such property shall not be treated as Waqf property till the collector submits his report to the state govt.
+In case of dispute
+with the decision of the Waqf board, appeals can now be made in the respective
+high courts (HCs).
+A Waqf property can be considered suspect
+or disputed in the absence of a valid documentation (waqfnama) and it can no longer be used till the final decision is made by the District Collector.
+Currently, a property can be considered as a Waqf, even if its original declaration is suspect or disputed.
+It empowers the Central government
+to direct the audit of any Waqf at any time by an auditor appointed by the Comptroller and Auditor-General of India, or by any officer designated by the Central Government for that purpose.
+It also aims to ensure the representation of Muslim women
+and non-Muslims in the Central Waqf Council and the State Waqf Boards, by including two women and two non-Muslims among their members.
+Criticism of the Waqf (Amendment) Bill 2024:
+According to the All-India Muslim Personal Law Board (AIMPLB), the Bill seeks to
+alter the nature of Wakf properties
+and makes it easier for the government or any individual to usurp them.
+For example
+, empowering the Collector as the arbiter, and not the waqf tribunal, gives the government a significant say in regulation of waqf properties
+Opposition parties allege that the proposals aim to deprive the Muslim community from their “
+freedom to manage religious affairs
+” guaranteed under
+Article 26
+of the Indian Constitution.
+However, the central government argued that the demand to regulate Waqf boards comes from the Muslim community itself.
+Waqf amendment Bill.pdf
+( Size:  346.6 KB  )
+Click to View More
+Polity & Governance
+**********Yen Carry Trade
+Why in the News?
+Sensex and Nifty 50 witnessed a heavy sell-off on 5
+August, 2024 as the rout in global equities intensified amid US recession concerns and panic in the Japanese Yen Carry Trade.
+What’s in Today’s Article?
+About Yen Carry Trade (Meaning, Significance, Recent Events, Impact, Way Ahead, etc.)
+What is Yen Carry Trade?
+The Yen Carry Trade is a financial strategy used by investors to take advantage of the low-interest rates in Japan. Here’s a breakdown of how it works:
+Borrowing in Yen
+: Investors borrow money in Japanese yen, benefiting from the country’s historically low-interest rates.
+Investing in Higher-Yield Assets
+: The borrowed yen are then converted into another currency and invested in assets or instruments with higher yields, such as bonds, stocks, or real estate in countries with higher interest rates.
+Profit from Interest Rate Differential
+: The key to this strategy is the difference between the low borrowing costs in Japan and the higher returns on investments elsewhere. Investors aim to profit from this interest rate differential.
+Currency Risk
+: One significant risk in the yen carry trade is the
+fluctuation in exchange rates
+If the yen appreciates significantly against the currency in which the investments are made, the cost of repaying the yen-denominated loan can increase, potentially offsetting the gains from the investment.
+Market Impact
+: The yen carry trade can influence global financial markets.
+Large-scale unwinding of these trades can lead to significant movements in currency exchange rates and affect market stability.
+Overall, the
+yen carry trade is a strategy that leverages low-interest rates in Japan to seek higher returns abroad
+, but it comes with risks, particularly related to currency fluctuations.
+Recent Yen Carry Trade Blowback:
+Japan kept interest rates ultra-low for decades following the implosion of an asset bubble in the 1990s that contributed to persistent deflation.
+Japan's central bank, the Bank of Japan, surprised markets by raising its interest rate from near-zero to 0.25%.
+This unexpected move has caused the Japanese yen to strengthen significantly.
+The rapid strengthening of the yen has resulted in substantial losses for those engaged in yen carry trades. As the cost of borrowing in yen has increased, the profitability of these trades has diminished.
+Impact on Global Market:
+The Nikkei 225 index, Japan's primary stock market benchmark, plummeted by over 12% in a single day, marking its worst decline since the 1987 Black Monday crash.
+The Reverse carry trade was a major cause of concern for the US too as the S&P 500 declined by 1.8%.
+South Korea's Kospi and Taiwan's Weighted Index experienced significant declines, with both indices falling by more than 8%.
+Impact on India’s Market:
+Despite the global market volatility, the Indian markets have remained resilient as the Sensex closed 2.74% down, while the Nifty 50 crashed 2.68% on 5
+The Indian Markets are now more balanced than before as the markets have also gone through recent major events such as Elections and Union Budget 2024.
+Way Ahead for Investors:
+Shift to High-Quality Stocks
+: Investors should focus on companies with strong fundamentals and sustainable growth, moving away from low-growth, low-quality segments.
+Orientation Towards Large Caps
+: Prioritize large-cap stocks for their stability and resilience, especially during market volatility.
+Selective Exposure to Midcaps and Small Caps
+: While large caps should dominate your portfolio, also consider quality midcaps and small caps with strong fundamentals and growth prospects.
+Monitor Global Events
+: Be aware of global factors like the Yen Carry Trade unwinding, US recession fears, and Middle East conflicts that may cause market volatility.
+Rebalancing Portfolios
+: Reassess and rebalance your portfolio to emphasize quality and growth-oriented investments amid potential underperformance of certain sectors and global market volatility.
+newspaper.pdf
+( Size:  730.7 KB  )
+Click to View More
+Economics
+**********Vinesh Phogat disqualification
+Why in news?
+Vinesh Phogat's pursuit of a gold medal at the Paris Olympics ended unexpectedly when she failed to meet the weight requirement for her women's 50kg wrestling final.
+Weighing in at just over 100 grams above the limit, she also lost her chance at a confirmed silver medal.
+Despite weighing 49.9kg on the morning of August 6 and securing three consecutive victories, including a win over defending champion Yui Susaki, Vinesh gained weight during the day, resulting in her disqualification before the final bout.
+What’s in today’s article
+The process of Olympic wrestling weigh-ins
+Weigh-in specifics
+Weight cut
+The case of Vinesh Phogat
+About
+Weigh-ins take place in the morning for any wrestlers competing that day.
+The tournament for each weight class is contested over a two-day span. Hence, any wrestlers that make the finals or the repechage will have to make weight on both days.
+First weigh-in
+During the first weigh-in, wrestlers will have 30 minutes to make weight. Contestants are weighed with their singlets, but nothing else.
+Athletes will also be examined to make sure they have no signs of any contagious disease and that their fingernails are cut very short.
+During second day
+For any wrestlers competing on the second day, the weigh-in will last 15 minutes.
+This is a non-negotiable window during which the wrestler must make the required weight or risk disqualification.
+Weight tolerance in Olympics
+No more weight tolerance will be allowed for the second weigh-in.
+The Olympics follow a strict weight restriction
+without
+the 2kg weigh in tolerance.
+Two kilograms weight tolerance is allowed for World Cup and for the International Tournaments (Except UWW Ranking Events).
+Was a two-day weigh-in always the rule?
+In 2017, the UWW changed the format of Olympic wrestling.
+The Rio Olympics was the last time when wrestling was conducted as a single day event in a major international tournament.
+So instead of the competition in a weight category being conducted all in a day, they moved to a two-day system.
+This was done so that athletes wouldn’t lose a huge amount of weight on one day and compete.
+In combat sports such as wrestling, boxing, and mixed martial arts, athletes compete in specific weight categories to ensure fair competition.
+These categories have strict rules that prevent athletes from participating if they exceed the designated weight limit.
+To meet these requirements, some athletes engage in a practice known as "weight cutting," where they rapidly lose a set amount of weight just before the competition.
+This is done through various methods such as dehydration, restrictive dieting, and intense physical activity.
+While weight cutting is common, it can pose significant health risks and controversies surrounding its safety and fairness continue to be debated in the sports community.
+How do wrestlers cut weight?
+In many sports with weight categories, athletes often cut weight to fit into a lower category, typically reducing up to 10% of their body mass before major events.
+The most challenging period is the 24-48 hours before the competition, where athletes must shed the final, smallest margins of weight.
+After meeting the weight requirements and completing the weigh-in, athletes rehydrate and eat to regain energy and recover the fluids and body mass lost.
+Once the competition is over, they often start the weight-cutting cycle again for the next event.
+Vinesh has always struggled to cut weight for the 50kg category.
+She had been participating in the 53 kg category until recently before she made the switch to 50 kg. The switch was made at the trials in NIS, Patiala.
+Phogat’s usual weight is around 55-56 kg, which she has to cut to 50 kg on the days of competition.
+Keeping her body weight below 55-56 kg has proved to be quite tough as there isn’t much more weight to cut and cutting water weight by sweating out has proven to be extremely challenging for the Indian wrestler.
+Could Vinesh have salvaged a medal if she was injured?
+According to UWW, if an athlete is injured during the first day, he/she doesn’t have to attend the second weigh-in and will keep his/her results.
+In Vinesh’s case, she would have got the silver medal.
+But if an athlete is injured after Day 1 of the competition, they have to attend the second weigh-in.
+Why was she disqualified - Concerned Rules
+If an athlete does not attend or fails the weigh-in (the 1st or the 2nd weigh-in), he
+will be eliminated from the competition and ranked last, without rank
+Vinesh Phogat disqualification.pdf
+( Size:  2.5 MB  )
+Click to View More
+Polity & Governance
+**********Chhattisgarh approves country’s third largest tiger reserve
+Why in news?
+Chhattisgarh has approved the creation of the Guru Ghasidas-Tamor Pingla Tiger Reserve, the third largest in India.
+What’s in Toady’s Article?
+Tiger Reserves (About, background, process of notification/denotification)
+Tiger Reserves in India
+A National Park or Wildlife Sanctuary that is considered significant for protecting tigers can be additionally designated as a Tiger Reserve.
+A Tiger Reserve consists of:
+a ‘Core’ or ‘Critical Tiger Habitat’, which is to be managed as an inviolate area, and
+a ‘Buffer’ or Peripheral area, which may be accorded a lesser degree of habitat protection.
+Background
+Project Tiger was launched by the Govt in 1973 to save the endangered species of tiger in the country. As part of this project, the
+tiger reserves of India were set up
+These reserves are administrated by the National Tiger Conservation Authority.
+Process of notification of Tiger Reserves
+Tiger Reserves are notified by State Governments as per provisions of Section 38V of the Wildlife (Protection) Act, 1972 on advice of the National Tiger Conservation Authority.
+The following steps are involved in the notification:
+Proposal is obtained from the State.
+In-principle approval is communicated from the National Tiger Conservation Authority, soliciting detailed proposals under section 38V of the Wildlife (Protection) Act, 1972.
+National Tiger Conservation Authority recommends the proposal to the State after due diligence.
+The State Government notifies the area as a Tiger Reserve.
+Can tiger reserves be altered and de-notified?
+These processes are governed by Section 38W of the Wildlife (Protection) Act, 1972.
+Regarding de-notification, it says:
+No alteration in the boundaries of a tiger reserve shall be made except on a recommendation of the Tiger Conservation Authority and the approval of the National Board for Wild Life.
+No State Government shall de-notify a tiger reserve, except in public interest with the approval of the Tiger Conservation Authority and the National Board for Wild Life.
+Chhattisgarh cleared a proposal to notify a new tiger reserve
+– the
+third largest in the country
+(spanning 2,829 square kilometres).
+Andhra Pradesh’s Nagarjunasagar Srisailam Tiger Reserve is the country’s largest tiger reserve, covering 3,296.31 sq km.
+Manas Tiger Reserve in Assam is the second largest with an area of 2,837.1 sq km. Both have 58 tigers.
+The decision comes after the Chhattisgarh High Court granted four weeks to the state government to clear its stand on declaring that area a tiger reserve.
+The combined areas of the Guru Ghasidas National Park and Tamor Pingla Wildlife Sanctuary has been declared as a Tiger Reserve.
+The newly created reserve integrates an existing national park with a wildlife sanctuary.
+It is located in the northern part of the state, bordering Madhya Pradesh and Jharkhand.
+Guru Ghasidas National Park - in Koriya district
+Tamor Pingla Wildlife Sanctuary - in Surajpur district of the state
+This region is located in the districts of Manendragarh-Chirmiri-Bharatpur, Koriya, Surajpur and Balrampur.
+This will be the fourth Tiger Reserve in Chhattisgarh, after the Udanti-Sitanadi, Achanakmar, and Indravati Reserves.
+Significance of this move
+Guru Ghasidas National Park was the last known habitat of the Asiatic cheetah in the country.
+Turning Guru Ghasidas into a Tiger Reserve is important because
+it connects Jharkhand and Madhya Pradesh and
+provides a corridor for tigers to move between the Bandhavgarh and Palamau Tiger Reserves.
+It will foster eco-tourism in the state and create employment opportunities for villagers residing in the core and buffer zones, as guides, tourist vehicle operators, and resort managers.
+Additionally, the National Project Tiger Authority will provide an extra budget for the reserve’s operations, which will facilitate new livelihood development projects in the surrounding villages.
+Declining tiger population in Chhattisgarh
+Chhattisgarh’s tiger population fell from 46 in 2014 to 17 in 2022, according to a National Tiger Conservation Authority report released in July 2023.
+The Union Ministry of Environment, Forest and Climate Change, in a 2023 statement, highlighted a concerning decline in tiger populations in several states, including Mizoram, Nagaland, Jharkhand, Goa, Chhattisgarh, and Arunachal Pradesh.
+Chhattisgarh approves country’s third largest tiger reserve.pdf
+( Size:  1.7 MB  )
+Click to View More
+Environment & Ecology
+**********

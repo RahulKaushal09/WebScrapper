@@ -1,0 +1,1424 @@
+Indirect Prompt Injection
+Recently, researchers warned that AI chatbots vulnerable to indirect prompt injection attacks.
+About Indirect Prompt Injection:
+It is a technique that
+manipulates chatbots
+into executing
+malicious commands.
+It exploits the inherent nature of
+large language models
+(LLMs) to follow instructions embedded within the content they process.
+By embedding malicious instructions within seemingly benign documents or emails, attackers can induce chatbots to perform unauthorised actions, such as
+searching for sensitive information or altering long-term memory settings.
+Click to View More
+Source :
+AI chatbots vulnerable to indirect prompt injection attacks, researcher warns
+Science & Tech
+**********What is Alzheimer’s Disease?
+In a new research published in the journal Alzheimer’s & Dementia, scientists have found a single cause of development of Alzheimer’s disease, and that is the formation of stress granules.
+About Alzheimer’s Disease:
+It is a
+neurological disorder
+slowly destroys memory and thinking skills
+and, eventually, the ability to carry out the simplest tasks.
+It is the
+most common cause of dementia
+, a general term for memory loss and other cognitive abilities serious enough to interfere with daily life.
+It accounts for
+60-80% of dementia cases.
+It involves
+parts of the brain that control thought, memory, and language.
+The condition
+usually affects people aged 65 years and over
+, with only 10% of cases occurring in people younger than this.
+Cause
+: The
+exact cause
+of Alzheimer's disease is
+not fully understood
+, but it is
+believed to be influenced by a combination of genetic, environmental, and lifestyle factors.
+Symptoms:
+The early signs of the disease include
+forgetting recent events or conversations.
+Over time, it
+progresses to serious memory problems
+and loss of the ability to perform everyday tasks.
+On average, a person with Alzheimer's lives four to eight years after diagnosis
+but can live as long as 20 years, depending on other factors.
+Treatment
+: There’s
+no cure
+for Alzheimer’s, but certain medications and therapies can help manage symptoms temporarily.
+Click to View More
+Source :
+Scientists uncover 'root cause' of Alzheimer's disease in breakthrough study
+Science & Tech
+**********What is Matsya 6000?
+India’s first manned submersible, Matsya 6000, is expected to carry three people to a depth of 6,000 metres in the ocean by 2026, Union Minister of State for Science and Technology and Earth Sciences said recently.
+About Matsya 6000:
+It is
+India's deep-sea submersible
+designed for
+ocean exploration,
+particularly for
+deep-sea mining and biodiversity studies
+Developed by the
+National Institute of Ocean Technology (NIOT
+) under the
+Samudrayaan Mission
+, it is capable of
+diving to a depth of 6,000 meters in the ocean
+Features
+It is equipped with cutting-edge technologies, including advanced
+life support systems, navigation equipment,
+robotic arms for sample collection,
+and high-resolution
+imaging systems
+It houses a 2.1-metre internal diameter Titanium alloy personnel sphere to safely carry humans to a 6000 m depth. The Titanium alloy personnel sphere is being integrated in collaboration with ISRO.
+The manned submersible will also be “equipped with
+subsystems for buoyancy management
+enabling descent/ascent, power, and control systems, maneuvering propellers, subsea intervention manipulators, navigation and positioning devices, data and voice communication systems, on-board energy storage batteries, as well as systems for emergency support.
+The submersible is designed to
+enable continuous operations at 6000 m depth for up to 12 hours
+with an emergency endurance of up to 96 hours for conducting deep water observation and exploration.
+Samudrayaan Mission:
+It is I
+ndia’s first manned mission to explore the deep ocean.
+It is aimed to
+develop a self-propelled manned submersible to carry three human
+beings to a water depth of
+with a suite of scientific sensors and tools for deep ocean exploration.
+It is designed to
+study the deep ocean resources
+and conduct biodiversity assessments as well.
+The mission will
+not disturb the ecosystem
+as the submersible is used solely for exploration purposes.
+The project is
+part of the larger Deep Ocean Mission
+, which supports the Central Government’s Blue Economy policy.
+Nodal Ministry: Ministry of Earth Sciences (MoES)
+Click to View More
+Source :
+India’s first manned submersible Matsya 6000 launch in 2026
+Science & Tech
+**********Corruption Perceptions Index
+According to the Transparency International report India ranked 96 out of 180 countries in the Corruption Perceptions Index (CPI) for 2024.
+About
+Corruption Perceptions Index:
+It is the most widely used global corruption ranking in the world. It is published annually by the non-governmental organisation
+Transparency International since 1995.
+It is an index which ranks countries "by their perceived levels of public sector corruption, as determined by expert assessments and opinion surveys."
+It generally defines corruption as an "
+abuse of entrusted power for private gain".
+It uses a
+scale of zero to 100,
+where “zero” is highly corrupt and “100” is very clean.
+It measures how corrupt each country’s public sector is perceived to be, according to experts and business people.
+The score for each country is derived from a minimum
+of three data sources
+, selected from 13 distinct corruption surveys and assessments. These sources are gathered by a range of reputed organisations, such as the
+World Bank and the World Economic Forum.
+Highlights of
+Corruption Perceptions Index (CPI) for 2024:
+The index, which lists countries by their perceived levels of public sector corruption, ranked
+Denmark at the top
+, followed by Finland, and Singapore.
+This year’s Index highlighted the
+connection between climate action and corruption
+, linking it to the broader theme of climate financing.
+It gave India a
+CPI score of 38.
+In 2023, India’s overall score was 39 while in 2022, it was 40. There is a decline in the score of India on CPI. In the Asia-Pacific region, the average score for the region has dropped by one point to 44 as the countries are still failing to deliver on anti-corruption pledges.
+Corruption not only undermines development in a country but is also a key cause of declining democracy, instability, and human rights violations as highlighted by the report.
+Click to View More
+Source :
+India ranks 96 out of 180 countries in Corruption Perceptions Index 2024
+Polity & Governance
+**********Laokhowa Wildlife Sanctuary
+After about 40 years, the Laokhowa Wildlife Sanctuary witnessed the movement of one-horned rhinos, and the wetlands are now in focus for drawing more water birds than Assam's only Ramsar site, the Deepor Beel.
+About Laokhowa Wildlife Sanctuary:
+It is located on the
+southern part of the Brahmaputra
+River in Nagaon District of
+It covers an area of around 70.13
+sq.km
+It was declared as a
+buffer zone of the Kaziranga Tiger Reserve
+in 2007 and became an integral part of the larger Laokhowa-Burachapori ecosystem.
+The sanctuary is
+surrounded by human-dominated areas
+on all sides except for the north.
+Flora
+: Laokhowa is also rich in flora, with diverse plant species including
+grasslands, tropical moist deciduous forests,
+semi-evergreen forests.
+Fauna
+: Its main attraction is the Great Indian
+one-horned Rhinoceros.
+Other animals found here are Indian
+royal Bengal tiger, elephant, Wild Boar, Civet Cat, Leopard Cat,
+Hog Deer,
+Asian water buffalo,
+about 200 species of birds, including the
+Bengal Florican,
+Leopard, Asiatic Buffalo, etc.
+Click to View More
+Source :
+Assam's Laokhowa Wildlife Sanctuary Shines Bright In Water Bird Estimation
+Environment & Ecology
+**********Adjusted Gross Revenue (AGR)
+The Supreme Court recently rejected Vodafone Idea and Bharti Airtel's review petitions to correct errors in AGR dues calculations.
+About Adjusted Gross Revenue (AGR):
+AGR is a metric used to determine the
+revenue that telecom operators must share with the government
+in the form of spectrum usage charges or licensing charges.
+Under this mechanism,
+telecoms are required to share a percentage of AGR with
+Department of Telecommunication
+Calculation of AGR and Controversy:
+As per the Dept of Telecom
+, the
+should incorporate all revenues earned
+by a telecom company. This
+also includes revenues from non-telecom sources
+such as deposit interests and sale of assets.
+companies
+, however, are of the
+view that AGR should comprise
+revenues generated from telecom services only,
+and non-telecom revenues should be kept out of it.
+In October 2019, the
+Supreme Court widened the definition of AGR to include the government's view.
+The Supreme Court ordered it to include all revenues, except for termination fees and roaming charges, as a part of the AGR.
+Click to View More
+Source :
+Vi says all legal options in AGR case closed after SC junks last review
+Economy
+**********Amsterdam Island
+For nearly a month the French territory of Amsterdam Island in the southern Indian Ocean has been engulfed in flames.
+About Amsterdam Island:
+Referred to as
+Nouvelle Amsterdam or Île Amsterdam
+, it is a small
+French island territory
+that is situated in the
+southern Indian Ocean.
+Along with the
+neighboring Île Saint-Paul
+, it is administered under the French Southern and Antarctic Territories.
+It is located roughly
+midway between Australia, Antarctica
+Madagascar
+, the Australian external territory of Cocos (Keeling) Islands, and
+British Indian Ocean Territory.
+It is approximately 3,200 km away from each of these territories.
+The
+elliptical-shaped volcanic
+Amsterdam Island covers an area of about 55
+sq.km
+., and has a length of 10 km and a maximum width of 7 km.
+The island is
+relatively recent,
+having formed between 400,000 and 200,000 years ago.
+consists of a potentially active stratovolcano,
+although there are no historical records of volcanic eruptions on the island.
+Flora & Fauna:
+endemic Amsterdam albatross
+is one of the world’s
+rarest species of avifauna,
+found only on Amsterdam Island.
+Amsterdam Island is the only French sub-Antartic isle that supports a
+native tree, Phylica nitida.
+Human Presence:
+The island has
+no permanent population
+but hosts a small
+scientific research station called Martin-de-Viviès,
+which is manned by a rotating team of scientists.
+Click to View More
+Source :
+Half of French island in Indian Ocean burnt by wildfire
+Geography
+**********Bhadra Tiger Reserve
+Recently, wildlife activists have raised questions about the recent death of a leopard in the Bhadra Tiger Reserve and demanded a probe into the incident.
+About Bhadra Tiger Reserve:
+It is situated in the midst of the Western Ghats region in
+It was declared the 25th Project Tiger reserve of India in 1998.
+The reserve is unique as it is nestled within several hill ranges. The habitat has a good population of elephants and is also an Elephant Reserve.
+It is well drained by the river
+Bhadra and its tributaries.
+Vegetation:
+It has
+dry-deciduous, moist-deciduous, shola
+, and semi-evergreen patches.
+Flora:
+Teak, Rosewood, Mathi, Honne, Nandi and many medicinal plants etc.
+Fauna:
+Tiger, Leopard, Leopard cat, Dholes, Indian Civet, ungulates like Gaur, Sambar and Barking Deer are common.
+Other Tiger Reserves of Karnataka:
+Bandipura, Nagarahole, Dandeli-Anshi and Biligiriranga Tiger Reserve.
+Click to View More
+Source :
+Wildlife activists demand probe into leopard death in Bhadra Tiger Reserve
+Environment & Ecology
+**********U.S.-India COMPACT Initiative
+Recently, the President of USA and Prime Minister of India launched the U.S.-India COMPACT initiative.
+About U.S.-India COMPACT Initiative:
+The
+Catalyzing Opportunities for Military Partnership, Accelerated Commerce & Technology
+(COMPACT) initiative will drive transformative change across key pillars of cooperation.
+It is a framework that will lay the foundation for
+deepening military partnerships
+, with a clear focus on
+technology, trade, and defence
+industrial cooperation.
+Under this initiative, they committed to a results-driven agenda with initial outcomes this year to demonstrate the level of trust for a mutually beneficial partnership.
+Key features of COMPACT Initiative:
+New Defence Procurements & Regulatory Reforms:
+A new
+ten-year Framework for the US-India
+Major Defense Partnership, with the US pledging additional defence sales and co-production initiatives.
+Advancing Defence Technologies & Military Collaboration:
+To accelerate cooperation in space, air defence, missile systems, maritime, and undersea operations. The launch of the
+Autonomous Systems Industry Alliance
+(ASIA) will spur innovation in AI-enabled counter-UAS and maritime defence.
+Economic & Trade Expansion: Under this component both countries
+aim to double bilateral trade to $500 billion by 2030 under “Mission 500.” They plan to negotiate the first phase of a Bilateral Trade Agreement by fall 2025, focusing on fair trade, national security, and job creation.
+Strengthening Technology & Innovation Ties:
+The launch of the US-India
+TRUST initiative
+will boost cooperation in defence, AI, semiconductors, quantum computing, biotechnology, energy, and space.
+Boosting Space Cooperation & Critical Minerals Partnership:
+To deepen space collaboration includes the introduction of
+INDUS Innovation,
+inspired by the INDUS-X platform, which will drive academic and industrial partnerships in space and emerging tech.
+Space Collaboration in 2025:
+NASA and ISRO partner via AXIOM to send the first Indian astronaut to the ISS and expedite the NISAR dual-radar satellite launch.
+Click to View More
+Source :
+US-India Military Cooperation: Key takeaways from the Modi-Trump talks
+International Relations
+**********Foetus in Foetu
+Recently, doctors at the Buldhana District Women’s Hospital in Maharashtra detected a rare case of “foetus in foetu” in a pregnant woman.
+About Foetus in Foetu:
+It is a rare
+congenital disorder
+which is also known as
+It is a foetus-like mass
+developed within the body of the other foetus
+in a monozygotic twin pregnancy.
+Basically, one twin is very underdeveloped and enwrapped inside the body of the other twin, so much so that the pregnancy is considered a singleton pregnancy.
+The presence of a twin inside the body of the other
+twin may go undetected for years
+. In this case, the condition was discovered during a routine pregnancy scan itself. The woman delivered the baby by a C-section delivery.
+This condition occurs when a malformed foetus develops inside another foetus.
+It affects about one in 500,000 births. Less than 200 cases have been reported worldwide, with about 10 to 15 cases in India.
+Causes of Foetus in Foetu:
+The exact cause of this condition
+is not fully understood
+, but it’s believed to result from an
+anomaly during the development of monozygotic
+or identical twins.
+About 10 to 15 days after the conception of monozygotic twins, the cell mass of the embryo may be split unevenly, due to which one twin is smaller and incompletely formed with the other twin fully developed.
+The smaller twin gets trapped within the larger twin. The trapped twin is
+considered “parasitic,”
+as it draws its blood supply and nutrients from the other
+“host” twin.
+trapped or “parasitic twin”
+has some morphologic features of a normal foetus such as an umbilical cord-like structure, a bag of membranes surrounding it, and blood vessel connections to the host twin. It may have a vertebral column, limbs, and a few organs but lacks vital organs like the brain, heart or gut. Despite having “living tissue,” the parasitic twin has no prospects of independent existence outside the host twin.
+The presence of the parasitic twin
+affects the health of the host twin
+, who has to “feed” the former from the nutrients received over a single umbilical cord. In addition, enlargement of the trapped parasitic twin may compress vital organs in the host and cause discomfort or life-threatening complications.
+Generally, the
+parasitic twin is found
+abdomen of the host twin
+. Rarely, it may be found in other organs like the brain or chest.
+Click to View More
+Source :
+Foetus in foetu: a continuing twin mystery
+Science & Tech
+**********Trump’s reciprocal tariffs and the impact on India
+Why in news?
+Recently, US President Donald Trump announced plans to impose "reciprocal tariffs" on all countries, with implementation expected after April 1st.
+This move could roll back global trade by nearly a century, disregarding existing World Trade Organization agreements. By targeting both allies and adversaries, Trump signals a shift away from established trade norms.
+What’s in today’s article?
+Reciprocal tariffs
+Calculation of Reciprocal Tariffs
+Trump Imposing Reciprocal Tariffs – Reasons
+Reciprocal tariffs - Impact on India
+Tariffs are taxes imposed by an importing country on foreign goods, making them more expensive for domestic consumers.
+For example, if a US citizen orders a Banarasi saree from India, US import tariffs will increase its price, affecting affordability.
+Higher tariffs slow down global trade by raising costs for all parties involved.
+The Move Towards Free Trade
+Since World War II, the global economy has shifted toward freer trade, as developed nations agreed that open markets benefit all.
+Agreements like GATT and WTO ensured that developing nations received special and differential treatment to protect their industries from stronger economies.
+This allowed countries like India to maintain higher tariffs to safeguard local farmers and manufacturers from competition with highly industrialized nations.
+Trump’s Shift to Reciprocal Tariffs
+Trump’s "reciprocal tariffs" policy seeks to eliminate preferential treatment for any country.
+Under this system, the US will impose the same level of tariffs on imports as other nations impose on US exports.
+Trump argues this approach is "fair" and removes the need for complex trade agreements, disregarding historical trade arrangements designed to protect developing economies.
+The exact calculation method for reciprocal tariffs is still being finalized, with the US trade department expected to determine the final rates for each country by April.
+Beyond Simple Tariff Matching
+Instead of just mirroring tariff rates, the US plans to consider various subsidies and financial assistance provided by other countries to their exporters.
+This means that if a country like India offers subsidies to its industries, the US may factor those into its tariff calculations to create a
+"level playing field."
+Impact on Developing Countries
+If this approach is strictly implemented, developing nations like India, which heavily subsidize exports, will face
+on their goods in the US market.
+For instance, between 2022 and 2024, India provided $1 billion (₹8,700 crore) in subsidies under the Production Linked Incentive (PLI) scheme to boost handset exports.
+Since the PLI scheme is essentially a subsidy, it could lead to
+higher US tariffs on Indian goods.
+Trump’s decision is driven by multiple factors, not just targeting a single country.
+While China is the US’s biggest competitor, his initial tariff threats were aimed at close allies like Canada and Mexico.
+Targeting Allies and Trade Partners
+Trump has criticized the
+European Union (EU)
+for unfair trade practices against US companies and linked tariffs on
+to broader concerns like
+illegal immigration
+drug exports
+into the US.
+Trump’s Obsession with Trade Deficits
+primary motivation
+behind Trump’s tariffs is his strong opposition to
+trade deficits
+—the gap between imports and exports.
+The US trade deficit is nearing
+$1 trillion
+, while China enjoys a surplus of over
+Trump views trade deficits as evidence that the world is
+cheating the US
+by not playing fair.
+How Trump Plans to Eliminate Trade Deficits
+Forcing Other Countries to Import More US Goods
+– Encouraging nations to buy American products to balance trade.
+Compelling Companies to Set Up Manufacturing in the US
+– Making it costlier for foreign companies to export to the US, pushing them to establish production units within the country.
+Given India's historically high tariffs on US goods, it is expected to be among the nations most affected by Trump's decision.
+Bilateral trade (April–Nov 2024): $82.52 billion
+India's exports to the US: $52.89 billion
+India's imports from the US: $29.63 billion
+Trade surplus in India's favour: $23.26 billion
+Sectors at Risk
+US tariffs could impact key Indian exports, including food products, textiles, clothing, electrical machinery, gems & jewellery, pharmaceuticals, and automobiles.
+Increased US Imports
+To balance trade, India may
+import more US goods
+defence equipment, oil, and consumer products
+. This could lead to a reduction in India's trade deficit with the US.
+Rupee Depreciation
+Higher imports from the US would
+increase demand for dollars
+, leading to a
+weaker Indian rupee
+against the US dollar.
+Impact on Domestic Consumption & GDP Growth
+The recent
+Rs 1 lakh crore tax break
+in India aimed at boosting consumption may lead wealthy Indians to
+spend more on US goods
+, rather than on Indian products.
+limit the expected boost to India's GDP
+, as more money flows into the US economy instead.
+Long-Term Benefits & Risks
+Cheaper US goods
+could benefit Indian consumers.
+Stronger trade ties with the US could help India’s
+economic growth and global positioning
+However, this might
+undermine Atmanirbhar Bharat
+, as more US imports reduce demand for Indian-made products.
+Trump’s reciprocal tariffs and the impact on India.pdf
+( Size:  1.6 MB  )
+Click to View More
+International Relations
+**********The India-US TRUST initiative
+Why in news?
+India and the United States have initiated the
+ransforming
+elationship
+tilizing
+trategic
+echnology (TRUST) initiative to enhance cooperation in the recovery and processing of critical minerals, including lithium and rare earth elements (REEs).
+Announced during the PM Modi’s recent visit to Washington, this partnership aims to strengthen supply chains for these essential materials.
+What’s in today’s article?
+India-US TRUST Initiative: Strengthening Critical Minerals Cooperation
+Trust Initiative: Building on National Programmes for Critical Minerals
+Significance of TRUST Initiative
+Importance of Critical Minerals and Rare Earth Elements (REEs)
+India and the United States launched the
+Transforming Relationship Utilizing Strategic Technology (TRUST) initiative
+to enhance bilateral cooperation in critical and strategic minerals, advanced materials, and pharmaceuticals.
+Key Objectives
+Reducing Barriers to Technology Transfer
+– Streamlining regulations to facilitate innovation and trade.
+Addressing Export Controls
+– Ensuring smoother commercial exchange of strategic resources.
+Enhancing High-Tech Commerce
+– Strengthening collaboration in cutting-edge sectors.
+Focus on Critical Minerals
+Recovery and Processing Initiative
+will be launched for strategic minerals like
+to boost supply chains.
+This move aims to counter
+China’s dominance
+in the global critical minerals market.
+Alignment with Global Frameworks
+TRUST builds upon India’s participation in the
+US-led Minerals Security Finance Network
+and its induction into the
+Minerals Security Partnership (MSP)
+in 2023
+Unlike multilateral frameworks, TRUST focuses on
+bilateral engagement
+, enabling
+faster execution and deeper collaboration
+TRUST initiative builds upon existing national programmes in India and the US that focus on exploration, recycling, and R&D in processing technologies.
+US Initiatives
+Critical Minerals and Materials (CMM) Programme (2020)
+– $675 million allocated to diversify supply chains and promote a circular economy.
+Battery and Critical Mineral Recycling Programme (2024)
+– $125 million in grants for R&D to enhance battery reuse and recycling.
+India’s National Critical Minerals Mission
+Approved in
+January 2024
+, with a
+Rs 16,300 crore
+budget for seven years.
+Rs 7,000 crore
+allocated for
+critical mineral exploration
+Rs 1,500 crore
+set aside for an
+incentive scheme
+to support recycling efforts.
+Comparison with iCET Initiative
+2022
+, India and the US launched the Initiative on Critical and Emerging Technology (iCET) to collaborate on semiconductors, AI, and wireless communication, mainly for defence and security.
+The TRUST initiative has a broader focus, covering critical minerals and supply chains beyond just technology applications.
+Unlike previous multilateral partnerships, however, the TRUST initiative will build on bilateral engagement.
+Strategic Significance
+The initiative strengthens
+India-US strategic ties
+, ensuring resilience in
+critical supply chains
+It accelerates joint efforts in
+exploration, extraction, processing, recycling, and recovery
+of essential minerals.
+TRUST marks a
+major milestone
+in India’s goal of becoming
+self-reliant in critical mineral resources
+Expanding Innovation Through the TRUST Initiative
+will foster collaboration between
+governments, academia, and the private sector
+to accelerate innovation in key fields, including:
+Defence; Artificial Intelligence (AI); Semiconductors; Quantum Computing; Biotechnology; Energy and Space
+Strengthening Pharma Supply Chains
+The initiative aims to enhance the pharmaceutical supply chain, focusing on active pharmaceutical ingredients (APIs) that rely on critical minerals like lithium, magnesium, zinc, and selenium.
+, pharmaceutical products accounted for
+21
+9%
+of India’s
+$20 billion consumer goods exports
+However, the sector faces risks due to
+potential tariffs
+that could be imposed by the
+Trump administration
+India, the
+world’s second-largest API manufacturer after China
+, could benefit from securing these essential minerals.
+Strengthening Bilateral Cooperation
+The initiative aims to deepen India-US collaboration in critical minerals by:
+Reducing barriers to technology transfer
+Addressing export controls
+Enhancing high-tech commerce
+While the initiative falls short of giving Indian companies tax benefits from the US Inflation Reduction Act (IRA) for battery components and critical raw materials, it still broadens the scope for collaboration significantly.
+Japanese companies enjoy this benefit.
+Essential for Strategic Industries
+Critical minerals and
+play a key role in industries such as:
+Defence (missiles, fighter jets, radars)
+Semiconductors and AI hardware
+Quantum computing
+Energy storage and electric vehicles (EVs)
+Biotechnology and medical diagnostics
+Space technology
+Key Elements and Their Applications
+Neodymium, praseodymium, samarium
+– Used in high-performance magnets for defence systems.
+Lithium, cobalt, nickel
+– Power advanced batteries for energy storage and EVs.
+Gallium, indium
+– Critical for semiconductors and AI hardware.
+Ultra-pure silicon, superconducting materials
+– Essential for quantum computing.
+Europium, terbium
+– Used in biotech imaging and medical diagnostics.
+Scandium and heat-resistant alloys
+– Important for space technology.
+The Need for Diversified Supply Chains
+China controls nearly 70% of global REE production and much of the processing infrastructure.
+Securing diversified supply chains is crucial for technological sovereignty and national security.
+The India-US TRUST initiative.pdf
+( Size:  2.0 MB  )
+Click to View More
+International Relations
+**********India-US Strategic Partnership Strengthened Through Key Agreements
+Why in the News?
+Prime Minister Narendra Modi and US President Donald Trump held a bilateral meeting at the White House in the US.
+What’s in Today’s Article?
+Introduction
+Key Agreements (List of Key Agreements, Significance, Conclusion)
+Introduction:
+met in Washington, marking a significant milestone in the India-US bilateral relationship.
+The two leaders discussed
+defence cooperation, trade expansion, energy security, and technology collaboration
+Key agreements were signed, reinforcing the strategic partnership between the world’s two largest democracies.
+During the meeting, both leaders committed to enhancing defence trade, setting ambitious trade targets, and
+boosting collaboration in advanced technologies like artificial intelligence (AI), semiconductors, and space exploration
+Key Agreements Between India and the US:
+Defence Cooperation and F-35 Fighter Jet Sale
+The US will sell
+F-35 stealth fighter jets
+to India, strengthening India's air combat capabilities.
+new ten-year framework
+for US-India
+Major Defence Partnership
+will be signed this year.
+India will procure
+six additional P8I maritime surveillance aircraft
+Joint defence manufacturing and technology sharing
+agreements will enhance cooperation.
+A review of
+International Traffic in Arms Regulations (ITAR)
+will streamline defence trade and technology exchange.
+The US will work with India on
+autonomous defence technologies
+under the
+Autonomous Systems Industry Alliance (ASIA)
+Extradition of 26/11 Terror Accused Tahawwur Rana
+President Trump confirmed the
+extradition of Tahawwur Rana
+, wanted for his role in the
+2008 Mumbai terror attacks
+The US Supreme Court approved his extradition, reinforcing India-US cooperation in counterterrorism.
+Both nations committed to
+strengthening law enforcement collaboration
+against organized crime and terrorism.
+‘Mission 500’: Expanding India-US Trade
+The two nations set a target of
+$500 billion in annual bilateral trade by 2030
+A new
+Bilateral Trade Agreement (BTA)
+will be signed by
+fall 2025
+Indian companies have invested
+$7.35 billion in the US
+, creating
+3,000+ high-quality jobs
+The US imposed
+reciprocal tariffs
+, but both nations agreed to resolve trade barriers.
+Energy Security and Nuclear Cooperation
+India will increase
+oil and gas imports from the US
+, reducing trade imbalances.
+The US will support
+India’s membership in the International Energy Agency (IEA)
+Both countries will fully implement the
+US-India 123 Civil Nuclear Agreement
+Plans include the construction of
+US-designed nuclear reactors in India
+Collaboration on advanced modular nuclear reactors
+will ensure long-term energy security.
+People-to-People Connections and Education
+The US recognized the
+300,000-strong Indian student community
+, contributing
+$8 billion annually
+to the US economy.
+Plans include:
+Joint degree programs
+between US and Indian universities.
+Twinning programs
+for student exchange.
+Offshore campuses
+of US institutions in India.
+The two countries committed to streamlining
+visa processes
+for professionals and students.
+Technology and Innovation Partnerships
+Launch of
+US-India TRUST (Transforming the Relationship Utilizing Strategic Technology)
+initiative to promote critical technologies.
+Expansion of
+INDUS Innovation
+, a program to foster tech collaboration in
+AI, semiconductors, and space exploration
+India and the US will jointly develop
+quantum computing and biotechnology projects
+Strategic Mineral Recovery Initiative
+will help India access critical minerals like
+lithium, cobalt, and rare earth elements
+US National Science Foundation and Indian Anusandhan National Research Foundation
+signed an MoU for research collaborations.
+Multilateral Cooperation and Indo-Pacific Strategy
+Both leaders reaffirmed commitment to
+QUAD
+(India, US, Australia, Japan).
+PM Modi invited President Trump to India for the
+Quad Leaders’ Summit
+Indian Ocean Strategic Venture
+will focus on economic connectivity and commerce.
+Both countries condemned
+cross-border terrorism
+and urged Pakistan to bring
+26/11 and Pathankot attack perpetrators to justice
+Significance of the India-US Strategic Partnership:
+Strengthening Defence Ties
+: The sale of F-35 jets and co-production agreements will boost India’s security.
+Trade and Investment Growth
+: ‘Mission 500’ sets a bold trade target for the next decade.
+: Increased oil and gas imports and nuclear cooperation will enhance India’s energy stability.
+Technology Leadership
+: AI, quantum computing, and semiconductor initiatives will boost India’s tech ecosystem.
+Global Strategic Influence
+: India’s partnership with the US strengthens its position in the Indo-Pacific region.
+Conclusion:
+India-US strategic partnership
+continues to grow, with major agreements in
+defence, trade, energy, and technology
+The two nations are committed to enhancing
+economic cooperation, counterterrorism efforts, and global peace initiatives
+As India and the US deepen their alliance, they set the stage for a
+stronger, more resilient partnership
+in the years ahead.
+newspaper.pdf
+( Size:  489.8 KB  )
+Click to View More
+International Relations
+**********The Strategic Importance of the Indian Ocean - Insights from the 8th IOC
+Context:
+, in partnership with
+Singapore and Oman
+, is hosting the Eighth Indian Ocean Conference (IOC) in
+Muscat, Oman
+.
+Foreign ministers from around 30 countries are attending
+to discuss the region’s future.
+Historical Significance of the Indian Ocean:
+Indian Ocean derived its name
+from the historical and civilisational influence that India wielded on the countries of the region.
+It served as a crucial trade route
+for Indian merchants (like the Manigramam Chettis and Nanadesis) and dynasties like the
+Pallavas, Cholas, and Andhras.
+Ancient texts like
+Kautilya’s Arthashastra
+highlighted the importance of maritime activities.
+Fa-Hien,
+a Chinese traveller, wrote in 415 CE that the ship that took him from Ceylon to Sri Vijaya (present-day Indonesia) had 200 merchants who professed the “Brahmanical religion”.
+The Indian Ocean
+enabled India’s economic dominance in the first millennium
+but was later
+controlled by European colonial powers
+India’s Neglect of Maritime Power Post-Independence:
+The British, despite being naval powers, did not develop India’s maritime strength.
+After independence,
+India’s focus remained on land-based security
+, neglecting its naval potential.
+India ranks
+20th in global shipbuilding
+with only 0.06% market share.
+Importance of the Indian Ocean:
+Cultural and civilizational connect:
+Though discourse on the “Indo-Pacific” dominates the world today, it is a geo-strategic construct, where big power competition is omnipresent.
+The “Indian Ocean” is a largely peaceful
+natural region connected by civilization and culture.
+Vast expanses of the waters of the
+3rd-largest ocean
+in the world touch the shores of 26 countries.
+For many other landlocked countries like
+Nepal and Bhutan
+, the Indian Ocean remains a lifeline.
+Economic importance:
+From the
+Persian Gulf to the Strait of Malacca,
+the Indian Ocean is the main trading artery for many countries in the world.
+The Indian Ocean is a
+critical global trade route
+as it -
+Handles 70% of the world’s container traffic.
+Facilitates 80% of India’s external trade and 90% of its energy trade.
+Strategic importance:
+The Indian Ocean today is a strategic space with
+increasing military and commercial activities.
+The US and UK
+, with their Diego Garcia base, and
+France
+with Reunion Island, are already active in the region.
+Also,
+China
+is investing heavily in the region to spread its influence.
+Steps Taken by India to Enhance its Maritime Influence and Key Concerns:
+Steps taken:
+PM Narendra Modi nurtured the ambition of rising as an influential
+blue-water power
+and the
+voice of the Global South
+SAGAR Initiative
+(Security and Growth for All in the Region) was launched in 2015 to enhance India’s maritime influence.
+Key concerns:
+Piracy, terrorism, illegal fishing, human trafficking.
+Climate change
+, rising sea levels, disaster management.
+Influence of Chinese companies like
+Huawei
+in undersea communication networks.
+The Call for Regional Maritime Leadership:
+According to
+Alfred Mahan’s theory,
+maritime supremacy in the Indian Ocean equates to global influence.
+The IOC serves as a platform for regional leaders to ensure that the affairs of this “
+region of peace
+” remain in their hands.
+Strengthening maritime cooperation is
+crucial for India to emerge as a dominant power in the Indo-Pacific.
+Conclusion:
+The peninsular character of India and the essential dependence of its trade on maritime traffic give the Indian Ocean a preponderant influence on its destiny. (
+KM Panikkar
+India must
+enhance its naval capabilities and strategic outreach
+to secure its maritime interests.
+The IOC is a crucial step toward
+ensuring regional stability and asserting India’s influence
+in the maritime domain.
+Click to View More
+Editorial Analysis
+**********Dealing with China’s Weaponisation of E-supply Chains
+Context
+Recently China imposed restrictions on the movement of its engineers and technicians working in Foxconn’s Indian facilities
+, along with curbs on exports of specialised manufacturing equipment.
+These developments
+not only threaten India’s aspirations of becoming a global manufacturing powerhouse but also reveal China’s strategic efforts to maintain its dominance
+in the electronics supply chain.
+Amid these developments,
+it is crucial to analyse the underlying factors, economic consequences, and the long-term strategies India needs to adopt in response to these challenges.
+China’s Geopolitical Strategy and Supply Chain Domination
+China’s recent actions appear to be
+part of a broader strategy to exert economic pressure on India by leveraging its dominant position in high-tech manufacturing.
+restrictions on Chinese engineers aim to prevent the tacit transfer of knowledge to their Indian counterparts
+, thereby slowing the development of India’s manufacturing expertise.
+Additionally,
+by limiting exports of specialized equipment, over which China holds a near-monopoly, Beijing seeks to delay production timelines
+and maintain its leverage in global supply chains.
+These measures come at a time when global corporations, including Apple, are diversifying their manufacturing bases beyond China
+due to rising trade tensions with the United States and the disruptions caused by the COVID-19 pandemic.
+The ‘
+China Plus One’ strategy
+has prompted many companies to explore alternative manufacturing destinations such as India, Vietnam, and Mexico.
+Recognising India’s potential as a rising manufacturing hub, China’s restrictions serve as a strategic reminder to global firms of its indispensable role in the electronics industry.
+India’s Response to China’s Restrictions and Remaining Challenges
+India’s Strategic Investments through the PLI Scheme
+India’s commitment to strengthening its electronics manufacturing industry is
+evident in the continued focus on the Production-Linked Incentive (PLI) scheme.
+Launched in 2020,
+the PLI scheme provides financial incentives to companies for manufacturing mobile phones and electronic components in India.
+scheme aims to not only attract global players like Apple but also to stimulate the development of a domestic supply chain
+that can reduce India’s dependency on foreign components.
+The Indian government has significantly increased its allocation for the PLI scheme
+over the years.
+In 2025, the allocation rose to ₹8,885 crore ($1.02 billion),
+up from ₹6,125 crore ($0.70 billion) in 2024.
+or companies like Foxconn, this translates into tangible benefits,
+incentivizing them to expand production in India and create jobs in the process.
+Dependence on China for Components and Machinery
+Despite the growing investments in India’s electronics manufacturing sector, the country still faces a critical challenge:
+its heavy reliance on China for essential components and machinery.
+hina remains the world’s largest producer of high-tech manufacturing equipment
+, including machinery for assembly lines, components like printed circuit boards, camera modules, sensors, and connectors, and critical materials for mobile phones.
+This
+dependence on Chinese imports has become a significant bottleneck,
+particularly when China decides to restrict the flow of these components.
+recent curbs imposed by China on the export of specialised manufacturing equipment to India have highlighted this vulnerability.
+Without access to these key components
+and machines,
+India’s manufacturing sector could face substantial delays in production, jeopardizing its ability to scale up
+and meet both domestic and global demand.
+Moreover,
+Foxconn and other contract manufacturers rely heavily on the smooth flow of these Chinese components to maintain their operations in India.
+As one of the largest assemblers of Apple’s products,
+Foxconn’s ability to ramp up production is directly tied to the availability of these imported parts.
+Any disruption to the supply of Chinese-made components
+, whether due to restrictions or delays,
+could severely impact production timelines and cost structures.
+The Role of Foxconn and Apple in India’s Manufacturing Ambitions
+Foxconn, a key contract manufacturer for Apple, has been
+instrumental in helping India meet its manufacturing goals.
+Apple’s decision to expand its production in India
+, including the assembly of flagship products like the iPhone 15,
+reflects a growing recognition of India as an important player in global electronics manufacturing.
+Over the years,
+the Indian government has worked diligently to build an attractive environment for foreign direct investment (FDI),
+particularly from companies like Foxconn, which have the scale and expertise to drive large-scale manufacturing operations.
+India’s southern states
+, such as Tamil Nadu and Karnataka, have emerged as critical hubs for this manufacturing push,
+hosting Foxconn’s largest production facilities.
+In 2023, Apple’s decision to assemble the iPhone 15 at Foxconn’s facility in Tamil Nadu,
+as well as
+Tata Electronics’ facility in Karnataka
+, marked a
+significant milestone for the country.
+By
+the fiscal year ending in March 2024,
+India had assembled approximately $14 billion worth of iPhones through Foxconn and its partners
+, including Pegatron and Tata Electronics.
+The Way Ahead for India to Build a Self-Sufficient Manufacturing System
+The Need for Diversification and Localized Production
+The current strategy relies heavily on assembling finished products, but for India to become a true manufacturing powerhouse,
+it must focus on developing its own domestic supply chains.
+includes encouraging the growth of local component manufacturers
+and reducing the reliance on Chinese imports.
+One approach would be to
+invest in the domestic production of critical components
+such as semiconductors, printed circuit boards, and mobile phone batteries.
+would not only help shield India from disruptions in the global supply chain but also create high-value jobs
+in India’s manufacturing sector.
+Strategic Collaboration with Apple and Foxconn
+India’s response to China’s restrictions could
+also involve deeper collaboration with Apple and Foxconn,
+both of which have significant stakes in India’s manufacturing success.
+Foxconn, for example, has already invested billions in India
+, and its continued presence in the country is vital to India’s long-term ambitions.
+India must leverage its partnership with these companies to negotiate with China for more favourable trade terms
+, including the easing of restrictions on the export of essential machinery and components.
+Apple’s role is also crucial,
+as the company’s continued commitment to India is seen as a barometer for the country’s broader manufacturing ambitions.
+India, therefore, must ensure that its relationship with Apple and Foxconn remains strong, facilitating the growth of both companies’ operations
+while simultaneously building its own indigenous manufacturing capacity.
+Conclusion
+While India’s efforts to develop a competitive electronics manufacturing sector are commendable, its
+dependence on China for key components and machinery remains a significant obstacle.
+The restrictions imposed by China on Foxconn’s operations in India serve as a reminder of the vulnerabilities
+inherent in global supply chains.
+For India to reduce its dependency on China
+and build a more self-sufficient manufacturing ecosystem,
+it must prioritise local component production, deepen collaboration with foreign companies like Apple and Foxconn.
+Click to View More
+Editorial Analysis
+**********The Teesta Dam and the Long Shadow of Climate Change
+Context
+recommendation to rebuild the Teesta-3 dam in Sikkim
+, following its destruction by a Glacial Lake Outburst Flood (GLOF) in October 2023, has
+sparked intense debate.
+While the project was previously deemed successful and commercially viable,
+its reconstruction raises critical environmental, geological, and socio-economic concerns.
+Therefore,
+it becomes imperative to examine the factors that led to the Teesta-3 dam’s destruction, expert concerns regarding risk assessment
+, and the broader implications for sustainable infrastructure planning in a rapidly changing climate.
+The Destruction of Teesta-3: Causes and Consequences
+The Teesta-3 hydroelectric dam was
+destroyed when a moraine on the South Lhonak lake’s flank suffered a slope failure
+, leading to a catastrophic flood.
+Satellite data revealed that
+approximately 50 billion liters of water spilled into the valley, triggering multiple landslides
+and extensive downstream damage.
+Over 100 lives were lost, and more than 80,000 people across four districts were affected.
+failure of the dam also exacerbated the destruction by amplifying the flood’s intensity
+with debris acting as a battering ram.
+Subsequent analyses revealed that
+the moraine’s instability was a significant contributing factor,
+and experts have since monitored the lake for further signs of collapse.
+disaster underscored the risks posed by glacial lake expansions,
+particularly in the context of climate change and regional geological instability.
+Concerns Surrounding the Reconstruction of Teesta-3
+Climate Change and the Growing Threat of GLOF
+Global warming and increasing particulate pollution,
+especially black carbon or soot, have accelerated Himalayan glacier melt.
+This
+process has led to the formation and expansion of glacial lakes
+, increasing the risk of GLOFs.
+According to a 2024 report by the Central Water Commission
+, the number of glacial lakes and water bodies in the Himalayan region grew by 10.8% between 2011 and 2024
+, with their combined surface area increasing by 33.7%.
+South Lhonak lake itself expanded significantly since its formation in the 1960s,
+reaching 167 hectares by 2023.
+Beyond simply increasing water volumes
+, glacial retreat also destabilises geological formations, creating new hazards.
+unpredictable interactions between melting glaciers, shifting landscapes
+, and atmospheric conditions
+make it difficult to model future flood risks accurately.
+Given this backdrop,
+the decision to rebuild the Teesta-3 dam appears questionable,
+especially as climate change acts as a risk multiplier, intensifying the frequency and severity of extreme weather events.
+Expert Concerns and Limitations of Risk Assessment
+Insufficient Model for Capturing the GLOF Dynamics
+The expert committee recommending the dam’s reconstruction
+justified its decision based on the previous facility’s success and the largely intact condition of its power-generating equipment post-GLOF.
+new design incorporates several improvements
+, including a fully concrete structure, a spillway nearly three times larger, and an early-warning system.
+However, these modifications rely heavily on rainfall-centric models
+, which experts argue are
+insufficient for capturing the complexities of GLOF dynamics.
+Risk Assessment Limitations
+2025 assessment by an international team of scientists
+from institutions such as IIT Bhubaneswar and IISc Bengaluru
+highlighted critical gaps in existing flood models.
+Their report stressed that prevailing approaches fail to adequately account for erosion, sediment transport, riverbank collapses
+, and hillslope-channel interactions, factors that significantly influence flood behaviour.
+Additionally,
+Professor Raghu Murtugudde has noted that climate models struggle to accurately represent extreme rainfall events
+, further complicating risk assessments.
+Given these uncertainties,
+many environmental activists and hydrogeologists have raised concerns about the wisdom of rebuilding Teesta-3
+in an earthquake- and landslide-prone region.
+Public interest litigations have also questioned the dam’s compliance with regulatory norms,
+including issues related to Sikkim’s mandated equity share and allegations of corruption.
+Necessary Measures to Mitigate the Concerns
+Balancing Energy Needs and Climate Risks
+India’s growing energy
+demand necessitates an expansion of power production, and hydroelectric
+projects like Teesta-3 offer a renewable energy source.
+However, climate change multiplies risks,
+making the siting of such projects a crucial concern.
+While Teesta-3’s new design may mitigate damage in the event of a similar flood,
+it remains vulnerable to stronger or differently structured floods.
+Moreover,
+its reconstruction introduces new technological and structural risks
+that could lead to unforeseen failure modes.
+Critics argue that commercial viability alone should not dictate the decision to rebuild.
+Instead, infrastructure planning must prioritise minimizing risks to local communities and maximizing their socio-economic resilience.
+This includes ensuring robust disaster preparedness measures, social security frameworks,
+and emergency response systems.
+A Sustainable Approach to Infrastructure in the Himalayas
+The debate surrounding Teesta-3 aligns
+with broader discussions on infrastructure sustainability in disaster-prone areas.
+Brian Stone Jr., a professor at the Georgia Institute of Technology, has argued that engineering solutions alone cannot counteract climate change;
+at some point, retreat becomes inevitable.
+If the risks associated with an area continue to rise, either the area itself must be abandoned, or
+the costs of maintaining infrastructure must increase significantly.
+A more sustainable approach
+would involve
+integrating climate risk assessment directly into infrastructure planning.
+This could include
+developing a risk determination matrix
+with clear thresholds for unacceptable risk levels.
+the costs of disaster preparedness and mitigation should be factored into the hydroelectric power tariff
+rather than externalized, ensuring long-term sustainability.
+Conclusion
+The decision to rebuild the Teesta-3 dam
+highlights the complex
+intersection of energy needs, environmental risks, and socio-economic considerations.
+While the project promises renewable energy and economic benefits,
+its location in a geologically unstable, climate-sensitive region raises serious concerns.
+As climate change continues to amplify risks,
+infrastructure planning must evolve beyond commercial viability to prioritize resilience, risk reduction, and sustainability.
+Click to View More
+Editorial Analysis
+**********[15th February 2025] The Hindu Op-ed: Dealing with China’s weaponisation of e-supply chains
+International Relations
+PYQ Relevance:
+) The USA is facing an existential threat in the form of China, that is much more challenging than the erstwhile Soviet Union.” Explain.
+(UPSC CSE 2021)
+Mentor’s Comment:
+UPSC mains have always focused on
+China as a threat to the USA (2021),
+and
+China is using its economic relations and positive trade surplus as tools
+(2017).
+In mid-January, reports said China blocked its engineers and technicians from working at Foxconn in India and recalled those already there. It also restricted exports of key manufacturing equipment, which China dominates. While Foxconn brought in Taiwanese workers, the lack of equipment is a bigger challenge. This move threatens India’s goal of becoming a global manufacturing hub.
+Today’s editorial discusses challenges arising from China’s dominance in the global supply chain. This topic is relevant for GS Paper 2 and GS Paper 3 in the UPSC Mains.
+_
+Let’s learn!
+Why in the News?
+Recently, China has stopped its engineers and technicians from travelling to work at Foxconn’s facilities in India.
+How is China using e-supply chains as a strategic tool?
+Monopoly Over Critical Manufacturing Equipment:
+China dominates the production of high-tech manufacturing equipment required for semiconductor and electronics production.
+Example
+: In early 2024, China restricted the export of specialized manufacturing machinery to Foxconn in India, slowing down iPhone assembly and production.
+Control Over Key Raw Materials:
+China holds a significant share of the global supply of rare earth elements (REEs) essential for electronics, EV batteries, and defense technology.
+: In 2023, China imposed export restrictions on gallium and germanium, two critical metals used in semiconductor and military applications, impacting global supply chains.
+Workforce and Knowledge Transfer Restrictions:
+By preventing its engineers and skilled technicians from working in foreign manufacturing hubs, China restricts the transfer of tacit knowledge to competitors.
+: Chinese engineers working at Foxconn’s Indian facilities were recalled, creating a skills gap that affected Apple’s production capacity.
+Disrupting Supply Chains to Gain Geopolitical Leverage:
+China can manipulate logistics, trade policies, and export restrictions to pressure countries and corporations dependent on its supply chains.
+: During the U.S.-China trade war, China imposed export controls on key components for companies like Huawei and Apple, demonstrating its leverage in global electronics production.
+Deep Integration into Global Manufacturing Networks:
+Through initiatives like the Belt and Road Initiative (BRI) and heavy investments in industrial zones, China ensures that multinational corporations remain reliant on its supply chains.
+: Despite U.S. sanctions, companies like Tesla and Apple continue significant operations in China due to its well-integrated and cost-effective supply chain ecosystem.
+What are the risks and vulnerabilities posed by China’s control over e-supply chains?
+Disruptions to Critical Industries:
+China’s dominance in semiconductor manufacturing, rare earth metals, and electronics components makes other nations vulnerable to supply chain shocks.
+India depends on China for over 75% of electronic components, affecting smartphone and telecom industries. The 2020 global chip shortage, worsened by China’s export controls, severely impacted industries like automobiles, defence, and consumer electronics.
+Geopolitical and Economic Coercion:
+China can weaponize supply chains to exert diplomatic pressure or punish countries for political disagreements.
+Post-Galwan clash (2020), India faced delays in customs clearance for Chinese goods, disrupting industries reliant on imports.
+Lithuania faced trade restrictions in 2021 after allowing a Taiwan representative office, showing how China uses supply chains as leverage.
+Vulnerability in Strategic Sectors (Telecom, Defense, Energy):
+Dependence on Chinese technology in strategic sectors poses risks related to cybersecurity, espionage, and sabotage.
+India banned Huawei and ZTE from 5G trials due to concerns over data security. The U.S. and EU have imposed restrictions on Chinese telecom firms citing national security threats.
+Supply Chain Manipulation and Price Volatility:
+China’s control over rare earth metals, batteries, and semiconductors allows it to manipulate prices and supply.
+Despite efforts to develop local lithium-ion battery production, India still relies on China for key materials, affecting the EV sector. In 2023, China restricted gallium and germanium exports, leading to price spikes for these critical semiconductor materials.
+Stifling Competitor Growth and Technological Dependence:
+China restricts the transfer of critical machinery and skilled labor to competitors to maintain its manufacturing edge.
+China’s ban on engineers working in Indian Foxconn plants and export curbs on key equipment have slowed India’s smartphone manufacturing expansion. U.S. firms like Apple, Tesla, and Intel remain dependent on China’s supply chains, despite attempts at diversification.
+How can countries and companies safeguard themselves from China’s influence over e-supply chains? (Way Forward)
+Supply Chain Diversification (China Plus One Strategy):
+Countries and companies should expand production to alternative locations to reduce reliance on China.
+is shifting iPhone production to
+India, Vietnam, and Mexico
+to mitigate risks from China.
+has passed the
+CHIPS Act (2022)
+to boost domestic semiconductor manufacturing and reduce reliance on Chinese supply chains.
+Strengthening Domestic Manufacturing and R&D:
+Governments should invest in local industries, incentivize component manufacturing, and build advanced R&D ecosystems.
+India’s Production-Linked Incentive (PLI) Scheme
+supports domestic electronics and semiconductor manufacturing.
+Japan and South Korea
+are increasing investments in semiconductor fabs to reduce dependence on China.
+Forming Strategic Trade Alliances and Technology Partnerships:
+Nations should collaborate on trade agreements and secure alternative sources for critical materials and technology.
+India, the U.S., Japan, and Taiwan
+are working together under the
+Chip 4 Alliance
+to strengthen the semiconductor supply chain. The
+EU-U.S. Trade and Technology Council (TTC)
+is securing alternative semiconductor and rare earth suppliers.
+**********Panchayat Devolution Index report released
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Panchayati Raj-related issues;
+Why in the News?
+The Ministry of Panchayati Raj released a report in Delhi on Thursday about how powers are given to Panchayats in different states. The report ranks states and UTs based on six key areas.
+What are the Key Highlights of the Report?
+Devolution Index:
+The report ranks states and Union Territories (UTs) based on six dimensions: Framework, Functions, Finances, Functionaries, Capacity Enhancement, and Accountability.
+The overall devolution has increased from 39.9% to 43.9% between 2013-14 and 2021-22.
+Top Performing States:
+The top five states in the devolution ranking are Karnataka, Kerala, Tamil Nadu, Maharashtra, and Uttar Pradesh. Notably, Uttar Pradesh improved its rank significantly due to enhanced accountability measures.
+made a significant jump from
+15th to 5th place
+, highlighting governance reforms and accountability measures.
+Capacity Building & Infrastructure Growth:
+Rashtriya Gram Swaraj Abhiyan (RGSA)
+played a crucial role in increasing the capacity enhancement index from
+44% to 54.6%
+, along with improved Panchayat infrastructure (office buildings, internet connectivity, etc.).
+Significant Progress in Functionaries:
+The percentage of functionaries assigned to Panchayats increased from
+39.6% to 50.9%
+, indicating efforts in recruitment and personnel strengthening.
+What are the Major concerns in effective Devolution?
+Election Management:
+State Election Commissions (SECs) sometimes consult with state governments on election dates, leading to potential delays or political manipulation.
+Example:
+In Maharashtra, Panchayat elections were delayed in 2022 due to the state government’s interference
+Non-centrality of Panchayats:
+Panchayats operate in subjects designated for them in the eleventh schedule but face challenges that undermine their constitutional mandate.
+In many states, rural development schemes like PMGSY (Pradhan Mantri Gram Sadak Yojana) are implemented by state departments rather than Gram Panchayats.
+Inadequate devolution of functions, funds, and functionaries:
+The devolution of functions, funds, and functionaries to PRIs has been inadequate, limiting their ability to effectively discharge their responsibilities.
+In Jharkhand and Odisha, despite having legal provisions for devolution, Panchayats have limited control over education, health, and agriculture schemes.
+Lack of financial autonomy:
+PRIs don’t have enough financial independence since they mostly depend on irregular and inadequate grants from state governments.
+In Uttar Pradesh, Gram Panchayats rely heavily on state grants for executing local projects.
+Lack of Support Staff:
+There is a severe lack of support staff and personnel in panchayats, such as secretaries, junior engineers, computer operators, and data entry operators, which affects their functioning and delivery of services by them.
+In Bihar, several Gram Panchayats function with just one Panchayat Secretary managing multiple villages.
+What are the recommendations in the report?
+Comprehensive Curriculum Development:
+Implementing a
+two-year course in Local Public Service Management
+that covers essential areas such as public systems, financial management, personnel management, law, and e-governance for Panchayat functionaries
+Enhance Capacity Building & Digital Governance:
+Improve digital infrastructure, training programs, and data-driven governance.
+Telangana’s success in
+highlights the importance of institutional strengthening for effective governance.
+Ensure Greater Transparency & Accountability:
+real-time financial monitoring
+, social audits, and grievance redressal systems.
+Uttar Pradesh’s leap in rankings is attributed to
+anti-corruption measures
+and a robust transparency framework.
+Way forward:
+Strengthening Institutional Autonomy & Devolution:
+Ensure full devolution of functions, funds, and functionaries to Panchayati Raj Institutions (PRIs) with legal safeguards to prevent state interference.
+Karnataka’s success in decentralized governance through direct fund transfers to Gram Panchayats.
+Capacity Building & Technology Integration:
+Expand digital infrastructure, conduct regular training for PRI members, and adopt real-time monitoring for transparency.
+Telangana’s effective use of digital governance and capacity-building initiatives under the Rashtriya Gram Swaraj Abhiyan (RGSA).
+Mains PYQ:
+Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing developmental projects?
+(UPSC IAS/2018)
+**********India to be part of UN’s 63rd session of Commission for Social Development 2025
+IOCR
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Social Cohesion; Solidarity;
+Why in the News?
+India participated in the 63rd session of the Commission for Social Development (CSoCD) from February 10 to 14, 2025, in New York, USA. The Indian delegation was led by Smt. Savitri Thakur, Minister of State for Women and Child Development.
+What is Social cohesion?
+refers to the
+strength of relationships, trust, and sense of belonging among individuals and groups within a society
+It ensures that people work together harmoniously, respect diversity, and actively contribute to the well-being of the community.
+What are the Dimensions of the Social Cohesion?
+Social Inclusion & Equity:
+Ensures equal access to opportunities, resources, and rights for all individuals, reducing discrimination and marginalization.
+Example
+: India’s JAM Trinity (Jan Dhan, Aadhaar, Mobile) has enabled financial inclusion for disadvantaged communities, particularly women and rural populations.
+Trust in Institutions & Social Capital:
+Building confidence in governance, law enforcement, and civic institutions to enhance cooperation and stability.
+: Sweden’s transparent governance and welfare policies result in high public trust in government institutions.
+Participation & Civic Engagement:
+Encouraging individuals and communities to actively engage in decision-making and democratic processes.
+: Rwanda’s high female political representation (over 60% in Parliament) fosters inclusive and equitable policymaking.
+Solidarity & Shared Identity:
+Promoting unity while respecting cultural diversity and fostering a common sense of belonging.
+: Canada’s multicultural policies encourage immigrant integration while maintaining cultural heritage.
+Economic Inclusion & Opportunity:
+Providing equal access to economic resources, employment, and skill development to ensure upward mobility.
+: Germany’s dual vocational education system equips young people with job-ready skills, reducing unemployment and income inequality.
+What is the virtuous cycle?
+is a
+positive, self-reinforcing loop
+where one beneficial action leads to another, creating a continuous cycle of improvement and progress.
+It is the opposite of a
+vicious cycle
+, which perpetuates negative outcomes.
+What are the roles of Social Cohesion in the Virtuous cycle?
+Promotes Inclusive Economic Growth:
+Social cohesion ensures equal access to economic opportunities, reducing disparities and fostering shared prosperity.
+: In Germany, strong social policies and labor rights have contributed to stable economic growth and low unemployment rates.
+Enhances Trust in Institutions and Governance:
+When citizens feel included and represented, they trust public institutions, leading to political stability and effective governance.
+: Scandinavian countries like Sweden and Norway have high levels of trust in governance due to inclusive decision-making and welfare policies.
+Encourages Social Mobility and Equal Opportunities:
+A cohesive society provides fair access to education, healthcare, and social protection, enabling upward mobility for all.
+: Singapore’s education system focuses on meritocracy, ensuring students from all backgrounds have access to quality education and career opportunities.
+Strengthens Community Participation and Civic Engagement:
+Social cohesion encourages people to engage in local governance, volunteerism, and community development initiatives.
+: Japan’s neighborhood associations play a crucial role in disaster response, fostering collective responsibility and mutual support.
+Reduces Social Conflicts and Crime:
+By addressing inequalities and fostering a sense of belonging, social cohesion minimizes tensions and crime rates.
+: New Zealand’s restorative justice programs emphasize reconciliation and community involvement, reducing recidivism rates.
+What are the Key Recommendations to promote Social Cohesion? (Way forward)
+Inclusive Policies and Equal Opportunities:
+Ensure access to quality education, healthcare, and employment for all, reducing social and economic disparities.
+Example:
+Finland’s education system
+provides free, high-quality education, ensuring equal opportunities for all children, regardless of socioeconomic background.
+Community Engagement and Trust Building:
+Promote civic participation, intergroup dialogue, and local governance to strengthen social bonds and mutual respect.
+South Africa’s Truth and Reconciliation Commission (TRC)
+helped heal racial divides by addressing historical injustices through public dialogue.
+Economic and Social Safety Nets:
+Implement strong social protection systems like universal healthcare, unemployment benefits, and targeted welfare programs.
+Brazil’s Bolsa Família program
+reduced poverty and inequality by providing conditional cash transfers to low-income families, improving education and health outcomes.
+Mains PYQ:
+An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to ensure performance, accountability and ethical conduct. Elaborate.
+(UPSC IAS/2021)
+**********Dhokra Artwork
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Prime Minister Narendra Modi has gifted a Dhokra (or Dokra) artwork to French President Emmanuel Macron.
+About Dhokra Artwork
+Dhokra Art is an ancient
+metal-casting craft
+from India, primarily practiced by the Dhokra Damar tribes.
+It uses the
+lost-wax casting technique
+, where a wax model is made, coated in clay, and molten metal is poured into the mold after the wax melts.
+This technique has been
+in use for over 4,000 years
+, with the earliest known artifact being the
+dancing girl
+Mohenjo-Daro
+Dhokra is practiced in
+Odisha, West Bengal, Jharkhand, Chhattisgarh, and Telangana
+, with distinct regional styles.
+In 2018,
+Adilabad Dokra
+received the GI tag for its distinct style.
+Features of Dhokra Art:
+Primitive
+: The designs are rustic and simplistic, often featuring animals, religious figures, and tribal motifs.
+Seamless
+: Dhokra pieces are crafted as a single unit without joints, providing a unique and smooth finish.
+Long Crafting Time
+: Each figurine can take up to a month to complete due to the intricate processes involved.
+Non-ferrous Metal
+: Brass and copper are mainly used in Dhokra Art due to their strength and malleability.
+Casting Types
+Solid Casting
+: Common in Southern India, uses solid wax.
+Hollow Casting
+: Predominant in Central and Eastern India, uses a clay core.
+**********Sṛjanam- India’s first indigenous Automated Bio Medical Waste Treatment Plant
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Union Ministry of Science & Technology has launched
+India’s first indigenous Automated Biomedical Waste Treatment Plant
+, named “Sṛjanam,” at AIIMS, New Delhi.
+About Sṛjanam
+Sṛjanam is India’s first
+indigenously
+developed
+Automated Biomedical Waste Treatment Rig,
+designed by
+CSIR-NIIST
+, Thiruvananthapuram.
+It provides a sustainable,
+non-incineration-based solution
+for biomedical waste disposal, aligning with India’s Waste to Wealth vision.
+Key Features:
+Eco-Friendly & Non-Incineration-Based:
+Eliminates the need for incineration, reducing toxic emissions.
+High-Efficiency Pathogen Elimination:
+Disinfects blood, urine, sputum, and lab disposables, with third-party validated antimicrobial action.
+Safe & Fully Automated
+: Minimizes human exposure, reducing the risk of infections and spills.
+Capacity & Scalability:
+Processes 400 kg of biomedical waste daily, with 10 kg/day degradable waste capacity in phase one.
+Odor Neutralization:
+Eliminates foul smells, ensuring safer surroundings.
+Supports Circular Economy:
+Enhances waste segregation and recyclability, reducing landfill burden.
+PYQ:
+[2019]
+In India, ‘extended producer responsibility’ was introduced as an important feature in which of the following?
+(a) The Bio-medical Waste (Management and Handling) Rules, 1998
+(b) The Recycled Plastic (Manufacturing and Usage) Rules, 1999
+(c) The e-Waste (Management and Handling) Rules, 2011
+(d) The Food Safety and Standard Regulations, 2011
+**********Scientists discover ‘Einstein Ring’
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The European Space Agency’s (ESA)
+Euclid Space Telescope
+has captured a rare Einstein Ring around a galaxy nearly 590 million light-years away from Earth.
+What is an Einstein Ring?
+An Einstein Ring is a
+circular ring of light
+caused by
+gravitational lensing
+, a phenomenon predicted by
+Einstein’s General Theory of Relativity
+It occurs when a
+massive celestial object (like a galaxy) bends and magnifies light from a more distant background galaxy
+that lies directly behind it.
+The recent discovery by
+ESA’s Euclid telescope
+identified an
+Einstein Ring around NGC 6505, located 590 million light-years away
+, acting as a lens for a distant
+galaxy 4.42 billion light-years away
+Features of an Einstein Ring:
+Perfect circular shape
+(only if source, lens, and observer align precisely).
+Example of strong gravitational lensing
+, distorting background light.
+Extremely rare
+(found in
+less than 1% of galaxies
+Not visible to the naked eye
+, observed only with advanced space telescopes like
+Euclid or Hubble
+Significance of the Discovery:
+Reveals Dark Matter:
+Helps indirectly map
+dark matter
+, which makes up
+85% of the universe
+Magnifies Hidden Galaxies:
+Makes
+faint, distant galaxies visible
+for study.
+Measures Universe’s Expansion:
+Tracks how
+light stretches over time
+, refining
+cosmological models
+Confirms Einstein’s Theory:
+Proves
+light bends in curved space-time
+, supporting
+gravitational lensing theory
+Demonstrates Euclid’s Capabilities:
+Shows Euclid’s
+high-resolution potential
+, promising
+more discoveries
+PYQ:
+[2018]
+Consider the following phenomena:
+Light is affected by gravity.
+The Universe is constantly expanding.
+Matter warps its surrounding space-time.
+Which of the above is/are the prediction/predictions of Albert Einstein’s General Theory of Relativity, often discussed in media?
+(a) 1 and 2 only
+(b) 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********Prime Minister Dhan-Dhaanya Krishi Yojana (PMDKY)
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Finance Minister while presenting the Union Budget announced the launch of the Prime Minister Dhan-Dhaanya Krishi Yojana (PMDKY).
+About the
+Prime Minister Dhan-Dhaanya Krishi Yojana (PMDKY):
+The PMDKY aims
+to enhance agricultural productivity, crop diversification, storage infrastructure, irrigation, and credit access.
+Inspired by the
+Aspirational Districts Programme (ADP)
+, it will focus on
+100 underperforming agricultural districts
+in partnership with state governments.
+Key Features
+Identifies 100 districts
+with low productivity, moderate cropping intensity, and below-average credit access.
+Develops
+panchayat/block-level storage
+and expands irrigation coverage.
+Ensures
+affordable short-term & long-term loans
+for farmers.
+Uses
+data-driven governance
+& district rankings.
+Structural Mandate:
+Implementation:
+Jointly executed by Central & State Governments.
+Funding
+: Drawn from existing schemes under the Ministry of Agriculture & Farmers’ Welfare and the Ministry of Fisheries, Animal Husbandry & Dairying.
+Evaluation
+: Assessed based on yield improvements, credit flow, and irrigation expansion.
+PYQ:
+[2015]
+‘Pradhan Mantri Jan-Dhan Yojana’ has been launched for:
+(a) providing housing loan to poor people at cheaper interest rates
+(b) promoting women’s Self-Help Groups in backward areas
+(c) promoting financial inclusion in the country
+(d) providing financial help to the marginalized communities
+**********

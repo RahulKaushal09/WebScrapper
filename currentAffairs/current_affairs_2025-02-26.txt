@@ -1,0 +1,1795 @@
+Palaeognath Birds
+A new study by scientists from the University of Bristol in the United Kingdom has found that Palaeognath Birds like Emus and rheas are not exactly ‘dumb’ as assumed to be.
+About Palaeognath Birds:
+These are grouped together on the basis of their
+distinctive palate morphology
+, from which they receive their name ("old jaw").
+Most of the birds classified in the
+Palaeognathae are also flightless
+, but not all flightless birds are classified in the Palaeognathae.
+These 50 bird species are very different from the other birds on the planet.
+They are the
+largest and heaviest avian specimens
+on Earth and may represent some of the first birds to evolve from dinosaurs.
+These birds are
+classified into two groups:
+Tinamiformes:
+These species have a keeled
+sternum and can fly
+(weakly), which include the tinamous of South and Central America; and the
+Ratitae, or ratite birds:
+They have flat sterna and reduced wings, and
+cannot fly at all.
+Examples:
+The African ostrich, the rhea of South America the Australian emu and New Guinea cassowary; and the kiwi of New Zealand.
+Click to View More
+Source :
+Emus and rheas not as ‘dumb’ as previously thought, finds study
+Science & Tech
+**********NAKSHA Scheme To Update Urban Land Records
+Why in news?
+The Union Rural Development Minister, Shivraj Singh Chouhan, launched the NAKSHA initiative (
+tional geospatial
+nowledge-based land
+urvey of urban
+bitations).
+What’s in today’s article?
+NAKSHA: A City Survey Initiative
+NAKSHA: Addressing Urban Land Record Challenges
+NAKSHA: Scope, Funding, and Implementation
+How the Survey Will Be Conducted
+Conclusion
+NAKSHA is a city survey initiative under the Digital India Land Records Modernization Programme (DILRMP).
+It aims to modernize urban land records and boost transparency in property ownership and transactions.
+It is being implemented by the
+Department of Land Resources
+(DoLR),
+Ministry of Rural Development
+Scope and Implementation
+Focuses on mapping towns and cities for better land governance.
+Launched as a pilot project across 152 urban local bodies in 26 states.
+Applicable to cities with an area < 35 sq km and population < 2 lakhs.
+The pilot phase will be completed within a year.
+Objectives and Benefits
+Creates a comprehensive geospatial database for urban land records.
+Uses aerial and field surveys integrated with GIS technology.
+Enhances land governance, streamlines property records, and supports urban planning.
+Improves decision-making, ensures efficient land use, and facilitates smoother property transactions.
+Through NAKSHA and the National Geospatial Mission, the government aims to enhance urban planning, governance, and infrastructure development.
+Need for Urban Land Record Updation
+While rural land records have improved, many cities lack proper maps even today.
+Except for Tamil Nadu, Maharashtra, Gujarat, and Goa, most states have outdated or unstructured land records.
+Poor land records lead to inefficiencies in governance and taxation.
+Government Initiative and Budget Announcements
+First proposed in the Union Budget 2024, focusing on GIS mapping of urban land records.
+Objectives outlined in Budget 2024
+Digitization of urban land records.
+IT-based system for property administration and tax management.
+Strengthening financial position of urban local bodies.
+Reaffirmed in Budget 2025, emphasizing
+Urban sector reforms in governance, municipal services, and planning.
+Launch of the National Geospatial Mission under PM Gati Shakti to modernize land records and infrastructure planning.
+Coverage and Scale
+India has 7,933 towns covering 1.02 lakh sq km (Census 2011).
+NAKSHA will cover 4,142.63 sq km in its initial phase.
+After the pilot, the government plans to expand it to 4,912 urban local bodies.
+Funding:
+100% centrally funded initiative.
+Expected Benefits
+Provides comprehensive digital urban land records.
+Reduces land disputes and facilitates faster urban planning.
+Improves property tax collection and simplifies transactions.
+Enhances access to credit by streamlining ownership records.
+Use of Drone Technology
+Aerial photography using two types of cameras:
+Simple cameras.
+Oblique angle cameras (5 cameras with LiDAR sensors).
+Mounted on drones with 5 cm resolution, much sharper than satellite imagery.
+Three-Stage Survey Process
+Drone Survey & Data Collection
+Select survey area and create a flight plan.
+Drones capture images, from which data is extracted.
+Field Survey & Data Verification
+Ground verification of property tax, ownership, and registration records.
+2D/3D models are created, and draft land ownership details are published.
+Public Review & Finalization
+Claims and objections are reviewed.
+Grievance redressal is conducted.
+Final maps are published.
+NAKSHA aims to modernize urban land records, making them accurate, transparent, and efficient for governance and development.
+NAKSHA Scheme To Update Urban Land Records.pdf
+( Size:  1000.5 KB  )
+Click to View More
+Polity & Governance
+**********Tribal Cooperative Marketing Development Federation of India Limited (TRIFED)
+In a significant move to promote tribal entrepreneurship and economic inclusion, TRIFED recently signed MoUs with Reliance Retail, HCL Foundation, and Torajamelo Indonesia.
+About TRIFED:
+It is an organization under the
+Ministry of Tribal Affairs
+, Government of India, dedicated to the socio-economic development of tribal communities.
+It was
+established in 1987 under the Multi-State Cooperative Societies Act,
+1984, by the Government of India as a national-level cooperative body.
+Mandate
+: Bringing about the
+socio-economic development of the tribals
+of the country by
+institutionalizing the trade of Minor Forest Produce
+(MFP) &
+Surplus Agricultural Produce
+(SAP) collected/cultivated by them.
+Objectives:
+To act as a
+facilitator and service provider
+for the tribal community t
+o uplift production
+Provide training
+to enhance artistic skills with modern technology to meet the requirements of the global market
+To increase the promotion of tribal art and crafts for a stable livelihood
+identify target groups
+to monitor and evaluate the process and activities and provide input to the Ministry
+The approach involves
+capacity building
+of the tribal people through
+sensitization
+formation of Self Help Groups
+(SHGs), and imparting training to them for undertaking a particular activity,
+exploring marketing possibilities
+in national as well as international markets, creating opportunities for marketing tribal products on a sustainable basis, and
+creating a brand.
+Retail Marketing:
+TRIFED has been doing the retail marketing of tribal products
+under the brand name of TRIBES INDIA.
+TRIFED promotes and creates a sustainable market through
+retail outlets, exhibitions such as Aadishilp, Aadichitra, OCTAVE
+;
+international fairs,
+and e-marketing.
+TRIFED has also been
+entrusted by the Govt. of India to implement its
+proposed
+Minimum Support Price Scheme for Minor Forest Produce.
+Click to View More
+Source :
+TRIFED partners with Reliance Retail, HCL Foundation, and Torajamelo for tribal empowerment
+Economy
+**********Qualified Institutional Placement (QIP)
+Shareholders of the Indian Renewable Energy Development Agency Ltd. (IREDA) recently approved the company’s proposal to raise up to ₹5,000 crore through the Qualified Institutional Placement (QIP) of equity shares in one or multiple tranches.
+About Qualified Institutional Placement (QIP):
+It is a
+capital-raising mechanism
+through which public
+listed companies
+use to
+issue equity shares
+or convertible securities exclusively to
+Qualified Institutional Buyers
+(QIBs).
+QIBs include mutual funds, venture capital funds, pension funds, and other institutional investors.
+A QIP is, at its core, a way for listed companies to raise capital
+without having to submit legal paperwork
+to market regulators.
+common in India
+Southeast Asian countries.
+It provides a
+quicker and cost-effective
+alternative to traditional public offerings (IPOs and FPOs) while
+ensuring minimal dilution of management control.
+Why was QIP introduced in India?
+Earlier
+, since raising finance in the domestic market involved a lot of complications,
+Indian companies used to raise funds from the overseas markets.
+So to prevent this,
+SEBI in 2006 introduced the QIP
+process so as to m
+ake the raising of funds easier in the domestic market.
+QIP allows companies to raise funds domestically,
+reducing dependence on foreign investors
+through instruments like American Depository Receipts (ADRs), Global Depository Receipts (GDRs), or Foreign Currency Convertible Bonds (FCCBs).
+Click to View More
+Source :
+IREDA shareholders give nod to ₹5,000-crore fund-raise plan via QIP of equity shares
+Economy
+**********Thames River
+A new study has learned that climate change is increasing the potential for algal blooms in the United Kingdom's River Thames despite a four-decade-long decline in phosphorus loads.
+About Thames River:
+It is a
+346-km
+river that flows through
+southern England.
+It is the
+longest river in England
+and the
+second longest in the United Kingdom
+,
+after the River Severn.
+Course:
+Its source is at
+Thames Head
+, near Kemble in the Cotswold Hills, Gloucestershire County.
+flows into
+North Sea via the Thames Estuary.
+The
+Nore is the sandbank
+that marks the mouth of the Thames Estuary and the
+confluence point of
+Thames and the North Sea.
+The Thames’ basin covers an area of approximately 16,130
+sq.km
+The river passes numerous
+popular cities
+along its way, such as
+London, Reading,
+Hendley-on-Thomas,
+Windsor and Oxford
+, where it is also
+called the Isis River.
+It provides
+two-thirds of London’s drinking water.
+It has been a
+vital transportation route since ancient times,
+facilitating trade and commerce between London and other parts of England.
+There are
+16 bridges
+that cross the River Thames in
+Greater London alone
+, most prominently the
+Golden Jubilee Bridges
+and the Millennium Bridges for pedestrians.
+Main Tributaries:
+Lea, Leach, Churn, Coln, Windrush, Kennet, Evenlode, Ock, and Loddon.
+Click to View More
+Source :
+River Thames study: Climate change limits cleanup efforts by accelerating algal growth
+Geography
+**********High Court's Verdict on Nighttime Arrests of Women
+Why in news?
+The Madurai Bench of the Madras High Court ruled that the provision in the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, restricting the arrest of women at night is directory, not mandatory.
+While a single Judge deemed an 8 PM arrest a violation of Section 46(4) of the CrPC, a two-Judge Bench later held that the provision was not absolute.
+What’s in today’s article?
+Safeguards for Arresting Women at Night
+Madras High Court’s Ruling on Section 46(4) of CrPC
+Section 46(4) of CrPC – Background
+Supreme Court’s View on Arresting Women at Night
+Two safeguards are provided under
+Section 43(5) of BNSS
+(which corresponds to Section
+) for the arrest of a woman by the police.
+Restriction on Arrest Timing
+No arrest of a woman shall be made after sunset and before sunrise, except in exceptional circumstances.
+Magistrate’s Permission Requirement
+In exceptional circumstances, a woman police officer must obtain prior written permission from the jurisdictional magistrate before making the arrest.
+Protection Against Physical Contact
+The arresting officer must not touch the woman unless it is a woman police officer or circumstances require it.
+Lack of Definition for ‘Exceptional Circumstances’
+Section 46(4) of CrPC ensures the safety of women
+but does not explicitly define what qualifies as an exceptional situation
+, leading to ambiguity in its application.
+Non-Mandatory Nature of the Provision
+The Court observed that Section 46(4) of CrPC does not specify consequences for non-compliance, indicating that it is directory, not mandatory.
+Public Duty of Police Officers
+Arresting officers perform a public duty, and strict adherence to procedure should not hinder law enforcement.
+Practical Challenges in Heinous Cases
+In cases of serious crimes committed by women at night, immediate arrest may be necessary, especially if a magistrate is unavailable.
+Delayed action could lead to the accused escaping, which may compromise public interest.
+Section 46(4) of CrPC - Background
+135th Law Commission Report (1989)
+Recommended that women should not be arrested after sunset and before sunrise.
+In exceptional cases, prior permission from the immediate superior officer was required.
+In urgent cases, an arrest report with reasons had to be submitted to the superior officer and the magistrate.
+154th Law Commission Report (1996)
+Reaffirmed the recommendations of the 135th report regarding the arrest of women.
+Incorporation into CrPC (2005)
+Based on these recommendations, Section 46(4) was added to the Code of Criminal Procedure (CrPC) with modifications to enhance safeguards for women.
+Earlier, the Nagpur Bench of the Bombay High Court directed that no woman should be detained without a lady constable and never after sunset or before sunrise.
+The Supreme Court noted that strict adherence to this rule might cause practical difficulties in certain situations.
+Impact of the Madras HC Ruling
+Provision is Directory, Not Mandatory
+The Court clarified that Section 46(4) of CrPC/43(5) of BNSS is directory, meaning non-compliance does not automatically make an arrest illegal.
+Obligation to Justify Non-Compliance
+While failure to follow the provision does not invalidate an arrest, the arresting officer must provide a valid explanation for not complying with the safeguards.
+Need for Clear Guidelines
+The Court directed police authorities to issue guidelines defining what constitutes “exceptional circumstances” to ensure the provision is not misused or ignored.
+newspaper.pdf
+( Size:  264.2 KB  )
+Click to View More
+Polity & Governance
+**********INS Tamal
+The Indian Navy crew that will operate Tamal, the stealth frigate under construction in Russia, reached St. Petersburg recently in preparation for its commissioning.
+About INS Tamal:
+It is a state-of-the-art
+stealth guided missile frigate.
+It is an upgraded Krivak-III class frigate, and is part of a significant $2.5 billion
+deal between India and Russia
+four stealth frigates, two to be built in Russia
+and the other two to be manufactured at
+Goa Shipyard Limited
+INS Tushi
+l, the first of this, was
+commissioned
+into the Indian Navy
+in December 2024.
+will be the
+last warship to be commissioned outside India or imported.
+The country now designs and constructs its own warships.
+Following the delivery of INS Tamal, the Indian Navy will receive two additional frigates being constructed at Goa Shipyard Limited in India.
+Key Features of INS Tamal:
+It is designed for
+blue water operations,
+capable of engaging in various naval warfare dimensions, including
+air, surface, underwater and electronic warfare.
+It measures 125 meters in length and has a displacement of 3,900 tonnes, blending Russian design with Indian technology.
+Approximately
+26% of its components
+are sourced from
+Indian manufacturers
+Armament
+The frigate is equipped with a
+76mm Super Rapid Gun Mount (SRGM)
+, which enhances its naval artillery capabilities.
+Additionally, it has two Indigenous
+Triple Torpedo Launchers (ITTL)
+designed for 324mm torpedoes, allowing for effective anti-submarine warfare operations.
+Missile Systems
+: INS Tamal carries an array of missile systems, including
+BrahMos
+supersonic cruise missiles and vertically launched
+Shtil surface-to-air missiles,
+providing it with formidable offensive and defensive capabilities.
+Click to View More
+Source :
+Tamal, India’s last imported warship, likely to be commissioned in June
+Science & Tech
+**********What are Dwarf Galaxies?
+A team of scientists in the US, led by Indian-origin astrophysicist Raga Deepika Pucha, recently discovered the largest samples of intermediate-mass black holes and dwarf galaxies with active black holes.
+About Dwarf Galaxies:
+They are
+small galaxies
+that typically contain just a
+few billion stars
+, unlike
+their larger cousins
+, which can
+hold hundreds of billions.
+They are the
+most abundant type of galaxy
+in the universe but are
+difficult to detect
+due to their l
+ow luminosity, low mass,
+small size.
+They are most commonly
+found in galaxy clusters
+, often as
+companions to larger galaxies.
+Our Milky Way galaxy is orbited by more than 20 dwarf galaxies.
+They are thought to have been
+created by gravitational forces
+in the early stages of the creation of these larger galaxies,
+or as a result of collisions between galaxies,
+forming from streams of material and dark matter ejected from the parent galaxies.
+Because most of them come from galaxy collisions, many dwarf galaxies are
+grouped into irregular shapes.
+However,
+some dwarf galaxies
+have spiral arms or
+look like mini-elliptical galaxies.
+Click to View More
+Source :
+Andhra Pradesh-origin scientist’s team opens door on black holes
+Science & Tech
+**********SWAYATT Initiative
+Recently, the Government e Marketplace (GeM) commemorated six years of Startups, Women & Youth Advantage through eTransactions (SWAYATT) initiative at New Delhi
+About SWAYATT Initiative:
+It was launched on 19th
+February, 2019.
+It was conceptualised with a clear objective of invigorating
+participation of women-led enterprises and youth in public procurement.
+SWAYATT is the GeM portal’s commitment to enhance ease of doing business and establish direct market linkages to annual public procurement for startups
+, women entrepreneurs, Micro & Small Enterprises (MSEs), Self Help Groups
+(SHGs) and youth, especially those from backward sections of the society.
+It is rooted in GeM’s foundational
+pillar of social inclusion.
+It is an
+online market platform
+that was set up in
+2016
+to facilitate the procurement of goods and services by government ministries, departments, public sector undertakings (PSU) etc.
+It has been envisaged as the
+National Procurement Portal of India.
+This portal was developed by the
+Directorate General of Supplies and Disposals
+(Ministry of Commerce and Industry) with technical support from the
+National e-governance Division
+(Ministry of Electronic and Information Technology).
+It is a completely paperless, cashless and system-driven e-marketplace that enables procurement of common-use goods and services with minimal human interface.
+Click to View More
+Source :
+SWAYATT initiative on GeM celebrates 6 years of transformative impact
+Economy
+**********Kaziranga National Park
+Recently, the External Affairs minister of India and Heads of missions of 61 countries took elephant and jeep safari rides in the Kaziranga National Park.
+About Kaziranga National Park:
+It is situated in
+It is the single largest undisturbed and representative area in the Brahmaputra Valley floodplain.
+In 1985, the park was
+declared a World Heritage Site by UNESCO.
+Terrain:
+It is of sheer forest, tall elephant grass, rugged reeds, marshes, and shallow pools.
+Rivers:
+The River
+Diffalu
+, a tributary of the Brahmaputra, flows through the National Park while another tributary,
+Moradifalu,
+flows along its southern boundary.
+Flora:
+It is primarily famous for its dense and
+tall elephant grasses
+intermixed with small swamplands. It also includes an abundant cover of water lilies, water hyacinths and lotus.
+Fauna:
+Many endangered and threatened species like Rhino, Tiger, Eastern swamp deer, Elephant, Buffalo, Hoolock gibbon, Capped langur and Gangetic River dolphin are commonly found in the habitat.
+It is inhabited by the world's largest population of
+one-horned rhinoceroses
+, as well as many mammals.
+Click to View More
+Source :
+Jaishankar, Heads of Missions of 61 countries visit Kaziranga National Park
+Environment
+**********African-Asian Rural Development Organization
+Recently, 21st African-Asian Rural Development Organization (AARDO) concluded and reaffirmed that development is strongest when rooted in community, driven by local knowledge, technology and south-south cooperation.
+About African-Asian Rural Development Organization:
+It is an autonomous
+inter-governmental Organization
+comprising country governments of
+Africa and Asia
+which was
+established in 1962.
+The organization was set up with a view to promote coordinated efforts, exchange of experiences and cooperative action for furthering the
+objectives of development of the rural areas.
+The membership of the organization is
+open to all countries of the Afro-Asian region
+provided that
+it is a full or associate member of the United Nations
+or any of its specialised agencies, organisations and foundations concerned with the development of rural communities.
+Member countries:
+Currently it comprises 32 countries of Africa and Asia as full members and 3 associate members.
+Functions:
+To collaborate
+with the appropriate
+international and regional organizations,
+including UN agencies, the national bodies, governmental or non-governmental
+organize and facilitate
+the conduct of international, regional and in-country training programmes to strengthen the institutional capacity of Afro-Asian member countries in
+sustainable agriculture and rural development
+initiate research and action research studies
+of specific or common interest and disseminate disaggregated data/statistics and information to member countries
+provide technical and financial support
+to its member countries to undertake pilot projects for experimentation and replication
+It enjoys
+observer status
+with international organisations like
+Food and Agriculture Organization
+(FAO),
+International Fund for Agricultural Development
+(IFAD),
+United Nations Conference on Trade and Development
+(UNCTAD),
+United Nations Educational, Scientific and Cultural Organization
+(UNESCO),
+United Nations Development Programme
+(UNDP).
+Headquarters:
+New Delhi, India
+Click to View More
+Source :
+AARDO To Ensure Develoment Reaches To Remote Villages Of Asia-Africa
+International Relations
+**********PUNCH Mission
+NASA is gearing up for a new and first-of-its-kind solar mission called PUNCH mission that will closely observe the solar atmosphere.
+About PUNCH Mission:
+The
+Polarimetry to Unify the Corona and Heliosphere
+(PUNCH) mission will be launched by SpaceX .
+Components of PUNCH Mission:
+It will be a
+constellation of four
+,
+suitcase-sized satellites
+each weighing about 64 kg sent to
+the Low Earth Orbit
+(LEO).
+It will have
+three Wide Field Imagers
+(WFI) and one
+Narrow Field Imager onboard
+. Once every four minutes, each of the four cameras will capture three raw images using different polarising filters.
+In addition, each camera will capture an unpolarised image once every eight minutes.
+Objectives of PUNCH Mission:
+It is the first time that a solar mission has been specifically designed to make use of the
+polarisation of light
+measure the corona and solar wind
+, that too, in 3D.
+It will provide scientists with new information which could lead to more accurate predictions about the arrival of space weather events on Earth and impact on humanity’s robotic explorers in space.
+polarised light
+using polarising filters
+, enabling scientists to look into the
+inner solar system.
+PUNCH’s four-camera setup will operate as a single, virtual instrument to generate large-scale imagery data, making it a unique information-loaded 3D image of the solar corona.
+Time Period:
+The expected mission life is
+two years
+Click to View More
+Source :
+Nasa’s PUNCH mission to image sun’s atmosphere, track origins of solar winds
+Science & Tech
+**********Time Use Survey 2024
+Why in the News?
+The Ministry of Statistics and Programme Implementation (MoSPI) has released the 2
+edition of the Time Use Survey.
+What’s in Today’s Article?
+Time Use Survey (Objectives, Key Findings, Implications, Future Outlook, etc.)
+Introduction:
+The Ministry of Statistics and Programme Implementation (MoSPI) recently released the
+Time Use Survey (TUS) 2024
+, highlighting significant trends in
+how Indians allocate their time to various activities, including employment, caregiving, and leisure
+The National Statistics Office (NSO), MoSPI conducted the first all-India Time Use Survey during January – December 2019.
+The present TUS conducted during January – December 2024 is the second such All-India Survey.
+A key takeaway from the report is the
+increase in women’s participation in employment-related activities
+, signalling a gradual shift from unpaid domestic work to paid jobs.
+This transformation is a crucial development in India’s labor market dynamics, reflecting economic and social changes.
+Key Findings of Time Use Survey 2024:
+Rise in Workforce Participation
+The participation of women in employment-related activities has increased from
+21.8% in 2019 to 25% in 2024
+For men, the figure has risen from
+70
+9% to 75%
+This data reflects an expanding economic role for women, although the gender gap in labor participation remains substantial.
+Decline in Time Spent on Unpaid Domestic Work
+Women spent
+305 minutes per day
+on unpaid domestic services in 2024, compared to
+315 minutes in 2019
+, indicating a transition toward paid work.
+Male members spent significantly less time on such tasks, averaging
+88 minutes per day
+Women’s Role in Caregiving
+41% of women aged 15-59
+participated in caregiving activities, compared to only
+4% of men
+in the same age group.
+137 minutes per day
+in caregiving, nearly double the
+75 minutes spent by men
+These figures highlight the continued burden of unpaid caregiving on women despite an increase in their economic participation.
+Implications of the Changing Work Dynamics:
+Economic Impact
+The shift of women from unpaid domestic duties to paid jobs has economic benefits, including:
+Higher household incomes:
+Additional earnings from female members contribute to family well-being
+Enhanced productivity:
+More women in the workforce can drive economic growth.
+Formalization of labor:
+More women entering paid jobs can lead to increased labor formalization and social security benefits.
+Social and Policy Implications
+Despite progress, gender disparities in workforce participation persist. The findings highlight the need for:
+Skill Development Programs:
+To help women transition into better-paying jobs.
+Flexible Work Policies:
+Including remote work and part-time options to balance professional and domestic responsibilities.
+Government Support:
+Policies like maternity benefits, affordable childcare, and financial incentives to encourage female workforce participation.
+Leisure and Cultural Activities:
+People aged 6 and above
+171 minutes per day
+on cultural, leisure, and mass-media activities.
+Men spent slightly more time on these activities (
+177 minutes
+) than women (
+164 minutes
+), reflecting the gendered division of time.
+Education and Self-Care:
+89.3% of children aged 6-14
+participated in learning activities, spending around
+413 minutes per day
+on studies.
+Self-care and maintenance
+accounted for an average of
+708 minutes per day
+across all age groups.
+Future Outlook and Recommendations:
+Strengthening Skill Training:
+Expanding vocational training programs for women in sectors like IT, healthcare, and entrepreneurship.
+Creating More Job Opportunities:
+Encouraging industries to hire more women through affirmative action.
+Enhancing Social Security Benefits:
+Strengthening maternity benefits, pension schemes, and workplace protections for female workers.
+Workplace Inclusivity Initiatives:
+Promoting gender-sensitive policies in both urban and rural employment sectors.
+Conclusion:
+underscores a positive shift toward greater female workforce participation in India. While progress has been made, gender disparities remain, necessitating
+policy interventions, skill development, and supportive work environments
+to ensure that more women can transition from unpaid domestic work to meaningful employment.
+A continued focus on gender equity in employment will play a crucial role in
+India’s economic growth and social progress
+newspaper.pdf
+( Size:  312.7 KB  )
+Click to View More
+Economics
+**********Ursula von der Leyen’s Visit to India - Revitalizing India-EU Strategic Partnership
+Context:
+The visit of
+European Commission President
+Ursula von der Leyen to India, along with the entire College of Commissioners (the European Cabinet), marks a significant moment in the
+evolving India-EU relationship
+.
+This visit gains additional importance against the
+backdrop of Donald Trump’s
+return to the White House, which has introduced
+fresh uncertainties in global geopolitics
+Geopolitical Context - The Trump Factor
+Trump’s policies are
+reshaping U.S. relations
+with Russia, China, and Europe.
+His approach
+prioritizes bilateral deals
+over multilateral commitments.
+Trump’s stance on
+Ukraine and NATO
+has left European nations in a vulnerable position.
+For example
+, Trump’s withdrawal of support for Ukraine has shocked Europe.
+His administration demands that
+European nations take full responsibility for their security.
+Washington’s ideological shift
+, including support for right-wing European parties (for example, Germany’s Alternative for Germany [AfD]), is
+reshaping internal EU politics
+India’s Strategic Calculations:
+India has historically managed global power shifts by
+engaging with multiple partners
+For example,
+India’s strategy (until now) for managing US policy volatility has involved maintaining its ties with Russia and engaging in Moscow-led coalitions such as BRICS.
+This means, India traditionally relied on
+balancing
+ties with Russia and the US.
+With Russia seeking direct negotiations with the U.S.,
+India must broaden its strategic partnerships
+and recalibrate its strategy amid shifting alliances.
+Europe emerges as a key player
+in India’s evolving foreign policy framework.
+India-EU Relations:
+A historical perspective:
+A strategic partnership
+was declared in
+2004
+but lost momentum by the early 2010s.
+Trade negotiations had stalled, and
+Brussels prioritized commercial ties with China
+India revived engagement in
+2016
+, leading to increased cooperation post-pandemic.
+Key initiatives include:
+India-EU Trade and Technology Council
+India-Middle East-Europe Economic Corridor (IMEC)
+Strengthened Indo-Pacific engagement
+Economic realities and challenges:
+India’s economic engagement with the EU remains
+underdeveloped
+despite clear synergies.
+India’s trade deficit with China
+continues to widen, nearing $100 billion annually.
+The global economic order, once assumed to be stable/irreversible, is being dismantled by Trump’s policies.
+India must push for economic reforms and
+reduce dependence on Chinese imports.
+Key Takeaways from Von der Leyen’s Visit:
+The visit provides Delhi with the perfect
+opportunity to revitalise
+its engagement with the EU -
+the world’s third-largest economy
+after the US and China.
+Strategic convergence
+between India and Europe can mitigate risks from U.S. unpredictability.
+A Free Trade Agreement (FTA)
+and increased bilateral trade remain priority areas.
+As the EU is a vital source of science, technology, advanced industry, capital, and a vast consumer market,
+strengthening cooperation
+in these areas is essential for India’s economic resilience.
+Way Ahead Towards Strengthening India-EU Ties:
+Despite their traditional emphasis on “strategic autonomy,” both Brussels and Delhi have
+long relied on their partnerships with the US
+as the anchor of their global strategies.
+While
+neither can afford to disengage
+from the US,
+both India and Europe must now do more to strengthen their ties
+in response to Trump’s unpredictable policies.
+As India
+recognised Europe’s strategic value
+in a multipolar world, the EU also moved to “
+de-risk
+” its economic ties with China and increase its engagement in the
+Indo-Pacific region.
+Conclusion:
+The changing global order demands
+a recalibrated Indian foreign policy.
+With Europe actively seeking to reduce economic dependence on China and India looking to diversify strategic partnerships, Ursula von der Leyen’s visit presents a timely opportunity to
+solidify India-EU ties.
+Strengthening this partnership will
+enhance India’s role in an increasingly multipolar world
+while ensuring economic and strategic stability.
+Click to View More
+Editorial Analysis
+**********AI Has an Environmental Problem
+Context
+Artificial Intelligence (AI)
+has become an
+indispensable force in modern society
+, revolutionising industries, economies, and daily life.
+With recent advancements in computing power and data availability,
+AI adoption has surged, driving economic value at an unprecedented scale.
+The
+global AI market, currently valued at $200 billion
+, is projected to contribute up to $15.7 trillion to the global economy by 2030.
+However,
+while AI offers immense economic potential, its rapid expansion also raises critical concerns,
+particularly regarding its environmental footprint.
+AI’s Environmental Impact Across Stages
+Hardware Production and Infrastructure
+Raw Material Extraction and Manufacturing
+The manufacturing of
+AI hardware requires rare earth metals like lithium, cobalt, and nickel
+, which are mined under environmentally damaging conditions.
+Mining operations contribute to deforestation
+, habitat destruction, and significant carbon emissions.
+Additionally,
+the extraction of these materials often involves unethical labour practices
+in some regions.
+Energy-Intensive Production
+fabrication of semiconductors
+and other AI hardware
+involves complex chemical processes and high-temperature treatments
+, consuming vast amounts of energy.
+semiconductor industry alone
+accounts for a notable share
+of global industrial emissions.
+E-Waste Crisis
+As AI-driven systems demand more computing power,
+the lifecycle of AI hardware shortens
+, contributing to a
+growing electronic waste (e-waste) problem.
+Many GPUs and TPUs become obsolete
+within a few years, leading to discarded electronic components that contain
+hazardous substances like lead, mercury, and cadmium,
+which pollute the environment when not properly recycled.
+Data Centre Operations: The Backbone of AI
+Energy Consumption
+Data centres are
+responsible for approximately 1% of global greenhouse gas emissions,
+according to the International Energy Agency (IEA).
+This
+figure is expected to double by 2026
+as AI applications become more widespread.
+AI models
+, particularly generative AI models like ChatGPT and DeepSeek,
+require significantly higher computing power
+than traditional algorithms,
+further escalating energy demand.
+Water Usage for Cooling
+data centres generate immense heat
+due to their continuous operations, necessitating efficient cooling systems.
+large-scale data centres rely on water-based cooling systems
+, which consume millions of litres of water annually.
+exacerbates water scarcity in regions
+where such facilities are located.
+Location-Based Carbon Footprint
+The environmental impact of data centres is
+also influenced by their geographical location.
+Data centres in regions
+powered by coal and fossil fuels have a much higher carbon footprint
+than those situated in areas using renewable energy.
+Companies that fail to strategically place their infrastructure contribute more to global emissions.
+AI Model Life Cycle Emissions
+Training AI Models
+Training state-of-the-art AI models is
+an extremely energy-intensive process.
+For instance,
+GPT-3’s training process emitted approximately 552 tonnes of carbon dioxide equivalent (CO₂-e),
+comparable to the emissions from nearly 125 gasoline-powered cars over a year.
+Advanced models like
+GPT-4 require even more computational resources
+, escalating their environmental impact.
+Inferencing and Continuous Operation
+Once AI models are deployed, they
+require substantial computational power to process user queries
+and make real-time predictions.
+This is known as inferencing
+, which can sometimes consume 10–100 times more energy than earlier AI models.
+Since these models run continuously on cloud servers,
+their energy consumption compounds over time.
+Data Storage and Retrieval
+rely on massive datasets that require ongoing storage and retrieval
+, further increasing energy usage.
+Maintaining these vast datasets i
+nvolves constant processing and updating, which contributes to sustained power consumption.
+Model Retirement and Re-training
+Unlike traditional software that can run for years with periodic updates,
+AI models often require retraining as new data becomes available.
+Each retraining cycle demands significant computational resources
+, leading to recurring carbon emissions.
+The Global Response to AI’s Environmental Challenges
+As awareness of AI’s environmental impact grows,
+global discussions on sustainable AI practices have gained momentum.
+At COP29, the
+International Telecommunication Union emphasised the need for greener AI solutions,
+urging businesses and governments to integrate sustainability into their AI strategies.
+More than 190 countries have adopted ethical AI recommendations
+that address environmental concerns, and legislative efforts in the European Union and the U.S. aim to curb AI’s carbon footprint.
+However, despite these initiatives,
+concrete policies remain scarce.
+Many national AI strategies primarily focus on economic growth
+and technological innovation, often
+overlooking the role of the private sector in reducing emissions.
+Strategies for Sustainable AI Development
+Need to Strike a Balance
+Achieving a balance
+between AI-driven innovation and environmental responsibility
+requires a multi-faceted approach.
+A key step in this direction is
+investing in clean energy sources
+. Companies can reduce AI’s carbon footprint by transitioning to renewable energy and purchasing carbon credits to offset emissions.
+, locating data centres in regions with abundant renewable resources can help alleviate energy strain
+and minimise environmental damage.
+AI itself can contribute to sustainability by optimizing energy grids.
+Google’s DeepMind has successfully applied machine learning to improve wind energy forecasting,
+enabling better integration of wind power into the electricity grid.
+Hardware Efficiency
+Hardware efficiency is another critical factor in reducing AI’s environmental impact.
+development of energy-efficient computing components
+and regular maintenance of hardware
+can significantly lower emissions.
+Moreover,
+optimising AI models can lead to substantial energy savings
+. Smaller, domain-specific models designed for particular applications require less computational power while delivering comparable results.
+Research suggests that the
+carbon footprint of large language models (LLMs) can be reduced by a factor of 100 to 1,000 through algorithmic optimisation,
+specialized hardware, and energy-efficient cloud computing.
+Businesses can also reduce resource consumption by
+adapting pre-trained models
+rather than training new models from scratch.
+Transparency and Accountability
+Transparency and accountability are
+essential to driving sustainability efforts.
+Organisations
+must measure and disclose the environmental impact of their AI systems
+to gain a comprehensive understanding of life cycle emissions.
+Establishing standardised frameworks for tracking and comparing emissions across the AI industry will promote consistency
+and encourage companies to adopt greener practices.
+Conclusion
+Sustainability must be embedded into the core design of AI ecosystems
+to ensure their long-term viability.
+While AI presents groundbreaking opportunities for economic growth and technological progress,
+it is crucial to address the environmental costs associated with its expansion
+By investing in renewable energy,
+optimising hardware and software efficiency, and developing transparency in emissions tracking, we can achieve a sustainable AI future.
+Click to View More
+Editorial Analysis
+**********Human Smuggling Must Engage Parliament’s Attention
+Context
+Human smuggling remains a grave humanitarian crisis
+affecting thousands of Indians who seek better opportunities abroad through illegal channels.
+The
+loopholes of existing legal frameworks, particularly the Emigration Act, 1983 and the Punjab Travel Professionals Regulation Act, 2012,
+highlights the inefficiencies in tackling this growing menace.
+Therefore,
+it is crucial to explore the socio-economic factors behind irregular migration, the exploitative nature of human smuggling networks
+, the existing legislative gaps, and the need for a robust national legal framework.
+The Dark Reality of Human Smuggling
+The Role of Human Smugglers: Preying on Desperation
+The illegal migration network is a
+well-organised system involving travel agents
+, document forgers, corrupt officials, and international criminal syndicates.
+These
+smugglers operate openly in rural India
+, targeting vulnerable individuals and their families with false promises.
+They
+charge exorbitant sums, often several lakhs of rupees,
+under the pretext of securing visas, work permits, or direct job placements.
+Many families sell their land, jewellery, or take massive loans
+to fund these journeys, believing that their loved ones will achieve prosperity abroad.
+However,
+once these migrants leave India, their nightmare begins.
+Many are
+sent through dangerous routes, including forests, deserts, or even war zones.
+Some are crammed into overcrowded boats,
+hidden inside trucks, or locked inside shipping containers for days without food or water.
+significant number do not survive the journey
+, dying from suffocation, dehydration, or drowning.
+The Inhumane Conditions Faced by Migrants
+For those who do make it to their destination
+, the suffering continues.
+Without proper documentation, they are at the mercy of traffickers
+and employers who treat them as modern-day slaves. Many are forced into:
+Backbreaking, unpaid labour
+on construction sites, farms, or factories.
+Sex trafficking and forced prostitution
+, especially in the case of women and young girls.
+Working under extreme conditions in war-torn regions
+, such as clearing ammunition fields in Iraq.
+Detention and deportation, often in shackles
+, after being caught by immigration authorities.
+Survivors have narrated horrific accounts of their journeys.
+Some were made to sit in piles of human waste, while others watched fellow migrants die
+beside them, their bodies dumped on roadsides or into the ocean.
+Many end up stranded, with no legal rights, no money, and no way to return home.
+The Psychological and Social Toll
+Beyond the physical dangers,
+illegal migration leaves deep psychological scars.
+Migrants who return after being deported face humiliation, shame, and economic ruin.
+Families who invested their life savings
+in these journeys are
+often left in debt traps,
+struggling to recover financially.
+The stigma surrounding failed migration leads to social isolation, and in extreme cases, some returnees even resort to suicide.
+The Globalization of Human Smuggling
+smuggling of migrants is no longer just an issue of small-scale fraud
+; it has evolved into a globalised criminal enterprise.
+International mafias and trafficking syndicates coordinate across borders,
+using fake documents, underground transport networks, and bribery to move people illegally.
+Due to low detection rates and weak legal frameworks, smuggling has become an extremely profitable
+and low-risk business for criminals.
+Gaps in Existing Laws
+Challenges in Law Enforcement
+The Emigration Act, 1983: An Outdated and Ineffective Law
+The law was enacted to regulate the movement of Indian citizens abroad, particularly for employment purposes.
+It sought to prevent
+exploitation of Indian workers in foreign countries
+by introducing a system of emigration clearance for those traveling to specific countries. However, the law is
+outdated and ineffective
+in the following ways:
+Failure to Define Human Smuggling
+The Act
+does not define or criminalize human smuggling
+, leaving a massive legal loophole that allows traffickers to operate freely.
+Since human smuggling is not explicitly recognized as a crime, law enforcement agencies
+lack the legal authority
+to take strict action against offenders.
+Weak Regulation of Recruitment Agents
+The law primarily focuses on
+licensing recruitment agents
+who facilitate legal overseas employment but does not address
+illegal travel agents
+and human traffickers.
+Many travel agents
+operate without licenses
+and deceive vulnerable individuals with
+fake job offers, forged visas, and false promises
+Lack of Stringent Punishment
+The penalties under the Act are
+too lenient
+to deter criminal networks. Smugglers often
+escape with minor fines or short prison sentences
+, allowing them to resume operations quickly.
+Organised crime syndicates find it
+more profitable to continue smuggling people
+, as the financial rewards far outweigh the legal consequences.
+The Punjab Travel Professionals Regulation Act, 2012: A Limited Effort
+Recognising the rampant problem of human smuggling in the state, Punjab enacted the
+to regulate the activities of travel agents and prevent
+fraudulent migration schemes
+While this law is a
+step in the right direction
+, it remains
+limited in scope and enforcement
+due to several reasons:
+Limited to Punjab
+The law applies
+only within the state of Punjab
+, leaving smugglers in other parts of India
+free to continue their operations
+without fear of prosecution.
+Since human smuggling is a
+national and international problem
+state-level law is insufficient
+to combat it effectively.
+Poor Implementation and Weak Enforcement
+Despite the law’s existence,
+illegal travel agents continue to flourish
+in Punjab due to
+poor enforcement
+Many smugglers operate under
+different names and fake identities
+to evade detection.
+Corruption within local authorities
+enables illegal agents to continue their businesses
+without facing any real consequences.
+Lack of Coordination with Central Authorities
+Since the law is limited to Punjab, it
+does not integrate with national agencies
+such as the
+Bureau of Immigration (BoI)
+or the
+Ministry of External Affairs (MEA)
+This lack of coordination
+prevents effective tracking and prosecution of smugglers operating across multiple states
+The Way Ahead to Fix the Gaps and Address the Challenges: A National Call to Action
+Legislative Reforms
+strong national law
+must be enacted to define human smuggling, impose strict penalties on offenders, and protect vulnerable migrants.
+Strict Law Enforcement
+: Authorities must
+crack down on illegal agents
+and international crime syndicates involved in smuggling operations.
+Awareness Campaigns
+: Young individuals must be educated about the
+dangers of illegal immigration
+and the legal alternatives available.
+International Cooperation
+: India must collaborate with destination countries to
+prevent illegal entry, rescue victims, and repatriate stranded migrants
+Employment Opportunities
+: Creating better job prospects within India can
+deter migration
+and reduce the demand for illegal routes.
+Conclusion
+Human smuggling is a
+grave violation of human rights
+that demands immediate attention.
+The existing
+legal and enforcement mechanisms are insufficient
+, and Parliament must step up to enact a
+comprehensive, enforceable law
+to safeguard Indian citizens.
+Without urgent action, countless more lives will be lost to this ruthless trade. The time for
+legislative inertia is over
+, India must rise to protect its people from the perils of human smuggling.
+Click to View More
+Editorial Analysis
+**********[26th February 2025] The Hindu Op-ed: The right’s rise, Europe’s state of denial
+International Relations
+PYQ Relevance:
+) What is the significance of Indo-US defence deals over Indo-Russian defence deals? Discuss with reference to stability in the Indo-Pacific region.
+(UPSC CSE 2020)
+Mentor’s Comment:
+UPSC mains have always focused on
+“ Indo-US defence deals over Indo-Russian defence deals”  (2020),
+and the “
+Russia and Ukraine war”
+(2022).
+In February 2025, the U.S. blamed Ukraine, Germany, and other European countries for not doing enough to end the conflict and for continuing a war with Russia that it sees as unwinnable. However, the U.S. itself has already spent over $110 billion on the Ukraine war, including $65 billion on ammunition—more than what major Western countries combined have provided.
+Today’s editorial highlights the double stance of the USA in international relations. This content would help in GS paper 2 (IR).
+_
+Let’s learn!
+Why in the News?
+The Munich Security Conference in Germany and the recent United Nations General Assembly vote on Ukraine were filled with contradictions and hypocrisy.
+What were the key contradictions during the Munich Security Conference and the UN General Assembly vote on Ukraine?
+U.S. Criticism of European Democratic Practices vs. Its Own Actions:
+U.S. Vice-President J.D. Vance accused Europe of suppressing right-wing parties and curbing free speech. However, the U.S. previously sought to delegitimize its own right-wing movements including the 2021 Capitol riot and Trump’s 2020 election denial further exposed this contradiction.
+U.S. Demand for European Security Responsibility vs. Past Opposition:
+The U.S. urged Europe to increase defense spending and reduce reliance on NATO. Yet, since the Cold War’s end the U.S. has consistently opposed European efforts to establish independent security frameworks fearing a weakened NATO.
+UN General Assembly vote on Ukraine:
+U.S. Opposition to European-Ukrainian Resolution vs. Its Previous Support:
+Despite previously leading international efforts to support Ukraine against Russia and now the U.S. voted
+against a European-Ukrainian draft resolution. This contradicts its long-standing position of backing Ukraine and opposing Russian aggression.
+Europe’s Victory Without U.S. Support:
+The European-Ukrainian resolution was adopted despite U.S. opposition, highlighting a
+growing divide
+between American and European approaches to the Ukraine conflict. However, without sustained U.S. support, Europe’s ability to continue aiding Ukraine effectively is uncertain, making the victory largely symbolic.
+How has the U.S.’s stance on the Ukraine war shifted over time?
+Initial Strong Support for Ukraine (2022-2023):
+The U.S. led global efforts to support Ukraine, providing
+$65 billion for ammunition
+, and coordinated sanctions against Russia. Example: The U.S. played a key role in mobilizing NATO allies to send advanced weaponry, including Germany’s Leopard tanks.
+Undermining Peace Negotiations (2022):
+The U.S. discouraged early peace talks between
+in Türkiye, preferring to prolong the conflict to weaken Russia strategically. Example: In
+March 2022
+, a European leader, reportedly at U.S. behest, sabotaged a nearly finalized peace agreement.
+Tensions with European Allies (2023-2024):
+The U.S. increasingly criticized Europe for
+not contributing enough
+financially and militarily while maintaining disproportionate U.S. involvement. Example: Despite urging Europe to take responsibility, the U.S. continued to dominate
+NATO’s budget (16%)
+and military commitments.
+Shifting Blame to Europe (2025):
+By
+, the U.S. accused
+Germany, Ukraine, and other European nations
+of pursuing an unwinnable war and not doing enough to seek a resolution.
+Voting Against European-Ukrainian Resolution (2025):
+In a dramatic reversal, the U.S. voted
+against a European-Ukrainian draft at the
+, signaling a shift toward
+disengagement
+. This marked a break from the U.S.’s previous unconditional support and exposed widening trans-Atlantic rifts over Ukraine policy.
+Why is the trans-Atlantic partnership between the U.S. and Europe still considered relevant?
+Shared Security Commitments Through NATO:
+The U.S. and Europe continue to rely on
+for collective defence, especially in response to
+and emerging global threats. Example: After
+Russia’s invasion of Ukraine (2022)
+, the U.S. increased its troop presence in Eastern Europe, while
+Finland and Sweden
+joined NATO, reinforcing trans-Atlantic security ties.
+Economic and Technological Interdependence:
+The U.S. and Europe maintain deep economic ties through
+trade, technology collaboration
+, and joint efforts on
+climate change
+supply chain resilience
+U.S.-EU Trade and Technology Council (TTC)
+fosters cooperation on critical areas like
+semiconductors
+clean energy
+, reducing dependence on China.
+What lessons should India learn from the USA’s constantly changing policies?
+Need for Policy Consistency and Strategic Autonomy:
+Frequent shifts in U.S. foreign policy highlight the importance of maintaining
+stable and long-term strategies
+to protect national interests.
+Example: The U.S.’s fluctuating stance on
+Afghanistan
+shows how unpredictable alliances can be. India should continue pursuing
+strategic autonomy
+through initiatives like
+“Act East”
+and partnerships with
+Russia and the Global South
+to avoid over-reliance on any one nation.
+Diversification of Economic and Defense Partnerships:
+Rapid policy changes in the U.S. underscore the need to
+diversify
+partnerships to reduce vulnerability to external shocks.
+Example: U.S. sanctions on
+Iran
+disrupted India’s oil imports. In response, India diversified its energy sources by strengthening ties with
+and exploring
+renewable energy
+investments.
+Investing in Domestic Capabilities:
+India must strengthen its
+domestic manufacturing, technology
+defense industries
+to reduce dependence on unpredictable foreign partners.
+Example: The U.S.’s evolving position on
+export controls
+for advanced technologies emphasizes the need for India to accelerate initiatives like
+“Make in India”
+semiconductor manufacturing
+to ensure technological sovereignty.
+Way forward:
+Strengthen Strategic Autonomy:
+Prioritize independent foreign policy decisions while balancing ties with major powers. Enhance regional leadership through initiatives like
+“Neighborhood First”
+to reduce reliance on any single partner.
+Enhance Self-Reliance and Diversification:
+Invest in domestic capabilities through programs like
+“Digital India”
+, while diversifying economic and defence partnerships to mitigate risks from external policy shifts.
+**********India sole nation to curb Internet over communal unrest in 2023-24
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Internet Shutdown; Impact on Fundamental Rights;
+Why in the News?
+According to the report, there were 296 Internet shutdowns worldwide in 2024, and India accounted for 84 of them, making up 28% of the total.
+What percentage of global Internet shutdowns due to communal violence occurred in India?
+High Proportion of Global Communal Violence Shutdowns: 56% of global Internet shutdowns due to communal violence occurred in India
+in 2024.
+Example:
+Out of 41 communal violence-related shutdowns worldwide,
+23 were imposed in India
+, highlighting the frequent use of Internet curbs to control communal tensions.
+Regional Concentration of Shutdowns:
+Most shutdowns occurred in conflict-prone regions like
+Manipur (21 shutdowns)
+Haryana (12 shutdowns)
+Jammu & Kashmir (12 shutdowns)
+During
+ethnic clashes in Manipur
+, authorities repeatedly shut down the Internet to curb the spread of misinformation and unrest.
+Pattern of State-led Shutdowns:
+State governments are the primary enforcers of communal violence-related shutdowns.
+imposed shutdowns following communal violence in
+Nuh district
+to prevent further escalation and maintain public order.
+How have the primary reasons for Internet shutdowns in India evolved between 2016 and 2024?
+From National Security to Protest Control (2016–2024):
+Initially, Internet shutdowns were mainly enforced for
+national security
+counter-terrorism
+, particularly in sensitive areas like
+213-day shutdown
+was imposed in
+2019
+after the abrogation of
+Article 370
+to curb potential unrest.
+Increase in Shutdowns During Protests (2020–2024):
+Shutdowns have become a frequent measure to
+suppress protests
+prevent misinformation
+from spreading.
+Internet services were suspended at
+Delhi’s borders
+during the
+2020–2021 Farmers’ Protests
+to limit protest coordination.
+Growing Use of Shutdowns for Communal Violence (2022–2024):
+There has been a rising trend of using shutdowns to
+contain communal violence
+Haryana’s Nuh district
+faced an Internet shutdown following
+communal riots
+to restore public order.
+Emergence of Exam-Related Shutdowns (2022–2024):
+Internet shutdowns are increasingly being used to
+prevent cheating
+competitive examinations
+, raising concerns over their necessity.
+Jharkhand
+imposed a shutdown during the
+2024 General Graduate Level Combined Competitive Examination
+to prevent malpractices.
+Targeted Shutdowns in Conflict Zones (Ongoing):
+Shutdowns continue to be heavily concentrated in
+, and parts of the
+Northeast
+due to ethnic and insurgency-related violence.
+were enforced in
+during episodes of ethnic violence to curb the spread of inflammatory content.
+What are the different types of Internet shutdowns imposed by authorities?
+Complete Internet Blackout:
+Total suspension of all Internet services, including mobile data, broadband, and Wi-Fi. Example: The
+Jammu & Kashmir (2019)
+Mobile Internet Shutdown:
+Suspension of mobile data services while keeping broadband and Wi-Fi operational. Example:
+experienced
+21 mobile Internet shutdowns
+Targeted or Localized Shutdown:
+Internet suspension in specific geographic areas or for specific services like social media. Example:
+localized shutdown
+How do Internet shutdowns impact fundamental rights in India?
+Violation of Freedom of Speech and Expression (Article 19(1)(a)):
+Internet shutdowns restrict individuals from expressing opinions, accessing information, and engaging in public discussions.
+During the
+2020–21 Farmers’ Protests
+, Internet services were suspended in
+Delhi’s border areas
+, limiting protestors’ ability to communicate and share updates.
+Obstruction of the Right to Practice Any Profession or Business (Article 19(1)(g)):
+Internet disruptions adversely affect businesses, digital transactions, and online services, hindering the right to earn a livelihood.
+213-day Internet shutdown in Jammu & Kashmir (2019)
+caused significant economic losses, especially in the
+tourism and e-commerce
+sectors.
+Disruption of the Right to Education (Article 21A):
+Shutdowns impede access to online education, causing academic disruptions and limiting students’ learning opportunities.
+Manipur (2023)
+, prolonged Internet suspensions during
+interrupted
+online classes
+Denial of the Right to Access Information (Implicit under Article 19(1)(a)):
+Internet curbs block access to crucial information, particularly during emergencies, affecting public safety and awareness.
+Haryana (2023)
+, Internet services were suspended during
+, preventing access to
+emergency services
+safety information
+Violation of the Right to Life and Personal Liberty (Article 21):
+Shutdowns disrupt essential services like healthcare and emergency communication, posing a threat to life and personal liberty.
+COVID-19 pandemic
+, Internet restrictions in
+limited access to
+telemedicine
+critical health updates
+What is the judiciary’s stance on Internet shutdowns in India?
+Recognition of Internet Access as a Fundamental Right:
+The Supreme Court of India, in the
+Anuradha Bhasin v. Union of India (2020)
+case, ruled that
+access to the Internet
+is protected under
+(freedom of speech and expression) and
+(freedom to practice any profession or trade).
+The Court held that
+indefinite Internet shutdowns are unconstitutional
+and must be
+proportionate and temporary
+Mandate for Procedural Safeguards and Review:
+The Court emphasized that any Internet suspension under
+Section 144 of the CrPC
+or the
+Temporary Suspension of Telecom Services (Public Emergency or Public Safety) Rules, 2017
+must follow
+due process
+mandate for procedural safeguards and review
+was established in the
+judgment.
+Balancing Security and Fundamental Rights:
+While recognizing the
+state’s power
+to impose Internet shutdowns for public safety and national security, the judiciary has stressed that such measures must balance
+individual freedoms
+with
+legitimate state interests
+Faheema Shirin v. State of Kerala (2019)
+, the Kerala High Court affirmed
+access to the Internet as part of the right to education
+Way forward:
+Strengthen Legal Oversight and Transparency:
+Implement clear guidelines for Internet shutdowns with
+mandatory judicial review
+public disclosure
+of orders to prevent arbitrary restrictions and uphold
+Promote Proportional and Targeted Measures:
+Encourage the use of
+less restrictive alternatives
+, such as
+content moderation
+geofencing
+, to address public safety concerns while
+minimizing disruption
+to essential services and civil liberties.
+Mains PYQ:
+‘Communalism arises either due to power struggle or relative deprivation.’ Argue by giving suitable illustrations.
+(UPSC IAS/2018)
+**********Should a third language be compulsory?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Education Policy; Issues related to language;
+Why in the News?
+The Central government and the Tamil Nadu government are disagreeing over the three-language rule in schools under the New Education Policy (NEP), 2020.
+Why is the Union government withholding funds under the Samagra Shiksha Abhiyan from Tamil Nadu?
+Non-compliance with the three-language formula
+: The Union government has linked the release of funds under the
+to the implementation of the three-language formula outlined in the
+National Education Policy (NEP) 2020
+. Tamil Nadu’s refusal to adopt this formula has led to a standoff.
+Policy disagreement
+: The Tamil Nadu government views the three-language policy as a tool for
+Hindi imposition
+and insists on continuing with its
+two-language policy
+(Tamil and English).
+Financial leverage
+: The Centre is using
+financial incentives
+to push for uniform adoption of the NEP guidelines across States, causing friction with Tamil Nadu.
+When was the three-language policy first introduced, and what were its key mandates?
+was first introduced in the
+National Policy on Education (NPE), 1968
+to promote multilingualism and foster national unity.
+Key Mandates of the Three-Language Policy:
+First Language – Mother Tongue/Regional Language:
+Students must learn their
+mother tongue
+or the
+regional language
+of the state. Example:
+Kannada
+is the first language in
+Karnataka
+, while
+Second Language – Hindi or English:
+In
+Hindi-speaking states
+, students must learn
+or another
+modern Indian language
+. In
+non-Hindi-speaking states
+is taught as the second language. Example:
+is the second language in
+Kerala
+Uttar Pradesh
+Third Language – Another Indian Language or English:
+, students must learn a
+Indian language or
+Sanskrit
+is usually taught as the third language. Example:
+as a third language in
+Madhya Pradesh
+is the third language in
+What difficulties do government schools face in implementing additional language courses?
+Shortage of Qualified Language Teachers:
+Many government schools
+lack trained teachers
+for third-language instruction. Example: In
+rural Odisha
+, schools often struggle to find Hindi teachers, affecting the implementation of the three-language formula.
+Limited Resources and Infrastructure:
+Schools
+lack textbooks, teaching aids, and language labs
+, making it difficult to provide quality language education. Example: Government schools in
+Bihar
+face a
+shortage of English textbooks
+, leading to poor learning outcomes.
+Burden on Students and Poor Learning Outcomes:
+Many students struggle to
+grasp multiple languages simultaneously
+, especially those from economically weaker backgrounds. Example: In
+, students from rural areas find it difficult to learn Hindi as a third language due to
+limited exposure
+and practice opportunities.
+What are the basic issues in Schools?
+ASER 2022 found
+60%
+Class V
+students unable to read a
+Class II-level
+text. Similarly, ASER 2023 revealed
+25%
+of youth (14-18 years) cannot fluently read basic texts in their
+, highlighting
+foundational literacy gaps
+Inadequate Public Investment in Education:
+Despite the
+NEP 2020
+target of
+6% of GDP
+, actual spending on education remains at
+4-4.5% of GDP
+. This
+underfunding
+restricts access to
+quality resources
+, affecting learning outcomes, especially in
+Disparity in Funding Allocation: 85%
+of elementary education costs are borne by
+, while the
+contributes only
+15%
+fiscal imbalance
+creates unequal resource distribution, impacting
+teacher availability
+infrastructure quality
+in less-developed regions.
+What are the constitutional provisions regarding the official languages of the Union and the States in India?
+Official Language of the Union (Article 343): Hindi
+Devanagari script
+of the Union.
+was to be used for official purposes for
+15 years
+after the Constitution came into effect (until
+1965
+), but the
+Official Languages Act, 1963
+extended its use indefinitely alongside Hindi.
+Language of the States (Article 345):
+State legislatures can adopt
+one or more languages
+in use in the State or
+for State administration. Example:
+uses
+Punjab
+Punjabi
+Maharashtra
+Marathi
+as their official languages.
+Promotion of Hindi (Article 351):
+It is the
+Union’s duty
+to promote the
+spread of Hindi
+to serve as a medium for
+all elements of India’s composite culture
+while drawing from
+and other Indian languages.
+Safeguard for Linguistic Minorities (Article 350A & 350B)
+: The State must provide
+primary education
+of linguistic minority groups.
+: Establishment of a
+Special Officer for Linguistic Minorities
+to investigate and report on their safeguards.
+What steps can be taken to resolve the conflict between the Centre and the Tamil Nadu government? (Way forward)
+Promote Cooperative Federalism through Dialogue:
+Establish a
+joint consultative body
+to discuss language policies and ensure that both
+regional concerns
+national goals
+are addressed. Example: Regular
+Centre-State meetings
+Inter-State Council
+could facilitate consensus on the
+without coercion.
+Grant Flexibility in Implementing Language Policies:
+Allow
+to adapt the
+based on their
+linguistic diversity
+educational capacity
+while ensuring basic proficiency in major languages. Example: Tamil Nadu could continue its
+while introducing
+optional third-language courses
+without affecting funding under
+Mains PYQ:
+National Education Policy 2020 isin conformity with the Sustainable Development Goal-4 (2030). It intends to restructure and reorient education system in India. Critically examine the statement.
+(UPSC IAS/2020)
+**********‘Cali Fund’ launched at CBD COP16
+Prelims Only
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+A new international biodiversity fund, the
+, was launched at the
+16th Conference of Parties (COP16)
+to the
+United Nations Convention on Biological Diversity (CBD)
+Rome
+.
+What is the Cali Fund?
+The Cali Fund is an
+international biodiversity financing mechanism
+launched on
+February 25, 2025, at COP16 of the UN Convention on Biological Diversity (CBD) in Rome
+It collects funds from
+private companies
+that utilize
+Digital Sequence Information (DSI)
+from nature in their businesses.
+The fund supports
+biodiversity conservation, scientific research, and indigenous communities
+Key Features of the Cali Fund:
+Funding Source
+: Businesses using
+genetic data (DSI)
+from plants, animals, and microorganisms will contribute financially.
+Utilization of Funds
+50% allocated to indigenous and local biodiversity projects
+Supports
+developing nations’ biodiversity action plans
+Global Management
+: Managed by
+UNDP and UNEP
+, with
+MPTFO handling finances
+Alignment with Global Goals
+: Supports
+Kunming-Montreal Global Biodiversity Framework (KMGBF)
+reverse biodiversity loss by 2030
+First-of-Its-Kind
+: Direct private sector contributions to a global UN biodiversity fund.
+What is Digital Sequence Information (DSI)?
+DSI refers to
+extracted from plants, animals, and microorganisms.
+Used extensively in industries such as:
+Pharmaceuticals
+(medicine development).
+Cosmetics
+(natural ingredient research).
+Agriculture
+(crop improvement, pest resistance).
+Biotechnology
+(genetic engineering, bioinformatics).
+About the Convention on Biological Diversity (CBD):
+The CBD, with
+196 contracting parties
+, stands as the most comprehensive international agreement focused on nature conservation and the sustainable use of natural resources.
+It was opened for signing at the
+1992 UN Conference on Environment and Development
+Rio de Janeiro.
+The CBD has
+3 main objectives
+Conservation of biological diversity (including genetic, species, and habitat diversity).
+Sustainable use of biological diversity.
+Fair and equitable sharing of benefits arising from the use of genetic resources.
+It addresses
+biodiversity at all levels
+: ecosystems, species, and genetic resources.
+Conference of the Parties (COP)
+is the CBD’s governing body, and it
+meets biennially
+to assess progress, set priorities, and develop action plans.
+Secretariat
+of the CBD is located in
+Montreal, Canada
+To further its goals, the CBD includes two binding protocols:
+The Cartagena Protocol
+(2000), which regulates the transboundary movement of living modified organisms (LMOs) and came into force in 2003.
+The Nagoya Protocol
+(2010), which provides a legal framework for the access to genetic resources and the fair sharing of benefits from their use.
+PYQ:
+[2014]
+With reference to ‘Global Environment Facility’, which of the following statements is/are correct?
+(a) It serves as financial mechanism for ‘Convention on Biological Diversity’ and ‘United Nations Framework Convention on Climate Change’
+(b) It undertakes scientific research on environmental issues at global level
+(c) It is an agency under OECD to facilitate the transfer of technology and funds to underdeveloped countries with specific aim to protect their environment.
+(d) Both A and B
+**********Species in news: Gharials
+Species
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Madhya Pradesh CM released
+10 gharials
+into the
+Chambal River
+at the
+National Chambal Gharial Sanctuary
+Morena
+.
+About Gharial
+The
+gharial (
+Gavialis gangeticus
+)
+is a unique species of crocodilian, characterized by its
+long, slender snout
+, which is perfectly adapted for catching fish.
+The species derives its name from the
+“ghara”
+, a bulbous growth found on the
+snouts of adult males
+, which aids in vocalization and mating displays.
+It is a
+fish-eating crocodile
+native to the Indian subcontinent.
+They are a crucial
+indicator of clean river
+water.
+Conservation Status:
+Recognizing the rapid decline in gharial populations,
+India launched captive breeding and release programs
+in the late
+1970s
+Between
+1975 and 1982
+, the country established
+16 captive breeding centers
+5 protected sanctuaries
+to ensure the survival of the species.
+Gharials are ‘
+Critically Endangered’
+IUCN Red List
+of Species.
+The species is also listed under
+Schedule I of the Wildlife (Protection) Act, 1972
+Today, gharials primarily survive in
+5 major refuges
+National Chambal Sanctuary (NCS)
+– The largest stronghold of gharials.
+Katerniaghat Wildlife Sanctuary
+in Uttar Pradesh.
+Chitwan National Park
+in Nepal.
+Son River Sanctuary
+in Madhya Pradesh.
+Satkosia Gorge Sanctuary
+in Odisha.
+PYQ:
+[2013]
+Consider the following fauna of India:
+1. Gharial
+2. Leatherback turtle
+3. Swamp deer
+Which of the above is/are endangered?
+(a) 1 and 2 only
+(b) 3 only
+(c) 1, 2 and 3
+(d) None
+**********What is Black Plastic?
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+A
+recent study
+suggested that black plastic contains
+harmful flame retardants
+, which may
+leach into food
+hazardous levels
+.
+Black plastic is often
+made from recycled electronic waste
+like
+old computers, TVs, and appliances
+These electronics contain
+(such as bromine-based compounds),
+heavy metals
+(lead, cadmium, mercury), and
+other hazardous chemicals
+Flame retardants
+are added to
+prevent fire hazards
+, but they can persist in recycled plastics.
+Many of these chemicals are
+now banned in several countries
+due to their
+toxicity
+However,
+legacy plastics containing these substances
+continue to
+enter the recycling stream
+, leading to contamination of household products.
+Threats Posed by Black Plastic:
+Contains Toxic Chemicals:
+Made from recycled e-waste, it may have
+flame retardants, heavy metals, and antimony
+Food Contamination
+: Heat and acidic foods can
+leach harmful chemicals
+into meals.
+Environmental Impact:
+Difficult to recycle
+, it pollutes landfills and groundwater.
+Health Risks:
+Linked to
+hormonal issues, neurological damage, and cancer
+PYQ:
+[2019]
+Why is there a great concern about the ‘microbeads’ that are released into environment?
+(a) They are considered harmful to marine ecosystems.
+(b) They are considered to cause skin cancer in children.
+(c) They are small enough to be absorbed by crop plants in irrigated fields.
+(d) They are often found to be used as food adulterants.
+**********New Experiment to Test Quantum Gravity
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+A new proposal published on October 29, 2024, suggests an experiment that could provide
+direct evidence for quantum gravity
+, unifying general relativity and quantum mechanics. A new experiment proposes
+testing weak gravitational fields
+at the quantum level, a
+historic breakthrough in physics
+if successful.
+What is Quantum Gravity?
+Quantum Gravity is a
+theoretical framework
+that aims to
+(which explains gravity at large scales) and
+(which governs subatomic particles).
+Since gravity behaves differently from the other fundamental forces in quantum mechanics, physicists have been searching for a
+theory that integrates gravity into the quantum world
+General relativity
+treats gravity as the curvature of spacetime, while
+describes forces through particle interactions.
+Gravity has
+never been directly observed in quantum form
+, unlike the other fundamental forces.
+Theories like
+String Theory
+Loop Quantum Gravity
+attempt to explain quantum gravity but
+lack experimental validation
+Significance of the Experiment
+First Realistic Test for Quantum Gravity
+: Most quantum gravity theories rely on
+extreme conditions
+(e.g., black holes), making them
+impossible to test
+. This experiment provides a
+lab-based alternative
+Testing Gravity at the Quantum Level
+: If a small mass in quantum superposition is influenced by gravity, it could prove
+gravity itself is quantum in nature
+Weak Gravity Instead of Strong Gravity
+: Unlike previous studies focused on
+, this experiment explores
+weak gravitational interactions
+, making it
+more feasible
+Towards a Unified Theory of Physics
+: Proving quantum gravity could merge
+, solving a
+major gap in modern physics
+Challenging Existing Theories
+: If results differ from both
+classical and quantum predictions
+, it could suggest
+a new force or a modified gravity theory
+**********

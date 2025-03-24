@@ -1,0 +1,1363 @@
+IMPEACHMENT OF HIGH COURT JUDGE
+Syllabus:
+Prelims & Mains – POLITY
+Context:
+The Opposition has started efforts to move an impeachment motion against Allahabad High Court judge Shekhar Kumar Yadav for his controversial statements at a recent Vishwa Hindu Parishad event.
+Background: –
+No High Court judge has been impeached in India so far.
+Constitutional Provisions
+Article 217:
+Deals with the appointment and conditions of service of High Court judges.
+Specifies that judges hold office until the age of 62 unless they resign, are impeached, or are removed.
+Article 218:
+The process of impeachment of a judge of the Supreme Court is laid down in Article 124(4) of the Constitution of India. Article 218 says the same provisions shall apply in relation to a judge of the High Court as well.
+Grounds for Removal: Proved misbehavior or incapacity.
+The procedure to be followed for impeachment of a judge is laid down in the Judges Inquiry Act, 1968.
+Procedure for Impeachment
+Initiation of Motion – A removal motion must be signed by:
+At least 100 members in the Lok Sabha, or
+At least 50 members in the Rajya Sabha.
+Upon admission of the motion, an inquiry committee is formed. A three-member      committee is constituted, comprising:
+A Supreme Court judge.
+A Chief Justice of a High Court.
+An eminent jurist.
+The committee investigates the charges and submits its report.
+Parliamentary Approval:
+If the committee finds the judge guilty, both Houses of Parliament must pass the motion with a two-thirds majority of members present and voting, and the majority must be no less than 50% of the total membership of the House.
+President’s Order: Upon approval by both Houses, the President orders the removal of the judge.
+Important Points
+High Threshold: The impeachment process is deliberately complex to ensure judicial independence.
+Significant Cases:
+Justice Soumitra Sen of the Calcutta High Court faced impeachment proceedings but resigned before the process was concluded.
+Justice V. Ramaswami of the Supreme Court faced impeachment, but the motion failed in the Lok Sabha.
+Source:
+The Hindu
+**********
+MALARIA
+Prelims – SCIENCE & TECHNOLOGY
+According to the World Malaria Report 2024 by WHO, the South East Asia Region contributes about 1.5% of global malaria cases, with India accounting for nearly half of all estimated cases in the region in 2023.
+<img alt="" class="wp-image-200362 aligncenter" decoding="async" fetchpriority="high" height="248" sizes="(max-width: 443px) 100vw, 443px" src="https://iasbaba.com/wp-content/uploads/2024/12/malaria-300x168.png" srcset="https://iasbaba.com/wp-content/uploads/2024/12/malaria-300x168.png 300w, https://iasbaba.com/wp-content/uploads/2024/12/malaria.png 602w" width="443"/>
+New data from the WHO revealed that an estimated 2.2 billion cases of malaria and 12.7 million deaths have been averted since 2000, but the disease remains a serious global health threat, particularly in the WHO African Region.
+About Malaria
+Malaria is a life-threatening disease caused by Plasmodium parasites, transmitted to humans through the bites of infected female Anopheles mosquitoes.
+Not all Anopheles mosquitoes have malaria, but if they bite a person with malaria, they can become infectious.
+People do not spread malaria to other people, like the common cold or the flu. Also, malaria is not sexually transmitted.
+Because the parasites that cause malaria affect red blood cells, people can acatch malaria from exposure to infected blood, including:
+From mother to unborn child
+Through blood transfusions
+By sharing needles used to inject drugs
+Symptoms
+Fever, chills, headaches, muscle pain, vomiting.
+Severe cases: Organ failure, cerebral malaria, or death.
+Global Initiatives: WHO’s Global Technical Strategy for Malaria (2016-2030) aims to reduce global malaria cases by 90% by 2030.
+India’s Measures:
+National Malaria Control Programme (NMCP): Aims to eliminate malaria by 2030.
+National Vector Borne Disease Control Programme (NVBDCP): Comprehensive approach to combat mosquito-borne diseases.
+Use of insecticide-treated bed nets (ITNs), indoor residual spraying (IRS), and rapid diagnostic tests (RDTs).
+Vaccination:
+RTS,S/AS01 (Mosquirix): First malaria vaccine approved by WHO in 2021 for pilot projects in high-burden regions.
+**********
+CLIMATE IMPACT OF EXPLORING SPACE
+Mains – ENVIRONMENT
+As the world becomes more reliant on space technology for vital functions like climate monitoring, the environmental consequences of space activities need more attention.  The rapid growth of the number of satellites in orbit has led to concerns about interference with climate monitoring systems and the accumulation of orbital debris.
+Space activities currently fall outside international sustainability instruments like the Paris Agreement.
+Key Concerns:
+Climate Change:
+Rocket emissions (CO2, black carbon, water vapor) contribute to global warming.
+Chlorine-based propellants deplete the ozone layer.
+Satellite re-entry and burn up releases metallic ash, potentially altering the atmosphere.
+Energy-intensive satellite production and mining activities have significant carbon footprints.
+Orbital Debris:
+Rapid growth of satellites and debris poses collision risks to functional satellites.
+Debris interferes with scientific observations and communication systems.
+Increases the cost and complexity of space missions.
+Poses a threat to human-crewed missions.
+Challenges to Space Sustainability:
+Lack of International Regulation:
+No specific international regulations address space debris and environmental impact.
+Technological Limitations:
+Reusable rockets have limitations in terms of payload capacity and fuel efficiency.
+Cleaner fuels like hydrogen and biofuels face challenges in production and storage.
+Biodegradable satellite materials lack durability for space environments.
+Autonomous debris removal technologies are expensive and require legal clarity.
+International Cooperation:
+Data sharing and coordination among nations are hindered by security and commercial concerns.
+Path Towards Space Sustainability:
+International cooperation through bodies like the Committee on the Peaceful Use of Outer Space (COPUOS) is necessary to create enforceable standards.
+Standardize emission limits, debris mitigation, and data-sharing practices.
+Technological Innovation:
+Invest in research and development of cleaner fuels, biodegradable materials, and autonomous debris removal technologies.
+Policy and Incentives:
+Implement strict regulations and incentives for sustainable space practices.
+Encourage public-private partnerships to accelerate technological advancements.
+Establish a global space traffic management system to monitor and coordinate satellite activities.
+**********
+EXPANSION OF UNIVERSE
+Two years of data from NASA’s James Webb Space Telescope has corroborated the observation by Hubble Telescope that the universe is expanding more rapidly than expected.
+The observations by Webb, the most capable space telescope ever deployed, appear to rule out the notion that the data from its forerunner Hubble was somehow flawed due to instrument error
+Key takeaways
+Data from James Webb Space Telescope have now validated the Hubble Space Telescope’s earlier finding that the rate of the universe’s expansion is faster — by about 8% — than would be expected based on what astrophysicists know of the initial conditions in the cosmos and its evolution over billions of years. The discrepancy is called the Hubble Tension.
+According to scientists, the current understanding of the universe contains a lot of ignorance about two elements — dark matter and dark energy — and these make up 96% of the universe.
+Dark matter, thought to comprise about 27% of the universe, is a hypothesised form of matter that is invisible but is inferred to exist based on its gravitational effects on ordinary matter – stars, planets, moons, all the stuff on Earth – which accounts for roughly 5% of the universe.
+Dark energy, believed to comprise approximately 69% of the universe, is a hypothesised form of energy permeating vast swathes of space that counteracts gravity and drives the universe’s accelerating expansion.
+More about Hubble Tension
+Hubble Constant (H₀): Represents the rate of expansion of the universe, typically expressed in kilometers per second per megaparsec (km/s/Mpc)
+Hubble Tension: Discrepancy between values of H₀ measured using different methods, challenging our understanding of cosmology.
+About James Webb Space Telescope (JWST)
+The James Webb Space Telescope (JWST) is the most powerful space telescope ever built, designed to explore the universe in unprecedented detail.
+Launch Date: JWST was launched on December 25, 2021.
+Location: It orbits the Sun at the second Lagrange point (L2), about 1.5 million kilometers (1 million miles) from Earth.
+Design and Features:
+Sunshield: It has a 5-layer sunshield the size of a tennis court, which protects its instruments from the Sun’s heat and light.
+Mirrors: JWST uses 18 hexagonal mirrors that unfold like a “Transformer” in space to form a single large mirror with a diameter of 6.5 meters (21 feet).
+Scientific Instruments:
+Instruments: JWST is equipped with four main instruments: Near-Infrared Camera (NIRCam), Near-Infrared Spectrograph (NIRSpec), Mid-Infrared Instrument (MIRI), and Fine Guidance Sensor/Near InfraRed Imager and Slitless Spectrograph (FGS/NIRISS).
+Capabilities: These instruments allow JWST to observe the universe in infrared light, which can penetrate dust clouds and reveal objects that are too faint or distant for visible light telescopes.
+Scientific Goals:
+Early Universe: JWST aims to study the first galaxies formed after the Big Bang, providing insights into the early universe.
+Planetary Systems: It will observe the atmospheres of exoplanets to search for signs of habitability and possibly life.
+Star and Planet Formation: JWST will study the formation of stars and planets within dust clouds.
+**********
+CASPIAN SEA
+Prelims – GEOGRAPHY
+Kazakhstan’s state-owned energy company said recently that it had decontaminated Soviet-era oil waste on the shores of the Caspian Sea.
+In Central Asia, work to remove toxic waste dating back to Soviet times has gathered pace in recent years, particularly in Tajikistan and Kyrgyzstan, where millions of cubic metres of radioactive waste are stored.
+<img alt="" class="size-medium wp-image-200360 aligncenter" decoding="async" height="236" sizes="(max-width: 300px) 100vw, 300px" src="https://iasbaba.com/wp-content/uploads/2024/12/caspian-300x236.png" srcset="https://iasbaba.com/wp-content/uploads/2024/12/caspian-300x236.png 300w, https://iasbaba.com/wp-content/uploads/2024/12/caspian.png 602w" width="300"/>
+Location: Lies between Europe and Asia, bordered by five countries: Russia, Kazakhstan, Turkmenistan, Iran, and Azerbaijan.
+Unique Feature: Largest enclosed inland water body, often called a sea due to its size and salinity.
+Geographical Features
+Salinity: Lower than seawater but higher than freshwater.
+Important Rivers: Volga, Ural, and Kura rivers flow into the Caspian Sea.
+Economic Importance
+Energy Resources: Rich in oil and natural gas reserves, contributing significantly to regional economies.
+Fishing Industry: Famous for sturgeon and caviar production.
+Trade and Transportation: Strategic hub for trade routes connecting Europe and Asia.
+Environmental Significance
+Biodiversity: Home to unique species, including the endangered Caspian seal.
+Environmental Concerns: Pollution from oil exploration, industrial activities, and declining water levels due to climate change.
+**********
+Daily Practice MCQs
+Q1.) Consider the following statements regarding malaria:
+Malaria is caused by viruses transmitted through the bites of female Anopheles mosquitoes.
+People with malaria can spread the disease to others through casual contact, like shaking hands.
+Malaria parasites can be transmitted through blood transfusions or from mother to child.
+Which of the above statements is/are correct?
+1 and 2 only
+3 only
+2 and 3 only
+1, 2, and 3
+Q2.) Consider the following statements about the Caspian Sea:
+It is the largest enclosed inland water body in the world.
+The Caspian Sea has a higher salinity level than seawater.
+The Caspian Sea is a significant hub for global sturgeon production.
+Which of the statements given above is/are correct?
+1 and 3 only
+Q3.) With reference to the James Webb Space Telescope (JWST), consider the following statements:
+It operates in the visible light spectrum to study the early universe.
+JWST is stationed at the second Lagrange point (L2), which is approximately 1.5 million kilometers from Earth.
+It uses a 5-layer sunshield to protect its instruments from heat and light.
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********C. Rajagopalachari
+Lok Sabha Speaker Shri Om Birla paid floral tributes to Bharat Ratna Shri Chakravarti Rajagopalachari in Central Hall of Samvidhan Sadan on his Birth Anniversary,
+About
+C. Rajagopalachari:
+, popularly referred to as
+Rajaji,
+was born on 10 December 1878 in Thorapalli,
+Tamil Nadu.
+Role in India’s Independence Movement
+Rajaji’s personal interaction with Gandhi in 1919 led him to give up his legal profession to be fully involved in the
+nation’s independence struggle.
+He participated in agitations against the Rowlett Act, the Non-Cooperation movement, the Vaikom Satyagraha, and the Civil Disobedience Movement.
+For these activities, between 1912 and 1941, as a result of which he was jailed five times.
+Rajaji was elected to the
+Constituent Assembly from
+Madras on a Congress party ticket. In the Assembly, he intervened on the issues of religious freedom and citizenship.
+In 1954 he was
+conferred with the Bharat Ratna
+for his contribution to Indian politics and literature.
+Key Writings
+Rajaji was a prolific writer. His most popular works include a retelling of the
+Mahabharata and Ramayana in English
+, and Ramayana –
+Chakravarti Thirumagan
+in Tamil.
+Click to View More
+Source :
+LOK SABHA SPEAKER AND PARLIAMENTARIANS PAY FLORAL TRIBUTES TO SHRI C. RAJAGOPALACHARI
+History
+**********Hyperloop Track
+Recently, IIT Madras has completed a 410-meter Hyperloop test track, marking a significant milestone in India’s journey toward futuristic transport systems.
+About Hyperloop Track:
+Hyperloop is a
+high-speed transportation system
+in which pods, functioning as pressurised vehicles, travel at incredible speeds through low-pressure tubes.
+The Hyperloop concept was originally popularised by Elon Musk in 2012.
+Working:
+These trains operate within
+vacuum-sealed tubes
+, significantly reducing friction and allowing for unparalleled travel speed and energy efficiency.
+Hyperloop pods are designed to reach speeds of
+up to 1,100 kmph
+, with an operational cruising speed of
+around 360 kmph
+Key components include:
+Low-Pressure Tubes:
+Sealed to minimise air resistance.
+Magnetic Levitation (Maglev):
+Pods "float" on magnets, eliminating friction.
+Linear Electric Motors:
+Propels the pod smoothly and efficiently.
+These features combine to deliver unparalleled speed and efficiency, with zero direct emissions—making Hyperloop the ultimate in green transit.
+India’s hyperloop project is a joint initiative of
+Indian Railways, IIT-Madras’ Avishkar Hyperloop team and TuTr (incubated startup).
+Significance to India:
+This innovative system is seen as a promising solution for addressing the growing demands for efficient and sustainable transportation.
+Click to View More
+Source :
+India's first Hyperloop train test track completed by IIT Madras. Key details
+Economy
+**********Indian Rock Python
+Indian Rock Python species is believed to have declined across Tamil Nadu, except in the Moyar Valley, where the pythons seem to be thriving.
+About
+Indian Rock Python:
+It is a large,
+nonvenomous
+python species.
+It is known by the common names
+Black-tailed python
+and Asian rock python.
+Appearance
+Indian pythons are usually whitish or yellowish in color with the blotched patterns varying from tan to dark brown shades.
+This varies with terrain and habitat. Specimens from the hill forests of the Western Ghats and Assam are darker, while those from the Deccan Plateau and the Eastern Ghats are usually lighter.
+Habitat:
+They live in a wide range of habitats, including
+grasslands and savannas, swamps, marshes
+, rocky foothills, woodlands, open forests, and river valleys
+Distribution:
+Indian pythons are found in India, southern Nepal, Pakistan, Sri Lanka, Bhutan, Bangladesh, and probably in the north of Myanmar.
+They are nocturnal and mainly terrestrial creatures. However, they are also very good climbers and can often be seen hanging on branches of trees. Indian
+pythons are excellent swimmers.
+Conservation Status
+IUCN:
+Near Threatened
+CITES:
+Appendix II
+Wildlife (Protection) Act, 1972:
+Schedule I
+Threats
+: Habitat distraction and illegal trade
+Click to View More
+Source :
+While Indian rock python population dwindles elsewhere across T.N., it thrives in Moyar Valley
+Environment
+**********What is Willow Chip?
+Recently, Google has announced a significant advancement in quantum computing as it unveiled its next-generation chip called 'Willow'.
+About
+Willow Chip:
+It is a new state-of-the-art
+quantum computing chip
+developed by Google.
+The components of the chip include
+single and two-qubit gates, qubit reset, and readout
+that have been engineered and integrated to ensure that there is no lag between any two components as that may adversely impact system performance.
+It was able to
+solve a complex mathematical problem
+in just five minutes — a task that would take classical computers longer than the history of the universe.
+It performed a standard benchmark computation in under five minutes that would take one of today’s fastest supercomputers 10 septillion (that is, 1025) years.
+operates using superconducting transmon qubits
+—tiny electrical circuits exhibiting quantum behaviour at extremely low temperatures. These circuits are engineered to function like artificial atoms in a quantum state.
+What is a quantum chip?
+A quantum chip is a special type of computer chip designed to use the principles of quantum mechanics, the science of very tiny particles like atoms.
+-While regular chips use 'bits' (0 or 1) to process information, quantum chips use
+'qubits', which can be 0 or 1
+or both at the same time.
+This unique ability allows quantum chips to handle complex calculations much faster than traditional computers.
+Click to View More
+Source :
+What is Willow? Google's quantum computing chip explained in 10 points
+Science & Tech
+**********Yuva Sahakar Scheme
+Recently, the Minister of Cooperation informed the Lok Sabha about Yuva Sahakar Scheme.
+About
+Yuva Sahakar Scheme:
+Yuva Sahakar – Cooperative Enterprise Support and Innovation Scheme” aims to
+encourage newly formed cooperative societies
+with new and/or innovative ideas.
+The scheme encourages young entrepreneur Cooperative Societies which are in operation for a
+minimum of 3 months.
+The loan provided under the scheme is a long-term loan (up to 5 years) and as an incentive, NCDC
+provides 2% interest subvention
+on its applicable rate of interest on term loan for the project activities.
+Further, the loan component under the scheme can also be dovetailed with subsidy, as applicable and available from other Government of India schemes. NCDC funding is project based.
+It is being implemented by
+National Cooperative Development Corporation
+(NCDC) across the country.
+Features
+NCDC has produced a dedicated fund with liberal traits entitling youth to avail the scheme.
+linked with Rs.1000 crores
+of the Cooperative Start-up and Innovation Fund that has been authorised by the NCDC.
+It provides more incentives to the cooperatives working in the North-Eastern region and the aspirational districts.
+Exclusive benefits are provided for women, Scheduled Caste and Scheduled Tribe candidates.
+Yuva Sahakar Scheme is a part of Sahakar 22, a Mission for Doubling Farmers' Income by 2022.
+Click to View More
+Source :
+Polity & Governance
+**********Railways (Amendment) Bill, 2024
+The Railways (Amendment) Bill, 2024, was passed recently in the Lok Sabha, despite disruptions.
+About Railways (Amendment) Bill, 2024:
+All the provisions
+in the erstwhile colonial-era
+Indian Railway Board Act, 1905
+, are proposed
+to be incorporated in the Railways Act, 1989,
+through this Bill.
+It is intended to simplify the legal framework and
+reduce the need to refer to two laws
+The Bill also proposes to
+amend the Railways Act, 1989
+, to
+provide statutory backing to
+, which has functioned without such a sanction since it began functioning.
+The statutory powers seek to
+enhance the functioning and independence
+of the Railway Board.
+It also
+authorises the Union government to decide the composition
+This
+includes the number of members,
+their
+terms of service,
+and their
+qualifications and experience
+Independent regulator
+: The bill proposes to
+establish an independent regulator to oversee tariffs, safety, and
+participation of the private sector
+in the Railways.
+to improve operational efficiencies and
+decentralize powers, granting greater autonomy to railway zones.
+The amendment is
+expected to speed up the approval process for train services
+that will help meet pending demands from various regions.
+The bill will
+allow the government to fast-track infrastructure and superfast train operations.
+Click to View More
+Source :
+Amid din, Lok Sabha clears Railways Bill to enhance independence of Board
+Polity & Governance
+**********Guruvayur Temple
+The Supreme Court recently agreed to examine a plea against the Kerala High Court order in favour of the administration of the Guruvayur temple, which decided to discontinue the ancient ritual of "udayasthamana pooja" on Ekadasi, citing crowd management issues.
+About Guruvayur Temple:
+Guruvayoor Sree Krishna Swamy Temple
+, also known as the
+Dwarka of the South
+, is a Hindu temple dedicated to
+Lord Krishna.
+It is located in the small town of Guruvayur, in the Thrissur District of
+earliest temple records
+date back to the
+17th century
+, but
+other literary texts
+and legends indicate that the temple may be around
+5000 years old
+In 1716 AD
+he Dutch plundered
+set fire to the temple
+. It was
+rebuilt in 1747 AD.
+In terms of devotees
+every day, it is the
+fourth biggest shrine in India
+Features:
+Lord Krishna, or
+Guruvayoorappan
+, is the
+chief deity
+of this temple.
+The temple is built in the traditional
+Kerala architectural style
+It is believed that the central shrine of the temple was reconstructed in the year 1638 C.E.
+Structures like the Nalambalam (temple structure surrounding the sanctum sanctorum), Balikkal (sacrificial stone), and Deepastambam (pillar of lights) are situated on the temple premises.
+wall of the sanctum sanctorum
+is decked with ancient
+17th-century murals
+Another famous sight here is the
+Dwajasthamba
+. It is a
+flagstaff
+around 70 feet
+tall
+fully covered with gold.
+Thulabharam
+is one of the
+most popular offerings
+at Guruvayur Temple. In this ritual,
+devotees are weighed against
+jaggery, coconuts, sugar, or bananas on a giant set of scales. This quantity is then given to the Lord as an offering.
+The temple is also noted for being
+home to a large population of captive male Asian elephants.
+Punnathur Kotta elephant sanctuary
+, where 56 elephants live, is very close to the temple.
+Click to View More
+Source :
+Supreme Court slams Guruvayur temple's decision to skip ancient ritual on Ekadasi
+Art and Culture
+**********World Malaria Report 2024
+Malaria cases in India dropped 69%, from 6.4 million in 2017 to 2 million in 2023. Deaths fell by 68%, from 11,100 to 3,500, according to the World Malaria Report 2024.
+About World Malaria Report 2024:
+It is an annual report released by the
+World Health Organisation (WHO).
+It serves as a vital tool to assess global progress and gaps in the fight against malaria.
+Highlights of the 2024 Report:
+Globally, the report noted an estimated
+263 million malaria cases
+597,000 deaths in 2023
+, representing an
+increase of 11 million cases
+compared to 2022, with deaths remaining nearly the same.
+Africa
+continues to bear the brunt of the disease, accounting for
+94 percent of global cases
+95 percent of malaria deaths in 2023
+children under 5
+accounting for 76
+% of mortality
+Four countries —
+Nigeria, the Democratic Republic of the Congo, Niger and Tanzania
+— contributed over
+half of the region’s deaths
+In India,
+the report highlighted that the
+country officially exited the High Burden to High Impact (HBHI) group in 2024
+due to significant reductions in malaria incidence and mortality in high-endemic states.
+The number of estimated
+malaria cases in India
+decreased
+, marking a 69% drop.
+Similarly,
+malaria deaths fell
+over the same period, a 68% reduction.
+Despite these advances,
+India accounted
+half of all malaria cases in the WHO South-East Asia Region in 2023
+, which saw a reduction of 82.4% in cases, from 22.8 million in 2000 to 4 million in 2023.
+The region
+, home to a quarter of the world’s population, represented
+5% of global malaria cases in 2023.
+Click to View More
+Source :
+India makes 'significant progress' in malaria control; deaths drop by 68%: WHO report
+Science & Tech
+**********What is Haemophilia A?
+Scientists in India have reported success with using gene therapy to treat severe haemophilia A.
+About Haemophilia A:
+Hemophilia A (
+classic hemophilia
+) is
+one of three types of hemophilia
+, a
+rare, inherited blood disorder.
+It
+happens
+when
+your
+blood doesn’t clot as it should
+, which is when bleeding stops or slows down.
+It is a
+sex-linked
+. The
+for haemophilia is
+carried on the X chromosome
+Causes
+When you bleed
+series of reactions
+take place in the body that
+helps blood clots
+This process is
+called the coagulation cascade.
+involves
+as many as
+20 different
+special proteins called coagulation, or
+clotting, factors.
+You may have a higher chance of excess bleeding if one or more of these factors are missing or are not functioning like they should.
+Hemophilia A is caused by a
+lack of blood clotting factor VIII.
+Without enough factor VIII, the
+blood cannot clot properly to control bleeding
+Symptoms
+The severity of symptoms varies.
+Prolonged bleeding
+is the main symptom.
+Bleeds
+can occur internally,
+in joints and muscles
+or externally
+, from minor cuts, dental procedures, or injuries.
+Treatment
+It is treated by boosting clotting factor levels or
+replacing missing clotting factors
+replacement therapy
+).
+Other treatments may include
+medications
+to promote clotting
+or surgery
+to repair damage caused by bleeding.
+Click to View More
+Source :
+Indian scientists develop novel gene therapy treatment for haemophilia
+Science & Tech
+**********Imaging X-Ray Polarimetry Explorer (IXPE)
+NASA’s Imaging X-ray Polarimetry Explorer (IXPE) has revealed the structures in a newly discovered X-ray binary system designated as Swift J1727.8-1613, or Swift J1727 in short.
+About Imaging X-Ray Polarimetry Explorer
+:
+It is a
+NASA Small Explorer Mission
+collaboration with the Italian Space Agency (ASI).
+IXPE was
+launched aboard a SpaceX Falcon 9 rocket
+from Kennedy Space Center, Florida, on December 9,
+2021
+IXPE is
+NASA’s first mission to study
+polarization of X-rays from
+many
+different types of celestial objects.
+Objects such as black holes can heat surrounding gases to more than a million degrees. The high-energy X-ray radiation from this gas can be polarized – vibrating in a particular direction.
+The observatory features
+three identical telescopes
+, each consisting of a mirror module assembly with a
+polarization-sensitive imaging x-ray detector
+at the focus.
+IXPE measurements will provide new dimensions for probing a wide range of cosmic X-ray sources - including active galactic nuclei (AGN) and microquasars, pulsars and pulsar wind nebulae, magnetars, accreting X-ray binaries, supernova remnants, and the Galactic center.
+Click to View More
+Source :
+NASA’s space observatory probes exotic X-ray binary system
+Science & Tech
+**********Pressuring the RBI to Lower the Interest Rate Is Not Going to Solve the Problem
+Context
+Recent remarks by India’s commerce and finance ministers
+have reignited
+the debate on the independence of RBI.
+By
+subtly suggesting that the central bank reconsider its stance on interest rates
+, the ministers have
+touched upon two critical issues:
+the relationship between government and RBI policy and
+the potential efficacy of monetary policy in addressing economic growth concerns.
+Amid these developments, it is important to evaluate the issue of RBI autonomy, growth concerns,
+RBI’s role and the ongoing debate on food inflation while considering their broader implications for the economy.
+The Question of RBI Autonomy, Government’s Interference, and the Risks of Politicising Monetary Policy
+The Role of Central Bank Autonomy
+The autonomy of central banks
+, such as the RBI,
+is a cornerstone of effective monetary policy.
+This
+independence allows the RBI to make decisions based on technical analysis
+and long-term economic considerations,
+free from political pressures.
+It
+operates under a framework where the government sets broad policy goals
+, such as the inflation target of 4 percent established in 2016,
+but the execution of these goals is left to the RBI.
+separation ensures that the central bank can focus on its core responsibilities
+, particularly controlling inflation, without undue interference.
+Government Interference and its Risks
+When
+government officials publicly suggest changes to the RBI’s policies
+it can undermine this carefully maintained independence.
+The commerce and finance ministers’ recent remarks on interest rates and inflation are examples of this tension.
+Although framed as advice, these statements can be interpreted as an attempt to steer the RBI toward decisions that align with the government’s immediate priorities,
+such as boosting economic growth.
+encroachment risks compromising the RBI’s credibility as a neutral institution
+, reducing confidence among investors and stakeholders in its ability to act independently.
+The Risks of Politicising Monetary Policy
+In this context,
+the ministers’ suggestions
+to exclude food inflation from the inflation index or to address credit availability by lowering interest rates
+appear problematic.
+These proposals, though potentially well-meaning
+risk politicising the RBI’s policy
+They
+prioritise short-term growth concerns over the central bank’s long-term objective
+of maintaining price stability.
+Autonomy is not just a matter of process; it is essential for ensuring that monetary policy serves the broader and enduring interests of the economy
+rather than immediate political considerations.
+An Analysis of India’s Economic Growth Concerns and RBI’s Role
+Growth Deceleration and Manufacturing Challenges
+slowdown in India’s economic growth has sparked concerns within the government,
+particularly due to its potential political and developmental implications.
+While the economy recorded a stellar GDP growth rate of 8.2 percent in 2023-24
+, this momentum appears to have weakened in the current fiscal year,
+with growth in the first half of 2024-25 estimated at 6 percent.
+manufacturing sector, a cornerstone of the government’s policy focus for over a decade, has seen a sharper decline in growth rates
+—from 9.6 percent to 4.5 percent over the same period.
+Oversimplifying Growth Dynamics
+This deceleration has likely prompted the government to explore ways to sustain high growth rates, particularly in manufacturing, which is crucial for job creation and exports.
+However,
+the belief that the RBI’s monetary policy adjustments, such as lowering interest rates, can meaningfully reverse this trend oversimplifies the dynamics
+of economic growth.
+Growth is influenced by a combination of factors, including demand conditions, structural reforms, fiscal policy, and global economic trends.
+The Limits of Monetary Policy
+Monetary policy tools like interest rate adjustments primarily address supply-side issues,
+such as borrowing costs for businesses.
+Lowering interest rates can incentivise companies
+to invest by reducing the cost of capital.
+in the absence of strong demand signals, firms are unlikely to expand production or borrow more
+, regardless of lower interest rates.
+Businesses base investment decisions on anticipated sales, and if consumer demand remains weak, the expected returns on new investments will not justify additional borrowing.
+Misdiagnosing the Economic Problem
+Thus,
+urging the RBI to cut interest rates as a solution to the current economic slowdown misdiagnoses the problem.
+The issue is not a lack of liquidity or high borrowing costs but insufficient demand in the market.
+Applying a supply-side solution to a demand-side problem is unlikely to yield the desired results.
+Instead, addressing the structural issues, such as stagnant real wages and weak private consumption, is essential for restoring growth momentum.
+The Debate on Food Inflation and Broader Implications of Ministers’ Comments
+The commerce minister’s suggestion to exclude food prices from the inflation index is particularly contentious.
+Food inflation, which exceeded 10 percent in October, directly affects consumer
+High food costs reduce disposable income for non-essential goods, further slowing demand in sectors like manufacturing.
+Removing food prices from the index would distort inflation
+measurements without addressing the root causes of price increases.
+Such a move might ease the government’s concerns
+about meeting inflation targets
+but would do little to solve either inflation or growth challenges.
+ministers’ comments reflect growing anxiety
+within the government about slowing economic momentum.
+their proposed solutions risk diverting attention from more pressing structural issues,
+such as stagnant wages and lagging private investment.
+Instead of urging the RBI to lower interest rates,
+the government should focus on stimulating demand through policies that enhance wage growth and boost consumer confidence.
+Additionally,
+tackling food inflation directly through agricultural reforms and supply-chain improvements would yield more meaningful results
+than simply excluding it from the inflation index.
+Way Forward:
+Comprehensive Solutions for Demand Revival
+The government’s focus on manufacturing growth is understandable, given its importance to long-term economic stability and employment generation.
+overreliance on the RBI’s monetary policy to resolve what is fundamentally a demand-side issue risks diverting attention from the more comprehensive measures
+Enhancing consumer purchasing power through targeted fiscal policies
+, such as wage support programs, tax relief for lower-income groups, or direct income transfers,
+could provide a more effective and sustainable boost to demand.
+Conclusion
+While the government’s concerns about growth are understandable,
+its attempts to influence the RBI’s monetary policy are both inappropriate and misguided.
+Furthermore,
+addressing India’s current economic challenges requires a nuanced approach
+that goes beyond monetary policy.
+Policymakers must prioritise demand-side interventions,
+such as boosting wages and curbing inflation, to achieve sustained and equitable growth.
+A collaborative but independent relationship between the government and the RBI is essential
+for navigating these complexities.
+Click to View More
+Editorial Analysis
+**********Ghost gun
+Why in news?
+Luigi Mangione, the person suspected of the fatal shooting of UnitedHealthcare CEO Brian Thompson, was carrying a “ghost gun” when he was apprehended.
+The police suspect Mangione’s gun may have been made using a 3D printer.
+What’s in today’s article?
+3D Printing
+Ghost Gun
+3D printing
+Background
+Invented in the 1980s, 3D printing burst into the mainstream around the 2010s.
+The technology, however, at that time was expensive, slow and prone to making errors. In recent years, some of these flaws have been done away with, making 3D printing more prevalent than ever before.
+About
+3D printing, also known as
+additive manufacturing
+, is a process of creating three-dimensional objects from digital models by adding material layer by layer.
+It is an additive process, in which layers of a material like plastic, composites or bio-materials are built up to construct objects that range in shape, size, rigidity and colour.
+This process allows for more efficient and customized production compared to traditional subtractive manufacturing methods.
+Some notable examples
+3D printing is being used in a host of different industries like healthcare, automobile and aerospace.
+In May 2023, aerospace manufacturing company Relativity Space launched a test rocket made entirely from 3D-printed parts, measuring 100 feet tall and 7.5 feet wide.
+Shortly after its take off, however, it suffered a failure.
+At the peak of the Covid-19 pandemic in 2020, the healthcare industry
+used 3D printers to make much-needed medical equipment, like swabs, face shields, and masks, as well as the parts to fix their ventilator
+Ghost guns are untraceable firearms, often made using 3D printers and assembled from various parts, including metals and plastics.
+These guns lack serial numbers, making them difficult for law enforcement to trace.
+Kits for assembling such weapons were initially popular among hobbyists in the US, symbolizing libertarian ideals, but have now gained popularity among criminals due to their anonymity.
+Concerns
+The ease of creating ghost guns bypasses background checks required for commercial firearm sales.
+This incident highlights the evolution of 3D printing technology and raises concerns about its misuse in crafting precision equipment like firearms.
+A Growing Threat in the US
+Untraceable and Increasingly Prevalent
+Ghost guns, formally known as Privately Made Firearms (PMF), are becoming a significant problem in the US due to their untraceable nature.
+Sharp Rise in Recoveries
+In 2022, the US Department of Justice recovered 25,785 ghost guns, reflecting a staggering 1,300% increase since 2016.
+Between 2017 and 2021, nearly 38,000 suspected ghost guns were recovered during domestic seizures.
+Recent Trends
+The number of ghost guns recovered and traced increased significantly.
+19,273 in 2021, up from 8,504 in 2020, according to the US Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF).
+Are ghost guns legal in the US?
+Biden’s 2022 Rule for Ghost Guns
+President Joe Biden introduced a rule in 2022 requiring ghost guns to adhere to the same regulations as commercial firearms.
+The rule mandates serial numbers and background checks for buyers.
+The measure faces legal challenges in the Supreme Court, with no final ruling yet.
+Arguments Supporting Ghost Guns
+Advocates claim ghost guns are for hobbyists and align with the Second Amendment, which protects the right to keep and bear arms.
+Supporters argue individuals have a right to build firearms for personal use.
+Existing Legal Framework
+Gun Control Act of 1968
+permits private citizens to construct guns for personal use without mandatory registration or traceability, provided they are not sold.
+Ghost gun.pdf
+( Size:  1.5 MB  )
+Click to View More
+Science & Tech
+**********WHO’s World Malaria Report 2024
+Why in news?
+The 2024 ‘World Malaria Report' has been released by WHO. As per the report, India has made "significant progress" in reducing malaria incidence and mortality.
+What’s in today’s article?
+Key highlights of the WHO’s World Malaria Report 2024
+India specific observations in the WHO’s World Malaria Report 2024
+About
+It is an acute febrile illness caused by Plasmodium parasites, which are spread to people through the bites of infected
+female Anopheles mosquitoes
+. It is a life-threatening disease primarily found in tropical countries.
+It is preventable and curable.
+Transmission of Malaria
+Malaria is not contagious and cannot spread from one person to another; the
+disease is transmitted through the bites of female Anopheles mosquitoes
+Five species of parasites
+can cause malaria in humans and 2 of these species –
+Plasmodium falciparum and Plasmodium vivax
+– pose the greatest threat.
+Global Burden (2023):
+263 million cases and 597,000 deaths were reported globally.
+African Region accounted for 95% of deaths, disproportionately affecting young children and pregnant women.
+Global Progress Since 2000:
+2.2 billion malaria cases and 12.7 million deaths were averted.
+Case incidence dropped significantly, with steady improvements in many regions.
+Certification of Malaria-Free Countries
+As of November 2024,
+WHO has certified 44 countries and one territory, including Egypt most recently, as malaria-free.
+Certification requires three consecutive years of zero indigenous malaria cases.
+25 malaria-endemic countries now report fewer than 10 cases annually, up from 4 in 2000.
+Country-Specific Trends in Malaria Cases
+Reduction in Cases (2022-2023):
+Nepal (-58.3%), India (-9.6%), Bangladesh (-9.2%), and Indonesia (-5.7%).
+Increases in Cases:
+North Korea (+47.9%), Thailand (+46.4%), and Myanmar (+45.1%).
+Timor-Leste and Bhutan reported zero indigenous malaria cases in 2023.
+South-East Asia’s Contribution to Malaria Reduction
+The WHO South-East Asia Region accounted for
+1.
+5% of global malaria cases in 2023
+India contributing nearly half
+and Indonesia about one-third.
+Estimated malaria cases in the region dropped by 82.4%, from 22.8 million in 2000 to 4 million in 2023.
+Malaria deaths in the region fell by 82.9%, from 35,000 in 2000 to 6,000 in 2023, with India and Indonesia accounting for 88% of these deaths.
+Challenges
+In Africa
+Despite global progress, Africa remains the region most affected by malaria.
+Funding and Systemic Challenges
+Funding in 2023 reached $4 billion, far below the $8.3 billion target set by the Global Technical Strategy.
+Insufficient funding resulted in gaps in insecticide-treated nets, medicines, and other critical tools.
+Additional challenges include fragile health systems, weak surveillance, and threats such as drug and insecticide resistance.
+Exacerbating factors include conflicts, natural disasters, climate change, and population displacement.
+Recommendations for Equity and Innovation
+Emphasis on robust data systems to monitor health inequities, with disaggregated data by sex, age, and social factors.
+Advocacy for equity, gender equality, and human rights as foundational principles of anti-malaria innovation.
+Engagement of affected communities in designing and evaluating new tools and approaches to combat malaria.
+Call to Action
+To sustain progress and address persistent challenges, the WHO urges increased investments, innovative approaches, and targeted action in high-burden regions, particularly in Africa.
+India Exits HBHI Group: Milestone in Malaria Control
+India has successfully reduced its malaria burden, exiting the High-Burden-High-Impact (HBHI) group of endemic countries.
+country's malaria cases decreased by 69%,
+from 6.4 million in 2017 to 2 million in 2023, and malaria deaths fell from 11,100 to 3,500 in the same period.
+Key Strategies Behind India’s Success
+Artemisinin-Based Combination Therapy (ACT)
+Artemisinin kills most malaria parasites, while a partner drug clears the remaining parasites.
+Long-Lasting Insecticidal Nets (LLIN):
+These nets block and kill mosquitoes, reducing mosquito populations and their lifespan when widely used.
+Targeted Interventions
+Focused efforts in forested and tribal areas in Jharkhand, Odisha, Chhattisgarh, and the North-East improved access to diagnostics, treatments, and drugs.
+Deployment of new-generation insecticide-treated nets offered enhanced protection.
+Effective Monitoring and Case Management
+Consistent evaluations helped ensure proper implementation of interventions.
+WHO’s World Malaria Report 2024.pdf
+( Size:  1.9 MB  )
+Click to View More
+Social Issues
+**********Lok Sabha Clears Railways Bill to Enhance Independence of Board
+Why in the News?
+The Railways (Amendment) Bill, 2024 was passed in the Lok Sabha, despite disruptions. The Bill was passed five months after it was introduced on the floor of the House.
+What’s in Today’s Article?
+Introduction (About Railways Bill, 2024)
+About Railways Bill (Key Features, Significance, Criticism, etc.)
+Introduction:
+Railways Act, 1989
+regulates various aspects of Indian Railways' administration and operation. The
+Indian Railway Board Act, 1905
+created the Railway Board as the central authority for railway governance.
+Key Features of the Railways (Amendment) Bill, 2024:
+Repeal of the Indian Railway Board Act, 1905:
+The Bill repeals the 1905 Act, which governed the establishment and powers of the Railway Board.
+Provisions from the 1905 Act are now incorporated into the
+, for a unified legal framework.
+This aims to simplify the legal framework by consolidating laws.
+Constitution of the Railway Board:
+Empowers the central government to determine:
+The number of Railway Board members.
+Qualifications, experience, and terms of service for the Chairman and members.
+Method of appointment for these positions.
+Streamlining Legal Provisions:
+Consolidates provisions for easier administration and to reduce the need for cross-referencing between multiple laws.
+Administrative Integration:
+Maintains the Railway Board’s central authority while aiming for operational efficiency and uniformity in governance.
+Significance:
+Legal Simplification
+Combines the provisions of the 1905 Act and the 1989 Act, reducing legislative redundancy and simplifying governance.
+Improved Governance
+Enables the central government to prescribe updated qualifications and service terms for Railway Board members, potentially improving leadership quality.
+Foundation for Future Reforms
+Aligns with recommendations for a modernized railway structure, paving the way for potential decentralization and private sector participation.
+Alignment with Development Goals
+The Bill is in line with India’s broader infrastructure and economic development objectives, which depend heavily on an efficient railway system.
+Opposition’s Concerns:
+Opposition leaders had raised multiple concerns:
+Privatisation Fears
+: Congress argued that the Bill could pave the way for privatising Indian Railways, reducing its accessibility for the poor.
+Impact on Autonomy
+: Many MPs expressed apprehensions that increased government control over Board appointments might erode the autonomy of Indian Railways.
+Passenger Concessions
+: Several MPs demanded the restoration of fare concessions for senior citizens, journalists, and economically weaker sections, which were discontinued during the pandemic.
+Conclusion:
+The Railways (Amendment) Bill, 2024, is a step toward simplifying the legal framework governing Indian Railways.
+However, addressing longstanding challenges in organization, financial sustainability, and private sector involvement remains critical for modernizing and expanding the Railways' efficiency and profitability.
+A greater push for decentralization, transparent regulation, and infrastructure investments is essential to meet these goals.
+Lok Sabha passes Railways (Amendment) Bill, 2024 despite disruptions.pdf
+( Size:  246.0 KB  )
+Click to View More
+Polity & Governance
+**********Gene Therapy Success in India
+Why in News?
+Indian scientists have achieved a major milestone by using gene therapy
+to treat severe Hemophilia A
+, a rare genetic condition causing life-threatening bleeding episodes. This pioneering work, tested on five patients in Tamil Nadu, has shown promising results, with no bleeding episodes reported over an average follow-up period of 14 months.
+What’s in Today’s Article?
+What is Gene Therapy?
+Understanding Hemophilia A
+The Promise of Gene Therapy
+Global Context of Gene Therapy
+Significance of the Gene Therapy Success in India
+Conclusion
+Human gene therapy
+seeks to modify or manipulate the expression of a gene or to alter the biological properties of living cells
+for therapeutic use.
+It is used
+to treat or cure disease including cancer, genetic diseases, and infectious diseases
+Gene therapies can work by several mechanisms:
+Replacing a disease-causing gene with a healthy copy of the gene.
+Inactivating a disease-causing gene that is not functioning properly.
+Introducing a new or modified gene into the body to help treat a disease.
+There are a variety of types of gene therapy products
+, including:
+Plasmid DNA:
+Circular DNA molecules can be genetically engineered to carry therapeutic genes into human cells.
+Viral vectors:
+Once viruses have been modified to remove their ability to cause infectious disease, these modified viruses can be used as vectors (vehicles) to carry therapeutic genes into human cells.
+Bacterial vectors:
+Bacteria can be modified to prevent them from causing infectious disease and then used as vectors (vehicles) to carry therapeutic genes into human tissues.
+Human gene editing technology:
+The goals of gene editing are to disrupt harmful genes or to repair mutated genes.
+Patient-derived cellular gene therapy products:
+Cells are removed from the patient, genetically modified (often using a viral vector) and then returned to the patient.
+Understanding Hemophilia A:
+What is Hemophilia?
+It is a rare, inherited blood disorder that prevents blood from clotting properly.
+can be classified
+as minor or severe depending on the percentage of clotting factors present in those afflicted.
+What is Hemophilia A?
+Meaning:
+It is a rare hereditary disorder caused by the absence of Factor VIII, a critical blood-clotting protein.
+Severity:
+Classified as minor or severe based on clotting factor levels; severe cases have less than 1% clotting factor.
+Global context:
+India has the world’s second-largest patient pool, estimated at 40,000-100,000.
+Current treatments:
+Frequent interventions:
+Repeated Factor VIII infusions, monoclonal antibodies, or mimicking substances are used.
+High costs:
+Treatment costs in India are approximately ₹2.54 crore per patient over 10 years, making it inaccessible for many.
+The Promise of Gene Therapy:
+How does it work?
+One-time solution:
+Gene therapy introduces a functional gene that enables the body to produce sufficient Factor VIII, reducing or eliminating the need for repeated infusions.
+Innovative technique used:
+The Indian trial fused stem cells with the clotting factor gene using
+lentivirus
+(a safer vector compared to adenovirus), which eliminates the need for immunosuppressive drugs.
+Results from the trial:
+Patients:
+Five individuals treated, with no bleeding episodes over 14 months.
+Research team:
+Led by Alok Srivastava from the Christian Medical College (CMC), Vellore.
+Support:
+Funded by the Union Department of Biotechnology.
+Global Context of Gene Therapy:
+Roctavian:
+Approved by the U.S. FDA in 2023, reducing bleeding incidents significantly in patients.
+Mechanism:
+Uses adenovirus vectors to deliver the therapeutic gene, requiring immune suppression.
+Significance of the Gene Therapy Success in India:
+Experts called the study “
+ground-breaking
+” due to:
+Resource constraints:
+Demonstrating the feasibility of conducting advanced gene therapy in a developing country.
+Cost reduction:
+Potential for localising gene therapy manufacturing in India, improving accessibility.
+Broader access:
+Overcoming barriers like immunosuppressive therapy and age limitations. This method may allow
+younger patients
+to receive treatment, overcoming challenges like liver maturity and health.
+Conclusion:
+The success of this gene therapy trial in India represents
+a transformative step
+in treating Hemophilia A, offering
+a safer, more accessible, and effective solution
+This breakthrough not only holds promise for India but also sets a global precedent for advancing medical care in resource-constrained settings.
+Indian scientists develop novel gene therapy treatment for haemophilia.pdf
+( Size:  205.2 KB  )
+Click to View More
+Science & Tech
+**********Vaikom- two States, two leaders and a tale of reform
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Cause and significance of Vaikom Satyagraha;
+Why in the News?
+Over a century ago, the Vaikom Struggle broke caste barriers in Travancore, sparking mass movements for religious reform, inspiring Periyar’s Dravidian Movement, and advancing egalitarian principles within Hindu society.
+What were the key motivations and outcomes of the Vaikom Satyagraha?
+Motivations:
+Social Inequality:
+The primary motivation was to challenge the caste-based discrimination that prohibited backward caste Hindus from accessing streets near the Vaikom Mahadeva temple.
+Demand for Equal Rights:
+A call for equality and dignity for all castes within the Hindu religion.
+Religious Reform:
+The movement sought to highlight the need for social justice through religious reform and temple entry rights.
+Political Awareness:
+It aimed to bring political attention to caste discrimination and mobilize support for broader social changes.
+Outcomes:
+Immediate Impact:
+The restrictions on backward castes from walking near the temple were lifted in 1925, marking a significant social reform milestone.
+Mass Mobilization:
+It became one of the first large-scale movements in South India that united people across caste and class lines.
+Precedent for Temple Entry Movements:
+The success of Vaikom inspired subsequent movements across India, including protests led by B.R. Ambedkar.
+Legislative Reforms:
+It influenced the introduction of laws like the Madras Temple Entry Authorization Act (1947), allowing all Hindus to enter temples.
+Foundation for Social Justice Policies:
+The movement set the stage for government interventions in temple management and appointments of priests from backward castes.
+How did the leadership of the movement influence its success?
+The success of the Vaikom Satyagraha can be attributed largely to its leadership. Key figures included
+Periyar E.V. Ramasamy,
+who played a crucial role in mobilising support across various social strata and employing nonviolent methods of protest. His involvement transformed the movement into a mass agitation that attracted participants from all classes.
+The support from
+Mahatma Gandhi,
+who visited Vaikom in March 1925 and engaged with various caste groups, further amplified its impact. The collaboration among leaders from different backgrounds, including local leaders like
+T.K. Madhavan
+K.P. Kesava Menon,
+was instrumental in broadening the movement’s appeal and sustaining momentum against state repression.
+What lessons can contemporary society learn from the Vaikom Satyagraha regarding caste and social justice?
+The Vaikom Satyagraha offers several important lessons for contemporary society regarding caste and social justice:
+Collective Action:
+The movement exemplifies how collective action can effectively challenge systemic injustices. It highlights the importance of unity among diverse groups in advocating for social change.
+Nonviolent Protest:
+The use of nonviolent methods remains a powerful tool for social movements today. The Gandhian approach adopted during the Vaikom Satyagraha serves as a model for contemporary struggles against discrimination and inequality.
+State Intervention:
+The eventual recognition of rights for marginalised communities underscores that government intervention can be necessary to dismantle entrenched social hierarchies. This raises discussions about how modern states can balance secularism with equitable access to public resources.
+Continuous Struggle:
+The resistance faced by reformers during and after the Vaikom Satyagraha illustrates that societal change is often met with opposition. This calls for sustained efforts in advocating for equality and justice in today’s context.
+Conclusion:
+The Vaikom Satyagraha was a landmark movement for caste and social justice, showcasing the power of collective action, nonviolence, and reformist leadership. Its legacy inspires continued efforts toward equality, challenging entrenched discrimination, and fostering inclusive societies.
+Mains PYQ:
+Since the decade of the 1920s, the national movement acquired various ideological strands and thereby expanded its social base. Discuss.
+(UPSC IAS/2020)
+**********Climate impact of exploring space passing below the radar
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Challenges related to space environment;
+Why in the News?
+The growing reliance on space technologies for climate monitoring highlights urgent environmental concerns, including
+orbital debris
+and
+system interference,
+necessitating swift international regulations to ensure sustainable space exploration practices.
+How do Rockets affect the environment?
+Emissions from Launches:
+Every rocket launch releases significant amounts of carbon dioxide, black carbon, and water vapour into the atmosphere. Black carbon is particularly concerning as it absorbs sunlight much more effectively than carbon dioxide, exacerbating global warming.
+Ozone Layer Depletion:
+Rocket propellants, especially those containing chlorine-based chemicals, contribute to the depletion of the ozone layer at high altitudes. This increases ground-level exposure to ultraviolet radiation and disrupts atmospheric circulation, negatively impacting global climate.
+Satellite Ash:
+When satellites re-enter the atmosphere at the end of their missions, they burn up and release metallic ash into the middle layers of the atmosphere, which can harm the atmosphere and potentially alter climate patterns.
+Manufacturing Footprint:
+The production of satellites involves energy-intensive processes that have large carbon footprints due to the extraction and processing of metals and composite materials.
+Space Mining Potential:
+Future activities such as space mining could lead to increased industrial activity both in space and on Earth, further contributing to environmental impacts.
+What are the Barriers to space sustainability?
+Lack of Regulation:
+Current space activities operate outside international sustainability frameworks like the Paris Agreement. There are no clear guidelines for emissions from rockets and satellites, allowing unchecked growth that contributes to global warming.
+Overcrowding in Low Earth Orbit (LEO):
+The increasing number of satellites and debris threatens to overcrowd LEO, making future missions more expensive and complicating access to space as a shared resource.
+Need for International Cooperation:
+Effective regulation requires collaboration through international bodies like the
+Committee on the Peaceful Use of Outer Space (COPUOS)
+to create enforceable standards for emissions and debris management.
+Outdated Treaties:
+Existing frameworks such as the
+Outer Space Treaty
+lack binding provisions that address environmental impacts, limiting their effectiveness in promoting responsible space use.
+What would be the innovative solutions?
+Reusable Rockets:
+Developing reusable rockets can significantly reduce manufacturing waste and lower costs by allowing components to be used in multiple missions. However, these rockets may be heavier, increasing fuel consumption, and require costly refurbishments.
+Cleaner Fuels:
+Transitioning to cleaner fuels such as
+liquid hydrogen or biofuels
+can minimize harmful emissions during launches. However, current hydrogen production methods often rely on non-renewable energy sources, undermining its environmental benefits.
+Biodegradable Satellites:
+Designing satellites with biodegradable materials that disintegrate upon re-entry could help prevent long-term debris accumulation. However, these materials currently lack durability for space conditions and face high development costs.
+Autonomous Debris Removal (ADR):
+Technologies like
+robotic arms
+laser systems
+show promise for cleaning up orbital debris but require significant investment and legal clarity before implementation.
+Global Traffic Monitoring System:
+Establishing a real-time monitoring system for satellites and debris could reduce collision risks and optimize orbital use. However, data-sharing concerns due to security and commercial interests hinder its development.
+Way forward:
+Establish Binding International Frameworks
+: Governments should collaborate through COPUOS and other international platforms to create enforceable regulations for emissions, debris mitigation, and sustainable practices in space exploration.
+Promote Innovation Through Incentives
+: Public and private entities should prioritize funding for green technologies, such as cleaner fuels, biodegradable satellites, and debris removal systems. Financial incentives like subsidies, tax benefits, or penalties can accelerate the adoption of sustainable practices in the space sector.
+Mains PYQ:
+Why is Indian Regional Navigational Satellite System (IRNSS) needed? How does it help in navigation?
+(UPSC IAS/2018)
+**********Impeachment of Judges
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Opposition in Rajya Sabha is preparing to move a motion for impeachment of
+Allahabad High Court Judge
+for his controversial remarks inciting communal hatred.
+Impeachment Process
+for Judges in India
+About
+The process involves Parliament passing an address to the President to remove the judge.
+To pass the motion,
+two
+–
+thirds of the MPs present and voting
+in both Lok Sabha and Rajya Sabha;
+Must approve it, with a
+majority of more than 50%
+the total membership of each House.
+Key Constitutional Provisions
+Article 124(4)
+: The judge can only be removed by a
+Presidential order
+, passed after a
+majority vote
+in both Houses of Parliament.
+The vote must come from
+two-thirds
+of the members present and voting.
+Articles 218
+of the Constitution extends the same rules to High Court judges.
+The impeachment process ensures
+judicial independence
+by maintaining a high bar for removal, limiting political influence.
+Grounds for Impeachment
+A judge of the Supreme Court or High Court can be impeached on
+two grounds
+“proved misbehaviour”
+“incapacity”
+as per the Constitution of India.
+Further clarified in the
+Judges (Inquiry) Act, 1968
+, including:
+Misuse
+of office
+Grave offences
+that undermine the judge’s integrity
+Contravention
+of the provisions of the Constitution.
+What does the process entail?
+Procedure under the Judges Inquiry Act, 1968:
+Initial Step
+: The impeachment motion must be signed by at least
+100 MPs in the Lok Sabha
+50 MPs in the Rajya Sabha
+Committee Formation
+: Once the motion is introduced, the Speaker or Chairperson of the respective House forms a three-member inquiry committee:
+Headed by the
+Chief Justice of India
+or a
+Supreme Court judge
+The second member is usually a
+Chief Justice of any High Court
+The third member is a
+distinguished jurist
+, appointed by the Speaker or Chairman.
+Inquiry Process
+: The committee investigates the charges, cross-examines witnesses, and regulates its procedure.
+The committee may also request a
+medical test
+if the charge relates to
+mental incapacity
+Outcome
+: If the committee finds the judge not guilty, the motion is dismissed. If found guilty, it will be reported back to the House for further action.
+Instances of Impeachment in India:
+1993
+Justice V Ramaswami
+(Supreme Court) faced impeachment proceedings on
+financial impropriety
+. The motion was
+unsuccessful
+despite a guilty finding.
+2011
+Justice Soumitra Sen
+(Calcutta High Court) was impeached for
+corruption
+but resigned before Lok Sabha could take up the matter.
+2015
+Justice S K Gangele
+(Madhya Pradesh High Court) faced impeachment on charges of
+sexual harassment
+, but the committee cleared him in 2017.
+Justice J B Pardiwala
+(Gujarat High Court) faced impeachment for controversial remarks about
+reservation
+but the motion was
+dropped
+after the judge expunged the remarks.
+Justice C V Nagarjuna
+(Andhra Pradesh & Telangana High Court) faced impeachment for
+financial misconduct
+victimizing a Dalit judge
+, but the motion was not pursued.
+PYQ:
+[2019]
+Consider the following statements:
+1. The motion to impeach a Judge of the Supreme Court of India cannot be rejected by the Speaker of the Lok Sabha as per the Judges (inquiry) Act, 1968.
+2. The Constitution of India defines and gives details of what constitutes ‘incapacity and proved misbehaviour’ of the Judges of the Supreme Court of India.
+3. The details of the process of impeachment of the Judges of the Supreme Court of India are given in the Judges (Inquiry) Act, 1968.
+4. If the motion for the impeachment of a Judge is taken up for voting, the law requires the motion to be backed by each House of the Parliament and supported by a majority of total membership of that House and by not less than two-thirds of total members of that House present and voting.
+Which of the statements given above is/are correct?
+(a) 1 and 2
+(b) 3 only
+(c) 3 and 4 only
+(d) 1, 3 and 4
+**********Centre wants States to make Snakebites a Notifiable Disease
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Notifiable Diseases
+Why in the News?
+The
+Union Health Ministry
+has urged states to make snakebites a
+, meaning both private and public hospitals must report it to the government.
+Snakebites Menace in India:
+Snakebites are a significant public health concern in India, with approximately
+3 to 4 million
+cases
+reported annually.
+It causes an estimated
+58,000 deaths
+every year, according to the
+2020 Indian Million Death Study
+States such as
+Bihar
+Jharkhand
+Madhya Pradesh
+Odisha
+Uttar Pradesh
+Andhra Pradesh
+Telangana
+Rajasthan
+, and
+Gujarat
+report the highest number of snakebites.
+National Action Plan for Prevention and Control of Snakebite Envenoming (NAPSE)
+, launched by the government earlier in 2024, aims to halve snakebite deaths by
+2030
+and includes making snakebites notifiable.
+What are Notifiable Diseases?
+Notifiable diseases are those that must be
+reported to the government
+for effective public health monitoring and management. These are typically:
+Infectious diseases
+likely to cause outbreaks.
+Diseases that result in
+or require
+quick action
+to prevent wider transmission.
+Legal Basis:
+According to
+WHO’s International Health Regulations, 1969
+, disease reporting is mandatory for global surveillance.
+The primary law governing notifiable diseases is the
+Epidemic Diseases Act, 1897
+which outlines the reporting requirements for diseases considered a public health threat.
+However, the
+specific list
+of notifiable diseases
+can vary across different states
+and is typically
+determined by the respective state governments
+under their individual public health acts.
+Common examples of notifiable diseases include
+tuberculosis
+HIV
+cholera
+malaria
+dengue
+hepatitis
+Why snakebite is considered a Notifiable Disease?
+Snakebites can cause
+severe health issues
+, including paralysis, fatal hemorrhages, and tissue damage, making it crucial for timely intervention.
+Victims need
+immediate antivenom
+treatment to prevent death and long-term effects.
+2009
+added snakebite to its list of
+Neglected Tropical Diseases (NTD)
+, acknowledging its widespread impact on public health.
+Making snakebites a notifiable disease will enhance
+, help track
+case numbers
+, and improve
+strategies across the country.
+It will ensure the
+availability of adequate antivenoms
+in regions where snakebites are frequent.
+Medical staff will receive
+training
+to handle snakebite cases effectively, reducing mortality rates.
+**********[pib] Projects under PM-DevINE Scheme
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Ministry of Development of North-East Region
+has provided
+progress update
+regarding various projects under the
+Prime Minister’s Development Initiative for North East Region (PM-DevINE) Scheme
+.
+About the PM-DevINE Scheme:
+Details
+PM-DevINE is a
+Central Sector scheme
+introduced under the Union Budget
+2022-23
+, aiming to drive development in the
+North Eastern Region (NER)
+through infrastructure and social projects.
+Aims and Objectives
+Infrastructure Development
+: Enhance connectivity and accessibility in NER, aligned with
+PM GatiShakti
+Social Development
+: Address critical issues and improve residents’ quality of life.
+Livelihood Opportunities
+: Focus on creating opportunities for youth and women.
+Structural Mandate and Implementation
+Nodal Agency:
+Ministry of Development of North-East Region.
+Approval
+: Cabinet approved on 12th October 2022.
+Central Funding
+: 100% central funding for projects.
+Outlay
+: Rs. 6600 crore for FY 2022-23 to FY 2025-26.
+Project Sanctions
+: 35 projects worth Rs. 4857.11 crore sanctioned as of November 2024.
+State-wise Project Analysis
+Sikkim
+: Passenger Ropeway System (completed), Skywalk Project (13% completed).
+Mizoram
+: Bamboo Link Roads (28% completed).
+Nagaland
+: Special Development Projects (30% completed).
+Assam
+: School Transformations (55% completed), IT Park Construction (23% completed).
+Manipur
+: Infrastructure for Manipur Technical University (25% completed).
+Tripura
+: Solar Micro Grid (30% completed), Skill Development Centre (work started).
+**********[pib] Jan Aushadhi Kendra’s by PACS
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Pradhan Mantri Bhartiya Jan Aushadhi Kendras
+Why in the News?
+The Government has empowered
+Primary Agricultural Credit Societies (PACS)
+to operate
+Pradhan Mantri Bhartiya Jan Aushadhi Kendras (PMBJK)
+, aiming to provide
+generic medicines at affordable prices
+to underserved rural areas.
+About
+Pradhan Mantri Bhartiya Jan Aushadhi Kendras (PMBJK) by PACS
+Details
+PMBJKs were
+established in November 2008
+Government-established outlets
+that provide affordable, quality generic medicines.
+Operated by
+(Primary Agricultural Credit Societies) in
+PACS are empowered to run these Kendras to ensure accessibility in remote regions
+under the
+Pradhan Mantri Bhartiya Jan Aushadhi Pariyojana (PMBJP).
+Aims and Objectives
+To provide affordable medicines, promote healthcare equity, and reduce medical expenses for farmers, while generating local employment and ensuring PACS’ financial sustainability through the sale of medicines and allied products.
+Structural Mandate and Implementation
+Administered by the
+Department of Pharmaceuticals
+Ministry of Chemicals and Fertilizers;
+Bureau of Pharma PSUs of India (BPPI)
+is the implementation agency.
+Implementation:
+PACS receive
+technical and administrative support
+from the Department of Pharmaceuticals.
+PACS leverage their existing infrastructure, including land, buildings, and storage, to run the Kendras.
+PACS-run Kendras receive a
+20% incentive
+on monthly purchases
+, capped at
+Rs. 20,000 per month
+Kendra owners receive a
+20% margin on MRP
+(excluding taxes).
+They can sell
+allied medical products
+Features and Significance
+Affordable Medicine Distribution
+: Ensures that generic medicines are affordable in rural areas.
+Economic and Healthcare Benefits
+: Reduces medical costs and improves healthcare outcomes for farmers.
+Alignment with National Health Policy
+: Supports equitable healthcare access, especially in remote areas.
+Strengthening Rural Infrastructure
+: Utilizes PACS’ infrastructure to boost rural healthcare.
+PYQ:
+[2015]
+Public health system has limitations in providing universal health coverage. Do you think that private sector could help in bridging the gap? What other viable alternatives would you suggest?
+**********

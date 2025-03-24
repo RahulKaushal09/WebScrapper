@@ -1,0 +1,1879 @@
+CITIES COALITION FOR CIRCULARITY (C-3)
+Syllabus:
+Prelims – CURRENT EVENT
+Context:
+India launched the Cities Coalition for Circularity (C-3) at the 12th Regional 3R and Circular Economy Forum in Asia and the Pacific, held in Jaipur.
+Background: –
+Prime Minister Modi, in a special written message to delegates at the launch, said India follows and strongly advocates the P (Pro-Planet People) approach and highlighted the role of 3Rs (reduce, reuse and recycle) and circular economy principles in ensuring sustainable urban development and resource efficiency.
+Key takeaways
+The Cities Coalition for Circularity (C-3) is a multinational alliance established to promote city-to-city collaboration, knowledge-sharing, and partnerships with the private sector, focusing on advancing circular economy principles.
+Key Objectives of C-3:
+City-to-City Collaboration: Facilitate cooperation among cities globally to share best practices and strategies for implementing circular economy models.
+Knowledge Sharing: Create a platform for exchanging technical expertise, innovative solutions, and successful case studies related to resource efficiency and waste management.
+Private Sector Partnerships: Engage businesses and industries in developing and adopting sustainable practices that contribute to a low-carbon economy.
+About Regional 3R and Circular Economy Forum in Asia and the Pacific
+The Regional 3R and Circular Economy Forum in Asia and the Pacific is an annual platform established in 2009 by the United Nations Centre for Regional Development (UNCRD) to promote the principles of Reduce, Reuse, and Recycle (3R) and advance circular economy initiatives across the Asia-Pacific region.
+The Forum serves as a collaborative space for policymakers, industry leaders, researchers, and development partners to discuss and implement sustainable solutions for waste management and resource efficiency.
+The 12th edition of the Forum was inaugurated on March 3, 2025, in Jaipur, India, focusing on the theme “Realizing Circular Societies Towards Achieving SDGs and Carbon Neutrality in Asia-Pacific.”
+Source:
+The Hindu
+**********
+GANGETIC DOLPHINS
+Prelims – ENVIRONMENT
+The first estimate of Gangetic dolphins, the only riverine dolphins in India, has found 6,327 of them in the Ganga and its tributaries.
+<img alt="" class="alignnone size-medium wp-image-202357 aligncenter" decoding="async" height="143" sizes="(max-width: 300px) 100vw, 300px" src="https://iasbaba.com/wp-content/uploads/2025/03/1-300x143.png" srcset="https://iasbaba.com/wp-content/uploads/2025/03/1-300x143.png 300w, https://iasbaba.com/wp-content/uploads/2025/03/1.png 609w" width="300"/>
+For the survey, researchers travelled by boat at a constant speed using acoustic hydrophones — essentially underwater microphones — that pick up sounds emitted by the dolphins. The animals are blind and rely on echolocation to communicate and move.
+The Gangetic Dolphin (Platanista gangetica) is a freshwater dolphin species endemic to the Ganges-Brahmaputra-Meghna and Karnaphuli-Sangu river systems of India and Bangladesh, and the Sapta Koshi and Karnali Rivers in Nepal.
+It is India’s National Aquatic Animal and plays a crucial role in the river ecosystem.
+Conservation Status –
+IUCN Red List: Endangered
+Wildlife Protection Act, 1972: Schedule I (Highest protection)
+CITES: Appendix I (Strict trade restrictions)
+CMS (Bonn Convention): Appendix II
+Characteristics
+Blind due to poorly developed eyes; relies on echolocation for navigation and hunting.
+Can only survive in freshwater and requires deep, slow-flowing rivers.
+Indicator species for healthy river ecosystems.
+Threats
+Habitat Degradation: Dams, barrages, and pollution (industrial, agricultural, and domestic waste) disrupt their natural habitat.
+Poaching: Hunted for oil and meat.
+Accidental Catch: Often gets entangled in fishing nets.
+Water Pollution: High levels of toxic metals, pesticides, and industrial effluents impact their survival.
+Conservation Efforts in India
+Project Dolphin (2020): Launched under the Ministry of Environment, Forest and Climate Change (MoEFCC) to protect river and marine dolphins.
+Vikramshila Gangetic Dolphin Sanctuary (Bihar): India’s only dolphin sanctuary.
+**********
+VIRTUAL DIGITAL ASSETS
+Prelims & Mains – ECONOMY
+For the first time in India, the Income Tax Bill, 2025 explicitly treats Virtual Digital Assets (VDAs) as property and capital assets.
+The bill categorically states that VDAs, which include crypto assets, Non-Fungible Tokens (NFTs), and similar digital assets, should be considered property. This move aligns India with global practices, where digital assets are either classified as securities (like in the U.S.) or property (like in the U.K., Australia, and New Zealand).
+VDAs are classified as capital assets. This means that any gains arising from their sale, transfer, or exchange will be taxed under capital gains provisions, similar to real estate, stocks, and bonds.
+For example, if an individual purchases Bitcoin at ₹10 lakh and sells it for ₹20 lakh, the ₹10 lakh profit will be subject to capital gains tax — either short-term or long-term, depending on the holding period.
+By treating VDAs as capital assets, the government ensures that transactions are subject to standard asset taxation principles, preventing their misuse as unregulated financial instruments.
+Continuing the precedent set in 2022, the bill imposes a 30% tax on income from VDA transfers.
+Unlike traditional capital assets, no deductions (other than the cost of acquisition) are allowed. This means that expenses related to mining, transaction fees, platform commissions, and gas fees cannot be deducted when calculating taxable income. For instance, if an investor buys Ethereum for ₹5 lakh and sells it for ₹7 lakh, the ₹2 lakh profit is taxed at a flat 30% — with no relief for transaction costs.
+Another crucial provision is the inclusion of VDAs in undisclosed income taxation and asset seizure regulations. If an individual fails to report VDA holdings in their tax filings, they can be classified as undisclosed income and taxed accordingly.
+Furthermore, Bill allows tax authorities to seize VDAs during investigations or tax raids, similar to how cash, gold, or real estate is confiscated in cases of tax evasion.
+As per the bill, any entity dealing in crypto assets — including exchanges, wallet providers, and even individual traders — is required to report transactions in a prescribed format.
+**********
+WORLD WILDLIFE DAY & CITES : THINGS TO KNOW
+March 3 is observed each year as World Wildlife Day to highlight the importance of conserving flora and fauna.
+In 2013, the United Nations General Assembly (UNGA) proclaimed March 3 as the UN World Wildlife Day to celebrate and raise awareness of protecting the world’s wild animals and plants. This was as the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) was signed in 1973 on this day.
+About CITES
+CITES is an international agreement aimed at ensuring that international trade in wild animals and plants does not threaten their survival.
+It is legally binding on the parties but does not take the place of national laws.
+Currently there are 185 Parties to CITES.  India is a party to CITES since 1976.
+The CITES Secretariat is administered by UNEP (The United Nations Environment Programme) and is located in Geneva, Switzerland.
+The Conference of the Parties to CITES is the supreme consensus-based decision-making body of the Convention and comprises all its parties.
+How does CITES work?
+The species covered under CITES are listed in three Appendices, according to the degree of protection they need.
+Appendix I includes species threatened with extinction. Trade in specimens of these species is permitted rarely, only in “exceptional circumstances”. Examples – Indian rhino,  Asiatic lion, Indian star tortoise.
+Appendix II includes species not necessarily threatened with extinction, but in which trade must be controlled to ensure their survival. For example, certain kinds of foxes and Hippopotamuses.
+Appendix III contains species that are protected in at least one country, which has asked other CITES Parties for assistance in controlling the trade, like the Bengal fox or the Golden Jackal from India.
+Different procedures are given category-wise to engage in the trade of species in each of the lists.
+Indian Express
+**********
+RACE FOR COPPER
+Prelims & Mains – CURRENT EVENT
+Recently, the government announced the securing of a 9,000-sq-km block to explore copper and cobalt in a region in Zambia known for high-grade deposits.
+With production in domestic mines faltering, the project is a crucial step for India to establish overseas mining operations.
+On February 25, the White House warned in a fact sheet that the “overreliance on foreign copper” could jeopardize U.S. With supply of copper ore tightening, China is moving to rein in smelting overcapacity – companies looking to build new smelters must secure long-term contracts with copper mines, many of which are in the Democratic Republic of Congo (DRC), Chile, and Peru.
+With the demand for copper, led by electric vehicle (EV) batteries and clean energy technologies, projected to outstrip supply from mines by 2035, countries are scrambling to secure supply chains and strengthen domestic capabilities.
+While more recycling and alternative battery chemistries could ease pressure on primary supply, mining remains critical to meeting global demand.
+India’s overseas focus
+Copper is listed as a critical mineral in India. Domestic ore production in 2023-24 was 3.78 million tonnes (mt), 8% lower than in 2018-19.
+Between April and January in the current financial year, ore production by government-owned Hindustan Copper Ltd (HCL), the sole domestic copper miner, was 6% lower year-on-year.
+Due to stagnant domestic ore production, India’s copper concentrate imports have doubled in value terms to Rs 26,000 crore in 2023-24 from 2018-19.
+While India has large copper deposits, they require extensive exploration before mining can commence. Globally it takes up to 17 years on average to operationalise a copper mine.
+To meet demand in the short term, India has been looking to secure both greenfield and brownfield mineral assets in copper-rich countries such as Zambia, Chile, and the DRC.
+Spotlight on Africa
+The share of Africa in the production of critical minerals such as copper, lithium, and natural graphite is rising.
+The continent already accounts for 70% of global cobalt production and 16% of global copper production. The DRC is on course to become the world’s second-largest copper supplier by 2030.
+India has got the 9,000-sq-km block in Zambia’s Northwestern province on a government-to-government basis. The Geological Survey of India (GSI) will explore the land, which is roughly six times the size of Delhi.
+Zambia is the seventh largest producer of copper in the world. (Chile, Peru and DRC are numbers 1, 2, and 3 respectively.)
+**********
+Daily Practice MCQs
+Q1.) The Gangetic Dolphin is classified under various conservation lists. Which of the following correctly states its status?
+IUCN Red List: Critically Endangered
+CITES: Appendix II
+Select the correct answer using the codes below:
+A) 1 and 2 only
+B) 2 and 4 only
+C) 2, 3, and 4 only
+D) 1, 2, and 4 only
+Q2.) Which of the following statements regarding Virtual Digital Assets (VDAs) in India is correct?
+A) VDAs are classified as legal tender in India.
+B) Gains from VDAs are not taxed in India.
+C) VDAs are treated as capital assets.
+D) Mining costs can be deducted while calculating taxable income from VDAs.
+Q3.) Consider the following statements regarding the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES):
+CITES is legally binding on the parties but does not replace national laws.
+India became a party to CITES in 1976.
+The CITES Secretariat is headquartered in New York, USA.
+Which of the statements given above are correct?
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1 only
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********Gangetic Dolphin
+The first ever estimate of Gangetic dolphins, the only riverine dolphins in India, has found 6,327 of them in the river Ganga and its tributaries.
+About Gangetic Dolphin:
+It is a
+freshwater species
+one of the few river dolphins
+found in the world.
+It inhabits the
+Ganges-Brahmaputra-Meghna
+Karnaphuli-Sangu river systems
+Nepal, India and Bangladesh.
+Common names:
+Blind dolphin, Ganges dolphin, Ganges
+susu
+, hihu, side-swimming dolphin, South Asian River Dolphin
+Scientific name:
+Platanista gangetica
+It has been recognized by the government of India as its
+National Aquatic Animal.
+Description:
+A long,
+thin snout
+, rounded belly,
+stocky body,
+large flippers
+are characteristics of the Ganges River dolphin.
+It weighs up to 150 kg.
+The calves are chocolate brown at birth and become
+grayish brown in adulthood
+with a smooth and hairless skin.
+Females are larger than males. The maximum size of a female is 2.67 m and of a male 2.12 m.
+It feeds majorly on fishes and is
+usually found in counter-current systems
+of the main river channel.
+Its
+eyes lack lens,
+and as a result, this species is also referred to as the "
+blind dolphin".
+They have a
+highly developed bio-sonar system
+that facilitates them
+to hunt
+for fish even in murky waters.
+emit an ultrasonic sound
+which
+reaches the prey
+. The dolphin then
+registers this image in its mind
+and subsequently catches hold of its prey.
+cannot breathe in the water
+and must surface every 30-120 seconds.
+Because of the sound it produces when breathing, the animal is popularly referred to as the
+'Susu'.
+Conservation status:
+IUCN: Endangered
+Wildlife (Protection) Act: Schedule-I
+CITES: Appendix I
+Click to View More
+Source :
+First estimate of Gangetic dolphins finds 6,327 across four States
+Environment
+**********Marbled Cat
+The elusive marbled cats have been recently spotted through camera traps at Dehing Patkai National Park in Assam's Tinsukia district.
+About Marbled Cat:
+(Pardofelis marmorata) is a
+small wild cat
+species that is
+native to South and Southeast Asia.
+It is believed to be closely
+related to the clouded leopard
+(Neofelis nebulosa) and the
+bay cat
+(Catopuma badia).
+Distribution
+This species is found in several countries in the region, including
+India, Nepal, Bhutan, Bangladesh, Myanmar, Thailand and Laos.
+In India
+, it is primarily found in the forests of
+Northeastern states,
+including Arunachal Pradesh, Assam, Meghalaya and Nagaland.
+Features
+It is a
+small wild cat species
+that has a distinctive
+marbled pattern on its fur.
+fur is brown or gray
+with
+black spots and stripes,
+which help the cats, blend into its forest environment.
+Males are typically larger than females, with males weighing between 4.5 and 9 kg, while females weigh between 2.5 and 5 kg.
+It is known to be
+excellent climbers
+and is capable of leaping great distance between trees.
+The species is
+territorial
+and marks its territory with urine and scent marking.
+solitary animal
+that spends most of the time alone.
+Conservation Status:
+IUCN Red List: Near Threatened
+Click to View More
+Source :
+Elusive marbled cats spotted at Dehing Patkai Nat’l Park
+Environment
+**********Nauradehi Wildlife Sanctuary
+Madhya Pradesh, with the highest population of wolves, is conducting a study on their ecology at Nauradehi Wildlife Sanctuary.
+About Nauradehi Wildlife Sanctuary:
+It is spread across three districts, i.e., Sagar, Damoh, and Narsinghpur, of
+Madhya Pradesh.
+It was declared a wildlife sanctuary in 1975.
+It covers nearly 1197
+sq.km
+. area.
+It is the
+largest wildlife sanctuary in Madhya Pradesh.
+The entire Sanctuary is situated on a plateau, forming part of the
+upper Vindhyan range
+It acts as a
+corridor for Panna Tiger Reserve
+Satpura Tiger Reserve
+while
+indirectly connecting Bandhavgarh Tiger Reserve via Rani Durgawati Wildlife Sanctuary
+The Sanctuary is classified under the
+Deccan peninsula biogeographic region
+and forms
+part of the Ganga and Narmada basins.
+Drainage
+Three-fourths
+of the wildlife sanctuary falls in the
+basin of the
+Ganges tributary, the
+Yamuna River,
+of which the
+Ken River is a tributary,
+one-fourth
+of the sanctuary falls i
+n the Narmada basin.
+The north-flowing
+Kopra River, Bamner River, Vyarma River, and Bearma River,
+which are
+tributaries of the Ken
+River, are the major rivers of this protected area.
+Vegetation:
+It is mainly a
+dry mixed-deciduous
+forest type.
+Flora
+: Major trees found are
+teak, saja, dhawda, sal, tendu
+(Coromandel ebony), bhirra (East Indian satinwood), and mahua.
+Fauna
+: The chief faunal elements include
+Nilgai, Chinkara, Chital, Sambhar, Black Buck,
+Barking deer, Common Langur, Rhesus Macaque, Freshwater Turtles, Spotted Grey Creeper, Cranes, Egrets, Lapwings, etc.
+Click to View More
+Source :
+For The First Time In Madhya Pradesh, Wolves In Nauradehi Wildlife Sanctuary Will Be Radio-Collared
+Environment
+**********Cities Coalition for Circularity (C-3)
+Union Minister for Housing and Urban Affairs recently announced the Cities Coalition for Circularity (C-3).
+About Cities Coalition for Circularity (C-3):
+It is a
+multi-nation alliance for city-to-city collaboration
+, knowledge-sharing, and
+private sector partnerships.
+It was
+announced at the 12th Regional 3R and Circular Economy Forum in Asia and the Pacific in Jaipur.
+It would
+act as a catalyst for resource efficiency
+and a
+low-carbon economy,
+strengthening collaboration between policymakers, industry leaders, and researchers to build a sustainable future.
+About the 12th Regional 3R and Circular Economy Forum in Asia and the Pacific:
+Theme
+: Realizing Circular Societies Towards Achieving SDGs and Carbon Neutrality in Asia-Pacific
+Venue
+: Rajasthan International Centre,
+, Rajasthan
+Organized by:
+Ministry of Housing and Urban Affairs (India), United Nations Centre for Regional Development (UNCRD), and Institute for Global Environmental Strategies (IGES).
+Supported by:
+United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP), Japan’s Ministry of Environment, and various other international and regional organizations.
+It will adopt the
+Jaipur Declaration (2025-2034)
+nonpolitical, nonbinding commitment
+that will guide the next decade of efforts towards resource efficiency and
+sustainable urban growth.
+What is a Circular Economy?
+The circular economy is a system where
+materials never become waste and nature is regenerated.
+In a circular economy, products and
+materials are kept in circulation
+through processes like maintenance, reuse, refurbishment, remanufacture, recycling, and composting.
+tackles climate change
+and other global challenges
+, like biodiversity loss, waste, and pollution, by decoupling economic activity
+from the consumption of finite resources.
+Click to View More
+Source :
+Manohar Lal announces C3 multi-stakeholder partnership for knowledge exchange for cities, technical institutions and tech providers
+**********World Wildlife Day
+The Prime Minister went on a lion safari at Gir Wildlife Sanctuary in Gujarat's Junagadh recently, on the occasion of the World Wildlife Day.
+About World Wildlife Day:
+It is celebrated on
+March 3
+every year to spread awareness about the importance of flora and fauna.
+This day encourages people to support conservation efforts, adopt sustainable practices, and coexist peacefully with nature.
+History
+It was
+established by the United Nations in 2013
+after Thailand proposed to dedicate a day to raise awareness about wildlife conservation.
+On December 20, 2013, the UN General Assembly officially declared March 3 as World Wildlife Day, with the
+first celebration taking place in 2014.
+This date was chosen because,
+in 1973,
+the Convention on International Trade in Endangered Species of Wild Fauna and Flora
+(CITES) was signed on the same day.
+CITES is a
+global agreement
+to ensure that
+international wildlife trade does not threaten the survival
+of animal and plant species.
+World Wildlife Day 2025 Theme: Wildlife Conservation Finance: Investing in People and Planet
+Click to View More
+Source :
+World Wildlife Day: PM Modi goes on lion safari in Gujarat's Gir National Park
+Environment
+**********Mission 300
+Recently, the World Bank and the African Development Bank (AfDB), along with key partners have launched Mission 300.
+About Mission 300:
+It is an
+ambitious initiative
+to provide electricity to
+300 million people
+Sub-Saharan Africa by 2030.
+It aims to accelerate the pace of electrification in Sub-Saharan Africa while ensuring that the transition to more diversified and cleaner sources of energy meets growing demand, brings economic growth, and creates jobs.
+It is led by the
+, in collaboration with key partners, Rockefeller Foundation, Global Energy Alliance for People and Planet (GEAPP), Sustainable Energy for All (SE4ALL), and Energy Sector Management Assistance Program (ESMAP).
+Key Components:
+Expanding the electricity grid and increasing connections in underserved areas.
+Deploying
+mini-grids and standalone solar solutions
+to bring power to remote, off-grid communities.
+Local communities
+are actively involved in the design and implementation of all World Bank Group supported Mission 300 projects
+The significant leap will deliver reliable, sustainable, and affordable electricity to people, businesses, schools, and hospitals all over the continent.
+Click to View More
+Source :
+Five Powerful Lessons From India’s Electrification Success For ‘Mission 300’
+International Relations
+**********Lake Tanganyika
+Recently, the countries which border Lake Tanganyika Basin have launched a five-year project to assess and address transboundary threats to the biodiversity of this lake basin.
+About Lake Tanganyika:
+It is an ancient lake located in
+East Africa.
+Bordering Countries:
+Burundi, Democratic Republic of the Congo (DRC), Tanzania and Zambia.
+It is extremely long, deepest and is the
+longest lake in the world,
+measuring over 400 miles long.
+It occupies the southern end of the
+Western Rift Valley
+, and for most of its length the land rises steeply from its shores.
+It is situated on the line dividing the
+floral regions of eastern and western Africa
+. The oil palms, which are characteristic of the flora of western Africa, grow along the lake’s shores.
+The largest rivers discharging into the lake are the
+Malagarasi, the Ruzizi
+, and the
+Its outlet is the
+Lukuga River,
+which flows into the
+Lualaba River.
+Rice
+and subsistence crops are grown
+along the shores,
+and fishing is of some significance.
+Recent Initiative:
+The governments of Burundi, the Democratic Republic of Congo, Tanzania and Zambia have launched a five-year project to assess and address transboundary threats to the biodiversity of the Lake Tanganyika Basin.
+It is the
+UN Environment Programme (UNEP)-
+led initiative and funded by the
+Global Environment Facility
+(GEF).
+It aims to enhance transboundary cooperation among the four countries bordering Lake Tanganyika.
+It will also promote sustainable fisheries, biodiversity conservation, and the restoration of degraded landscapes in the basin.
+The initiative will protect core conservation zones in three identified protected areas and promote sustainable natural resource use in protected areas and their buffer zones.
+Click to View More
+Source :
+Lake Tanganyika Basin countries launch initiative to protect biodiversity, halt land degradation
+Geography
+**********Ferrihydrite
+A recent study revealed that the red color of Mars could be due to the presence of an iron-containing mineral called ferrihydrite.
+About Ferrihydrite:
+It is a
+poorly crystalline nanomineral
+built up of about 20% (FeO4) and 80% (FeO6) polyhedra.
+Formation:
+It forms by
+rapid oxidation and hydrolysis
+, and exists in varying degrees of structure disorder.
+It is one of
+the initial corrosion products
+in the oxidation of iron, and is the precursor to the formation of the more stable mineral
+phases goethite
+(α-FeO(OH)) and
+hematite
+(α-Fe2O3 ).
+Occurrence:
+It is widespread in the
+soluble fraction of soils
+weathered rock
+In precipitates around cold and hot springs, especially those supporting iron-metabolizing bacteria; in acid mine effluent.
+The iron bacteria, especially
+Gallionella ferruginea
+Leptothrix ochracea
+Toxothrix trichogenes
+create ferrihydrite as a waste product of their metabolism.
+It is
+known to trap water
+and protect organic molecules and forms rapidly in cool water.
+It forms a
+significant proportion of soils,
+especially soils formed under cool, moist conditions and it occurs as a pre-terrestrial weathering product in meteorites.
+Click to View More
+Source :
+Iron mineral reason for Mars' red colour, study suggests; hints planet was once habitable
+Science & Tech
+**********Narwhals
+In a first, scientists have studied and captured footage of the iconic narwhals of the Arctic using their tusks to hunt.
+About Narwhals:
+Also known as a narwhale (Monodon monoceros), it is a
+medium-sized toothed whale
+It has a
+big horn-like tusk
+gives them a very distinctive appearance.
+Features:
+change color as they age
+. Newborns are a blue-gray, juveniles are blue-black and adults are a mottled gray. Old narwhals are nearly all white.
+The tusk is,
+in fact, a tooth
+that
+grows out of the male's upper jaw and
+sensory capability
+and up to 10 million nerve endings inside.
+It is believed that the tusk plays a role in
+competition for mates, including mating displays
+It uses tusks in the wild to
+investigate, manipulate and influence
+the behavior of Arctic char (Salvelinus alpinus), including delivering sufficient force with their tusks to stun and
+possibly kill the fish.
+Narwhals are
+polygynous
+and mating usually occurs from
+March to May.
+They give birth to a single calf and they are born tail first. The
+tusks of males do not grow
+until they are weaned when they are
+about one year old.
+Diet:
+Narwhals feed on Greenland halibut, Arctic and polar cod, squid and shrimp.
+Distribution:
+They spend their lives in the
+Arctic waters
+Canada, Greenland, Norway and Russia.
+Threats:
+Oil and gas development and climate change pose threats to narwhals.
+Conservation Status:
+IUCN:
+Near Threatened
+Click to View More
+Source :
+Sea unicorns: Narwhals studied for the first time using their tusks to hunt fish, forage and play
+Environment
+**********Proton Exchange Membrane Fuel Cell
+Recently, the Centre for Fuel Cell Technology (CFCT) at the International Advanced Research Centre for Powder Metallurgy and New Materials showcased a mobile Proton Exchange Membrane fuel cell (PEMFC)-based backup power solution for telecom towers using a plug-and-play model.
+About Proton Exchange Membrane Fuel Cell:
+It is an
+electrochemical device
+that converts the
+chemical energy of hydrogen
+oxygen
+into
+electricity
+through a series of redox reactions.
+Unlike traditional batteries, which store chemical energy internally, PEM fuel cells require a
+continuous supply of hydrogen fuel and oxygen
+(typically from the air) to sustain the chemical reaction and generate electricity.
+Working Principle:
+The working principle involves an
+electrochemical reaction
+where
+gas is fed
+into the anode,
+oxidized to release protons
+, which then travel through a
+polymer membrane
+cathode
+, where they react with oxygen to produce electricity and water.
+They offer an environmentally friendly solution with high power density in a compact size.
+They run on hydrogen fuel, which can be stored and transported for refuelling, and require significantly less maintenance than traditional backup power sources.
+Applications:
+These fuel cells
+provide reliable electricity
+with quick start-up times and operate at relatively low temperatures, making them a viable alternative to diesel generators.
+An innovative hydrogen fuel cell-based backup power solution for telecom towers,
+developed using a plug-and-play model
+can support national renewable energy goals while ensuring seamless connectivity for millions and promoting clean energy in the
+telecom sector
+Portable power:
+specific applications include laptops, mobile phones, battery chargers and unmanned aerial vehicles.
+Click to View More
+Source :
+Hydrogen based fuel cells for uninterrupted power supply to telecom towers
+Science & Tech
+**********Market Downturns Sting - Equities Are Widely Held and Deeply Integrated
+Why in news?
+The 15% drop in Nifty and Sensex over five months may not be unusual, but its impact is significant due to the growing and widespread investor base across the country.
+What’s in today’s article?
+Stock Market Decline: A Growing Concern for Investors
+Key Reasons Behind the Recent Stock Market Crash
+Equity Becomes a Mass Investment Avenue
+Market Downturn and Its Economic Impact
+The Nifty and Sensex have dropped around 15% in the last five months, which, while not extraordinary in scale, has deeply affected investors due to the rapid expansion of the equity culture across India.
+Budget Tax Cuts and Market Sentiment
+The Budget on February 1 introduced significant tax cuts, raising the rebate income limit from ₹7 lakh to ₹12 lakh, benefiting 1.75 crore taxpayers at a revenue cost of ₹1 lakh crore.
+However, the expected boost to market sentiment and consumption has faded within four weeks, as benchmark indices have dropped over 5%, dampening investor confidence.
+Equity Becomes a Mass Investment Option
+Over the past decade, equity investments have spread beyond metros to Tier-II and smaller towns, driven largely by mutual funds.
+Investor registrations on the NSE have surged fivefold to 22 crore by February 2025, with a substantial portion of MF investments coming from smaller cities.
+First Major Market Downturn for Many
+For newer investors who entered after the pandemic, this sustained decline is unprecedented.
+With stagnant income growth, stock and MF gains were their primary wealth drivers, making the recent market downturn a significant blow to overall sentiment.
+Impact of Trump’s Tariffs
+US President Donald Trump announced new tariffs on Mexico, Canada, and China, fueling uncertainty in global markets.
+The additional 10% tariff on Chinese goods, set to take effect on March 4, heightened fears of a prolonged trade conflict, contributing to market volatility.
+Across-the-Board Selling Pressure
+Heavy selling in mid- and small-cap stocks intensified market weakness.
+The Nifty SmallCap index fell 2.09%, while the Nifty MidCap index declined 1.89%.
+Sectors like Metal, Realty, Auto, and Media witnessed losses of up to 2.5%.
+Persistent FII Selling
+Foreign Institutional Investors (FIIs) continued their selling spree, offloading stocks worth Rs 556.56 crore on February 27.
+FIIs have sold a total of Rs 1,13,721 crore so far in 2025, significantly pressuring the Indian stock market.
+Weak Global Cues
+Global markets reacted negatively to Trump’s tariff decisions. The Nikkei fell 2.81%, Kospi dropped 2.74%, and CSI 300 was down 0.6%.
+Rise of Investments Beyond Major Cities
+Equity investments have expanded significantly beyond India's top 110 cities.
+In March 2014, assets under management (AUM) from smaller cities stood at ₹23,624 crore (2.61% of total AUM).
+By December 2024, this surged to ₹12.9 lakh crore (18.6% of total AUM), with nearly one in five rupees invested now coming from these regions.
+Demat Accounts Surge, Indicating Widespread Participation
+The number of demat accounts grew nearly fivefold from 4.1 crore in March 2020 to 18.8 crore by January 2025, reflecting a broader investor base.
+What was once an asset class for affluent, experienced investors is now a mass product, with more households directly exposed to equity markets.
+Upcoming Elections in Key Growth States
+With Uttar Pradesh and Bihar set for elections in the next 24 months, the growing retail investor base in these regions could have economic and political implications, especially in light of market fluctuations.
+Short-Term Investors Feel the Heat
+While mutual fund investors are relatively insulated due to their long-term approach, those engaged in direct stock trading, especially in futures and options, are more vulnerable.
+Many short-term investors have not experienced a significant downturn before and may struggle to navigate the slump.
+Impact on Spending and Consumption
+If the market continues to decline or remains weak for an extended period, it could negatively affect spending habits.
+A drop in net worth weakens investor sentiment, reducing their capacity and willingness to spend, which in turn may impact overall consumption in the economy.
+Mid & Small Cap Investors at Higher Risk
+The market downturn is likely to hit mid and small-cap stocks harder, disproportionately affecting smaller investors who have a higher share of their portfolios in these segments.
+In contrast, affluent investors, with more diversified and long-term portfolios, are better positioned to withstand the volatility.
+newspaper.pdf
+( Size:  1015.8 KB  )
+Click to View More
+Economics
+**********India, China, and the US Race To Secure Copper Supplies
+Why in news?
+Recently, India secured a 9,000-sq-km block in Zambia to explore copper and cobalt, crucial for overseas mining as domestic production declines.
+Earlier, US had warned that overreliance on foreign copper threatens national security, defense, infrastructure, and technology.
+At the same time, facing tight copper ore supply, China is restricting smelting overcapacity—new smelters must secure long-term mining contracts, mainly in DRC, Chile, and Peru. It controls 50% of global smelting and refining capacity.
+What’s in today’s article?
+Rising Demand for Copper
+India’s overseas focus for copper
+Africa’s Growing Role in Critical Minerals
+Trump's Executive Order on Copper
+China’s Efforts to Control Overcapacity
+Driven by EV batteries and clean energy technologies, copper demand is projected to outstrip supply by 2035.
+Countries like India, China, and the U.S. are racing to secure supply chains and boost domestic capabilities.
+Copper Value Chain
+Copper ore undergoes multiple processing stages:
+Concentrate production
+Smelting into anode
+Refining into cathode (used for industrial inputs like rods, sheets, and wires).
+Mining Remains Essential
+Recycling and alternative battery chemistries
+could help, but
+primary mining
+is still crucial to meet global demand.
+India’s Declining Domestic Copper Production
+Copper is a critical mineral for India.
+Domestic ore production (2023-24): 3.78 million tonnes, 8% lower than in 2018-19.
+Hindustan Copper Ltd (HCL) saw a 6% year-on-year decline in production (April–January 2023-24).
+Rising Dependence on Imports
+Copper concentrate imports doubled in value to ₹26,000 crore (2023-24) from 2018-19.
+India has large copper deposits, but extensive exploration is needed before mining.
+Overseas Expansion Strategy
+India is securing greenfield and brownfield copper assets in Zambia, Chile, and the DRC to meet short-term demand.
+These high-grade deposits and mining-friendly environments allow faster project development.
+However, geopolitical risks pose challenges to overseas investments.
+Africa’s share in copper, lithium, and natural graphite production is increasing.
+The Democratic Republic of Congo (DRC) produces 70% of global cobalt and 16% of global copper.
+The DRC is projected to become the world’s second-largest copper supplier by 2030 (IEA report).
+India’s Copper Exploration in Zambia
+India secured a 9,000-sq-km block in Zambia’s Northwestern province through a government-to-government deal.
+Geological Survey of India (GSI) will explore the site, which is six times the size of Delhi.
+In Copperbelt province, Vedanta Group already owns a large copper mine.
+Zambia ranks 7th globally in copper production
+(after Chile, Peru, and the DRC).
+Global Competition for Mineral Assets
+Major copper producers in Zambia: First Quantum Minerals (Canada); Nonferrous Metal Mining (China, state-owned).
+India’s Ministry of Mines is working through nodal officers in the DRC, Tanzania, Mozambique, and Rwanda to secure more mineral assets.
+Competition for critical minerals remains intense as other countries also seek to expand their supply chains.
+February 25
+: President Donald Trump launched an investigation into copper imports and their impact on U.S. national security and economic stability.
+The White House fact sheet emphasized copper’s role in defense, infrastructure, clean energy, EVs, and electronics.
+The U.S. lags behind China in smelting and refining capacity
+, despite having ample copper reserves.
+The investigation aims to identify supply chain vulnerabilities and recommend tariffs, export controls, and incentives to boost domestic production.
+China controls over 50% of global copper smelting but faces falling treatment and refining charges (TCRCs) and a supply-demand gap.
+Excess smelting capacity has squeezed margins, making operations less viable.
+Copper concentrate availability remains weak, forcing custom smelters to compete for limited supply.
+According to a report, overcapacity will lead to: Lower utilization rates for smelters; Potential suspensions or closures of smelting operations; Delays in new smelting projects to restore market balance.
+India, China, and the US Race To Secure Copper Supplies.pdf
+( Size:  843.3 KB  )
+Click to View More
+International Relations
+**********Prime Minister Narendra Modi Chairs the 7th Meeting of the National Board for Wildlife
+Why in the News?
+Prime Minister Narendra Modi, during his visit to Gir National Park in Gujarat, chaired the 7th meeting of the National Board for Wildlife and unveiled a series of key wildlife initiatives.
+What’s in Today’s Article?
+Introduction (Context)
+Meeting of National Board for Wildlife (Key Announcements, Role of Local Communities, etc.)
+India continues to enhance its wildlife conservation efforts with a series of new initiatives announced by Prime Minister Narendra Modi during his visit to Gir National Park, Gujarat.
+Chairing the 7th meeting of the
+, PM Modi introduced several landmark measures aimed at protecting endangered species, improving wildlife habitats, and leveraging technology for conservation.
+Key highlights of the announcements include the first-ever riverine dolphin estimation report, the expansion of India’s cheetah reintroduction program, and the initiation of a National Great Indian Bustard Conservation Action Plan.
+Additionally, a Centre of Excellence for human-wildlife conflict mitigation and a National Referral Centre for Wildlife were also announced.
+Major Announcements in Wildlife Conservation
+First-Ever Riverine Dolphin Estimation
+PM Modi released India’s first comprehensive report on riverine dolphins, estimating a total of
+6,327 dolphins
+across 28 rivers in eight states.
+The survey, covering
+8,500 kilometers
+, revealed Uttar Pradesh as having the highest population, followed by Bihar, West Bengal, and Assam.
+The Prime Minister emphasized
+community participation in dolphin conservation
+, proposing exposure visits for school children to create awareness about their habitat and ecological importance.
+Strengthening Asiatic Lion Conservation
+16th Asiatic Lion Population Estimation
+will be conducted in
+2025
+to track conservation progress.
+Barda Wildlife Sanctuary
+will receive increased conservation efforts, including
+prey augmentation
+habitat enhancement
+to support natural lion dispersal.
+PM Modi highlighted
+Gir’s success in lion and leopard conservation
+, advocating the use of Artificial Intelligence (AI) and digital documentation to replicate these efforts in other national parks.
+Expansion of Cheetah Reintroduction Program
+India’s ambitious cheetah reintroduction project will expand to
+Gandhisagar Sanctuary (Madhya Pradesh)
+Banni Grasslands (Gujarat)
+The move aims to enhance biodiversity and establish a sustainable cheetah population in India.
+New Wildlife Protection Measures
+National Referral Centre for Wildlife:
+The foundation stone for this centre was laid in
+Junagadh
+, aiming to improve wildlife disease management and health monitoring.
+Centre of Excellence at SACON, Coimbatore:
+This will address human-wildlife conflict by equipping Rapid Response Teams with advanced tracking gadgets, AI-driven surveillance systems, and community training programs.
+Use of Remote Sensing & AI:
+The Prime Minister emphasized the deployment of geospatial mapping, AI, and machine learning for detecting and mitigating forest fires and human-animal conflicts.
+Strengthening Conservation of Endangered Species
+Gharial Conservation Project:
+A new initiative has been launched to protect and revive gharial populations, which have been dwindling due to habitat loss.
+National Great Indian Bustard Conservation Action Plan:
+Recognizing the need to scale up efforts, a national plan will be implemented to protect and increase the population of the critically endangered Great Indian Bustard.
+Conservation Scheme for Tigers Outside Reserves:
+A special initiative was announced to support tiger conservation beyond protected reserves, addressing human-wildlife conflicts in buffer zones and adjacent areas.
+Leveraging Technology for Conservation
+PM Modi underscored the importance of technology in modern conservation strategies:
+Remote sensing and AI
+will be used to
+track wildlife movements
+and improve conflict management.
+Forest Survey of India (FSI) and BISAG-N collaboration
+will enhance forest fire detection and prevention using
+space technology
+Traditional conservation knowledge
+will be documented using
+AI-driven tools
+, ensuring that valuable ecological practices are preserved for future generations.
+Role of Local Communities in Conservation
+praised the involvement of local communities
+in conservation, noting a
+sixfold increase in community reserves
+over the past decade. He emphasized expanding this model to empower tribal and rural populations in protecting wildlife.
+Additionally, PM Modi announced
+increased eco-tourism infrastructure
+, ensuring ease of access to
+wildlife sanctuaries and protected areas
+, which will contribute to both conservation and local economic growth.
+Conclusion
+The announcements made by PM Modi mark a significant milestone in India’s wildlife conservation strategy. With a focus on
+species protection, habitat restoration, technology integration, and community participation
+, these initiatives will strengthen India’s position as a global leader in wildlife conservation.
+The government's continued commitment to sustainable biodiversity management is expected to yield long-term ecological benefits, ensuring a thriving coexistence between wildlife and human populations.
+newspaper.pdf
+( Size:  142.1 KB  )
+Click to View More
+Environment & Ecology
+**********Impact of LPG Access on Rural Women’s Employment and Time Allocation
+Context:
+Periodic Labour Force Surveys (PLFS) indicate
+a rise in overall employment
+, especially self-employment,
+among rural women since 2017-18
+.
+A significant portion of these women are engaged as
+helpers in home-based enterprises
+The increase in women’s economic participation
+raises the question of how they are reallocating their time.
+Women’s Domestic Work and Time Use Patterns:
+The 2019 Time Use Survey of India
+highlights that women spend a majority of their time on cooking.
+A survey in rural Indore (MP) found that women spend
+over 60 hours per week on domestic work
+, with 40+ hours dedicated to cooking and cleaning.
+75% of rural women
+rely on
+firewood and cow dung for cooking
+, which
+increases time consumption and health risks
+due to smoke inhalation.
+Pradhan Mantri Ujjwala Yojana (PMUY) and Time Savings
+LPG access
+significantly reduces the time spent on cooking and fuel collection.
+For example,
+fuel collection time is reduced:
+Dung collection: 70 minutes/week saved.
+Firewood collection: 10 minutes/week saved.
+Other domestic chores: 20 minutes/day saved.
+Total daily time saving
+amounts to approximately 30 minutes. This means, households using LPG take
+30 minutes less to prepare meals
+compared to those relying on solid fuels.
+Impact on Women’s Labour Force Participation:
+Despite time savings, there is
+no significant increase in income-generating activities
+among women with LPG access.
+The saved time is predominantly
+reallocated to leisure
+(20 minutes/day).
+Reasons for low labour force participation:
+Fuel collection is not a daily task, so time savings are not substantial.
+20-30 minutes of saved time is insufficient for full-time employment.
+Lack of skilled or well-paying job opportunities
+in rural areas.
+access to manufacturing or service-sector jobs, which give higher returns and increase the opportunity cost of women’s domestic work, is almost absent in most rural areas.
+Rural female employment rate remains low (15%), mostly in
+agricultural self-employment.
+Low financial incentive for households to shift entirely to LPG.
+Challenges in Regular LPG Usage:
+PMUY has increased LPG connections, but regular usage remains low due to:
+Mixed-fuel cooking practices.
+Low refill rates
+(average annual usage of 3 cylinders vs. the required 12 for full dependency).
+Decision-making regarding LPG refills is often in the hands of men, reducing women’s bargaining power.
+Recent Trends in Women’s Employment:
+2024 Time Use Survey shows:
+1.5 percentage point increase in women’s employment since 2019.
+Women now spend 24 minutes more on employment activities.
+However, the
+reason
+for a 20-percentage point rise in women’s self-employment (2017-18 to 2023-24) remains
+unclear
+Further granular data is needed
+to assess whether the rise is due to real changes or methodological adjustments in PLFS surveys.
+Conclusion:
+LPG access improves women’s welfare but does not significantly boost employment participation.
+Structural issues
+such as lack of job opportunities, low skill levels, and gender-based decision-making barriers hinder meaningful economic empowerment.
+Addressing these barriers requires
+policy interventions beyond clean cooking initiatives
+, including skill development and increased access to
+flexible, well-paying jobs for rural women.
+Click to View More
+Editorial Analysis
+**********Australia, A Natural Partner for India’s Growth Trajectory
+Context
+The
+relationship between Australia and India
+has entered
+a new era of economic and strategic cooperation,
+with Australia expressing strong confidence in India’s growth trajectory.
+This partnership is
+built on shared economic interests, strategic alignment
+, and historical ties.
+recently launched New Roadmap for Australia’s Economic Engagement with India
+outlines how Australia aims to support and benefit from India's rapid development.
+Australia’s Confidence in India’s Economic Growth
+Australia firmly believes in India's economic potential
+, predicting that India will become the world’s third-largest economy by 2030.
+confidence stems from India's robust economic growth
+and increasing global influence.
+Recognising India’s rising stature,
+Australia supports India's claim for a permanent seat on the United Nations Security Council
+, emphasising that India's growing economic power should be reflected in global decision-making.
+Moreover,
+the economic complementarities between the two nations serve as a foundation
+for their collaboration.
+Australia possesses resources
+that are crucial for India’s industrial and technological advancement, while India offers a vast market for Australian goods and services.
+interdependence makes Australia a natural partner
+in India’s economic journey.
+Australia’s Engagement with India
+Launched by Australian Prime Minister Anthony Albanese, it is builds on the progress made since 2018.
+It
+provides a strategic plan
+for further deepening trade and economic cooperation.
+The impact of the
+Economic Cooperation and Trade Agreement (ECTA)
+has already been substantial, as evidenced by the rapid increase in trade between the two nations.
+While India’s global exports have grown by 35% in the last five years,
+its exports to Australia have surged by 66%,
+indicating a strong economic synergy.
+The roadmap identifies four key sectors, described as the ‘
+Superhighways of Growth
+,’ where India and Australia can collaborate effectively:
+Clean Energy –
+Australia provides essential resources such as lithium, nickel, and cobalt, which are critical for India's electric vehicle and renewable energy sectors.
+Education and Skills –
+Australian universities are expanding their presence in India, helping train the next generation of Indian professionals.
+Agribusiness –
+Enhancing trade in agricultural products and food security.
+Tourism
+– Promoting mutual travel and cultural exchange.
+Additionally,
+seven other ‘Major Economic Roads’
+for cooperation have been identified: investment, technology, sports, culture and arts, resources, defence, space, and health.
+By focusing on these areas,
+the roadmap aims to solidify economic cooperation between the two nations.
+Addressing India’s Skill Development Needs
+India faces a major challenge in skilling two crore (20 million) people annually
+to meet the demands of its growing economy.
+Recognising this,
+Australia is positioning itself as a key partner in India's skill development initiatives.
+Australian universities are playing a crucial role in
+this effort by setting up campuses in India, such as those in Gujarat International Finance Tech (GIFT) City and Noida, with more expected in the future.
+By providing high-quality education and vocational training,
+Australia is helping India create a workforce equipped for its expanding industries
+, particularly in technology, manufacturing, and clean energy.
+The Role of the Indian Diaspora in Strengthening Ties
+One of the most significant advantages of the Australia-India partnership is the
+Indian diaspora in Australia, which is over 1 million (10 lakh) strong and growing rapidly.
+community acts as a cultural and economic bridge
+, fostering business and government ties.
+Many Indian-Australians hold leadership positions,
+contributing to policy-making and economic collaboration between the two countries.
+Australia recognises the potential of this ‘human bridge’ and has invested ₹22 crore in the Maitri Grants Program
+, which strengthens diaspora links and supports cultural and economic initiatives.
+the Centre for Australia-India Relations has been established with a funding of ₹132 crore
+to enhance bilateral engagement.
+The Path Ahead: Comprehensive Economic Cooperation Agreement (CECA)
+While the ECTA has significantly boosted trade,
+the next step in economic engagement is the CECA,
+which aims to further remove trade barriers and create a robust framework for long-term economic cooperation.
+With CECA, both nations can unlock new opportunities
+in investment, innovation, and business collaboration.
+Conclusion
+Australia’s confidence in India’s economic rise is evident in its proactive approach
+to trade, education, energy, and skill development.
+The New Roadmap provides a clear direction for future cooperation
+, ensuring that both nations benefit from each other's strengths.
+As Australian Prime Minister Anthony Albanese stated,
+Australia’s relationship with India is stronger, deeper, and more consequential than it has ever been.
+With the right policies and initiatives in place,
+this partnership is set to reach new heights in the coming years.
+Click to View More
+Editorial Analysis
+**********India’s Burden of Rising Obesity, the Hefty Cost to Pay
+Context
+The
+prevalence of obesity varies widely across states
+, affecting both urban and rural populations.
+Additionally,
+the World Obesity Federation has identified India as having one of the highest annual increases
+in childhood obesity globally.
+alarming rise in obesity has severe health implications
+, contributing to conditions like diabetes, hypertension, and cardiovascular diseases, as well as imposing a heavy economic burden on the country.
+Despite these concerns,
+obesity remains an under-addressed issue in India’s public health agenda,
+requiring urgent attention and policy-driven interventions.
+Rising Prevalence of Obesity in India
+Recent data from the
+National Family Health Survey (NFHS-5, 2019-21)
+indicates that nearly
+one in four Indian adults
+is either overweight or obese.
+However, the prevalence of obesity varies significantly across states, regions, and demographic groups.
+In some states, obesity rates are as low as
+8%
+, while in others, they exceed
+50%
+Both men and women in urban and rural settings are affected, although
+urban populations tend to have a higher prevalence
+due to lifestyle factors.
+situation is even more alarming among children.
+The World Obesity Federation has identified India as having one of the
+steepest annual increases
+in childhood obesity worldwide.
+Over the past 15 years, the number of overweight and obese children in India has
+doubled
+, and in the last 30 years, it has
+tripled
+This trend is concerning as childhood obesity often leads to obesity in adulthood,
+increasing the risk of chronic diseases
+at an earlier age.
+A nationwide study published in
+The Lancet Diabetes and Endocrinology (2023)
+estimated that among Indian adults aged 20 and above:
+35 crore people
+(one in three) have
+abdominal obesity
+25 crore people
+(one in four) have
+general obesity
+21 crore people
+(one in five) have
+high levels of blood cholesterol
+These figures indicate that
+obesity is not only a growing problem but also a complex health issue affecting multiple aspects of well-being
+, including cardiovascular health, metabolism, and overall quality of life.
+Causes of the Obesity Epidemic in India
+Transition from Undernutrition to Overnutrition
+Historically,
+India has battled malnutrition and undernutrition
+, with large sections of the population suffering from food scarcity.
+However, in recent years,
+the country has transitioned from being a "calorie-deficient" to a "calorie-sufficient" nation
+, though food distribution remains inequitable.
+While many still struggle with hunger and undernutrition,
+a significant portion of the population has easy access to calorie-dense foods
+, leading to a paradoxical rise in obesity alongside malnutrition.
+Poor Dietary Habits
+increased consumption of high-fat, salt, and sugar (HFSS) foods
+and ultra-processed foods (UPFs) is one of the primary drivers of obesity.
+These foods, which include sugary beverages, fast food,
+packaged snacks, and processed meats, are
+often low in essential nutrients but high in calories.
+The affordability and accessibility
+of such foods have led to
+an increase in unhealthy eating habits, especially among urban populations.
+significant challenge is that eating healthy is becoming more expensive
+than consuming junk food.
+Fresh fruits, vegetables, and nutritious whole foods are often costlier
+than processed, packaged, and fried foods, making it difficult for many families to maintain a balanced diet.
+Sedentary Lifestyles and Lack of Physical Activity
+Urbanisation has
+led to drastic changes in how people live and work.
+Traditional lifestyles,
+which involved higher levels of physical activity,
+have been replaced by sedentary habits, especially in cities.
+Long hours of screen time, desk jobs,
+reduced outdoor activities, and increased dependence on motorized transport have all
+contributed to lower levels of physical movement.
+According to the World Health Organization (WHO),
+nearly 50% of Indians fail to meet the recommended levels of physical activity.
+The lack of open spaces, parks, cycling tracks, and pedestrian-friendly infrastructure in cities has further discouraged physical movement.
+Health and Economic Consequences of Obesity
+Increased Burden of Non-Communicable Diseases (NCDs)
+Diabetes:
+India is home to
+over 100 million diabetics
+, with numbers rising due to obesity.
+Cardiovascular Diseases:
+High cholesterol and obesity contribute to heart disease, the leading cause of death in India.
+Hypertension:
+Obesity leads to high blood pressure, increasing the risk of strokes and kidney diseases.
+Cancer:
+Certain types of cancer, including breast and colon cancer, are linked to obesity.
+The increasing burden of obesity-related diseases places
+immense pressure on India’s healthcare system
+, requiring urgent intervention.
+Economic Costs of Obesity
+The Global Obesity Observatory (2019) estimated that the economic cost of obesity in India was
+$28.95 billion (₹1,800 per capita),
+or 1.02% of GDP.
+These costs are associated with:
+Higher healthcare expenditures for obesity-related diseases
+Lost productivity due to obesity-related illnesses
+Reduced workforce efficiency and higher absenteeism
+If left unchecked,
+the economic burden of obesity is projected to increase to ₹4,700 per capita by 2030
+(1.57% of GDP).
+growing financial strain highlights the urgent need for policy-driven solutions
+to curb the obesity epidemic.
+Policy and Programmatic Solutions to Tackle Obesity
+Public Awareness and Education
+structured public awareness campaign is needed
+to reframe obesity as a chronic disease that requires prevention and management.
+Educating people about the link between obesity and conditions like diabetes, hypertension, and liver disorders is crucial.
+Promotion of Physical Activity
+Urban planning must prioritise
+active lifestyles by incorporating bicycle lanes, public parks, and open gymnasiums
+to encourage physical activity.
+Workplaces and schools should also facilitate exercise-friendly environments.
+Regulation of Processed and Unhealthy Foods
+HFSS and UPF products should be taxed at higher rates,
+while subsidies should be provided for healthier food options like fruits and vegetables.
+food industry should be encouraged to adopt ethical marketing practices
+to reduce the appeal of unhealthy foods.
+Integration of Obesity Screening in Healthcare
+Regular health check-ups should include measurements of weight, height, and waist circumference.
+Discussions about maintaining a healthy weight should be a routine
+part of healthcare visits.
+A simple guideline
+, such as maintaining a waist circumference below 80 cm for women and 90 cm for men,
+can help individuals track their health.
+Medical Interventions and Guidelines
+The availability of anti-obesity medications is increasing,
+but there is a need for clear guidelines on their appropriate use.
+Medical professionals must be trained to identify and treat obesity effectively.
+Workplace and Community Interventions
+orkplaces should promote awareness campaigns,
+provide weighing scales, and encourage employees to maintain a healthy weight.
+culture of regular health monitoring should be embedded i
+n corporate policies.
+Conclusion
+rising prevalence of overweight and obesity in India poses a serious threat
+to public health and economic stability.
+Tackling obesity requires a collective effort from individuals,
+healthcare professionals, policymakers, and businesses.
+comprehensive strategy involving awareness, taxation, urban planning, healthcare screening,
+medical interventions, and school programs is essential.
+By taking immediate and coordinated action, India can build a healthier and more prosperous future
+, ensuring that its economic growth is not undermined by preventable health crises.
+Click to View More
+Editorial Analysis
+**********[4th March 2025] The Hindu Op-ed: How is China’s foreign policy structured?
+International Relations
+PYQ Relevance:
+) ‘China is using its economic relations and positive trade surplus as tools to develop potential military power status in Asia’, In the light of this statement, discuss its impact on India as her neighbor.
+(UPSC CSE 2017)
+Mentor’s Comment:
+UPSC mains have always focused on the
+China’s larger ‘One Belt One Road’ (2018)
+(2017).
+Recently, Chinese Ambassador Xu Feihong said that India-China relations are entering a “phase of recovery” and called their relationship “one of the most important” in the world. He also mentioned that recent talks between Special Representatives (SR) and discussions under the ‘Foreign Secretary-Vice Minister’ mechanism helped both countries reach common ground on the border issue and opened the door to improving their ties.
+Today’s editorial discusses China’s main decision-making bodies and its policies toward India. This content is useful for GS Paper 2 under International Relations.
+_
+Let’s learn!
+Why in the News?
+On Monday, January 27, 2025, Foreign Secretary Vikram Misri, during his official visit to Beijing, met with Chinese Foreign Minister Wang Yi. He is also scheduled to meet his counterpart.
+Which are the two main decision-making bodies with respect to China’s foreign policy?
+Politburo Standing Committee (PBSC):
+highest decision-making body
+in China, which sets the
+overall direction
+for both domestic and foreign policies.
+Example:
+Xi Jinping, as
+General Secretary of the CPC
+and head of the PBSC, plays a central role in shaping China’s stance on key issues like the
+U.S.-China rivalry
+and the
+Belt and Road Initiative (BRI)
+CPC Central Committee’s Foreign Affairs Commission (FAC):
+Manages
+policy coordination
+inter-departmental communication
+, and
+foreign policy execution
+, with
+as the head and
+Li Qiang
+as deputy.
+The FAC oversees China’s
+border negotiations
+with India and guides its
+diplomatic strategy
+in multilateral forums like
+BRICS
+SCO
+What is the role of the International Department of the Communist Party of China (IDCPC)?
+Party-to-Party Diplomacy:
+Facilitates
+direct engagement
+between the CPC and political parties across the ideological spectrum in over 150 countries.
+The IDCPC hosts delegations from major Indian political parties to strengthen ties beyond official state-level diplomacy.
+Influencing Global Perception:
+Aims to
+enhance the CPC’s international legitimacy
+by building relationships and promoting China’s political model globally.
+The IDCPC engages with political elites in Africa and Southeast Asia to align their policies with China’s strategic interests.
+Policy Research and Intelligence Gathering:
+Conducts
+political research
+on foreign countries to inform CPC leadership and guide China’s diplomatic strategy.
+The “South and Southeast Asian Affairs” bureau analyzes political trends in India to shape China’s regional engagement policies.
+Has the Ministry of Foreign Affairs been increasing in stature in China?
+Greater Policy Coordination with the CPC:
+The MFA now works more closely with the
+CPC’s Foreign Affairs Commission (FAC)
+, which oversees foreign policy decisions.
+Wang Yi, China’s Foreign Minister, also serves as the head of the Office of the FAC, reflecting the MFA’s growing role in executing party-led foreign policy.
+Expanded Global Diplomatic Presence:
+China has
+increased its diplomatic footprint
+by opening new embassies and consulates worldwide, with MFA officials leading key initiatives.
+The MFA has played a crucial role in advancing the
+through global negotiations and partnerships.
+Active Role in Multilateral Forums:
+The MFA has taken a
+more assertive position
+in international organizations to shape global norms and policies.
+China’s active participation in the
+United Nations Human Rights Council
+and WTO reflects the MFA’s rising influence in global governance.
+Diplomatic Visibility of Key Officials:
+High-ranking MFA officials now
+engage more directly
+with global leaders and the media to articulate China’s foreign policy.
+Wang Yi’s prominent role in mediating the
+Saudi-Iran peace deal (2023)
+highlighted the MFA’s expanding diplomatic authority.
+Increased Role in Crisis Management:
+The MFA is increasingly tasked with
+managing international crises
+and shaping China’s narrative during global conflicts.
+The MFA led China’s diplomatic response during the
+U.S.-China trade war
+, organizing global outreach to counteract U.S. policies.
+What is the policy for India?
+Managing Border Disputes While Maintaining Dialogue:
+China aims to
+manage tensions
+along the
+Line of Actual Control (LAC)
+while keeping communication channels open through diplomatic and military talks.
+Since the
+Galwan Valley clash (2020)
+, both countries have held
+corps commander-level talks
+to de-escalate border tensions, although some areas remain contentious.
+Economic Cooperation with Strategic Caution:
+While promoting
+trade relations
+, China remains cautious about India’s growing
+economic nationalism
+supply chain diversification
+Despite border tensions,
+China remains one of India’s largest trading partners
+, with bilateral trade exceeding
+$136 billion in 2022
+, though India has increased scrutiny on Chinese investments.
+Countering India’s Regional and Global Influence:
+China seeks to
+limit India’s influence
+South Asia
+while opposing India’s bid for a
+permanent seat on the UN Security Council
+China has increased investments in India’s neighbors through the
+, particularly in
+Pakistan
+(CPEC) and
+Sri Lanka
+(Colombo Port City).
+Balancing Competition with Cooperation in Multilateral Platforms:
+China engages with India through organizations like
+Shanghai Cooperation Organization (SCO)
+while countering India’s role in the
+Quad
+alliance.
+Both nations cooperate in
+BRICS development projects
+but differ on strategic matters like
+Indo-Pacific security
+, where China opposes the
+Quad’s
+expansion.
+Diplomatic Outreach through Party-to-Party Engagement:
+International Liaison Department (IDCPC)
+of the CPC engages with India’s political parties to
+and understand domestic political dynamics.
+China has hosted delegations from major Indian political parties to foster
+people-to-people diplomacy
+and influence policy perspectives.
+What should India do?
+Enhance Border Security and Infrastructure:
+Strengthen
+border surveillance
+, improve
+infrastructure
+along the Line of Actual Control (LAC), and ensure rapid troop deployment capabilities.
+Accelerate projects like the
+Border Roads Organisation (BRO)
+to enhance logistical support in sensitive areas.
+Strengthen Multilateral Engagement:
+Deepen ties with
+like-minded countries
+in regional and global forums while maintaining dialogue with China.
+Actively participate in
+Quad, BRICS, and SCO
+to balance China’s regional influence while promoting India’s strategic interests.
+Promote Economic Self-Reliance and Diversification:
+Reduce reliance on Chinese imports by boosting
+domestic manufacturing
+and seeking
+alternative trade partners
+Strengthen the
+Make in India
+PLI (Production-Linked Incentive)
+schemes to reduce import dependency in critical sectors like electronics and telecom.
+Engage in Strategic Communication:
+open diplomatic channels
+to resolve disputes while clearly articulating India’s red lines and security concerns.
+Continue high-level talks through
+special representatives
+discussions to de-escalate border tensions.
+Invest in Technological and Defense Capabilities:
+technological innovation
+, defense modernization, and
+cybersecurity
+to counterbalance China’s growing capabilities.
+Increase investment in
+indigenous defense
+programs and
+space-based surveillance
+to ensure strategic autonomy.
+Way forward:
+Sustained Diplomatic Engagement:
+Prioritize
+regular high-level dialogues
+to resolve border disputes and foster mutual trust while maintaining strategic clarity on core interests.
+Strategic Autonomy with Regional Cooperation:
+regional partnerships
+through forums like
+ASEAN
+, while maintaining an
+independent foreign policy
+to balance China’s influence.
+**********SC seeks measures against ‘vulgarity’ online
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Impact of vulgar humour;
+Why in the News?
+Recently, the
+Supreme Court of India
+asked
+Solicitor General Tushar Mehta
+, representing the
+Central Government
+, to suggest
+regulatory measures
+to control the use of
+filthy language
+and
+online programmes
+.
+What did the Supreme Court ask the Solicitor General to suggest regarding online programmes?
+The Supreme Court asked Solicitor General Tushar Mehta to propose
+“regulatory measures”
+“filthy language”
+“vulgarity”
+in online programmes.
+The regulatory framework should ensure that
+programmes adhere to the “known moral standards”
+of Indian society while maintaining
+freedom of speech and expression
+These measures are intended to function as
+reasonable restrictions
+on free speech, focusing on
+decency and morality
+without imposing outright censorship. The court also sought
+input from stakeholders
+to facilitate a
+healthy debate
+on the issue.
+Why did the court emphasize the need for regulatory measures on humour and vulgarity?
+To Maintain Public Decency and Morality:
+The court stressed the need to
+uphold societal moral standards
+and prevent the spread of
+indecent content
+under the guise of humour.
+Example:
+The Supreme Court remarked that humour should be
+family-friendly
+and using
+is not a demonstration of
+talent
+To Prevent Misuse of Free Speech:
+While protecting
+freedom of expression
+, the court emphasized
+curb vulgarity
+perversity
+in public content.
+The court modified restrictions on YouTuber
+Ranveer Allahbadia
+, allowing him to broadcast but warned him to
+adhere to decency norms
+To Protect Vulnerable Audiences:
+The court highlighted the need to
+shield minors and impressionable viewers
+offensive
+inappropriate humour
+The Solicitor General noted that the content of “India Got Latent” was
+unsuitable
+for public viewing due to its
+perverse nature
+To Strike a Balance Between Creativity and Responsibility:
+The court underlined the
+fine line
+between
+creative humour
+offensive language
+, ensuring content creators remain
+responsible
+Justice Surya Kant noted that
+talented comedians
+in India use
+ordinary words
+to produce humour without crossing
+moral limits
+To Ensure Accountability of Online Platforms:
+The court called for
+regulatory oversight
+to ensure
+online platforms
+are held
+accountable
+for the content they broadcast.
+The Bench urged the Solicitor General to suggest
+mechanisms
+to regulate
+vulgar content
+while respecting
+What impact does vulgar humour have on society?
+Erosion of Social and Moral Values:
+Frequent exposure to vulgar humour
+desensitizes
+people to
+inappropriate behavior
+, weakening social norms.
+Shows that rely on
+sexual innuendos
+crude jokes
+may normalize
+disrespectful behavior
+towards women and marginalized groups.
+Negative Influence on Youth:
+Young audiences
+imitate
+vulgar humour, leading to
+bullying
+, and a
+casual attitude
+toward serious issues.
+Viral videos promoting
+explicit jokes
+can shape
+adolescent speech patterns
+, fostering
+insensitivity
+in social interactions.
+Public Backlash and Social Division:
+Vulgar humour
+offends
+religious, cultural, or social groups, causing
+outrage
+polarization
+in society.
+Comedians making
+derogatory remarks
+about religious practices have faced
+protests
+legal action
+censorship demands
+Undermining Respect for Institutions:
+Crude jokes about
+public figures
+institutions
+diminish trust
+authorities
+legal systems
+Vulgar portrayals of
+political leaders
+can foster
+cynicism
+and weaken
+public faith
+in governance.
+Legal and Regulatory Consequences:
+Vulgar content
+violates
+decency laws
+and leads to
+legal penalties
+under frameworks ensuring
+public morality
+legal scrutiny
+temporary broadcast bans
+due to vulgar content on his show.
+Way forward:
+Establish a Clear Regulatory Framework:
+Develop a
+transparent and balanced regulatory mechanism
+that sets clear guidelines for online content, ensuring
+while protecting
+The government can establish a
+self-regulatory body
+for digital content, similar to the
+Broadcasting Content Complaints Council (BCCC)
+for television.
+Promote Responsible Content Creation:
+Encourage
+to adopt
+ethical standards
+self-regulation
+through awareness campaigns and guidelines that differentiate between
+Platforms like
+OTT services
+can implement
+content advisories
+age-appropriate ratings
+to safeguard vulnerable audiences.
+Mains PYQ:
+How have digital initiatives in India contributed to the functioning of the education system in the country? Elaborate your answer
+(UPSC IAS/2020)
+**********Australia, the partner for India’s growth trajectory
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+India vs Australia;
+Why in the News?
+Australia is confident in India’s promising economic future, anticipating it will become the world’s third-largest economy by 2030.
+What are the key sectors identified as the “Superhighways of growth” in the new Roadmap for Australia’s Economic Engagement with India?
+Clean Energy
+: Focus on renewable energy and critical minerals to support India’s green transition.
+Example:
+Australia, as the largest producer of lithium, supplies essential materials for India’s electric vehicle (EV) manufacturing goals.
+Education and Skills
+: Collaboration on skill development and higher education to equip India’s workforce.
+Australian universities have opened campuses in Gujarat’s GIFT City and are expanding to Noida to offer advanced training programs.
+Agribusiness and Tourism
+: Enhancing agricultural trade and food security and fostering tourism between the two countries.
+Australia’s advanced agritech supports India’s agricultural modernization while increased bilateral tourism strengthens cultural ties.
+Why does Australia consider itself a natural partner for India’s economic growth?
+Complementary Economies
+: Australia produces resources that India needs, and India provides services that Australia requires.
+Australia supplies critical minerals (like lithium and cobalt) essential for India’s electric vehicle (EV) manufacturing.
+Strategic Alignment
+: Both nations share common regional and global strategic interests, including maritime security in the
+Indo-Pacific region
+Regular participation in
+Quad
+(with the U.S. and Japan) strengthens defense and economic cooperation.
+Geographic Proximity
+: Australia and India are geographically close across the
+Indian Ocean
+, facilitating easier trade and collaboration.
+The
+Economic Cooperation and Trade Agreement (ECTA)
+has significantly increased bilateral trade.
+Shared Democratic Values
+: Both countries are committed to
+democracy
+rule of law
+, and a
+rules-based international order
+, fostering mutual trust.
+Australia supports India’s bid for a
+United Nations Security Council (UNSC)
+permanent seat.
+Strong People-to-People Ties
+: A large and growing
+Indian diaspora
+in Australia acts as a bridge for cultural and economic collaboration.
+Maitri grants program
+supports Indian diaspora-led initiatives to boost bilateral engagement.
+How has the Economic Cooperation and Trade Agreement (ECTA) impacted trade between India and Australia?
+Increased Bilateral Trade Volume
+: ECTA has accelerated trade growth between the two countries by reducing tariffs and improving market access.
+India’s exports to Australia have grown by
+66%
+in the past five years, nearly
+twice as fast
+as India’s exports to the rest of the world.
+Tariff Reductions and Market Access
+: ECTA has eliminated or reduced
+custom duties
+on a wide range of products, enhancing the competitiveness of Indian and Australian goods.
+Australia removed
+96.4%
+of Indian exports, including
+textiles, jewelry, and pharmaceuticals
+Boost to Key Sectors
+: The agreement has strengthened trade in
+minerals, energy
+—areas where both countries have complementary strengths.
+Australia’s exports of
+support India’s electric vehicle (EV) manufacturing ambitions.
+Enhanced Services Trade and Mobility
+: ECTA facilitates greater cooperation in
+education, IT
+professional services
+, including easier movement of skilled workers.
+Indian professionals in
+engineering
+benefit from streamlined
+visa processes
+for work in Australia.
+Foundation for a Comprehensive Agreement
+: ECTA serves as a stepping stone toward a broader
+Comprehensive Economic Cooperation Agreement (CECA)
+to further deepen economic ties.
+Negotiations for CECA are ongoing to expand trade in
+technology, healthcare
+defense collaboration
+What steps is Australia taking to support India’s ambition for manufacturing electric vehicles and addressing its skill development needs?
+Supplying Critical Minerals for EV Manufacturing
+: Australia is leveraging its position as a leading producer of
+essential for EV production.
+and with
+significant reserves of nickel and cobalt
+, supplies these key raw materials to support India’s goal of increasing EV adoption
+eight-fold by 2030
+Collaborating on Skill Development and Education
+: Australian universities are providing
+high-quality technical education
+to equip the Indian workforce with advanced skills.
+have established campuses in
+GIFT City (Gujarat)
+and soon in
+Noida (Uttar Pradesh)
+to train Indian professionals in
+emerging technologies
+EV and clean energy sectors
+Investing in Training and Workforce Mobility
+: Australia is investing in initiatives to improve
+vocational training
+and enhance workforce mobility between the two nations.
+Through its
+, Australia is fostering collaboration in
+technical training
+to meet India’s aim of
+skilling two crore people annually
+Way forward:
+Strengthen Critical Supply Chains:
+Deepen collaboration on
+by establishing
+long-term supply agreements
+and joint ventures to support
+India’s EV and renewable energy ambitions
+Expand Education and Workforce Partnerships:
+mutual recognition of qualifications
+dual-degree programs
+to address India’s
+skill gaps
+advanced manufacturing, clean energy, and digital sectors
+Mains PYQ:
+Quadrilateral Security Dialogue (Quad) is transforming itself into a trade bloc from a military alliance, in present times Discuss.
+(UPSC IAS/2020)
+**********First Comprehensive Survey of River Dolphins in India
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+India’s first-ever comprehensive river dolphin survey
+conducted under
+Project Dolphin
+(
+2020)
+has estimated a population of
+6,327 dolphins
+, primarily across the
+Ganga, Brahmaputra, and Indus River basins
+.
+River Dolphins in India:
+Species
+Habitat
+Conservation Status
+Key Features & Threats
+Ganges River Dolphin
+Platanista gangetica
+Ganges-Brahmaputra-Meghna & Karnaphuli river systems (India, Bangladesh, Nepal)
+IUCN:
+Endangered
+WPA, 1972:
+Schedule I
+Known as
+“Susu”
+, India’s
+National Aquatic Animal
+in 2009. Faces threats from
+pollution, habitat fragmentation, and accidental bycatch
+Vikramshila Gangetic Dolphin Sanctuary (Bihar)
+– Only dolphin sanctuary in India.
+Indus River Dolphin
+Platanista minor
+Indus River (Pakistan) & Beas River (India)
+One of the
+rarest dolphins
+, facing population decline due to
+water diversion, dam construction, and habitat degradation
+Beas Conservation Reserve (Punjab)
+– Focused on Indus River Dolphin protection.
+Irrawaddy Dolphin
+Orcaella brevirostris
+Chilika Lake (India) & rivers of South & Southeast Asia
+Known for
+“spy-hopping” behavior
+(rising vertically to observe surroundings). Threatened by
+fishing nets and habitat destruction
+Key Highlights of the Survey
+The survey estimated the Ganges River dolphin population at 6,324, with
+Uttar Pradesh (2,397)
+Bihar (2,220)
+recording the highest numbers, while the
+Brahmaputra basin had 635 dolphins
+, indicating a stable population.
+Indus River dolphin
+population was found to be
+critically low
+, with only
+3 individuals
+recorded in the Beas River in Punjab, highlighting the urgent need for conservation efforts.
+Key habitats
+were identified, with the highest dolphin concentrations observed in the
+Bhind-Pachnada
+stretch
+of the Chambal River and the
+Chausa-Manihari
+of the Ganga.
+Dolphins were
+found to prefer deep water zones
+, confluences, mid-channel islands, and meandering sections of rivers, indicating specific habitat requirements.
+PYQ:
+[2015]
+Which one of the following is the national aquatic animal of India?
+(a) Saltwater crocodile
+(b) Olive ridley turtle
+(c) Gangetic dolphin
+(d) Gharial
+**********MISHTI Scheme
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Gujarat
+has emerged as the
+national leader in mangrove afforestation
+, covering
+19,020 hectares in just two years
+under the Central Government’s
+MISHTI (Mangrove Initiative for Shoreline Habitats and Tangible Incomes) scheme
+.
+About the MISHTI Scheme
+The MISHTI scheme was launched on
+June 5, 2023
+, to
+restore 540 sq. km
+of mangrove forests.
+It aims to restore and expand
+mangrove forests across
+9 states and 3 union territories
+over a
+5-year period (2023–28).
+It aligns with India’s commitment to the
+Mangrove Alliance for Climate (MAC)
+COP27 (2022, Egypt)
+The scheme is funded through
+MGNREGS, CAMPA Fund
+, and other sources, ensuring
+community participation
+It focuses on
+Sundarbans (West Bengal), Hooghly Estuary, and other coastal and wetland ecosystems
+Gujarat’s Leadership in Mangrove Afforestation
+Gujarat has emerged as
+India’s top state
+19,020 hectares (190 sq. km) in just two years
+under MISHTI.
+Gulf of Kutch (799 sq. km)
+leads in coverage, followed by
+the Gulf of Khambhat and Dumas-Ubhrat belt (134 sq. km)
+1,650 km-long coastline
+is home to
+mangroves, coral reefs, and seagrasses
+, making it an
+expand mangrove cover by an additional 350 sq. km
+, strengthening
+climate resilience
+coastal biodiversity
+PYQ:
+[2015]
+Which one of the following regions of India has a combination of mangrove forest, evergreen forest and deciduous forest?
+(a) North Coastal Andhra Pradesh
+(b) South-West Bengal
+(c) Southern Saurashtra
+(d) Andaman and Nicobar Islands
+**********What is Planetary Alignment?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+On
+February 29, 2024
+, skywatchers worldwide witnessed a rare planetary alignment (parade) with
+seven planets
+—Mars, Jupiter, Uranus, Neptune, Mercury, Saturn, and Venus—
+lining up in the night sky
+.
+occurs when multiple planets in the
+Solar System
+appear to line up in the sky as seen from
+Earth
+This phenomenon happens because planets orbit the
+Sun
+in a
+flat, disc-shaped plane
+called the
+ecliptic
+Although planets remain
+millions of kilometers apart
+, they seem to form a
+straight line
+from Earth’s perspective due to
+optical illusion and perspective
+The term
+“planet parade”
+is also used to describe this occurrence when multiple planets become visible in the sky at the same time.
+Types of Planetary Alignments:
+Conjunction
+: Two or more planets appear close to each other in the sky.
+Small Alignment
+: Three planets align in a visible line.
+Large Alignment
+: Four or more planets appear aligned from Earth’s perspective.
+Full Alignment
+: All eight planets of the
+appear in a single line (very rare).
+How often do Planetary Alignments occur?
+Planetary alignments are
+not uncommon,
+but their
+rarity depends on the number of planets involved
+Two- or Three-Planet Alignments
+: Occur multiple times a year.
+Four- or Five-Planet Alignments
+: Visible every few years.
+Six- or Seven-Planet Alignments
+: Appear every few decades.
+Full Alignment (All Eight Planets)
+: Extremely rare, occurs once every 170–200 years.
+Recent & Upcoming Alignments:
+August 2025
+: Expected
+four-planet alignment
+May 2492
+: The next predicted
+full planetary alignment
+of all eight planets.
+PYQ:
+[2019]
+On 21st June, the Sun:
+(a) does not set below the horizon at the Arctic Circle
+(b) does not set below the horizon at Antarctic Circle
+(c) shines vertically overhead at noon on the Equator
+(d) shines vertically overhead at the Tropic of Capricorn
+**********Research team takes big step towards making a Bose Metal
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Researchers have recently discovered a potential
+new state of matter
+, the Bose metal, found between a regular metal and a superconductor, with evidence of this phase in
+Niobium Diselenide (NbSe
+₂
+)
+by a team of Chinese and Japanese scientists.
+What is a Bose Metal?
+A
+is a hypothetical
+anomalous metallic state
+where
+Cooper pairs (electron pairs) form but do not transition into a superconducting state
+This state exists
+between a normal metal and a superconductor
+, challenging traditional theories of condensed matter physics.
+In simple terms, a Bose metal is a material where:
+Electrons pair up into
+(like in superconductors).
+However, these Cooper pairs
+fail to achieve long-range coherence
+, meaning the material
+remains metallic
+instead of becoming superconducting.
+This results in
+partial electrical resistance
+, unlike superconductors that have
+zero resistance
+Recent experimental studies suggest their existence in materials like
+when subjected to
+specific conditions
+, such as thin layers and applied magnetic fields.
+Key Features:
+Intermediate State
+: Exists
+Cooper Pair Formation
+: Electrons form
+, but they
+don’t condense into superconductivity
+Anomalous Conductivity:
+Higher
+than normal metals
+not infinite
+like superconductors.
+Quantum Fluctuations
+: Strong
+phase fluctuations
+disrupt Cooper pair coherence.
+Hall Resistance Vanishing:
+Indicates charge transport
+by Cooper pairs
+rather than individual electrons.
+Observed in Thin 2D Materials:
+Seen in
+ultra-thin films
+of superconductors under specific conditions.
+PYQ:
+[2013]
+Due to improper/indiscriminate disposal of old and used computers or their parts, which of the following are released into the environment as e-waste?
+Beryllium
+Cadmium
+Chromium
+Heptachlor
+Mercury
+Lead
+Plutonium
+Select the correct answer using the codes given below:
+(a) 1, 3, 4, 6 and 7 only
+(b) 1, 2, 3, 5 and 6 only
+(c) 2, 4, 5 and 7 only
+(d) 1, 2, 3, 4, 5, 6 and 7
+**********

@@ -1,0 +1,1148 @@
+Who is a D-Voter?
+The Assam Chief Minister recently announced that nearly 1.2 lakh people in the state have been identified as 'D' (Dubious or Doubtful) voters, with 41,583 declared as foreigners.
+About D-Voter:
+The concept of
+D-Voter is unique to Assam,
+where migration and citizenship are among the biggest political fault lines.
+It was
+introduced in Assam in 1997 by the Election Commission
+, targeting those who could not prove their Indian nationality.
+Those
+persons whose citizenship was doubtful
+or was under dispute were categorized as ‘D- Voters’ during the preparation of the National Register of Citizens in Assam.
+‘Doubtful voter’ or ‘doubtful citizenship’ have
+not been defined in the Citizenship Act, 1955, or the Citizenship Rules of 2003.
+The Citizenship Rules, 2003, was framed under the provisions of the Citizenship (Amendment) Act, 2003.
+The rules framed in 2003
+list out the steps to be followed
+for the preparation of the National Population Register (NPR) and the National Register of Indian Citizens (NRIC).
+Under subsection 4 of section 4 that deals with the preparation of NRIC, it has been only mentioned that details of individuals whose citizenship is doubtful will be
+entered by the Local Registrar
+with ‘appropriate remark
+in the population register for further enquiry’.
+A family or individual is notified in a specific pro forma as soon as the verification process concludes whether they have been classified as a dubious citizen (D-Category).
+Before deciding whether or not to add their name to the register, they are also
+given the opportunity to be heard by the Taluk
+, or Sub-district Registrar of Citizenship. The Registrar has ninety days to complete and justify his findings.
+Because their Indian citizenship has not been verified, doubtful voters are
+not allowed to vote in elections.
+They are also
+not permitted to run for office
+in the nation's elections.
+The marking as doubtful voter is a
+temporary measure and cannot be prolonged
+. A decision in a definite period of time must be taken.
+According to the documentation provided, if it is determined that the individual is a foreign national or an illegal immigrant, they
+may be deported or placed
+n a detention centre.
+D- Voters also have the
+option to apply and get their names included in NRC
+They will be
+included only after they get clearance from the Foreigners
+Tribunals and their names are removed from electoral rolls under the ‘D’ category.
+Click to View More
+Source :
+Himanta Biswa Sarma: 1.2 lakh 'D' voters identified, 41,583 declared foreigners
+Polity & Governance
+**********What is SHe-Box (Sexual Harassment e-box) Portal?
+Union Ministry of Women and Child Development recently launched the new SHe-Box portal.
+About SHe-Box Portal:
+It is a centralized platform for
+registering and monitoring complaints of sexual harassment of women in the workplace
+It serves as a centralized
+repository of information related to Internal Committees (ICs)
+and Local Committees (LCs)
+formed across the country, encompassing both the government and private sectors.
+It offers a common platform to
+file complaints
+track their status,
+ensure time-bound processing
+of complaints by ICs.
+It provides
+assured redressal of complaints
+and a streamlined process for all stakeholders.
+The portal will also enable
+real-time monitoring of complaints
+through a designated nodal officer.
+The portal will ensure that complaints can be safely r
+egistered without personal information being publicly accessible.
+The SHe-Box portal can be accessed at
+https://shebox.wcd.gov.in/
+Points to Remember:
+In 2017, an upgraded version of SHe-Box was launched based on The
+Sexual Harassment of Women at Workplace
+(Prevention, Prohibition, and Redressal) Act, 2013
+, where women who are harassed at any workplace can register their case on this, SHe-Box, file their complaint, and then two types of committees will be formed.
+One, for
+private institutions, an internal committee
+will be formed, and for
+government institutions, a local committee
+will be formed under the chairmanship of the DM or DC or an officer appointed by them, and actions will be taken by them from time to time.
+Click to View More
+Source :
+Centre Launches Portal To Address Sexual Harassment At Workplaces | Step-by-Step Process To File Complaint On SHe-Box
+Polity & Governance
+**********What is Bonus Issue?
+Reliance Industries Chairman recently announced a bonus issue for the company’s shareholders in a 1:1 criterion.
+About Bonus Issue:
+A bonus issue, also known as a
+scrip issue
+or a
+capitalization issue,
+occurs when a
+listed on a stock exchange decides to offer
+free additional shares to
+the existing shareholders
+The
+company decides
+the number of bonus shares to be allotted to every individual investor for
+holding
+a certain number of shares
+over a set period of time and
+accordingly rewards them
+For example, a company may give one bonus share for every five shares held.
+This bonus issue aims to
+attract further investment
+and reward its existing shareholders as it improves the entity's market image.
+A bonus issue of shares will
+increase a company's share capital but not its market capitalisation.
+Market capitalisation is calculated by multiplying the company's current stock price and the total number of outstanding shares. Share capital is the amount that the company raises by issuing shares.
+By issuing bonus shares, the number of outstanding shares increases with a proportional decrease in the value of each share, ensuring no change in the market capitalization. However, the
+face value of the shares remains unchanged.
+They
+do not dilute shareholders’ equity
+because they are issued in a constant ratio that keeps the relative equity of each shareholder the same as before the issue.
+A bonus share issue is
+funded by the company's healthy profits
+reflected in its annual or quarterly results or from its share reserves.
+The issuance of bonus shares is
+not taxable
+; however, shareholders must still
+pay capital gains tax
+if they sell them
+for a net gain.
+What is a Stock Split?
+A stock split is an action taken in which a
+divides its existing shares into multiple shares
+to boost the liquidity of shares.
+A split is usually undertaken
+when the stock price is high
+, making it pricey for investors to acquire.
+It
+brings down the share price
+as the number of shares increases.
+The market cap of the firm
+and the value of each shareholder’s investment stay unchanged
+after a stock split.
+Stock Split v/s Bonus Issue:
+Most people mistake stock splits for bonus concerns. This is due to the fact that, similar to stock splits, bonus issues can
+result in a rise in
+company's share count.
+In contrast to a stock split, where the face value of each share is decreased, a bonus issue offers existing owners
+more shares at no cost
+in proportion to the shares they
+now possess in the company.
+Therefore, bonus shares
+raise the company's share capital
+while a stock split keeps it constant.
+However, in both scenarios, the
+number of shares rises
+and the share price falls accordingly.
+Click to View More
+Source :
+Reliance Industries to consider 1:1 bonus: A look at RIL's bonus history
+Economy
+**********What is Solar Paraboloid Technology?
+As the world grapples with the urgent need to transition to renewable energy, solar paraboloid technology is emerging as a potentially transformative solution.
+About Solar Paraboloid Technology:
+It is an
+advanced form of concentrating solar power (CSP) technology.
+It not only
+enhances the efficiency of solar energy capture
+but also addresses the limitations that have long plagued traditional photovoltaic (PV) systems.
+Working?
+Solar paraboloids
+operate using
+Parabolic Trough Collector (PTC) system
+These systems
+consist of long, parabolic mirrors that focus sunlight onto a receiver tube
+placed at the focal line of the mirror.
+concentrated solar energy heats a fluid
+within the receiver, which can
+then be used to generate electricity
+provide direct heat
+for industrial processes.
+Benefits:
+Solar paraboloids are highly efficient in concentrating solar energy, which means that
+more electricity can be generated
+from the same amount of sunlight.
+This efficiency could lead to
+lower costs per unit of electricity produced
+, making solar energy more competitive with traditional fossil fuels.
+Another key benefit is its
+ability to operate at higher temperatures
+, up to 300°C, which significantly
+increases thermal efficiency
+. This is achieved by reducing heat losses through a smaller absorbing surface area.
+The technology can
+produce energy even in low-light conditions
+, making it a versatile solution for diverse environments.
+Solar paraboloid systems are
+scalable and can be
+deployed in various configurations,
+from small-scale applications to large solar farms.
+Click to View More
+Source :
+Explainer: Solar paraboloid technology - The next frontier in renewable energy
+Science & Tech
+**********Key Facts about Sabina Shoal
+China's natural resource ministry recently released its first survey report of the South China Sea's disputed Sabina Shoal.
+About Sabina Shoal:
+It is
+also known as
+Xianbin Reef
+. It
+is an oceanic coral
+atoll
+that developed on top of a seamount in the eastern part of the Spratlys Islands in the
+It is located some 75 nautical miles from the Philippine province of Palawan.
+It is considered to be
+within
+the Philippines
+200-nautical mile
+E
+xclusive
+conomic
+Z
+one
+(EEZ) under the 1982 United Nations Convention on the Law of the Sea.
+China, however, claims the shoal
+and much of the South China Sea as its sovereign territory and has maintained a continuous presence there. It is located 630 nautical miles from China.
+extends close to 23 km along its northwest-southeast axis.
+It is composed of
+two main parts connected by a narrow section
+The western part measures 13 km long by 6 km wide and is larger than the eastern part, which measures 10 km by 3 km.
+They
+both have a central lagoon surrounded by a coral ring
+made of discontinuous shallow sections.
+Click to View More
+Source :
+China publishes first survey report of disputed South China Sea's Sabina Shoal
+Geography
+**********Finternet
+Recently, the ex-chairman of UIDAI described the idea of ‘Finternet’ at the Global Fintech Fest (GFF) in Mumbai.
+About Finternet:
+It refers to the
+multiple financial ecosystems
+interconnected with each other, much like the internet.
+It would
+lower barriers between different financial services
+and systems, drastically reducing the complex clearing and messaging chains and other frictions that hinder financial system.
+Working:
+It would be
+built on unified ledgers
+which will bring multiple financial markets such as
+tokenized assets, shares, bonds
+, real estate, on a single programmable platform.
+It has the capability to enable individuals and businesses
+to transfer any financial asset
+they like, in any amount, at any time, using any device, to anyone else, anywhere in the world. Financial transactions would be cheap, secure, and near-instantaneous.
+Advantages:
+It will
+be user-centric, unified,
+which means it will cover all types of assets, with a universal infrastructure.
+Significance:
+reduce the complex processes
+that happen behind-the-scenes today and make transactions slower and expensive.
+Central banks would remain at the core of the system, ensuring trust in money, but (like today) work closely with commercial banks.
+Click to View More
+Source :
+Nandan Nilekani gives a glimpse of the next decade of India’s ‘Finternet’
+Economy
+**********India's 2nd nuclear missile submarine
+Why in news?
+India has got its second nuclear submarine with the commissioning of INS Arighaat into the Navy. INS Arighaat will join its predecessor
+INS Arihant
+strengthening the country’s nuclear triad — the ability to fire nuclear missiles from platforms in the air, land and sea.
+What’s in today’s article?
+2nd nuclear missile submarine INS Arighaat
+About
+INS Arihant, a 6,000-tonne submarine is the lead ship of India's Arihant class of nuclear-powered ballistic missile submarines built under the Advanced Technology Vessel (ATV) project.
+Under the Rs 90,000 crore top secret ATV project, India is currently building three more SSBNs to follow INS Arihant.
+The second such submarine, INS Arighat commissioned recently.
+The vessel will be followed by two 7,000-tonne SSBNs under the ATV project.
+There is also plan to build 13,500-tonne SSBNs with more powerful 190MW reactors.
+It is India's first indigenous nuclear submarine that has been inducted in the Indian Navy
+Launched in 2009, INS Arihant was commissioned in 2016.
+Features
+Power source
+It is propelled by an 83 MW pressurised light-water reactor at its core with enriched uranium fuel.
+Builder
+Shipbuilding Centre (SBC), Visakhapatnam. It’s India’s first indigenously built nuclear submarine.
+Its design is based on the Russian Akula-1 class submarines and its 83mw pressurised water reactor has been built with significant Russian assistance.
+It is a ‘Ship Submersible Ballistic Nuclear Submarine’ (SSBN).
+SSBN's are that class of submarines which can go deep beneath the ocean making them virtually undetectable for months, they also carry nuclear-tipped ballistic missiles.
+Armament
+It is capable of carrying ballistic missiles with nuclear warheads.
+It is armed with the K-15 Sagarika missiles with a range of 750 km.
+Later, it will also be armed with K-4 missiles, being developed by the DRDO, which are capable of striking targets at a distance of up to 3,500 km.
+These 'K' series of missiles are named after former President APJ Abdul Kalam.
+Significance
+Nuclear triad
+With INS Arihant, India completed its ‘nuclear triad’.
+i.e., India can launch nuclear missile from all three key defence bastions — land, air and sea.
+Triad is important because in an enemy strike, even if the other wings are destroyed, the third can launch a retaliatory strike thus providing a guaranteed ‘second strike’ capability to the country.
+Stealth capability
+Due to satellites, other legs of our nuclear triad (missile sites and air-bases) remain exposed to enemy attack.
+However, being a SSBN, it can stay deep inside the ocean making them virtually undetectable for months.
+Part of Elite club
+INS Arihant places India in the league of select group of five Countries — US, Russia, France, UK and China — which can design, construct and operate Strategic Strike Nuclear Submarines.
+Credible minimum deterrence
+:
+While India remains committed to the doctrine of Credible Minimum Deterrence and No First Use,” the success of INS Arihant gives a fitting response to those who indulge in Nuclear Blackmail.
+Maritime security
+INS Arihant will strengthen India’s position in the Indian Ocean region where it has to face challenges from Chinese submarines.
+Boost to defence manufacturing
+The Arihant is a live manifestation of Government’s Make in India vision.
+About the news
+India got its second nuclear submarine with the commissioning of INS Arighaat into the Navy, a move that will significantly boost the country’s deterrence capability.
+The discreet commissioning ceremony of the Arihant-class vessel in Visakhapatnam was attended by Defence Minister Rajnath Singh.
+The 6,000-tonne nuclear-propelled submarine will be armed with indigenously made K-15 missiles which have a range of over 700 km.
+Like INS Arihant, it is powered by 83 MW pressurised light-water reactors which allows it to remain submerged for longer periods when compared to conventional submarines.
+The presence of both INS Arihant and INS Arighaat will enhance India’s capability to deter potential adversaries and safeguard its national interests.
+India's 2nd nuclear missile submarine.pdf
+( Size:  1.5 MB  )
+Click to View More
+Science & Tech
+**********Piezoelectric Polymer
+Researchers from Centre for Nano and Soft Matter Sciences (CeNS), an autonomous institute of Department of Science and Technology, in collaboration with scientists from National Chemical Laboratory (CSIR-NCL), Pune have developed a security alert system based on piezoelectric polymer nanocomposite.
+About Piezoelectric Polymers:
+These are polymers that can
+generate electric charges
+on the surface under pressure/strain thus converting
+mechanical energy
+into
+electrical energy
+Characteristics
+These polymers have much
+higher piezoelectric stress constants
+indicating that they are much better sensors than ceramics.
+They have
+low dielectric constant
+low elastic stiffness
+, and low density, which result in a high voltage sensitivity and low acoustic and mechanical impedance (crucial for medical and underwater applications).
+Piezoelectric polymeric sensors and actuators offer the advantage of processing flexibility because they are
+lightweight, tough, readily manufactured
+into large areas, and can be cut and formed into complex shapes.
+Polymers also typically possess a high dielectric breakdown and high operating field strength, which means that they can withstand much
+higher driving fields than ceramics.
+Click to View More
+Source :
+Piezoelectric polymer nanocomposite developed can be used for energy harvesting
+Science & Tech
+**********Unified Payments Interface (UPI) block mechanism
+Recently, Securities and Exchange Board of India (SEBI) proposed mandatory Unified Payments Interface (UPI) block mechanism facility for secondary market trading using the UPI-based block mechanism to their clients.
+About Unified Payments Interface (UPI) block mechanism:
+It is similar to the
+Application Supported by Blocked Amount
+(ASBA) facility that allows trading with blocked amounts.
+In the primary market, the facility ensures that money from an investor gets moved only when the allotment is completed.
+In the UPI block mechanism, clients can trade in the
+secondary market based
+on blocked funds in
+their bank accounts
+, instead of transferring the funds upfront to the trading member.
+The facility is
+currently optional for investors
+, and not mandatory for Trading Members (TMs) to offer as a service to clients.
+Significance:
+It provides
+enhanced protection
+to the client's funds and securities.
+Key facts about Application Supported by Blocked Amount
+It was first introduced by
+SEBI in 2008.
+It is a process for making
+Initial Public Offerings
+(IPOs) or rights issue subscriptions.
+It is a facility provided by banks that allows investors to apply for an IPO or rights issue by
+blocking the application amount in their bank account
+instead of transferring the money to the issuer.
+Under ASBA, the investor's application money remains in their bank account, and only a
+block is created on the funds
+for the IPO application amount.
+This blocked amount remains in the investor's bank account
+until the allotment process is completed
+Once the shares are allotted to the investor, the block is released, and
+only the amount for the allotted shares is deducted
+from the investor's account.
+In public issues and rights issues, all investors have to mandatorily apply through ASBA.
+Click to View More
+Source :
+SEBI proposes mandatory UPI block mechanism facility for secondary market trading
+Economy
+**********What is the Pacific Islands Forum?
+Recently, the annual meeting of the Pacific Islands Forum (PIF) began on August 26 in Nuku’alofa, the capital of Tonga.
+About Pacific Islands Forum:
+It is an
+intergovernmental organisation
+formed in 1971.
+Member countries:
+It consists of
+18 member states
+located in the Pacific region.
+Australia, Cook Islands, Federated States of Micronesia, Fiji, French Polynesia, Kiribati, Nauru, New Caledonia, New Zealand, Niue, Palau, Papua New Guinea, Republic of Marshall Islands, Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu.
+Aim:
+It aims to push for
+economic growth
+, enhance
+political governance
+security
+for the region, and strengthen regional cooperation.
+Its vision is for a
+resilient Pacific region of peace
+, harmony, security, social inclusion and prosperity that ensures all the people in the region can lead free, healthy and productive lives.
+It discusses
+priority issues
+at its annual meeting, where decisions made by the member states are
+reached by consensus.
+The decisions are implemented by the
+Pacific Islands Forum Secretariat.
+PIF members have been pushing to raise funds for climate action. Notably,
+the Pacific Resilience Facility (PRF)
+— a regional financing facility established by PIF is currently $380 million short of its $500 million target.
+Click to View More
+Source :
+The Pacific Islands Forum’s annual meeting begins: The organisation and the issues being discussed
+International Relations
+**********RESET Programme
+Recently, the Union Minister of Youth Affairs & Sports and Labour & Employment launched “Retired Sportsperson Empowerment Training” (RESET) Programme on the occasion of National Sports Day in New Delhi.
+About RESET Programme:
+The
+Retired Sportsperson Empowerment Training Programme
+is aimed at
+empowering the retired sports persons
+who have played for the country and brought immense laurels to the nation.
+It will support
+retired athletes
+on their
+career development journey
+by empowering them with the necessary knowledge and skills and making them more employable.
+It represents a significant step towards recognizing and utilizing the invaluable experience and expertise of our retired athletes.
+Eligibility:
+The athletes, who have retired from an active sports career and
+are aged
+between 20-50 years
+and who have been winners of an International Medal/participants in international events or have been National medallists/State medallists/participants in competitions recognized by National Sports Federations/Indian Olympic Association/Ministry of Youth Affairs and Sports are eligible to apply for courses under RESET Programme.
+Initially, the programmes will be of
+two levels
+based on educational qualifications viz.,
+Class 12th and above
+Class 11th and below
+For this pilot phase of the RESET Programme,
+Lakshmibai National Institute of Physical Education (LNIPE)
+will be the lead institute to implement the Programme.
+The programme will be offered in
+hybrid mode
+consisting of self-paced learning through a dedicated portal, along with on-ground training and internship.
+Internships will be provided
+in sports organizations, sporting competitions/training camps, and leagues. Further, placement assistance, guidance for entrepreneurial ventures, etc. will be provided upon successful completion of the course.
+Click to View More
+Source :
+Dr. Mansukh Mandaviya Launches Retired Sportsperson Empowerment Training (RESET) Programme
+Polity & Governance
+**********Controversy Over Lateral Entry into the Civil Services
+What’s in Today’s Article?
+Background (Context, Merit vs Spoils System)
+Lateral Entry (Purpose, Process, Pros, Cons, Way Forward, etc.)
+Larger Issues in Indian Bureaucracy
+Background:
+Recently, the Union Public Service Commission (UPSC) withdrew an advertisement for lateral recruitment to 45 government posts.
+This decision followed objections raised by political parties and the intervention of the Prime Minister's Office (PMO), highlighting concerns about the need for reservation in such recruitments.
+Understanding Merit vs. Spoils System:
+Merit System:
+Introduced in 1858, this system ensures appointments to government posts through a rigorous selection process.
+In India, the UPSC conducts exams to select officers for the Indian Administrative Service (IAS), Indian Police Service (IPS), and other central services.
+The aim is to create a neutral bureaucracy that can provide independent advice to the government.
+Originating in the U.S., this system allows the ruling party to appoint its supporters to various government positions.
+While this system was largely replaced by the merit system in 1883, it still exists in a limited form, with a
+small percentage of senior government posts directly appointed by the President
+About Lateral Entry in Civil Services:
+Lateral entry in administration is the
+appointment of specialists from the private sector in government organisations
+It was recommended by the NITI Aayog in its Three-year Action Agenda and also the Group of Secretaries (GoS) on Governance had in its report recommended the induction of personnel in the middle and senior management level in the government.
+Objective
+Lateral entry was introduced to serve the twin purpose of:
+Bringing in
+domain expertise
+in the civil services,
+Addressing the problem of
+shortage of IAS officers
+at the Centre.
+With lateral entry, the government aims to recruit outstanding individuals, with expertise in revenue, financial services, economic affairs, agriculture, cooperation and farmers’ welfare, road transport and highway, civil aviation, commerce among many other sectors to serve for the benefit of the country.
+Process of Lateral Entry Recruitment:
+The selection process for lateral entry into administration is conducted by the
+The Department of Personnel and Training (DoPT
+asks the UPSC to conduct the selection process for lateral entry to various positions in government departments and ministries.
+Subsequently, the UPSC invites online applications for lateral recruitment for these positions.
+Once the candidates have submitted their application, the UPSC conducts interviews of the shortlisted candidates and recommends the list of selected candidates to the DoPT.
+The recommended candidates are then appointed by the Government,
+generally for a period of 3 to 5 years
+Need for Lateral Entry:
+Shortage of officers:
+There is a shortage of 22.48% or 1,510 officers for the IAS cadre, according to the DoPT.
+The IAS and the Indian Police Service (IPS) have a combined shortage of 2,418 officers.
+Domain Expertise:
+Through lateral entry, domain experts can be recruited from the private sector to the central administration.
+This can be helpful in improving efficiency and create a competitive environment in governance delivery.
+Pros of Lateral Entry in Civil Services:
+Expertise and Specialization:
+Lateral entry allows professionals with specialized knowledge and experience from the private sector to contribute to policymaking and implementation, enhancing the quality of governance.
+Innovation and Fresh Perspectives:
+Individuals from diverse backgrounds bring new ideas, innovative approaches, and fresh perspectives, potentially improving efficiency and effectiveness in public administration.
+Merit-Based Selection:
+Lateral entry emphasizes merit, skills, and experience over traditional seniority, promoting a performance-oriented culture within the civil services.
+Shortening Learning Curve:
+Experienced professionals can quickly adapt and contribute without requiring extensive training, which is often needed for career bureaucrats.
+Cons of Lateral Entry in Civil Services:
+Cultural and Bureaucratic Resistance:
+The traditional civil services may resist the inclusion of lateral entrants, potentially leading to friction, lack of cooperation, and integration challenges.
+Lack of Public Sector Experience:
+Lateral entrants may lack understanding of government procedures, protocols, and the complexities of public administration, affecting their effectiveness.
+Potential for Bias:
+The selection process for lateral entry could be perceived as biased or politically influenced, raising concerns about transparency and fairness.
+Short-Term Focus:
+Professionals entering laterally may focus on short-term goals rather than long-term public service commitments, potentially affecting the continuity and sustainability of policies.
+Way Forward:
+To address the concerns associated with lateral entry, certain measures can be taken:
+Higher Scrutiny:
+Appointments at the secretary level should be carefully monitored to ensure they influence policy decisions positively.
+Integration with Public Policy:
+Even at operational levels like Joint Secretary, Director, and Deputy Secretary, lateral entrants should be in line with public policy objectives.
+Balancing Merit with Social Justice:
+Appointments should combine technical competence with considerations for reservation and social justice, as emphasized by political philosopher Michael Sandel.
+Larger Issues in Indian Bureaucracy:
+Challenges for Career Bureaucrats:
+Despite criticisms of
+red-tapism
+inefficiency
+, career bureaucrats operate in a complex environment bound by numerous rules and political interference.
+Preserving Autonomy:
+The effectiveness of bureaucrats depends on their autonomy, particularly regarding postings, tenures, and transfers.
+Strengthening Civil Service Boards at the Centre and State levels
+, as recommended by the Supreme Court in the T.S.R. Subramanian case (2013), is crucial.
+Conclusion:
+While lateral entry brings certain benefits, it should not overshadow the need to address deeper issues within the Indian bureaucracy.
+A balanced approach that includes both career bureaucrats and lateral entrants, with a focus on merit, social justice, and autonomy, is essential for effective governance.
+On the controversy over lateral entry into the civil services.pdf
+( Size:  255.5 KB  )
+Click to View More
+Polity & Governance
+**********Incentivising Semiconductor Manufacturing in India
+Why in News?
+The Indian government, having nearly exhausted the $10 billion subsidy under its ambitious semiconductor manufacturing incentive policy, is planning a second phase with a $15 billion outlay.
+This expansion aims to provide capital support for raw materials and gases used in chip manufacturing, while reducing subsidies for assembly and testing plants.
+What’s in Today’s Article?
+India’s Semiconductor Ambitions
+India's Major Leap into Semiconductor Manufacturing
+The Semiconductor Manufacturing Incentive Policy
+India’s Semiconductor Ambitions:
+Background:
+In today’s world, semiconductors constitute the
+backbone of modern electronics
+, indispensably situated at the junction of a wide range of industries.
+Given their broad applicability, countries across the globe are strategising to mitigate risks associated with over-reliance on a single supply source of semiconductor chips.
+This also serves to fortify national security and economic well-being, considering recent geopolitical conflicts.
+Advantages to India:
+India has 20% of the world’s semiconductor design
+workforce
+, a rapidly evolving
+technology
+landscape and a thriving domestic
+market
+, all of which are conducive in building an indigenous semiconductor ecosystem.
+How to sustain the growing momentum?
+Pacing up of initiatives:
+In the last few decades (prior to the current push), India made multiple attempts to join the global semiconductor industry but fell short primarily due to the lack of proactiveness in policy implementation.
+Drawing lessons from the past, the government can ensure swift execution of policies under its freshly formulated strategy.
+Inching up the value chain:
+To establish an end-to-end semiconductor ecosystem, India can consider strategically moving across the industry value chain.
+Leveraging the talent edge:
+Estimates say that India will require 1.2 million skilled people in the semiconductor sector by 2032. The clock is ticking, and India must develop its talent ecosystem fast.
+India's Major Leap into Semiconductor Manufacturing:
+The government is aiming for India to be among the top five global destinations (on the lines of the United States, Taiwan and South Korea) for semiconductor manufacturing by
+2030
+Government initiatives
+, such as the National Electronics Policy or the USD10 billion production linked incentive (PLI) scheme for semiconductor manufacturing, are also boosting India’s chipmaking aspirations.
+India has been luring foreign companies to set up operations in the country.
+For example
+The country has approved a fabrication plant worth $11 billion being set up by Tata Electronics in partnership with Taiwan’s Powerchip.
+3 different chip assembly plants are being set up by the Tatas, US-based Micron Technology, and Murugappa Group’s CG Power in partnership with Japan’s Renesas.
+Hence, with the right blend of proactive actions, tech skills, infrastructural acceleration and fiscal investments, India has the potential to achieve this target.
+The Semiconductor Manufacturing Incentive Policy:
+In the first iteration
+of the incentive policy released in 2021,
+The Centre had offered a 30% capex subsidy for chip packaging and testing plants.
+However, the Centre had increased the subsidy for such plants to 50% in 2022.
+The Semiconductor Manufacturing Incentive Policy 2.0:
+Focus on chip fabrication:
+India wants to go up (beyond assembly and packaging facilities) the complexity ladder in the semiconductor ecosystem, where nations like Malaysia already have a stronghold.
+Therefore, the new scheme could see an
+increased focus on fabrication plants, and more advanced display technologies.
+Technology transfer costs:
+Under the new incentive scheme, the government
+does not want to support
+technology transfer costs.
+This implies that companies that collaborate with others to use their technology for chip fabrication may have to pay for it themselves.
+Capital equipment and ecosystem support:
+Under the new scheme, the government could also offer capital equipment and ecosystem support such as gases, chemicals, and raw materials needed at assembly and testing plants.
+It could also look at incentivising fabrication of micro-LED displays.
+In new chip push, Centre ready with $15-billion blueprint.pdf
+( Size:  742.1 KB  )
+Click to View More
+Economics
+**********The Gender Budget of 2024-25
+Why in news?
+In the 2024-25 Budget, the Finance Minister emphasized women-led development, highlighting a strong commitment to women's empowerment.
+This dedication is evident in the Gender Budget Statement (GBS), which reported that
+the Gender Budget has reached 1% of GDP estimates for the first time
+. The overall budget allocations for pro-women programs now exceed ₹3 lakh crore, reflecting a significant investment in initiatives aimed at advancing gender equality.
+What’s in today’s article?
+Gender Budget in India
+About
+Gender budgeting is a policy strategy that integrates a gender perspective into the budgetary process.
+It aims to assess how government spending and resource allocation impact men and women differently.
+The goal is to promote gender equality by ensuring that public resources are distributed in a way that benefits all genders equitably.
+Basically, Gender Budgeting is a tool for gender mainstreaming, applying a gender lens to the entire policy process.
+It involves gender-sensitive formulation, resource allocation, and continuous monitoring to address vulnerabilities faced by women throughout their life cycle.
+Need for Gender Budgeting
+Despite India's progress in various sectors, significant gender disparities persist in areas such as education, health, employment, and political participation.
+Gender budgeting is necessary to address these disparities and to ensure that women's specific needs are considered in policy formulation and implementation.
+It also promotes accountability in achieving gender equality goals.
+Introduction of Gender Budgeting in India
+India introduced gender budgeting in 2005-06.
+The Ministry of Women and Child Development spearheaded this initiative, which was supported by the Ministry of Finance.
+The Indian government began by identifying and classifying budgetary allocations into three categories:
+Part A
+: Schemes where 100% of the budget is allocated for women.
+Part B
+: Schemes where at least 30% of the budget is allocated for women.
+Part C:
+Schemes that allocate up to 30% of their funds to women
+Implementation of Gender Budgeting
+Nodal authorities, including the Ministry of Women and Child Development at the central level, spearhead gender budgeting implementation.
+Departments of Women and Child Development/ Social Welfare, Finance or Planning Department are also responsible for gender budget implementation in states and Union territories.
+The Gender Budget (GB) of 2024-25
+The GB reached 1% of GDP estimates in 2024-25 for the first time, and overall allocations currently stand at more than ₹3 lakh crore for pro-women programmes.
+Since its introduction in 2005-06, the Gender Budget Statement (GBS) has consistently accounted for an average of 5% of total budgetary allocations, with minor fluctuations.
+However,
+in 2024-25, the share of allocations to pro-women schemes has risen to approximately 6.8% of the total budget expenditure
+Increase driven by two main factors
+First, the
+introduction of Part ‘C’ in the GBS
+, which includes schemes with less than 30% allocation for women.
+E.g., the PM Kisan scheme in the agriculture sector, which now reports ₹15,000 crore, or 25% of its total outlay, under this category.
+Second, the rise in Part A allocations, which cover schemes with 100% allocation for women.
+Previously, Part A constituted 15-17% of GBS allocations, but this has surged to nearly 40% since 2023-24.
+This change is largely due to the Pradhan Mantri Awas Yojana (PMAY) — both rural and urban — being reclassified from Part B to Part A.
+Issues of both over-reporting and under-reporting
+The GBS for 2024-25 highlights issues of both over-reporting and under-reporting in gender-related allocations.
+Over-reporting is evident in schemes like the PM Employment Generation Programme (PMEGP), where 40% of the total ₹920 crore allocation was reported without explanation.
+Conversely, under-reporting deflates the actual spending on women’s needs.
+For instance, the National Rural Livelihoods Mission (NRLM) is now correctly reflected in Part A of the GBS with 100% allocation for women, which was underreported in previous years.
+Additionally, while increased allocations for the Ministry of Electronics & IT have been correctly reported, pro-women allocations in schemes like PM Vishwakarma, SVANidhi, and Stand-Up India were omitted.
+In another example, the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS), despite women constituting 59.3% of all person-days under the scheme,
+only has 33.6% of its budget reflected in Part B of the GBS
+This discrepancy suggests that the actual benefits to women under MGNREGA are not fully captured in the GBS.
+Way forward
+To minimize anomalies in the GBS, it is essential to include explanations for budgetary entries.
+Providing these rationales would enhance accounting accuracy, facilitate gender audits, and lead to better gender outcomes in government programs.
+The recent inclusion of a third part in the GBS reflects years of advocacy by experts for improved reporting.
+However, the persistent anomalies indicate that the GBS still lacks a scientific and systematic approach.
+While efforts to reduce misreporting and improve the GBS quality are evident, more progress is needed.
+The Gender Budget of 2024-25.pdf
+( Size:  1.5 MB  )
+Click to View More
+Economics
+**********Cabinet approves BioE3 Policy for Fostering High-Performance Biomanufacturing  
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+BioE3 Policy;
+Mains level:
+Significance of BioE3 Policy;
+Why in the News?
+The Union Cabinet has approved the ‘
+BioE3 (Biotechnology for Economy, Environment, and Employment) Policy’
+proposed by the
+Department of Biotechnology to promote advanced biomanufacturing.
+What is the BioE3 Policy?
+The BioE3 (Biotechnology for Economy, Environment and Employment) Policy is a strategic initiative approved by the Indian Cabinet to
+foster high-performance biomanufacturing.
+Aims and Objectives of the Policy:
+Innovation Support:
+The policy promotes
+research and development (R&D)
+and entrepreneurship in various thematic sectors, facilitating
+technological advancement and commercialization.
+Biomanufacturing Hubs:
+It proposes the establishment of
+Biomanufacturing & Bio-AI hubs and Biofoundries
+to enhance India’s bioeconomy.
+Focus Areas:
+The policy targets several strategic sectors, including high-value bio-based
+chemicals, biopolymers, smart proteins, precision biotherapeutics, climate-resilient agriculture, carbon capture,
+marine and space research.
+Significance of the Policy
+Economic Growth:
+It is expected to catalyze a “bio revolution” similar to the IT revolution, generating
+substantial job opportunities in biotechnology and biosciences.
+Sustainability Goals:
+The policy aligns with government initiatives for achieving a
+‘Net Zero’ carbon economy
+promotes sustainable lifestyles
+, thereby steering India towards accelerated green growth and a circular bio-economy.
+Job Creation:
+By expanding the
+skilled workforce in biotechnology,
+the policy aims to create various kinds of employment opportunities, addressing critical societal issues such as climate
+change, food security, and human health.
+Present Status of Indian Bio-economy
+Growing Potential:
+The biotechnology sector is seen as a key player in addressing challenges in
+health, agriculture, environment, and energy.
+India has a
+large pool of young, skilled workers, with 47% of its population
+under the age of 25.
+Investment in R&D:
+Despite its potential, India
+spends less than 1% of its GDP on research
+, compared to countries like Israel and South Korea, which invest over 4%.
+Existing Infrastructure:
+The government has established
+9 biotech parks and 60 bio-incubators,
+which support the growth of the biotechnology sector.
+Challenges Ahead
+Educational Gaps:
+The current educational
+curriculum does not adequately prepare students
+for industry demands, creating a skills mismatch.
+Funding Issues:
+There is a
+lack of venture capital funding due to information asymmetry regarding the biotech industry,
+which hampers innovation and growth.
+Clinical Trials:
+India conducts a
+low percentage of clinical trials compared to global standards,
+which is a concern for the development of biopharmaceuticals.
+Research Investment:
+The government currently covers over
+60% of total R&D spending,
+which is very different from countries where the
+private sector contributes a large portion.
+Way forward:
+Enhance Industry-Academia Collaboration:
+Encourage partnerships between
+educational institutions and biotech companies
+to align curricula with
+industry needs
+, thereby reducing the skills mismatch and preparing students for emerging job markets.
+Increase Private Sector Investment:
+Implement policies and incentives to
+attract more private sector investment in R&D,
+tax benefits, public-private partnerships, and improved access to venture capital,
+to stimulate innovation and reduce reliance on government funding.
+**********Moving the spotlight to grassroots democracy  
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+73rd and 74th amendments;
+Mains level:
+Issue of Disempowerment of State Election Commissions (SECs);
+Why in the News?
+The Election Commission of India (ECI) has established itself as one of India’s most credible institutions, known for consistently conducting free, fair, and timely elections to Parliament and State legislatures. However, the
+34 State Election Commissions (SECs) still require significant attention and strengthening.
+The Constitution
+(73rd and 74th amendments)
+vested SECs with the responsibility of conducting elections to panchayats and urban local governments, but in reality,
+SECs are increasingly disempowered by state governments.
+Legal and Administrative Challenges:
+SECs sometimes find themselves in
+litigation with state governments.
+For instance, the
+Karnataka SEC has had to file contempt petitions against the state government
+for failing to fulfill commitments related to the conduct of elections, highlighting a
+lack of cooperation from state authorities
+Inadequate Empowerment:
+Many SECs
+do not have the power to conduct delimitation of wards or manage the electoral rolls independently.
+This results in
+reliance on the Election Commission of India (ECI) and state governments,
+which can lead to arbitrary decisions that delay elections.
+Only
+11 out of 34 states and UTs have empowered SECs to conduct ward delimitation,
+accounting for just 35% of India’s population.
+Lack of Resources:
+SECs are legally entitled to request funds and assistance from state governments, but they often do not receive adequate resources, which hampers their ability to conduct elections effectively.
+Public Trust Erosion:
+The delays and challenges faced by
+SECs undermine public confidence in local governance and electoral processes,
+leading to a perception that local elections are not as credible as those conducted by the ECI for national and state elections
+Election not on time:
+Performance audits by the CAG found that
+70% of urban local governments in 18 states did not have elected councils at the time
+of the audit due to delays caused by disempowered SECs.
+Electoral Reforms Needed to Strengthen the Third Tier
+Parity with the Election Commission of India
+: SECs should be made as
+transparent and independent as the Election Commission of India.
+This could be achieved by appointing a
+three-member SEC through a committee comprising the Chief Minister, Leader of Opposition, and Chief Justice of the High Court,
+rather than by the State government alone.
+Fixed Intervals for Delimitation
+: The delimitation of ward boundaries and reservations should be conducted at fixed intervals,
+such as every 10 years,
+prevent arbitrary actions by State governments
+Transfer of Powers to SECs
+powers of delimitation and reservation of seats
+local governments should be vested in the SECs.
+SECs should also handle reservations for positions like mayors and presidents to avoid delays caused by State governments.
+Conclusion:
+Strengthening SECs through these reforms is essential to ensure timely, transparent, and credible local elections, thereby reinforcing grassroots democracy and public trust in local governance.
+**********What does Australia’s new cap on a number of international students mean?  
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Indian students in developed countries;
+Why in the News?
+Australia’s Education Minister announced a plan to establish a
+National Planning Level (NPL)
+that will cap the number of new international students at 2.7 lakh for the 2025 calendar year, subject to parliamentary approval.
+What does the 2025 Cap entail?
+Australia plans to introduce a cap on new international students at 2.7 lakh for the calendar year 2025.
+Distribution of Seats:
+Publicly funded universities:
+1.45 lakh students (maintaining 2023 levels).
+Vocational education and training (VET) sector:
+95,000 new students.
+Other universities and non-university providers:
+30,000 students.
+Certain categories, such as school students, research degree pursuers, students in standalone English language courses, government-sponsored scholars, and students from specific regions (e.g., Asia Pacific), are exempt from the cap.
+Trends in Indian Student Enrollment in Australia:
+In 2023,
+Australia admitted
+5.61 lakh international students, in 2022, it saw 3.88 lakhs, in 2021, it had 2.82 lakhs, in 2020, it had 3.96 lakhs, and in 2019, it saw 5.19 lakh students.
+2024 Projections:
+Between
+January and May 2024, the total student commencements reached 2.89 lakh,
+with additional intakes expected later in the year, possibly surpassing 2023 levels.
+Five-Year Trend:
+The 2025 cap will result in the lowest intake in the past five years, considering the effects of the COVID-19 pandemic on previous years’ admissions.
+Possible Impacts on Indians Since Last Year:
+Enrollment Numbers:
+The number of Indian students in Australia saw a decline from
+126,487 in 2023 to 118,109 in 2024.
+This comes on the back of moves by the Australian government to
+curb migration over the past six months, including higher IELTS band score requirements and the Genuine Student Test
+for applicants.
+Universities, especially the
+Group of Eight (Go8) research-intensive universities
+, have criticized the capping as a “bad policy” that will adversely impact them.
+Rising Costs:
+The Australian government increased the visa processing fee from
+AUD 710 to AUD 1,600 (approximately Rs 40,524 to Rs 91,321) as of July 1, 2024.
+This could
+deter prospective applicants
+due to financial constraints.
+Way Forward:
+Increase Scholarships and Financial Aid:
+The Australian government and universities should offer more scholarships and financial aid packages to offset the higher costs and attract international students, particularly from India.
+Strengthen Bilateral Education Ties:
+Enhance collaboration between Australian and Indian educational institutions to create joint programs and exchange opportunities, ensuring a steady flow of students despite the cap.
+**********Analyzing the Gender Budget of 2024-25   
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Gender Budget;
+Mains level:
+Issues related to Gender Budget;
+Why in the News?
+Women-led development is
+central in this year’s Budget
+, with
+allocations
+reaching 1% of GDP
+and over
+₹3 lakh crore for pro-women programs.
+About Gender Budgeting in India:
+The
+Gender Budget Statement (GBS)
+was introduced in the
+2005-06 budget.
+GBS has consistently represented an average of
+5% of total budgetary allocations
+since its introduction, with minor fluctuations.
+In the 2024-25 budget, the share of allocations to
+pro-women schemes
+increased to approximately 6.8% of the total budget expenditure.
+Different Components of the Gender Budget Statement
+The Gender Budget Statement (GBS) is structured into three main parts:
+Part A:
+This section includes schemes and programs that have
+100% allocation specifically for women.
+Part B:
+This part covers schemes with
+more than 30% but less than 100% of their allocations directed towards women.
+Part C:
+Introduced recently, this section reports
+pro-women schemes that have less than 30% provisioning for women.
+Instances of Missing Allocations Reported by Experts:
+Pradhan Mantri Awas Yojana (PMAY):
+Initially, only a portion of
+PMAY’s budget was reported under Part B
+, which led to an
+underrepresentation
+of its impact on women. The entire allocation of ₹80,670 crore for 2024-25 was later moved to Part A, raising concerns about the accuracy of reporting since
+not all beneficiaries are women.
+PM Employment Generation Programme (PMEGP):
+The GBS reported an allocation of ₹920 crore, which was claimed to be 40% of the total allocation to PMEGP, without a clear rationale for this percentage.
+Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS):
+Although women
+constituted 59.3% of all person-days under MGNREGS, only 33.6% of its total outlay was reflected in the GBS,
+indicating a significant
+underreporting of women’s engagement
+and benefits from the scheme.
+How should these anomalies be rectified by the Government (Way forward):
+Incorporate Explanations:
+Providing
+clear explanations for the allocations
+reported in the GBS would
+enhance transparency and accountability.
+Audit of Budgetary Allocation:
+The government should involve
+regular audits and assessments
+of how budgetary allocations impact gender equality.
+Engage Stakeholders:
+Involving
+experts and stakeholders in the process of developing the GBS
+can provide insights into the specific needs of women and help ensure that the budget effectively addresses those needs.
+Mains PYQ:
+Women empowerment in India needs gender budgeting. What are requirements and status of gender budgeting in the Indian context?
+(2016)
+**********Study reveals intriguing Magnetic behavior on Mars
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Magnetic Anomalies of Mars
+Why in the News?
+A study conducted by the
+Indian Institute of Geomagnetism (IIG)
+revealed significant variations in the strength of Mars’ crustal magnetic field between day and night.
+Notable facts about Mars:
+Mars is the
+fourth planet
+from the Sun and the
+second-smallest
+in the Solar System,
+larger only than Mercury.
+Named after the
+Roman god of war
+, Mars is often called the “
+Red Planet
+” due to its reddish appearance from
+iron oxide
+on its surface.
+It is a
+terrestrial planet
+with a
+thin atmosphere
+, featuring surface characteristics like impact craters, valleys, deserts, and polar ice caps.
+Mars shares
+similar days and seasons to Earth
+because of its comparable rotational period and axial tilt.
+It hosts
+Olympus Mons
+largest volcano and highest mountain
+on any planet, and
+Valles Marineris
+, one of the largest canyons in the Solar System.
+NASA recently found water frost over the Olympus Mons
+Key Findings on Mars’s Magnetic
+is significantly
+stronger
+during the daytime
+and nearly non-existent at night-time.
+This suggests a
+diurnal variation
+in the magnetic field strength on the Martian surface.
+The
+of Mars is primarily
+located in the southern hemisphere
+, specifically poleward of 30°S latitude.
+The magnetic fields are
+scattered within a region between 120° E and 240° E
+, indicating uneven distribution across the Martian surface.
+daytime crustal magnetic field
+plays a crucial role in
+controlling the ionosphere in Mars’ southern hemisphere.
+This influence impacts communication and navigation systems of future missions.
+Data Utilization from MAVEN Satellite
+The study utilized data from the
+MAVEN (Mars Atmosphere and Volatile EvolutioN) Satellite
+, which has been orbiting Mars since 2014.
+MAVEN’s data on electron density and magnetic field were critical in investigating how Mars’ crustal magnetic field affects its plasma environment and ionosphere.
+Significance of the Study
+Understanding Mars’ crustal magnetic field is essential for future robotic and manned missions, as it provides natural magnetic shielding against space radiation.
+The insights from the study can help in developing strategies to mitigate the effects of space weather on spacecraft and astronauts.
+PYQ:
+[2016]
+The Mangalyaan launched by ISRO
+is also called the Mars Orbiter Mission.
+made India the second country to have a spacecraft orbit the Mars after USA
+made India the only country to be successful in making its spacecraft orbit Mars in its very first attempt.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********[pib] Retired Sportsperson Empowerment Training (RESET) Program
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+RESET Programme
+Why in the News
+?
+The
+Ministry of Youth Affairs & Sports
+launched the
+“RESET Programme”
+to empower retired sportspersons with career skills on National Sports Day.
+What is RESET Programme?
+Details
+Launch Date
+August 29, 2024 (National Sports Day)
+Nodal Ministry
+Objective
+To empower retired sportspersons with skills and knowledge for career development and employability
+Eligibility
+– Retired athletes aged
+20-50 years
+– Winners/participants in international events, national/state medallists
+– Recognized by
+National Sports Federations/IOA/Ministry of Youth Affairs and Sports
+Programme Levels
+Two levels based on educational qualifications:
+– Class 12th and above
+– Class 11th and below
+Implementation
+Lead institute: Lakshmibai National Institute of Physical Education (LNIPE)
+Learning Mode
+Hybrid mode
+: Self-paced online learning and on-ground training
+Additional Support
+Placement assistance, guidance for entrepreneurial ventures
+PYQ:
+[2017]
+Consider the following in respect of ‘National Career Service’:
+1. National Career Service is an initiative of the Department of Personnel and Training, Government of India.
+2. National Career Service has been launched in a Mission Mode to improve the employment opportunities to uneducated youth of the country.
+Which of the above statements is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********Land-Based Deep Depression causing extreme floods in Gujarat
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Gujarat and parts of Rajasthan are facing
+severe flooding caused by a land-based deep depression.
+The unusual formation of this deep depression over land was intensified by
+moisture influx from soils or the Bay of Bengal and the Arabian Sea.
+What is Land-Based Deep Depression?
+A land-based deep depression is a type of
+cyclonic system
+characterized by a significant
+drop in atmospheric pressure leading to sustained wind and significant weather impact.
+They
+form and intensify over land
+, which is relatively
+rare
+due to the limited availability of moisture.
+Characteristics:
+It
+forms over land
+water.
+Wind Speed
+ranges from 51 to 62 km/h, just below the threshold for a tropical cyclone (62-88 km/h).
+Relies on moisture from soil
+surrounding
+environments rather than oceanic sources.
+It often has an
+unpredictable path
+and can cause significant rainfall and localized flooding.
+Implications of Land-Based Deep Depressions
+These systems can bring
+prolonged and intense rainfall
+, leading to widespread flooding, especially in regions unaccustomed to high levels of precipitation.
+Heavy rainfall can lead to significant
+soil erosion
+, affecting agricultural productivity and altering landscapes.
+Prolonged flooding can cause
+waterlogging
+in agricultural fields, leading to soil salinization and reduced fertility.
+PYQ:
+[2012]
+Consider the following statements:
+1. The duration of the monsoon decreases from southern India to northern India.
+2. The amount of annual rainfall in the northern plains of India decreases from east to west.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********Species in News: Atlantic Bluefin Tuna
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Atlantic bluefin tuna,
+already heavily overfished, now faces a new threat from warming seas, causing it to migrate further north.
+Atlantic Bluefin Tuna (Thunnus thynnus)
+Details
+Scientific Classification
+Family: Scombridae; Species: Thunnus thynnus.
+Common Names
+Northern bluefin tuna, Giant bluefin tuna (for individuals over 150 kg), formerly known as “tunny”.
+Habitat and Range
+Western and Eastern Atlantic Ocean, Mediterranean Sea; extinct in the Black Sea.
+Size
+Can weigh up to 680 kg; one of the largest Perciformes.
+Commercial Importance
+Highly valued in the Japanese market for sushi and sashimi; foundation of a major global fishery.
+Conservation Status
+Overfished; dramatic stock declines (72% in Eastern Atlantic, 82% in Western Atlantic);
+Moved to “Least Concern” by IUCN in 2021 due to some population recovery;
+Proposed for CITES Appendix I.
+PYQ:
+[2015]
+With reference to the International Union for Conservation of Nature and Natural Resources (IUCN) and the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), which of the following statements is/are correct?
+1. IUCN is an organ of the United Nations and CITES is an international agreement between governments
+2. IUCN runs thousands of field projects around the world to better manage natural environments.
+3. CITES is legally binding on the States that have joined it, but this Convention does not take the place of national laws.
+Select the correct answer using the codes given below:
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********

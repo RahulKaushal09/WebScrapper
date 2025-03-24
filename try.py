@@ -1,278 +1,123 @@
-import base64
-from calendar import c
-from lib2to3.pytree import convert
-from flask import Flask, request, jsonify
-from httpx import get
-import pandas as pd
-from pydantic import SubclassError
-import requests
-import fitz  # PyMuPDF
-from PIL import Image
-import io
-import os
-import uuid
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from webdriver_manager.chrome import ChromeDriverManager
-from bs4 import BeautifulSoup, Comment
-import re
-import matplotlib.pyplot as plt
-from handleLatex import convert_latex
-from handleLatex import latex_to_image
-from LatexToImage import mathTexToImgFun, replace_tables_with_images
-from LatexToImage import excelRun, get_image
-from urllib.parse import urljoin, urlparse
-import html
-
-from removeWaterMark import download_image, remove_background_and_convert_to_bw
-import datetime
-import time
+from bs4 import BeautifulSoup
 import json
-# import spacy
-import random
-import openai 
-from dotenv import load_dotenv
-from pathlib import Path
-import subprocess
-from icrawler.builtin import GoogleImageCrawler
-# Load environment variables from .env file
-load_dotenv()
 
-def scrape_website_current_affair(url):
-    # Setup Selenium WebDriver
-    print(url)
-    service = Service(ChromeDriverManager().install())
-    options = webdriver.ChromeOptions()
-    user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-    options.add_argument(f"user-agent={user_agent_string}")
-    options.add_argument('--headless')  # Run in background
-    options.add_argument("window-size=1400,1500")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--no-sandbox")
-    options.add_argument("start-maximized")
-    options.add_argument("enable-automation")
-    options.add_argument("--disable-infobars")
-    options.add_argument("--disable-dev-shm-usage")  # Run in background
-   
-    driver = webdriver.Chrome(service=service, options=options)
+# Your HTML text (shortened for example; replace with your full HTML)
+html_text = """
+<p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 10px; line-height: 1.8; letter-spacing: inherit; color: black;" class="_h_p_tag"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><h7 style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 28px; letter-spacing: inherit; color: black; display: inline-block; font-weight: 900;">Multiple Choice Questions (MCQs)</h7></strong></p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q1:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Which of the following is a characteristic of living things?<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(a)&nbsp;</strong>They can fly<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(b)&nbsp;</strong>They grow and reproduce<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(c)</strong> They can change color<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(d)&nbsp;</strong>They can be moved by wind<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> (b) They grow and reproduce</p><blockquote style="border-left: 2px solid rgb(94, 53, 177); margin-left: 0px; padding-left: 5px; color: black; word-break: break-word; padding-top: 0px; padding-bottom: 0px; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit;"><p>Living things grow and reproduce as part of their life processes, unlike other characteristics like flying or being moved by the wind, which do not apply to all living things.</p></blockquote><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q2:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">What process do living beings use to obtain energy from food?<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(a)</strong> Photosynthesis<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(b)&nbsp;</strong>Respiration<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(c)</strong> Excretion<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(d)&nbsp;</strong>Germination<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> (b) Respiration</p><blockquote style="border-left: 2px solid rgb(94, 53, 177); margin-left: 0px; padding-left: 5px; color: black; word-break: break-word; padding-top: 0px; padding-bottom: 0px; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit;"><p>Respiration is the process by which living beings break down food to release energy, essential for survival.</p></blockquote><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q3:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">What do plants excrete during photosynthesis?<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(a)</strong> Carbon dioxide<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(b)</strong> Oxygen<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(c)</strong> Water<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(d)&nbsp;</strong>Nutrients<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> (b) Oxygen</p><blockquote style="border-left: 2px solid rgb(94, 53, 177); margin-left: 0px; padding-left: 5px; color: black; word-break: break-word; padding-top: 0px; padding-bottom: 0px; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit;"><p>During photosynthesis, plants release oxygen as a by-product, which is essential for most living organisms on Earth.</p></blockquote><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q4:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Which of the following is an example of a non-living thing?<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(a)&nbsp;</strong>Dog<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(b)&nbsp;</strong>Tree<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(c)</strong> Rock<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(d)&nbsp;</strong>Bird<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> (c) Rock</p><blockquote style="border-left: 2px solid rgb(94, 53, 177); margin-left: 0px; padding-left: 5px; color: black; word-break: break-word; padding-top: 0px; padding-bottom: 0px; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit;"><p>A rock is an example of a non-living thing as it does not show any characteristics of life, such as growth, movement, or reproduction.</p></blockquote><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q5:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">What is the first stage of a mosquito's life cycle?<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(a)</strong> Larva<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(b)&nbsp;</strong>Adult<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(c)</strong> Egg<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">(d)&nbsp;</strong>Pupa<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> (c) Egg</p><blockquote style="border-left: 2px solid rgb(94, 53, 177); margin-left: 0px; padding-left: 5px; color: black; word-break: break-word; padding-top: 0px; padding-bottom: 0px; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit;"><p>The mosquito life cycle begins with the egg stage, followed by larva, pupa, and finally the adult mosquito stage.</p></blockquote><p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 10px; line-height: 1.8; letter-spacing: inherit; color: black;" class="_h_p_tag"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><h7 style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 28px; letter-spacing: inherit; color: black; display: inline-block; font-weight: 900;">Fill in the Blanks</h7></strong></p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q1:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">All living things need __________ for energy and growth.</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> food</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q2:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">__________ is the process of removing waste from the body.</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> Excretion</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q3:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Plants show movement by __________ towards sunlight.</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> bending</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q4:</strong><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">&nbsp;__________ is necessary for seed germination to activate enzymes.</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> Water</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q5:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">The life cycle of a frog includes the stages of egg, __________, froglet, and adult.</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> tadpole</p><p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 10px; line-height: 1.8; letter-spacing: inherit; color: black;" class="_h_p_tag"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><h7 style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 28px; letter-spacing: inherit; color: black; display: inline-block; font-weight: 900;">True or False</h7></strong></p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q1:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">All living things can move from one place to another. (True/False)</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> False</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q2:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Plants do not need air to germinate. (True/False)</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> False</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q3:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Animals excrete waste products through various organs. (True/False)</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> True</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q4:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Living beings can reproduce to ensure the continuity of their species. (True/False)</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> True</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q5:</strong> <strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">A mosquito goes through three stages in its life cycle. (True/False)</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> False</p><p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 10px; line-height: 1.8; letter-spacing: inherit; color: black;" class="_h_p_tag"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><h7 style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 28px; letter-spacing: inherit; color: black; display: inline-block; font-weight: 900;">Match the Following</h7></strong></p><p><img src="https://cn.edurev.in/ApplicationImages/Temp/24174782_f78f05dd-10c0-4639-88f8-5b2ae78dbce3_lg.png" style="display: block; margin: 5px auto; text-align: center; width: 778px; cursor: pointer; padding: 0px 1px; user-select: none; word-break: break-word; max-width: 100%; letter-spacing: inherit;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><img src="https://cn.edurev.in/ApplicationImages/Temp/24174782_07279a2f-2342-4f35-82f3-cd9c6450e88a_lg.png" style="display: block; margin: 5px auto; text-align: center; width: 772px; cursor: pointer; padding: 0px 1px; user-select: none; word-break: break-word; max-width: 100%; letter-spacing: inherit;"></p><p><h8 style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 22px; letter-spacing: inherit; color: black; display: inline-block; font-weight: 900;">True - Life Application based question<br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 22px; letter-spacing: inherit; color: black;"></h8></p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q1: &nbsp;Why is it important not to disturb shells found on the beach?</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> It's important because those shells might still be the homes of small living creatures like snails, and disturbing them could harm or displace them.</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q2: How can understanding that plants are living help us when planting a garden?</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> Knowing that plants are living helps us understand that they need water, sunlight, and care to grow, just like other living things. This knowledge helps us take better care of them in a garden.</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q3: What might happen if you thought a car was living just because it moves?</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> You might get confused about what living things really need, like food and air, because cars don't need these things to move; they need fuel and a driver.</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q4: Why do plants still count as living things even though they don't move from place to place?</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> Plants are considered living because they grow, need nutrients, and respond to light, even though they don’t move around like animals.</p><p><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Q5: How does knowing that both plants and animals are living help us respect nature?</strong><br style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">Ans:</strong> Understanding that all plants and animals are living helps us realize that they all play important roles in nature. This knowledge encourages us to respect and protect natural environments.</p><p data-f-id="pbf" style="text-align: center; font-size: 14px; margin-top: 30px; opacity: 0.65; font-family: sans-serif;">Powered by <a href="https://www.froala.com/wysiwyg-editor?pb=1" title="Froala Editor">Froala Editor</a></p>
+"""
 
-    driver.get(url)
+
+json_heading = [
+  {
+    "id": "tag-1",
+    "name": "mcq"
+  },
+  {
+    "id": "tag-74",
+    "name": "fillBlanks"
+  },
+  {
+    "id": "tag-102",
+    "name": "trueFalse"
+  },
+  {
+    "id": "tag-130",
+    "name": "matchFollowing"
+  }
+]
+# Parse the HTML with BeautifulSoup
+soup = BeautifulSoup(html_text, 'html.parser')
+# Initialize tag counter
+tag_counts = 1
+
+# Assign classes and process tags
+for tag in soup.find_all(True):  # True finds all tags
+    if tag.name:  # Ensure the tag has a name
+        # Remove style attribute (but keep other attributes)
+        if 'style' in tag.attrs:
+            del tag['style']
+        
+        # Assign class
+        if 'class' in tag.attrs:
+            tag['class'] = tag['class'] + [f'tag-{tag_counts}']
+        else:
+            tag['class'] = [f'tag-{tag_counts}']
+        tag_counts += 1
+withIdHtml = str(soup)
+
+for tag in soup.find_all(True):  # True finds all tags
+    if tag.name:  # Ensure the tag has a name
+        # Remove style attribute (but keep other attributes)       
+        # Get total text content of the tag (including children)
+        tag_text = tag.get_text()
+        
+        
+        # If total text length > 150, remove text from all child tags
+        if len(tag_text) > 150:
+            tag.string = "" 
+
+# Output the modified HTML
+modified_html = str(soup)
+print(modified_html)
+
+print("_____________________________________________________________________________")
+
+
+
+
+
+# Parse the modified HTML again
+soup = BeautifulSoup(withIdHtml, 'html.parser')
+
+# Function to find the tag with a specific class
+def find_tag_with_class(soup, class_name):
+    return soup.find(lambda tag: tag.get('class') and class_name in tag['class'])
+
+# Extract content between headings without duplicates
+result_array = []
+heading_ids = [item["id"] for item in json_heading]  # ['tag-1', 'tag-74', 'tag-102', 'tag-130']
+
+for i, heading in enumerate(json_heading):
+    start_id = heading["id"]
+    end_id = heading_ids[i + 1] if i + 1 < len(heading_ids) else None
     
-
-    driver.implicitly_wait(10)
-    html = driver.execute_script("return document.documentElement.outerHTML")
-
-    # Get page source after JavaScript execution
-    # html = driver.page_source
-    # print(html)
-    driver.quit()  # Close the browser
-    # html_text = convert_latex(str(html))
-    soup = BeautifulSoup(html, 'html.parser')
-    if url == "https://iasbaba.com/current-affairs-for-ias-upsc-exams/":
-        today_date = datetime.datetime.now()  # Format like '22 May 2024'
-        # formatted_date = f"{get_ordinal(today_date.day)} {today_date.strftime('%B %Y')}"  # Format like '22nd May 2024'
-        # Find the link for today's date
-        ul_elements = soup.find_all('ul', class_='lcp_catlist')
-        result = ""
-        print(ul_elements)
-        for ul_element in ul_elements:
-            li_elements = ul_element.find_all('li')
-            for li in li_elements:
-                a_element = li.find('a')
-                # print(formatted_date, a_element.text)
-                # if a_element and formatted_date in a_element.text:
-                    # result += scrape_website_iasbaba(a_element['href'])
-        return result
-    elif "www.drishtiias.com" in url:
-        # decompose all fa-star span
-        span_elements = soup.find_all('span', class_="fa-star")
-        for span in span_elements:
-            span.decompose()
-        tags_new = soup.find_all('div', class_="tags-new")
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('div', class_ ="border-bg")
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('div', class_ ="social-shares02")
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('div', class_ ="next-post")
-        for tag in tags_new:
-            tag.decompose()
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('ul', class_="actions")
-        for tag in tags_new:
-            tag.decompose()
-        main_content = soup.find('div', class_="article-detail")
-        result = ""
-        # processed_texts = set()
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif url == "https://www.civilsdaily.com/":
-        div_elements = soup.find_all('div', class_="news-block")
-        
-        result = ""
-        for div in div_elements:
-            date_div = div.find('h1', class_="date-strip").text
-            date_div = date_div[1:]
-            # print(date_div)
-            today_date = datetime.datetime.now()  # Format like '22 May 2024'
-            # formatted_date = f"{get_ordinal(today_date.day)} {today_date.strftime('%B')}"
-            # if date_div == formatted_date:
-            #     articles = div.find_all('article')
-            #     for article in articles:
-            #         link = article.find('h2', class_ = "entry-title default-max-width").find("a")['href']
-                    # result += scrape_website_civilDaily(link)
-        return result
-    # elif "www.civilsdaily.com" in url:
-    #     # result += scrape_website_civilDaily(url)
-    #     return result
-    # elif "iasbaba.com" in url:
-    #     # result+=scrape_website_iasbaba(url)
-    #     return result
-    # elif "iasgyan.in" in url:
-        
-        tags_new = soup.find_all('div', class_ ="content-btn")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="article_descr")
-        result = ""
-        # processed_texts = set()
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "vajiramias.com" in url:
-        
-        
-        
-        main_content = soup.find('div', class_=" padding-10")
-        result = ""
-        # processed_texts = set()
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "dce.visionias.in" in url:
+    # Find the starting tag
+    start_tag = find_tag_with_class(soup, start_id)
+    if not start_tag:
+        continue
     
-        tags_new = soup.find_all('div', class_ ="flex justify-between items-center mb-10")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="flex flex-col w-full mt-6 lg:mt-0")
-        result = ""
-        # processed_texts = set()
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "pwonlyias.com" in url:
-        tags_new = soup.find_all('div', class_ ="vc_print_text")
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('div', class_ ="ftwp-in-post ftwp-float-none")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="desc my-4")
-        result = ""
-        # processed_texts = set()
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "www.legacyias.com" in url:
-        tags_new = soup.find_all('div', class_ ="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-54e13bc")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-2bc9084")
-        result = ""
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "theiashub.com" in url:
-        tags_new = soup.find_all('div', class_ ="download-div")
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('img', class_ ="mob_hei")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="mt-1 p-3")
-        result = ""
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
+    # Collect top-level tags until the next heading
+    section_content = []
+    current_tag = start_tag
     
+    while current_tag:
+        # Stop if we hit the next heading
+        if end_id and current_tag.get('class') and end_id in current_tag['class']:
+            break
+        
+        # Only add if not already included as a child of a previous tag
+        if not any(current_tag in prev_tag.descendants for prev_tag in section_content):
+            section_content.append(current_tag)
+        
+        current_tag = current_tag.find_next()
+    
+    # Convert tags to strings and store in result
+    result_array.append({
+        "heading_name": heading["name"],
+        "content": "\n".join(str(tag) for tag in section_content)
+    })
 
-url = "https://pwonlyias.com/current-affairs/issues-of-queer-community/"
-print(scrape_website_current_affair(url))
+# Print the result
+print(json.dumps(result_array, indent=2))
+# Print the result
+
+
+print("_____________________________________________________________________________")
+
+
+
+
+
+
+
+

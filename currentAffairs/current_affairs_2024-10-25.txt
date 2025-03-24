@@ -1,0 +1,1435 @@
+PUBLIC ACCOUNTS COMMITTEE (PAC)
+Syllabus
+Prelims & Mains – POLITY
+Context:
+Securities and Exchange Board of India (SEBI) Chairperson Madhabi Puri Buch, summoned by Parliament’s Public Accounts Committee (PAC) as part of its review of financial regulators, skipped its meeting on Thursday, citing personal reasons.
+Background: –
+PAC Chairman and Congress leader K.C. Venugopal adjourned the meeting after reading out a letter from Ms. Buch, received less than two hours before the meeting was due to begin, conveying her inability to appear before the committee.
+Key takeaways
+The PAC is not a constitutional body; it was established in 1921 under the Government of India Act, 1919.
+Its formation and functions are governed by Parliamentary procedures and Rules of Business.
+Composition:
+The committee has 22 members: 15 from the Lok Sabha and 7 from the Rajya Sabha.
+Members are elected annually from both houses by proportional representation to ensure representation of various political parties.
+The Chairperson is traditionally a member of the Opposition from the Lok Sabha.
+Functions:
+Examines the annual audit reports of the Comptroller and Auditor General (CAG) submitted to Parliament.
+Reviews public expenditure to ensure it aligns with parliamentary grants and approvals.
+Investigates cases of wasteful expenditure, losses, and irregularities in government spending.
+Ensures that money is used efficiently, effectively, and economically.
+Limitations:
+PAC cannot look into policy matters or day-to-day administration.
+It cannot investigate issues already under judicial scrutiny.
+The committee’s recommendations are not binding, though they hold significant moral and ethical value.
+Source:
+The Hindu
+**********
+CENTRAL GOVT. SANCTION A 50% HIKE IN PRICES OF EIGHT DRUGS
+Prelims – CURRENT EVENT
+: National Pharmaceutical Pricing Authority of India (NPPA) increased the ceiling prices of eight drugs, comprising medication for common diseases including asthma, tuberculosis, bipolar disorder, and glaucoma, among others.
+The Central Government passed the order, citing “extraordinary circumstances” and “public interest.”
+The NPPA, constituted in 1997, regulates ceiling prices of drugs and has the power to fix costs under what is known as a ‘Drug Price Control Order’ (DPCO) issued by the government under the Essential Commodities Act.
+NPPA comes under the department of pharmaceuticals under the Union Ministry of Chemicals and Fertilizers.
+The NPPA approved an increase in ceiling prices of eleven scheduled formulations of eight drugs by 50% of their current ceiling prices, in the larger public interest. NPPA invoked extraordinary powers under Para 19 of the DPCO, 2013.
+Section 19 of the DPCO allows the government to revise the ceiling cost in extraordinary circumstances.
+Section 19 states: “Notwithstanding anything contained in this order, the Government may, in case of extraordinary circumstances, if it considers it necessary to do so in public interest, fix the ceiling price or retail price of any drug for such period, as it may deem fit and where the ceiling price or retail price of the drug is already fixed and notified, the government may allow an increase or decrease in the ceiling price or the retail price, as the case may be, irrespective of annual wholesale price index for that year.”
+Every financial year starting April 1, the NPPA increases ceiling prices of drugs based on Wholesale Price Index (WPI) of the preceding year.
+Pricing of drugs in India is strictly controlled by the Central government. Action is taken against companies found selling at higher prices.
+**********
+STATE CONTINGENT DEBT INSTRUMENTS
+Prelims & Mains – ECONOMY
+The recent cascade of countries defaulting on their debt has brought back into vogue complex securities called State Contingent Debt Instruments.
+State Contingent Debt Instruments has helped nations from Ukraine to Sri Lanka resolve difficult debt negotiations.
+State Contingent Debt Instruments (SCDIs) are financial instruments whose repayment terms are linked to certain economic variables or outcomes, like GDP growth, commodity prices, or revenue collection.
+SCDIs differ from the bulk of sovereign bonds which pay a predetermined amount in interest before a final repayment.
+Purpose:
+To provide fiscal flexibility to states by reducing debt servicing pressure during economic downturns.
+Helps manage debt burden effectively by aligning repayment with state revenue performance.
+Mechanism:
+Unlike traditional fixed debt instruments, SCDIs allow variation in repayment based on the agreed-upon economic indicators.
+When a state faces a downturn, repayments may be reduced; conversely, in a strong economic period, repayments could increase.
+Benefits:
+Counter-Cyclical Support: Helps states manage debt better during economic stress by lowering repayment obligations.
+Debt Sustainability: Reduces the likelihood of debt distress, aiding long-term fiscal health.
+Fiscal Stability: Supports better planning and stability by managing repayment according to economic performance.
+Recent Example
+Ukraine used SCDIs as part of a package to convince investors in August to swap their defaulted bonds for newer instruments — including a GDP-linked bond, which would pay investors more if the economy grows faster than anticipated.
+**********
+GEO ENGINEERING: SPRAYING DIAMOND DUST TO COOL EARTH
+Prelims & Mains – CURRENT EVENT
+A new study has argued that spraying millions of tonnes of diamond dust in the Earth’s upper atmosphere every year could help cool down the Earth and combat global warming.
+Previously, several other compounds, such as sulphur, calcium, aluminium, and silicon, have been suggested. The idea here is to scatter material that can reflect solar radiation into Space and prevent it from reaching Earth. Such solutions, called geo-engineering (more specifically solar radiation management), have been under study for quite some time.
+Geo engineering refers to any large-scale attempt to alter the Earth’s natural climate system to counter the adverse impacts of global warming.
+Solar Radiation Management (SRM), in which materials are deployed in Space to reflect incoming solar rays and prevent them from reaching Earth, is one of the two broad geoengineering options being explored.
+Then there are Carbon Dioxide Removal (CDR) technologies, which include Carbon Capture and Sequestration (CCS).
+The only method being tried out in practice is CCS. Carbon dioxide emitted, from industry or power plants, is “captured” at source and deposited deep below the Earth’s surface in suitable geological formations for long-term storage. Since carbon dioxide is not released into the atmosphere, overall emissions are reduced.
+Another option involves the captured carbon being used as an input for other industrial processes (known as Carbon Capture and Utilisation or CCU). In Carbon Capture, Utilisation and Storage (CCUS), some carbon dioxide is utilised and the rest is stored underground.
+Under Direct Air Capture (DAC) methods, carbon dioxide is sucked out through large “artificial trees” from ambient air and directed towards storage sites or utilisation. Since these methods can potentially eliminate carbon dioxide accumulated over the years, the benefits are larger compared to CCS.
+The most ambitious and potentially rewarding form of geoengineering is SRM, which is still at the conceptual stage. It draws inspiration from the natural process of volcanic eruptions, in which large amounts of sulphur dioxide are released. These combine with water vapour to form sulphate particles that reflect sunlight into space, reducing the amount reaching Earth.
+The Mount Pinatubo eruptions in the Philippines in 1991, one of the largest in the 20th century, are believed to have reduced the Earth’s temperature by 0.5 degrees Celsius that year.
+Indian Express
+**********
+KEY BIODIVERSITY AREAS (KBA)
+Prelims – ENVIRONMENT
+At the 16th Conference of Parties (COP16) of the Convention on Biological Diversity (CBD), new data was released which shows that the world’s best and most important ecosystems are facing threat from extractive industries. These include key biodiversity areas (KBAs), high-integrity forest landscapes, protected areas, and Indigenous territories.
+Maps included in a report titled “Closing Window of Opportunity: Mapping Threats from Oil, Gas and Mining to Important Areas for Conservation in the Pantropics” show that extraction is being carried out for oil, gas, and mining in important areas for conservation across the Amazon Basin, Congo Basin, and Southeast Asia.
+About Key Biodiversity Areas (KBA)
+Key Biodiversity Areas (KBA) are geographical regions that have been determined to be of international importance in terms of biodiversity conservation, using globally standardized criteria published by the IUCN as part of a collaboration between scientists, conservation groups, and government bodies across the world.
+The purpose of Key Biodiversity Areas is to identify regions that are in need of protection by governments or other agencies.
+KBAs extend the Important Bird Area (IBA) concept to other taxonomic groups and are now being identified in many parts of the world. Examples of types of KBAs include Important Plant Areas (IPAs), Ecologically and Biologically Significant Areas (EBSAs) in the High Seas, Alliance for Zero Extinction (AZE) sites, Prime Butterfly Areas, Important Mammal Areas and Important Sites for Freshwater Biodiversity, with prototype criteria developed for freshwater molluscs and fish and for marine systems.
+The Global Standard for the Identification of Key Biodiversity Areas (IUCN 2016) sets out globally agreed criteria for the identification of KBAs worldwide.
+Sites qualify as global KBAs if they meet one or more of 11 criteria, clustered into five higher level categories: threatened biodiversity, geographically restricted biodiversity, ecological integrity, biological processes, and irreplaceability.
+The KBA criteria can be applied to species and ecosystems in terrestrial, inland water, and marine environments, and may be applied across all taxonomic groups (other than micro-organisms).
+Down To Earth
+**********
+ILLEGAL IMMIGRATION IS A THREAT TO INTERNAL SECURITY
+Mains – GS 3
+Three Bangladeshi nationals have been apprehended in two days while trying to enter Indian territory by negotiating the border fence, the Border Security Force (BSF) said.
+The BSF has stepped up vigilance along the border in Tripura.
+Illegal Immigration is a Threat to Internal Security:
+It is alleged that among the illegal migrants there are also militants especially groups such as NSCN/KUFLA, who enter India to carry out terrorist activities.
+In recent decades, trafficking of women and human smuggling has become quite rampant across borders.
+The Commission on Integration and Cohesion found that tension usually exists with the presence of high levels of migration combined with other forms of social exclusion like poverty, poor housing, etc.
+Immigration has increased pressure on the part of the government, as the government has to increase the expenditure on education and health facilities for the immigrants.
+Most illegal immigrants have their names enlisted in the voting list illegally, thereby claiming themselves as citizens of the state.
+The influx of immigrants created a crisis of identity among the indigenous people of the region.
+Large areas of forestland were encroached upon by the immigrants for settlement and cultivation. This creates conflict in resource utilization with the local communities.
+Laws in India to tackle Illegal Migration:
+Under the Foreigners Act of 1946, the central government can deport illegal foreign nationals.
+Under the Passport (Entry into India) Act of 1920, the state governments have been entrusted to remove an illegal foreigner by force.
+The Citizenship Act of 1955 provides for the acquisition and determination of Indian citizenship.
+Way Forward:
+A considerable portion of the problem of illegal immigration lies in the fact that we have no such effective refugee policy. The central government should frame a holistic refugee policy.
+India has to make a diplomatic effort to get neighboring countries to cooperate as illegal migration cannot be solved unless the origin country cooperates.
+The government should introduce identity cards for the borderland people who frequently used to cross borders for different reasons.
+There is a vast area of the border that is not protected by fencing. The central government should complete the border fencing.
+Regional forums like BIMSTEC can be used to discuss issues like illegal migration from neighboring countries and garner support and coordination from the members.
+Border guards like BSF and ITBP should be strengthened and a second line of defence can be created by the State government through the state police force.
+Business Standard
+**********
+Daily Practice MCQs
+Q1.) Which of the following statements regarding State Contingent Debt Instruments (SCDIs) is correct?
+A) They are debt instruments with fixed repayment terms irrespective of economic performance.
+B) SCDIs help states reduce repayment obligations during economic downturns by linking repayment to economic indicators.
+C) SCDIs are exclusively issued by the international financial institutions to manage debt obligations with states.
+D) SCDIs are always risk free.
+Q2.) Which of the following statements about Key Biodiversity Areas (KBAs) is correct?
+A) KBAs are legally protected areas designated by the United Nations.
+B) KBAs are identified solely based on the economic value of biodiversity.
+C) KBAs are areas of high biodiversity significance identified based on scientific criteria, such as the presence of threatened species and unique ecosystems.
+D) KBAs only focus on protecting bird species and ignore other forms of biodiversity.
+Q3.) Which of the following statements about the Public Accounts Committee (PAC) is correct?
+A) It is a constitutional body established under Article 148 of the Indian Constitution.
+B) The Chairperson of the PAC is traditionally a member of the ruling party in Lok Sabha.
+C) The PAC can examine issues of public expenditure and ensure it aligns with parliamentary g
+D) PAC recommendations are binding on the government.
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  25th October 2024
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********Pink Cocaine
+According to the Drug Enforcement Administration and epidemiologists “pink cocaine,” has become a dangerous and increasingly popular part of the club scene in U.S. cities.
+About Pink Cocaine:
+The pink cocaine generally
+does not contain any cocaine.
+Composition:
+Common ingredients found in pink cocaine include
+methamphetamine, ketamine
+(a dissociative anaesthetic known for its hallucinogenic effects), MDMA (ecstasy), benzodiazepines, crack, and caffeine.
+It gets its pink hue from food colouring typically including at least one stimulant and one depressant.
+This drug cocktail is also known by street names such as
+tusi, tuci, cocaina rosada
+, tucibi, pink powder etc.
+Health effects:
+It can cause
+hallucinations
+and can impact breathing and heart attacks, high blood pressure, a heightened risk of stroke, behavioural changes, addiction, anxiety, depression, and even psychosis.
+It contains unpredictable contents that pose significant risks to users, and experts warn that some batches may be contaminated with fentanyl, a potent opioid fueling the surge in overdose deaths.
+Click to View More
+Source :
+What is Pink Cocaine? Know more about dangerous drug linked to Liam Payne, Sean ‘Diddy’ Combs and others
+Science & Tech
+**********Exercise SIMBEX
+The 31st edition of the Singapore India Maritime Bilateral Exercise (SIMBEX) is scheduled from 23 to 29 Oct 2024, in the Eastern Naval Command at Visakhapatnam.
+About Exercise SIMBEX:
+It is an
+annual bilateral Naval exercise
+between the
+Indian Navy
+and the
+Republic of Singapore Navy (RSN).
+It has been
+conducted since 1994.
+SIMBEX, which began as 'Exercise Lion King' in 1994, has since evolved into one of the most significant bilateral maritime collaborations between the Indian Navy and the Republic of Singapore Navy (RSN).
+It holds the distinction of
+being the longest continuous naval exercise
+that the Indian Navy has conducted with any other country.
+The exercise will be conducted in two phases:
+the Harbour Phase
+at Visakhapatnam and the
+Sea Phase
+in the Bay of Bengal.
+This year's edition aims to further
+strengthen the strategic partnership
+between India and Singapore by enhancing interoperability, improving maritime domain awareness, and fostering cooperation to
+address common maritime challenges.
+The Harbour Phase will include Subject Matter Expert Exchanges (SMEEs), cross-deck visits, sports fixtures, and pre-sail briefings between personnel from both navies.
+The Sea Phase will witness advanced naval drills, including live weapon firings,
+anti- submarine warfare (ASW) training,
+anti-surface and anti-air operations, seamanship evolutions, and tactical manoeuvres.
+Click to View More
+Source :
+SINGAPORE INDIA MARITIME BILATERAL EXERCISE (SIMBEX) 2024 - 23 TO 29 OCT 24
+International Relations
+**********International Association of Ports and Harbours
+Mormugao Port Authority has gained global recognition by being listed as an incentive provider on the Environment Ship Index (ESI) portal, acknowledged by the International Association of Ports and Harbours (IAPH).
+About International Association of Ports and Harbours:
+It is a
+non-governmental organization
+(NGO) established in November 1955.
+It has been developed into a global alliance of ports, representing today some 185 ports and 160 port-related businesses in 88 countries as of 31 August 2024.
+The member ports together handle well over 60% of the world’s sea-borne trade and over 60% of the world's container traffic.
+It aims to be the
+global trade association
+of choice
+for port
+authorities and operators, representing their interests at regulatory level at the International Maritime Organization, the World Customs Organization, the International Standards Organization and other global alliances.
+Headquarter:
+Tokyo, Japan.
+Initiative of Mormugao Port Authority
+The port's
+incentive program, ‘Harit Shrey,’
+launched in October 2023, offers discounts on port charges based on
+(ESI) scores, rewarding ships with higher environmental performance.
+Since the introduction of the
+“Harit Shrey scheme,”
+many ships have benefited from the incentives aimed at reducing greenhouse gas emissions.
+This initiative supports the broader goal of achieving
+long-term emission reductions
+in maritime operations.
+What is the Environment Ship Index?
+It identifies
+seagoing ships
+that perform
+better in reducing air emissions
+than required by the current emission standards of the International Maritime Organization.
+It evaluates the amount of
+Nitrogen Oxide
+(NOX),
+Sulphur Oxide
+(SOX) that is released by a ship and includes a reporting scheme on the greenhouse gas emission of the ship.
+The ESI is a good indication of the environmental performance of ocean-going vessels and will assist in identifying cleaner ships in a general way.
+Click to View More
+Source :
+Mormugao Port Authority recognized globally as an incentive provider on the Environmental Ship Index (ESI) platform
+International Relations
+**********Asiatic Golden Cat
+After a long absence, the Asiatic Golden Cat has been spotted again in Assam's Manas National Park, marking a significant conservation success.
+About Asiatic Golden Cat:
+It is a medium sized cat with relatively long legs.
+Other names:
+They are known as the “
+fire cat”
+in Thailand and Burma, and as the “
+rock cat”
+in parts of China.
+Appearance:
+Their fur ranges in color from cinnamon to various shades of brown, and also gray and black (melanistic).
+They are solitary and territorial. Once considered nocturnal, a radio-tracking study showed them to be
+diurnal and crepuscular.
+These are
+polygynous
+(mating with multiple females) with
+no breeding season.
+Habitat:
+This cat is known to occur across a wide range of habitats, including dry
+deciduous forests, subtropical evergreen forests
+, tropical rainforests, temperate and sub-alpine forests, and at elevations ranging from 0 m to 3,738 m.
+Distribution:
+The species occurs in
+Southeast Asia
+, from Nepal and Tibet to Southern China, Sumatra and India.
+Conservation Status:
+IUCN:
+Near threatened
+CITES:
+Appendix I
+Wildlife (Protection) Act of India, 1972:
+Schedule 1
+Threats:
+Habitat destruction that follows deforestation, as well as a decreasing numbers of ungulate prey. Another major threat is the illegal wildlife trade.
+Click to View More
+Source :
+Assam: Rare and elusive Asiatic Golden Cat makes a comeback in Manas National Park
+Environment
+**********Gram Panchayat-Level Weather Forecasting initiative
+Recently, the government of India launched the Gram Panchayat-Level Weather Forecasting in Vigyan Bhawan, New Delhi.
+About Gram Panchayat-Level Weather Forecasting initiative:
+The initiative is developed in collaboration between the
+Ministry of Panchayati Raj
+(MoPR) and the India Meteorological Department (IMD),
+Ministry of Earth Sciences
+(MoES).
+It is aimed at “empowering rural communities and
+enhancing disaster preparedness
+at the grassroots, and will benefit farmers and villagers across the country”.
+The initiative will provide Gram Panchayats with a
+five-day weather forecast
+hourly updates
+, enabling rural communities to better plan agricultural activities and prepare for weather-related risks.
+It will deliver weather updates via
+e-GramSwaraj, the Meri Panchayat app, and Gram Manchitra portals.
+e-GramSwaraj is already operational.
+Users can see data on the current temperature, wind speed, cloud cover (in percentage), rainfall, and relative humidity at the level of gram panchayats; five-day forecasts of minimum and maximum temperatures, rainfall, cloud cover, wind direction, and wind speed, and an overall weather forecast.
+Significance:
+It will “
+strengthen grassroots governance
+and promote
+sustainable agricultural practices
+, making rural populations more climate-resilient and better equipped to tackle environmental challenges”.
+Click to View More
+Source :
+Weather forecasts at panchayat level: what will be known, and how it will help
+Geography
+**********EOS-06 and INSAT-3DR Satellites
+The Indian Space Research Organisation (ISRO) is closely monitoring Cyclonic Storm ‘Dana’ heading toward Odisha and West Bengal with its EOS-06 and Insat-3DR satellites.
+About EOS-06:
+EOS-06, also known as
+Oceansat-3
+, is an
+Earth
+bservation
+developed by
+the Indian Space Research Organisation (
+).
+It was launched successfully on November 26, 2022, using ISRO’s Polar Satellite Launch Vehicle (PSLV-C54).
+EOS-06 is part of the Oceansat series of satellites, which are designed to monitor and
+study various aspects of the Earth's oceans and coastal zones.
+primary objective
+of EOS-06 is to provide
+continuity to the services of
+predecessors
+(Oceansat-1 and Oceansat-2) with enhanced payload capabilities to
+support oceanographic and atmospheric studies.
+This includes applications in
+ocean surface studies, coastal zone management
+, and
+marine weather forecasting.
+About INSAT-3DR:
+Launched in September 2016, INSAT-3DR is the s
+uccessor to INSAT-3D, owned and operated by ISRO
+(Indian Space Research Organisation).
+It is an
+advanced meteorological satellite
+of India configured with an
+imaging system and an atmospheric sounder.
+The significant improvements incorporated in INSAT-3DR are:
+Imaging in the middle infrared band
+nighttime pictures of low clouds
+and fog.
+two
+thermal infrared bands
+estimation of Sea Surface Temperature
+(SST) with better accuracy.
+Higher spatial resolution in the visible and thermal infrared bands.
+INSAT-3DR will provide service continuity to earlier meteorological missions of ISRO and further augment the capability to provide various
+meteorological as well as search and rescue services.
+Click to View More
+Source :
+Isro satellites track cyclone Dana as it approaches eastern coast
+Science & Tech
+**********What is an Indian Skimmer?
+At Lower Manair Dam, around 150 to 200 rare Indian Skimmer birds were spotted recently, marking a first for Telangana.
+About Indian Skimmer:
+It is one of the three species that belong to the skimmer genus Rynchops in the family Laridae.
+native to South Asia.
+It gets its name from the way
+it feeds
+flying low over the water surface and ‘skimming’
+for fish.
+Scientific Name: Rynchops albicollis
+Distribution
+It is mainly found in
+India, Bangladesh, and Pakistan
+, with some populations extending to
+Nepal and Myanmar
+One of the key areas for spotting Indian Skimmers is the
+Chambal River
+, which runs through northern India.
+The population is estimated at
+2,450-2,900 mature individuals
+Habitat
+: It occurs primarily on
+larger, sandy, lowland rivers
+around lakes
+and adjacent
+marshes,
+and, in the non-breeding season, in
+estuaries and coasts.
+Features:
+It grows to a length of 40-43 cm.
+The Indian Skimmer has a
+striking appearance
+. Its
+upper body is black
+, while its
+underbelly is white
+The most eye-catching feature is its
+beak
+is orange with
+a lower mandible
+that is
+much longer than the upper one.
+This special beak
+helps the bird skim across
+surface of the water to catch
+small fish and aquatic creatures.
+The bird’s wings are long and angular, designed for fast, precise flight.
+Conservation status:
+IUCN: Endangered
+Click to View More
+Source :
+Rare Indian Skimmer birds spotted at Lower Manair Dam in Telangana
+Environment
+**********Key Facts about Caspian Sea
+The Caspian Sea has been shrinking since the mid-1990s, but the rate at which it's disappearing has sped up since 2005.
+About Caspian Sea:
+It is the
+world’s largest inland body of water,
+covering a total surface area of about 386,400
+sq.km
+It is located
+between Asia and Europe
+It lies to the
+east of the Caucasus Mountains
+and to the
+west of
+the vast
+steppe of Central Asia.
+Bordering countries:
+It is bordered by
+Russia
+Azerbaijan
+on the west,
+Kazakhstan
+Turkmenistan
+on the north and east, and
+Iran
+on the south.
+The sea was named for the
+Kaspi, ancient peoples
+who once lived on its western shores.
+Formation
+Going by the definition of a sea
+, the Caspian Sea
+is a lake and not a sea,
+as it is an
+enclosed water body
+without any direct outlet to the ocean.
+However, 5.5 million years ago, it was
+part of the ancient
+Paratethys
+(an ancient sea in the Tethys Ocean) and
+got landlocked
+as a
+result of tectonic uplift
+and sea-level fall.
+Hence, the
+seafloor
+of the Caspian Sea is
+composed of oceanic basalt
+and not continental granite.
+composition of the water
+of the Caspian Sea also varies from almost
+fresh in the northern
+parts of the lake
+to saltier southwards.
+mean salinity
+of the Caspian Sea is now about
+one-third that of the oceans
+Three major
+rivers
+—the
+Volga
+Ural
+, and the
+Terek
+—empty into the Caspian from the north.
+Baku
+capital of Azerbaijan
+, is the largest city on the Caspian. Another important city along the Caspian is Iran’s Nowshahr.
+The sea is also known for its
+abundance of energy resources
+(oil and natural gas reserves in offshore fields and onshore on the coast of the sea).
+source of most of
+world’s caviar.
+Click to View More
+Source :
+The planet’s largest lake is shrinking fast. Experts fear it may never recover
+Geography
+**********Key Facts about the  Indian Council for Cultural Relations (ICCR)?
+The Indian Council for Cultural Relations (ICCR) recently held a conference of Buddhist monks and scholars in Colombo on bequeathing Pali the status of a classical language by the Indian government.
+About Indian Council for Cultural Relations (ICCR):
+It is an
+autonomous body under
+Ministry of External Affairs
+, Government of India, involved in
+India’s external cultural relations
+through cultural exchange with other countries and their people.
+It promotes, through its
+network of cultural centres,
+Indian culture abroad.
+ICCR was
+founded in 1950 by Maulana Abul Kalam Azad
+, independent
+India’s first Education Minister.
+Objectives:
+to actively participate in the formulation and implementation of policies and programmes pertaining to India’s external cultural relations;
+to foster and strengthen cultural relations and mutual understanding between India and other countries;
+to promote cultural exchanges with other countries and people;
+administers various scholarship programs
+annually and awards about 3000+ scholarships
+under 21 different schemes
+to foreign students
+from about 180 countries.
+Amongst these 21 schemes, six are funded by ICCR from its grant, and others are administered on behalf of MEA and the Ministry of Ayush.
+The scholarships offer studies in a variety of courses
+from undergraduate to postdoctoral level
+in different leading universities and educational institutions spread all over India.
+Click to View More
+Source :
+ICCR organises conference on Pali as classical language in Colombo
+Polity & Governance
+**********What is Scurvy?
+A once-common ailment from the 15th century, scurvy, is making an unexpected comeback in the 21st century.
+About Scurvy:
+It is a disease caused by a significant
+lack of vitamin C (ascorbic acid)
+the diet.
+Scurvy has been known since ancient Greek and Egyptian times.
+Causes
+Humans cannot synthesize vitamin C
+. It needs to come from external food sources, especially fruits and vegetables or fortified foods.
+Thus, scurvy is caused by
+not eating enough fresh fruits and vegetables.
+Also,
+cooking destroys some of the vitamin C
+found in food.
+Symptoms
+It can include anemia, exhaustion,
+spontaneous bleeding
+, limb pain, swelling, and sometimes
+ulceration of the gums
+loss of teeth.
+It can be
+fatal if left untreated.
+Treatment
+: It is treatable with
+oral or intravenous vitamin C supplements
+Importance of Vitamin C:
+It’s responsible for the development,
+growth, and healing of
+your
+skin, bones,
+connective tissue
+In addition, you need vitamin C for your
+blood vessels to function properly
+Vitamin C helps
+maintain your teeth and gums.
+body absorb iron,
+which it needs to make red blood cells.
+Vitamin C also
+helps heal burns
+and other
+wounds
+Vitamin C is an
+antioxidant
+, meaning it
+protects your cells against
+damage from
+free radicals.
+Free radicals are byproducts of normal cell activity which participate in chemical reactions within cells. Some of these reactions can cause damage over your lifetime.
+Click to View More
+Source :
+15th Century Disease 'Scurvy' Is Making A Comeback, Say Canadian Doctors
+Science & Tech
+**********Cyclone 'Dana' makes landfall
+Why in news?
+Severe Cyclonic Storm Dana made landfall on the Odisha coast on the night of October 24. The storm made landfall at a speed of 100 to 110 kmph gusting at 120 kmph.
+What’s in today’s article?
+Tropical Cyclone
+Naming of cyclone
+Landfall of cyclone
+About
+Cyclones that develop in the regions between the Tropics of Capricorn and Cancer are called tropical cyclones.
+The World Meteorological Organisation uses the term 'Tropical Cyclone’ to cover weather systems in which winds exceed ‘Gale Force’ (minimum of 34 knots or 63 kph).
+Tropical cyclones are the progeny of ocean and atmosphere, powered by the heat from the sea; and driven by easterly trades and temperate westerlies, high planetary winds and their own fierce energy.
+Formation of cyclones
+Tropical Cyclone is a
+weather phenomenon
+, which is formed
+only over warm ocean waters near the equator
+Characteristics of a Tropical Cyclone:
+centre of a cyclone is very calm and clear with very low air pressure
+. The average speed is
+They have closed
+isobars
+which leads to greater velocity.
+Isobars are imaginary lines on a weather map that connect
+locations with equal atmospheric pressure
+They develop over oceans and sea only.
+move from east to west
+under the influence of trade winds.
+They are seasonal in nature.
+Classification of cyclones
+Cyclones are classified
+on the basis of wind speed
+by the Indian Meteorological Department (IMD):
+Depression:
+Wind speeds of between 31–49 km/h
+Deep Depression:
+Between 50-61 km/h
+Cyclonic Storm:
+Between 62–88 km/h
+Severe Cyclonic Storm:
+Between 89-117 Km/h
+Very Severe Cyclonic Storm:
+Between 118-166 Km/h
+Extremely Severe Cyclonic Storm
+: Between 167-221 Km/h
+Super Cyclonic Storm
+: Above 222 Km/h
+Category of a tropical cyclone
+The category of a tropical cyclone is determined by its sustained wind speed, as measured by the
+Saffir-Simpson Hurricane Wind Scale
+It is classified into five categories — Category 1 to Category 5.
+While Category 1 tropical cyclones bring winds of 119 to 153 kmph, Category 5 tropical cyclones, which are the strongest, have winds of 252 kmph or higher.
+Storms that reach Category 3 and higher are considered major tropical cyclones due to their potential to inflict significant damage.
+Tropical cyclones are known by different names in various regions
+Hurricanes
+– In the in the West Indian islands in the Caribbean Sea and Atlantic Ocean.
+Tornados
+- In the Guinea lands of West Africa and southern USA
+Typhoons
+– In the Northwest Pacific Ocean, particularly affecting East and Southeast Asia (e.g., Japan, Philippines, China, Taiwan).
+– In the Southwest Indian Ocean (off the coast of Africa, Madagascar), the Southeast Indian Ocean, and the Southwest Pacific Ocean.
+Willy-Willies
+– An informal term used for tropical cyclones in Australia.
+Naming of Cyclones
+Cyclone Dana
+The name
+Dana was suggested by Qatar
+to the World Meteorological Organisation/United Nations Economic and Social Commission for Asia and the Pacific (WMO/ESCAP).
+Process of naming
+Worldwide, there are
+six regional specialised meteorological centres
+(RSMCs) and
+five regional Tropical Cyclone Warning Centres
+(TCWCs) mandated for issuing advisories and naming of tropical cyclones.
+The five regional Tropical Cyclone Warning Centres (TCWCs) are:
+ESCAP/WMO Typhoon Committee,
+WMO/ESCAP Panel on Tropical Cyclones
+It is responsible for naming of cyclones in the Indian Ocean
+RA(Regional Association) I Tropical Cyclone Committee,
+RA IV Hurricane Committee,
+RA V Tropical Cyclone Committee.
+IMD is one of the six RSMCs to provide tropical cyclone and storm surge advisories to under the
+WMO/Economic and Social Commission for Asia-Pacific (ESCAP).
+WMO/ ESCAP is an inter-governmental regional body jointly established by the World Meteorological Organization (WMO) and the United Nations Economic and Social Commission for Asia-Pacific (ESCAP) in 1972.
+Members
+– It has 13 countries as its members.
+Bangladesh, India, Iran, Maldives, Myanmar, Oman, Pakistan, Qatar, Saudi Arabia, Sri Lanka, Thailand, United Arab Emirates and Yemen.
+They contribute to a set of names which are assigned sequentially whenever a cyclonic storm develops.
+The list of 169 cyclone names released by IMD in 2020 was provided by these countries — 13 suggestions from each of the 13 countries.
+So, the tropical cyclones forming over different Ocean basins are named by the concerned RSMCs & TCWCs.
+What is landfall of a cyclone?
+Landfall is the event of a tropical cyclone coming onto land after being over water.
+As per the IMD, a tropical cyclone is said to have made a landfall when
+the center of the storm – or its
+eye
+– moves over the coast
+The "eye" of a cyclone is a region of relatively calm weather found at the center of the storm.
+Within the eye, winds are light and variable, often with clear or only partially cloudy skies.
+The size of the eye can vary significantly, ranging from a few kilometers to over 50 kilometers (30 miles) in diameter in larger cyclones.
+During landfall, the outer bands of the storm may have already reached the coast, bringing strong winds, heavy rain, and storm surge.
+Landfall marks the moment when the cyclone officially reaches the land.
+A landfall should not be confused with a ‘direct hit’, which refers to a situation where the
+core of high winds (or eyewall) comes onshore but the centre of the storm may stay remain offshore
+Cyclone 'Dana' makes landfall.pdf
+( Size:  1.9 MB  )
+Click to View More
+Geography
+**********India-China LAC Agreement
+Why in news?
+Indian and Chinese negotiators have reached an agreement on "patrolling arrangements" along the Line of Actual Control (LAC), leading to a disengagement and resolution of the tensions that emerged in 2020. The announcement was made by India, highlighting progress in the management of the border dispute.
+The agreement was followed by a bilateral meeting between Indian Prime Minister Narendra Modi and Chinese President Xi Jinping during the BRICS leaders' summit in Kazan, Russia.
+What’s in today’s article?
+Background: Road to agreement
+Patrolling Pact: A Key Element of the Agreement
+Key highlights of the agreement
+Diverging Interpretations
+PM Modi's Call for Improved Relations with China
+In April 2024, PM Modi, in an interview, emphasized the significance of India's relationship with China.
+He highlighted the need to urgently address the prolonged border situation to normalize bilateral interactions.
+Positive Response from China
+In response, the Chinese government expressed a positive outlook.
+A spokesperson from the Chinese Foreign Ministry acknowledged that India-China relations encompass more than just the border dispute.
+Indian Foreign Minister's Focus on Patrolling Rights (May 2024)
+In May 2024, Indian EAM S. Jaishankar expressed optimism regarding the resolution of remaining border disputes with China, particularly in the Ladakh region.
+He emphasized that the key issues still in contention were related to "patrolling rights" and "patrolling abilities" along the disputed areas.
+Significance
+The patrolling agreement is a crucial aspect of the border management deal between India and China.
+It is central to maintaining stability and order along the disputed areas of the Line of Actual Control (LAC).
+Patrolling Dynamics on the India-China Border
+Patrolling is vital in the India-China border management system
+due to the absence of a clear physical demarcation on the ground
+Indian troops regularly patrol up to the Indian-perceived border and then return to their base.
+During these patrols, soldiers leave behind indicators of their presence, such as Indian-made items like cigarette packets or matchboxes.
+Article 4 of the 2005 Border Pact: Guidelines for Troop Conduct
+The 2005 border agreement, particularly Article 4, provides guidelines for handling face-offs between Indian and Chinese troops:
+Self-Restraint in Face-offs
+: Both sides are required to exercise restraint and take necessary measures to prevent escalation if there is a face-to-face encounter due to differing perceptions of the LAC.
+No Use of Force
+: Neither side shall use or threaten to use force during such encounters.
+Mutual Courtesy and No Provocative Actions
+: Troops must treat each other courteously and avoid any actions that could provoke tensions.
+Prohibition on Markings
+: Neither side is allowed to place marks or signs at the confrontation points.
+Restoration of Patrolling Rights in Depsang Plains and Demchok
+India and China have agreed to restore mutual patrolling rights in the Depsang Plains and the Demchok region, areas with disputes predating the 2020 incursions.
+Indian troops will now be allowed to patrol up to Patrolling Points (PP) 10 to 13 in the Depsang Plains and the Charding Nullah in Demchok.
+However, areas where previous disengagements occurred—such as Galwan Valley, Pangong Tso, and Gogra-Hot Springs—are not open for renegotiation.
+This agreement is seen as a step toward resolving long-standing legacy issues.
+Process of Disengagement, De-escalation, and Demilitarization
+The agreement is expected to initiate a process of
+disengagement, de-escalation, and demilitarization
+in the areas where both nations currently have 50,000 to 60,000 troops each.
+The phased approach of the agreement will focus first on disengagement, followed by de-escalation and eventual de-induction of forces.
+Focus on Preventing Future Clashes
+The agreement aims to prevent incidents like the 2020 Galwan clashes, which resulted in the deaths of 20 Indian soldiers and at least four Chinese soldiers.
+Future Path
+The endorsement of the agreement by Indian PM Modi and Chinese President Xi should lead to a reduction in tensions along the LAC and set the stage for normalizing relations between the two countries.
+Difference
+Following the meeting between PM Modi and President Xi Jinping, differences in interpretation emerged.
+India's statement emphasized a "complete disengagement and resolution of issues that arose in 2020.
+On the other hand, China's statement highlighted "important progress" on resolving relevant border issues, reflecting a more cautious tone.
+Contrasting Views on the Impact of the Border Dispute
+India has reiterated that the border standoff must be resolved before normalizing bilateral ties, indicating no "business as usual" until then.
+In contrast, China maintains that the border issue should not affect broader relations, suggesting it prefers a compartmentalized approach.
+Planned Steps for Resolving the Border Dispute
+Indian side mentioned that Special Representatives would soon meet to seek a fair, reasonable, and mutually acceptable solution to the boundary question.
+Meanwhile, China's statement suggested future talks at multiple diplomatic levels to restore relations to sound and steady development.
+Conclusion: Cautious Optimism in India’s Strategic Circles
+There is cautious optimism in India about the path forward, acknowledging that the border agreement has initiated a trust-building process.
+The three-step process—disengagement, de-escalation, and de-induction—is expected to take at least a couple of years to complete if both sides adhere to the agreement.
+It remains unclear whether these steps will occur in parallel or sequentially.
+India-China LAC Agreement.pdf
+( Size:  3.0 MB  )
+Click to View More
+International Relations
+**********Union Cabinet Approves Rs 1,000-Crore Fund to Boost Indian Space Start-Ups
+Why in News?
+The Union Cabinet has approved a Rs 1,000-crore venture capital (VC) fund aimed at supporting about 40 space start-ups over the next five years.
+This fund,
+launched under the aegis of IN-SPACe
+, is expected to attract private investment and drive innovation in India's growing space sector.
+What’s in Today’s Article?
+Supporting India's Emerging Space Entrepreneurs
+What is IN-SPACe and its Proposal to Set-up a VC Fund for Start-ups?
+Financial Implications of Establishing a VC Fund for Start-ups
+Details/ Significance of the VC Fund for Start-ups
+Supporting India's Emerging Space Entrepreneurs:
+Key initiatives:
+Pre-Incubation Entrepreneurship (PIE) Development Program:
+The Indian government, through IN-SPACe, launched the PIE Development Program, for guiding startups from ideation to prototype development.
+Financial and regulatory support:
+The government has introduced tax incentives such as GST exemptions for satellite launches and income tax breaks for R&D.
+Initiatives like the
+Startup India Seed Fund, DRDO’s Technology Development Fund, and Atal Innovation Mission
+are providing critical financial support to space startups.
+World-class infrastructure:
+The GIFT City in Gujarat is emerging as a global hub for space technology, offering regulatory benefits and world-class infrastructure.
+Collaborations:
+Amazon Web Services (AWS) has launched its space accelerator programme in India, in collaboration with ISRO and IN-SPACe, selecting 24 startups to receive mentorship and up to $100,000 in credits.
+Incubation and mentorship:
+The Space Technology Incubation Centre (STIC) offers startups access to advanced labs, funding opportunities, and mentorship.
+Challenges faced by space startups:
+Limited early-stage funding
+Access to substantial government grants remains limited, and procurement processes are not always transparent.
+Startups face difficulties in accessing testing facilities and standardised technology-sharing platforms.
+The absence of affordable public liability insurance poses financial risks for startups.
+Limited IP protection standards hinder innovations.
+Export restrictions hinder the global expansion of Indian space startups.
+Future outlook:
+Upcoming trends like space tourism
+, asteroid mining, and advancements in AI and ML are expected to revolutionise the space sector.
+Startups are likely to play a significant role in future space exploration and commercialisation efforts, including major missions like
+Gaganyaan, NISAR, and Chandrayaan-4
+The introduction of a deep tech startup policy
+and continued strategic investments will be crucial for fostering growth.
+It is essential for stakeholders to engage with startups and create a nurturing environment for technological advancements.
+As part of the 4th ‘Atmanirbhar Bharat Abhiyan’ stimulus, the Union Finance Minister announced the creation of the
+Indian National Space Promotion and Authorization Center (IN-SPACe)
+2020
+IN-SPACe was set up as a single-window
+, independent, nodal agency to authorise, promote and supervise space activities of private non-governmental entities (NGEs).
+Since its establishment, IN-SPACe has signed 45 MoUs with NGEs to support them in space activities.
+IN-SPACe has proposed a Rs.1000 crore VC fund
+to support the growth of India's space economy, currently valued at S8.4 billion
+, with a target
+to reach $44 billion by 2033.
+With nearly 250 space startups emerging across the value chain, timely financial support is crucial to ensure their growth and prevent talent loss overseas.
+The fund
+aims to address the critical need for risk capital
+, as traditional lenders are hesitant to fund startups in this high-tech sector.
+Financial Implications of Establishing a VC Fund for Start-ups:
+The deployment period
+of the proposed Rs.1,000 crore VC fund is planned to be up to five years from the actual date of start of the fund operations.
+The average deployment amount
+could be Rs 150 - 250 crore per year, depending on the investment opportunities and fund requirements.
+The indicative range of investment
+is proposed to be Rs10 - 60 Crore, contingent upon the stage of the company, its growth trajectory, and its potential impact on national space capabilities.
+Indicative equity investment range could be:
+Growth stage: Rs 10 Crore - 30 Crore
+Late growth stage: Rs 30 Crore - 60 Crore
+Based on the above investment range, the fund is
+expected to support approximately 40 startups.
+Details/ Significance of the VC Fund for Start-ups:
+The proposed government-backed fund
+will boost investor confidence, attract private capital, and signal the government's commitment
+to advancing space reforms.
+It will serve as
+an Alternative investment Fund under SEBI regulations
+, providing early-stage equity to startups and enabling them to scale for further private equity investments.
+The fund is
+strategically designed to advance India's space sector
+, aligning with national priorities and fostering innovation and economic growth through the following key initiatives:
+Capital infusion
+Retaining companies in India
+Growing space economy
+Accelerating space technology development
+Boosting global competitiveness
+Supporting Atmanirbhar Bharat
+Creating a vibrant innovation ecosystem
+Driving economic growth and job creation
+Ensuring long-term sustainability
+By addressing these points, the fund aims to
+strategically position India as one of the leading space economies.
+newspaper.pdf
+( Size:  131.4 KB  )
+Click to View More
+Polity & Governance
+**********Weather Forecasting at the Gram Panchayat Level
+Why in News?
+The Government of India has taken a significant step in
+localising weather forecasting
+by introducing hourly five-day weather forecasts at the Gram Panchayat level.
+This initiative
+aims to equip rural communities
+with crucial weather data to enhance agricultural activities and disaster preparedness.
+What’s in Today’s Article?
+Importance of and Challenges in Localised Forecasting
+Launch of the Weather Forecasting at the Gram Panchayat Level
+Key Features of the Weather Forecasting at the Gram Panchayat Level Initiative
+Significance of the Weather Forecasting at the Gram Panchayat Level Initiative
+Conclusion
+Importance of and Challenges in Localised Forecasting:
+Importance:
+Localised weather forecasting plays a critical role in managing the unpredictability of weather systems, which is especially vital as
+climate change increases the frequency and intensity of adverse weather events.
+It offers precise data at the local level, benefitting even small communities.
+Challenges:
+While IMD has advanced forecasting at broader levels, predicting localised events like cloudbursts remains challenging.
+Currently, weather forecasting is available at district and block levels, but IMD aims to provide hyper-local forecasts down to 1 km x 1 km grids, with 3 km x 3 km grids already being tested.
+Launch of the Weather Forecasting at the Gram Panchayat Level:
+About the initiative:
+The initiative, formally launched by the
+Ministry of Panchayati Raj
+, is
+a collaborative effort
+between -
+The Ministry of Panchayati Raj,
+India Meteorological Department (IMD), and
+The Ministry of Earth Sciences.
+Objective:
+The primary goal is to
+empower rural communitie
+s, helping them become more resilient to climate challenges and better prepared for natural disasters.
+promotes sustainable agricultural practices
+at the grassroots level.
+Key Features of the Weather Forecasting at the Gram Panchayat Level Initiative:
+What will be forecasted?
+The localised weather forecasts will provide real-time hourly updates on:
+Temperature
+Wind speed and direction
+Cloud cover
+Rainfall
+Relative humidity
+In addition, five-day forecasts will give minimum and maximum temperatures, rainfall, cloud cover, and wind data.
+Platforms for forecasts:
+The forecasts will be accessible via the
+e-GramSwaraj and Gram Manchitra portals
+, as well as the
+Meri Panchayat app
+These platforms provide vital weather data to support rural decision-making.
+Training for panchayat representatives:
+The Panchayati Raj Ministry is organising a workshop for more than 200 representatives from Panchayati Raj institutions.
+The workshop will
+equip them with the skills to use weather forecasting tools effectively,
+enabling them to make
+informed decisions
+that enhance climate resilience in their communities.
+Significance of the Weather Forecasting at the Gram Panchayat Level Initiative:
+Benefits to farmers and rural communities:
+directly aid farmers by allowing them to plan agricultural activities
+like sowing, irrigation, and harvesting more effectively.
+Micro forecasts are particularly important in rural areas due to the growing unpredictability of weather patterns caused by climate change.
+Disaster preparedness:
+The Panchayati Raj Ministry emphasised the role of these forecasts in safeguarding agricultural livelihoods, helping rural communities
+prepare for natural disasters, and boosting climate resilience.
+Conclusion:
+The launch of localised weather forecasting at the Gram Panchayat level marks
+a transformative step in empowering rural communities
+, improving agricultural outcomes, and enhancing disaster preparedness.
+As IMD continues to refine its capabilities, this initiative is set to play
+a critical role in adapting to climate-induced changes.
+newspaper.pdf
+( Size:  265.8 KB  )
+Click to View More
+Geography
+**********Move on madrasas, the alienation of Muslims
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Right to education;
+Why in the News?
+The Supreme Court’s move to block the NCPCR’s recommendations to stop funding madrasas that don’t follow the RTE Act, 2009, and conduct inspections, along with related actions by the Centre and states, has brought some relief to minorities and secular-minded people.
+What reforms are necessary to modernize madrasa education and address public perceptions?
+Curriculum Integration:
+Need to introduce a balanced curriculum that combines religious studies with modern subjects like science, mathematics, and social studies to make madrasa education more holistic and aligned with mainstream education standards.
+Teacher Training and Certification:
+Ensure that madrasa teachers receive proper training in contemporary pedagogy and modern subjects.
+Infrastructure Development:
+Improve madrasa facilities to provide a conducive learning environment. This includes better classrooms, libraries, laboratories, and access to technology for digital learning.
+Monitoring and Evaluation:
+Establish a framework to regularly assess and monitor the quality of education in madrasas.
+Vocational and Skill-Based Training:
+Incorporate vocational courses and skill development programs to equip students with practical skills that can improve their employability.
+Awareness Programs:
+Need to run awareness campaigns to inform the community about the value of modernizing madrasa education.
+How do political narratives and policies affect the perception of madrasas among the Muslim community?
+Communal Narratives and Stereotyping:
+Political narratives often portray madrasas as breeding grounds for extremism, which affects the public’s perception, especially among non-Muslims.
+Legislative and Policy Decisions:
+Policies such as withdrawing government funding or enforcing stringent regulations can create a perception of bias against Muslim educational institutions.
+Historical Reason and Islamophobia:
+Historical events like the U.S.-Taliban conflict have influenced perceptions of madrasas, linking them to extremism. Political rhetoric often builds on these associations to foster Islamophobic sentiments.
+Social Justice versus Appeasement:
+There is a debate on whether supporting madrasas financially is an act of social justice (ensuring access to education) or appeasement.
+What role can madrasas play in promoting social cohesion and countering extremism?
+Interfaith Learning and Dialogue:
+Madrasas can include teachings that promote understanding and respect for other religions.
+Combating Radicalization:
+By modernizing curricula to include secular education and critical thinking, madrasas can counter extremist narratives. An informed and educated student body is more resilient to radical ideologies.
+Community Engagement Programs:
+Madrasas can play a role in community service and outreach, helping bridge the gap between Muslim communities and others. This engagement can dispel misconceptions and build mutual trust.
+Promoting National Values and Secular Ideals:
+Incorporating national education standards in madrasas can help in promoting the values enshrined in the Indian Constitution, such as secularism, social justice, and equality.
+Way forward:
+Comprehensive Policy Reforms:
+Develop a national framework that integrates modern subjects into madrasa education, provides teacher training, and ensures quality monitoring.
+Community and Interfaith Initiatives:
+Launch awareness programs to highlight the benefits of modernizing madrasa education while encouraging interfaith dialogue and community engagement.
+Mains PYQ:
+The Right of Children to Free and Compulsory Education Act, 2009 remains inadequate in promoting an incentive-based system for children’s education without generating awareness about the importance of schooling. Analyse.
+(UPSC IAS/2016)
+**********US court to decide whether elephants get human rights
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Rights of nonhuman;
+Why in the News?
+Colorado’s highest court recently reviewed whether older African female elephants can legally contest their captivity, as the NonHuman Rights Project claims they are unlawfully confined.
+What is nonhuman?
+Nonhuman animals are living beings other than humans, including mammals, birds, reptiles, fish, and insects, recognized for their
+capacity to feel, behave, and interact.
+What is Legal personhood?
+Legal personhood is the status granted to an entity, allowing it to
+hold legal rights
+obligations,
+traditionally applied to humans and some organizations.
+Example:
+All human individuals are recognized as legal persons. This allows them to enter into contracts, sue, and be sued in court.
+What Constitutes Legal Personhood for Nonhuman Animals?
+Legal Personhood Definition:
+Legal personhood refers to the capacity of an entity to have legal rights and duties. In law, a “person” is not strictly limited to human beings; corporations, for example, are considered legal persons.
+Application to Nonhuman Animals:
+Extending legal personhood to nonhuman animals involves granting them certain legal rights, such as the right to not be unlawfully confined or exploited. This would require redefining animals’ status from property to beings with inherent rights.
+Arguments in Favor:
+Proponents argue that certain highly intelligent and socially complex animals, such as elephants, dolphins, and great apes, should be granted legal rights because they can experience
+suffering and possess a degree of autonomy akin
+to that of
+humans.
+Arguments Against:
+Opponents of legal personhood for animals argue that the legal system is designed for human society and extending personhood to animals could lead to complex legal issues.
+They contend that animal welfare can be ensured through legislative protections rather than redefining personhood.
+How can societies balance animal welfare with cultural practices that might clash with today’s views on animal rights?
+Engagement and Dialogue:
+Encourage conversations between cultural leaders, communities, and animal rights advocates to understand different perspectives and find common ground on how to improve animal welfare while respecting traditions.
+Education and Awareness:
+Promote education about animal welfare and the capacity of animals to feel pain and suffering, helping communities to reconsider practices and adopt alternatives that align with both cultural values and humane treatment.
+Legal Frameworks:
+Implement laws that protect animal welfare while allowing for cultural practices to continue in a regulated manner, ensuring that such practices do not involve cruelty or inhumane treatment of animals.
+What are the Rights of Animals in the Indian Context?
+Traditional and Cultural Practices:
+In India, animals play a significant role in various cultural and religious practices. For instance, cows are considered sacred in Hinduism, while elephants are used in festivals and ceremonies.
+Legal Framework for Animal Rights:
+India has several laws aimed at protecting animal rights, such as the Prevention of Cruelty to Animals Act, 1960, and the Wildlife Protection Act, 1972. These laws establish standards for animal welfare and criminalize cruelty.
+However, they stop short of granting legal personhood to animals.
+Judicial Intervention:
+The Indian judiciary has taken progressive stances on animal rights in some cases.
+For example, the Uttarakhand High Court in 2018 declared all animals in the state to be legal entities, with citizens acting as guardians. This ruling emphasized the need to protect animals’ dignity and well-being, though it did not grant full legal personhood.
+Conclusion:
+India can look toward a framework that balances animal welfare with cultural practices by adopting context-specific policies. This could include creating more robust welfare standards, engaging with communities to find humane alternatives, and fostering a cultural shift toward greater empathy for animals.
+**********World Polio Day: How India managed to eradicate polio?
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Mains level:
+Polio Eradication
+Why in the News?
+October 24 is recognized as World Polio Day, a commemoration established by Rotary International to honor the birth of Jonas Salk, who spearheaded the development of the first vaccine against polio in the 1950s.
+What key strategies contributed to the successful eradication of polio in India?
+Comprehensive Vaccination Campaigns:
+India implemented large-scale vaccination drives starting in 1972, which expanded under the Universal Immunisation Programme (UIP) in 1985.
+Community Engagement and Awareness:
+Targeted awareness campaigns were crucial, utilizing local health workers to administer oral polio drops, which made vaccination accessible.
+Effective Messaging:
+The slogan “do boond zindagi ki” (two drops of life) resonated well with the public. Utilizing celebrities like Amitabh Bachchan and integrating health messages into popular media further amplified awareness.
+Robust Surveillance System:
+A multilayered surveillance mechanism was developed to monitor acute flaccid paralysis (AFP) cases, enabling prompt immunisation of affected populations. This system involved local informers, including community health workers and doctors.
+Targeted Interventions for High-Risk Areas:
+By 2009, efforts were concentrated in specific regions, particularly in Uttar Pradesh and Bihar, where most cases were reported. This targeted approach was critical in reducing transmission rates.
+Collaboration with International Agencies:
+The eradication campaign was supported by various international bodies such as WHO, UNICEF, and the Bill and Melinda Gates Foundation, ensuring financial and logistical backing.
+How did India address the challenges of vaccine hesitancy among specific communities?
+Engagement with Community Leaders:
+To address religious concerns and misinformation, influential figures such as imams and local leaders were involved. Their endorsements played a significant role in countering myths about the vaccine.
+Targeted Communication Strategies:
+Awareness efforts were tailored to specific communities, focusing on dispelling myths surrounding the vaccine, such as fears about impotence and cultural taboos against its ingredients.
+Culturally Sensitive Messaging:
+Messaging was crafted in local languages and through community-specific narratives, ensuring that it resonated with the cultural context of various groups.
+What lessons can be learned from India’s polio eradication efforts for future public health campaigns?
+Importance of Community Involvement:
+Engaging local leaders and community members is vital for building trust and addressing vaccine hesitancy effectively.
+Flexibility in Implementation:
+Tailoring vaccination drives to accommodate local cultural practices, work schedules, and geographic challenges can enhance participation rates.
+Sustained Awareness Efforts:
+Continuous education and awareness campaigns are essential, especially in the face of evolving misinformation and cultural resistance.
+Data-Driven Decision Making:
+The use of robust surveillance systems and data analytics to identify and target high-risk areas can help streamline public health interventions.
+Collaboration with Multiple Stakeholders:
+Building partnerships between government agencies, international organizations, and local communities can strengthen public health responses and resource mobilization.
+Conclusion
+: Need to establish sustainable platforms for continuous dialogue between healthcare providers and community leaders to address health concerns, build trust, and ensure community-specific health initiatives are effectively communicated and implemented.
+**********Cyclone Dana
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Tropical Cyclone, Landfall
+Why in the News?
+West Bengal and Odisha experienced heavy rainfall as
+Dana is anticipated to make landfall later tonight.
+What are Cyclones?
+Cyclones are wind systems
+rotating inwardly
+towards an area of
+low atmospheric pressure
+. They are categorised into
+Tropical (Temperature-induced)
+Temperate (extra-tropical) cyclones (airmass-induced)
+Formation Conditions:
+Tropical cyclones originate in warm regions, requiring conditions such as
+Warm sea surface (> 27°C),
+Coriolis Force,
+Pre-existing low-pressure systems,
+Small vertical wind speed differences, and
+Upper air divergence.
+Characteristics of Tropical Cyclones:
+form over warm water bodies
+due to energy derived from the condensation of warm water within cumulonimbus clouds.
+Wind rotation is influenced by the Coriolis force
+, resulting in
+anti-clockwise
+rotation in the northern hemisphere and
+in the southern hemisphere.
+By 30° latitude, the diminished warmth halts cyclone activity.
+What is the “Landfall” of a Cyclone?
+occurs when a
+tropical cyclone
+moves from the sea onto the
+As per the
+IMD
+, a cyclone makes landfall when the
+centre of the storm
+, or its
+eye
+, crosses the coast.
+Landfall should not be confused with a
+“direct hit”
+, where the
+eyewall
+(area of high winds) hits land but the
+eye of the cyclone
+remains offshore.
+According to the
+National Oceanic and Atmospheric Administration (NOAA)
+, a cyclone’s strongest winds may still impact land even if the
+does not reach the coast.
+How long does a Cyclone Landfall last?
+The duration of
+typically lasts a
+few hours
+, depending on the
+size of the storm
+cyclone Dana
+, the landfall process is expected to last
+five to six hours
+with wind speeds around
+125 km/h
+, impacting a wide region.
+Cyclones usually
+weaken
+after landfall as they lose their
+moisture supply
+and experience increased
+surface friction
+While landfall is often the
+most destructive phase
+of a cyclone, it also signals the beginning of the
+cyclone’s dissipation
+PYQ:
+[2015]
+In the South Atlantic and South Eastern Pacific regions in tropical latitudes, cyclone does not originate. What is the main reason behind this?
+(a) Sea Surface temperature are low
+(b) Inter Tropical Convergence Zone seldom occurs
+(c) Coriolis force is too weak
+(d) Absence of land in those regions
+**********[pib] PM-YASASVI Scheme
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Ministry of Social Justice and Empowerment
+has implemented the PM Young Achievers Scholarship Award Scheme for Vibrant India (
+).
+About PM-YASASVI Scheme
+Details
+Launch Year
+2021-22
+Purpose
+To provide financial assistance and educational support to students from Other Backward Classes (OBC), Economically Backward Classes (EBC), and De-notified Tribes (DNT).
+Eligibility Criteria
+• Students from
+OBC, EBC,
+DNT(Denotified Tribes)
+categories
+• Annual family income up to ₹2.50 lakh
+• Additional criteria may apply based on specific schemes.
+Benefits
+• Scholarships for pre-matriculation (Class 9-10) and post-matriculation (higher studies)
+• Covers tuition, hostel expenses, and academic costs
+• Hostel facilities for OBC students
+• Promotes educational advancement for marginalized communities.
+Scholarship Amounts
+• Class 9 and Class 10: ₹75,000 annually
+• Class 11 and Class 12: ₹1,25,000 annually
+Selection Criteria
+• Based on performance in the YASASVI Entrance Test (YET) conducted by the National Testing Agency (NTA)
+Application Process
+• Applications submitted online through the National Scholarship Portal (scholarships.gov.in)
+Significance
+Promotes inclusivity and social progress by supporting students from OBC, EBC, and DNT backgrounds in their educational pursuits.
+**********[pib] Environmental Ship Index (ESI)
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Mormugao Port Authority
+has gained global recognition as an
+incentive provider
+on the
+platform.
+It is the
+first port in India
+to implement
+Green Ship Incentives
+under the
+, promoting eco-friendly practices in shipping.
+The port launched the
+“Harit Shrey” scheme
+October 2023
+, offering
+port fee discounts
+based on
+ESI ratings
+of commercial vessels.
+About the Environmental Ship Index (ESI):
+Details
+What is it?
+A scoring system that measures the environmental performance of ships, specifically their air pollution emissions.
+Establishment
+Launched in
+2011
+by the
+World Ports Sustainability Program (WPSP)
+International Association of Ports and Harbours (IAPH)
+Scope
+ESI evaluates emissions of:
+• Sulfur oxides (SOx)
+• Nitrogen oxides (NOx)
+• Carbon dioxide (CO₂)
+• Particulate matter from seagoing vessels.
+Purpose
+To encourage ships to adopt technologies and practices that minimize emissions, contributing to air quality improvement and climate change mitigation.
+How effective is ESI to reduce emissions, and what metrics are used to evaluate this effectiveness?
+The ESI provides a framework for incentivizing ships based on their environmental performance, specifically targeting reductions in air emissions such as
+CO2, SOx, and NOx.
+effectiveness of the ESI
+is evaluated using specific metrics, including a
+ship’s ESI score
+, which is derived from factors such as engine efficiency, fuel quality, and the implementation of emission reduction technologies.
+The ESI enables ports to analyze the overall impact of green shipping initiatives through aggregated data on participating vessels.
+What are the future developments planned for the ESI?
+Future plans include
+expanding metrics
+to cover additional pollutants and
+carbon intensity
+for a more comprehensive environmental assessment.
+Enhancements in
+digital reporting
+for easier
+tracking of emissions data
+performance analytics
+Planned updates will aim to support the
+International Maritime Organization’s (IMO) 2050
+decarbonization targets, including
+zero-emission technology
+How will they align with global maritime regulations aimed at decarbonization?
+ESI updates will align with
+IMO’s MARPOL Annex VI
+regulations on
+pollutant emissions
+greenhouse gases (GHG)
+ESI’s future adaptations will address
+carbon intensity targets
+and promote
+alternative fuels
+like
+ammonia
+hydrogen
+, in line with IMO’s goal of
+net-zero GHG emissions
+by 2050.
+The ESI is part of the broader
+, promoting sustainability in port operations and
+low-carbon maritime trade
+ESI aims to further incentivize the adoption of
+energy-efficient engines
+battery systems
+hybrid propulsion
+to support long-term emission reduction.
+PYQ:
+[2015]
+With reference to ‘Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)’, consider the following statements:
+It was established very recently in response to incidents of piracy and accidents of oil spills.
+It is an alliance meant for maritime security only.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********Betelgeuse, one of the Brightest Stars predicted to Explode
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Recent research has revealed a surprising finding about
+(which was believed to explode): the star’s unusual
+brightening and dimming patterns
+may be influenced by an
+unseen companion star
+.
+About Betelgeuse
+Betelgeuse is a
+red supergiant star
+Orion constellation
+, marking Orion’s left shoulder.
+It is among the
+brightest and largest stars
+visible in the night sky, located about
+650 light-years
+from Earth.
+The star is nearing the end of its life, and when it dies, its explosion is expected to be
+visible during the day for several weeks
+Betelgeuse is vast, measuring more than
+700 million miles (1.2 billion kilometers)
+in diameter.
+Known for its
+periodic dimming and brightening
+, Betelgeuse has two distinct pulsation cycles:
+short-term cycle
+of about one year.
+longer six-year cycle
+called a
+long secondary period
+Researchers believe this longer cycle may be caused by
+Betelbuddy
+(an unseen companion star) moving through the
+dust surrounding Betelgeuse
+Indicators and Scientific Evidence
+Betelgeuse’s
+cyclic dimming and brightening
+patterns indicate it is nearing the end of its life.
+Its
+massive size and expansion
+as a red supergiant suggest it is in a late stellar stage.
+Cooling surface temperature
+mass loss
+through stellar winds signal increasing instability.
+Spectral analysis
+shows heavy elements in Betelgeuse’s layers, typical of late-stage fusion.
+An unseen
+companion star, or “Betelbuddy,”
+may be influencing its brightness and internal structure.
+Potential Effects of Betelgeuse’s Supernova on Earth and Our Solar System
+Betelgeuse’s supernova will likely be
+visible in daylight
+for weeks and brighter than the Moon at night.
+At 650 light-years away,
+dangerous radiation
+would dissipate before reaching Earth, posing no harm.
+Space missions and satellites
+may experience minor interference from increased cosmic rays.
+The explosion will enrich the
+interstellar medium
+with heavy elements, contributing to new star formation.
+The supernova will provide
+valuable scientific insights
+into stellar life cycles and cosmic element formation.
+PYQ:
+[2017]
+The terms ‘Event Horizon’, ‘Singularity’, ‘String Theory’ and ‘Standard Model’ are sometimes seen in the news in the context of:
+(a) Observation and understanding of the Universe
+(b) Study of the solar and the lunar eclipses
+(c) Placing satellites in the orbit of the Earth
+(d) Origin and evolution of living organisms on the Earth
+**********[pib] 200 Years of Kittur Vijayotsava
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Kittur Rani Chennamma
+Why in the News?
+A commemorative postage stamp was released at the historic Kittur Rani Channamma Stage within the Kittur Fort premises to mark the
+200th anniversary of Kittur Vijayotsava.
+About Kittur Rani Chennamma
+Rani Chennamma was born in
+1778
+Kakati, Belgaum (now Karnataka)
+She was trained in
+horse riding, sword fighting
+, and
+archery
+from an early age.
+She married
+Mallasarja Desai
+, the ruler of
+, a small principality in Karnataka.
+The Kittur Uprising (1824):
+British East India Company
+refused to recognize her
+adopted son, Shivalingappa
+, as the rightful successor under the
+Doctrine of Lapse
+She declared
+war
+on the British in response to their annexation attempt.
+October 1824
+, she led the
+Kittur army
+against
+20,000 British soldiers
+stationed near the
+During the battle, British official
+John Thackery
+was killed, and the Company forces faced
+significant losses
+After initial resistance, British forces returned in
+December 1824
+with a larger army.
+Despite her courageous efforts, Rani Chennamma was
+captured
+along with her forces and imprisoned.
+She was held captive in
+Bailhongal Fort
+, where she spent her remaining years. She
+died
+captivity
+1829
+Legacy and Significance
+Rani Chennamma is celebrated as one of the
+first women in Indian history
+to lead an
+anti-colonial uprising
+She is revered as a symbol of
+courage, patriotism
+against colonial oppression.
+She is honored in
+Kannada folklore
+, particularly through
+lavani (folk songs)
+that celebrate her bravery and sacrifice.
+Statues have been erected across
+, including a prominent one in
+Bengaluru’s Parliament House
+Introduced by Lord Dalhousie
+1848
+, the Doctrine aimed at expanding British territories in India.
+The policy was based on the principle that a
+princely state without a suitable heir
+should become part of the British Empire.
+Applied to princely
+states where the ruler died without a natural or legally adopted male heir
+, enabling the British to annex those states.
+seen as illegitimate by many Indian rulers
+and played a role in the Indian Rebellion of 1857.
+Several
+states annexed due to this Doctrine
+, include Satara (1848), Jaitpur (1849), Sambalpur (1849), Udaipur (1850), Jhansi (1853), and Nagpur (1854).
+Prior to the Doctrine of Lapse, princely states had a traditional practice of selecting an heir from a
+group of candidates known as
+bhajans
+abandoned in 1859
+, two years after the end of the Company Rule in India.
+PYQ:
+[2013]
+Defying the barriers of age, gender and religion, the Indian women became the torch bearer during the struggle for freedom in India. Discuss.
+[2014]
+What was/were the object/objects of Queen Victoria’s Proclamation (1858)?
+To disclaim any intention to annex Indian States
+To place the Indian administration under the British Crown
+To regulate East India Company’s trade with India
+Select the correct answer using the code given below:
+(a) 1 and 2 only
+(b) 2 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********

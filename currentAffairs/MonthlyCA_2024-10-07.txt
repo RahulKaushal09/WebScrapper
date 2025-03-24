@@ -1,0 +1,357 @@
+
+**********
+India as the World Largest Plastic Polluter
+Source: IE
+Why in News?
+A recent study published in the journal
+Nature
+has revealed that India is the
+highest contributor to global plastic pollution
+.
+India accounts for approximately
+one-fifth
+of the total plastic waste generated worldwide.
+What are the Key Findings of the Study?
+Plastic Waste Generation:
+India generates approximately
+9.3 million tonnes of plastic pollution
+annually. Out of this, 5.8 million tonnes (mt) are incinerated, while 3.5 million tonnes are released into the environment as debris.
+This figure is significantly
+higher than Nigeria (3.5 mt), Indonesia (3.4 mt), and China (2.8 mt).
+India’s waste generation rate is approximately
+0.12 kilograms per capita per day
+Global North-South Divide:
+Plastic waste emissions are highest across countries in
+Southern Asia, Sub-Saharan Africa and South-eastern Asia
+. There is a clear divide in plastic pollution sources.
+Global South countries
+, such as India, often rely on
+open burning
+for waste management, while the
+uses
+controlled systems,
+leading to
+less unmanaged waste
+Disparity Between High and Low Income Countries:
+Globally, 69% or 35.7 Mt per year of plastic waste emissions come from 20 countries.
+In the Global South, plastic pollution mainly comes from
+open burning due to poor waste management
+, while in the Global North, it's mostly from
+uncontrolled debris.
+High-income countries
+have higher plastic waste generation rates but
+are not among the top 90 polluters due to 100% collection coverage
+and controlled disposal.
+Criticism of Research:
+Narrow Focus
+: The study
+overemphasised waste management, neglecting
+the n
+eed to reduce plastic production.
+Misplaced Priorities
+: It could divert attention from upstream solutions like phasing out single-use plastics.
+Industry Support
+: Endorsement by plastics industry groups raises concerns about
+aligning with industry interests rather than broader environmental goals.
+Undermining Comprehensive Solutions
+: The study’s focus on waste management might
+weaken efforts to address production and recycling issues.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1726116459_image16 copy.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+What are the Reasons for High Plastic Pollution in India?
+Rapid Population Growth and Urbanization:
+India's rising population and affluence drive
+higher consumption and waste generation.
+Urbanisation intensifies the problem by increasing the demand for plastic products and packaging.
+Inadequate Waste Management Infrastructure:
+waste management infrastructure is insufficient
+to handle the large volumes of waste, with more uncontrolled dumping sites than sanitary landfills, reflecting
+poor disposal facilities and practices.
+Discrepancies in Waste Collection Data:
+India's official waste collection rate is overstated at 95%, while research suggests the actual rate is around 81%, revealing a significant gap in efficiency.
+Open Burning of Waste:
+burns approximately 5.8 million tons of plastic waste
+each year, worsening pollution and releasing toxic pollutants that pose health and environmental risks.
+Informal Sector Recycling:
+The unregulated informal
+recycling sector handles much plastic waste not accounted for in official statistics
+, complicating the understanding of plastic pollution levels.
+What are the Issues Associated With Mismanaged Plastic Waste in India?
+Environmental Degradation:
+Plastic waste clogs waterways, leading to flooding and marine pollution. It harms marine life through ingestion, while burning it releases toxic pollutants, worsening air quality.
+Public Health Concerns:
+Microplastics
+in water and food pose
+potential long-term health risks.
+Plastic waste creates
+breeding grounds for disease vectors
+, increasing the spread of diseases like
+dengue and malaria
+Burning plastic also releases harmful substances affecting respiratory health.
+Economic Challenges:
+According to a FICCI report, India could lose over
+USD 133 billion worth of material value
+used in plastic packaging by 2030, with uncollected plastic packaging waste accounting for USD 68 billion of this loss.
+E-commerce and Packaging Waste:
+e-commerce
+growth has led to increased plastic packaging waste, much of which is difficult to recycle and ends up as litter or in landfills.
+Regulatory and Enforcement Challenges
+: Inconsistent enforcement of plastic waste regulations and issues with the
+Extended Producer Responsibility
+system hamper effective waste management.
+India is among the top contributors to global plastic waste.
+Microplastic Pollution in Agriculture:
+Plastic use in agriculture and inadequate wastewater treatment lead to microplastics accumulating in soil, impacting soil health and food safety.
+Technological and Infrastructure Gaps:
+waste segregation and processing facilities
+, along with
+limited advanced recycling technology
+, hinder effective plastic waste management. A lack of
+comprehensive waste tracking
+further complicates efforts.
+What are the Regulations Related to Plastic Waste Management in India?
+Plastic Waste Management Rules, 2016
+Plastic Waste Management (Amendment) Rules, 2018:
+Applies phasing out of multi-layered plastic (MLP) to those that are non-recyclable, non-energy recoverable, or have no alternate use.
+Establishes a central registration system by the
+Central Pollution Control Board (CPCB)
+for producers, importers, and brand owners.
+Plastic Waste Management Amendment Rules, 2021: Prohibits specific single-use plastic items by 2022
+due to low utility and high littering potential.
+Enforces collection and environmental management of plastic packaging waste through
+EPR.
+Increases plastic carry bag thickness from 50 microns to 75 microns by September 2021 and to 120 microns by December 2022.
+Plastic Waste Management (Amendment) Rules, 2022
+Plastic Waste Management (Amendment) Rules, 2024
+Other Initiatives:
+Swachh Bharat Mission
+India Plastics Pact
+Project REPLAN
+Un-Plastic Collective
+GoLitter Partnerships Project
+Way Forward
+Circular Economy:
+Promote
+RRR i.e. reduce, reuse and recyclability
+in design, set up recovery facilities,
+incentivize recycled plastics,
+and mandate recycled content in products.
+Smart Waste Management:
+Integrate
+smart technology in waste management
+IoT-
+enabled bins,
+AI
+for sorting, and
+mobile apps for reporting illegal dumping
+and locating recycling centres.
+Extended Producer Responsibility (EPR)
+: Strengthen EPR by introducing
+graded fees for difficult-to-recycle plastics
+, a plastic credit trading system, and extending EPR to the informal sector for better waste picker conditions.
+Awareness Campaigns:
+Launch
+national campaigns
+in multiple languages,
+integrate plastic waste education
+in schools, conduct community workshops, and use influencers to promote plastic-free lifestyles. Establish a national
+innovation challenge
+for youth involvement.
+Waste-to-Energy
+: Invest in advanced
+waste-to-energy technologies
+pyrolysis
+gasification
+for non-recyclable plastics. Ensure strict
+emissions controls
+and use generated energy to power waste management facilities.
+Green Procurement
+: Apply plastic waste reduction criteria in
+government procurement
+and use government buildings as models.
+Drishti Mains Question:
+What are the issues and challenges associated with plastic waste management? What steps should be taken to tackle plastic waste in India?
+
+**********
+Adverse Effects of Lithium Mining
+Source: IE
+Why in News?
+According to a new study, land subsidence is occurring in Chile's
+Atacama salt flat
+due to lithium mining.
+What are the Key Revelations of the Study?
+Findings:
+Rate of Sinking:
+The Atacama salt flat in Chile is sinking at a rate of 1 to 2 centimetres per year due to
+lithium brine extraction
+Lithium brine extraction involves
+pumping salt-rich water
+to the surface and into evaporation ponds to obtain
+The sinking is caused by the extraction of lithium-rich brine at a rate faster than the natural recharge of
+aquifers
+, leading to subsidence.
+Lithium Mining Impact on the Environment:
+Water Usage:
+The process requires massive amounts of fresh water, with
+2,000 tons of water
+needed to produce
+one ton of lithium
+Water Scarcity:
+This extraction exacerbates
+water scarcity
+in the
+Atacama Desert
+, affecting both local communities and ecosystems.
+Chemical Contamination:
+Chemicals like
+sulfuric acid and sodium hydroxide
+used in l
+ithium extraction contaminate soil and water,
+harming ecosystems and endangering species.
+Impact on Wildlife:
+A 2022 study highlighted a decline in
+flamingo
+populations in the Atacama region due to reduced water levels, which affect their reproduction rates.
+Potential Impact of Lithium Mining in Reasi (J&K):
+Water Crisis:
+Many villages in
+are struggling to access enough water, after
+perennial streams dried
+up following the construction of the
+Chenab Rail Bridge.
+Water-intensive lithium mining can further
+worsen
+the situation.
+Threat to Biodiversity:
+Himalayan region
+in J&K is a
+biodiversity hotspot
+and a
+eco-sensitive
+region,
+and mining could lead to a significant loss of biodiversity.
+It can hamper
+the habitat of migratory birds like Common Teal, Northern Pintail
+etc who come every year to stay in lakes, marshes and
+wetlands
+of Jammu and Kashmir.
+Food Insecurity:
+Mining and processing lithium can further jeopardise
+food security
+through its excessive
+carbon emissions,
+water, and land use methods.
+Pollution:
+The Himalayas are the source of so many rivers and mining activity may pollute the entire
+riparian ecosystem.
+What are the Key Facts about Lithium?
+About:
+It is a
+soft, silvery metal
+. It has the lowest density of all metals.
+high reactivity, low density and excellent electrochemical properties.
+Its ores are
+Petalite, Lepidolite and Spodumene
+. It is also known as the
+“
+white gold
+”
+Applications:
+Batteries:
+The most important use of lithium is in
+rechargeable batteries
+for mobile phones, laptops, digital cameras and
+electric vehicles
+Lithium is also used in
+some non-rechargeable batteries
+for things like
+heart pacemakers
+, toys and clocks.
+Alloys:
+A magnesium-lithium alloy is used for
+armour plating
+Air Conditioning:
+Lithium chloride and lithium bromide are used in
+air conditioning
+industrial drying systems
+due to their
+hygroscopic properties.
+Lubricants:
+Lithium stearate is used as an all-purpose and
+high-temperature lubricant
+Reserves:
+holds the
+largest lithium reserves
+globally, accounting for
+36%
+of the total, and is the
+second-largest producer
+, contributing
+32%
+to the world's supply.
+Chile is a part of the
+"lithium triangle"
+along with
+Argentina and Bolivia
+Australia
+China
+first
+third
+largest producers of Lithium globally.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1725280902_image16.png" style="display: block; margin-left: auto; margin-right: auto;" width="500"/>
+Read More:
+India's Lithium Mining Challenges
+Drishti Mains Question:
+Q. Discuss the adverse environmental impacts of lithium mining. How does it pose a threat to the eco-sensitive regions of the country?
+
+**********
+Typhoon Yagi
+Source: IE
+Recently,
+has caused severe damage across
+Southeast Asia,
+affecting the
+Philippines, China, Laos, Myanmar, Thailand,
+and particularly
+Vietnam.
+It is the
+strongest tropical
+cyclone
+has encountered till September 2024 and the second most powerful globally after
+Hurricane Beryl (Atlantic Ocean).
+It originated as a
+tropical storm (wind speed upto 63 kmph)
+in the western Philippine Sea but became
+Category 5 typhoon
+with winds of
+260 kmph.
+The
+Saffir-Simpson Hurricane Wind Scale
+categorizes tropical cyclones from
+Category 1 (119-153 kmph) to Category 5 (252 kmph or higher)
+. Storms reaching Category 3 and higher are considered major tropical cyclones due to their potential for significant damage."
+Storm systems with winds of 119 kmph and above are classified as hurricanes, typhoons, or tropical cyclones."
+India launched
+Operation “Sadbhav
+” to provide aid and urgent supplies to Vietnam,
+Laos, and Myanmar.
+Operation Sadbhav is part of India’s broader effort to contribute to
+Humanitarian Assistance and Disaster Relief (HADR)
+within the
+ASEAN region
+, in line with its longstanding ‘
+Act East Policy’.
+Reasons for More Intense Typhoons:
+Global mean
+sea surface temperatures
+have
+increased
+by approximately
+0.9°C since 1850,
+about 0.6°C
+past four decades.
+Higher sea surface temperatures drive
+marine heat waves
+and increased
+evaporation,
+leading to more intense typhoons that form closer to coastlines and intensify rapidly.
+Read More...

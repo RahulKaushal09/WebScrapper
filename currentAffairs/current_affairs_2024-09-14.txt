@@ -1,0 +1,400 @@
+The Shock of Crumbling Infrastructure and the Solution
+Context
+India's infrastructure sector is a crucial driver of the country's economic development
+, however, recent reports, such
+as collapse of several under-construction bridges in Bihar, raise concerns about the quality control
+and project implementation within this sector.
+These
+incidents underscore long-standing issues in infrastructure projects
+that could undermine the government's ambitious goal of making India a developed nation by 2047.
+Therefore,
+it is important to examine the key challenges in infrastructure development, focusing on time delays, cost overruns, inadequate project management
+, and the steps needed to address these gaps, including adopting global best practices and robust program management approaches.
+India’s Infrastructure Ambitions and Government Initiatives
+PM Gati Shakti National Master Plan (NMP)
+It is
+designed as a comprehensive logistics and transport infrastructure framework,
+integrating various ministries and stakeholders under a single platform.
+primary goal is to break the silos in which ministries traditionally operate
+and create a unified, multi-modal transport network.
+By bringing together infrastructure ministries like roads, railways, shipping, and aviation,
+PM Gati Shakti aims to ensure seamless connectivity
+between different modes of transport, thereby improving logistics efficiency and reducing transportation costs.
+A key feature of PM Gati Shakti is its
+GIS-based ERP portal
+, which provides real-time monitoring of projects.
+National Logistics Policy (NLP)
+The NLP
+complements the objectives of PM Gati Shakti by focusing on improving the efficiency of the logistics sector,
+which is crucial for driving economic growth.
+India's logistics costs are currently among the highest in the world
+, making goods more expensive for domestic consumers and less competitive internationally.
+policy seeks to reduce logistics costs from around 13-14% of GDP to single digits
+, in line with global standards.
+NLP outlines a roadmap for creating an efficient and integrated logistics ecosystem
+by focusing on four key areas:
+Optimising modal mix
+(using the right balance of road, rail, air, and water transport),
+Improving logistics infrastructure
+by creating modern logistics parks, multimodal hubs, and warehousing facilities,
+Leveraging technology
+through digitisation of logistics processes, and
+Enhancing skill development
+for the logistics workforce.
+By integrating the logistics sector with digital platforms like the
+Unified Logistics Interface Platform (ULIP)
+e-logs
+, the policy ensures real-time data sharing and coordination between different stakeholders.
+Smart Cities Mission
+Another significant initiative aimed at upgrading India's infrastructure is the
+seeks to promote sustainable and inclusive urban development.
+With
+urban areas projected to account for nearly 40% of India’s population by 2030, this mission is designed to address the challenges posed by rapid urbanisation
+, such as congestion, pollution, and strained public services.
+focuses on creating
+smart urban infrastructure
+through technology-driven solutions in areas such as traffic management, energy efficiency, water conservation, and public safety.
+100 Smart Cities
+initiative is particularly noteworthy because it seeks to transform selected cities into
+model urban centres
+that can serve as templates for other cities to follow.
+Increased Capital Expenditure: ₹11.11 Lakh Crore in Budget 2024
+The government’s commitment to infrastructure development is evident in its
+2024 budget
+, where capital expenditure was
+allocated a record ₹11.11 lakh crore
+, equivalent to 3.4% of GDP.
+This is a
+significant increase from previous years and underscores the government’s recognition of the role infrastructure
+plays in driving economic growth.
+substantial allocation reflects the government’s intent to stimulate economic recovery post-pandemic
+by boosting construction, transportation, and industrial projects.
+Key Challenges in Infrastructure Development
+Time Delays and Cost Overruns
+A report from the Ministry of Statistics and Programme Implementation reveals that
+as of December 2023, 431 infrastructure projects—each involving investments of ₹150 crore or more—suffered a combined cost overrun of ₹4.82 lakh crore.
+Delayed projects accounted for a significant proportion, with 36% running behind schedule by 25 to 60 months, and 15% delayed by over 60 months.
+Lack of Comprehensive Planning and Management
+Urban infrastructure projects, in particular,
+frequently reveal shortcomings in planning by urban local bodies.
+Comprehensive planning,
+which includes accurate cost estimation, resource allocation, and risk management,
+is often overlooked during the initial stages of these projects.
+Insufficient attention to these crucial elements inevitably leads to disruptions, with cascading effects on both time and costs.
+Steps Required to Address Challenges in Infrastructure Development
+Overhaul of Traditional Project Management Practices
+The existing traditional project management practices in India are
+often inadequate for dealing with the scale and complexity of modern infrastructure projects.
+They rely heavily on outdated methods that lack real-time data integration and monitoring tools and
+to address this, an overhaul of these practices is urgently needed.
+Modern project management tools, including
+real-time data management
+data analytics
+, are essential to monitor progress and adjust for challenges as they arise.
+While some organisations have recognised this and are implementing short-term programs to upskill their teams,
+a broader push toward integrating modern management techniques is required
+across the public sector and
+public-private partnerships (PPPs)
+Adopting Global Best Practices
+Countries like the United Kingdom, China, and Saudi Arabia have set up
+specialised agencies for end-to-end project delivery
+For example,
+the UK's Infrastructure and Projects Authority emphasises streamlined processes for project completion
+, which India could emulate.
+Such agencies help ensure projects are completed within stipulated timeframes and budgets, reducing inefficiencies.
+initiative offers a promising step in this direction. It aims to break the silos between government ministries by creating an integrated platform for all stakeholders.
+under this initiative monitors the real-time progress of various projects and ensures that departments remain on track to meet their targets.
+While this system is a significant advancement,
+it must be supported by stringent quality controls and greater accountability
+to prevent the recurrence of incidents like bridge collapses.
+Program Management Approach
+To address the challenges in infrastructure project execution, a more
+holistic approach
+is needed.
+One such strategy is the
+, which coordinates resources, timelines, budgets, and activities across multiple projects.
+This approach was successfully implemented in the
+Shendra-Bidkin Industrial Corridor
+in Maharashtra, where nine packages were managed simultaneously, integrating various project components in a disciplined and systematic manner.
+To institutionalise program management
+across India’s infrastructure sector,
+the government could consider establishing an agency dedicated to project management training and certification.
+This could be modelled after professional bodies like the
+Institute of Chartered Accountants of India
+Chartered Engineers Institutes
+in other countries.
+Conclusion
+While the government’s commitment through initiatives like the PM Gati Shakti and substantial capital allocation is evident,
+the challenges of time delays, cost overruns, and inefficient project management continue to hinder progress.
+Addressing these issues will require an overhaul of traditional project management practices,
+greater coordination among stakeholders, and the adoption of global best standards.
+By improving project execution and preventing avoidable failures
+India can create future-ready infrastructure
+that paves the way for an affluent and safe future for its citizens, aligning with its vision of becoming a developed nation by 2047.
+Click to View More
+Editorial Analysis
+**********Port Blair renamed as Sri Vijaya Puram
+Why in news?
+The Centre has decided to rename Port Blair as Sri Vijaya Puram. This move is aimed at shedding the colonial legacy associated with the former and to recognise Andaman and Nicobar Islands’ contribution to the Indian freedom struggle.
+The decision to give an Indian name to the Andaman and Nicobar capital follows nearly six years after the Centre, in a move to honour Netaji Bose, renamed three islands of the Union territory. While
+Ross Island
+was rechristened as
+Subhash Chandra Bose Dweep (island)
+Neil Island
+was renamed
+Shaheed Dweep
+Havelock Island
+Swaraj Dweep
+What’s in today’s article?
+Process to rename a state/UT
+Colonial background of Port Blair
+Port Blair’s connection with the imperial Cholas and Srivijaya
+Process to rename a state (the term ‘state’ is inclusive of states and union territories)
+Constitutional provision
+The Parliament has the power to change the name of a state.
+The Constitution of India gives the parliament power to alter the name of a state under Article 3.
+Article 3 of the Constitution explicitly lays down a procedure to alter the area, boundaries, or name of a state.
+Proposal
+The process of
+renaming of a state can be initiated by either the Parliament or the state assembly
+The state legislature sends a proposal in the form of a resolution to the Central government.
+The bill cannot be presented without a recommendation from the President, who then refers it to the state legislature for their views.
+Procedure
+States which are going to get affected by such changes, the legislation of that state must be presented with the bill.
+The State Legislature may present its views on the bill within the prescribed time period.
+The views or suggestions of the State Legislature are
+not enforceable against the President or the Parliament
+If Parliament wants, it can dismiss the opinion of the state legislature.
+After receiving the suggestions of the State Legislative Assembly or after the expiration of the limited time period the bill goes back to the Parliament.
+Then the bill gets further deliberated upon in the Parliament.
+Passing of the bill
+The bill like any ordinary bill must be passed with a simple majority of 50%+1 vote.
+The bill is then sent to the President for approval. After the said bill gets approved, it becomes a law and the name of the state stands modified.
+Origins of Port Blair: Named After Lieutenant Archibald Blair
+The city of Port Blair is the entry point of the Andaman and Nicobar Islands.
+Originally a fishing hamlet, it was named after Lieutenant Archibald Blair, a British naval officer who served in the early 18th century.
+In December 1778, Blair embarked on his first surveying expedition to the Andaman Islands from Calcutta with two ships, Elizabeth and Viper.
+The voyage, lasting until April 1779, took Blair around the west and east coasts of the islands, where he discovered a natural harbour.
+Initially, he named it Port Cornwallis, after Lord William Cornwallis. The island was later renamed in Blair’s honour.
+Blair’s career was marked by significant contributions to British colonial expansion, particularly in the Andaman and Nicobar Islands.
+Establishment of a Penal Colony in 1789
+In 1789, the Government of Bengal founded a penal colony on Chatham Island, in the Great Andaman southeast bay, naming it after Blair.
+This was part of a broader British strategy to control the region.
+However, the British had abandoned by 1796 because of disease.
+Blair’s Role in Surveying and Developing the Islands
+Blair surveyed the Andaman and Nicobar Islands, helping establish early British administration.
+His efforts in mapping the area laid the foundation for Port Blair to become a colonial hub, vital for military, administrative, and trade activities.
+His work helped the British exert control over the islands and integrate them into their maritime network.
+Establishment of new penal colony
+The Revolt of 1857 resulted in a large number of prisoners for the British, prompting the immediate renovation and resettlement of Port Blair as a penal colony.
+The first batch of 200 prisoners arrived in March 1858.
+Cellular Jail
+The British built the Cellular Jail, also known as Kala Pani (Black Waters), to house Indian convicts, mostly political prisoners, in solitary confinement.
+With the strengthening of the Indian Independence Movement in the late 19th century, a huge cellular jail was established here by 1906.
+Used as a strategic base by the Chola emperor
+Srivijaya was the ancient name of an empire that had its base in Sumatra, with influence across South East Asia.
+It was also instrumental in the expansion of Buddhism.
+The empire was supposed to have declined around the 11 century AD after a series of naval raids by the Cholas on its ports.
+Historical records suggest that the Andaman Islands were used as a
+strategic naval base by the Chola emperor Rajendra I
+in the 11th century.
+It was used to launch an attack on the Srivijaya Empire, located in present-day Indonesia.
+Chola invasion of Srivijaya was unique, marking a rare conflict in India’s otherwise peaceful relations with Southeast Asia.
+Scholars suggest that the attack was either due to Srivijaya obstructing Chola trade or Rajendra I’s ambition to extend his empire and enhance his prestige.
+American historian G.W. Spencer views the attack as part of Chola expansionism.
+Inscription at Thanjavur and the name of Nicobar Island
+As per an inscription found at Thanjavur dated to 1050 CE, the Cholas referred to the island as
+Ma-Nakkavaram
+land (great open/ naked land), which possibly led to the modern name of Nicobar under the British.
+A Tribute to Independent India
+Renaming Port Blair to Sri Vijaya Puram is seen as a fitting recognition of the city’s contribution to the making of a new Independent India, moving away from its colonial past.
+Port Blair renamed as Sri Vijaya Puram.pdf
+( Size:  1.4 MB  )
+Click to View More
+History & Culture
+**********CO2 Emissions from Transport Sector could be Slashed up to 71% by 2050: Study
+What’s in Today’s Article?
+Background (Context of the Article)
+About the Study (Key Findings, Emissions from Transport Sector, Alternatives, Conclusion)
+Background:
+A recent study by the World Resources Institute (WRI) India reveals that India's transport sector has the potential to reduce carbon dioxide (CO2) emissions by up to 71% by 2050 if key strategies are implemented.
+These strategies include
+electrification
+improving fuel economy standards
+, and
+adopting cleaner modes of transport
+mobility
+Emissions from India's Transport Sector:
+In 2020, India's transport sector contributed 14% of the country's total energy-related CO2 emissions.
+The study stresses the urgent need for an emission reduction roadmap for the sector to help meet India's net-zero target by 2070.
+The findings are based on an energy policy simulator that models various decarbonization targets and outcomes.
+Sectoral Breakdown of CO2 Emissions:
+Road transport remains the most carbon-intensive segment
+, accounting for 90% of the transport sector's CO2 emissions.
+Two-wheelers contribute 16%, cars 25%, buses 9%, light-duty freight vehicles 8%, and heavy-duty freight vehicles 45%—the highest of any category.
+Other modes like railways, aviation, and waterways accounted for 6%, 3%, and 1% of energy consumption, respectively.
+Key Findings of the Study:
+The report highlights that a high-ambition strategy involving electrification, fuel economy improvements, and modal shifts could significantly reduce CO2 emissions.
+According to the study,
+implementing these strategies at their maximum potential could cut CO2 emissions and fossil fuel consumption by 71% by 2050
+, compared to a business-as-usual (BAU) scenario.
+The study also notes that integrating a carbon-free electricity standard, where 75% of electricity comes from renewable sources, could lead to a 75% reduction in emissions by 2050 compared to BAU levels.
+Least-Cost Policies for Decarbonization:
+The study emphasized that decarbonizing India's transport sector can be achieved through cost-effective policies.
+The simulation suggests that
+shifting to low-carbon transport for both freight and passenger segments is the most economical long-term solution
+, with an estimated saving of Rs. 12,118 per tonne of CO2 abated.
+Electric Vehicles and CO2 Reduction:
+One of the most effective strategies for reducing CO2 emissions is the expansion of electric vehicle (EV) sales.
+The study estimates that the annual abatement potential for CO2 emissions from EV adoption could reach 121 million metric tonnes (MtCO2e).
+Additionally, decarbonizing electricity generation could further enhance the effectiveness of EV electrification targets.
+Risk of Business-As-Usual (BAU) Scenario:
+If India follows a BAU scenario, the transport sector will continue to rely heavily on fossil fuels until 2050.
+The study warns that fossil fuel consumption, including LPG, diesel, and petrol, is expected to quadruple over the next three decades
+This rise will be driven by a surge in passenger and freight travel demand, which are projected to triple and increase sevenfold, respectively, between 2020 and 2050.
+Conclusion:
+The WRI study highlights the need for ambitious policies and strategies to decarbonize India's transport sector, emphasizing the importance of electric vehicles, fuel efficiency, and cleaner transportation modes.
+Without these measures, India risks remaining heavily dependent on fossil fuels, further driving CO2 emissions in the coming decades.
+newspaper.pdf
+( Size:  1.1 MB  )
+Click to View More
+Environment & Ecology
+**********Supreme Court grants bail to Delhi CM in CBI case
+Why in news?
+The Supreme Court has granted bail to Delhi CM Arvind Kejriwal in connection with the CBI’s complaint in the Delhi excise policy case. However, the apex court placed certain conditions.
+While pronouncing the verdict, one of the judges of the bench
+criticized the CBI for its conduct in the case
+, emphasizing that as the country's leading investigative agency, it must work diligently to eliminate any doubts about the fairness of its investigation or potential bias in arrests.
+He also recalled past instances
+where the Court had harshly rebuked the CBI, even likening it to a "caged parrot."
+What’s in today’s article?
+Central Bureau of Investigation (CBI)
+Background- timeline of the case
+Key highlights of the judgement
+About
+It is the premier investigative agency of India.
+The agency was established in 1963 by the Indian government as a result of the recommendation of the Santhanam Committee.
+CBI is
+not a statutory body
+It derives its power to investigate from the Delhi Special Police Establishment Act, 1946
+Control
+It operates under the jurisdiction of the Ministry of Personnel, Public Grievances and Pensions (which in turn operated under PMO).
+However, for investigation of offences under the Prevention of Corruption Act, CBI vests superintendence to the Central Vigilance Commission.
+Functions
+Initially, it was set up to investigate corruption in government departments and public sector undertakings.
+However, over the years, its jurisdiction has expanded to cover a wide range of cases, including economic offenses, cyber-crimes, organized crimes, and special crimes.
+Criticism of CBI
+Guided By Pre-independence Act
+:
+The CBI is still guided by DPSE Act 1946, whose provisions hamper the accountability and autonomy of the institutions.
+In 2013, the Guwahati HC, in a judgement, had termed CBI as unconstitutional as it has no statutory backing.
+It was later stayed by the Supreme Court.
+Politically inclined
+There have been instances where CBI has been politically biased as it is vulnerable to undue political pressure.
+During the coal block investigation, the CBI was asked to share the findings with the government.
+The carrot of post-retirement benefit makes CBI chief prone to toeing the lines of incumbent government.
+The image of a premier investigating agency suffered a serious setback when the
+Supreme Court of India termed CBI as caged parrot with many masters
+Delays in case solving
+It shows the inefficiency and inefficacy of this top most investigating agency of India.
+Corruption and Nepotism
+Ex-CBI director Joginder singh in his book revealed about the prevalent corruption and nepotism within the agency.
+Turf war
+In 2019, the agency was involved in turf war between its director and its special director. Both had accused each other of corruption and money laundering.
+Delhi CM arrested twice in connection with the excise policy case
+March 21, 2024: Arrested by the Enforcement Directorate (ED).
+June 26, 2024: Arrested by the CBI while already in custody.
+Supreme Court Grants Interim Bail in ED Case
+July 12, 2024: The Supreme Court granted Kejriwal interim bail in the ED case, but he remained in jail due to pending CBI proceedings.
+Delhi High Court Upholds CBI Arrest
+August 5, 2024: The Delhi High Court upheld the CBI’s arrest decision and instructed Kejriwal to approach the trial court for bail.
+Delhi HC Order challenged at Supreme Court
+Delhi CM filed an appeal in the Supreme Court against the Delhi High Court's decision.
+Finally, the apex court granted bail to Delhi CM.
+Granted bail
+The Bench of Justices Surya Kant and Ujjal Bhuyan unanimously agreed on the question of granting bail to Delhi Chief Minister in the CBI case.
+The judges determined that the Delhi CM satisfied the
+“triple test” for bail
+no risk of evidence tampering, no flight risk, and no undue influence on witnesses
+Bail conditions imposed
+In separate but concurring orders, the bench of Justices extended the bail conditions imposed in the ED matter to the CBI case as well.
+The conditions of his bail included:
+No visits to the Chief Minister’s Office or the Delhi Secretariat.
+No signing of official files unless required for the Lieutenant Governor’s clearance.
+No public comments about the case or interaction with witnesses.
+Full cooperation with the trial and attendance at court hearings.
+Diverging opinions on the necessity of arrest
+During the hearings, both sides relied on
+Sections 41(1)(b) and 41A of the Code of Criminal Procedure, 1973 (CrPC)
+Section 41(1)(b) lays down the conditions for arrest without a warrant.
+Section 41A deals with the appearance of an accused before police in cases where arrest is not required.
+Arguments extended by Delhi CM
+Delhi CM argued that the conditions for his arrest under Section 41(1)(b) were not met.
+He was not served a notice under Section 41A prior to his interrogation by the CBI.
+Justice Kant’s Rulings on Sections 41(1)(b) and 41A
+Justice Kant ruled that Section 41(1)(b) was not applicable since a CBI Special Judge had authorized Delhi CM's arrest.
+He also clarified that Section 41A does not require a notice to be served to someone already in judicial custody, as Kejriwal was in relation to an ED case at the time.
+Justice Kant upheld the CBI’s reasoning for arrest
+Justice Bhuyan’s Criticism of the CBI's Actions
+Justice Bhuyan rejected the CBI's justification for arresting Kejriwal, stating that the agency cannot demand that an accused must answer in a manner that satisfies the investigators to be deemed cooperative.
+He invoked
+Article 20(3) of the Indian Constitution
+, which protects individuals from self-incrimination, emphasizing that
+an accused has the right to remain silent
+He also raised concerns about the timing of Kejriwal’s arrest, noting that the CBI sought his custody immediately after he was granted bail in another case.
+Supreme Court grants bail to Delhi CM in CBI case.pdf
+( Size:  2.5 MB  )
+Click to View More
+Polity & Governance
+**********Agreement on Fisheries Subsidies
+Why in News?
+Small-scale fishers from around the world had expressed significant concerns about the current World Trade Organisation (WTO) proposed text on fisheries subsidies.
+What’s in Today’s Article?
+Depletion of the World’s Fish Stocks
+What is the WTO Agreement on Fisheries Subsidies?
+Concerns Regarding the Fisheries Subsidies Agreement Raised by Many LDCs and Developing Countries
+Way Ahead to Resolve Issues with the Fisheries Subsidies Agreement
+Depletion of the World’s Fish Stocks:
+As per the figures shared by the WTO,
+an estimated 37.7% of the world's fish stocks are overfished now
+, compared to 10% in 1974.
+$35 billion of government funding is allotted to fishing, of which an estimated $22 billion goes towards increasing the amount of fishing that is not sustainable.
+Among the main subsidisers are China, the EU, the US, South Korea and Japan.
+However, the government of
+India
+estimates that each fisher family receives less than $15 in subsidies per year.
+Adopted at the 12th Ministerial Conference (MC12) in 2022
+, it marks a major step forward for ocean sustainability.
+It prohibits harmful fisheries subsidies
+, which are contributing to overcapacity and over fishing and are a key factor in the widespread depletion of the world’s fish stocks.
+The Agreement represents
+a historic achievement
+for the membership as -
+The first Sustainable Development Goal (SDG) target to be fully met,
+The first SDG target met through a multilateral agreement,
+The first WTO agreement to focus on the environment,
+The first broad, binding, multilateral agreement on ocean sustainability, and
+Only the second agreement reached at the WTO since its inception.
+For the Agreement to become operational
+, two-thirds of members have to deposit their “instruments of acceptance” with the WTO.
+Concerns Regarding the Fisheries Subsidies Agreement Raised by India:
+Discriminates against poorer countries:
+India draws attention to important gaps
+that could support unsustainable fishing practices, especially by large-scale industrial fishing nations.
+For example,
+the sustainability exemption clause in the proposed text allowed advanced fishing countries with better monitoring and notification capabilities to avoid commitments to cut harmful subsidies.
+However, it placed strict restrictions on small-scale fishers, especially those in developing nations.
+Differential treatment provisions:
+The proposed special and differential treatment provisions for small-scale fishers are considered inadequate.
+They are of non-industrial characteristics, which do not address the core issue of industrial fishing.
+Way Ahead to Resolve Issues with the Fisheries Subsidies Agreement:
+Large-scale industrial fishing fleets
+engaged in deep-sea fishing should be adequately restrained by subsidies for the fishing industry.
+Small players
+hoping to increase their fishing capacity should not be deterred by the support that many developing nations and least developed countries (LDCs) have provided.
+In general, small-scale fishers are demanding stronger support for sustainable small-scale fishing methods as well as more effective ways to reduce industrial fishing subsidies.
+newsapaper.pdf
+( Size:  3.5 MB  )
+Click to View More
+Economics
+**********

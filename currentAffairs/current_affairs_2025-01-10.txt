@@ -1,0 +1,842 @@
+We Need Accessibility Rules That Are Based on Principles
+Context
+The
+Supreme Court’s judgment in Rajive Raturi v. Union of India (2024)
+marked a pivotal moment in the
+interpretation and implementation of accessibility laws in India.
+By striking down Rule 15 of the Rights of Persons with Disabilities (RPwD) Rules, 2017
+, as violative of the Rights of Persons with Disabilities Act, 2016, the Court emphasised the incompatibility between discretionary rulemaking and the mandatory obligations imposed by the Act.
+Therefore,
+it is important to examine the SC judgment, the evolving concept of accessibility, and the structural and procedural reforms required to create a truly inclusive framework.
+Rule 15 of the RPwD Rules, 2017
+It emphasises the need for awareness campaigns to promote the rights and inclusion of persons with disabilities.
+directed the government and local authorities to conduct campaigns through various mediums
+such as television, radio, print, and digital platforms, while also leveraging educational institutions, workplaces, and other public spaces.
+SC’s Observations on Incompatibility of Rule 15 with the RPwD Act, 2016
+Contrast Between the Discretionary tone of Rule 15 and the mandatory Language of Key Sections of the RPwD Act
+The Court’s reasoning was on the
+contrast between the discretionary tone of Rule 15 and the mandatory language of key sections of the RPwD Act
+(Sections 40, 44, 45, 46, and 89).
+Rule 15 served as the statutory basis for accessibility guidelines issued by various ministries
+, such as the Ministry of Housing and Urban Affairs' barrier-free environment guidelines and the Ministry of Road Transport and Highways' bus body code.
+However,
+the discretionary implementation of these guidelines undermined the mandatory nature of the Act.
+By invalidating Rule 15, the Court rendered the existing guidelines statutorily ineffective
+, compelling the government to create minimum mandatory
+accessibility standards within three months.
+Accessibility and Reasonable Accommodation: Complementary Concepts
+Court delved into the nuanced distinction between accessibility and reasonable accommodation,
+concepts rooted in the principles of substantive equality enshrined in the Constitution and international law.
+Accessibility, as a right, focuses on establishing standardised environments from the outset,
+ensuring equal participation for all.
+Conversely,
+reasonable accommodation addresses specific challenges faced by individuals in specific contexts,
+offering tailored solutions. These concepts are interdependent.
+While accessibility lays the groundwork for inclusivity through universal design,
+reasonable accommodation bridges the gaps for those who encounter barriers despite these standards.
+A Detailed Perspective of SC Observations on Evolving Thresholds for Accessibility
+Phased Realization of Accessibility
+Accessibility is a goal that can rarely be achieved instantaneously.
+Many jurisdictions around the world, including India, adopt a phased approach
+to implementing accessibility standards, balancing the immediacy of need with practical limitations such as resources and infrastructure.
+The Court noted that while the current guidelines aspire to establish comprehensive accessibility over time, they fail to define enforceable baseline
+s for immediate implementation.
+his oversight often leaves persons with disabilities without essential accommodations
+in the present while waiting for distant reforms.
+Canada’s model of phased accessibility was highlighted
+as an example.
+Canada aims to achieve full accessibility by 2040, with periodic reviews every five years to assess progress and adapt to emerging challenges.
+Sliding Scale for Minimum Standards
+sliding-scale model suggested by the Court
+involves establishing a baseline of minimum accessibility standards and gradually raising this threshold at periodic intervals.
+This
+model ensures that initial efforts focus on addressing the most pressing needs
+, such as physical access to public buildings, reliable transportation for persons with disabilities, and essential digital accessibility tools.
+Over time, these minimum standards can be expanded to include more nuanced and advanced accessibility measures
+, such as integrating AI and Internet of Things (IoT) technologies into accessibility solutions.
+Harmonising Long-Term Goals with Immediate Needs
+Court’s emphasis on setting enforceable minimum standards does not undermine the importance of long-term goals.
+Instead,
+it underscores the need to harmonise these objectives
+. While striving for universal accessibility, immediate interventions must prioritise sectors and spaces where the absence of accessibility has the most significant impact on daily life.
+For instance,
+ensuring barrier-free access to healthcare facilities, educational institutions, and public transportation can provide immediate relief
+while laying the groundwork for broader accessibility reforms.
+Structural and Procedural Reforms Towards a Truly Inclusive Framework
+Social Audits and Accountability
+Section 48 of the RPwD Act mandates regular social audits
+to assess the impact of general schemes and programs on persons with disabilities.
+Social audits play a crucial role in identifying bottlenecks, adapting to changing needs, and enhancing service delivery.
+the lack of standardized guidelines for conducting such audits has led to inconsistencies,
+insufficient training for auditors, and limited awareness.
+Clear, comprehensive guidelines are essential to operationalise social audits effectively
+and ensure targeted interventions.
+Simplifying Accessibility Rules
+bureaucratic complexity of earlier accessibility guidelines hindered effective implementation.
+Conflicting mandates from various ministries,
+such as those governing sporting complexes, not only increased compliance costs but also
+delayed redressal for persons with disabilities.
+The new guidelines must be clear, direct, and practical
+to address these issues.
+A nodal authority, such as the Ministry of Social Justice and Empowerment, should oversee the coordination and adjudication of accessibility rules
+, streamlining the process across sectors.
+Broadening the Scope of Accessibility
+RPwD Act’s definition of barriers extends beyond physical infrastructure to include intangible challenges
+such as societal attitudes and prejudices.
+This broad definition has reshaped the understanding of accessibility, emphasising the need for both
+changes
+, like ramps and accessible transport, and
+ones, such as attitudinal shifts through awareness campaigns and education.
+The evolving nature of disability itself further complicates accessibility thresholds
+Disability is increasingly understood not as an inherent limitation of an individual but as a mismatch between the individual’s abilities and their environment.
+Digital Accessibility in a Changing World
+The rapid development of digital technologies presents new opportunities and challenges
+for accessibility.
+Tools like AI, IoT, and assistive technologies
+have the potential to
+revolutionise how persons with disabilities interact with their environment.
+these advancements also require constant updates to accessibility standards.
+For example,
+websites and mobile applications must be designed to meet evolving Web Content Accessibility Guidelines (WCAG
+) to ensure usability for persons with visual or cognitive impairments.
+India’s approach to digital accessibility must align with global best practices
+while considering the unique challenges faced by its diverse population.
+Conclusion
+Supreme Court’s directive to draft new accessibility guidelines by February underscores the urgency of reform.
+The participation of diverse sectors,
+including finance, technology, and transport, is
+critical to developing inclusive standards that go beyond social services.
+aligns with both the legislative mandate of the RPwD Act and the market incentive
+to cater to a broader population base.
+A principle-based framework, periodic reviews,
+and effective social audits
+will ensure the accessibility ecosystem remains dynamic and inclusive.
+Click to View More
+Editorial Analysis
+**********18th Pravasi Bharatiya Divas
+Why in news?
+Prime Minister Narendra Modi inaugurated the 18th Pravasi Bharatiya Divas convention. This significant event, celebrated once every two years, honoured the contributions of the Indian diaspora to their homeland.
+The
+theme
+for this year was the “
+Diaspora’s contribution to a Viksit Bharat
+”.
+What’s in today’s article?
+What is Pravasi Bharatiya Diwas?
+Indian Diaspora: Key Statistics and Influence
+How does the government categorise overseas Indians?
+Key highlights of the 18th Pravasi Bharatiya Divas
+Prime Minister Modi’s Message at the 18th Pravasi Bharatiya Divas Convention
+What is Pravasi Bharatiya Diwas (PBD)?
+About
+It is observed on January 9 to strengthen the engagement of the Indian community overseas with the India government and reconnect them with their roots.
+January 9 was chosen as the day to celebrate PBD as it was
+on this day, in 1915, that Mahatma Gandhi had returned to India from South Africa
+It also marks the contribution of the Indians living abroad in the development of the land of their ancestors.
+PBD conventions were being held every year since 2003.
+Since 2015, its format has been revised. PBD is now celebrated once in every two years
+Background
+A High-Level Committee on Indian Diaspora, headed by
+LM Singhvi
+, had recommended in January 2002 that the government must renew and strengthen linkages of overseas Indians to their place of origin, and with each other.
+The decision to celebrate PBD was taken by the former Indian Prime Minister, late Shri Atal Bihari Vajpayee in 2003.
+The 1st PBD was celebrated on 9th January, 2003 in New Delhi
+It is organized by the Ministry of External Affairs, Government of India, in partnership with the Confederation of Indian Industry (CII) and other stakeholders.
+Pravasi Bharatiya Samman Award
+During the Convention, Pravasi Bharatiya Samman Award (PBSA) is conferred on the selected overseas Indians.
+This award is given for the significant contributions by overseas Indians to various fields both in India and abroad.
+It is the highest honour conferred on a Non-Resident Indian, Person of Indian Origin; or an organisation or institution established and run by Non-Resident Indians or Persons of Indian Origin.
+PBSA is conferred by the President of India
+Population
+USA
+: 54 lakh
+UAE
+: 35 lakh
+Canada
+: 28 lakh
+Saudi Arabia
+: 24 lakh
+Economic Contribution
+: The diaspora remitted
+$125 billion
+to India in 2023.
+Political and Diplomatic Influence
+Indian diaspora plays a crucial role in strengthening bilateral ties.
+Members are increasingly active in politics in countries like the US and Canada.
+"Howdy Modi"
+event in Texas (2019) showcased the influence of the diaspora, with PM Modi and then US President Donald Trump addressing one of the largest gatherings of Overseas Indians.
+Overseas Indians are classified into the following categories:
+Non-Resident Indians (NRIs) -
+Indian citizens residing in foreign countries.
+Overseas Citizens of India (OCI) -
+Foreign nationals of Indian origin registered under Section 7A of the Citizenship Act, 1955. Eligibility criteria include:
+Eligible to be Indian citizens on January 26, 1950, or were Indian citizens after this date.
+Belonged to territories that became part of India after August 15, 1947.
+Minor children of eligible individuals, except those from Pakistan or Bangladesh.
+Persons of Indian Origin (PIO)
+category was abolished in 2015 and merged with the OCI category.
+According to the Ministry of External Affairs, more than
+5 crore Overseas Indians (that is, Non-Resident Indians or NRIs and Persons of Indian Origin or PIOs) are based abroad
+Chief guest
+Christine Carla Kangaloo, President of the Republic of Trinidad & Tobago, virtually addressed the convention.
+Pravasi Bharatiya Samman Awards (PBSA) 2025
+Global Representation
+: 27 individuals and organisations from
+24 countries
+, including Malawi, Fiji, Spain, Romania, the US, and the UK.
+Notable Awardees
+Lekh Raj Juneja (Japan)
+: Awarded in the
+‘Science & Technology’
+Former pharma CEO in Japan; now heads a snack company.
+Robert Masih Nahar (Spain)
+: Honoured in the
+‘Community Service’
+First person of Indian origin in the Spanish Senate (2017). Promoted cricket in Catalonia, earning the title
+“godfather of local cricket”
+Syed Anwar Khursheed (Saudi Arabia)
+: Recognised in the
+‘Medical Services’
+Royal protocol physician for the Saudi royal family.
+Call for Global Peace: From Yuddha to Buddha
+PM Modi emphasized that the future lies in peace, symbolized by Lord Buddha, not in war.
+Cited Emperor Ashoka’s transformation at
+Dhauli in Odisha
+as an inspiration for India’s advocacy for peace.
+India’s Expanding Global Role
+Highlighted India’s achievements and its growing influence on the global stage.
+India represents the
+Global South
+and advocates initiatives like making the African Union a permanent G20 member.
+Stressed the principle of
+‘humanity first’
+in India’s international engagements.
+Spotlight on Historical Diaspora Journeys
+Example of
+Mandvi to Muscat
+: Exhibition on Gujaratis who migrated to Oman 250 years ago.
+Proposed creating a
+database on Girmitiyas
+(indentured laborers) to study their migration, challenges, and achievements.
+Suggested research, studies, and regular conferences to explore their legacy.
+Vision for a Developed India by 2047
+Acknowledged the contributions of the Indian diaspora toward making India a developed nation by its 100th year of independence.
+Encouraged collaborative efforts to celebrate and protect the diaspora’s role in India’s progress.
+18th Pravasi Bharatiya Divas.pdf
+( Size:  2.5 MB  )
+Click to View More
+Polity & Governance
+**********PM unveils genome data of 10K Indians
+Why in news?
+Prime Minister Narendra Modi announced the completion of the
+Genome India Project
+, describing it as a significant achievement in India's biotechnology revolution.
+In a video message addressed to the Genomics Data Conclave, hosted by the Department of Biotechnology, PM Modi also unveiled the sequencing database of 10,000 Indians. The sequencing data will now be accessible to researchers through the
+Indian Biological Data Centre (IBDC)
+What’s in today’s article?
+What is Genome sequencing?
+What is Genome India Project?
+How does studying the genetic makeup of the country help?
+Genome data of 10k Indians available for research
+What is genome sequencing?
+Human genome
+The human genome is the entire set of deoxyribonucleic acid (DNA)residing in the nucleus of every cell of each human body.
+It carries the complete genetic information responsible for the development and functioning of the organism.
+The DNA consists of a double-stranded molecule built up by four bases – adenine (A), cytosine (C), guanine (G) and thymine (T).
+Every base on one strand pairs with a complementary base on the other strand (A with T and C with G).
+In all, the genome is made up of approximately 3.05 billion such base pairs.
+While the sequence or order of base pairs is identical in all humans, there are differences in the genome of every human being that makes them unique.
+The process of deciphering the order of base pairs, to decode the genetic fingerprint of a human is called genome sequencing.
+In other words, Genome sequencing is the process of determining the complete DNA sequence of an organism's genome.
+There are several methods of genome sequencing, but the most common is called next-generation sequencing (NGS).
+NGS allows for rapid, accurate, and cost-effective sequencing of large amounts of DNA.
+Human Genome Project (HGP)
+In 1990, a group of scientists began to work on
+determining the whole sequence of the human genome
+under the Human Genome Project.
+The project released the latest version of the complete human genome in 2023, with a 0.3% error margin.
+The process of whole-genome sequencing, made possible by the Human Genome Project, now facilitates the
+reading of a person’s individual genome to identify differences from the average human genome
+These differences or mutations can tell us about each human’s susceptibility or future vulnerability to a disease, their reaction or sensitivity to a particular stimulus, and so on.
+What is Genome India project?
+About
+Approved in 2020, the Genome India Project aims to create a comprehensive catalogue of genetic variations within the Indian population.
+Sanctioned by the
+, project aims to sequence the genomes of over 10,000 Indians from different regions of the country and establish a reference genome for the Indian population.
+Significance
+To learn about genetic variants unique to the Indian population
+This project allows researchers to learn about
+genetic variants unique to India’s population groups and use that to customise drugs and therapies
+This will help unravel the genetic underpinnings of chronic diseases currently on the rise in India, for example, diabetes, hypertension, cardiovascular diseases, neurodegenerative disorders, and cancer.
+Database for 1.4 billion population
+India’s 1.4 billion-strong population consists of over 4,600 population groups, many of which are endogamous.
+This has preserved unique genetic traits within communities. This, in turn, can help compare and contrast the impact of genetic variations on physical health.
+Understanding Genetic Risk Factors for Diseases
+Studying India's genetic makeup can help identify genetic risk factors for diseases. For instance:
+MYBPC3 mutation
+, linked to cardiac arrest at a young age, is found in
+4.5% of the Indian population
+but is rare globally.
+LAMB3 mutation
+, causing a lethal skin condition, affects
+nearly 4% of the population near Madurai
+and is absent in global databases.
+Advancing Targeted Treatments
+An Indian genome database can aid in the development of targeted therapies, particularly for rare genetic diseases. Examples include:
+mRNA vaccines for pancreatic cancer
+, developed based on specific genetic mutations.
+New therapies to treat genetic diseases unique to Indian populations.
+Enhancing Drug Efficacy and Safety
+Genetic studies can identify resistance-indicating variants, ensuring safer and more effective treatments.
+Certain
+Vaishya community members in South India
+lack a gene for processing common anaesthetics, leading to potentially fatal outcomes if these drugs are used.
+About the news
+The Genome India Project has sequenced the genomes of
+10,000 Indians from 99 distinct populations
+, producing
+8 petabytes of data
+stored at the Indian Biological Data Centre.
+Access and Security of the Data
+A framework for sharing this highly sensitive dataset was released by the Department of Biotechnology:
+Managed Access
+: Data will only be available to research institutes partnering with the department. Researchers must submit proposals and collaborate to access the database.
+Anonymisation
+: Genetic data is encoded at multiple stages to ensure privacy and prevent breaches of anonymity.
+Future Impact
+The project will facilitate personalized medicine development, ensure treatments are tailored to India’s genetic diversity, and strengthen the biotechnology and biopharma sectors.
+PM unveils genome data of 10K Indians.pdf
+( Size:  2.5 MB  )
+Click to View More
+Science & Tech
+**********Decoding India’s Growth Slowdown: Key Insights and Recommendations
+What’s in Today’s Article?
+Current Growth Scenario (Decline, Discrepancies, Challenges, Sectoral Analysis, Fiscal Strains, Policy Recommendations, etc.)
+Current Growth Scenario:
+Decline in Growth Rate
+The National Statistics Office (NSO) has estimated India’s real GDP growth rate at
+6.4% for 2024-25
+, down from
+8.2% in 2023-24
+This figure is below the
+6.5-7% projection
+made in the Economic Survey 2023-24 and lower than the
+10.5% nominal GDP growth estimate
+in the Union Budget.
+Data Discrepancies
+Economists and institutions like the
+IMF
+have raised concerns over the use of the
+Wholesale Price Index (WPI)
+as a deflator in GDP estimates.
+Significant divergence between
+WPI and Consumer Price Index (CPI)
+rates has led to inconsistencies in nominal and real GDP calculations.
+Challenges in Private Investment:
+Sluggish Corporate Investments
+Despite corporate tax cuts in 2019, private investments in key sectors like machinery and intellectual property remain weak.
+The majority of private investments are skewed towards "dwellings, other buildings, and structures," reflecting an unhealthy mix.
+Comparison with the growth during 2004-2014
+During 2004-2014,
+real private investment grew at 10% annually
+, outpacing public investment (9%).
+During 2014-present, private investment growth slowed to
+6.3%
+, slightly below public investment growth (6.6%).
+Post-Pandemic Recovery
+While private investment rebounded in 2021-22 due to a base effect, sustained structural changes in private sector behaviour have been elusive.
+Sectoral Analysis:
+Divergent Performance
+Manufacturing
+: Showed double-digit growth in early 2023-24 but has since slowed down.
+Mining, Power, and Construction
+: Experiencing significant slowdowns.
+Services
+: Sectors like retail trade, transport, finance, and real estate show deceleration.
+Public Administration and Defence
+: The only sector projected to grow faster in 2024-25, underscoring the role of public spending.
+Fiscal Strains:
+Revenue Shortfalls
+As of November 2024, only
+56% of net tax revenue targets
+for 2024-25 have been achieved, while
+non-tax revenues
+reached 78% due to a surplus transfer from the RBI.
+Impact on Expenditure
+By November 2024, less than half of the
+₹11.11 trillion capex target
+had been spent, disrupting public investment plans.
+Fiscal Consolidation Dilemma
+Adhering to fiscal discipline may reduce public spending, further aggravating the slowdown.
+However, abandoning fiscal consolidation risks worsening public debt and interest burdens.
+Policy Recommendations:
+Revenue Mobilization
+Rework taxation policies to increase taxes on
+wealth and profits
+, enabling higher public spending on infrastructure and welfare programs.
+Encourage Private Investment
+Strengthen incentives for private sector investments in productive assets, particularly in manufacturing and intellectual property.
+Enhance Public Spending
+Focus on capital expenditure in sectors like infrastructure and renewable energy to stimulate economic growth.
+Data and Statistical Reforms
+Replace the WPI-based deflator with the
+Producer Price Index (PPI)
+for more accurate GDP estimates.
+Ensure regular updates to GDP methodologies to reflect real-time economic changes.
+Long-Term Considerations:
+Structural Reforms
+Introduce policies to improve ease of doing business and reduce bureaucratic delays in project approvals.
+Enhance credit access for small and medium enterprises (SMEs) to stimulate broad-based economic growth.
+Global Integration
+Boost exports through trade agreements and incentivize manufacturing under programs like
+PLI (Production Linked Incentive)
+Focus on Consumption
+Strengthen rural demand through direct income support and employment generation schemes like MGNREGA.
+Conclusion:
+India’s economic growth faces challenges from inconsistent private investments, sectoral slowdowns, and fiscal pressures.
+To overcome these hurdles, a balanced approach combining enhanced revenue mobilization, targeted public spending, and robust private sector incentives is essential.
+Addressing statistical discrepancies and adopting long-term structural reforms can pave the way for sustainable economic growth.
+Decoding India’s growth slowdown.pdf
+( Size:  745.9 KB  )
+Click to View More
+Economics
+**********Government Revise Gold Import Data Amid Discrepancies in Trade Figures
+Why in News?
+The Ministry of Commerce and Industry recently revised gold import figures for November 2024, reducing the reported value by $5 billion.
+The correction
+narrowed the trade deficit
+and highlighted challenges in data accuracy, raising concerns about the reliability of India’s trade statistics.
+What’s in Today’s Article?
+Error in Gold Import Reporting
+Technical Transition and Challenges
+Broader Implications
+Gold Import Trends and Significance of Revised Data
+Conclusion
+Error in Gold Import Reporting:
+Cause of error:
+The overestimation occurred due to a data migration issue from SEZ Online to Indian Customs Electronic Gateway (ICEGATE).
+Double counting of imports into Special Economic Zones (SEZs) and clearances to Domestic Tariff Areas (DTAs).
+Revised data:
+Gold imports for November were corrected from $14.8 billion to $9.9 billion.
+The trade deficit for November decreased from $38 billion to $33 billion.
+Technical Transition and Challenges:
+Migration to ICEGATE:
+Implemented to streamline EXIM declarations for ease of business.
+SEZ Online and ICEGATE initially transmitted data separately, leading to discrepancies.
+Persistent issues:
+Technical glitches continue, with both platforms capturing mutually exclusive data.
+Revision and reconciliation are ongoing to ensure data accuracy.
+Broader Implications:
+Credibility concerns:
+Think tank Global Trade Research Initiative (GTRI) noted that frequent revisions harm the credibility of economic statistics.
+Lack of clear explanations creates uncertainty for investors and policymakers.
+Potential for broader discrepancies:
+Concerns raised about similar errors in other commodities or time periods.
+Government urged to proactively review trade data for accuracy.
+Gold Import Trends and Significance of Revised Data:
+India’s gold imports:
+India, the world’s second-largest gold consumer, relies on imports to meet demand.
+Key gold suppliers include
+African nations,
+Peru, Switzerland, and the UAE
+Import behavior:
+India’s gold demand is driven by festive and wedding seasons, with a recent surge in buying.
+Central banks globally increased gold purchases, contributing to higher demand.
+Policy impact:
+Import duty reductions in July shifted gold imports from the grey market to official channels.
+Gold jewellery exports are projected to surpass $12 billion in 2025.
+Market stability:
+Revised data eased concerns about potential import duty hikes. No unusual surge in gold demand was detected post-revision.
+Conclusion:
+The revision of gold import data highlights the need for robust data management systems and transparency in reporting.
+Ensuring accurate trade statistics is vital to maintaining investor confidence and economic stability.
+Proactive measures to address potential discrepancies and enhance reliability are essential for fostering trust in official statistics.
+newspaper.pdf
+( Size:  3.2 MB  )
+Click to View More
+Economics
+**********Tirupati stampede: Why stampedes take place, how to mitigate risks
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Challenges in crowd management;
+Why in the News?
+Recently six people lost their lives in a stampede in Tirupati while waiting to collect tokens for Lord Venkateswara’s darshan.
+Why do stampedes take place?
+Stampedes are chaotic and uncontrolled movements of large crowds, often triggered by panic or an urgent rush to move in a confined or crowded space.
+Venues that exceed their safe capacity can lead to dangerously crowded conditions. When too many people gather in a confined space, the risk of a stampede increases significantly.
+Inadequate planning and lack of effective crowd control measures, such as clear exits and designated waiting areas, can exacerbate the situation. Poor organisation often leads to confusion and panic among attendees.
+Narrow pathways, obstacles, and poorly designed event spaces can create bottlenecks during emergencies. These barriers make it difficult for people to move freely and can trap crowds, increasing the risk of crush injuries.
+How does human psychology lead to stampedes?
+Panic Response:
+Panic can spread rapidly through crowds, causing individuals to act irrationally. When one person begins to push forward out of fear or urgency, it creates a domino effect where others follow without understanding the situation.
+External Triggers:
+Events such as loud noises, sudden movements, or perceived threats (like a fire or an emergency) can trigger panic responses in crowds, leading to stampedes.
+Psychological Factors:
+Theories of collective behaviour suggest that in large groups, individuals may act against their own interests when panic sets in.
+For instance, the desire to escape a perceived danger can override cooperative behaviour, leading to chaotic pushing and shoving.
+How does the physical organisation of spaces contribute to stampedes?
+Narrow Exits and Blocked Pathways:
+Limited exits and narrow pathways can create bottlenecks during emergencies, making it difficult for individuals to evacuate quickly.
+When a crowd is forced to funnel through a small area which leads to panic and chaos, increasing the likelihood of a stampede as people rush to escape.
+Poorly Designed Crowd Flow:
+Spaces that do not effectively manage crowd flow can exacerbate congestion.
+Suppose different groups of people converge at the same point without clear guidance or separation that can lead to confusion and a surge of movement, triggering stampede conditions. Effective crowd management strategies are essential to ensure smooth movement.
+Inadequate Lighting and Visibility:
+Insufficient lighting can disorient attendees and hinder their ability to navigate the space safely. In low-light conditions, individuals may struggle to see exits or understand the crowd dynamics, leading to increased panic and disorder during critical moments, which can precipitate a stampede.
+How to better prevent stampedes, or at least, mitigate their risks? (Way forward)
+Effective Crowd Management:
+Limit crowd size through pre-registration, schedule staggered entries, and organise queues with barriers and clear signage. Use real-time monitoring tools like CCTV and AI-based systems to manage crowd density.
+Improved Infrastructure and Emergency Readiness:
+Design venues with wide pathways, multiple exits, and clear evacuation routes. Provide on-site medical facilities and train staff in crowd control, first aid, and emergency response.
+Public Awareness and Technology Use:
+Educate attendees on safety protocols, and use digital tools like online ticketing and mobile alerts to prevent physical queues and guide the crowd calmly during emergencies.
+**********Section 152 of BNS should not become a proxy for sedition
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Contempt to government (Section 152 (BNS);
+Why in the News?
+In the 2024 case of
+Tejender Pal Singh v. State of Rajasthan
+, the Rajasthan High Court warned that Section 152 of the Bharatiya Nyaya Sanhita (BNS) should not be misused to suppress valid criticism or peaceful dissent.
+What are the key differences between Section 152 of the BNS and Section 124A of the IPC?
+Terminology and Scope:
+Section 124A (IPC)
+specifically criminalizes acts that bring hatred or contempt towards the government, termed as sedition. It focuses on inciting disaffection against the government.
+criminalizes acts that endanger the sovereignty, unity, and integrity of India, including inciting rebellion or promoting separatism. While it does not explicitly use the term “sedition,” it covers similar ground with broader language.
+Penalties:
+prescribes a punishment of life imprisonment or a minimum of three years in prison, along with a possible fine.
+Section 152 i
+ncreases the potential penalty to life imprisonment or up to seven years, along with a mandatory fine, making it potentially more stringent.
+Intent Requirement:
+requires proof of intent to incite disaffection.
+lowers this threshold by allowing prosecution if a person “knowingly” shares information that could incite rebellion or separatism, regardless of malicious intent.
+How does Section 152 impact freedom of speech and legitimate dissent?
+Chilling Effect:
+The vagueness of what constitutes an act endangering sovereignty can lead to a chilling effect on free speech. Individuals may self-censor to avoid potential legal repercussions for expressing dissenting opinions or criticism of the government.
+Potential for Abuse:
+The broad language and lack of clear definitions in Section 152 allow for expansive interpretation by enforcement authorities. This can result in legitimate expressions of dissent being criminalized under the guise of national security.
+Judicial Oversight:
+The Rajasthan High Court emphasized that Section 152 should not be used as a tool to suppress dissent but rather as a protective measure for national security. It called for careful application and judicial oversight to ensure that legitimate criticism is not equated with sedition.
+What are the legal and constitutional implications of enforcing Section 152?
+Constitutional Rights:
+Enforcing Section 152 raises concerns regarding violations of Articles 14 (Right to Equality) and 19 (Freedom of Speech) of the Indian Constitution. The vague definitions may lead to arbitrary enforcement, undermining individual rights and freedoms.
+Judicial Precedents:
+The judiciary has historically favoured a consequentialist approach in interpreting laws related to free speech. Previous rulings have established that there must be a direct causal link between speech and its impact for it to constitute an offence. This precedent should guide the interpretation and enforcement of Section 152.
+Need for Guidelines:
+There is an urgent need for the Supreme Court to establish clear guidelines regarding the application of Section 152, similar to those created in past cases. This would help delineate acceptable boundaries for criticism while protecting national interests without infringing on civil liberties.
+Way forward:
+Establish Clear Guidelines:
+The Supreme Court should set precise guidelines for applying Section 152 to ensure a balance between protecting national security and safeguarding freedom of speech, as done in past landmark cases.
+Promote Judicial Oversight:
+Enforcement authorities should be required to demonstrate a direct and significant link between the speech and its impact, with courts actively monitoring cases to prevent misuse of the law against legitimate dissent.
+Mains PYQ:
+What do understand by the concept “freedom of speech and expression”? Does it cover hate speech also? Why do films in India stand on a slightly different plane from other forms of expression? Discuss.
+(UPSC IAS/2014)
+**********Is India open to the idea of dual citizenship?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Citizenship;
+Why in the News?
+Recently, External Affairs Minister S. Jaishankar said that there are many challenges in giving dual citizenship to Indians living abroad. He mentioned that the Overseas Citizenship of India program is a step towards addressing this need and added that the discussion about dual citizenship is still ongoing.
+What are the arguments for and against dual citizenship in India?
+Arguments Against Dual Citizenship:
+Divided Loyalties:
+Critics argue that dual citizenship would lead to divided loyalties, undermining national integrity. Political rights granted to dual citizens could create conflicts of allegiance between India and another country, which is seen as dangerous for India’s sovereignty.
+Legal Restrictions:
+The Indian Constitution mandates that acquiring citizenship in another country results in the automatic loss of Indian citizenship. This legal framework does not support dual citizenship, making it a complex issue to address.
+Historical Context:
+The Citizenship Amendment Act of 2019 reflects a cautious approach to citizenship rights, emphasizing the need for complete loyalty to India and limiting the scope of citizenship to those who relinquish foreign nationality.
+Arguments For Dual Citizenship:
+Global Integration:
+Proponents believe that allowing dual citizenship could strengthen ties between India and its diaspora, fostering economic and cultural exchanges in an increasingly globalized world.
+Economic Contributions:
+There is a belief that dual citizenship could attract foreign investment and encourage Indian expatriates to contribute more significantly to India’s economy without the fear of losing their original nationality.
+How does India’s stance on dual citizenship compare with other democracies?
+India’s Position on Dual Citizenship:
+According to Article 9 of the Indian Constitution, any Indian citizen who voluntarily acquires citizenship of another country ceases to be an Indian citizen. This is reinforced by the Citizenship Act of 1955, which outlines that Indian citizenship is singular and does not accommodate dual nationality.
+Comparison with Other Democracies
+United States:
+The U.S. has no restrictions on dual citizenship. Citizens can hold multiple nationalities without losing their U.S. citizenship. This reflects a more permissive approach towards allegiance and nationality.
+Canada:
+Canada also allows dual citizenship and recognizes the right of its citizens to hold multiple nationalities. This policy facilitates a diverse and multicultural society.
+Australia:
+Similar to Canada, Australia permits dual nationality and extends full consular assistance to its citizens regardless of their other nationalities.
+Germany:
+Germany has specific regulations regarding dual citizenship, generally requiring individuals to choose one nationality unless they are EU citizens or meet certain conditions. This reflects a more nuanced approach than India’s outright prohibition.
+What are the current legal frameworks?
+Overseas Citizenship of India (OCI):
+Introduced in 2005, OCI allows persons of Indian origin from certain countries to reside in India without a visa and grants them some rights akin to those of Non-Resident Indians (NRIs). However, OCIs do not have voting rights or the ability to hold constitutional offices.
+Eligibility:
+The OCI scheme is available primarily to individuals who were citizens of India or eligible for Indian citizenship at the time of the Constitution’s commencement, excluding those from Pakistan and Bangladesh. It is contingent upon the individual’s home country allowing some form of dual citizenship.
+What are the challenges?
+Political Loyalty Concerns:
+There is a prevalent fear that granting dual citizenship would lead to divided loyalties among citizens, particularly regarding political rights.
+Public Sentiment and Political Will:
+There is significant public resistance against dual citizenship due to concerns about national security and sovereignty.
+Complexity of Implementation:
+Implementing a dual citizenship framework would require substantial legal changes and could complicate India’s existing immigration and nationality laws. The challenge lies in balancing the interests of the diaspora with the need to maintain a cohesive national identity.
+Way forward:
+Gradual Legal Reforms:
+India could consider a phased approach to dual citizenship by first allowing it for specific categories such as diaspora members who maintain close economic or cultural ties with India, while ensuring that political rights remain exclusive to Indian citizens only.
+Enhanced OCI Benefits:
+India could expand the rights of Overseas Citizens of India (OCI) holders, granting them more privileges such as the right to vote or hold certain offices, without granting full dual citizenship.
+Mains PYQ:
+‘Indian diaspora has a decisive role to play in the politics and economy of America and European Countries’. Comment with examples.
+(UPSC IAS/2020)
+**********WEF released Future of Jobs Report, 2025
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Future of Jobs Report, 2025; Other reports by WEF
+Why in the News?
+According to the
+World Economic Forum
+’s (WEF) Future of Jobs Report 2025
+, global macro trends, including technological advancements, demographic shifts, and the green transition, will create
+170 million new jobs
+by 2030.
+About the Future of Jobs Report, 2025
+It is based on insights gathered from over
+1,000 leading global companies
+, collectively representing
+14 million workers
+across
+22 industry sectors
+55 economies
+worldwide.
+It provides critical insights into
+emerging and declining job roles
+skills trends
+, and the overall impact of global changes on the labour market.
+What are the key findings of the report?
+The report projects
+globally by 2030, with a net increase of
+78 million jobs
+after accounting for
+92 million displaced roles
+Fast-growing roles include
+AI and machine learning specialists
+big data experts
+FinTech engineers
+farmworkers
+, driven by
+Clerical jobs like
+data entry clerks
+cashiers
+are declining due to
+automation
+Employers anticipate
+39% of skills
+will change by 2030, with growing demand for
+AI proficiency, creative thinking, and resilience
+Businesses are focusing on
+reskilling
+85% investing in upskilling programs
+Collaboration among governments, academia, and industries is vital to bridge the
+skills gap
+and align with future job demands.
+About World Economic Forum (WEF):
+The WEF is an
+international NGO
+for Public-Private Cooperation.
+It was
+established in January 1971
+by German engineer and economist
+Klaus Schwab
+Important reports published by WEF include
+: Global Competitiveness Report, Global Risks Report, Global Gender Gap Report, Global Social Mobility Report, Energy Transition Index, and Travel & Tourism Competitiveness Report, among others.
+PYQ:
+[2019]
+The Global Competitiveness Report is published by the:
+(a) International Monetary Fund
+(b) United Nations Conference on Trade and Development
+(c) World Economic Forum
+(d) World Bank
+**********The Dam Safety Act of 2021
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Features of the Dam Safety Act, 2021
+Why in the News?
+Supreme Court
+has criticized the Union government for its inaction in fully implementing the
+, nearly five years after its enactment.
+What is the Dam Safety Act of 2021?
+Details
+Enacted to
+ensure the structural and operational safety
+of over 5,700 large dams in India.
+Objectives
+(Section 3):
+• Prevent dam-related disasters by ensuring dam safety.
+• Establish institutions for monitoring, maintenance, and emergency preparedness.
+Structural Mandate
+National Committee on Dam Safety (NCDS)
+(Sections 5–6): Chaired by the Chairperson of the Central Water Commission (CWC) and reconstituted every three years to develop policies, guidelines, and standards.
+National Dam Safety Authority (NDSA)
+(Section 9): Implements NCDS guidelines, regulates dam safety standards, and resolves disputes between State Dam Safety Organizations (SDSOs) and dam owners.
+State Committees on Dam Safety (SCDS)
+(Section 14): Provide state-level oversight.
+(Section 15): Monitor and inspect dams at the state level, reporting to NDSA.
+Other Provisions:
+Responsibilities of Dam Owners
+(Section 38):  Form Dam Safety Units, prepare and implement Emergency Action Plans (EAPs), and conduct regular Comprehensive Safety Evaluations (CSEs).
+Emergency Preparedness
+(Section 39):  Mandatory EAPs for rapid response in emergencies.
+Penalties for Non-Compliance
+(Section 45):  Imprisonment up to two years, fines, or both for failing to comply with Act provisions.
+Why is Dam Safety a priority concern in India?
+Third-Highest Number of Dams Globally:
+India has over
+4,407 large dams
+, following China and the USA.
+Aging Dams:
+By 2025, over
+1,115 dams
+will be more than 50 years old; By 2050,
+4,250 dams
+will surpass 50 years of age, with 64 dams exceeding 150 years.
+Decreasing Storage Capacity:
+Sedimentation reduces reservoir efficiency, affecting water availability for irrigation, drinking, and hydropower. Ex.
+Bhakra Dam
+has experienced
+139.86% higher siltation rates
+than estimated, reducing its lifespan.
+Structural Vulnerabilities:
+Poorly designed sedimentation management systems make many dams structurally weak over time. Extreme environmental events, such as floods, can exacerbate these vulnerabilities.
+Lack of Data and Monitoring:
+Insufficient documentation of storage loss, sedimentation rates, and other critical metrics leads to a lack of preparedness.
+PYQ:
+[2018]
+Suppose the Government of India is thinking of constructing a dam in a mountain valley bound by forests and inhabited by ethnic communities. What rational policy should resort to in dealing with unforeseen contingencies?
+[2019]
+What is common to the places known as Aliyar, Isapur and Kangsabati?
+(a) Recently discovered uranium deposits
+(b) Tropical rain forests
+(c) Underground cave systems
+(d) Water reservoirs
+**********Centre has notified grant of classical language status to Marathi
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Classical Languages, Historical significance of Marathi
+Why in the News?
+Months after conferring
+to Marathi, the Union Government issued an official notification formalizing the recognition.
+What is the Criteria for declaring a Classical language?
+2004 (Tamil Declaration):
+High antiquity of over
+1,000 years
+A significant body of
+ancient literature
+valued by generations.
+An
+original literary tradition
+, not derived from other languages.
+2005 (Sanskrit Declaration):
+1,500–2,000 years
+A substantial body of ancient literature valued across generations.
+Originality in literary traditions, distinct from other linguistic influences.
+The classical form must show
+discontinuity or distinctiveness
+from modern forms.
+2024 (Updated Criteria by Linguistic Experts Committee):
+Literature includes
+knowledge texts, prose, inscriptions
+, and other forms.
+Must demonstrate distinctiveness or discontinuity from current forms.
+Classical languages:
+Tamil (2004), Sanskrit (2005), Telugu (2008), Kannada (2008), Malayalam (2013), Odia (2014); Pali, Prakrit, Assamese, and Bengali (2024) along with Marathi.
+What are the significance of Classical Language?
+Recognizing a classical language preserves its historical roots and unifies cultural heritage.
+It promotes academic research, translation, and scholarly employment opportunities.
+Gaining global awareness broadens its use in technology, academia, and global dialogue.
+Government support and funding ensure sustained preservation, research, and institutional development.
+Historical Significance of Marathi Language
+Marathi’s
+2,000-year history
+meets the antiquity criterion.
+Early mentions of “Marathi” in various forms, such as
+Maharashtri Prakrit
+Jain Maharashtri
+Prakrit Marathi
+, point to its evolution.
+Over
+100 stone inscriptions
+, including those in the
+Naneghat Caves
+(20 BCE), which contain Marathi commands alongside Sanskrit benedictions.
+Literary milestones:
+Works from the
+Yadava period
+(12th–13th century AD) such as:
+Leelacharitra
+: A biography of Chakradhar Swami.
+Dnyaneshwari
+: A commentary on the Bhagavad Gita by Sant Dnyaneshwar.
+Pathare Committee (2013)
+Sahitya Akademi
+supported Marathi’s case.
+A massive
+postcard campaign
+with 500,000 letters sent to the Prime Minister demanding recognition.
+Dnyaneshwar Mulay’s Committee
+addressed administrative hurdles to finalize the proposal in February 2024.
+PYQ:
+[2015]
+Which one of the following was given classical language status recently?
+(a) Odia
+(b) Konkani
+(c) Bhojpuri
+(d) Assamese
+**********Miyawaki Technique
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Ahead of the
+Mahakumbh Mela
+in Uttar Pradesh, the Prayagraj Municipal Corporation has employed the Japanese Miyawaki technique to create dense “oxygen bank” forests, ensuring cleaner air and ecological balance for millions of devotees.
+About Miyawaki Technique
+The Miyawaki technique is a pioneering method for creating
+dense forests
+in limited spaces
+, developed by Japanese botanist
+Akira Miyawaki
+in the 1970s.
+Known as the
+‘pot plantation method’
+, this technique mimics natural forest ecosystems by using native species planted closely together, promoting rapid growth and biodiversity.
+It was developed
+to restore degraded ecosystems
+and barren lands by replicating the processes found in natural forests.
+It is widely used for
+urban afforestation projects
+globally.
+Significant Features:
+Dense Planting:
+Trees and shrubs are planted close together, enabling rapid growth—up to 10 times faster than traditional methods.
+Native Species:
+Focuses on local plant varieties to replicate the natural ecosystem.
+Improved Biodiversity:
+Enhances species richness, supporting more flora and fauna.
+Carbon Absorption:
+Trees absorb more carbon, helping combat urban pollution.
+PYQ:
+[2022]
+The “Miyawaki method” is well known for the:
+(a) Promotion of commercial farming in arid and semi-arid areas
+(b) Development of gardens using genetically modified flora
+(c) Creation of mini forests in urban areas
+(d) Harvesting wind energy on coastal areas and on sea surfaces
+**********

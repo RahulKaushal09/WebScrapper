@@ -1,0 +1,277 @@
+Assam’s Moidams to be considered for World Heritage List
+Why in news?
+Assam's 'Moidams,' the mound burial system of the Ahom dynasty, will be considered for inclusion in the World Heritage Sites list at the 46th session of the World Heritage Committee.
+India will host this session for the first time from July 21 to 31 at Bharat Mandapam in Delhi. Currently, 1,199 properties from 168 countries are on UNESCO's World Heritage list.
+What’s in today’s article?
+The World Heritage Committee
+United Nations Educational, Scientific and Cultural Organization (UNESCO)
+It is a specialised agency of the United Nations (UN), headquartered at the World Heritage Centre in
+Paris, France
+It was founded in 1945 as the successor to the League of Nation's International Committee on Intellectual Cooperation.
+It was established with an aim to promote world peace and security through international cooperation in five key program areas -
+Education; Natural sciences; Social or human sciences; Culture; Communication/information
+UNESCO is
+a member of the United Nations Sustainable Development Group
+Thus, UNESCO's programmes contribute to the achievement of the SDGs defined in the 2030 Agenda, adopted by the UN General Assembly in 2015.
+UNESCO's activities have expanded over the years.
+It aids in the translation and dissemination of world literature, assists in the establishment and protection of
+of cultural and natural importance, works to bridge the global digital divide, etc.
+The World Heritage Committee, consisting of representatives from 21 States Parties elected by their General Assembly of UNESCO, meets once a year.
+The Committee is responsible for implementing the World Heritage Convention, determining the use of the World Heritage Fund, and allocating financial assistance upon requests from States Parties.
+It decides
+whether a property is inscribed on the World Heritage List
+, examines reports on the conservation of inscribed properties, and requests action from States Parties if properties are not properly managed.
+The Committee also decides on the
+addition or removal of properties from the List of World Heritage in Danger.
+These sites have been designated as having “outstanding universal value” under the
+Convention Concerning the Protection of the World Cultural and Natural Heritage 1972
+The convention provides a framework for international cooperation in preserving and protecting cultural treasures and natural areas throughout the world.
+Categorisation of Sites
+– The sites are categorised in three types:
+Cultural heritage sites
+– It includes historic buildings and town sites, important archaeological sites, and works of monumental sculpture or painting
+Natural heritage sites
+– It includes those natural areas that have excellent ecological and evolutionary processes, endangered species etc.
+Mixed heritage sites
+– It contain elements of both natural and cultural significance.
+India has
+42 world heritage sites, including 34 cultural properties, 7 natural properties and 1 mixed site
+India ranks second in the Asia Pacific Region based on the numbers of the world heritage list.
+India has 57 sites on the world heritage tentative list.
+Italy has the maximum world sites at 59 followed by China (57), Germany (52), France (52) and Spain (50).
+The 700-year-old mound-burial system of the Ahom dynasty — the Moidams from Assam — will be considered for nomination on the World Heritage List during the 46th session of the World Heritage Committee (WHC) in New Delhi.
+This is the first nomination from the northeastern state in the cultural category.
+Assam already boasts of two world heritage sites in the natural category - Kaziranga National Park and Manas National Park.
+What are Moidams/Maidams?
+The Moidams (also Maidams) are the mound-burial system of the Ahom dynasty (13th century-19th century).
+The mound-burial system of the royals of the Ahom dynasty in
+Assam’s Charaideo district
+can be likened to the royal tombs of ancient China and the Pyramids of the Egyptians Pharaohs.
+The Ahom rule lasted for about 600 years until the British annexed Assam in 1826.
+, more than 400 km east of Guwahati,
+was the first capital
+of the Ahom dynasty founded by Chao Lung Siu-Ka-Pha in 1253.
+Previously, those of the deceased with their paraphernalia were buried.
+However, after the 18th century, the Ahom rulers adopted the Hindu method of cremation, entombing the cremated bones and ashes in a Moidam at Charaideo.
+The Moidams enshrine the mortal remains of Ahom royalty and are highly venerated.
+Although subject to vandalism by treasure seekers in early 20th CE, the group of Moidams in Choraideo has been systematically restored to safeguard its structural integrity.
+Assam’s Moidams to be considered for World Heritage List.pdf
+( Size:  1005.7 KB  )
+Click to View More
+History & Culture
+**********Global Microsoft outage
+Why in news?
+On July 19, a significant outage in Microsoft's cloud services affected businesses globally, impacting sectors such as airlines, financial services, media, and healthcare.
+The disruption caused widespread IT system failures, with many Windows PC users experiencing the "blue screen of death," a common indicator of a system crash.
+What’s in today’s article?
+Blue screen of death
+Factor responsible for the outage
+Impact in India and steps taken by the govt
+About
+A Windows device may display blue screen errors when the operating system encounters a serious issue, forcing an unexpected shutdown or restart, as per Microsoft.
+The crash screen typically features white text on a blue background, informing users that “Windows has been shut down to prevent damage to your computer.”
+Interestingly, the text for the first Windows blue screen was reportedly written by Microsoft cofounder Steve Ballmer.
+Blue screens are triggered when the operating system calls the KeBugCheck API, acting like a fire alarm that halts the system to prevent damage.
+The KeBugCheck routine brings down the system in a controlled manner when the caller discovers an unrecoverable inconsistency that would corrupt the system if the caller continued to run.
+While no data loss occurs, any unsaved work may be unrecoverable. Various hardware and software issues can lead to blue screen errors.
+How do you get rid of the blue screen of death?
+According to Microsoft, the official resolution process for blue screen errors involves shutting down the system, removing any newly installed hardware, and restarting it.
+If the issue persists, users can try starting the system in Safe Mode, a basic version of Windows.
+If problems continue, Microsoft advises using the Get Help app, typing "Troubleshoot BSOD error," and following the instructions provided.
+Late on July 18, users in the Central US region experienced issues with Microsoft's Azure services and its Microsoft 365 apps, mainly involving service management and connectivity problems.
+By July 19, people worldwide couldn't log into their computers, with Windows machines showing a "blue screen error".
+The aviation industry was the most affected by the outage, causing major disruptions from Europe to Asia to the Americas.
+Notably, the London Stock Exchange was hit by the outage as well.
+Configuration change in part of its Azure backend workloads
+Microsoft reported that the disruption was caused by a configuration change in part of its Azure backend workloads, leading to connectivity failures affecting Microsoft 365 services.
+Azure is Microsoft's cloud computing platform.
+Root cause
+At the heart of the issue was a software update issued by US cybersecurity firm
+CrowdStrike
+for Windows systems, which ended up malfunctioning and caused system downtimes.
+CrowdStrike is a cybersecurity company which produces anti-virus software.
+The issue was specific to Falcon, one of the company’s main software products, which is deeply embedded with the Windows operating system.
+Falcon, an endpoint detection and response (EDR) software.
+It is a complex software, but its basic job is to monitor activity on computers on which it is installed, and constantly scan them for any potential threats such as malware.
+Because many major corporations, including several Fortune 500 companies, use Falcon, the malfunctioning update led to widespread system downtimes.
+Falcon's integration allows it to access detailed system information, such as internet communications, running programs, and opened files, which is why the faulty update significantly impacted Windows PCs worldwide.
+In India, the impact of the outage was most pronounced in the aviation sector.
+Hundreds of flights were delayed, and several cancelled, as airline operators found their systems inoperational, forcing them to switch to manual processes.
+As per the RBI, at least ten banks and NBFCs faced minor disruptions, which have either been resolved or are being resolved.
+Overall, the financial sector in India remained insulated from the global outage since
+critical systems of most banks were not in the cloud
+, and only a few banks are using the CrowdStrike tool.
+Unlike the London Stock Exchange, the BSE was not impacted due to the Microsoft issue.
+Response form the govt
+Union IT Minister said that the Ministry of Electronics and IT (MeitY) was in touch with Microsoft, which in turn was working with impacted entities.
+India’s nodal cyber agency, Indian Computer Emergency Response Team (Cert-In) also issued an advisory regarding workarounds to the issue.
+The govt clarified that the National Informatics Centre’s (NIC’s) operations were not impacted.
+Global Microsoft outage.pdf
+( Size:  2.6 MB  )
+Click to View More
+Science & Tech
+**********SC to Examine Article 361 Granting Immunity to Governors
+Why in News?
+The Supreme Court of India has agreed to examine a plea filed by a woman staff member of the West Bengal Raj Bhawan, who has accused Governor (CV Ananda Bose) of sexual harassment.
+The plea challenges the immunity granted to the governor of a state under
+of the Indian Constitution.
+What’s in Today’s Article?
+What is the Role of a Governor in India?
+What is Article 361 of the Indian Constitution?
+What is the Woman Petitioner Seeking?
+Significance of the SC’s Decision to Examine Immunity Granted under Article 361
+Some important constitutional provisions:
+Everything related to the office of Governor (appointment, powers, etc) have been discussed under
+Part VI (Article 153 to Article 162)
+Article 153:
+There shall be a Governor for each State and the same person can be the Governor for two/more States.
+Article 154
+: The executive power of the State shall be vested in the governor and shall be exercised by him/her in accordance with the Constitution of India.
+Article 155:
+Governor of a State shall be appointed by the
+President
+by warrant under his hand and seal.
+Article 156:
+The Governor shall hold office during the
+pleasure of the President
+, but his normal term of office will be
+five
+Role:
+It is stated that the Governor has a dual role -
+s/he is the constitutional head of state
+(bound by the advice of his/her council of ministers) and
+s/he functions as a vital link
+between the Union and the State govt.
+Functioning of the office over the years:
+The Governor enjoys certain
+discretionary powers
+under the Constitution (
+Article 163
+), such as giving or withholding assent to a Bill passed by the state legislature, etc.
+These powers enable governors to make critical decisions, particularly during times of political or administrative uncertainty.
+However, these discretionary powers have resulted in
+friction with the state government
+as the Governors have been seen by opposition as
+an agent of the Centre
+acting on the behest of the central government.
+Can governors’ powers be reviewed?
+Although these powers are constitutionally granted, they are
+subject to judicial review
+to ensure they are exercised within legal and proper bounds.
+About Article 361:
+It grants the President of India and governors of state immunity from legal proceedings over the duration of their term in office.
+The article is an exception to Article 14
+(right to equality) of the Constitution.
+Description of Article 361:
+Criminal proceedings:
+No criminal cases can be initiated or continued against them, and no arrest or imprisonment orders can be issued by any court.
+Civil proceedings:
+The Article mandates a two-month notice for any civil proceedings related to personal acts.
+No arrest or imprisonment:
+The Article restricts any arrest or imprisonment orders during their term.
+The aim of the Article:
+To ensure that they are
+not answerable to any court
+for the exercise and performance of their official powers and duties, nor for any acts done in the course of these duties.
+Call for immediate investigation:
+An investigation is essential and cannot be deferred until the governor leaves office.
+Hence, the immunity under Article 361 should not bar the investigation, especially given the time-sensitive nature of such probes.
+Framing specific guidelines:
+The plea asks for directions to frame specific guidelines under which governors enjoy immunity from criminal prosecution.
+Questioning absolute immunity:
+The plea contends that the immunity under Article 361
+should not be absolute
+, allowing illegal acts or acts that violate fundamental rights under Part III of the Constitution.
+It argues that this immunity should not impair police powers to investigate the offence or name the perpetrator in a complaint or FIR.
+Significance of the SC’s Decision to Examine Immunity Granted under Article 361:
+It could have significant implications for -
+The interpretation of constitutional protections for high office holders, and
+The accountability mechanisms in place for addressing misconduct.
+newspaper.pdf
+( Size:  280.3 KB  )
+Click to View More
+Polity & Governance
+**********India, Japan Plan Joint Carbon Crediting Mechanism
+Why in the News?
+India and Japan plan to sign a Memorandum of Cooperation for setting up a Joint Crediting Mechanism (JCM) with emission reduction credits being shared.
+What’s in Today’s Article?
+Background (Need for Carbon Credit Mechanism)
+About Carbon Markets (Meaning, Utility, Types, India’s Scene, Legislative Push in India)
+News Summary (Key Highlights of JCM Between India-Japan)
+Background:
+In order to keep global warming within 2°C, ideally no more than 1.5°C, global greenhouse gas (GHG) emissions need to be reduced by 25 to 50% over this decade.
+Nearly 170 countries have submitted their
+nationally determined contributions
+(NDCs) so far as part of the
+2015 Paris Agreement
+, which they have agreed to update every five years.
+NDCs are
+climate commitments by countries setting targets to achieve net-zero emissions
+India, for instance, is working on a long-term roadmap to achieve its target of
+net zero emissions by 2070
+In order to meet their NDCs, one mitigation strategy is becoming popular with several countries i.e.
+carbon markets
+Article 6
+of the Paris Agreement provides for the use of international carbon markets by countries to fulfil their NDCs.
+What are Carbon Markets?
+Carbon markets are essentially a
+tool for putting a price on carbon emissions— they establish trading systems where carbon credits or allowances can be bought and sold
+is a kind of tradable permit that, per United Nations standards,
+equals one tonne of carbon dioxide removed, reduced, or sequestered from the atmosphere
+Carbon allowances or caps, meanwhile, are determined by countries or governments according to their emission reduction targets.
+A United Nations Development Program release this year noted that interest in carbon markets is growing globally, i.e.,
+83% of NDCs submitted by countries mention their intent to make use of international market mechanisms to reduce greenhouse gas emissions
+Two types of Carbon Markets:
+Compliance Market:
+These are
+set up by policies at the national, regional, and/or international level— are officially regulated
+Entities in this sector are issued annual allowances or permits by governments equal to the emissions they can generate.
+If companies produce emissions beyond the capped amount, they have to purchase additional permit, either through official auctions or from companies which kept their emissions below the limit, leaving them with surplus allowances.
+The market price of carbon gets determined by market forces when purchasers and sellers trade in emissions allowances.
+Voluntary Market:
+These are markets in which emitters—
+corporations, private individuals, and others— buy carbon credits to offset the emission of one tonne of CO2 or equivalent greenhouse gases
+Such carbon credits are created by activities which reduce CO2 from the air, such as afforestation.
+In a voluntary market, a corporation looking to compensate for its unavoidable GHG emissions purchases carbon credits from an entity engaged in projects that reduce, remove, capture, or avoid emissions.
+Carbon Market in India:
+In the past, India has made investments in producing carbon credits and exporting them to international enterprises.
+Between 2010 and June 2022, India issued 35.94 million carbon credits or nearly 17% of all voluntary carbon market credits issued globally
+However, the government now intends to forbid its exports, guarantee the expansion of a local domestic market for carbon credits, and increase its internal trade.
+Currently,
+India’s carbon market is a voluntary carbon market where private parties voluntarily exchange certified reductions of GHGs from the atmosphere for carbon credits
+Legislative Push:
+The Parliament passed the
+Energy Conservation (Amendment) Act, 2022
+aimed at putting in place provisions to make the use of clean energy mandatory and paving the way for the setting of carbon markets in the country.
+Through the amendment of the Energy Conservation Act, the Central government aims to
+develop India’s Carbon market and boost the adoption of clean technology
+The Act empowers the central government to specify a
+carbon credit trading scheme
+The central government or any authorized agency may issue carbon credit certificates to entities registered under and compliant with the scheme.
+The entities will be entitled to purchase or sell the certificate.
+Challenges of Domestic Carbon Trading Mechanism:
+The most significant challenge is monitoring carbon credits and maintaining oversight
+Carbon credit projects are often widespread and located in remote areas, making it difficult for the governing body to oversee without relying on potentially biased information from project developers or third-party verification agencies that may not always be trustworthy.
+Another major issue is additionality, which international markets also struggle with
+Ideally, carbon credits should be issued for emission reductions that wouldn't have happened otherwise.
+However, this is hard to determine.
+For instance, if solar power is cheaper than coal in India, should a company switching from coal to solar be awarded carbon credits for emissions avoidance if the switch was motivated by commercial benefits rather than environmental reasons?
+India, Japan Plan Joint Carbon Crediting Mechanism:
+India is looking to enter into a carbon trading and carbon credit adjustment mechanism with Japan.
+The two countries plan to sign a Memorandum of Cooperation for setting up a Joint Crediting Mechanism (JCM) with emission reduction credits being shared
+The JCM will be formed under
+Article 6.2 of the Paris Agreement
+Key Features of the JCM:
+A joint committee will be established to develop rules and guidelines for the JCM, covering project cycle procedures, methodologies, project design documents, monitoring, and designation of third-party entities.
+Decisions on project registration, crediting periods, credit sharing, and issuance will be made with prior confirmation from both the Japanese and Indian governments.
+governments recognize that JCM credits from emission reductions and removals will contribute to the nationally determined contributions (NDCs) of both countries
+, ensuring no double counting occurs.
+Part of the JCM credits can also be authorized for international mitigation purposes.
+The two countries will confirm project registration before the joint committee makes a decision, and they will determine the percentage of credit allocation.
+Additionally,
+Japan will support technology transfer, finance, and capacity building for the JCM
+India, Japan plan carbon trading system under joint crediting mechanism.pdf
+( Size:  2.4 MB  )
+Click to View More
+Environment & Ecology
+**********

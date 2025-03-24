@@ -1,0 +1,1003 @@
+SEBI’s When-Listed Mechanism
+Why in news?
+SEBI plans to launch a “when-listed” platform for trading of shares of companies that have finished their initial public offering (IPO) and are yet to be listed on stock exchanges.
+What’s in today’s article?
+When-Listed Platform
+Benefits of the “When-Listed” Facility for Investors
+Current timeline for listing of shares
+Grey Market Trading in IPOs
+This platform will facilitate trading of shares between IPO allotment and official listing, addressing concerns around unregulated markets.
+Reducing Grey Market Activity
+The grey market involves unofficial, unregulated trading of IPO shares based on demand and supply before listing. It operates in cash with no actual delivery of shares.
+Many retail investors use grey market premiums to evaluate IPO investments.
+Addressing Grey and Kerb Trading
+SEBI aims to eliminate
+grey and kerb trading
+during the T+3 period (time from IPO closure to listing) by introducing a regulated alternative.
+Grey market trading and kerb trading both refer to buying and selling shares outside official stock exchanges.
+This usually happens before a company’s shares are officially listed after an IPO.
+Investors trade these shares at a grey market premium based on demand.
+The term "kerb trading" comes from the idea of trading on the street, highlighting its unofficial nature.
+It emphasized that this platform would formalize trading already happening unofficially, providing a transparent, regulated system.
+Collaboration with Stock Exchanges
+SEBI is working with stock exchanges to implement this platform, aiming to provide investors a safe and formal way to trade shares during the pre-listing period.
+Regulated Trading:
+Investors who have received IPO allotment can sell their entitlement in a regulated market, instead of the unregulated grey market.
+Sebi aims to eliminate the informal grey market trading and allow formal trading through an official platform.
+Reducing Market Volatility:
+The grey market is seen as a source of volatility and distorted market sentiments.
+The new platform will help control market instability by ensuring all trading is monitored by the regulator.
+Protecting Retail Investors:
+Market participants suggest that Sebi should address grey market activity starting from the IPO announcement to safeguard retail investors’ interests.
+Currently, after an IPO bidding closes, shares must be listed on stock exchanges within three working days (T+3). Shares are allotted on T+1 day.
+In the gap between allotment and listing, investors engage in grey market trading.
+Sebi aims to reduce this pre-listing grey market activity.
+How it Works:
+Investors, due to low chances of IPO allotment, often enter the grey market.
+Trading begins once an IPO announcement is made, with brokers focusing solely on the grey market.
+A premium is added above the IPO price band (e.g., Rs 90-100 per share with a premium of Rs 10-30).
+Investors place bids with grey market operators to buy or sell shares.
+Settlement:
+The opening price on the official listing day determines the settlement.
+If the stock opens higher than the grey market price, operators pay the difference.
+If the stock opens lower, investors incur a loss.
+SEBI’s When-Listed Mechanism.pdf
+( Size:  2.0 MB  )
+Click to View More
+Economics
+**********DeepSeek: The AI Disruptor Reshaping the Industry
+Why in news?
+Chinese startup DeepSeek has launched AI models that compete with top U.S. models at a much lower cost.
+In December 2024, the company revealed that training its DeepSeek-V3 model cost less than $6 million using Nvidia H800 chips. DeepSeek’s AI Assistant is now the top-rated free app on Apple’s U.S. App Store, beating ChatGPT.
+This has raised questions about why U.S. tech companies are spending billions on AI. It has also affected the stock prices of big companies like Nvidia.
+What’s in today’s article?
+DeepSeek: A New Chatbot Rival to ChatGPT
+DeepSeek: Causing a stir
+The AI Race: A Strategic Moment for India
+DeepSeek is a free AI-powered chatbot that functions similarly to ChatGPT. It can perform various tasks, though its effectiveness compared to rivals remains debated.
+Performance and Efficiency
+DeepSeek’s R1 model is reportedly as powerful as OpenAI’s o1, excelling in mathematics and coding.
+It is a "reasoning" model that processes responses incrementally, using less memory and reducing operational costs.
+Censorship and Limitations
+Like other Chinese AI models, DeepSeek avoids politically sensitive topics.
+When asked about the Tiananmen Square massacre, it refused to provide details, highlighting Chinese government-imposed censorship.
+Cost-Effective AI Development
+DeepSeek claims to have trained its model for just $6 million, significantly lower than the over $100 million OpenAI spent on GPT-4.
+The company’s founder reportedly stockpiled Nvidia A100 chips—banned from export to China since 2022—pairing them with cheaper chips to develop the AI.
+Security Challenges and Outages
+After becoming the most-downloaded free app on Apple’s U.S. App Store, DeepSeek faced large-scale cyberattacks, forcing temporary registration limits.
+The company also experienced website outages.
+DeepSeek: causing a stir
+DeepSeek Challenges U.S. AI Dominance
+The launch of OpenAI’s ChatGPT in 2022 spurred Chinese tech firms to develop their own AI chatbots.
+However, early models, such as Baidu’s, failed to meet expectations, highlighting a gap between Chinese and U.S. AI capabilities.
+DeepSeek has reversed this perception with high-quality and cost-efficient models.
+DeepSeek’s Cost-Effective Advantage
+DeepSeek’s AI models, DeepSeek-V3 and DeepSeek-R1, have received praise from Silicon Valley executives and engineers.
+The company claims its models match OpenAI and Meta’s best AI systems while being significantly cheaper to use.
+PM Modi's upcoming participation in the AI summit in Paris highlights India’s need to carefully assess the implications of the escalating AI competition between the US and China, especially following the release of DeepSeek R1.
+The DeepSeek-Sputnik Parallel
+DeepSeek R1’s release is being compared to the Soviet Union’s launch of Sputnik in 1957, which shocked the US and spurred an intense space race.
+Similarly, DeepSeek has intensified the technological rivalry between the US and China, setting a new frontier for great power competition.
+US-China AI Rivalry: A Bipolar Landscape
+China, with its large GDP and investments in frontier technologies, is a formidable AI competitor to the US.
+The competition is expected to remain bipolar, leaving other nations, including India, struggling to keep pace. However, how this rivalry unfolds remains uncertain.
+Doing More with Less: Lessons for Middle Powers
+DeepSeek has demonstrated the potential to achieve innovation with limited resources.
+This provides hope for middle powers like India and France, which cannot match US-China spending but can still remain relevant in the AI domain by focusing on strategic innovation and cooperation.
+Sovereign AI and Partnerships
+India and France advocate for “Sovereign AI,” focusing on balancing cooperation with the US and independent AI development.
+A partnership model between the US and its allies, including India, could help compete with China.
+However, India must address US concerns about technology leakage to Russia to strengthen this partnership.
+Cooperation Amid Rivalry
+Historical examples like US-Soviet cooperation in outer space during the Cold War suggest that the US and China could eventually collaborate on global AI governance.
+Such cooperation may focus on preventing AI misuse and controlling its destabilizing effects, much like nuclear deterrence regimes.
+India's Strategic Role in Global AI Governance
+India must avoid past mistakes, such as being sidelined in the global nuclear governance framework, by clearly defining its AI strategy.
+Delhi has the opportunity to shape global AI governance rather than remain a passive participant.
+Conclusion
+The AI race presents both challenges and opportunities for India. By leveraging partnerships, investing in innovation, and ensuring strategic clarity, India can play a pivotal role in the evolving AI landscape.
+DeepSeek - The AI Disruptor Reshaping the Industry.pdf
+( Size:  241.8 KB  )
+Click to View More
+Science & Tech
+**********ASER (Rural) 2024 - A Story of Recovery and Progress in Foundational Learning
+Context:
+The Annual Status of Education Report (ASER) 2024
+is a nationwide rural household survey (facilitated by NGO Pratham) to assess children’s schooling status and their basic reading and arithmetic skills.
+Key findings of the ASER 2024 survey are presented separately for
+three groups of children:
+Pre-primary (age group 3-5), elementary (age group 6-14), and older children (age group 15-16).
+The findings highlight
+a strong recovery from pandemic-induced learning losses
+and point towards the effectiveness of recent educational reforms.
+Key Findings from ASER 2024:
+Enrollment trends:
+The overall school enrollment rate
+among 6-14-year-olds stood at 98.1% in 2024, close to 98.4% in 2022.
+Pre-school enrollment
+among 3-5-year-olds increased, with a sharp rise among 5-year-olds from 58.5% in 2018 to 71.4% in 2024.
+Recovery in reading skills:
+The proportion of
+Class III
+students able to read at a Class II level has fully recovered from the pandemic setback, reaching 27.1% in 2024 (up from 20.5% in 2022).
+For
+Class V
+students, the percentage of children who can read Class II level text has risen to 48.7% in 2024, compared to 42.8% in 2022, approaching the 50.4% level of 2018.
+Progress in arithmetic skills:
+The percentage of
+students able to do basic subtraction rose to 33.7% in 2024, the highest in a decade.
+students who can perform division increased to 30.7% in 2024, surpassing pre-pandemic levels of 27.8% in 2018.
+Digital literacy insights:
+ASER 2024 included a section on digital literacy for the first time, focusing on
+smartphone access, ownership
+, and basic digital skills among 14-16-year-olds.
+More boys (85.5%)
+than girls (79.4%) reported knowing how to use a smartphone.
+Performance of Government Schools:
+Improvements in enrollment trends:
+Government school enrollment, which increased during the pandemic, has
+nearly returned to pre-pandemic levels
+- 66.8% in 2024, compared to 65.6% in 2018 and 72.9% in 2022.
+Improvements in learning outcome:
+In arithmetic
+, government schools witnessed a 36.6% improvement in subtraction skills in Class III, compared to a 10.2% rise in private schools.
+The number of Class III children in government schools who can read a Class II textbook stands at 23.4%, up from 16.3% in 2022 and 20.9% in 2018.
+Factors behind the improvement:
+The National Education Policy (
+NEP
+) 2020’s focus on foundational literacy and numeracy (FLN) appears to have played a crucial role.
+The Union Education Ministry’s
+Nipun Bharat Mission
+has been a key driver of learning initiatives in primary education.
+State-wise Progress:
+Remarkable recovery in low-performing States:
+States like
+UP, Bihar, MP, and Tamil Nadu
+have shown significant learning gains.
+In UP
+, the proportion of Class III government school students reading at Class II level rose from 12.3% in 2018 to 27.9% in 2024.
+saw an increase in Class III reading levels from 12.1% in 2018 to 20.1% in 2024 and arithmetic levels from 18% to 28.2%.
+Improvement in high-performing States:
+Himachal Pradesh, Maharashtra, Uttarakhand, Haryana, and Odisha
+showed a 10-percentage point increase in reading levels from 2022 to 2024.
+Uttarakhand recorded a sharp rise in Class III reading levels from 24.7% in 2018 to 35.6% in 2024.
+Conclusion:
+ASER 2024 highlights not just recovery but
+a transformative shift
+in India's approach to foundational learning.
+The NEP 2020 has provided a common goal for all states, allowing them to adopt unique strategies for FLN improvement.
+The data underscores a nationwide effort to ensure foundational literacy and numeracy among primary school children, marking
+a historic milestone
+in India’s education system.
+Click to View More
+Editorial Analysis
+**********Denotified Tribes Classification: A Step Towards Social Justice
+Why in the News?
+After three years of research, the Anthropological Survey of India (AnSI) and Tribal Research Institutes (TRIs) have for the first time systematically categorized 268 denotified, semi-nomadic, and nomadic tribes across India.
+What’s in Today’s Article?
+Historical Background (About Denotified Tribes, Various Commissions, etc.)
+Key Findings of the Report (Major Highlights, Way Forward, etc.)
+Historical Background and the Need for Classification:
+Denotified tribes
+were once labelled as "criminal" under the
+Criminal Tribes Act of 1924
+, which was repealed in 1949.
+However, since then, various commissions—including the
+Kaka Kalelkar Commission
+(1955), the
+Mandal Commission
+(1980), the
+Renke Commission
+(2008), and the
+Idate Commission
+(2017)—have attempted but failed to fully classify these communities.
+The
+Idate Commission’s 2017 report identified 1,200 denotified, semi-nomadic, and nomadic tribes
+and highlighted 267 unclassified communities.
+This led the Indian government to form a Special Committee under the NITI Aayog in 2019, which assigned AnSI and TRIs the task of ethnographic classification.
+Key Findings of the Study:
+268 communities classified:
+For the first time, these tribes have been systematically documented.
+179 communities recommended for SC/ST/OBC inclusion:
+This inclusion aims to provide reservation benefits.
+63 communities found untraceable:
+These groups may have merged with other communities, changed names, or migrated.
+Political and legal implications:
+The classification has sparked debates on reservations and special status.
+Impact on Reservation and Welfare Policies:
+With this classification, denotified tribes could access government welfare schemes reserved for SCs, STs, and OBCs, including education and employment opportunities.
+However, this move has also raised political concerns.
+There are two competing views within the
+Development and Welfare Board for Denotified, Nomadic, and Semi-Nomadic Communities
+Support for Inclusion in SC/ST/OBC Lists
+Ensures access to education, jobs, and social welfare schemes.
+Provides legal recognition and identity to these communities.
+Demand for a Separate Reservation Category
+Advocates argue that denotified tribes should have their own classification, similar to SCs and STs, rather than being merged into existing categories.
+Some fear that merging them into SC/ST/OBC groups might dilute reservation benefits for other communities.
+Challenges and Concerns:
+Political Controversies:
+Activists in states like Uttar Pradesh, Haryana, Madhya Pradesh, and Gujarat are questioning the basis of classification, fearing it may impact existing reservation structures.
+Delays in Implementation:
+Despite multiple commissions advocating for classification, government action has been slow, delaying welfare benefits.
+Historical Misclassification:
+Earlier census data mistakenly categorized some tribes as castes, creating confusion over their identity and legal status.
+Way Forward:
+The AnSI and TRIs have submitted their final report to the Special Committee under the NITI Aayog.
+Currently, the committee is reviewing recommendations before preparing a final report for the government.
+If the recommendations are accepted:
+State governments will have an easier pathway to include these tribes in reservation lists.
+New welfare policies could be introduced to address socio-economic inequalities faced by these communities.
+The debate on creating a separate category for denotified tribes may gain momentum.
+Conclusion:
+The classification of denotified, semi-nomadic, and nomadic tribes is a crucial step toward rectifying historical injustices and ensuring their access to government welfare schemes.
+However, the implementation process remains complex, with political and legal challenges ahead.
+The government’s final decision on this matter will shape the socio-political landscape of reservation policies in India.
+The impact of classifying denotified tribes.pdf
+( Size:  397.7 KB  )
+Click to View More
+Social Issues
+**********The Budget Pipeline and India’s Foreign Policy Ambitions
+Context
+Every year,
+when the Union Budget is announced, discussions primarily revolve around taxation
+, infrastructure, and defence.
+However,
+the budget allocation for India’s Ministry of External Affairs (MEA) is equally significant,
+as it shapes the country’s foreign policy capabilities and global influence.
+Despite being one of the
+least-funded ministries,
+the MEA plays a crucial role in realising India’s global ambitions.
+While India is committed to expanding its diplomatic and strategic footprint,
+the financial resources allocated to the MEA often fall short of expectations.
+India’s Vision for a ‘Viksit Bharat’ and the Role of Diplomacy
+India's vision of achieving a ‘Viksit Bharat’ (developed India)
+by 2047
+is closely tied to
+developing and maintaining strong global partnerships.
+government has articulated its ambition to emerge as a leader on the world stage
+, particularly in engaging with the Global South and strengthening ties with key regional actors like the Association of Southeast Asian Nations (ASEAN).
+Additionally,
+India has sought to enhance regional connectivity and play a more active role in multilateral groups
+such as the Quad (comprising India, Australia, Japan, and the United States).
+India’s creation of institutions
+like the International Solar Alliance and the Coalition for Disaster Resilient Infrastructure are
+also central to its growing global influence.
+these aspirations necessitate a well-funded and well-equipped Ministry of External Affairs.
+Shortcomings of MEA Budget
+Inadequate Funding for Expanding Diplomatic Initiatives
+India’s foreign policy ambitions are broad, encompassing regional, bilateral, and multilateral engagements.
+the financial resources allocated to the MEA are insufficient to match the scale of India’s diplomatic outreach.
+Despite a 23% increase in the MEA’s budget in 2024-25, this bump still falls short of what is needed
+to effectively execute the country’s ambitious foreign policy goals.
+Given the complex and dynamic nature of global diplomacy,
+the MEA is tasked with managing a broad range of activities,
+including international negotiations, participation in multilateral organisations, and fostering strategic partnerships with key global powers.
+current budget allocation simply does not provide the Ministry with enough financial flexibility
+to pursue these goals comprehensively.
+Understaffing and Overstretching of Resources
+One of the most significant shortcomings of the MEA’s budget is its
+chronic understaffing.
+Indian Foreign Service (IFS)
+, the backbone of India’s diplomatic corps,
+remains significantly understaffed.
+Despite the vital role played by the IFS
+in shaping foreign policy and managing international relations,
+the Ministry has faced delays in expanding the diplomatic corps
+and lacks sufficient lateral entry mechanisms to bring in fresh expertise from outside the traditional diplomatic training.
+The IFS's overburdened diplomats often find themselves stretched thin
+, leading to issues with the quality and timeliness of India’s diplomatic efforts.
+Limited Capacity for Regional Integration and Economic Diplomacy
+Another area in which the MEA’s budget falls short is the
+financing of India’s economic diplomacy and regional integration efforts.
+India’s regional connectivity initiatives, such as the ‘Neighbourhood First’ policy, are critical to maintaining stability
+and creating cooperation in South Asia.
+these initiatives often require substantial financial backing
+to be effective.
+As India faces growing competition from China, which has significantly ramped up its investment in South Asia,
+India needs to counterbalance this influence with stronger diplomatic, economic, and infrastructural support.
+Lack of Funding for Cultural Diplomacy and Soft Power Projection
+India has made significant strides in using cultural diplomacy as a means of strengthening its global influence.
+Initiatives such as the promotion of yoga, Indian art, and academic exchanges
+are key
+components of India’s ‘soft power.’
+the MEA’s budget for cultural diplomacy and foreign missions has been relatively modest,
+with a mere 7% increase in the recent Budget.
+Cultural diplomacy
+requires sustained investment to expand the reach and effectiveness of India’s soft power initiatives.
+Without adequate funding, India risks losing out on the opportunity to strengthen its global image and cultural footprint.
+Regional Connectivity Challenges and the Need for Financial Backing
+regional connectivity is facing numerous challenges, particularly in South Asia.
+political upheaval
+in Bangladesh, Myanmar’s instability, strained relations with Nepal, and the Maldives’ India Out’ campaign have all added layers of complexity to India’s foreign policy.
+However, recent high-level visits, including those by Sri Lanka’s President and Bhutan’s Prime Minister, have provided some hope for sustaining cross-border projects.
+The government’s
+‘Neighbourhood First’ policy requires a robust economic support structure to continue pushing regional connectivity initiatives,
+particularly in the face of increasing Chinese influence in the region.
+India’s financial aid to foreign countries declined by 10% in 2024-25
+, loans to foreign governments saw a sharp increase of 29%.
+Much of India’s foreign aid, particularly through lines of credit (LoCs), is directed towards its neighbourhood
+, with Bangladesh receiving the largest share.
+The Path Forward
+Institutional Capacity Building: A Necessity for Long-term Growth
+Beyond direct financial support,
+there is a pressing need for strengthening the MEA’s institutional capacity.
+While India has made some strides in increasing its training budget, up by 30% in 2024-25,
+overall capacity-building initiatives remain inadequate.
+MEA’s funding for foreign missions, training programs, and cultural diplomacy saw only a modest 7% increase
+in the recent Budget, while critical academic institutions such as Nalanda University and South Asian University experienced significant cuts.
+A more substantial investment in research and academic expertise is essential to develop a deeper understanding of foreign policy
+, based on evidence and analysis, which could, in turn, inform decision-making at the diplomatic level.
+The Need for Declassification and Digitisation of Diplomatic Records
+A critical, yet often overlooked, component of India’s diplomatic strategy is the
+declassification and digitisation of its vast diplomatic archives.
+As External Affairs Minister S. Jaishankar has noted,
+India’s diplomatic efforts have traditionally been led by government officials (Track 1), with scholarly research (Track 2) playing a secondary role.
+the digitisation of India’s diplomatic records would provide greater access to scholars,
+enabling them to map India’s diplomatic history, challenge prevailing myths, and gain a more nuanced understanding of the historical and political contexts that shape India’s foreign policy.
+This initiative could also assist current policymakers in drawing valuable lessons from past successes and failures
+, thereby improving India’s approach to global diplomacy.
+Conclusion
+The Ministry of External Affairs plays a crucial role in advancing India’s foreign policy
+and global ambitions.
+the current budget allocation falls short of what is needed
+to fulfil the country’s strategic objectives.
+To position India as a global leader by 2047,
+the government must prioritise increasing the MEA’s budget,
+especially in areas related to
+regional cooperation, institutional capacity building, and research.
+Click to View More
+Editorial Analysis
+**********The U.S.’s Immigration Blocks as a Self-Defeating Path
+Context
+global competition for skilled talent is reshaping economies and innovation landscapes
+United States
+, historically a hub for technological advancements,
+has long benefited from skilled immigrants who not only fill jobs but create them.
+However,
+restrictive immigration policies, particularly concerning H-1B visas, threaten to undermine this advantage.
+A Closer Examination of the Flawed Logic of H-1B Visa Restrictions
+A Misguided Notion
+At the heart of the H-1B visa debate lies a
+pervasive yet misguided notion: that restricting skilled immigration will create more opportunities for native workers.
+On the surface,
+this argument appears intuitive, but a deeper dive into the data reveals a far more complex and counterproductive reality.
+Policies that limit skilled immigration fail to account for the interconnected nature of global labour markets.
+Also,
+these restrictions impact the dynamics of innovation-driven economies
+, and the tangible contributions of foreign talent to economic growth and job creation in the United States.
+Displacing Jobs, Not Protecting Them
+When H-1B visas are restricted, American companies rarely respond by hiring more U.S. workers;
+instead, they shift their focus to hiring abroad.
+This
+trend is not speculative
+; it is supported by substantial evidence.
+study by Britta Glennon found that when faced with stricter visa policies, U.S. firms accelerate foreign hiring,
+often relocating entire teams and operations to countries with more accessible talent pools, such as India and China.
+For every 10 H-1B visa applications denied, U.S. multinational companies hire an average of eight foreign workers
+in offshore locations.
+These are not simply replacement hires; they represent the relocation of innovation ecosystems, jobs, teams, and expertise, all moving overseas.
+Myths About Wage Suppression
+Another argument against the H-1B program is that it suppresses wages for native workers.
+Critics often claim that companies hire foreign workers to save on labour costs,
+but research debunks this myth.
+According to the American Immigration Council
+, the median wage for H-1B workers in 2021 was more than double that of the general U.S. workforce.
+Furthermore,
+between 2003 and 2021, wages for H-1B workers rose by 52%, compared to a 39% increase for all U.S. workers.
+Giovanni Peri’s research demonstrates that hiring foreign STEM workers increases native wages,
+particularly in technical fields where innovation leads to higher productivity.
+These gains,
+which range from 30% to 50% of aggregate productivity growth,
+underscore the positive economic impact of skilled immigration.
+Economic and Technological Benefits of Skilled Immigration
+Employment Generation
+The contributions of skilled immigrants extend beyond employment figures.
+Research has consistently shown that
+H-1B visa holders stimulate job creation.
+Each H-1B worker, on average, generates 1.83 additional jobs
+for native-born American workers over a seven-year period.
+Additionally,
+immigrant-founded companies in the U.S. tend to attract higher investments and create more jobs
+than those founded by native-born entrepreneurs.
+According to the National Foundation for American Policy,
+more than half of America’s billion-dollar startups were founded by immigrants.
+Innovation Driven Benefits
+The innovation-driven benefits of skilled immigration are undeniable.
+A 10% increase in foreign STEM workers correlates with a 0.5% to 0.6% rise in native wages
+and a 0.3% to 0.7% increase in patents per capita.
+Research by Jennifer Hunt reveals that a 1% rise in immigrant college graduates leads to a remarkable 9% to 18% surge
+Given that
+up to 71% of tech workers in Silicon Valley are foreign-born, restrictive policies risk eroding America’s technological leadership
+and global competitiveness.
+Broader Implications of H-1B Visa Restrictions
+Innovation at Risk
+One of the most concerning consequences of H-1B restrictions is the
+impact on innovation.
+Skilled immigrants are disproportionately responsible for patents
+, technological breakthroughs, and high-growth startups.
+Studies reveal that a 10% increase in foreign STEM workers leads to a 0.3% to 0.7% increase in patents per capita
+and a corresponding rise in native wages.
+Immigrants,
+many of whom arrive in the U.S. through programs like the H-1B,
+account for a significant share of technological advancements, particularly in tech hubs like Silicon Valley.
+Stalling Broader Economic Growth
+U.S. labour market operates differently in knowledge-driven sectors,
+where talent scarcity is a pressing issue.
+In such industries,
+skilled workers, especially in STEM fields, are not interchangeable with less specialised labour.
+Rather than protecting domestic jobs,
+these caps restrict American companies from scaling their operations, which hinders job creation for native workers.
+Research shows that
+H-1B visa holders are job multipliers:
+each one generates 1.83 additional jobs for native-born Americans over a seven-year period.
+By limiting access to skilled immigration,
+policymakers are not only curtailing the potential of individual companies but
+also stalling broader economic growth.
+‘Brain Circulation’ and the Indian Experience
+India plays a crucial role in the global skilled migration landscape
+, receiving approximately 70% of H-1B visas issued annually.
+What was once perceived as a brain drain is now recognised as ‘brain circulation’
+; a phenomenon where skilled Indian professionals gain experience abroad and later contribute to India’s growing innovation ecosystem.
+cycle benefits both the U.S. and India
+, developing cross-border knowledge exchange, investment, and technological advancements.
+While the H-1B debate in the U.S. continues,
+India must position itself not just as a talent exporter but as a hub of innovation and entrepreneurship.
+India’s Role in the Global Innovation Network
+Developing Innovation Clusters:
+India needs globally competitive innovation hubs with tax incentives, research grants, and high-quality infrastructure to attract and retain talent.
+Setting Global Standards:
+Rather than playing catch-up, India must pioneer new technological paradigms, as seen with successful initiatives like IndiaStack and UPI.
+Creating a Risk-Taking Culture:
+A vibrant startup ecosystem requires policies that encourage experimentation, such as a dedicated startup visa program to attract international entrepreneurs.
+Balancing: Short-term reforms
+(such as streamlined overseas citizenship processes and pension portability agreements) with
+long-term strategies
+(such as automated talent mobility systems and shared patent applications) will be crucial in integrating India into global innovation networks.
+Conclusion
+Skilled immigration is not a zero-sum game
+, it is a driving force behind economic growth, job creation, and technological advancement.
+U.S. must recognise that restricting skilled immigration undermines its own economic and technological leadership
+, while India must leverage its global talent network to fuel domestic innovation.
+In an era of intense global competition for talent and innovation,
+policies must shift from protectionism to strategic collaboration, ensuring that knowledge economies continue to thrive.
+Click to View More
+Editorial Analysis
+**********[29th January 2025] The Hindu Op-ed: The Budget pipeline and India’s foreign policy ambitions
+International Relations
+PYQ Relevance:
+Q)
+‘
+At the international level, the bilateral relations between most nations are governed on the policy of promoting one’s own national interest without any regard for the interest of other nations. This leads to conflicts and tensions between the nations. How can ethical consideration help resolve such tensions? Discuss with specific examples
+(UPSC CSE 2015)
+Mentor’s Comment:
+UPSC mains have always focused on ‘
+Scope of Fundamental Rights’ (2017)
+Influence of Foreign Policy (2015).
+Today’s editorial discusses the recent budgetary developments concerning India’s Ministry of External Affairs (MEA) and their implications for the country’s foreign policy. This content can be used in your Mains Answer for presenting the
+challenges particularly regarding.
+_
+Let’s learn!
+Why in the News?
+The budget for India’s
+deserves closer scrutiny because last year, the MEA budget saw a rare 23% spike, up from the modest 4% annual increase between 2017 and 2023.
+The MEA’s allocation not only reflects the government’s foreign policy priorities but also its capacity to deliver on its global ambitions and commitments particularly in light of India’s vision for a ‘Viksit Bharat’ by 2047.
+How does the Indian budget reflect the country’s foreign policy priorities and ambitions?
+Increased Allocation for the MEA:
+The significant 23% increase in the budget for the Ministry of External Affairs (MEA) signals a commitment to enhancing India’s diplomatic capabilities and reflects the government’s recognition of the importance of foreign policy.
+Focus on Neighbourhood Policy:
+With approximately 50% of India’s foreign aid directed towards neighboring countries, particularly Bhutan, the budget emphasizes the “Neighbourhood First” policy, highlighting regional cooperation and stability as key priorities.
+Shift to Lines of Credit:
+The transition from outright grants to lines of credit (LoCs) indicates a strategic approach to financing sustainable infrastructure projects in recipient countries, enhancing India’s influence while ensuring accountability in project implementation.
+Investment in Diplomatic Infrastructure:
+A substantial portion of the MEA’s budget is allocated to embassies and missions, reflecting India’s intent to strengthen its global presence and engage more effectively in international diplomacy.
+What role does it play in shaping India’s economic and geopolitical landscape?
+Attracting Foreign Investment:
+The budget prioritizes foreign investment by reducing corporate tax rates for foreign firms and easing regulations on foreign direct investment.
+This aims to position India as a favorable destination for international capital, enhancing its economic growth prospects and global competitiveness.
+Strengthening Manufacturing and Infrastructure:
+By supporting initiatives like ‘Make in India’ and allocating substantial funds for infrastructure development, the budget aims to boost domestic manufacturing capabilities.
+This not only fosters economic growth but also enhances India’s geopolitical standing by enabling it to become a manufacturing hub, particularly as companies seek to diversify away from China.
+Enhancing Regional Influence:
+The budget reflects a commitment to regional partnerships by directing a significant portion of foreign aid toward neighboring countries.
+This strategy strengthens India’s influence in South Asia and promotes stability, aligning with its broader foreign policy objectives.
+Fiscal Discipline and Economic Stability:
+The budget emphasizes fiscal responsibility, targeting a reduction in the fiscal deficit to 4.9% of GDP.
+Maintaining fiscal discipline is critical for sustaining investor confidence and ensuring long-term economic stability, which is essential for India’s ambitions on the global stage.
+What challenges does India face?
+Geopolitical Tensions with China:
+India continues to navigate complex relations with China, particularly concerning border disputes and military tensions along the Line of Actual Control. The need for strategic dialogue and trust-building measures remains critical.
+Strained Relations with Neighbors:
+Political changes in neighboring countries, such as Bangladesh and Myanmar, and ongoing tensions with Pakistan complicate India’s regional diplomacy. The challenge lies in managing these relationships while promoting stability and cooperation.
+Impact of U.S.-China Rivalry:
+The evolving dynamics of U.S.-China relations, especially with the return of Donald Trump to the U.S. presidency, present both opportunities and challenges for India. Balancing ties with both powers while maintaining strategic autonomy is essential.
+Domestic Political Factors:
+Internal political developments, including public sentiment and government policies, can influence India’s foreign policy decisions. Ensuring that foreign policy aligns with domestic priorities is crucial for maintaining credibility and effectiveness on the global stage.
+Foreign aid and shifts
+India’s foreign aid to other countries decreased by 10% for the fiscal year 2024-25, while loans to foreign governments increased by 29%.
+About 50% of India’s grants are directed towards neighboring countries, with Bhutan remaining the largest recipient due to historical ties and energy projects.
+There is a notable shift from outright grants to lines of credit (LoCs), with Bangladesh receiving the largest share at $7.86 billion. While LoCs support sustainable infrastructure, they require effective oversight.
+The Ministry of External Affairs (MEA) requires more resources to enhance its institutional capacity, including strengthening the Indian Foreign Service (IFS) and research capabilities.
+The MEA’s training budget increased by 30% for 2024-25, but overall capacity-building funds remain inadequate, and the IFS continues to be understaffed.
+The MEA’s budget for foreign missions and cultural diplomacy grew only by 7%, while significant academic institutions faced budget cuts of 20% to 22%.
+Despite investments in international dialogues to enhance India’s global image, there is a pressing need for more budgetary resources to support policy-relevant research at Indian universities and think tanks.
+Way Forward:
+India will host the Quad Leaders’ Summit in 2025, marking an important opportunity to showcase India’s leadership and commitment to regional cooperation among the Quad nations—Australia, Japan, and the United States.
+India can reinforce its relationships with Quad partners, focusing on shared goals such as promoting a free, open, and inclusive Indo-Pacific.
+This aligns with India’s broader foreign policy objectives of enhancing regional stability and security.
+**********“One Nation, One Time” in the country
+Trivia
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Significance of Indian Standard Time;
+Why in the News?
+To ensure uniform timekeeping, the government has proposed new rules requiring Indian Standard Time (IST) to be used exclusively for all official and business purposes. The Consumer Affairs Ministry is inviting public feedback on these rules.
+What are the  Draft Legal Metrology (Indian Standard Time) Rules of 2025?
+Mandatory Use of IST:
+The rules establish IST as the sole time reference for legal, administrative, commercial, and official documents across various sectors including commerce, transport, public administration, legal contracts, and financial operations.
+Prohibition on Alternative Time References:
+The draft prohibits any time references other than IST for official and commercial purposes. Exceptions are allowed for specialised fields like astronomy and navigation but require prior government approval.
+Display and Synchronization Requirements:
+Government offices and public institutions must prominently display IST. Additionally, time-synchronization systems will be necessary to ensure accuracy, reliability, and cybersecurity.
+Collaboration with Scientific Institutions:
+The Department of Consumer Affairs is working with the National Physical Laboratory (NPL) and the Indian Space Research Organisation (ISRO) to develop a robust mechanism for time generation and dissemination.
+Penalties and Compliance Monitoring:
+Violations of these rules will incur penalties. Regular audits will be conducted to ensure compliance across sectors.
+How the New Draft Rules are significant?
+Standardisation Across Sectors:
+The rules mandate the exclusive use of Indian Standard Time (IST) as the sole time reference for all official and commercial activities, including commerce, transport, public administration, and legal contracts. This uniformity is essential for ensuring consistency in operations across diverse sectors.
+Enhancement of Critical Infrastructure:
+The initiative aims to improve precision in critical national infrastructure such as telecommunications, banking, defence, and emerging technologies like 5G and artificial intelligence.
+Support for Technological Advancements:
+The rules will facilitate the integration of advanced technologies by ensuring that all systems operate on a synchronized time basis. This is particularly important for digital governance, navigation systems, and real-time applications that rely on precise timing.
+National Security Implications:
+By synchronizing critical infrastructure, the rules contribute to national security. It will enhance time accuracy and support operations in defense and emergency response scenarios, where timely coordination is crucial.
+Regulatory Framework and Compliance:
+The draft establishes a robust regulatory framework, including provisions for penalties and periodic audits to ensure compliance. This will help maintain high standards of timekeeping across all sectors and promote accountability among entities using IST.
+What challenges exist in transitioning to a unified time system?
+Technological Integration:
+Upgrading existing systems to synchronise with IST will require significant technological investments and modifications, particularly in sectors like finance and stock exchanges that depend on precise time-stamping for transactions.
+Coordination Across Sectors:
+Ensuring compliance across diverse industries such as commerce, transport, and public administration will be complex and resource-intensive, requiring adjustments in scheduling and communication systems, especially for public transportation networks like railways and airlines.
+Public and Business Awareness:
+Raising awareness and educating businesses and the public about the new rules is essential for smooth implementation, as smaller enterprises may need additional support to align their operations with IST requirements.
+How will compliance be monitored? (Way forward)
+Periodic Audits:
+Regular inspections will be conducted to ensure compliance with IST regulations across various sectors with government auditors verifying proper implementation in public institutions and commercial enterprises.
+Penalties for Violations:
+Non-compliance will result in penalties acting as a deterrent with entities found using alternative time references in official documents facing fines or legal consequences.
+Collaborative Efforts and Public Feedback:
+Partnerships with institutions like the National Physical Laboratory and ISRO will support a reliable time dissemination system while stakeholder feedback will help refine the rules and address practical challenges.
+Mains PYQ:
+What do you understand by “Standard Positioning System” and “Precision positioning system” in the GPS era? Discuss the advantage India perceives from its ambitious IRNSS programme employing just seven satellites.
+(UPSC IAS/2015)
+**********Why meteorologists are comparing Storm Eowyn to a bomb?
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Impact of Storms;
+Why in the News?
+Storm Éowyn has hit the British Isles with very strong winds, especially in Ireland and Scotland.
+What are the meteorological characteristics of Storm Eowyn?
+Explosive Cyclogenesis:
+Storm Éowyn qualifies as a “bomb cyclone,” with air pressure at its center dropping 50 millibars within 24 hours, significantly exceeding the 24-millibar threshold for explosive cyclogenesis. This rapid deepening is a hallmark of severe winter storms in the region.
+Wind Speeds:
+The storm produced wind gusts exceeding 100 mph, with a record gust of 114 mph reported at Mace Head on Ireland’s west coast. The Met Office issued red warnings for widespread gusts of 80-90 mph, particularly affecting Northern Ireland and central and southern Scotland.
+Jet Stream Influence:
+A strong jet stream, with winds exceeding 200 mph, played a crucial role in the storm’s development. The temperature contrast between cold air from the eastern US and warmer air over the North Atlantic contributed to this intensity.
+What impacts it had on affected regions and what are the expected consequences?
+Power Outages and Damage:
+Nearly one million properties across the British Isles experienced power outages due to downed trees and damaged infrastructure. Restoration efforts are expected to take several days, with some areas potentially facing up to ten days without power.
+Transport Disruptions:
+The storm caused significant disruptions to road and rail services, with many routes blocked or cancelled due to hazardous conditions. Emergency services have been deployed to manage the aftermath.
+Casualties:
+Tragically, at least one fatality was reported in Ireland when a tree fell on a vehicle due to the high winds. The overall impact of the storm has raised concerns about safety and emergency preparedness in affected regions.
+How does Storm Eowyn fit into broader climate change trends and patterns of extreme weather events?
+Climate Change Considerations:
+While Storm Éowyn’s intensity raises questions about climate change’s role in extreme weather events, current research has not conclusively linked specific storm intensities or frequencies to climate change.
+The Intergovernmental Panel on Climate Change (IPCC) reports low confidence in observed trends related to extratropical storms over the last century.
+Future Storm Patterns:
+There are indications that future winter storms may become more frequent and clustered, leading to increased overall impacts. Additionally, as global temperatures rise, storms may exhibit more extreme wind speeds and rainfall due to a warmer atmosphere’s capacity to hold more moisture.
+Potential for Sting Jets:
+There is speculation that Storm Éowyn may have developed “sting jets,” which can produce localized but extremely destructive winds. While their occurrence is difficult to predict, studies suggest that such phenomena may increase with future cyclones as atmospheric conditions evolve.
+Way forward:
+Strengthening Infrastructure & Emergency Preparedness
+– Governments should invest in resilient power grids, reinforced transportation networks, and improved early warning systems to mitigate the impact of extreme storms.
+Climate Adaptation & Policy Measures
+– Policymakers should integrate climate resilience into urban planning, enforce stricter building codes, and invest in sustainable land management to reduce vulnerabilities.
+Mains PYQ:
+Discuss the concept of air mass and explain its role in macro-climatic changes.
+(UPSC IAS/2016)
+**********Substantive equality in child marriage laws
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Child marriage and its impact;
+Why in the News?
+Men are given more time than women to leave a child marriage. This means the age for marriage should be the same for both, at 18, not 21.
+What is the situation of child marriage in India?
+National Data
+: The National Family Health Survey-5 (NFHS-5), conducted between 2019 and 2021, reveals that 23.3% of women aged 20-24 were married before the age of 18. This shows a decline from 26.8% in NFHS-4 (2015-16), but child marriage remains a widespread issue.
+State-wise Variation
+: The prevalence of child marriage varies significantly across states. For example: in
+Bihar
+: 40.8% of women aged 20-24 were married before 18,
+West Bengal
+: 41.6%,
+Rajasthan
+: 25.4% and
+Kerala
+: 6.3% (one of the lowest rates in India).
+Gender Disparity
+: Although girls are more affected, boys also face child marriage. NFHS-5 reports that 17.7% of men aged 25-29 were married before the age of 21.
+How can existing laws be strengthened to effectively combat child marriage?
+Uniform Age of Marriage:
+The legal age for marriage should be standardized at 18 for all genders, eliminating the current disparity that allows men to marry at 21 and women at 18. This would ensure equal rights and protections for both parties under the law.
+Enhanced Enforcement Mechanisms:
+Strengthening the enforcement of existing laws, such as the Prohibition of Child Marriage Act (PCMA), is crucial. This includes more rigorous monitoring of marriages, especially in rural areas, and imposing stricter penalties on those who facilitate child marriages.
+Stricter Penalties for Facilitators:
+Increase legal penalties for those facilitating child marriages, such as parents, religious leaders, and community officials, to act as a deterrent.
+Example:
+Nepal’s law penalizing facilitators of child marriage has reduced its occurrence by holding all involved parties accountable.
+Awareness Campaigns and Education:
+Launch nationwide awareness campaigns to educate communities about the legal age of marriage and its harmful effects, empowering families to protect children.
+In India, campaigns by organizations like “Plan India” have raised awareness and led to a decline in child marriage rates in targeted regions.
+What are the key judgements?
+Independent Thought v. Union of India (2017)
+: The Supreme Court ruled that the exception to the prosecution of marital rape for husbands of girls below 18 years of age was unconstitutional. This judgment focused on the rights of girls under 18 in marriages, emphasizing their protection from sexual exploitation.
+Gender Disparity in Nullity Petition
+: The Allahabad High Court emphasized that the gender-based difference in the minimum age of marriage (18 years for women and 21 for men) creates an unfair advantage for men, allowing them to annul marriages at a later age (up to 23), while women are restricted to 20. This interpretation contradicts the principle of gender equality.
+What are the societal and cultural factors contributing to the persistence of child marriage despite legal prohibitions?
+Traditional Practices:
+In many communities, child marriage is deeply embedded in cultural and religious norms. These cultural beliefs place pressure on families to marry off daughters at a young age.
+Poverty and Economic Factors:
+In regions with high poverty rates, families may view child marriage as a way to reduce financial burdens, sometimes even receiving dowry or financial assistance in return for the marriage.
+Gender Inequality:
+Patriarchal views often limit girls’ opportunities for education and economic empowerment, which makes them more vulnerable to early marriage. Women may be seen as property to be married off, reinforcing the practice.
+Lack of Education and Awareness:
+A lack of awareness about the legal age for marriage and the harmful effects of child marriage perpetuates this practice. Some families may not be fully aware of the legal consequences or the negative impacts on the health and development of girls.
+What role do community-driven approaches play in preventing child marriage?
+Community Education and Awareness Programs:
+Empower local communities with knowledge about the dangers of child marriage in terms of legal, health and social consequences which can gradually change attitudes and reduce the incidence of child marriage.
+Involving Local Leaders:
+Traditional community leaders, such as religious leaders and village elders, play a significant role in shaping opinions. Engaging them in awareness campaigns and encouraging them to take a stand against child marriage can influence public opinion and reduce the practice.
+Strengthening Social Networks and Support Systems:
+Encouraging peer groups, women’s organizations, and NGOs to support girls at risk of child marriage can create an environment where they are less likely to fall victim to early marriage.
+Monitoring and Reporting Mechanisms:
+Creating anonymous and accessible reporting mechanisms for communities to report child marriages can ensure prompt intervention. Encouraging local participation in safeguarding the rights of children helps address the issue at the community level.
+Way forward:
+Strengthening Legal and Institutional Frameworks
+: Ensure uniformity in the legal age of marriage for all genders and improve enforcement by establishing dedicated child marriage prevention units at local levels.
+Community Empowerment and Education
+: Expand community-driven programs focusing on education, raising awareness about the harmful effects of child marriage, and providing support systems for vulnerable girls.
+Mains PYQ:
+The women’s questions arose in modern India as the part of 19th-century social reform movement. What are the major issues and debates concerning women in that period?
+(UPSC IAS/2017)
+**********What is Guillain-Barre Syndrome (GBS)?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+In an alarming move, the Guillain-Barre Syndrome (GBS) cases rise to 110 in Pune.
+What is Guillain-Barré Syndrome (GBS)?
+GBS is an autoimmune disorder
+where the immune system attacks
+peripheral nerves
+, causing
+muscle weakness
+and, in severe cases,
+paralysis
+It is
+rare
+, affecting
+1–2 per 100,000 people annually
+It is more common in
+adults and males
+It is often triggered by
+viral or bacterial infections
+, especially
+Campylobacter jejuni
+(a cause of gastroenteritis),
+influenza, Epstein-Barr virus, Zika virus
+, or, in rare cases,
+vaccinations
+Its Symptoms:
+Early signs:
+Tingling, weakness in legs spreading to the upper body,
+pins-and-needles sensation, back pain
+Severe cases:
+Paralysis, breathing difficulties, loss of speech, vision problems.
+Complications:
+Can affect the
+autonomic nervous system
+, leading to
+irregular heartbeat, blood pressure fluctuations
+, and potential
+respiratory failure
+Treatment and Recovery:
+No definitive cure
+, but treatments include:
+Plasma Exchange (Plasmapheresis):
+Removes harmful antibodies attacking nerves.
+Intravenous Immunoglobulin (IVIG) Therapy:
+Injects healthy antibodies to counteract immune attacks.
+Supportive care:
+Some patients require
+ventilator support, physical therapy
+months to years of rehabilitation
+PYQ:
+[2022]
+In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:
+The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform.
+Sputnik V vaccine is manufactured using vector-based platform.
+COVAXIN is an inactivated pathogen-based vaccine.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********Mapping: Sudan’s Darfur Region
+world map
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+At least 70 people were killed in a drone strike on the last working hospital in Sudan’s North Darfur capital.
+About the Darfur Region
+Details
+Conflict-prone region in
+western Sudan
+, affected by
+ethnic violence and resource conflicts
+since 2003.
+Site of
+one of the world’s worst humanitarian crises
+, with
+mass killings and displacement
+Home to multiple
+ethnic groups
+, with tensions between
+Arab pastoralists and non-Arab farming communities
+Janjaweed militias
+, backed by the Sudanese government, accused of
+genocide and mass atrocities
+Rapid Support Forces (RSF)
+, formerly Janjaweed, play a key role in ongoing instability.
+Renewed violence in
+2023
+, worsening the humanitarian situation.
+Geographical Location
+Located in
+, bordering
+Chad, Libya, and the Central African Republic
+Covers an area of about
+493,180 sq. km
+, nearly
+the size of France
+Predominantly
+arid and semi-arid
+, with desert in the north and more fertile land in the south.
+Climate-driven
+water and grazing conflicts
+, worsened by
+desertification and climate change
+Composed of
+five states
+North, South, West, Central, and East Darfur
+El Fasher
+is the capital and largest city, serving as an administrative and humanitarian hub.
+Political Significance
+Politically marginalized
+for decades, leading to armed uprisings against Sudan’s government.
+Conflict escalated in
+with rebel groups like the
+Sudan Liberation Movement (SLM)
+Justice and Equality Movement (JEM)
+demanding greater autonomy.
+Remains a
+stronghold of rebel activity
+, contributing to Sudan’s
+broader instability
+Ongoing violence impacts
+regional security
+, affecting neighboring countries like
+Chad and the Central African Republic
+PYQ:
+[2024]
+Consider the following statements :
+Statement-I: There is instability and worsening security situation in the Sahel region.
+Statement-II: There have been military takeovers/coups d’état in several countries of the Sahel region in the recent past.
+Which one of the following is correct in respect of the above statement?
+a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+b) Bothe Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I
+c) Statement-I is correct, but Statement-II is incorrect
+d) Statement-I is incorrect, but Statement-II is correct
+**********Rythu Bharosa Scheme
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Telangana government
+has started distributing funds under the
+, also known as the
+Farmer’s Investment Support Scheme (FISS)
+.
+About the Rythu Bharosa Scheme:
+, was launched by the
+Telangana government in 2018
+to provide
+direct financial assistance
+to farmers.
+It is the
+first direct investment support scheme in India
+, where
+cash is transferred directly to farmers
+before each crop season to help them with agricultural expenses.
+Objective
+: To
+reduce financial burden
+, improve
+agricultural productivity
+, and prevent farmers from falling into
+debt traps
+due to high input costs.
+Provisions:
+Under the scheme,
+every farmer receives ₹5,000 per acre per crop season
+, ensuring
+₹10,000 per acre annually
+for two crop seasons.
+The financial assistance is provided
+before the sowing season
+, allowing farmers to
+plan their investments
+efficiently.
+There is
+no limit on the size of landholdings
+, meaning
+both small and large farmers
+can benefit.
+Criteria:
+The scheme is
+available only to resident farmers of Telangana
+who
+own agricultural land
+in the state.
+Scheduled Tribe (ST) farmers
+cultivating land with
+Record of Forest Rights (ROFR) documents
+eligible
+for assistance.
+Tenant farmers, commercial farmers
+, and those farming under
+contractual agreements
+not eligible
+to receive benefits under this scheme.
+The funds are disbursed
+through bank bearer cheques
+under the supervision of
+Agriculture Extension Officers
+to ensure
+transparent distribution
+PYQ:
+[2020]
+Under the Kisan Credit Card scheme, short-term credit support is given to farmers for which of the following purposes?
+Working capital for maintenance of farm assets
+Purchase of combine harvesters, tractors and mini trucks
+Consumption requirements of farm households
+Post-harvest expenses
+Construction of family house and setting up of village cold storage facility
+Select the correct answer using the code given below:
+(a) 1, 2 and 5 only
+(b) 1, 3 and 4 only
+(c) 2, 3, 4 and 5 only
+(d) 1, 2, 3, 4 and 5
+**********Mapping: Lao PDR
+world map
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Indian Embassy in Lao PDR
+has successfully
+rescued 67 Indian nationals
+who were
+trafficked and forced to work
+in cyber scam centres in the
+Golden Triangle Special Economic Zone (GTSEZ)
+.
+It is a
+semi-autonomous economic zone
+located in
+Bokeo Province, Lao PDR (Laos)
+, near the borders of
+Thailand and Myanmar
+It is situated within the infamous
+Golden Triangle region
+, historically known for
+opium production and drug trafficking
+It was
+established to promote tourism, trade, and investment
+but has been widely criticized for
+illegal activities
+, including
+human trafficking, cyber fraud, and illicit gambling
+About
+Details
+Officially known as the
+Lao People’s Democratic Republic (Lao PDR)
+Gained
+independence from France in 1953
+Experienced a
+civil war (1959–1975)
+, leading to the communist
+Pathet Lao
+taking control and abolishing the monarchy in
+One-party communist state
+under the
+Lao People’s Revolutionary Party (LPRP)
+Economic growth driven by
+hydropower, mining, and agriculture
+, but remains
+one of ASEAN’s least developed nations
+2023 economic distress
+due to
+high debt and inflation
+, linked to
+China-backed infrastructure projects
+like the
+China-Laos Railway
+Geographical Location
+Landlocked country in Southeast Asia
+, bordered by
+China (north), Vietnam (east), Cambodia (south), Thailand (west), and Myanmar (northwest)
+Capital city:
+Vientiane
+, located along the Mekong River near Thailand.
+Total area:
+236,800 sq. km
+, with a
+mountainous landscape and dense forests
+flows through Laos, supporting
+trade, agriculture, and hydropower projects
+Tropical monsoon climate
+wet season (May-Oct)
+dry season (Nov-Apr)
+Political Significance
+, ruled by the
+Lao People’s Revolutionary Party (LPRP) since 1975
+China’s Influence:
+Major recipient of
+Chinese investment under the Belt and Road Initiative (BRI)
+, with concerns over
+debt sustainability
+Strategic Location:
+Acts as a
+buffer state
+between
+China, Vietnam, and Thailand
+, playing a role in
+Mekong River trade and energy exports
+ASEAN Membership:
+Joined
+ASEAN in 1997
+, contributing to
+regional diplomacy and economic cooperation
+Security & Stability:
+most heavily bombed country per capita in history
+due to the
+US Secret War (1964–1973)
+Faces
+high external debt, rural poverty, and underdeveloped infrastructure
+, relying on
+foreign investment, hydropower, and mining
+for economic growth.
+**********

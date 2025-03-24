@@ -1,0 +1,221 @@
+
+**********
+Report on Currency and Finance (RCF) 2023-24
+Source: IE
+Why in News?
+As per the
+'
+for the year 2023-24' released by the
+Reserve Bank of India (RBI)
+, India's digital economy is set to constitute
+20% of the country's
+GDP
+by 2026
+, doubling its current contribution of 10%.
+This significant growth projection
+underscores the transformative potential of digitalization in finance
+and its far-reaching impact on India's economy.
+What is the Report on Currency and Finance?
+About:
+It is an
+annual publication of the RBI.
+The report
+covers various aspects
+of the Indian economy and financial system.
+Theme:
+The theme of the "Report is
+"India’s Digital Revolution."
+It focuses on the
+transformative impact of digitalization
+across various sectors in India, particularly in the financial sector.
+Dimensions:
+It highlights how digital technologies are r
+eshaping economic growth, financial inclusion, public infrastructure
+, and the regulatory landscape, while also addressing the associated opportunities and challenges.
+What are the Key Highlights from the Report on Currency and Finance 2023-24?
+Expansion of Financial Services
+: The evolution and adoption of technological advancements have led to
+massive improvement
+in deepening of digital financial services.
+The potential for expanding financial inclusion in India by application of digital technologies is high in view of existing conditions.
+First, the progress of financial inclusion in India is evident in the Reserve Bank’s
+Financial Inclusion Index
+and narrowing account access gap between income groups.
+Second, in
+rural India, 46% of the population consists of wireless phone
+subscribers and 54% are active internet users.
+Third, given that more than half of FinTech consumers are from semi-urban and rural India and
+more than a third of digital payment users are from rural areas
+there is potential for furthering digital penetration and closing the rural-urban gap.
+Over two lakh gram panchayats
+have been connected through
+BharatNet
+in the last decade, enabling provision of services like e-health, e-education and e-governance in rural areas.
+Mobile Penetration
+: Although internet penetration in India was at 55% in 2023, the internet user base has grown by 199 million in the recent three years.
+India’s cost per gigabyte (GB) of data
+consumed is the
+lowest globally
+at an average of Rs. 13.32 per GB.
+India also has
+one of the highest mobile data consumption
+in the world, with an
+average per-user per-month consumption of 24.1 GB in 2023.
+There are
+about 750 million smartphone users
+, which is expected to reach about one billion by 2026.
+India is expected to be the
+second largest smartphone manufacturer
+in the next five years.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1722346613_Digitally_connected_population.png" style="display: block; margin-left: auto; margin-right: auto;" width="550"/>
+Digital Economy:
+The digital economy currently
+accounts for 10% of India's GDP.
+By 2026,
+this figure is expected to double, contributing to 20% of GDP,
+driven by rapid advancements in
+digital infrastructure
+and financial technology.
+Digitization is
+strengthening banking infrastructure
+and public finance systems, optimizing direct benefit transfers and tax collections.
+India Stack
+: Key components such as
+Aadhaar
+Unified Payments Interface (UPI)
+DigiLocker
+have revolutionised service delivery. UPI has seen a tenfold increase in transactions over four years.
+: The world's
+largest biometric-based identification system
+, covering 1.38 billion ID holders.
+: A real-time, low-cost transaction platform contributing significantly to financial inclusion.
+: Cloud-based storage providing secure document access.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1722346666_India_stack.png" style="display: block; margin-left: auto; margin-right: auto;" width="600"/>
+Internationalisation of
+Digital Public Infrastructure
+: India’s DPI is going global by:
+Collaborating with other nations to develop digital identity solutions under the
+Modular Open Source Identity Platform (MOSIP) programme.
+Interlinkage of the UPI with fast payment systems of other nations like Singapore’s PayNow, the United Arab Emirates’ (UAE) Instant Pay Platform (IPP) and Nepal’s National Payments Interface (NPI) for
+cost-effective and fast
+remittances.
+Partnering with other central banks and foreign payment service providers to
+broaden
+RuPay
+acceptance
+beyond geographical borders, such as in countries like Bhutan, Mauritius, Singapore and the UAE.
+Sharing the
+Beckn protocol with nations
+to provide their public and private services through open, lightweight and decentralised specifications.
+Beckn Protocol
+enables the creation of open
+, peer-to-peer decentralized networks for pan-sector economic transactions.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1722346746_Global_footprint_of_India's_DPI.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1722346791_image5.png" style="display: block; margin-left: auto; margin-right: auto;" width="850"/>
+Vibrant Initiatives:
+Open Credit Enablement Network,
+Open Network for Digital Commerce, and the Public Tech Platform for Frictionless Credit are driving the digital lending ecosystem.
+Fintech companies are partnering with
+non-banking financial companies (NBFCs)
+to offer digital credit solutions and enhance financial inclusion.
+What are the Challenges Posed by Digitalisation?
+Impact on Financial Markets:
+Digitalisation has led to the
+introduction of complex financial products
+and services, significantly impacting market structure and financial stability.
+The emergence of digital players with unreliable funding models
+increases system vulnerabilities
+and poses challenges to financial stability.
+hyper-diversification
+of financial services may result in a
+"barbell" financial structure
+, where a
+few dominant multi-product players coexist
+with numerous niche service providers.
+Fear of Monopolisation:
+In India's
+digital payment ecosystem
+proliferation of Unified Payments Interface (UPI)
+applications has expanded customer choices and increased transaction volumes. However, a significant share of transactions is dominated by a few applications, as indicated by the
+Herfindahl-Hirschman Index (HHI)
+(a common
+measure of market concentration
+of an industry used to
+determine market competitiveness
+).
+To address concentration risks, the
+National Payments Corporation of India (NPCI)
+has capped the market share of a
+single third-party application provider
+to 30% by December 2024.
+Cyber Security Challenges:
+Cybersecurity
+is a major concern due to the diverse nature of
+cyber threats
+targeting digital financial infrastructure.
+In India, security incidents handled by the Indian
+Computer Emergency Response Team (CERT-In)
+have skyrocketed from 53,117 in 2017 to over 1.32 million between January and October 2023.
+The majority of these incidents
+involve unauthorized network scanning
+, probing, and exploitation of vulnerable services.
+In India, the average cost of a data breach in 2023 was USD 2.18 million, which is less than the global average but still represents a significant increase.
+Consumer Protection Issues:
+Digitalisation has also led to
+dark patterns
+,"
+where consumers are tricked into making decisions against their interests. Additionally,
+extensive use of customer data
+by companies raises concerns about data protection and privacy, potentially compromising customer trust.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1722346981_image15.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+Reshaping Labour Markets:
+Digital technologies are
+transforming workforce composition
+, job quality, skill requirements, and labour policies. The implementation of AI in financial services shifts roles towards higher-skilled tasks, automating routine functions and aiding decision-making.
+Between 2013 and 2019, support roles in the financial sector declined, while the number of professionals and technicians increased.
+private sector banks
+reported high turnover rates in 2022-23, leading to significant risks such as loss of
+institutional knowledge
+and higher recruitment costs.
+What Steps Have Been Taken to Deal With the Challenges?
+Financial and Digital Inclusion:
+India has established
+Digital Banking Units (DBUs)
+and improved UPI with
+offline and conversational payments
+in local languages.
+Payment Infrastructure Development Fund (PIDF)
+has been launched to broaden payment infrastructure, and digitalisation of agricultural finance is underway.
+Customer Protection:
+To address regulatory and customer protection challenges in the digital lending ecosystem, the RBI issued the
+Guidelines on Digital Lending
+, focusing on loan servicing, disclosures, grievance redressal, credit assessment standards, and data privacy.
+Reserve Bank-Integrated Ombudsman Scheme (RB-IOS)
+has improved grievance redress mechanisms, and public awareness campaigns like
+‘RBI Kehta Hai’
+e-BAAT programme
+educate the public on digital payment products and fraud prevention.
+Data Protection:
+The RBI has implemented data localisation for payments data and guidelines preventing
+digital lending applications
+from accessing private information without explicit user consent.
+Card-on-file tokenisation (CoFT)
+through card-issuing banks has been enabled to enhance the security of digital payments.
+Cyber Security:
+To promote the security of digital transactions, measures such as
+two-factor authentication, increased customer control over card usage,
+faster turnaround times for transaction failures, and augmented supervisory oversight have been implemented.
+The RBI has issued comprehensive guidelines for
+IT and Cyber Risk management.
+FinTech Regulation:
+The RBI has launched the
+Regulatory Sandbox scheme
+, the Reserve Bank Innovation Hub, and FinTech Hackathons to encourage FinTech innovations.
+Digital Technologies in Regulation and Supervision:
+Digital tools are being leveraged to enhance supervisory and monitoring frameworks. The
+DAKSH system
+help digitalise supervisory processes.
+Integrated Compliance Management and Tracking System (ICMTS)
+and Centralised Information Management System (CIMS) are also being implemented to enhance data management and analytics capabilities.
+Drishti Mains Question:
+Discuss the major challenges associated with the digitalisation of the Indian economy. How can these challenges be effectively addressed to ensure inclusive and sustainable growth?

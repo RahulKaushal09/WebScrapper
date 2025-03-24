@@ -1,0 +1,239 @@
+Govt Launches Satellite-based Agricultural Decision Support System
+Why in the News?
+The Union government has launched a satellite-based agricultural decision support system to provide farmers with critical data for crop management and productivity enhancement.
+What’s in Today’s Article?
+About Krishi-DSS (Objective, Advantages, etc.)
+Conclusion
+About Krishi-DSS:
+On August 16, 2024, the Indian government launched the
+Krishi-Decision Support System
+(DSS), a pioneering
+digital geospatial platform
+aimed at revolutionizing the agricultural sector.
+This platform is designed to assist in various agricultural activities such as:
+digital crop surveys,
+precise yield estimation,
+crop damage assessment,
+soil mapping,
+processing weather-related data
+Advantages of Krishi-DSS:
+The Krishi-DSS platform represents a significant shift from traditional methods like random sampling and visual assessments, which have been in use since the Mughal period.
+The new technology-based crop yield estimation system,
+YES-TECH
+, will provide more accurate and reliable data, ensuring better decision-making for farmers and stakeholders.
+Comprehensive Data and Accessibility:
+Krishi-DSS will offer seamless access to a wide array of data, including satellite images, weather forecasts, reservoir levels, groundwater data, and soil health information.
+This data will be displayed on the Krishi Integrated Command and Control Centre (ICCC) at Krishi Bhawan, accessible to users across the country.
+Support for Agri Stack Implementation:
+The launch of Krishi-DSS is a crucial step towards implementing
+, the Digital Public Infrastructure (DPI) for agriculture, which will cover farmers and their land records.
+This initiative aligns with Finance Minister Nirmala Sitharaman's announcement in the 2023 Budget, emphasizing the importance of digital crop surveys and the DPI in agriculture.
+Enhanced Agricultural Practices:
+Krishi-DSS will support sustainable agriculture by promoting diverse crop cultivation through crop monitoring and mapping.
+It will also integrate various data sources to develop farmer-centric solutions, including early disaster warnings and individual advisories.
+Data Integration and Future Prospects:
+The platform will incorporate data from the
+FASAL 2.0 initiative
+, covering key crops like paddy, sugarcane, wheat, cotton, soybean, mustard, gram, lentil, and potato.
+This integration will enhance crop production forecasting, drought monitoring, and crop health assessments, ultimately contributing to better crop insurance solutions.
+Conclusion:
+Krishi-DSS marks a significant advancement in the use of technology in Indian agriculture, offering a comprehensive and accessible tool for improving farming practices and ensuring better outcomes for farmers across the country.
+Krishi-DSS launched to give a big digital push to farm sector.pdf
+( Size:  289.8 KB  )
+Click to View More
+Economics
+**********Existential Threats Faced by the Panama Canal
+Why in News?
+The decline in water levels of Lake Gatun, the artificial reservoir key to the Panama Canal system’s operation, as a result of climate change induced drought, is posing an existential threat to the canal.
+What’s in Today’s Article?
+About the Panama Canal
+The Panama Canal System’s Operation
+Potential Dangers the Panama Canal Faces from Climate Change
+What Can Be Done to Restore the Panama Canal's Significance?
+About the Panama Canal:
+Location:
+It is an artificial 82-km waterway in Panama that
+connects the Atlantic Ocean with the Pacific Ocean
+, cutting across the Isthmus of Panama.
+It was constructed by the US
+(at a cost of 375 million dollars) and the first ship passed through the canal on August 15, 1914.
+The US government owned and operated the canal until 1999 when the Panamanian government started controlling
+one of the most important shipping lanes in the world.
+Significance:
+Vital strategic asset:
+The US has a vested interest in the secure, efficient, and reliable operation of the canal, as ~72% of transiting ships are either going to or coming from U.S. ports.
+For the US, the canal’s strategic significance
+encompasses national security, defense capabilities, diplomatic relations, and logistical resilience
+Shorter transit routes:
+It saves approx. 12,600 km in a trip between New York and San Francisco.
+Thus, enabling ships to avoid the lengthy and hazardous voyage around Cape Horn at the southern tip of South America.
+Environmental benefits:
+By providing a shortcut, the canal contributes to the reduction of carbon emission and helps mitigate the environmental impact of global maritime transportation.
+Global supply chain:
+The Canal connects 180 maritime routes that reach 1,920 ports in 170 countries, and about 5% of global maritime trade transits through it.
+The Panama Canal System’s Operation:
+The Panama Canal is not a simple channel of water connecting two larger water bodies.
+This is because the elevation of the
+Pacific Ocean is slightly higher than the Atlantic
+This difference means that for a ship entering the canal through the Atlantic, it needs to gain elevation during its journey to the Pacific.
+Hence,
+the canal works on a highly-engineered system,
+which uses a system of locks and elevators to lift and drop vessels to the required sea level at either end of the canal.
+The locks
+are either flooded (to gain elevation) or drained (to lose elevation), and act as water elevators.
+These locks are serviced using artificial lakes and channels
+Most of this water is supplied from
+(the artificial reservoir key to the Panama Canal system’s operation) using the force of gravity (no pumps are needed).
+Potential Dangers the Panama Canal Faces from Climate Change:
+The Panama Canal needs massive amounts of fresh water
+to facilitate the passage of ships.
+For instance
+, the passage of a single ship needs more than 50 million gallons (almost 200 million litres) of water.
+While over 36 ships pass through the canal each day on average (Dec 2023),
+traffic has dropped to as low as 22 ships a day now
+(that too with a reduced cargo).
+A drought
+driven by the El Niño
+meteorological phenomenon has reduced water in the Lake Gatun, causing lengthy and costly disruptions to international trade and supply chains.
+Historically, there has been a rainfall shortage on average once every 20 years due to major
+El Niño events
+However, the year 2023 is the 3rd major rainfall deficit (in the last 26 years) and this permanent problem stems from a larger issue of
+climate change,
+which threatens humanity.
+Using ocean water to work the system of locks:
+However, this will increase the salinity of Lake Gatun, which is also the source of drinking water for more than half of Panama’s 4.4 million people.
+Creating a second source of water for the canal
+: Recently, Panama’s Supreme Court ordered to build a $1.6 billion dam across Rio Indio, which will fix the problem for the next 50 years.
+However, the reservoir of the dam will flood the homes of people, predominantly from the lower socio-economic strata.
+They will have to be relocated, and will lose lands and livelihoods that they have had for decades.
+Why climate change poses an existential threat to Panama Canal.pdf
+( Size:  8.3 MB  )
+Click to View More
+Geography
+**********Govt notifies FEMA amendments on cross-border share swaps
+Why in news?
+The Department of Economic Affairs has amended the Foreign Exchange Management (Non-debt Instruments) Rules, 2019, to support the
+global expansion of Indian companies
+through cross-border share swaps, mergers, and acquisitions.
+These changes, following the Union Budget's focus on simplifying foreign investment rules, aim to help Indian companies grow internationally.
+What’s in today’s article?
+Foreign Exchange Management Act (FEMA)
+Foreign Exchange Regulation Act or FERA
+Difference between FEMA and FERA
+About
+FEMA came in 1999 as a successor to the Foreign Exchange Regulation Act (FERA) of 1973, with changing economic conditions in a post-liberalisation India.
+Objectives
+to facilitate external trade and payments,
+to promote the orderly development and maintenance of foreign exchange market in India, and
+to regulate the transactions related to foreign exchange/currency.
+Functions
+The FEMA regulates various aspects of foreign exchange transactions, including acquisition and holding of foreign exchange, payment and settlement of foreign exchange transactions, export and import of currency, and other related activities.
+The act also empowers the RBI to make rules and regulations to carry out the provisions of the act. Violation of the provisions of FEMA can result in penalties and fines.
+Foreign Exchange Regulation Act (FERA),1973
+Background
+FERA was designed for an era in India marked by a shortage of foreign exchange.
+It was aimed at
+conserving forex
+to ensure it was utilised only in the interest of the development of the country.
+The act provided the Indian government with extensive powers to regulate foreign exchange transactions and payments in the country.
+This included the power to impose restrictions on the use of foreign exchange, to regulate the flow of foreign exchange, and to prohibit transactions that were deemed to be against the national interest.
+Union Finance Ministry announced amendments includes
+mandatory government approvals
+for investments from countries
+sharing land borders
+with India.
+Key highlights
+The amendments:
+simplify cross-border share swaps,
+standardize definitions like "control," and
+align the treatment of downstream investments by
+OCI-owned entities
+with those by
+NRIs
+non-repatriation basis,
+encouraging more NRI participation in Indian markets.
+Non-repatriation
+refers to the funds that cannot be transferred back to the investor's home country. These funds must remain in India and can only be used within the country.
+Government clearance is
+now required
+for any
+share transfer involving border-sharing countries, regardless of the sector
+The rules also extend
+non-FDI status
+non-repatriation investments
+to OCIs and standardize control definitions across laws, impacting foreign portfolio investors (FPIs).
+The amendments follow the Union Budget's push to simplify FDI rules, promote the use of the Indian Rupee in overseas investments, and align the
+definition of "startup" with updated DPIIT standards
+This revised startup definition, which raises the turnover threshold to ₹100 crore and extends the recognition period to 10 years, aims to attract more foreign investment
+The updates also introduce provisions for equity share swaps, permitting them with government approval.
+These changes are part of efforts to create a more foreign-investor-friendly environment and enhance the ease of doing business in India.
+The amendments also enable FDI in white-label ATMs to enhance financial inclusion.
+White-label ATMs (WLAs) are ATMs operated by non-bank entities, allowing customers of any bank to withdraw cash and access other banking services.
+These ATMs do not display the logo of any specific bank and charge fees for transactions.
+Govt notifies FEMA amendments on cross-border share swaps.pdf
+( Size:  1019.5 KB  )
+Click to View More
+Economics
+**********ISRO launches SSLV
+Why in news?
+The Indian Space Research Organisation (ISRO) successfully launched the third and final developmental flight of the Small Satellite Launch Vehicle (SSLV) from the Satish Dhawan Space Centre in Sriharikota.
+The SSLV-D3 placed the Earth observation satellite EOS-08 precisely into orbit. This also marks the
+completion of ISRO/Department of Space’s SSLV Development Project
+NewSpace India Limited (NSIL), ISRO’s commercial arm, and India’s private space industry can now produce SSLVs for commercial missions.
+What’s in today’s article?
+SSLV development is complete
+About
+SSLV is the new small satellite launch vehicle developed by ISRO to cater for the launch of small satellites.
+It has a
+three-stage launch vehicle
+, having a lift-off weight of about 120 tonnes and is 34 metres in length and 2 metres in diameter.
+It is a 3 stage Launch Vehicle configured with three Solid Propulsion Stages and liquid propulsion-based Velocity Trimming Module (VTM) as a terminal stage.
+VTM is the last liquid-propellent based stage of the rocket which is used to correct the velocity just before injecting the satellites into orbit.
+Uses
+The SSLV missions are useful to
+launch small-sized satellites weighing anywhere between 10 to 500kg into the Low Earth Orbit
+Going by their size and weight, these are typically referred to as mini, micro or nano satellites.
+They are low on cost and intended satellite insertion into orbits takes a shorter flight time.
+SSLV are best suited for commercial and on-demand launches.
+Previously, satellite projects built by college students and private players involved in the space sector have benefitted from SSLV missions.
+India’s journey towards SSLV
+The first SSLV mission — SSLV-D1 — carrying two satellites, including EOS-02 and AzaadiSat, in August 2022, was a failure.
+The insertion of the two satellites after their separation took place into a 356 km circular orbit instead of the intended elliptical orbit.
+In its second attempt with the SSLV-D2 in February 2023, ISRO tasted success.
+The rocket inserted three satellites onboard into the intended 450 km circular orbit following a 15-minute flight.
+SSLV-D3 has been launched recently.
+Significance
+Seamless launch of small satellites
+The launch of small satellites has until now been dependent on ‘piggy-back’ rides with big satellite launches on ISRO’s PSLV.
+Against this backdrop, the SSLV is intended to cater to a market for the launch of small satellites into low earth orbits.
+Suited for launching multiple microsatellites
+SSLV is perfectly suited for launching multiple microsatellites at a time and supports multiple orbital drop-offs.
+The new launch vehicle has been designed keeping in mind commercial launches of small satellites with a quick turn-around time for the missions.
+Shift the burden from PSLV
+SSLV will shift the burden of commercial launches from Polar Satellite Launch Vehicles (PSLV).
+The SSLV is likely to cost a fourth of the current PSLV.
+About the News
+ISRO successfully completed the third and final developmental flight of its SSLV, marking the vehicle's readiness for commercial launches and opening the door for industry-led manufacturing through technology transfer.
+The SSLV-D3 mission was launched from Satish Dhawan Space Centre in Sriharikota.
+The mission placed two satellites—EOS-08, an earth observation satellite, and SR-0 Demosat—into a 475 km circular low-earth orbit.
+Manufacturing and launch of SSLV for commercial purposes
+ISRO is exploring two routes for the commercial launch of this vehicle.
+One is through NSIL, which will fund and realise the rockets required for commercial purposes, and the other is through technology transfer, which InSpace will handle.
+Payloads on SSLV-D3
+ISRO's EOS-08, the primary payload of the SSLV-D3 mission, is a 175-kg experimental satellite equipped with three new technologies.
+Electro-Optical Infrared Payload (EOIR)
+captures day and night images in mid-wave and long-wave infrared for various applications like surveillance, disaster and environmental monitoring, and fire detection.
+Global Navigation Satellite System-Reflectometry (GNSS-R)
+payload demonstrates the use of reflected GPS signals for ocean wind analysis, soil moisture assessment, and flood detection.
+Additionally, the
+SiC UV Dosimeter payload
+will study UV radiation exposure on the crew module, aiding the Gaganyaan mission preparations.
+Second spaceport in Kulasekarapattinam
+Second rocket launchport of the ISRO is being developed at Kulasekarapattinam in coastal Tamil Nadu’s Thoothukudi district.
+This will be extensively and exclusively used for commercial, on-demand, and small satellite launches in the future.
+The existing Sriharikota spaceport will handle launches to orbits that require the rocket to fly eastwards.
+ISRO launches SSLV.pdf
+( Size:  1.7 MB  )
+Click to View More
+Science & Tech
+**********

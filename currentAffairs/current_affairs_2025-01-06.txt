@@ -1,0 +1,1407 @@
+Building a System That Sees the Migrant Worker
+Context
+The
+Ministry of Labour and Employment (MoL&E) in India recently declared the e-Shram portal as the largest database of unorganised workers
+globally, with over 300 million workers registered.
+Launched in May 2021
+in response to the Supreme Court's directive,
+the portal aimed to address the distressing plight of migrant workers during the COVID-19 pandemic
+by creating a unified national database.
+Despite this ambitious initiative, challenges in its implementation and gaps in its utility highlight the pressing need for more robust measures
+to ensure social protection and inclusion for India's vulnerable unorganised workforce.
+Historical Context and the Need for a Database
+The concept of maintaining a database for migrant and unorganised workers is not new.
+The Interstate Migrant Workmen Act (1979) mandated contractors to provide detailed worker records,
+and the National Commission for Enterprises in the Unorganised Sector (2007) called for universal worker registration.
+Similarly,
+the Unorganised Workers’ Social Security Act (2008) proposed identity cards for workers.
+However,
+these efforts failed to gain traction
+, leaving millions of workers invisible to policymakers and the public.
+This historical neglect underscores the significance of the e-Shram porta
+l as a potentially transformative initiative.
+Understanding the Vulnerability of Migrant Workers
+Socio-Economic Exclusion
+The lack of stable employment ties leaves migrant workers in a precarious situation.
+Many are employed informally
+in sectors such as construction, agriculture, domestic work, and small-scale industries, where job security is almost non-existent.
+Without formal contracts, they have little to no bargaining power
+and are frequently subjected to exploitative working conditions, including low wages, long hours, and unsafe environments.
+absence of unionisation further worsens their vulnerability,
+as they are unable to collectively advocate for better terms or working conditions.
+Challenges of Disenfranchisement
+Due to the transient nature of their employment,
+migrant workers often lack access to fundamental rights like voting.
+Many are unable to register as voters in their place of work
+, and their names are often missing from electoral rolls in their home states.
+disenfranchisement not only alienates them politically but also deprives them of a voice in decisions
+that directly impact their lives, reinforcing their marginalisation.
+Poor Access to Social Services
+Access to essential services
+such as healthcare, education, housing, and social security
+is severely limited for migrant workers.
+lack of portability of welfare benefits across states means that they often cannot avail themselves of government schemes
+in their place of work.
+For instance,
+migrant families may lose access to ration cards
+or healthcare benefits when they move to a new location.
+their children are at risk of losing continuity in education due to frequent relocations,
+perpetuating the cycle of poverty and vulnerability.
+Stigma and Discrimination
+Migrant workers frequently face stigma and discrimination
+in host communities.
+They are
+often viewed as outsiders and treated with suspicion
+, which leads to social exclusion and sometimes even hostility.
+This discrimination can limit their opportunities
+to integrate into local communities and access resources, further isolating them.
+Women migrants are particularly vulnerable to exploitation and harassment
+, both at work and in their living conditions, compounding their struggles.
+Persistent Challenges
+Documentation and Eligibility Exclusion
+A significant challenge
+lies in the exclusion of workers due to inadequate documentation.
+Many migrant workers lack essential identification documents
+such as Aadhaar cards, ration cards, or voter IDs, which are often prerequisites for registration.
+Additionally,
+issues such as unlinked mobile numbers, lack of permanent phone access, or inconsistent address details complicates their ineligibility.
+For workers who are constantly on the move or live in temporary housing,
+these documentation requirements become insurmountable hurdles,
+effectively locking them out of social protection mechanisms
+Technological Barriers
+Although the e-Shram portal aims to simplify access through technology,
+digital illiteracy among unorganised workers poses a significant barrier.
+Many workers, especially those in rural areas, are unfamiliar with online processes
+or lack access to smartphones and reliable internet connectivity.
+digital divide disproportionately affects women workers
+, who often have limited access to personal mobile devices.
+As a result, many workers are unable to navigate the registration process independently,
+relying on intermediaries who may exploit them.
+Limited Portability of Benefits
+mobility of migrant workers creates a unique challenge in ensuring access to welfare benefits
+across states.
+While initiatives like the
+One Nation One Ration Card (ONORC)
+attempt to address this issue,
+many schemes remain tied to a worker’s place of origin.
+lack of portability leaves inter-state migrants unable to access entitlements
+such as subsidised food, housing, or healthcare in their destination states.
+Without seamless integration of welfare schemes across jurisdictions, a large segment of the migrant workforce remains excluded
+from critical support systems.
+Fragmentation of Social Security Systems
+India’s social security landscape is highly fragmented
+, with multiple schemes operating under different ministries and departments.
+While the
+OSS attempts to integrate these schemes, the process is far from complete.
+Key welfare programs like PM Matru Vandana Yojana and Shramik Suraksha Yojana are yet to be linked with the e-Shram portal
+, leaving gaps in coverage.
+overlapping responsibilities and bureaucratic inefficiencies slow down the implementation of a cohesive framework.
+The Path Ahead
+To fully realise its potential,
+the e-Shram portal must transcend its role as a mere registration platform and evolve into a comprehensive tool
+for empowering workers.
+requires disaggregating migration data, enhancing portability of benefits, and integrating human development outcomes
+into program design.
+Non-profits and policymakers advocate viewing migrants as assets rather than burden
+s, emphasising their critical role in driving economic growth.
+The 2030 Agenda
+for Sustainable Development warns
+that poorly managed migration can impede progress.
+Conclusion
+Migrants and unorganised workers are indispensable to India's economy,
+yet they continue to await recognition and rights.
+The e-Shram portal and OSS are commendable steps, but achieving "Viksit Bharat" (Developed India) demands well-designed social protection systems
+that prioritise inclusion and equity for this workforce.
+While the e-Shram portal has laid the foundation for addressing long-standing challenges faced by unorganised workers,
+its success depends on overcoming systemic barriers and integrating inclusive, sustainable policies.
+Click to View More
+Editorial Analysis
+**********What is a Chargesheet?
+The Supreme Court recently held that offences in the chargesheet cannot be based on bald assertions of connivance.
+About Chargesheet:
+A chargesheet is a
+final report
+that is
+filed by the investigating officer
+or police officials
+after the completion of the investigation
+in a cognizable or non-cognizable case.
+It is also known as
+the Police report or the Final report
+contains all the stringent records
+right
+from the commencement of the investigation
+procedure of lodging an FIR
+to the completion of the investigation
+and the preparation of final report.
+The chargesheet has to be prepared and
+submitted by the police before the court
+proceedings can begin.
+Once the charge sheet has been submitted to a court of law,
+prosecution proceedings
+against the accused begin.
+This report by the investigating officer should be in the
+form prescribed by the state government.
+Contents of the chargesheet:
+Names of the parties
+Nature of the information
+Names of the persons who appear to be acquainted with the events
+About the offence that appears to have been committed and the person by whom it has been committed
+Information regarding the arrest of the accused, his/their release with or without sureties, and whether he has been forwarded into custody
+Benefits of a chargesheet:
+It contains the statements of the accused and all other witnesses.
+It marks the beginning of a criminal trial.
+Charges on which courts have to proceed against the accused are mentioned.
+It is useful for the accused in obtaining bail as the offences are mentioned clearly.
+Time limit for filing a Charge Sheet:
+It is to be filed within 60 days from the date of arrest of the accused in cases triable by lower courts and 90 days in cases triable by the Court of Sessions.
+If the charge sheet is not filed within the prescribed time mentioned above, the accused has a right to default bail.
+Is filing a chargesheet compulsory?
+Filing of a chargesheet
+in case a cognizable offence
+is said to be committed by the accused
+is mandatory
+on the part of police officials, either by themselves or on the orders of the court, after filing an FIR.
+However, the same is
+not compulsory in cases where a non-cognizable offence
+has been committed unless the court orders an investigation.
+Cognizable and Non-Cognizable Offence:
+or case is defined as one which an officer in-charge of a police station
+may investigate without
+the order of a magistrate and effect arrest
+without a warrant.
+The Police have a
+direct responsibility to take immediate action
+on the receipt of a complaint or credible information in such crimes, visit the scene of the crime, investigate the facts, apprehend the offender, and arraign him before a Court of law having jurisdiction over the matter.
+Non-Cognizable crimes
+are defined as those which
+cannot be investigated by police without the order of a competent magistrate.
+Click to View More
+Source :
+Chargesheet Cannot Be Based On Bald Assertions Of Connivance: Supreme Court
+Polity & Governance
+**********What is Abdali Missile?
+Amid rising tensions in India-Bangladesh relations, Dhaka is reportedly mulling to purchase the Abdali Short Range Ballistic Missiles (SRBMs) aka the Hatf 2 missiles, from Pakistan.
+About Abdali Missile:
+Abdali (Hatf 2) is a
+short-range
+, road-mobile,
+solid propellant ballistic missile.
+Developed by
+Pakistan’s Space Research Commission (SUPARCO),
+the Abdali missile system is designed
+for quick-reaction battlefield scenarios.
+Features
+It measures 6.5 m in length, 0.56 m in diameter, and weighs 1,750 kg at launch.
+It can
+range 180-200 km
+while carrying a variable 250-450 kg warhead.
+It likely carries a high explosive or submunition payload.
+The Hatf 2 is equipped with an inertial guidance system and has a CEP of 150 m.
+It uses a
+single-stage solid propellant engine
+It is
+carried on a road mobile Transporter-Erector-Launcher (TEL) vehicle
+Its relatively small warhead limits its destructive capability, but its accuracy is sufficient to target military bases and airfields or critical infrastructure such as power plants and industrial facilities.
+Click to View More
+Source :
+Amid tension with India, Bangladesh planning to buy Abdali missiles from Pakistan, its range is…, it is dangerous because…
+Science & Tech
+**********Banihal Bypass
+Union Minister for Road Transport and Highways recently announced the completion of a 4-lane, 2.35 km Banihal Bypass on NH-44.
+About Banihal Bypass:
+It is
+a four-lane, 2.35 km bypass
+to Banihal town in Jammu & Kashmir
+, a section that was riddled with chronic traffic snarl-ups.
+It was built at a cost of Rs 224.44 crore.
+Strategically located on the
+Ramban–Banihal section of NH-44,
+the bypass features 4 viaducts spanning 1,513 meters and 3 culverts, effectively addressing the persistent bottleneck caused by roadside markets and shops.
+This critical infrastructure ensures unhindered traffic flow, significantly
+reducing travel time
+and congestion for both tourists and defense vehicles en route
+to the Kashmir Valley.
+Key Facts about NH-44:
+NH44, also known as the
+Old NH 7
+, is the
+longest national highway
+in India
+It ranks 22nd among the longest national highways globally.
+It stretches for a whopping
+3,745 kilometers
+(2,327 miles),
+connecting Srinagar
+in the northern tip of Jammu and Kashmir
+to Kanyakumari
+at the southernmost point of India.
+NH44 traverses a total of
+11 Indian states.
+The highway passes through Jammu and Kashmir, Punjab, Haryana, Delhi, Uttar Pradesh, Madhya Pradesh, Maharashtra, Telangana, Andhra Pradesh, Karnataka, and Tamil Nadu.
+NH44 passes by significant places like
+Agra, Delhi, Hyderabad, and Bangalore
+NH44 wasn't built as a single, continuous highway. It's actually an amalgamation of seven previously existing national highways.
+Click to View More
+Source :
+Gadkari declares completion of Banihal Bypass, opens for traffic
+Geography
+**********Panchayat Se Parliament 2.0
+Lok Sabha Speaker is set to inaugurate 'Panchayat Se Parliament 2.0' at the Central Hall of Samvidhan Sadan.
+About Panchayat Se Parliament 2.0:
+It will be organised by the
+National Commission for Women (NCW)
+, in
+collaboration with
+Lok Sabha Secretariat
+and the
+Ministry of Tribal Affairs.
+The programme is being organised
+in commemoration o
+f the
+150th birth anniversary of
+Bhagwan Birsa Munda,
+the revered tribal leader and freedom fighter.
+bring together 502 elected women representatives from Scheduled Tribes across 22 states
+and Union Territories.
+Its primary focus is to
+empower
+these
+women representatives from Panchayati Raj institutions
+by enhancing their understanding of constitutional provisions, parliamentary procedures, and governance.
+The programme also aims to recognise the contributions of these representatives in areas such as education and rural development.
+include workshops, sessions,
+and a
+guided tour of key locations
+such as the new
+Parliament House, Samvidhan Sadan, Pradhanmantri Sangrahalaya
+Rashtrapati Bhawan.
+The Lok Sabha Speaker will also lead the delegates in reading the Preamble to the Constitution of India during the event.
+This program builds on the success of the
+Panchayat Se Parliament 2024 initiative
+, which
+engaged 500 women sarpanch
+from across India.
+Click to View More
+Source :
+Empowering Women Leaders: Panchayat Se Parliament 2.0 Unveiled
+Polity & Governance
+**********What is Osteoporosis?
+Prevent bone loss with calcium, exercise, and healthy habits, as discussed by experts in an osteoporosis webinar held recently.
+About O
+:
+It is a disease that
+weakens the bones.
+makes the bones thinner and less dense
+than they should be.
+People with osteoporosis are much more likely to
+experience broken bones
+(
+bone fractures).
+Most people don’t know they have osteoporosis until it causes them to break a bone.
+Osteoporosis can make any of the bones more likely to break, but the
+most commonly affected bones
+include of:
+Hips (hip fractures)
+Wrists
+Spine (fractured vertebrae)
+Osteoporosis occurs when the
+creation of new bone doesn't keep up with the loss of old bone.
+Low level of hormones, like
+estrogen in women and testosterone in men
+can cause osteoporosis.
+Symptoms
+doesn’t have symptoms
+the way
+lots of
+other health conditions
+That’s why healthcare providers
+sometimes call it a silent disease.
+The most
+common “symptom” is suddenly breaking a bone
+, especially after a small fall or minor accident.
+Once the bones have been weakened by osteoporosis, the common
+signs and symptoms
+include:
+Back pain
+, caused by a broken or collapsed bone in the spine.
+Loss of height over time.
+A stooped posture.
+Treatment
+: Treatment for osteoporosis may involve:
+Making
+lifestyle changes
+, such as changing the diet and exercise routine
+Taking calcium and vitamin D
+supplements
+Using medicines to strengthen bones
+Click to View More
+Source :
+‘Calcium intake, exercise crucial for young adults to prevent osteoporosis’
+Science & Tech
+**********Mucuna bracteata
+The Tamil Nadu Forest Department, along with an NGO from Kanniyakumari, is engaged in a pilot project to remove Mucuna bracteata from rubber plantations and forest areas in the district.
+About
+:
+It is an
+invasive cover crop, planted in the inter-rows of rubber and oil palm.
+leguminous vine
+which was introduced to rubber plantations as a weed protectant and nitrogen regulator valued for its
+drought tolerance.
+Its proliferation now extends to
+parts of the Western Ghats
+Kanniyakumari district
+including places such as Kaliyal, Kadayalumoodu, Aarukani and Kodayar and Kulasekaram.
+This creeper was introduced with the
+intention of protecting the rubber trees
+, it has become a threat as it has started to overpower and cover the trees.
+It has begun to overtake large tracts of Kodayar region and has even climbed over native trees, affecting their growth. Most of the regions adjoin the buffer zone of
+Kalakkad-Mundanthurai tiger reserve,
+announced as a critical tiger habitat.
+Click to View More
+Source :
+Clearing of invasive creeper Mucuna bracteata begins in Kanniyakumari district
+Environment
+**********New Type of Visas
+The Ministry of Home Affairs introduced two special category visas namely ‘e-student visa’ and ‘e-student-x’ visa for international students intending to pursue higher education in the country.
+About
+New Type of Visas:
+The two new visas namely;
+introduced by the Ministry of Home Affairs.
+Eligible international students registered on the
+Study in India (SII) portal
+can access the e-student visa facility, while dependents of e-student visa holders are eligible for the e-student-x visa.
+Eligibility:
+Foreign nationals admitted to full-time undergraduate, postgraduate, PhD, or other formal programs at recognised educational institutions in India are eligible for e-student visas.
+These visas are issued for
+durations of up to five years
+, depending on the course length, and can be extended. Holders of valid e-student visas can enter India through any immigration check post.
+What is
+Study in India (SII) portal?
+It is a
+flagship initiative by the Ministry of Education
+, hosting over 600 partner institutions offering more than 8,000 courses across disciplines such as engineering, management, agriculture, sciences, arts, humanities, law, paramedical sciences (including pharmacy and nursing), and specialised fields like Buddhist Studies and Yoga.
+Programmes are available at
+undergraduate, postgraduate, doctoral
+, and certification levels, providing flexibility for students to choose courses aligned with their interests at premier Indian institutions.
+The SII portal
+streamlines the admission process
+for foreign students seeking to enrol in long-term or short-term courses in the country.
+Click to View More
+Source :
+Two new special categories visas introduced by MHA for international students
+Polity & Governance
+**********Atomic clock
+A "groundbreaking" atomic clock built at a top-secret UK lab will make military operations more secure through experimental quantum technology over the years.
+About
+Atomic clock:
+It is a device that measures time
+using the vibrations of atoms.
+It specifically uses the
+oscillations of the electrons in atoms
+to keep time.
+It is the most accurate time-keeping device available, with a margin of error of just a few billionths of a second per day.
+It is far more precise than conventional clocks because atomic oscillations have a much higher frequency and are
+much more stable.
+Working:
+Atomic clocks work by using a type of atom called
+a "cesium atom".
+Cesium atoms are very stable and
+have a very specific frequency
+at which their electrons vibrate. This frequency is used as the basis for the atomic clock's timekeeping.
+To measure time using cesium atoms, an atomic clock uses a device called a
+"microwave cavity".
+The microwave cavity is a chamber that is filled with cesium vapor.
+A microwave signal is then sent into the cavity, which causes the cesium atoms to vibrate. As the cesium atoms vibrate, they emit radiation at a very specific frequency.
+This frequency is then detected by a detector, which compares it to a standard frequency.
+The difference between the two frequencies is used to adjust the clock's timekeeping.
+Applications:
+GPS systems:
+GPS systems use atomic clocks to measure the time it takes for a signal to travel from a satellite to a receiver on Earth. This allows GPS systems to calculate the receiver's location with great accuracy.
+Telecommunications networks:
+Telecommunications networks use atomic clocks to synchronize the timing of signals that are sent over long distances.
+Scientific research:
+Atomic clocks are used in many scientific experiments that require precise timing, such as studies of the behavior of atoms and molecules.
+Click to View More
+Source :
+UK Top Secret Lab Develops 'Groundbreaking' Quantum Clock For Military Use
+Science & Tech
+**********Golden Jackal
+Environmentalists say that golden jackals appear to be adapting to their changing environment and are no longer avoiding humans.
+About
+Golden Jackal:
+The golden jackal, also known as the
+common jackal,
+is a medium-sized wolf-like canid.
+It is
+strictly nocturnal
+in areas inhabited by humans, but may be partly diurnal elsewhere.
+They dig caverns for shelter, or use crevices in rocks, or caverns that were dug by other animals.
+They are
+monogamous,
+meaning they mate for life.
+Diet:
+Golden jackals
+are omnivores
+. These opportunistic foragers have a rather diverse diet.
+Habitat:
+These animals are abundant in valleys and along rivers and their tributaries, canals, lakes, and seashores, but are rare in foothills and low mountains.
+Distribution:
+North and East Africa, Southeastern Europe and South Asia to Burma.
+They are quite widespread across India.
+Right from the Himalayan foothills,
+down to the Western Ghats, the Golden Jackal has a wide distribution.
+Conservation Status:
+IUCN:
+Least Concern
+CITES:
+Appendix III
+Wildlife Protection Act, 1972
+: Schedule I
+Threats:
+Habitat loss from encroachments and poor management threaten their survival.
+Ecological Significance:
+They play a crucial role in maintaining the biodiversity of mangrove and grassland ecosystems.
+Click to View More
+Source :
+Golden jackals no more elusive: urbanisation brings them to Navi Mumbai streets
+**********What is KM3NeT Project?
+Scientists are deploying two telescopes which are part of the Cubic Kilometre Neutrino Telescope or KM3NeT to detect high-energy neutrinos, also known as ghost particles, under the Mediterranean Sea.
+About
+KM3NeT Project:
+It is a research infrastructure housing the next generation
+neutrino telescopes
+with a volume of at least one cubic kilometre.
+It uses
+Cherenkov radiation
+(light that neutrinos produce when they interact with a water or ice molecule) to study neutrinos.
+As a European research infrastructure, it is located in the
+and involves collaboration among multiple countries.
+Key components:
+ARCA (Astroparticle Research with Cosmics in the Abyss):
+It will help scientists in searching neutrinos from distant astrophysical sources such as
+supernovae, gamma ray bursters or colliding stars.
+It is located offshore Sicily, Italy.
+ORCA
+(Oscillation Research with Cosmics in the Abyss):
+This telescope is the instrument for KM3NeT scientists studying neutrino properties exploiting neutrinos
+generated in the Earth's atmosphere.
+It is located offshore of France.
+These telescopes are much like the
+IceCube Neutrino Observatory
+, which can detect high-energy neutrinos from deep space but is under the frozen ice in the Antarctic rather than being in the water.
+Arrays of thousands of optical sensors will detect the faint light in the deep sea from charged particles originating from
+collisions of the neutrinos and the Earth.
+IceCube Neutrino Observatory?
+It is a device located at the
+Earth’s South Pole
+that detects subatomic particles called neutrinos. Built and maintained by the IceCube Collaboration, it consists of approximately 350 physicists from 58 institutions across 14 countries, led by the University of Wisconsin–Madison.
+IceCube collaborators address several big questions in physics, like the
+nature of dark matter and the properties of the neutrino itself.
+Click to View More
+Source :
+Why scientists are installing underwater telescopes to detect ‘ghost particles’
+Science & Tech
+**********Badge engineering - Different cars, same look
+Why in news?
+Nearly half of Toyota Kirloskar Motor's car sales in India over the past year were rebadged Maruti Suzuki models, driving Toyota to its highest-ever wholesale numbers and over 40% year-on-year sales growth in FY24.
+The success of "badge engineering" as a sales strategy highlights its growing popularity among carmakers, with expectations of continued use in the coming year.
+What’s in today’s article?
+What is Badge Engineering?
+Badge Engineering – early origin and uses
+Benefits of Badge Engineering
+Collaboration at the Platform Level
+About
+Badge engineering involves the sharing of a vehicle platform or an entire model between different car manufacturers.
+This allows at least one of them to avoid designing or engineering a new model from scratch.
+Key Features
+Shared Elements:
+Cars can share platforms, design cues, engines, or parts.
+Aesthetic Tweaks:
+Some design elements are modified to align with individual brand identities.
+Degrees of Rebadging
+Minimal Changes:
+Simple badge swaps with little alteration.
+Extensive Customization:
+Completely distinct cars built from the same platform.
+Early Origins: GM's Pioneer Move (1909)
+General Motors began sharing chassis and platforms among its brands, marking one of the earliest examples of badge engineering.
+GMC trucks were rebadged as Chevrolet models, while platforms were shared with brands like Oakland, Oldsmobile, Buick, and Cadillac.
+Premium brands like Buick and Cadillac received enhanced exteriors and interiors for a luxurious appeal.
+India’s Early Badge-Engineering Success: Ambassador
+The Hindustan Motors Ambassador (1957–2014) was one of India’s first successful badge-engineered vehicles.
+It was essentially a rebadged Series III Morris Oxford.
+A Global Attempt Gone Wrong: Rover CityRover
+The Rover CityRover (2003–2005) was a rebadged Tata Indica marketed by MG Rover in the UK.
+While the Indica succeeded in India, the CityRover failed in the UK, criticized as a poorly executed attempt to prevent MG Rover’s bankruptcy.
+Cost Efficiency through Badge Engineering
+The auto industry benefits from economies of scale by producing similar models, sharing costs, and spreading investments.
+This approach keeps overheads low and increases production volumes.
+Consumer Advantages and Buying Decisions
+Buyers consider factors like brand familiarity, warranty offers, and dealership accessibility.
+Badge engineering allows carmakers to position themselves as premium product builders, justifying higher price tags.
+Expanding Customer Reach
+Maruti Suzuki:
+Targets premium segments with rebadged models like the Invicto (Toyota Innova Hycross).
+Toyota Kirloskar:
+Taps into the lower-end market with models like the Taisor and Glanza.
+Retaining and Upselling Customers
+Maruti Suzuki retains customers by offering upgrades as they move up the price bracket.
+Toyota provides multiple options in segments where it has traditionally struggled, such as lower-end vehicles and CNG-equipped models.
+Cross-brand partnerships sometimes occur during the early stages of car development, focusing on shared platforms.
+Unlike badge engineering, these partnerships result in more differentiated products.
+Examples in the Indian Market
+Hyundai and Kia
+Models like the Hyundai Creta and Kia Seltos, or Hyundai Venue and Kia Sonet, share platforms, engines, and gearboxes.
+Despite shared underpinnings, they differ significantly in design and features.
+The two companies compete fiercely despite their collaborative roots.
+Volkswagen and Skoda
+Partnerships are evident in models like the VW Taigun and Skoda Kushaq, or VW Virtus and Skoda Slavia.
+While they share basic platforms, differences exist in design, ground clearance, engines, and gearboxes.
+Key Feature: Competitive Independence
+Although these partnerships originate at the development stage, brands ensure individuality and compete independently in the market.
+Success and Challenges of Badge Engineering
+While Toyota and Maruti Suzuki's partnership has been highly successful, other collaborations have not fared as well.
+Unsuccessful Partnerships
+Renault and Nissan:
+Nissan’s Terrano (a rebadged Renault Duster) and Renault Scala (a rebadged Nissan Sunny) both failed to gain traction.
+Flagship Models Kept Exclusive
+Some popular models, such as Suzuki's Swift and Jimny, and Toyota’s Innova Crysta and Fortuner, have been excluded from badge engineering partnerships.
+Luxury Failures:
+Aston Martin's Cygnet (a rebadged Toyota iQ with premium features) flopped due to poor sales despite its high price.
+Volkswagen and Audi -
+The Audi 50, essentially a rebadged VW Polo, was discontinued despite the Polo’s widespread success.
+Lessons Learned
+Badge engineering works best when consumer preferences and brand positioning are carefully aligned.
+However, it can fail when the rebadged product is misaligned with the target market or priced unrealistically.
+Badge engineering - Different cars, same look.pdf
+( Size:  2.2 MB  )
+Click to View More
+Economics
+**********Arunachal Pradesh's Dormant Anti-Conversion Law Revived After 46 Years
+Why in News?
+The Arunachal Pradesh government is framing rules to implement
+the Arunachal Pradesh Freedom of Religion Act, 1978
+, which has been dormant for 46 years.
+The move has reignited debates on religious freedom, indigenous culture, and state intervention in faith matters.
+What’s in Today’s Article?
+What’s in the Arunachal Pradesh Freedom of Religion Act?
+Why was the Arunachal Pradesh Freedom of Religion Act Introduced?
+Why has the Arunachal Pradesh Freedom of Religion Act Remained Dormant?
+Why is the Arunachal Pradesh Freedom of Religion Act Back Now?
+Conclusion
+Enacted:
+1978 by Arunachal’s first Legislative Assembly.
+Purpose:
+To prohibit religious conversion by force, inducement, or fraudulent means.
+Penalties:
+Imprisonment up to two years.
+Fine up to ₹10,000 for forced conversions.
+Reporting requirement:
+All conversions must be reported to the Deputy Commissioner.
+Non-compliance penalizes the individual performing the conversion.
+The Act remained dormant due to the absence of implementation rules.
+Diverse ethnic communities:
+Arunachal has a rich tapestry of indigenous beliefs, including Mahayana and Theravada Buddhism, and polytheistic practices like Donyi Polo worship.
+Missionary inroads:
+Christianity entered Arunachal in the 1950s, later than other northeastern states, due to colonial isolation policies and difficult terrain.
+First church was established in 1957 at Rayang village.
+Debates on conversion:
+Conversion led to socio-cultural changes in tribes like the Adi, Nocte, and Nyishi, sparking discussions on preserving indigenous cultures in the Assembly.
+Opposition by Christian groups:
+The Arunachal Christian Forum (formed in 1979) has consistently opposed the Act, calling it “anti-Christian” and prone to misuse.
+Christianity now constitutes 30.26% of the population (2011 Census), the largest religious group in the state.
+Political sensitivities:
+Successive Chief Ministers avoided implementing the Act due to fears of alienating a significant voter base.
+External influences:
+The BJP government and RSS’s support for institutionalizing indigenous faiths renewed attention on the Act.
+Legal push:
+In 2022, advocate Tambo Tamin filed a PIL in the Guwahati High Court, seeking rules for the Act’s implementation.
+The court directed the state to finalize draft rules within six months.
+Preserving indigenous culture:
+Experts emphasize the Act’s role in preventing the erosion of traditional practices amid rising conversions.
+Conclusion:
+The revival of the Arunachal Pradesh Freedom of Religion Act, 1978, underscores the ongoing tensions between protecting indigenous cultures and safeguarding religious freedom.
+As implementation looms, debates are expected to intensify, reflecting the delicate balance between faith, politics, and identity in the state.
+newspaper.pdf
+( Size:  3.8 MB  )
+Click to View More
+Polity & Governance
+**********Zoos put on alert as avian flu kills 3 tigers
+Why in news?
+Three tigers and a leopard at a Nagpur rescue center have died from avian influenza (H5N1), a rare instance of the virus affecting rescued wildlife in India.
+In response, the Union government has issued an advisory, urging zoos nationwide to remain vigilant, follow the action plan for prevention and containment, and monitor for symptoms in captive animals or nearby areas. The advisory highlights the highly contagious and zoonotic nature of the disease.
+What’s in today’s article?
+Avian influenza (H5N1)
+Overview of Bird Flu
+Bird flu, or avian flu, is an infectious viral illness primarily affecting poultry and wild birds.
+Various strains of the virus have circulated among at least 100 bird species, with wild waterfowl like ducks and geese often serving as carriers without severe harm.
+About
+H5N1 is a type of influenza virus that causes a highly infectious, severe respiratory disease in birds called avian influenza (or "bird flu").
+Basically, it is a
+subtype of the influenza A virus
+Influenza A viruses are classified by subtypes based on the properties of their surface proteins.
+Human cases of H5N1 avian influenza occur occasionally, but it is difficult to transmit the infection from person to person.
+When people become infected, the mortality rate is about 60%.
+Evolution and Global Spread of H5N1
+The highly pathogenic H5N1 virus originated from a goose farm outbreak in Guangdong, China, in 1996.
+A new version of the virus emerged in Europe in 2020 and rapidly spread to Africa, Asia, North America (2021), South America (2022), and mainland Antarctica (2024), causing widespread illness and death among birds.
+Impact on Farm and Wild Birds
+Farm Birds
+: H5N1 spreads quickly in overcrowded poultry farms, leading to significant outbreaks and fatalities.
+: The virus has caused severe mortality among wild bird populations, including:
+Great Skuas in Scotland (2021)
+Barnacle Geese in Solway Firth (2021/22)
+Thousands of ducks, swans, gulls, and birds of prey like Peregrine Falcons and Golden Eagles across Europe.
+Endangered species like the
+California condor
+have been significantly affected, with 21 deaths reported in 2023, constituting nearly 6% of the population.
+Spread Among Mammals
+H5N1 has begun infecting mammals, raising concerns about viral reassortment and increased virulence:
+Terrestrial Mammals: Cases reported among foxes, pumas, skunks, and bears in North America.
+Farmed Mammals: Minks in Spain and Finland have been infected, increasing the risk of cross-species transmission.
+Marine Mammals: Massive die-offs have been observed, including:
+Over 20,000 sea lions in Chile and Peru.
+Thousands of seals in the US.
+95% mortality among Southern elephant seal pups along the Patagonia coastline (2023), marking the first major elephant seal mortality in half a century.
+Human Risk
+Although humans rarely contract bird flu, infections typically occur through contact with sick birds at poultry farms, where viral loads are high.
+India's First Case of Avian Influenza in Animals
+Maharashtra reported India's first case of avian influenza (H5N1) among animals.
+Three tigers and one leopard have succumbed to the virus at a Nagpur rescue center in late December 2024.
+This marks the first instance of bird flu crossing the species barrier in India.
+Government Response and Guidelines
+The Union Animal Husbandry Ministry issued a circular urging all States to quarantine infected or symptomatic tigers and other feline species to prevent transmission to humans and other animals.
+The ministry plans to release detailed guidelines within a week.
+Investigation and Containment Efforts
+Post-mortem samples from the affected animals tested positive for avian influenza at the National Institute of High Security Animal Diseases (NIHSAD), Bhopal.
+Authorities suspect contaminated chicken meat could be the source of the infection.
+A National Joint Outbreak Response Team has been deployed to implement containment measures, while human contacts are being screened as a precaution.
+Enhanced Biosecurity Protocols
+The Ministry directed:
+Temporary closure of affected establishments to the public.
+Strengthening biosecurity measures and restricting personnel movement between infected and healthy areas.
+Thorough disinfection of affected areas and collection of samples for strain identification.
+Protection for Zoo Staff
+Zoo staff are required to use personal protective equipment (PPE), including gloves, masks, and suits.
+Regular health screenings and hygiene education for zoo personnel have also been mandated.
+Call for a One-Health Approach
+The Ministry emphasized a "One-Health" approach, integrating efforts across human health, animal health, and wildlife sectors to comprehensively address the issue.
+Immediate attention is needed to mitigate risks to both animal and human health.
+Zoos put on alert as avian flu kills 3 tigers.pdf
+( Size:  333.5 KB  )
+Click to View More
+Environment & Ecology
+**********52 Villages Allege Violation of Forest Rights Act
+Why in the News?
+The Ministry of Tribal Affairs (MoTA) has directed the Madhya Pradesh government to look into complaints from 52 villages on non-recognition of forest rights and attempts at forceful eviction.
+What’s in Today’s Article?
+About Durgavati Wildlife Sanctuary (Basics, Flora, Fauna, Key Facts, etc.)
+About Forest Rights Act (Objectives, Features, Challenges, etc.)
+News Summary
+Durgavati Wildlife Sanctuary:
+Basic Details:
+Location: Situated in Damoh district of Madhya Pradesh.
+Established: The sanctuary was declared a protected area to conserve the rich biodiversity of the Vindhyan region.
+Geographical Features: Nestled in the Vindhyan mountain ranges, it is characterized by rugged terrain, rocky cliffs, and dense forests.
+Flora:
+Vegetation Type:
+The sanctuary boasts a mixed forest type, predominantly dry deciduous forests.
+Key Species:
+Trees:
+Teak, Sal, Bamboo, Tendu, Mahua, and Palash.
+Shrubs and Grasses:
+Various medicinal plants and grass species form the undergrowth.
+Significance:
+The flora not only supports wildlife but also sustains local communities with forest products like fruits, timber, and medicinal plants.
+Fauna:
+Mammals:
+Herbivores: Chital (Spotted Deer), Nilgai (Blue Bull), and Sambar Deer.
+Carnivores: Leopards, Jackals, Indian Fox, and Wild Boar.
+Birds:
+Peafowl, Indian Roller, Crested Serpent Eagle, and various migratory birds.
+Reptiles:
+Indian Cobra, Monitor Lizard, and other reptiles native to central India.
+Nearby Major River:
+Durgavati River
+, after which the sanctuary is named, flows in the vicinity, providing water for the flora and fauna.
+Key Facts:
+Area:
+Approximately 24 square kilometres.
+Importance for Conservation:
+Acts as a corridor for wildlife movement in the
+Plays a role in maintaining ecological balance and preserving biodiversity.
+Eco-Tourism Potential:
+Offers opportunities for eco-tourism, bird watching, and trekking, contributing to local livelihoods.
+Challenges:
+Human encroachment and deforestation.
+Illegal poaching and habitat degradation.
+About Forest Rights Act (FRA), 2006:
+Forest Rights Act, 2006
+(officially known as the
+Scheduled Tribes and Other Traditional Forest Dwellers
+(Recognition of Forest Rights) Act) is a landmark legislation aimed at recognizing and securing the rights of forest-dwelling communities in India.
+Key Objectives:
+Recognition of Rights
+: To recognize the historical rights of forest-dwelling Scheduled Tribes (STs) and Other Traditional Forest Dwellers (OTFDs) over forests they depend on for their livelihood.
+Protecting Livelihoods
+: Ensuring the sustainable use of forest resources by local communities.
+Empowering Communities
+: Granting legal rights to forest land and resources to these communities.
+Types of Rights Recognized:
+Individual Rights: Ownership and access to forest land for cultivation and habitation.
+Community Rights:
+Use of minor forest produce (e.g., bamboo, honey, lac).
+Grazing rights and access to water bodies.
+Management and conservation of forests by local communities.
+Community Forest Resource Rights: Rights to protect, regenerate, and manage forests sustainably.
+Key Features:
+Ownership of Land:
+Recognizes land up to 4 hectares per family for cultivation.
+Protection Against Eviction:
+Prevents eviction of forest dwellers without proper recognition and settlement of rights.
+Role of Gram Sabha:
+Empowers the Gram Sabha (village assembly) to determine the rights of individuals and communities.
+Conservation Focus:
+Encourages sustainable management of forests while protecting biodiversity.
+Delayed Implementation
+: Slow progress in recognizing rights across states.
+Proof of Eligibility
+: Difficulty in providing documentary evidence by forest-dwelling communities.
+Conflict with Conservation Laws
+: Balancing rights with wildlife and forest conservation initiatives.
+Opposition from Industries
+: Resistance from industries reliant on forest resources.
+News Summary:
+has directed the Madhya Pradesh government to address complaints from 52 villages in Damoh, Narsinghpur, and Sagar districts alleging violations of the
+Wildlife Protection Act (WLPA), 2006
+Villagers claim they were forcibly relocated and denied forest rights after the notification of the
+Rani Durgavati Tiger Reserve
+in September 2023.
+Key Issues Highlighted:
+Non-Recognition of Forest Rights:
+Villagers allege restricted access to forest resources and farms without the settlement of their claims under the FRA.
+Forced Relocation Allegations:
+Relocations reportedly lacked free, prior, and informed consent, as mandated by law.
+State’s Position:
+Divisional Forest Officer (DFO)
+of Nauradehi Wildlife Sanctuary denied allegations of forced eviction, stating relocation packages were offered to eligible families.
+Of the 93 villages in the reserve, 40 were relocated since 2014, while 8 are currently in the process of relocation.
+The reserve, spread across
+2,339 sq. km
+, was formed by merging the
+Nauradehi Wildlife Sanctuaries
+to compensate for the
+Ken-Betwa River Linking Project
+, which submerged 100 sq. km of prime forest in the
+Panna Tiger Reserve
+MoTA emphasized the need to respect community rights under FRA and WLPA, urging consultation with
+Gram Sabhas
+, district collectors, and forest departments.
+The National Tiger Conservation Authority was also asked to issue directives safeguarding tribal interests.
+52 Villages Allege Violation of Forest Rights Act.pdf
+( Size:  447.5 KB  )
+Click to View More
+Environment & Ecology
+**********Why was the no-detention policy rolled back?
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues in the education system;
+Why in the News?
+Recently, the Union government revised the Rules of the Right to Education Act, 2009, permitting schools to retain students in Classes 5 and 8 if they fail to meet the promotion criteria based on a year-end examination.
+What led to the amendment of the Right to Education Act, 2009 Rules?
+Significant Learning Gaps:
+Surveys, including the Annual Status of Education Report (ASER), revealed alarming deficiencies in foundational skills among students. For example, a substantial percentage of Class 5 students were unable to read at their grade level, indicating a pressing need for intervention.
+Declining Academic Performance:
+National Achievement Surveys showed a downward trend in student performance as they progressed through grades, with average scores dropping significantly from Class 3 to Class 8. This decline raised concerns about the effectiveness of the no-detention policy.
+Impact of COVID-19:
+The disruptions caused by the pandemic exacerbated existing learning gaps, prompting educational authorities to reconsider policies that may have contributed to inadequate learning outcomes.
+Ineffective Implementation of Continuous and Comprehensive Evaluation (CCE):
+The original intent of the RTE Act included CCE to assess students continuously. However, its poor implementation led to many schools neglecting assessments altogether, resulting in automatic promotions without evaluating students’ actual learning.
+What are the new rules?
+Rollback of No-Detention Policy:
+The amendment effectively rolls back the no-detention policy that was a fundamental aspect of the RTE Act, which previously mandated that no child could be held back until completing elementary education (Classes 1 to 8). This policy aimed to reduce dropout rates by promoting students regardless of their academic performance.
+Promotion Criteria:
+Under the new rules, students in Classes 5 and 8 can be detained if they do not pass their year-end exams. However, they will be given a second chance through a re-examination after receiving two months of additional teaching.
+Implementation of Continuous Evaluation:
+The amendment is intended to support better evaluation practices by allowing for regular assessments rather than relying solely on final examinations. This aims to ensure that students are adequately prepared before advancing to higher grades.
+What have schools been allowed to do?
+Detaining Students:
+Schools can now hold back students in Classes 5 and 8 if they fail to meet the promotion criteria after a year-end examination. This marks a departure from the previous no-detention policy that prohibited such actions until the completion of elementary education.
+Re-Examination Opportunities:
+If a student does not pass the initial examination, they are given an opportunity for a re-examination within two months after receiving additional instruction. If they still do not meet the criteria after this second chance, they can be detained in their current class.
+Monitoring and Support:
+The rules require class teachers to identify learning gaps and provide specialized support to students who are at risk of being held back. The head of the school is also mandated to monitor the progress of these students.
+Competency-Based Assessments:
+The examinations and re-examinations are intended to be competency-based, focusing on holistic development rather than rote memorization.
+Implementation Across Central Schools:
+This amendment applies to around 3,000 central schools, including Kendriya Vidyalayas and Jawahar Navodaya Vidyalayas, extending the option for detention beyond state-run schools.
+Is there something wrong with the appraisal system?
+Poor Implementation of Continuous Evaluation:
+The original aim of continuous and comprehensive evaluation (CCE) was undermined by inadequate resources and training for teachers. Many schools failed to conduct meaningful assessments, leading to automatic promotions without evaluating students’ actual learning outcomes.
+Lack of Accountability:
+The previous no-detention policy created an environment where accountability for student performance diminished. Teachers often did not engage in effective monitoring or support for students struggling academically, resulting in significant learning gaps.
+Focus on Final Examinations:
+The shift towards allowing detention may lead to a renewed emphasis on final examinations rather than continuous assessment throughout the academic year, potentially reversing some of the progressive educational practices intended by the RTE Act.
+Who should be made accountable?
+Teachers:
+Teachers should be held accountable for their students’ learning outcomes. They are crucial in identifying learning gaps, providing necessary support, and ensuring that all students receive adequate attention and instruction.
+School Administrators:
+School heads and administrators must monitor student progress and implement effective teaching strategies. They are responsible for creating an environment that encourages accountability among teachers and supports student learning.
+Education Authorities:
+Government bodies and education authorities at both state and national levels should be accountable for implementing educational policies effectively.
+Parents and Communities:
+Engaging parents and local communities in the educational process can enhance accountability.
+Policymakers:
+Lawmakers and policymakers must be accountable for creating a robust framework that supports quality education. This includes adequate funding, resource allocation, and the establishment of clear standards and expectations for schools.
+What are some of the best ways to test a child’s learning? (Way forward)
+Implement regular assessments through a mix of formative (ongoing, classroom-based) and summative (end-of-term) evaluations to track progress across cognitive, emotional, and social domains.
+Skill-Based Assessments:
+Focus on grade-appropriate competencies in reading, writing, and arithmetic through practical tasks, quizzes, and interactive activities, rather than relying solely on rote-based exams.
+Individualized Feedback Mechanisms:
+Use assessments that provide personalized insights into a child’s strengths and weaknesses, allowing for tailored remedial interventions to address specific learning gaps.
+Mains PYQ:
+The Right of Children to Free and Compulsory Education Act, 2009 remains indadequate in promoting incentive-based system for children’s education without generating awareness about the importance of schooling. Analyse.
+(UPSC IAS/2022)
+**********LEADS 2024’ Report Released
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Logistics Ease Across Different States (LEADS) 2024 report;
+Mains level:
+Significance of LEADS;
+Why in the News?
+The Logistics Ease Across Different States (LEADS) 2024 report, released by the Union Minister, outlines key objectives and performance metrics aimed at enhancing India’s logistics sector.
+What are the aims and Objectives of  Logistics Ease Across Different States (LEADS)?
+Enhance Logistics Performance:
+The primary aim is to improve logistics efficiency across states and union territories (UTs), thereby facilitating trade and reducing transaction costs essential for economic growth.
+Action Plans for Investment:
+States are encouraged to collaborate with the private sector to develop action plans that attract investments in logistics.
+Sustainable Practices:
+Emphasis is placed on promoting green logistics and adopting sustainable practices in logistics operations.
+Technology Adoption:
+The report advocates for the integration of advanced technologies such as Artificial Intelligence (AI), Machine Learning (ML), and Data Analytics to enhance operational efficiency.
+Skill Development:
+There is a focus on workforce inclusivity and skill development to boost the logistics sector’s capabilities.
+Parameters Evaluated in LEADS 2024
+LEADS 2024 evaluates logistics performance based on four key pillars:
+Logistics Infrastructure:
+Assessment of physical infrastructure supporting logistics activities.
+Logistics Services:
+Evaluation of the quality and efficiency of logistics services available.
+Operating and Regulatory Environment:
+Analysis of the regulatory framework affecting logistics operations.
+Sustainable Logistics:
+Newly introduced pillar focusing on environmental sustainability within the logistics sector.
+Key Performance Highlights of 2024
+Achievers by Group:
+Coastal Group Achievers:
+Gujarat, Karnataka, Maharashtra, Odisha, Tamil Nadu.
+Landlocked Group Achievers:
+Haryana, Telangana, Uttar Pradesh, Uttarakhand.
+North-Eastern Group Achievers:
+Assam, Arunachal Pradesh.
+Union Territories Achievers:
+Chandigarh, Delhi.
+Fast Movers and Aspirers:
+include states like Andhra Pradesh, Goa (Coastal); Bihar, Himachal Pradesh (Landlocked); Meghalaya, Mizoram (North-Eastern).
+include Kerala, West Bengal (Coastal); Chhattisgarh, Jharkhand (Landlocked); Manipur (North-Eastern).
+What is the role of Public-Private Partnerships (PPPs) and skill development in transforming India’s logistics sector as per the recommendations in the LEADS 2024 report?
+Role of Public-Private Partnerships (PPPs)
+Enhancing Infrastructure and Efficiency:
+The report advocates for leveraging PPPs to improve logistics infrastructure and services. By collaborating with private entities, states can enhance operational efficiency, reduce costs, and attract investments essential for developing robust logistics frameworks.
+Facilitating Multi-Modal Hubs:
+PPPs are encouraged to establish multi-modal logistics hubs, which can streamline operations and improve last-mile connectivity. This approach aims to create an integrated logistics network that enhances trade facilitation across regions.
+Promoting Transparency and Accountability:
+The involvement of private partners in logistics projects is expected to promote transparency through competitive bidding processes, thereby ensuring better governance and accountability in project execution.
+Role of Skill Development
+Workforce Inclusivity:
+The report highlights the importance of skill development initiatives aimed at fostering inclusivity within the workforce. By enhancing the skills of workers, particularly women, the logistics sector can benefit from a more diverse talent pool.
+Adoption of New Technologies:
+Skill development programs are crucial for equipping the workforce with knowledge about advanced technologies such as Artificial Intelligence (AI) and Data Analytics. This technological proficiency is essential for improving operational efficiencies and adapting to evolving industry demands.
+Boosting Sector Competitiveness:
+By focusing on skill enhancement, the logistics sector can increase its competitiveness on a global scale. A well-trained workforce can lead to improved service delivery, innovation, and overall productivity within the sector.
+Way forward:
+Strengthen Public-Private Partnerships (PPPs):
+Foster collaboration between states and the private sector to develop multimodal logistics hubs, enhance last-mile connectivity, and improve infrastructure transparency through competitive bidding processes.
+Promote Sustainability and Skill Development:
+Integrate green logistics practices, adopt advanced technologies (AI, ML), and implement comprehensive skill development programs to create an inclusive and efficient logistics ecosystem.
+Mains PYQ:
+What is the significance of Industrial Corridors in India? Identifying industrial corridors, explain their main characteristics.
+(UPSC IAS/2018)
+**********Why is rupee weakening against dollar?
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Rupee depreciation;
+Why in the News?
+In the last week of December 2024, the rupee dropped below 85 against the U.S. dollar, hitting a new low of 85.81. The rupee fell by about 3% in 2024, continuing its long-term decline against the dollar.
+What has caused the currency to depreciate?
+Exit of Foreign Investors:
+A significant driver of the rupee’s depreciation has been the exit of foreign portfolio investors (FPIs) from Indian markets. In 2024, FPIs pulled out substantial amounts from equities, leading to increased selling pressure on the rupee.
+Widening Trade Deficit:
+India’s trade deficit has widened due to high imports, particularly of crude oil and gold, compared to its exports. This increased demand for foreign currencies (like the U.S. dollar) to pay for these imports has contributed to the rupee’s weakening.
+Monetary Policy Differences:
+The Reserve Bank of India’s relatively looser monetary policy compared to the U.S. Federal Reserve has resulted in higher inflation rates in India. This inflation differential makes Indian assets less attractive to foreign investors, further reducing demand for the rupee.
+Global Economic Factors:
+Geopolitical tensions, such as the Russia-Ukraine war and rising global crude oil prices, have created volatility in the markets, leading to capital outflows from emerging markets like India.
+The other reason is that the strengthening U.S. dollar amid higher U.S. bond yields has made investments in the U.S. more attractive compared to India.
+What could be the impact of Rupee depreciation?
+Increased Import Costs:
+A weaker rupee raises the cost of imports, particularly for essential goods such as crude oil, fertilizers, and edible oils. This increase in import bills can lead to a higher overall trade deficit, which reached an all-time high of $37.8 billion in November 2024, exacerbating economic vulnerabilities.
+Inflationary Pressures:
+The rising costs of imported goods contribute to inflation, making everyday goods more expensive for consumers. This can lead to higher living costs and reduced purchasing power, as seen with the increased prices of food and fuel due to higher import expenses.
+Impact on Economic Growth:
+The combination of rising inflation and increased costs can dampen economic growth. Higher import bills can create upward pressure on interest rates, making borrowing more expensive and potentially slowing down investment and consumption.
+Why made the central bank to intervene?
+Stabilizing Currency Value:
+The Reserve Bank of India (RBI) intervened in the forex market to stabilize the rupee and prevent excessive volatility that could disrupt economic stability. By selling dollars from its reserves, the RBI aimed to support the rupee’s value against the dollar.
+Preventing Inflationary Pressures:
+A depreciating rupee increases the cost of imports, particularly essential commodities like crude oil, which can exacerbate inflation domestically. The RBI’s intervention seeks to mitigate these inflationary pressures by maintaining a more stable exchange rate.
+Maintaining Investor Confidence:
+By actively managing the currency’s value, the RBI aims to instill confidence among investors regarding India’s economic stability and attractiveness as an investment destination. This is crucial for sustaining foreign investment inflows and supporting economic growth.
+Way forward:
+Diversify Export Markets and Reduce Dependence on Imports:
+India should focus on enhancing its exports to non-traditional markets while exploring alternatives to reduce dependence on high-cost imports, especially crude oil and gold.
+Monetary Policy Coordination and Strengthening Fundamentals:
+The RBI should work towards aligning its monetary policy with global trends while ensuring domestic inflation remains under control.
+Mains PYQ:
+How would the recent phenomena of protectionism and currency manipulations in world trade affect macroeconomic stability of India?
+(UPSC IAS/2018)
+**********India needs to prioritise preventive care
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to health care;
+Why in the News?
+Non-communicable diseases (NCDs) like heart disease, stroke, diabetes, and cancer are rising sharply in India which causing a heavy financial burden. In 2022, NCDs accounted for 65% of all deaths.
+Why should India shift its focus from curative to preventive healthcare?
+Improved Health Outcomes:
+Preventive healthcare allows for early detection and management of health issues, which can lead to better overall health, a higher quality of life, and potentially increased lifespan.
+Early diagnosis helps mitigate serious complications associated with chronic diseases like diabetes, heart disease, and cancer.
+Cost Savings:
+Investing in preventive care can significantly reduce healthcare costs. By preventing illnesses or catching them early, individuals can avoid expensive treatments and hospitalizations.
+Reduced Burden on Healthcare Systems:
+With a proactive approach to health, the pressure on India’s already strained healthcare infrastructure can be alleviated. Preventive care can help manage the rising incidence of non-communicable diseases (NCDs), which accounted for about 65% of deaths in 2022.
+Economic Productivity:
+A healthier population contributes to increased productivity. Chronic illnesses often lead to absenteeism and reduced work capacity, which can negatively impact economic growth.
+Addressing Rising Disease Burden:
+The growing prevalence of NCDs in India necessitates a shift toward preventive measures. With many individuals facing disease burdens earlier in life, focusing on prevention can help manage these conditions more effectively and sustainably.
+How can India effectively shift its focus from curative to preventive healthcare?
+Strengthening Early Intervention:
+Enhancing the capabilities of Ayushman Health and Wellness Centres to facilitate targeted screenings and early interventions is crucial. This can involve using data analytics to identify high-risk populations and provide tailored preventive care services.
+Encouraging Regular Screenings:
+Promoting regular health screenings, especially for individuals aged 40-60, can help identify conditions early. Collaborating with private health providers and insurers to offer subsidized screening programs can make preventive care more accessible.
+Policy Incentives:
+Revising tax deductions for preventive health checks can incentivize individuals to prioritize their health. Increasing the limit from ₹5,000 to ₹15,000 under Section 80D of the Income Tax Act can encourage more people to undergo comprehensive health assessments.
+What role do technology and innovation play in enhancing preventive healthcare accessibility?
+AI and Digital Health Solutions:
+The integration of AI-enabled imaging modalities and telemedicine can enhance the accessibility of preventive healthcare services. These technologies can facilitate lower-cost screenings and improve diagnostic accuracy, especially in underserved areas.
+Health Data Management:
+The National Digital Health Mission (NDHM) can play a pivotal role in managing health data effectively, enabling better tracking of health trends and facilitating targeted interventions based on population health analytics.
+Wearable Health Devices:
+The use of wearable devices for monitoring vital signs and health metrics can empower individuals to take proactive steps in managing their health, leading to earlier detection of potential health issues.
+What are the expected economic and health outcomes of prioritizing preventive care?
+Reduced Healthcare Costs:
+By prioritizing preventive care, India could significantly lower the overall financial burden on individuals and the healthcare system.
+Early diagnosis and intervention can prevent the escalation of diseases that require expensive treatments.
+A focus on preventive healthcare is likely to lead to better health outcomes, including reduced morbidity and mortality rates associated with non-communicable diseases (NCDs). This shift can enhance the quality of life for many individuals.
+Economic Resilience:
+Investing in preventive healthcare can contribute to economic stability by reducing productivity losses associated with chronic diseases. A healthier population is more productive, which can drive economic growth and reduce the financial strain on households.
+Way forward:
+Expand Preventive Care Infrastructure
+: Strengthen health centers with early screening capabilities, utilize data analytics to identify high-risk groups, and collaborate with private providers to offer affordable preventive services.
+Incentivize Preventive Health Practices
+: Revise tax benefits for health check-ups and promote the use of technology, such as wearable devices and telemedicine, to increase accessibility and awareness of preventive healthcare.
+Mains PYQ:
+The increase in life expectancy in the country has led to newer health challenges in the community. What are those challenges and what steps need to be taken to meet them?
+(UPSC IAS/2022)
+**********Indus Valley Script
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+In a landmark announcement, Tamil Nadu CM M.K. Stalin offered a $1 million prize to anyone who successfully deciphers the ancient
+Script.
+Recent Efforts and Theories
+Bahata Ansumali Mukhopadhyay’s Theory
+Suggests the script served
+commercial purposes
+, such as
+trade permits
+tax stamps
+Highlights its practical use rather than religious or literary functions.
+Asko Parpola’s Dravidian Hypothesis
+Proposes a
+logo-syllabic system
+, where pictograms represent words or phonetic rebuses.
+Links the script to
+Dravidian languages
+, challenging
+Sanskrit-based interpretations
+Tamil Nadu’s
+Keezhadi excavations
+also draw parallels to IVC practices.
+About the Indus Valley Civilization (IVC)
+Harappan Civilization
+, also known as the
+, flourished between
+2600 BCE and 1900 BCE
+, with earlier settlements dating back to
+3200 BCE
+The origins of this civilisation are traced back to
+Mehrgarh
+Balochistan
+, which dates to
+7000 BCE
+It is considered one of the three earliest civilizations, alongside
+Egypt
+Mesopotamia
+The civilization covered over
+1.5 million sq. km
+, stretching across modern-day
+India
+Pakistan
+, and
+Afghanistan
+Remains of the civilization include:
+Well-planned cities
+with a grid layout, intersecting streets, and fortified structures.
+Advanced drainage systems
+with underground sewers and covered drains, showing a strong emphasis on hygiene.
+Granaries
+warehouses
+dockyards
+, indicating the presence of structured trade and food storage mechanisms.
+The discovery of
+seals made of steatite
+, often engraved with animals and an un-deciphered script, suggesting a sophisticated administrative system.
+Craftsmanship
+in pottery, bead-making, terracotta figurines, metal artefacts, and weaving.
+Water management systems
+reservoirs
+wells
+baths
+, indicating an advanced understanding of hydraulic engineering.
+Two ASI archaeologists were credited with the discovery:
+Daya Ram Sahni
+excavated
+1921-22
+, discovering seals, pottery, and beads.
+Rakhal Das Banerji
+began excavating
+Mohenjo-daro
+1922
+, finding similar items such as seals and copper objects.
+John Marshall
+noticed the
+similarity
+between the objects found at Harappa and Mohenjo-daro, despite the sites being
+640 km apart
+What were the Artifacts and Sculptures found at the site?
+The IVC is renowned for its remarkable artifacts and sculptures, reflecting its advanced culture and daily life.
+Key finds include
+seals with animal motifs and inscriptions
+of animals and mother goddesses, and intricately crafted
+beads and ornaments
+made of gold, silver, and semi-precious stones.
+Iconic sculptures like the
+bronze “Dancing Girl”
+steatite “Priest-King”
+highlight artistic sophistication.
+Practical items like
+pottery, toys, and tools
+demonstrate technological advancement and societal organization.
+These discoveries shed light on the
+civilization’s trade, religious beliefs, and aesthetic achievements
+PYQ:
+[2013]
+Which of the following characterizes/characterize the people of Indus Valley Civilization?
+1. They possessed great palaces and temples.
+2. They worshipped both male and female deities.
+3. They employed horse-drawn chariots in warfare.
+Select the correct statement/statements using the codes given below.
+(a) 1 and 2 only
+(b) 2 only
+(c) 1, 2 and 3
+(d) None of the statements given above is correct
+**********Migratory Bats ‘surf’ storm front winds to save energy
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Common Noctule Bats (Nyctalus noctula)
+Why in the News?
+The Common Noctule Bats are surf over the storm winds when they migrate thousands of miles across continents, reveals new research.
+About the Common Noctule Bats (Nyctalus noctula)
+The common noctule bat (
+) is one of the largest bat species in Europe.
+It has a body length of
+7–9 cm
+, a wingspan of
+32–40 cm
+, and weighs between
+18–40 grams
+Its fur is
+reddish-brown to golden-brown
+, darker on the back and lighter underneath, while its wings are long and narrow, designed for
+fast and sustained flight
+Features:
+Common noctules are known for their
+swift and high-altitude flight
+, reaching heights of up to
+3,000 meters
+They are primarily
+insectivorous
+, feeding on moths, beetles, and other flying insects.
+Their
+echolocation
+abilities allow them to detect and hunt prey with precision, even in complete darkness.
+Although classified as
+Least Concern
+by the IUCN, common noctule bats face several threats, including habitat loss due to deforestation and urbanization.
+Habitat:
+The common noctule bat is widely distributed across
+Europe, North Africa, and Asia
+, extending into Siberia and parts of China.
+It is migratory, especially in central and eastern Europe, traveling
+long distances
+between summer breeding sites and winter hibernation sites.
+It inhabits
+forests and woodlands
+, where it uses hollow trees for roosting, as well as
+urban areas
+, where it often roosts in buildings, attics, and bat boxes.
+These bats also thrive in
+wetlands and grasslands
+, hunting over water bodies and open fields where insect populations are abundant.
+PYQ:
+[2012]
+Consider the following kinds of organisms:
+1. Bat
+2. Bee
+3. Bird
+Which of the above is/are pollinating agent/agents?
+(a) 1 and 2 only
+(b) 2 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********How are Zebrafishes able to repair damaged hearts?
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+A recent research revealed that the
+(a popular aquarium fish)
+can regenerate damaged heart
+muscle
+within 60 days
+, a capability absent in humans. The
+Hmga1 protein
+plays a key role in this process, offering potential insights for heart repair in mammals.
+Discovery of Hmga1’s Role in Zebrafish Heart Regeneration:
+In zebrafish, the
+plays a pivotal role in activating dormant genes necessary for regeneration.
+It removes molecular “roadblocks” on
+chromatin
+(DNA-packaging structures), shifting genes from an inactive state to active regeneration mode.
+Hmga1 gene
+, active during
+embryonic development
+in mice and humans, becomes inactive after birth.
+In zebrafish, however, the gene remains active during
+heart regeneration
+, enabling the repair process.
+About Zebrafish
+Zebrafish are small
+freshwater fish
+measuring
+2-3 cm
+in length.
+It is named for the
+horizontal blue stripes
+running along their bodies.
+It is native to
+South Asia’s Indo-Gangetic plains
+It is commonly found in
+paddy fields
+stagnant water
+, and
+streams
+It thrives in tropical and subtropical climates.
+It is classified as
+Least Concern
+by the
+IUCN
+due to their widespread distribution and stable population.
+Features of Zebrafish
+Zebrafishes are known for their ability to regenerate
+almost all major organs
+, including the
+heart, brain, eyes, and spinal cord
+This unique trait makes them an important model in
+developmental biology
+disease research
+They
+share approximately
+70% of their genes
+with humans.
+Over
+80% of human disease-related genes
+have counterparts in zebrafish, making them valuable for studying genetic disorders.
+They produce hundreds of embryos in a single clutch, enabling large-scale studies.
+They are now preferred over rodent (guinea pigs) models for certain vertebrate development studies.
+Widely used for
+regenerative biology
+drug discovery
+due to their cost-effectiveness and rapid breeding.
+**********Chhattisgarh first state to link Forest Ecosystem with Green GDP
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+For the first time in India,
+has introduced an innovative framework that integrates the
+ecosystem services of its forests
+into the calculation of
+Green Gross Domestic Product (Green GDP)
+. This initiative highlights the critical role forests play in supporting both
+environmental sustainability
+and
+economic growth
+Highlights of the Chhattisgarh’s
+Plan
+Forest contributions like
+carbon absorption
+climate regulation
+, and
+biodiversity preservation
+will now be formally quantified and included in the state’s economic planning.
+The initiative ensures forests are valued not just for their resources but for their broader ecological services.
+With
+44% of its land
+under forest cover, Chhattisgarh’s natural resources are vital for the livelihoods of millions and play a significant role in mitigating climate change.
+The initiative aligns with
+Prime Minister Narendra Modi’s ‘Developed India 2047’ vision
+, focusing on long-term ecological and economic sustainability.
+About Green GDP
+Green GDP is an
+alternative metric
+for assessing economic growth that includes the
+environmental costs
+of economic activities.
+It subtracts the value of
+natural resource depletion
+environmental degradation
+from traditional GDP to provide a more accurate picture of economic well-being.
+Introduced in the
+1993
+United Nations Handbook of National Accounting: Integrated Environmental and Economic Accounting
+under the
+System of Environmental-Economic Accounting (SEEA)
+framework.
+Key Features:
+Aims to measure the
+of economic growth.
+Focuses on valuing ecosystem services like
+carbon sequestration
+soil conservation
+water resources
+Provides insights into the
+trade-offs
+between economic growth and environmental conservation.
+Calculation:
+Green GDP = Traditional GDP – Costs of Environmental Degradation – Costs of Resource Depletion.
+Government Initiatives for Green GDP Accounting
+Green National Account Framework:
+It integrates environmental considerations into national accounting systems. It captures the value of natural resources, costs of pollution, and benefits of ecosystem services like clean air and water.
+System of Environmental-Economic Accounting, 2012 (SEEA):
+It was adopted by India under UN guidelines to create databases for natural capital accounting and informed policymaking.
+RBI Estimates:
+Green GDP for 2019 was ₹167 trillion, reflecting a 10% adjustment from traditional GDP. It is supported by organizations like TERI and Indian Statistical Institute to refine valuation methodologies.
+Challenges in Implementing Green GDP
+Lack of comprehensive and reliable data on environmental costs and ecosystem services.
+Dependence on subjective assumptions reduces the accuracy of Green GDP estimates.
+Assigning
+monetary value
+to ecosystem services like biodiversity, cultural heritage, and climate regulation is challenging.
+Critics argue that such values may oversimplify or commodify
+nature’s intrinsic worth
+No universal framework exists for calculating Green GDP.
+**********Genetic Engineering Appraisal Committee (GEAC)
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Genetic Engineering Appraisal Committee (GEAC) and its Functions
+Why in the News?
+The Union Ministry of Environment, Forest, and Climate Change has introduced amendments to the rules governing the selection of experts in the Genetic Engineering Appraisal Committee (GEAC).
+Key Highlights of the Revised GEAC Rules:
+Conflict of Interest Disclosure:
+Expert members must disclose any direct or indirect interests that may conflict with their duties. Conflicted members must recuse themselves from decision-making unless specifically requested by the committee.
+Transparency Measures:
+All members are required to submit a detailed record of their professional affiliations from the past 10 years to ensure accountability and unbiased evaluations.
+Participation Restrictions:
+Experts with conflicts of interest must report them before meetings and take steps to ensure that their affiliations do not affect GEAC decisions.
+Enhanced Governance:
+The revised rules aim to strengthen the regulatory process for genetically modified organisms (GMOs), ensuring fair and impartial decision-making.
+Supreme Court Compliance:
+The amendments align with the Supreme Court’s directive (2023) to address concerns of conflict of interest in GM crop approval processes, boosting public trust in GEAC’s role.
+Improved Operational Integrity:
+These changes emphasize transparency, ensuring that scientific appraisals and policy decisions remain free from external influence.
+What is Genetic Engineering Appraisal Committee (GEAC)?
+The GEAC is the apex regulatory body overseeing activities related to
+in India, particularly their release into the environment.
+It is established under the
+Rules for the Manufacture, Use/Import/Export, and Storage of Hazardous Microorganisms/Genetically Engineered Organisms or Cells (Rules, 1989)
+framed under the
+Environment (Protection) Act, 1986
+Structural Mandate:
+Operates under the
+Ministry of Environment, Forest, and Climate Change (MoEF&CC)
+Composition:
+Chairperson:
+Special Secretary/Additional Secretary of MoEF&CC.
+Co-Chairperson:
+Representative from the
+Department of Biotechnology (DBT)
+Includes
+24 members
+, representing key institutions like the
+Indian Council of Agricultural Research (ICAR)
+Indian Council of Medical Research (ICMR)
+Centre for Cellular and Molecular Biology (CCMB)
+Meets monthly for appraisals and discussions.
+Powers and Functions of GEAC:
+Powers:
+Approves or denies proposals for environmental release of genetically engineered organisms (including GM crops).
+Exercises the power to take
+punitive actions
+Environment Protection Act, 1986
+for violations.
+Monitors large-scale use of hazardous microorganisms and recombinants in research and industrial production.
+Functions:
+Evaluates activities involving the environmental release of GMOs and their products, including
+experimental field trials
+Ensures compliance with safety protocols to minimize environmental risks.
+Reviews applications for the import, export, manufacture, and storage of GM organisms and cells.
+Makes recommendations based on a comprehensive assessment of environmental and health impacts.
+Addresses concerns related to
+and ensures impartiality in decision-making.
+Engages with stakeholders, including farmers and environmentalists, to maintain transparency and address public concerns.
+PYQ:
+[2015]
+The Genetic Engineering Appraisal Committee is constituted under the:
+(a) Food Safety and Standards Act, 2006
+(b) Geographical Indications of Goods (Registration and Protection) Act, 1999
+(c) Environment (Protection) Act, 1986
+(d) Wildlife (Protection) Act, 1972
+**********

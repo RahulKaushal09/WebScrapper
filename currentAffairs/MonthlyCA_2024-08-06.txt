@@ -1,0 +1,713 @@
+
+**********
+IIT-M Team Makes Mineral Nanoparticles with Water Droplets
+Source: TH
+Why in News?
+Recently a study published in the journal Science has revealed that
+microdroplets of water
+possess the ability to break down
+minerals into
+nanoparticles
+.
+What are the Key Highlights of the Study?
+Experimental Findings:
+The study demonstrated that microdroplets
+could break down minerals
+such as
+silica (SiO
+2
+) and alumina (Al
+3
+) into nanoparticles.
+This was achieved
+by applying a high voltage to mineral microparticles
+suspended in water, causing them to break into nanoparticles within 10 milliseconds.
+The breakup of mineral microparticles into nanoparticles may be due to the
+protons squeezing into crystal layers
+, the electric fields produced by charged surfaces, and the surface tension of the microdroplets.
+Potential Applications:
+This process of nanoparticle formation has
+significant implications for agriculture,
+such as converting unproductive soil into productive land by supplying silica nanoparticles.
+Plants absorb silica in the form of nanoparticles to help them become taller.
+It also has
+relevance to the origins of life
+, as microdroplets might mimic proto-cells, potentially playing a role in early biochemical reactions.
+Future investigation may look into whether water microdroplets naturally react with minerals in atmospheric processes, potentially forming nanoparticles through 'microdroplet showers'.
+
+**********
+Gaganyaan Astronauts Selected for Axiom-4 Mission
+Source: IE
+Why in News?
+The
+Indian Space Research Organisation (ISRO)
+has shortlisted two of its four trained
+astronauts for the
+Axiom-4 mission
+to the
+International Space Station (ISS)
+in collaboration with the United States'
+National Aeronautics and Space Administration (NASA)
+.
+What is the Axiom-4 Mission?
+NASA and Axiom Space, an american privately funded space infrastructure developer signed an order for the
+fourth private astronaut mission
+to the ISS, aiming to launch in August 2024 from
+Kennedy Space Center in Florida.
+The mission aims to dock with the ISS for a fourteen-day duration.
+Indian astronauts will receive training from NASA,
+international partners, and SpaceX, focusing on spacecraft systems and emergency preparedness, as part of India-US space cooperation goals.
+What is the International Space Station (ISS)?
+The ISS is a large, permanently crewed laboratory that orbits Earth, 400 kilometres above its surface. It is
+home to astronauts and cosmonauts,
+and serves as a unique science laboratory.
+Its research is expected to lead to advancements in many areas, including medicine, technology, science, and understanding the Earth and universe.
+It's a collaboration between
+15 countries and five space agencies
+namely
+NASA (United States), Roscosmos (Russia), ESA (European Space Agency), JAXA (Japan Aerospace Exploration Agency), and CSA (Canadian Space Agency).
+An international crew of
+seven people live and work
+while travelling at a speed of 7.66 km/sec, orbiting Earth about every 90 minutes. In
+24 hours, the space station makes 16 orbits of Earth,
+travelling through 16 sunrises and sunsets.
+Peggy Whitson
+set the US record for spending the most total time living and working in space for 665 days.
+The first parts of the ISS were sent and assembled in orbit  in 1998. Since the year 2000, the ISS has had crews living continuously on board.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1720433308_International_Space_Station.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+Read more:
+India Joins Artemis Accords
+
+**********
+Satellite-Based Communication
+Source: LM
+Why in News?
+Recently,
+satellite-based communication
+for internet connectivity has gained traction, although its evolution has shifted away from being user-centric, raising questions about its
+viability
+for users in India.
+What is Satellite Based Communication?
+About:
+A communications satellite is a
+type of
+artificial satellite
+placed in Earth’s orbit to send and receive communication data
+between a source and a destination.
+With over three thousand communication satellites in multiple orbits today, millions worldwide rely on satellite communications to deliver radio, television, and military applications.
+Satellite communications have
+opened access to voice and data communication services across the globe
+in places where terrestrial cellular and
+broadband connectivity
+is not available or network coverage is patchy.
+Types:
+Based on the orbit, communication satellites fall into
+one of four categories:
+Geostationary Earth orbit (GEO)
+Medium Earth orbit (MEO)
+Low Earth orbit (LEO)
+Highly elliptical orbit (HEO)
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1720186634_image3.png" style="display: block; margin-left: auto; margin-right: auto;" width="550"/>
+Working:
+Satellite communications use orbiting satellites and ground stations to transmit and relay information via
+microwaves
+between points on Earth.
+There are
+three stages in the process:
+Uplink
+Transponder
+Downlink
+For example, in live television, a broadcaster sends a signal to a satellite (uplink), which then boosts and changes the frequency of the signal (transponder), before sending it back to Earth stations (downlink).
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1720186669_image6.png" style="display: block; margin-left: auto; margin-right: auto;" width="500"/>
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1720186691_image11.png" style="display: block; margin-left: auto; margin-right: auto;" width="500"/>
+Current Status of Satcom Services in India:
+Even though technology is ready for India, Satcom
+services are not yet operational in India
+primarily due to pending allocation of satellite bandwidth by the government.
+Recently, Reliance Industries' Jio Platforms has
+received approval from India's space regulator,
+IN-SPACe
+, to deploy satellites for gigabit fibre internet services, pending additional clearances from the telecom department to commence operations.
+Target Audience and Services:
+Satcom operators plan to target both individual consumers and enterprises.
+Starlink is known for its consumer-focused approach
+with portable routers, while
+Airtel and Reliance Jio are looking at both consumer and enterprise markets.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1720186731_image7.png" style="display: block; margin-left: auto; margin-right: auto;" width="700"/>
+Technological Readiness
+Device compatibility is an issue
+as specialised antennas are required to receive satellite signals. This adds to the cost for consumers.
+Moreover,
+mainstream integration
+of satellite receivers in consumer devices has been
+limited
+so far, despite efforts by companies like Apple and Qualcomm.
+Challenges and Limitations
+Satcom services face challenges such as
+high setup costs
+, especially for consumer applications.
+cost of equipment, including specialised antennas
+, remains a barrier. Pricing is another concern as satcom services are perceived as expensive compared to terrestrial broadband.
+Future Outlook
+The future of satcom in India
+hinges on regulatory approvals
+, technological advancements, and addressing cost concerns. The entry of new players like Project Kuiper could potentially intensify competition and innovation in the market.
+
+**********
+Global INDIAai Summit
+Source: PIB
+Why in News?
+The
+Global INDIAai Summit,
+held at
+Bharat Mandapam
+in New Delhi, has concluded successfully. This landmark event brought together experts, policymakers, and enthusiasts to discuss the future of
+Artificial Intelligence (AI)
+in India and globally
+In another development, the
+International Monetary Fund (IMF)
+has launched an
+Artificial Intelligence Preparedness Index (AIPI) Dashboard,
+tracking the AI readiness of 174 economies globally.
+What are the Key Highlights and Outcomes of the Summit?
+Global AI Discourse:
+India set the global discourse by emphasising the government's intent to make AI accessible to all, regardless of socio-economic background.
+Discussions highlighted India's unique needs in shaping its AI discourse, focusing on meeting
+domestic demands while aiming for global AI leadership.
+The summit provided a platform for
+Global South countries
+to express their AI-related concerns and aspirations, with many acknowledging India's role in bridging the gap with the Global North.
+INDIAai Mission Focus:
+The summit demonstrated India's commitment to building a robust and
+inclusive AI ecosystem through the INDIAai Mission.
+Sessions focused on the mission's core areas, including
+compute capacity, foundational models, datasets, application development, future skills, startup financing, and safe AI.
+Discussions covered various implementation aspects, such as developing
+multi-Large Language Models(LLM) models
+to meet India's diverse needs, platformization and standardisation of AI-ready data, and creating a partner ecosystem with a multi-stakeholder approach.
+Global Partnerships:
+CAIGP:
+Collaborative AI on Global Partnership (CAIGP)
+Global Partnership on Artificial Intelligence (GPAI)
+members, AI experts to identify mechanisms to overcome the global AI divide.
+GPAI is a multi-stakeholder initiative with
+29 member countries including India,
+which aims to bridge the gap between theory and practice on AI by supporting cutting-edge research and applied activities on AI-related priorities.
+India is the lead chair of GPAI in 2024.
+As GPAI's Lead Chair, India is convening global AI experts to discuss key issues and promote trustworthy AI.
+GPAI Consensus:
+Members reached a
+consensus on the future vision of GPAI,
+emphasising the transformative potential of AI, acknowledging risks, and committing to human-centric AI development.
+OECD-GPAI Partnership:
+A new integrated partnership on AI was announced between the
+Organisation for Economic Co-operation and Development (OECD)
+and GPAI in New Delhi, strengthening international cooperation. It has significant implications, especially for India and other non-OECD member countries.
+India strategically secured GPAI's independent identity alongside OECD members, maintaining its relevance in global AI governance discussions.
+However, the trade-offs included the secretariat remaining with the
+OECD despite India's push for independence, and non-OECD GPAI members participating equally but under OECD's administrative oversight.
+Startup Ecosystem Support:
+Rs. 2,000 crore from the INDIAai Mission's Rs 10,372 crore outlay was earmarked to support Indian startups developing indigenous AI-based solutions.
+Plans were discussed to provide subsidised access to
+GPU infrastructure for startups,
+addressing the critical need for compute power in AI development.
+The summit highlighted strategies to resolve key issues faced by AI startups, including access to datasets, skill development, and fostering innovation.
+AI Education:
+Stressed the need for curated, age-appropriate AI learning environments to foster widespread
+AI literacy.
+Sector-Specific Insights:
+The summit explored AI applications in
+AgriStack,
+data-driven credit disbursement
+to farmers, and the use of AI for timely agricultural information collection and decision-making.
+Discussions covered legal frameworks and dataset platforms in India, emphasising the
+importance of data management in governance
+The integration of AI in government services was also addressed, focusing on improving efficiency and citizen services.
+Ethical and Human-Centric AI:
+The summit reaffirmed the collective commitment to
+fostering trustworthy and human-centric AI development.
+Participants recognized the emerging risks and challenges posed by AI systems, emphasising the need for responsible development. The summit recalled commitments to the
+OECD Recommendation on AI
+UNESCO Recommendation on the Ethics of AI.
+UNESCO adopted the Recommendation on the Ethics of AI with a focus on
+protecting human rights and dignity.
+The recommendation emphasises transparency, fairness, and human oversight of AI systems. It also includes Policy Action Areas for policymakers to implement the core values and principles in areas such as data governance, environment, gender, education, research, health, and social wellbeing.
+What is the Artificial Intelligence Preparedness Index (AIPI)?
+AIPI evaluates countries based on their
+digital infrastructure
+, human capital, labour policies, innovation, integration, and regulation.
+Countries with advanced digital infrastructure tend to score higher on the Index. Availability of skilled workforce and educational systems supporting AI skills are crucial factors.
+The AIPI Dashboard categorises countries into
+Advanced Economy (AE), Emerging Market Economy (EM), and Low-Income Country (LIC).
+Singapore (0.80), Denmark (0.78), and the United States (0.77) are among the highest-rated AEs.
+India is ranked 72
+with a rating of 0.49, categorized as an EM.
+India's performance is relatively strong among emerging market economies but lags behind some of its regional peers like China (0.63) at 31
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1720175034_Artificial_Intelligence_Preparedness Index.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+Read more:
+Global Partnership on Artificial Intelligence (GPAI) Summit
+Drishti Mains Question:
+Q.
+Discuss the importance of global partnerships, such as the Global Partnership on Artificial Intelligence, in overcoming the global AI divide. What role does India play in these partnerships?
+
+**********
+Development of Polio Vaccines
+Source: TH
+Why in News?
+The wild poliovirus is beginning to reappear in big cities in
+Afghanistan
+and
+Pakistan,
+due to
+vaccine hesitancy, misinformation, conflict, poverty
+, and
+limited access
+to these isolated regions.
+As a result, the
+World Health Organization
+'s Global Polio Eradication Initiative
+is set to
+miss its deadline of eradicating polio by the end of 2026.
+The two vaccines namely
+Inactivated Polio Vaccine (IPV) and Oral Polio Vaccine (OPV)
+have helped in nearly eradicating polio from the world.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1720173912_image15.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+What is the History of Development of Polio Vaccines?
+The development of the 2 polio vaccines - the
+Jonas Salk
+and the
+Albert Sabin
+was a result of several key breakthroughs:
+Culturing the Poliovirus in Non-Nerve Cells:
+In 1948, microbiologists discovered a method to grow the poliovirus in
+human muscle
+skin cells
+, rather than just in nerve cells as was previously believed.
+This allowed for the
+mass production of the poliovirus
+, which was crucial for vaccine research and development.
+Development of the Inactivated Polio Vaccine (IPV):
+developed the
+first successful polio vaccine
+growing the poliovirus, inactivating
+it and injecting it into test subjects.
+The IPV generated systemic immunity, as it was
+introduced into the muscle.
+Development of the Oral Polio Vaccine (OPV):
+Albert Sabin developed the OPV, which contained
+live, weakened poliovirus strains that were administered orally.
+The OPV induced a
+powerful protective mucosal immune response
+in the gut, where the virus begin its infection.
+What are Advantages and Disadvantages of IPV and OPV?
+Advantages:
+IPV is made from
+killed or inactivated poliovirus
+, which means it cannot cause the disease.
+IPV is safe for use in immunocompromised individuals
+, as it does not contain live virus.
+provides long-lasting immunity
+and does not require multiple doses to maintain protection.
+Disadvantages:
+IPV is more expensive to produce and administer compared to OPV.
+IPV requires multiple doses (usually a series of 2-4 shots) to achieve full immunity.
+IPV does not provide the same level of mucosal immunity as OPV, which can limit its ability to interrupt the transmission of the virus.
+OPV is
+less expensive to produce and administer
+compared to IPV.
+OPV only requires a single or a few doses to provide effective immunity.
+OPV can
+provide better mucosal immunity,
+which helps to interrupt the transmission of the virus.
+OPV contains live, weakened poliovirus, which in rare cases can mutate and
+cause vaccine-derived poliovirus (VDPV) outbreaks.
+not recommended for
+, as the live virus can pose a risk.
+OPV-derived
+immunity may not be as long-lasting as IPV-derived
+What are the Key Facts about Polio?
+(poliomyelitis)
+is a highly infectious
+viral disease
+that enters the body through the
+mouth
+multiplying in the intestine
+before invading the
+nervous system.
+It mainly affects children
+under 5 years
+of age.
+The incubation period for poliovirus is usually
+7–10 days
+, but it can range from 4–35 days.
+Initial symptoms of poliovirus infection include
+fever, fatigue, headache, vomiting, stiffness
+in the neck, and
+pain
+in the limbs.
+Up to
+90%
+of those infected with poliovirus experience
+no or mild symptoms,
+often going unrecognised.
+One in 200 infections leads to permanent
+paralysis
+of the legs, which can occur within a few hours of infection.
+5-10% of those paralyzed by polio virus die
+when their breathing muscles become immobilised.
+The virus is
+shed by infected people, usually children, through faeces
+, and can spread quickly in areas with poor hygiene and sanitation systems.
+Cases due to wild poliovirus have
+decreased by over 99% since 1988
+, from an estimated
+350 000 cases
+in more than 125 endemic countries, to just 2 endemic countries
+(as of October 2023).
+India
+received
+polio-free certification
+by the WHO
+in 2014
+, after three years of zero cases.
+What are the Measures Taken to Eradicate Polio?
+Global:
+Global Polio Eradication Initiative:
+It was launched in
+by  national governments and spearheaded by the WHO, Rotary International, the United States Centers for Disease Control and Prevention (CDC), and the United Nations Children's Fund (UNICEF).
+World Polio Day:
+It is observed every year on
+24
+in order to call on countries to stay vigilant in their fight against the disease
+India:
+Pulse Polio Programme:
+Intensified Mission Indradhanush 2.0
+Universal Immunization Programme (UIP):
+1985
+with the modification to
+‘Expanded Programme of Immunization (EPI)
+. The objectives of the Programme include:
+Rapidly increasing immunisation coverage, Improving the quality of services, Establishing a reliable cold chain system to the health facility level, Introducing a district-wise system for monitoring of performance, Achieving self-sufficiency in vaccine production.
+Read more:
+Guinea Worm Disease
+
+**********
+DBS Brain Implant Surgery for Epilepsy Treatment
+Source: IE
+Why in News?
+Recently, a UK-based teenager has become the first person in the world to be fitted with a
+brain implant device
+to help bring his
+epileptic seizures
+under control.
+The
+Deep Brain Stimulation (DBS)
+device was inserted in his skull which reduced his daytime seizures by 80%.
+What is Epilepsy Disorder?
+About Epilepsy:
+It is a
+central nervous system (neurological) disorder
+in which
+brain activity becomes abnormal
+, causing seizures or periods of unusual behaviour, sensations, and sometimes loss of awareness.
+Causes:
+It is caused by
+abnormal electrical activity
+in the brain.
+The disease has
+no identifiable cause
+in nearly 50% of the cases. However,
+head trauma, tumours in the brain
+, some infections like
+meningitis
+, or even
+genetics
+can lead to epilepsy.
+It’s more common in young children and older adults. It occurs slightly
+more in males
+than in females.
+Available Treatment of Epilepsy:
+Anti-seizure Medications:
+These are the first line of treatment, aiming to control seizure frequency and severity..
+Ketogenic diet:
+high-fat, low-carbohydrate diet
+can be remarkably effective, particularly in children with medication-resistant epilepsy.
+Epilepsy Surgery:
+Doctors can carry out brain surgery to
+remove a portion of the brain
+where the seizures originate.
+Corpus Callosotomy:
+In this surgical procedure doctors remove
+the corpus callosum (a part that connects both halves of the brain)
+that will
+not allow abnormal electrical signals to travel
+from one half of the brain to another, preventing abnormal electrical discharges from spreading and causing seizures.
+What is the DBS Brain Implant Technology to Treat Epilepsy?
+About:
+involves
+implanting a medical device
+with electrodes that
+deliver mild electrical currents
+specific brain regions
+linked to seizures.
+DBS is considered for patients with
+, where traditional medications haven't controlled seizures.
+Unlike surgery that removes brain tissue, DBS offers a
+more targeted approach
+with potentially
+fewer side effects.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1719997059_image1.png" style="display: block; margin-left: auto; margin-right: auto;" width="450"/>
+Working:
+The device is a
+neurostimulator
+delivers constant electrical impulses
+to the brain to
+disrupt or block abnormal seizure-causing signals
+Two electrodes
+were inserted deep into the brain, reaching the
+thalamus
+, a relay station for motor and sensory information. The electrodes are connected to the neurostimulator device.
+The device can be
+recharged wirelessly
+using a headphone.
+Advantages:
+Effective Seizure Control:
+It helps
+reduce seizure frequency by around 40%
+in some patients.
+Alternative for Complex Epilepsy:
+It offers a viable alternative for patients with epilepsy originating from
+multiple brain regions
+surgery is difficult or impractical
+Treatment-Resistant Cases
+: It can be a valuable option when
+traditional interventions
+like medications and dietary modifications
+have failed to achieve adequate seizure control.
+Limitations:
+not a guaranteed cure.
+It can be expensive with a total cost can reach around Rs 17 lakh.
+success rates are lower
+compared to well-established surgical approaches.
+Brain surgery
+can achieve
+seizure freedom in nearly 90%
+of suitable cases.
+Read more:
+
+**********
+What is PraVaHa Software?
+06-06-2024
+10:23 AM
+<img alt="timer" data-nimg="1" decoding="async" height="24" loading="lazy" src="/_next/static/media/timer.1fbdd779.svg" style="color:transparent" width="24"/>
+min read
+Prelims: Science & Technology
+<img alt="What is PraVaHa Software? Blog Image" class="cover-image-size" src="https://vajiram-prod.s3.ap-south-1.amazonaws.com/Pra_Va_Ha_Software_5c184fbaf9.webp"/>
+Overview:
+The Indian Space Research Organisation (ISRO) recently developed Computational Fluid Dynamics (CFD) software named PraVaHa.
+About PraVaHa Software:
+Parallel RANS Solver for Aerospace Vehicle Aero-thermo-dynamic Analysis
+(PraVaHa) is a
+developed in
+ISRO’s
+It can
+simulate external and internal flows on launch vehicles
+, winged and non-winged re-entry vehicles.
+PraVaHa has been
+extensively used in
+program for aerodynamic analysis of human-rated launch vehicles
+, viz, HLVM3, Crew Escape System (CES), and Crew Module (CM).
+The software is
+secure and flexible
+enough to
+support collaborative development with academic institutions
+and government labs.
+Currently
+, the PraVaHa code is operational to
+simulate airflow for Perfect Gas and Real Gas conditions.
+Validations of the code are underway for simulating the effects of chemical reactions that occur during air dissociation upon ‘earth re-entry’ and ‘combustion’ as in scramjet vehicles.
+PraVaHa is
+expected to replace
+most of the
+CFD simulations for aero characterisation
+, which are currently being
+carried out using commercial software
+Besides, this software is expected to help academia and other institutions, engaged in the design of missiles, aircraft, and rockets to find solutions to complex aerodynamic problems.
+Importance of Computational Fluid Dynamics (CFD):
+Initial aerodynamic design studies for launch vehicles
+demand evaluation of a large number of configurations.
+Any aerospace vehicle
+moving
+through the Earth’s atmosphere
+during launch or re-entry is
+subjected to severe aerodynamic and aerothermal loads
+in terms of external pressure and heat flux.
+Understanding the airflow
+around aircraft, rocket bodies, or CM during earth re-entry is
+essential to design the shape, structure,
+Thermal Protection System (TPS) required
+for these bodies.
+unsteady part of aerodynamics contributes to serious flow issues
+around such rocket bodies and creates
+significant acoustic noise
+during the mission.
+is one such
+tool to predict the aerodynamic and aerothermal loads,
+which solve numerically the equations of conservation of mass, momentum, and energy along with the equation of state.
+Q1: What is aerodynamics?
+Aerodynamics is the study of forces and the resulting motion of objects through the air. Studying the motion of air around an object allows us to measure the forces of lift, which allows an aircraft to overcome gravity, and drag, which is the resistance an aircraft “feels” as it moves through the air. Everything moving through the air (including airplanes, rockets, and birds) is affected by aerodynamics.
+Source:
+
+**********
+High Altitude Pseudo Satellite (HAPS)
+12-02-2024
+12:03 AM
+<img alt="timer" data-nimg="1" decoding="async" height="24" loading="lazy" src="/_next/static/media/timer.1fbdd779.svg" style="color:transparent" width="24"/>
+min read
+Mains GS-III: Science & Technology
+<img alt=" High Altitude Pseudo Satellite (HAPS) Blog Image" class="cover-image-size" src="https://vajiram-prod.s3.ap-south-1.amazonaws.com/NAL_builds_HAPS_9ca196e757.webp"/>
+What’s in Today’s Article?
+Why in the News?
+About High Altitude Pseudo Satellite (HAPS)
+Benefits/Advantages of HAPS
+Significance w.r.t. India
+News Summary
+CSIR-National Aerospace Laboratories (NAL) has successfully tested an unmanned aerial vehicle, called High Altitude Pseudo Satellite (HAPS) at Challakere, Karnataka, earlier this month.
+<img alt="" src="https://vajiramandravi.s3.us-east-1.amazonaws.com/media/editor_images/2024/2/11/14/38/17/65c88e819d720d05973f7fc8_OI.PNG"/>
+Since the 1990s, a number of initiatives have been launched worldwide to explore the potential applications of High Altitude Pseudo Satellites, also called High Altitude Platform Stations (HAPS).
+HAPS are aircraft positioned above 20 km altitude, in the stratosphere, for very-long-duration flights counted in months and even years.
+These unmanned aircraft may be airplanes, airships or balloons.
+These solar-powered vehicles have been designed to plug the missing link between unmanned aerial vehicles (UAVs) flying in lower altitudes and conventional satellites in space.
+The use of HAPS is considered for a variety of applications such as:
+telecommunications,
+emergency/public safety communications,
+intelligent transportation systems,
+maritime surveillance,
+environmental monitoring,
+land border control applications, etc.
+Compared to ground based communication networks, HAPS can cover larger areas with less interference.
+They could also help ease data transfer when used as an intermediate conduit between a satellite and ground based telecom networks.
+Unlike regular satellites that are expensive to build and launch, HAPS cost far less and are easier to launch.
+In India, Hindustan Aeronautics Limited (HAL) in 2022 had announced that it is developing a “futuristic” high altitude pseudo satellite in collaboration with a start-up company.
+With a long and complex land border of about 15,000 km and a coastline of about 7,500 km, safeguarding the borders is crucial for India and necessitates varied solutions.
+Hovering at the edge of the Earth’s atmosphere, HAPS can provide services towards efficient border patrolling, tracking movements deep into the enemy territory or in the deep seas with their sharp focus on one area.
+Equipped with high-definition optical and infra-red cameras, state-of-the-art sensors, these aerial platforms are suitable for round-the-clock missions, border patrolling, target tracking, maritime surveillance and navigation, and even missile detection.
+China’s state-owned aerospace and defense conglomerate, Aviation Industry Corporation of China (AVIC), has been working on varied HAPS platforms for surveillance purposes.
+In 2018, it successfully tested its solar-powered Morning Star drone which can reportedly stay airborne for months.
+The 5-metre-long system, with a wingspan of 11 metres and weighing 23 kg, rose to about 3 km and stayed put for about eight hours.
+A series of tests have been planned and they are expected to culminate in a full-bodied craft – with a wingspan of 30m (nearly as much as a Boeing 737) – by 2027.
+It will be able to rise to 23 km and stay airborne for at least 90 days.
+NAL aims to design and build the HAPS’ propellers, battery management system, carbon-composite airframe, flight-control system, and the high-powered electric motors that can withstand extreme temperature ranges.
+Last month, in an unrelated project, a Bengaluru-based private company carried out the first test-flight of a solar-powered, long-endurance drone that flew for 21 hours.
+Q1) What is the definition of Stratosphere?
+Stratosphere is the layer of the earth’s atmosphere between about 10 and 50 kilometres above the surface of the earth.
+Q2) What do you mean by Escape Velocity?
+The minimum velocity with which an object can escape the gravitational pull of the planet is called Escape velocity. In the case of earth, escape velocity is the minimum velocity required by a body to be projected to overcome the gravitational pull of the earth.
+Source:
+|
+<img alt="pdf-icon" data-nimg="1" decoding="async" height="50" loading="lazy" src="/_next/static/media/pdf_image.55415cdf.svg" style="color:transparent" width="54"/>
+
+**********
+<img alt="MULTI-OMICS" height="255" src="https://iasgyan.sgp1.digitaloceanspaces.com/images/MULTI-OMICS.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="400"/>
+Source:
+Hindu
+Disclaimer: Copyright infringement not intended.
+Context
+India is leveraging advanced genomics and multi-omics technologies to revolutionize the diagnosis and treatment of diseases like tuberculosis (TB), cancers, and those caused by antimicrobial resistance.
+Multi-omics integrates genomics, proteomics, transcriptomics, and epigenomics to provide comprehensive insights into disease mechanisms and treatment responses.
+Details
+Genomics Initiatives in India
+Genome India Project
+Objective
+: Develop a reference genome for Indian people.
+Milestone
+: Sequencing 10,000 genomes from 99 ethnic groups.
+Applications
+: Design low-cost diagnostics and disease-specific genetic chips.
+IndiGen Project
+: Create a pilot dataset for analyzing genetic diseases.
+: Sequencing genomes of 1,008 individuals from diverse ethnic groups.
+: Develop affordable screening approaches, optimize treatment, and minimize adverse events.
+Disease-Specific Consortia
+Focus Areas
+: TB, cancers, rare genetic disorders, and antimicrobial resistance.
+Approach
+: Use AI and machine learning to combine data from various omics to develop comprehensive disease management strategies.
+Tuberculosis (TB)
+Indian Tuberculosis Genomic Surveillance Consortium (InTGS)
+: Sequence 32,000 TB clinical strains and develop a repository of Mycobacterium tuberculosis strains.
+Goals
+: Map genetic diversity, correlate mutations with drug resistance, and develop sequence-based drug resistance determination methods.
+<img alt="" height="133" src="https://iasgyan.sgp1.digitaloceanspaces.com/images/DAILY_TEST_ADVERTISEMENT_27th_June_24.jpg" width="800"/>
+Rare Genetic Disorders
+Paediatric Rare Genetic Disorders (PRaGeD) Mission
+: Create awareness, perform genetic diagnoses, discover new genes, provide counseling, and develop therapies.
+: Use IndiGen data in bioinformatic pipelines and next-generation sequencing for diagnosis and disease management.
+Cancers
+Indian Cancer Genome Consortium (ICGC-India)
+: Characterize genomic abnormalities in various cancers and identify population-specific genetic variations.
+: Discover biomarkers, new treatment targets, and develop personalized treatment strategies.
+Indian Cancer Genome Atlas Project
+: Create a comprehensive catalogue of genomic alterations in Indian cancers.
+: Facilitate cancer research and precision medicine initiatives.
+Antimicrobial Resistance
+Role of Genomics and Metagenomics
+: Analyze antimicrobial resistance and identify resistance profiles without lab cultures.
+: Inform antibiotic use and select appropriate drug combinations.
+AI, ML, and Multi-omics
+AI and ML in Genomics
+: Predict cancer risk, develop diagnostic tools, classify cancers, and develop treatment strategies.
+Data Analysis
+: AI and ML facilitate the analysis of large genomic datasets, identifying disease-causing variants.
+Multi-omics Integration
+: Combine genomics, proteomics, transcriptomics, and epigenomics to provide holistic insights into disease mechanisms and treatment responses.
+Technological Advancements
+: Standard computational facilities can now handle multi-omics Big Data products rapidly.
+Conclusion
+By integrating AI and machine learning, researchers are able to extract valuable insights from extensive datasets, paving the way for personalized medicine and improved patient outcomes.
+Sources:
+PRACTICE QUESTION
+Q.
+India's adoption of multi-omics and advanced genomics is transforming the healthcare landscape, offering new possibilities for the diagnosis and treatment of complex diseases. Discuss
+. (10 marks)
+
+**********
+Space MAITRI Mission
+27-06-2024
+11:58 AM
+<img alt="timer" data-nimg="1" decoding="async" height="24" loading="lazy" src="/_next/static/media/timer.1fbdd779.svg" style="color:transparent" width="24"/>
+min read
+Prelims: Current Affairs & Events
+<img alt="Space MAITRI Mission Blog Image" class="cover-image-size" src="https://vajiram-prod.s3.ap-south-1.amazonaws.com/Space_Exploration_f6a0fd8dd8.webp"/>
+Overview:
+Recently, the Australian government entered into an $18 million memorandum of  understanding (MoU) with NewSpace India Limited (NSIL), the commercial arm of the Indian Space Research Organisation (ISRO) under the space MAITRI mission.
+About Spece MAITRI Mission:
+Space MAITRI (
+Mission for Australia-India's Technology, Research and Innovation
+), represents a major step forward in the
+strategic partnership
+between the two nations in the space domain.
+It aims to foster
+closer ties between commercial, institutional
+, and governmental space organizations from
+India and Australia.
+It focuses on
+debris management and sustainability
+, aligning with both nations' core values and objectives in promoting responsible space operations and mitigating the growing threat of space debris.
+Under this agreement, NewSpace India Limited will launch Australia’s Space Machines Company's second
+Optimus spacecraft
+2026.
+The 450kg Optimus spacecraft, the largest Australian-designed and built spacecraft to date, will be launched on
+Key facts about NewSpace India Limited
+It is a
+Department of Space
+(DoS), Government of India.
+It was incorporated in March 2019 and was set up to take high technology space-related activities in India.
+Under the new space policy reforms announced by the Government of India in June 2020, NSIL is to undertake operational satellite missions on a “
+demand-driven” model.
+They are responsible to build, launch, own and operate the satellite and provide services to customers.
+It is headquartered
+in Bengaluru.
+Q1: What are Small Satellite Launch Vehicles (SSLVs)?
+SSLV is a 3-stage Launch Vehicle configured with three Solid Propulsion Stages and liquid propulsion-based Velocity Trimming Module (VTM) as a terminal stage.
+Source:

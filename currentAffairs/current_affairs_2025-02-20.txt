@@ -1,0 +1,1593 @@
+INDIA AND QATAR
+Syllabus:
+Prelims & Mains –
+CURRENT EVENT
+Context:
+As Prime Minister Modi and Amir Sheikh Tamim bin Hamad Al Thani held talks in New Delhi, India and Qatar decided to elevate their ties to a “strategic partnership”.
+Background: –
+Both countries signed two agreements and five MoUs, covering areas like economic cooperation, youth affairs and a double taxation avoidance agreement.
+Within the Gulf Cooperation Council (GCC), India has signed strategic partnerships with the UAE, Saudi Arabia, Oman and Kuwait; Qatar is the latest to join that club.
+Key takeaways
+Trade between the two countries is $14 billion annually, and they set a target to double it to $28 billion by 2030.
+Qatar’s sovereign wealth fund has $1.5 billion FDI in India, and the joint statement said that the Qatar side announced a commitment to invest USD 10 billion in India.
+<img alt="" class="alignnone size-medium wp-image-202072" decoding="async" fetchpriority="high" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://iasbaba.com/wp-content/uploads/2025/02/20-feb-dna-300x173.png" srcset="https://iasbaba.com/wp-content/uploads/2025/02/20-feb-dna-300x173.png 300w, https://iasbaba.com/wp-content/uploads/2025/02/20-feb-dna.png 606w" width="300"/>
+Bilateral relationship
+Qatar’s key exports to India include LNG, LPG, chemicals and petrochemicals, plastics and aluminium articles. India’s key exports to Qatar include cereals, copper articles, iron and steel articles, vegetables, fruits, spices, processed food products, electrical and other machinery, plastic products, construction material, textiles and garments, chemicals, precious stones and rubber.
+Qatar is the largest supplier of LNG to India (10.74 MMT for US$ 8.32 billion in FY 2022-23), accounting for over 48% of India’s global LNG imports. Qatar is also India’s largest supplier of LPG (5.33 MMT for US$ 4.04 billion in FY 2022-23) accounting for 29% of India’s total LPG imports.
+Defence cooperation forms an important pillar of the bilateral agenda. India offers training slots in its defence institutions to a number of partner countries, including Qatar.
+As of 2024, Indian population in Qatar forms approximately 25% of Qatar’s populace, primarily as migrant workers.
+Source:
+Indian Express
+**********
+RESILIENT TELECOM INFRASTRUCTURE
+Mains – GS2 & GS 3
+The Coalition for Disaster Resilient Infrastructure (CDRI), a multilateral organisation launched by Prime Minister Narendra Modi in 2019, put out a report earlier this month studying Indian telecom networks’ preparedness in the event of disasters.
+Telecom networks are crucial to handling disasters, because they allow the State and National Disaster Management Authorities to communicate quickly with local municipalities and the State and Union governments
+Telecom networks are particularly vulnerable, as they comprise cabling that may not be fully underground, towers that may not be able to withstand high wind speeds, and because they rely on a steady flow of electricity, which is frequently disrupted by disasters.
+Coastal regions face elevated risks, as that is where undersea cables connect India with the global internet. If the landing stations of these cables are impacted, there can be massive network disruptions.
+What can be done?
+Since much of the disruption is attributable to power failures, much can be accomplished during a disaster by maintaining or restoring power supply to telecom towers and the network operating centres to which they’re connected.
+Telecom operators have typically never deployed towers assuming 24/7 power supply — and have battery as well as fuel backup.
+The CDRI report recommends a few measures to develop a resilient telecom network. These include greater data collection and more coordination among officials, a more robust power infrastructure, and requiring cell towers to withstand higher wind speeds, especially in districts where hurricanes make landfall.
+The CDRI also advocates for a dig-once policy, which recommends building as much underground civil infrastructure, like water and gas supply lines, drainage and fibre optic cables simultaneously, reducing the risk of cables being damaged when other infrastructure is built.
+The short- to medium-term roadmap suggests the need to update disaster damage and loss data format, mainstream disaster risk modelling into telecommunications infrastructure planning, strengthen telecommunications asset design based on local and regional hazard vulnerability profiles, the report says.
+There are also commercial interventions that the report touches on. A key one is parametric insurance, a system where telecom operators are not left to bear the commercial burden of a disaster all by themselves, and are thus financially incentivised to bring networks back online rapidly (and presumably to nudge them to disaster-proof their infrastructure well enough to keep premiums down).
+The Hindu
+**********
+GLOBAL WARMING EXACERBATING WATER GAPS
+Prelims & Mains – CURRENT EVENT
+Water gaps amounting to nearly 458 billion cubic meters per year already exist. These are projected to increase by 6 per cent under 1.5 degrees Celsius warming and by 15 per cent under 3 degrees Celsius warming according to a new analysis published in Nature Communications.
+The study emphasised on developing a more resilient and sustainable water management system to combat scarcity. This could include investing in resilient infrastructure, enhancing storage capabilities, desalination of seawater, reuse of treated wastewater and physical and virtual water transfers to distribute water from areas of abundance to areas of need.
+Water gaps are defined as the difference between renewable water availability and water consumption while maintaining adequate flows in aquatic environments.
+Researchers used climate outputs from climate models to quantify water gaps under baseline, 1.5°C, and 3°C warming scenarios.
+Regions currently experiencing water gaps are expected to face more severe conditions under 1.5°C warming, with even worse outcomes at 3°C warming. This trend is particularly evident in the eastern US, Chile, the Mediterranean region, south and east India, and the North China Plain.
+Additionally, some regions that were relatively unaffected in the baseline climate, such as Italy, Madagascar, and some US states on the East Coast (North Carolina and Virginia) and in the Great Lakes region (Wisconsin, Minnesota, Illinois), are projected to see worsening conditions.
+Saudi Arabia is projected to experience decreased water scarcity under the 1.5°C warming scenario, but substantial increases in water gaps under the 3°C warming scenario.
+Largest water gaps in India
+The largest water gaps under the baseline climate are found in India, the United States, Pakistan, Iran and China.
+India is projected to experience the most important increase in water gaps under warming scenarios. In a 1.5°C warmer climate, India will have an additional 11.1 km3/yr water gap.
+Ganges-Brahmaputra basin imperilled
+The analysis also looked at water gap trends in major hydrological basins. Under baseline climate conditions, the largest water gaps are found in the Ganges-Brahmaputra, Sabarmati, Tigris-Euphrates, Indus and Nile River basins.
+Under 1.5°C warming conditions, water gaps are expected to increase the most in the Ganges-Brahmaputra, Godavari and Mississippi-Missouri river basins, while water gaps are expected to decrease in the Sabarmati, Columbia and northwestern United States and Nile basins.
+In a 3°C warmer climate, the Ganges-Brahmaputra basin still presents the largest water gap increase compared to baseline conditions, followed by the Indus, Mississippi-Missouri, China Coast, Godavari and Tigris-Euphrates basins.
+Down To Earth
+**********
+SOIL HEALTH CARD SCHEME
+Soil Health Card Scheme completes 10 years.
+The Soil Health Card Scheme was introduced by Prime Minister Shri Narendra Modi on 19th February, 2015 at Suratgarh, Rajasthan.
+The Soil Health Card (SHC) Scheme is a flagship initiative aimed at promoting sustainable agriculture and enhancing farm productivity. The scheme provides farmers with detailed assessments of their soil’s health, enabling them to make informed decisions regarding nutrient management and crop selection.
+Key Objectives:
+Assess Soil Health: Provide farmers with comprehensive information on the nutrient status of their soil.
+Promote Balanced Fertilization: Encourage the judicious use of fertilizers based on specific soil requirements, thereby reducing input costs and preventing soil degradation.
+Enhance Crop Productivity: Improve crop yields by recommending appropriate soil amendments and cultivation practices.
+Features of the Soil Health Card:
+Parameters Analyzed: Each SHC evaluates 12 soil parameters, including:
+Macronutrients: Nitrogen (N), Phosphorus (P), Potassium (K), Sulfur (S)
+Micronutrients: Zinc (Zn), Iron (Fe), Copper (Cu), Manganese (Mn), Boron (Bo)
+Other Indicators: pH (acidity or alkalinity), Electrical Conductivity (EC), Organic Carbon (OC)
+Recommendations Provided: Based on the analysis, the SHC offers tailored advice on:
+Optimal fertilizer types and dosages
+Necessary soil amendments
+Suitable crop choices
+Implementation and Technological Advancements:
+Sample Collection: Soil samples are typically collected twice a year, post-harvest of Rabi and Kharif crops, ensuring accurate assessments when fields are fallow.
+The Guideline of Village Level Soil Testing Labs (VLSTLs) was issued in June 2023. VLSTLs can be set up by individual entrepreneurs i.e. rural youth and community based entrepreneurs, including Self Help Groups (SHGs), Schools, Agriculture Universities etc.
+Digital Integration: In 2023, the SHC portal was revamped and integrated with Geographic Information System (GIS) technology. This enhancement allows for:
+Geo-referencing of soil samples
+Real-time access to soil health data
+Generation of QR codes linking samples to test results
+Mobile Application: A robust SHC mobile app has been developed, featuring:
+Automated location tagging during sample collection
+User-friendly interfaces for farmers to access their soil health information
+Graphical representations of soil data
+PIB
+**********
+CASPIAN PIPELINE CONSORTIUM (CPC)
+Prelims  – CURRENT EVENT
+Oil flows through the Caspian Pipeline Consortium (CPC) were reduced by 30-40% after a Ukrainian drone attack on a pumping station.
+The attack, which caused no casualties, took place on the eve of talks between the U.S. and Russian officials on ending the war in Ukraine. Following the meeting, from which Kyiv was excluded, Donald Trump’s administration said it had agreed to hold more talks.
+The Caspian Pipeline Consortium (CPC) is a significant international oil transportation project involving Russia, Kazakhstan, and leading global oil companies.
+Established to construct and operate a 1,510-kilometer pipeline, the CPC facilitates the movement of crude oil from Kazakhstan’s Tengiz oil field to the Novorossiysk Marine Terminal on Russia’s Black Sea coast.
+<img alt="" class="alignnone size-medium wp-image-202076" decoding="async" height="172" sizes="(max-width: 300px) 100vw, 300px" src="https://iasbaba.com/wp-content/uploads/2025/02/20-feb-dna-2-300x172.png" srcset="https://iasbaba.com/wp-content/uploads/2025/02/20-feb-dna-2-300x172.png 300w, https://iasbaba.com/wp-content/uploads/2025/02/20-feb-dna-2.png 600w" width="300"/>
+Key Features of the CPC:
+Route and Capacity: The pipeline transports oil from western Kazakhstan through Russian territory to the Black Sea port of Novorossiysk. As of 2022, it handled approximately 1.2 million barrels per day, accounting for about 1.2% of global oil demand.
+Shareholders: The consortium’s major stakeholders include Transneft (24%), KazMunayGas (19%), Chevron Caspian Pipeline Consortium Co. (15%), and LUKARCO B.V. (12.5%), among others.
+Strategic Importance: The CPC pipeline is crucial for exporting oil from Kazakhstan’s significant fields, such as Kashagan and Karachaganak, providing a reliable route to international markets.
+Reuters
+**********
+Daily Practice MCQs
+Q1.) Which of the following statements regarding India-Qatar relations is correct?
+(a) Qatar is India’s second-largest supplier of LNG after Saudi Arabia.
+(b) India and Qatar have elevated their ties to a strategic partnership in 2024.
+(c) The Indian population in Qatar constitutes less than 10% of its total population.
+(d) India has no defence cooperation with Qatar.
+Q2.) Which of the following are key objectives of the Soil Health Card (SHC) Scheme launched by the Government of India?
+To provide farmers with soil test-based recommendations for nutrients and fertilizers.
+To increase chemical fertilizer consumption for higher crop productivity.
+To promote balanced use of fertilizers and reduce input costs.
+To assess soil quality every 10 years.
+Select the correct answer using the code below:
+(a) 1, 2, and 3 only
+(b) 2 and 4 only
+(c) 1 and 3 only
+(d) 1, 3, and 4 only
+Q3.) Consider the following statements regarding the Caspian Pipeline Consortium (CPC):
+The CPC pipeline transports crude oil from Kazakhstan to the Baltic Sea for export.
+Russia and Kazakhstan are the key stakeholders in the CPC.
+The pipeline is strategically important for the transportation of oil from Kazakhstan’s Tengiz oil field.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(d) 3 only
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********What is the Central Pollution Control Board (CPCB)?
+The Central Pollution Control Board (CPCB) recently filed a report before the National Green Tribunal's Principal Bench revealing concerning findings regarding the river water quality at Prayagraj (UP) during the ongoing Maha Kumbh Mela.
+About Central Pollution Control Board (CPCB):
+It is a
+statutory organisation
+constituted in September, 1974, under the
+Water (Prevention and Control of Pollution) Act, 1974.
+Further, CPCB was
+entrusted with the power
+s and functions
+under the Air (Prevention and Control of Pollution) Act, 1981.
+It serves as a field formation and also provides technical services to the Ministry of Environment and Forests of the provisions of the
+Environment (Protection) Act,1981.
+advises the Central Government
+on matters related to control and
+abatement of air and water pollution.
+It also coordinates the affairs of other State
+Pollution Control Boards
+assists them
+, furnishes guidance, and helps in conflict resolution in case of any disagreement among them.
+CPCB has
+delegated its powers and functions
+under the Water (Prevention & Control of Pollution) Act, 1974, the Water (Prevention & Control of Pollution) Cess Act, 1977, and the Air (Prevention & Control of Pollution) Act, 1981,
+to the respective regional administration with respect to Union Territories.
+CPCB develops Standards for:
+National ambient air quality
+Water Quality Criteria from different sources
+Standards for Emission or Discharge of Environmental Pollutants from various Industries (Issued under Environment Protection Rules, 1986)
+Standards for Treatment and Disposal of Bio-Medical Waste by Incineration
+Emission standard, Noise limits for Diesel Engines
+Emission and Noise Limit of LPG and CNG Generator Sets
+CPCB also
+formulates the Minimal National Standards (MINAS)
+specific for various categories of industries with regards to their effluent discharge (water pollutants), emissions (air pollutants), noise levels, and solid waste.
+These standards are
+required to be adopted by State Governments as minimal standards.
+Click to View More
+Source :
+High Levels Of 'Faecal' Bacteria In River Water At Prayagraj Maha Kumbh : CPCB Tells NGT
+**********Key Facts about Nauru
+To help meet the cost of moving about 10,000 residents from low-lying homes menaced by rising sea levels and floods, the remote Pacific Ocean nation of Nauru aims to sell citizenships for the climate-threatened island.
+About Nauru:
+Nauru is an
+island nation
+and a microstate in Oceania, located in the
+southwestern Pacific Ocean.
+It is the
+smallest republic in the world
+with a land area of about 8 square miles and a population of 12,500.
+The island is about 1,300 km northeast of the Solomon Islands; its
+closest neighbour is
+island of Banaba,
+in Kiribati, some 300 km to the east.
+raised, fossilized coral atoll
+and is one of the three great
+phosphate rock islands
+in the Pacific Ocean.
+The island is dominated by a
+central phosphate plateau
+which is surrounded by coral cliffs.
+Phosphate mining has ravaged the interior of the island, leaving about four-fifths of it uninhabitable and uncultivable.
+It has
+no official capital city.
+Located on the southern coast of the island country is the district of
+Yaren – the de facto capital of Nauru.
+Their
+native language is Nauruan,
+but
+English is widely spoken
+as it is used for government and commercial purposes.
+Its constitution, adopted upon gaining independence in 1968, established it as a
+republic with a Westminster-style parliamentary system of government.
+Click to View More
+Source :
+A tiny island nation is selling passports. Its main USP? The visa-free access it opens up to the world
+Geography
+**********Mising Tribe
+Assam’s largest tribal community, the Mising tribe, celebrated the Ali Ai Ligang festival recently.
+About Mising Tribe:
+The Mising people are an indigenous tribe from
+Northeast India
+. They are
+part of the Tani people
+, who
+speak Tibeto-Burmese languages
+They live in parts of
+and
+Arunachal Pradesh
+in India and
+in China.
+Tibetans call them "Lhobhas,
+" which means "southerners' ' because they live in South Tibet and areas now in Arunachal Pradesh.
+They are one of the
+largest tribal groups in Assam.
+According to the census of India 2011, the total population of Mising is 680,424 in Assam.
+They have a
+life close to the rivers,
+and therefore they can be described as the only riparian tribe of Northeast India.
+Life and culture
+of Mising people
+revolve around agriculture and fishing.
+The agriculture practice of the Mising people was
+originally ‘Jhum’
+or slash & burn method.
+However, after settling down in the plains of Assam, they have mastered the art of wet paddy cultivation, and at present they are good settled cultivators.
+Drawing their origin in Jhum cultivation, the
+main festival
+of the Mising people is
+‘Ali-Aye-Ligang’.
+Ali means edible root, Aye means seed, and Ligang means sowing festival.
+Religion
+: The Mising people practice the cult of
+Donyi Polo
+which literally translates into
+worshiping the Sun and the Moon.
+Click to View More
+Source :
+Assam: Mising Tribe celebrates the 'Ali Ai Ligang' festival in Jorhat
+Geography
+**********What is Nuclear Fusion?
+A world record for nuclear fusion has been smashed after the WEST Tokamak reactor, in southern France, was able to maintain plasma for more than 22 minutes.
+About Nuclear Fusion:
+Nuclear fusion is the process by which
+two light atomic nuclei combine to form a single heavier one
+while
+releasing massive amounts of energy.
+The process releases energy because the total mass of the resulting single nucleus is less than the mass of the two original nuclei. The leftover mass becomes energy.
+Fusion reactions
+take place in a state of matter called plasma
+— a hot, charged gas made of positive ions and free-moving electrons with unique properties distinct from solids, liquids or gases.
+sun
+, along with all
+other stars, is powered by this reaction.
+What are Tokamaks?
+The devices designated for the task of doing this here on Earth—n
+uclear fusion reactors — are called tokamaks.
+Tokamaks are often also
+called 'artificial suns'
+due to the fact that these doughnut-shaped machines replicate processes that occur in the sun.
+There are
+currently over 200 tokamaks in operation across the globe
+with the scientific milestones achieved in these devices developing a roadmap for the operation of the
+International Thermonuclear Experimental Reactor, or ITER,
+world's largest fusion experiment.
+A commercial tokamak will
+aim to use the thermal energy of plasma heated by fusion to heat water,
+create steam, and, in turn, spin a turbine that generates electricity.
+Fusion can involve many different elements in the periodic table. However,
+researchers
+working on fusion energy applications
+are especially interested in deuterium-tritium (DT) fusion.
+DT fusion produces a neutron and a helium nucleus. In the process, it also releases much more energy than most fusion.
+Advantages of Nuclear Fusion:
+produces more energy than fission
+Fusion could generate four times more energy per kilogram of fuel than fission (used in nuclear power plants) and nearly four million times more energy than burning oil or coal.
+It also
+doesn’t produce radioactive byproducts
+that need to be stored or harmful carbon emissions; it simply produces inert helium and a neutron.
+Unlimited Fuel Supply:
+to make fusion happen
+is simply heavy hydrogen atoms,
+which can be found in something that Earth has in abundance: seawater. No mining of uranium is required.
+It is much safer than nuclear fission, since fusion
+can’t create runaway reactions.
+Click to View More
+Source :
+'Artificial sun' nuclear fusion reactor sets a new world record
+Science & Tech
+**********National Dam Safety Authority (NDSA)
+The Supreme Court recently directed a supervisory committee chaired by the head of the National Dam Safety Authority, to look into issues raised by Tamil Nadu against Kerala concerning the maintenance of the 125-year-old Mullaperiyar dam.
+About National Dam Safety Authority (NDSA):
+NDSA is a
+statutory body
+set up by the Central Government in exercise of the powers conferred by Section 8(1) of the
+National Dam Safety Act, 2021.
+Functions:
+It operates with a clear mandate to
+regulate, oversee, and inspect dams.
+This authority plays a crucial role in
+formulating policies and guidelines
+that
+govern the construction, maintenance, and operation of dams
+A key function of the NDSA is to
+resolve any issue between the State Dam Safety Organisations
+of states or between a State Dam Safety Organisation and any owner of a specified dam in that state.
+The NDSA actively engages in nationwide
+awareness programs
+to educate citizens about dam safety.
+In the face of natural calamities or unforeseen events, the NDSA ensures that comprehensive
+emergency response
+plans are in place.
+It is headed by a chairman and assisted by five members to lead its five wings - policy and research, technical, regulation, disaster and resilience and administration and finance.
+It has its
+headquarters at New Delhi.
+Click to View More
+Source :
+Mullaperiyar dam case: SC asks new supervisory panel to examine T.N.’s complaints about Kerala, find a solution agreeable to both States
+Polity & Governance
+**********Evo 2 AI System
+AI chipmakers Nvidia have unveiled powerful AI system for genetic research created new AI called Evo 2.
+About Evo 2 AI System:
+It is a powerful
+new foundation model
+that understands the genetic code for all domains of life.
+It is the largest publicly available AI model for
+genomic data
+It was built on the
+NVIDIA DGX Cloud platform
+in a collaboration led by nonprofit biomedical research organization
+Arc Institute and Stanford University
+The model was built using 2,000 Nvidia H100 processors on Amazon's cloud infrastructure.
+It is trained on an enormous
+dataset of nearly 9 trillion nucleotides
+pieces of genetic information taken from over
+128,000 different organisms
+on a wide array of species across domains of life — including plants, animals and bacteria.
+In early tests, it accurately identified 90% of potentially harmful mutations in BRCA1, a gene linked to breast cancer.
+Potential applications of Evo 2 AI System:
+It can be applied to
+biomolecular research applications
+including predicting the form and function of proteins based on their genetic sequence, identifying novel molecules for healthcare and industrial applications, and evaluating how gene mutations affect their function.
+The model can be applied to scientific fields such as
+healthcare, agricultural biotechnology and materials science.
+Click to View More
+Source :
+Nvidia unveils powerful AI system for genetic research
+Science & Tech
+**********Killer Whales
+Recently, officials said that more than 150 false killer whales are stranded on a remote beach on Australia’s island state of Tasmania.
+About Killer Whale:
+It is
+also known as Orcas
+which is found across the world.
+It is the largest member of the
+Delphinidae family
+and are the most widely distributed of
+all cetaceans.
+Members of this family include
+all dolphin species
+, as well as other larger species, such as
+long-finned pilot whales and short-finned pilot whales
+, whose common names also contain "whale" instead of "dolphin”.
+Killer whales are
+highly social, and most live in social groups
+called
+pods
+(groups of maternally related individuals seen together more than half the time).
+Killer whales rely on underwater sound to
+feed, communicate, and navigate.
+Appearance:
+They are one of the most recognizable marine mammals, with their distinctive black and white bodies.
+Habitat:
+Globally, killer whales occur in a wide range of habitats, in both open seas and coastal waters.
+Conservation Status:
+IUCN :
+Data Deficient
+Click to View More
+Source :
+More than 150 false killer whales stranded on a beach in Australia’s Tasmania State
+Environment
+**********OPEC+
+Recently, the Brazil’s government approved the country’s entry into OPEC+, the alliance of major oil-exporting nations.
+About OPEC+:
+It is a
+group of 22 oil-exporting countries
+which meets regularly to decide how much crude oil to sell on the world market.
+These nations aim to work together on adjusting crude oil production to bring stability to the oil market.
+Origin:
+These nations came to an
+accord towards the end of 2016
+“to institutionalize a framework for cooperation between OPEC and non-OPEC producing countries on a regular and sustainable basis.”
+At the core of this group are the 12 members of OPEC (the Organization of the Oil Exporting Countries), which are mainly Middle Eastern and African countries.
+Members:
+It comprises
+12 OPEC countries
+plus Azerbaijan, Bahrain, Brunei, Kazakhstan, Russia, Mexico, Malaysia, South Sudan, Sudan, and Oman.
+What is OPEC?
+It is a permanent intergovernmental organization of oil-exporting countries.
+It was
+established in 1960
+by the five founding members Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela.
+Currently, it has 12 members, including Algeria, Congo, Equatorial Guinea, Gabon, Libya, Nigeria and the United Arab Emirates.
+Angola withdrew its membership effective 1 January 2024.
+Headquarters:
+Vienna, Austria.
+Click to View More
+Source :
+Brazil to join OPEC+, group of major oil-exporting nations
+International Relations
+**********Vertical Propellant Mixer
+Recently, Indian Space Research Organisation has announced the successful development of a 10-tonne ‘vertical planetary mixer’, the largest of its kind for solid propellants globally.
+About Vertical Propellant Mixer:
+It is the largest
+solid propellant mixing
+equipment globally.
+It is developed and designed by
+Satish Dhawan Space
+Centre in collaboration with
+Central Manufacturing Technology Institute
+, a Bengaluru-based research and development organisation under the Ministry of Heavy Industries.
+Key Features of Vertical Propellant Mixer
+It has high-capacity mixing of propellant ingredients in a single batch.
+It has precision and control for quality consistency & performance.
+Safety and Reliability for handling highly hazardous materials.
+World’s Largest:
+It is of approximately 150 tonne of weight.
+Advanced Technology:
+It is equipped with
+multiple agitators
+which are
+hydrostatic driven
+and will be remotely operated using PLC based control system with SCADA stations.
+A propellant mixer is a machine that mixes the ingredients of rocket propellants, specifically
+fuel and oxidiser,
+to ensure a uniform and reliable mixture for solid rocket motors.
+The quality of the mixed propellant directly impacts the performance and reliability of the rocket motor.
+Click to View More
+Source :
+ISRO develops world’s largest vertical propellant mixer for rocket sold propellants
+Science & Tech
+**********Bacterial Cellulose
+Recently, researchers reported in a study that Bacterial cellulose can be used as a bandage to significantly improve healing and regeneration in plants.
+About Bacterial Cellulose:
+It is a
+natural polymer produced by certain bacteria
+It has been identified as an
+effective material for plant wound care
+. Its unique properties facilitate improved healing and regeneration in plants.
+Advantages of
+Bacterial Cellulose bandages
+It offers a
+sustainable solution to plant injuries
+, potentially reducing the reliance on chemical treatments.
+This method not only promotes healthier plant growth but
+also aligns with eco-friendly agricultural practices.
+By enhancing the natural healing processes of plants, farmers can expect
+improved crop yields and resilience
+, contributing to food security and environmental conservation.
+Key facts about Cellulose:
+It is a molecule, consisting of hundreds of carbon, hydrogen and oxygen atoms.
+Cellulose is the main
+substance in the walls of plant cells
+, helping plants to remain stiff and upright.
+Humans cannot digest cellulose, but it is important in the diet as fibre.
+Click to View More
+Source :
+Bacteria-made Band-Aid for plants? What a new study found
+Science & Tech
+**********India to Enhance Economic Data Tracking with Monthly Labour Surveys, Revised IIP Schedule, and Private Capex Report
+Why in news?
+The Ministry of Statistics and Programme Implementation (MoSPI) is set to enhance the frequency and timeliness of key macroeconomic data releases, introducing a
+private sector capex survey
+monthly labour force reports
+, and a
+revised schedule for the factory output data
+from 2025-25 (FY26).
+What’s in today’s article?
+Revised Factory Output Data Release Schedule
+Private Capex Survey to be Released in April
+Monthly Periodic Labour Force Survey (PLFS) to Begin in May
+To enhance timeliness, the
+Index of Industrial Production (IIP)
+data will now be released on the 28th of every month instead of the 12th, reducing the reporting lag from 42 days to around a month.
+The all-India IIP measures short-term changes in industrial production relative to a base period.
+It serves as a key indicator of industrial activity, released monthly, and is crucial for calculating the manufacturing sector's Gross Value Added (GVA) in GDP on a quarterly basis.
+This adjustment will ensure factory output data aligns more closely with other economic indicators like retail inflation, aiding better policymaking by the government and RBI.
+The survey will track capex expenditure over the past three years and projected investments for 2024-25 and 2025-26.
+It will also provide a sector-wise and asset-wise breakdown, offering insights into industries likely to attract major investments.
+Importance of private capex
+Private capex can lead to economic growth by increasing demand and income over time.
+It can also increase employment and growth by funding projects like roads, railways, and housing.
+Private capex can also lead to higher corporate profits.
+Assessing Private Sector Investment Intentions
+MoSPI will release a new survey on April 30, 2025 to measure capital investment intentions in the private corporate sector, covering both financial and non-financial enterprises.
+To meet the growing demand for timely labour market insights, MoSPI will start releasing monthly
+PLFS reports
+for rural and urban areas from May.
+Data for the previous month will be published on the 15th of each month, while quarterly PLFS reports will be released a month after the quarter ends.
+Back Series and Data Comparability
+A back series for at least the past 12 months will be introduced, adjusted for higher standard error due to smaller sample sizes in the monthly survey.
+Significance of PLFS and Current Releases
+The PLFS, launched in 2017 by National Sample Survey Office (NSSO), provides key labour indicators such as Labour Force Participation Rate (LFPR), Worker Population Ratio (WPR), Unemployment Rate (UR).
+Currently, rural PLFS data is released annually, while urban PLFS data is published quarterly, along with an annual combined report.
+Other employment surveys, like survey by the
+Centre for Monitoring Indian Economy (CMIE)
+, are released on a weekly and monthly basis.
+newspaper.pdf
+( Size:  2.5 MB  )
+Click to View More
+Economics
+**********MPID Act - The Law Governing the Torres Scam Investigation in Maharashtra
+Why in news?
+The Mumbai Police's Economic Offences Wing (EOW) is set to auction seized properties of those accused in the Torres Ponzi scam under the MPID Act, aiming to recover around Rs 40 crore for defrauded investors within six months.
+Thousands of investors protested in January after Torres abruptly stopped promised high-interest payments in December 2024. The company had enticed investors with jewellery schemes offering up to 500% annual returns and luxury incentives.
+The MPID Act facilitates the attachment and sale of assets from fraudulent entities, similar to laws in other states.
+What’s in today’s article?
+Ponzi Schemes
+Maharashtra Protection of Interest of Depositors (MPID) Act, 1999
+Main Provisions of the MPID Act
+Supreme Court’s Ruling on the MPID Act
+A Ponzi scheme is a fraudulent investment scheme where returns to earlier investors are paid using the capital from newer investors, rather than legitimate profits.
+It collapses when new investments dry up.
+Notable Ponzi Scams in India
+Saradha Scam (2013)
+: A multi-crore chit fund scam in West Bengal that defrauded lakhs of investors.
+Rose Valley Scam
+: A larger scam than Saradha, involving over Rs 15,000 crore.
+SpeakAsia (2011):
+A pyramid-like scheme posing as an online survey business.
+PACL (Pearl Agro Corporation Limited) Scam:
+Collected Rs 49,100 crore from investors under the guise of land investments.
+Regulation
+In India, Ponzi schemes are illegal under the
+Prize Chit and Money Circulation (Banning) Act, 1978
+, which prohibits promoting or participating in money circulation schemes.
+Additionally, the
+Unregulated Deposit Schemes Act, 2019
+explicitly bans Ponzi schemes, further strengthening legal action against such frauds.
+SEBI & RBI
+regulate financial institutions to curb such frauds.
+The MPID Act was enacted to protect investors from fraudulent financial establishments that collect deposits with false promises of high returns and then default on payments.
+Reason for Enactment
+During the 1990s, several financial firms in Maharashtra defrauded middle-class and poor investors, leading to widespread financial losses and public outrage.
+Need for Legislative Action
+With deposit scams running into crores, protests and law-and-order issues emerged, particularly in Mumbai, India’s financial hub.
+To curb such fraudulent activities, the Maharashtra government introduced the MPID Act, which received Presidential assent in January, 2000.
+Accountability and Punishment
+Any financial establishment that fraudulently defaults on deposit repayments, including promised interest or benefits, is liable under the Act.
+Promoters, directors, partners, managers, and employees responsible for such defaults can be held accountable.
+If found guilty, they may face imprisonment of up to
+six years
+and a
+fine of up to Rs 1 lakh
+Attachment of Assets
+The government can
+attach money or property
+suspected to be acquired through fraudulent financial activities.
+The court has the power to make the
+attachment order absolute
+and direct the
+The proceeds from the sale are then
+equitably distributed among depositors
+Significance of the Act
+Unlike general fraud provisions in criminal law, the MPID Act provides a
+faster mechanism
+for attachment and distribution of assets, ensuring quicker relief for depositors.
+Bombay High Court's Initial Verdict (2005)
+It ruled the MPID Act
+unconstitutional
+, stating that it conflicted with central laws such as the Companies Act, 1956, and the RBI Act, 1934.
+Supreme Court’s Decision (2011 & 2022)
+The Supreme Court
+upheld the constitutional validity
+of the MPID Act and a similar law in Tamil Nadu.
+The Court ruled that
+fraudulent financial establishments were not regulated by RBI
+and thus, state laws were necessary to protect depositors.
+The Court emphasized that
+existing central laws did not cover the same scope
+, making the MPID Act essential for
+quick redressal
+of depositor grievances.
+It highlighted that
+conventional legal proceedings
+were costly and time-consuming, making the MPID Act a more effective solution.
+Further Clarifications
+The Supreme Court reaffirmed the Act’s validity in
+Courts continue to decide on
+what qualifies as deposits or financial establishments
+based on case-specific merits.
+newspaper.pdf
+( Size:  2.0 MB  )
+Click to View More
+Polity & Governance
+**********Significance of Building Resilient Telecom Infrastructure
+What’s in Today’s Article?
+Introduction (Context)
+Resilient Telecom Infra (Need, Challenges, Solutions, Future Roadmap, etc.)
+Introduction:
+India’s telecom infrastructure plays a
+critical role in disaster response
+, ensuring uninterrupted communication for emergency services and the public.
+However, natural calamities such as
+cyclones, earthquakes, and floods
+pose a severe threat to these networks.
+The
+Coalition for Disaster Resilient Infrastructure (CDRI)
+, a global initiative launched by India’s Prime Minister Narendra Modi in 2019, recently released a report analysing India’s telecom preparedness for disasters.
+The findings emphasize the
+vulnerabilities in telecom networks
+and outline key measures to enhance
+resilience, power stability, and rapid recovery
+during emergencies.
+Importance of Resilient Telecom Infrastructure:
+Telecom networks are essential for
+disaster management
+as they enable quick communication between:
+National Disaster Management Authorities (NDMA)
+and local administrations.
+Emergency services and citizens in affected areas.
+State and central governments to coordinate relief efforts.
+However, telecom networks are
+highly vulnerable
+due to their dependency on
+above-ground cables, tower strength, and electricity supply
+. A natural disaster can severely
+disrupt services
+, affecting rescue operations and public communication.
+Key Challenges in Disaster-Prone Areas:
+High Risk in Coastal and Seismic Zones
+Coastal regions are particularly vulnerable as
+undersea cables
+connect India to global internet networks.
+Earthquakes and cyclones can
+damage telecom towers
+, leading to massive service outages.
+Power Failures: The Biggest Issue
+Telecom towers rely heavily on
+uninterrupted power supply
+, but disasters often cause prolonged blackouts.
+Lack of electricity
+delays network restoration
+, making it difficult for operators to bring services back online.
+Structural Weakness of Telecom Towers
+Many towers are
+not built to withstand high wind speeds
+, especially in coastal states.
+Poorly planned
+overhead cables snap easily
+during storms, leading to service breakdowns.
+Solutions for Building a Disaster-Resilient Telecom Network:
+Strengthening Power Infrastructure
+Ensuring
+to critical telecom sites.
+Reserving fuel stocks
+for emergency use at telecom towers.
+Installing
+solar or hybrid power solutions
+to reduce dependency on the grid.
+Building Stronger Telecom Towers
+Mandating
+higher wind resistance standards
+for towers in cyclone-prone areas.
+Elevating diesel generators at tower sites to prevent flood-related failures.
+Underground Fiber Optic Cables and Dig-Once Policy
+Overhead telecom cables often snap in extreme weather. The report recommends shifting to
+underground fiber optic cables
+wherever possible.
+Implementing a
+"dig-once" policy
+, where underground cables are laid
+alongside other infrastructure
+like water and gas pipelines, reducing repeated disruptions.
+Better Disaster Monitoring and Response
+Real-time tracking of
+telecom asset damage
+using
+software and AI-driven data collection
+Emergency fuel distribution to keep towers operational.
+Collaboration between the
+Department of Telecommunications (DoT) and telecom operators
+to ensure
+rapid damage assessment and restoration
+Financial Resilience through Parametric Insurance
+The report highlights
+parametric insurance
+as a key financial tool.
+This ensures that telecom operators
+receive compensation quickly
+after a disaster, enabling
+faster network restoration
+Future Roadmap for Telecom Resilience in India:
+Short-Term Initiatives (1-2 years)
+backup power systems
+real-time damage monitoring
+through software tools.
+Upgrading telecom infrastructure in
+high-risk coastal and seismic areas
+Medium-Term Initiatives (3-5 years)
+Nationwide shift towards
+underground fiber optic networks
+Mandatory
+disaster-proofing of new telecom towers
+Creating
+a coordinated response mechanism
+for telecom outages.
+Long-Term Vision (Beyond 5 years)
+Achieving a
+100% disaster-resilient telecom infrastructure
+across India.
+Developing
+policy frameworks for telecom disaster preparedness
+at national and state levels.
+Increasing investment in
+climate-resilient infrastructure
+through public-private partnerships.
+Conclusion:
+India’s telecom infrastructure is
+essential for disaster response
+, but it remains
+highly vulnerable to natural calamities
+The CDRI report highlights the
+urgent need for structural upgrades, power stability, underground fiber networks, and improved disaster coordination
+By implementing these measures, India can ensure
+minimal communication disruptions
+during emergencies, enabling faster rescue operations and better crisis management.
+On building resilient telecom infrastructure.pdf
+( Size:  364.1 KB  )
+Click to View More
+Economics
+**********The Emerging Rift in the West - Trump’s Policy Shift and Its Global Implications
+Context:
+The return of Donald Trump to the White House has marked
+a significant shift in U.S. foreign policy
+, particularly in its approach to
+European security, global trade, and domestic political values.
+Trump’s move to initiate
+peace talks with Russia over Ukraine
+and Vice President JD Vance’s
+criticism of European democracies
+at the Munich Security Conference has shocked America’s European allies.
+The traditional unity of the “
+Collective West
+” now appears fragile, raising concerns about geopolitical realignments.
+U.S.-Europe Divide Under Trump:
+America’s changing stance on European security:
+Trump’s direct negotiations with Russia
+, bypassing Kyiv and Brussels, indicate a shift in U.S. commitment to Ukraine.
+The expected Trump-Putin summit suggests an effort to
+restore Russia’s influence in European security,
+and bring Moscow back to “Western” institutions like the Group of Seven (
+G7
+).
+Europe’s concerns over Trump’s reduced security commitments, which could
+weaken
+North Atlantic Treaty Organisation (
+NATO
+Tensions over global trade and economic policies:
+Trump seeks to
+replace the existing trade order with bilateral trade deals
+, arguing that the current system harms American workers.
+The U.S. move to challenge international trade frameworks
+may strain relations with European economies.
+Domestic political differences:
+Trump’s administration
+opposes liberal values
+such as open borders, climate change policies, and gender identity rights.
+JD Vance’s speech in Munich criticized European efforts to sideline right-wing political parties.
+Elon Musk’s support for European right-wing parties highlights
+transnational conservative collaboration.
+The West’s Historical Evolution and Current Crisis:
+The formation of the modern West:
+The West, traditionally bound by liberal values like
+capitalism, democracy, and individual rights
+, has seen
+internal conflicts
+throughout history.
+The unity
+of the West since World War II was primarily due to the
+fear of communism
+and the Soviet Union’s expansionist policies.
+The U.S.-led global order
+was built through institutions like NATO, the United Nations, the IMF, and the World Bank.
+The rise of the ‘Conservative International’ (Con-intern):
+The ideological rift within the West is not just about the U.S.-Europe policy differences but also
+a broader conservative pushback against liberal dominance
+The emergence of a Con-intern
+parallels earlier movements
+like the Communist International (Comintern) and liberal internationalism.
+The Con-intern may reshape global policies
+on security, trade, and social issues.
+Geopolitical Implications and India’s Stance:
+Russia and China’s strategic advantage:
+Moscow and Beijing
+benefit from a divided West
+and continue to exploit gaps in U.S. alliances.
+Both nations seek to
+negotiate separate deals with Washington
+despite their anti-West rhetoric.
+India’s pragmatic approach:
+Unlike in the past, India is
+no longer influenced by anti-Western propaganda
+from Russia and China.
+Delhi recognizes emerging contradictions within the West and aims to
+engage strategically to protect its national interests.
+India’s balancing act
+between Western powers and emerging geopolitical shifts aligns with its broader foreign policy objectives.
+Conclusion:
+If President John F Kennedy said America must pay any price or bear any burden to lead the world, Trump and his followers are saying that the
+cost and consequences of American leadership are no longer acceptable.
+The perceived collapse of the “Collective West” is
+reshaping global power dynamics
+. Trump’s realignment of U.S. policies has widened the rift with Europe, emboldening Russia and China.
+While uncertainties remain about the future of the U.S.-Europe relations,
+India sees an opportunity to navigate this evolving landscape strategically.
+Whether this divergence results in a complete realignment or merely a recalibration of existing ties remains to be seen.
+Click to View More
+Editorial Analysis
+**********President’s Rule and the Road Ahead
+Context
+The
+imposition of President’s Rule
+in Manipur on February 13
+marks a significant political development in India,
+particularly considering the protracted violence that has gripped the state for over 21 months.
+The decision, taken after the
+resignation of Chief Minister N. Biren Singh
+, underscores the Bharatiya Janata Party’s (BJP) strategic retreat rather than an outright resolution to the ongoing turmoil.
+This
+move highlights not only the limitations of the double-engine sarkar but also raises broader concerns
+about governance, state legitimacy, and institutional trust in Manipur.
+The Consequence of the Prolonged Crisis:
+Erosion of Trust and Legitimacy in the State
+One of the most critical
+consequences of the
+prolonged crisis has been the erosion of citizens' trust
+in the state and its institutions.
+Reports suggest that the
+Manipur government under Biren Singh played a partisan role
+, aligning with Meitei ultranationalist sentiments.
+favouritism has fractured the shared territorial space
+and contributed to deeper communal divisions.
+recent forensic report
+linking Singh to inflammatory rhetoric
+further tarnishes the credibility of the state machinery.
+Given this backdrop,
+President’s Rule is a necessary intervention,
+but it is not a sufficient measure to restore normalcy.
+Challenges to State Power and Restoring Governance in Manipur
+Erosion of State Authority and Legitimacy
+One of the most fundamental challenges facing governance in Manipur is the
+erosion of the state’s authority.
+concept of ‘infrastructural power,’
+as described by political sociologist Michael Mann, refers to a state's capacity to implement policies and maintain effective control over its territory.
+In Manipur
+, this power has been significantly weakened due to the state’s perceived bias
+in handling the ongoing ethnic violence.
+For governance to be effectively restored,
+the state must work toward re-establishing its infrastructural power
+by demonstrating neutrality and enforcing the law without bias.
+Politicisation of Law Enforcement and Administrative Machinery
+A significant challenge in restoring order is the
+politicisation of the law enforcement agencies and the administrative machinery.
+Manipur police and security forces have been accused of taking sides in the conflict
+, either through inaction or direct complicity with certain groups.
+Law enforcement agencies are seen as extensions of political or ethnic factions
+rather than as neutral enforcers of justice.
+Different communities perceive that the
+state favours one group over another, which further fuels resentment and violence.
+To overcome this challenge, the central government must ensure that security forces operate
+without political interference
+and adhere strictly to constitutional principles.
+The deployment of neutral agencies such as the
+Central Armed Police Forces (CAPF)
+under direct federal supervision could help rebuild public confidence in law enforcement.
+Failure to Maintain Neutrality and the Rise of Majoritarian Narratives
+One of the most dangerous developments in Manipur’s crisis has been the rise of
+majoritarian nationalist narratives
+, which have exacerbated tensions between communities.
+The state government under N. Biren Singh has been accused of adopting a populist,
+Meitei-majoritarian
+approach, which has alienated other ethnic groups, particularly the
+Kuki-Zomi-Hmar tribes
+This aligns with the broader critique of majoritarian politics, where dominant groups attempt to
+rewrite history and redefine national identity
+at the expense of marginalized communities.
+The challenge for the BJP-led central government is to
+reverse this trend
+and ensure that governance in Manipur is
+inclusive, representative, and impartial
+The Debate on Manipur’s Administrative Structure
+One of the proposed solutions to address Manipur’s political turmoil is to
+declare it a ‘hill state,’ which could potentially neutralise demands
+for a separate administration by the Kuki-Zomi-Hmar groups.
+However,
+such a move must be carefully evaluated for its constitutional implications, particularly concerning Article 371C
+, which provides special provisions for Manipur’s hill areas.
+Any attempt to dilute these protective
+measures could exacerbate tensions and further alienate tribal communities.
+Additionally,
+the push to centralise power under President’s Rule raises concerns about its potential misuse
+to advance a majoritarian agenda.
+While national unity is often invoked as a justification for such centralisation,
+a failure to recognise and respect the distinct identities of Manipur’s hill and valley communities could be counterproductive.
+The risk is that it may instead strengthen the call for a separate administration among Kuki-Zomi-Hmar groups rather than quell the unrest.
+The Way Ahead: Ensuring Equitable Representation and Power Distribution
+long-term solution
+to Manipur’s crisis lies in
+decentralisation rather than centralisation.
+President’s Rule period should be used to conduct a thorough institutional audit
+to address existing gaps in political representation, resource distribution, and governance.
+Marginalised communities must be given a voice in decision-making processes
+, and meaningful autonomy must be devolved to tribal regions to ensure a fair balance of power.
+History has shown that
+when institutions fail to represent and protect diverse communities equitably, democracy deficits emerge,
+leading to recurring cycles of violence and instability.
+Thus,
+the state must recalibrate its governance structures to strengthen constitutional protections
+for all groups, rather than dissolving them in the name of national unity.
+Conclusion
+in Manipur represents
+both a challenge and an opportunity.
+While it provides a temporary mechanism to stabilise the region,
+it also exposes the limitations of the BJP’s governance model and the fragility of state institutions
+in the face of ethnic and political conflict.
+To achieve lasting peace,
+the government must go beyond mere law-and-order approaches and work toward fostering genuine trust and legitimacy through equitable governance
+, fair representation, and adherence to constitutional principles.
+Click to View More
+Editorial Analysis
+**********Manipur’s Worsening Humanitarian Crisis
+Context
+The
+India-Myanmar borderlands have long been a region of geopolitical significance
+, yet they remain critically under-researched, particularly concerning the ongoing humanitarian crises.
+Manipur conflict, characterised by armed violence
+, displacement, and resource scarcity, has
+created severe humanitarian challenges.
+However,
+restricted access, security concerns, and a lack of comprehensive data collection have obscured the true extent
+of these crises.
+Therefore,
+it is important to critically examine the implications of these information gaps, the humanitarian challenges faced by displaced populations,
+and the urgent measures required to alleviate their suffering.
+The Crisis of Data Deficiency and Displacement in the Manipur Conflict
+Fragmented and Incomplete Data Collection
+The official estimates suggest that
+approximately 58,000 individuals have been displaced
+and are residing in relief camps across Manipur's Valley and Hill districts.
+these numbers fail to account for several categories of displaced persons
+. Many individuals remain unregistered because they are living with relatives, staying in temporary shelters, or have relocated across multiple locations.
+Furthermore
+, those who have fled the state due to conflict-related circumstances, seeking safety,
+employment, or education, are largely unrecorded.
+This
+incomplete data collection creates a ‘zone of the unknown,’
+where the full extent of displacement remains underestimated.
+During the peak of the conflict,
+an estimated 12,000 people fled to Mizoram, while around 7,000 sought refuge in Nagaland
+, Assam, and Meghalaya.
+Yet, due to fragmented and inconsistent data collection methods,
+these figures may not accurately reflect the true magnitude of displacement.
+Many displaced individuals may not be officially documented by government agencies or humanitarian organisations, making it difficult
+to assess their immediate needs or provide adequate support.
+Physical Segregation and Breakdown of Information Channels
+A significant factor contributing to the data deficiency is
+the physical separation of the Meitei and Kuki-Zomi communities,
+which has led to the collapse of shared information channels.
+In times of conflict,
+when communities are divided along ethnic lines, obtaining accurate and unbiased data becomes a challenge.
+conflict has led to the forced segregation of populations
+, with Meitei and Kuki-Zomi individuals relocating to areas dominated by their respective ethnic groups.
+separation has resulted in a communication gap
+, as each group primarily relies on its own community networks for information.
+Consequently,
+official reports may reflect only a partial reality,
+as they fail to incorporate the lived experiences of all affected groups.
+Another overlooked category of displaced persons includes thousands of Manipuri youth
+who have left the state in search of
+better education and job opportunities.
+Given the economic instability and ongoing violence,
+many young people have migrated to urban centres in other parts of India
+, seeking a more stable future.
+Similarly, individuals with chronic
+health conditions have been forced to leave Manipur in search of medical care.
+However, b
+ecause these individuals are not residing in relief camps, their displacement is often not counted
+in official records.
+Challenges in Tracking Humanitarian Needs
+The lack of comprehensive data has serious implications
+for humanitarian aid distribution and policy-making.
+Relief efforts are often based on official figures
+, meaning that unregistered displaced persons may be excluded from essential services such as food distribution, healthcare, and shelter assistance.
+absence of systematic documentation also results in the underreporting of key humanitarian concerns
+, including mortality rates, malnutrition, and disease outbreaks in relief camps.
+Moreover,
+misinformation and disinformation further complicate an empirical understanding of the conflict.
+Without verified data,
+rumours and politically motivated narratives shape public perceptions
+, influencing both government responses and humanitarian interventions.
+The lack of transparency also means that resources may be allocated inefficiently
+, with certain regions receiving disproportionate attention while others remain neglected.
+Some Other Aspects of Manipur Crisis
+Health and Humanitarian Concerns
+One of the most alarming consequences of the conflict is the
+deterioration of healthcare accessibility.
+In Kuki-Zomi-dominated hill districts,
+major tertiary healthcare centres in Imphal are no longer accessible
+, forcing residents to seek medical treatment via circuitous routes through Mizoram and Nagaland.
+This has led to prolonged travel times for patients,
+resulting in preventable deaths and worsening health conditions.
+Documented cases highlight the severity of this crisis. For instance, a 63-year-old displaced individual in Kangpokpi district died due to a lack of dialysis facilities
+, while a mother in Churachandpur lost her life from postpartum haemorrhage in a relief camp
+Mental Health Issues
+psychological toll is equally severe
+, with studies showing that 65.8% of displaced individuals in Imphal East suffer from post-traumatic stress disorder (PTSD), and many others experience moderate to severe anxiety.
+worsening mental health conditions have led to a rise in suicides
+among displaced individuals.
+The Humanitarian Crisis in Relief Camps
+Despite the establishment of relief camps more than two years ago,
+basic necessities such as food, water, and shelter remain largely inadequate.
+With over 22,000 children still living in camps,
+the lack of educational access has exacerbated long-term developmental challenges.
+Additionally, deteriorating living conditions,
+including daily water shortages, poor sanitation, and food insecurity, have further intensified the humanitarian crisis.
+Economic instability has compounded these challenges.
+Conflict-induced inflation has increased the cost of essential goods
+, making it difficult for displaced populations to secure necessary supplies.
+As donor fatigue sets in and resources dwindle,
+the sustainability of relief efforts remains a critical concern.
+Recommendations for Humanitarian Intervention
+Increased External Humanitarian Support:
+Private and corporate social responsibility (CSR) entities should step in to provide aid, ensuring that vulnerable populations receive adequate resources.
+Improving Water Accessibility:
+With a significant portion of household incomes being spent on obtaining water from private sources, government and aid agencies must prioritize clean water distribution.
+Establishing Humanitarian Corridors:
+Emergency medical evacuation corridors should be set up to facilitate the safe transfer of critically ill patients from conflict-affected areas to hospitals.
+Restoring Supply Chains:
+Essential commodities, including food and medical supplies, must be transported between valley and hill districts through neutral communities to ease inflationary pressures and ensure equitable resource distribution.
+Conclusion
+Manipur conflict has resulted in an acute humanitarian crisis
+, exacerbated by data deficiencies, displacement, and healthcare inaccessibility.
+While violence may have subsided in some areas,
+forced displacement continues to threaten the livelihoods and well-being of thousands.
+Without immediate intervention
+, the situation will further deteriorate,
+disproportionately affecting vulnerable populations, particularly children and the elderly.
+Addressing these challenges requires a concerted effort from government agencies, humanitarian organizations,
+and civil society to restore stability and provide relief to those most in need.
+Click to View More
+Editorial Analysis
+**********[20th February 2025] The Hindu Op-ed: Manipur’s worsening humanitarian crisis
+Polity
+PYQ Relevance:
+) How far are India’s internal security challenges linked with border management particularly in view of the long porous borders with most countries of South Asia and Myanmar?
+(2013)
+Q)
+If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it?
+(CSP 2022)
+(a) This would prevent the transfer of land of tribal people to non-tribal people.
+(b) This would create a local self-governing body in that area.
+(c) This would convert that area into a Union Territory.
+(d) The State having such areas would be declared a Special Category State.
+Mentor’s Comment:
+UPSC mains have always focused on
+internal security challenges linked with border management (2013),
+Fifth Schedule (2022).
+The India-Myanmar borderlands lack reliable data despite ongoing conflicts and crises. In Manipur, restricted access and security issues make it hard to document humanitarian needs. Misinformation worsens the situation. Around 58,000 people live in relief camps, while 12,000 fled to Mizoram and 7,000 to Nagaland, Assam, and Meghalaya. Data collection remains fragmented.
+Today’s editorial discusses issues related to Manipur, which are relevant for GS Paper 3 (Mains) under the Security section.
+_
+Let’s learn!
+Why in the News?
+The Manipur conflict is complex, and security issues make it hard to access certain areas leads to major gaps in tracking humanitarian needs.
+How has the complexity of the conflict contributed to significant gaps in documenting humanitarian needs?
+Restricted Access and Security Concerns:
+The conflict’s complexity leads to restricted access for humanitarian organizations and data collectors due to security risks.
+Example:
+Adverse security conditions hinder the ability to thoroughly assess needs in certain areas.
+Breakdown of Information Chains:
+The physical and social separation of communities (like the Meitei and Kuki-Zomi) disrupts the flow of accurate information.
+The separation makes it difficult to get a comprehensive understanding of the needs of both communities, as information does not flow freely between them.
+Unaccounted Populations:
+Official counts often only consider those in registered relief camps, overlooking unregistered individuals living with relatives, in temporary shelters, or displaced across multiple locations.
+Many individuals displaced outside of registered camps or those who have left the State entirely are not included in official estimates, leading to underreporting.
+Altered Healthcare Access and Documentation:
+The conflict changes how people seek medical care, especially in conflicted regions, making it difficult to track health-related issues.
+Residents of Kuki-Zomi-dominated hill districts can no longer easily access major hospitals in Imphal, leading to indirect routes and potentially undocumented health crises.
+Misinformation and Disinformation:
+The spread of inaccurate information clouds the true picture, making it difficult to form an empirical understanding of the conflict’s impact.
+The text mentions that misinformation and disinformation cloud an empirical understanding of the conflict.
+Why do the India-Myanmar borderlands remain a data-deficient region despite their long history of armed conflict, displacement, and humanitarian crises?
+Challenging Geography:
+The region’s complex topography, characterized by rugged mountains and dense forests, complicates access for data collection efforts. For example, the difficult terrain has hindered the effective implementation of border initiatives such as fencing, which has faced significant logistical challenges over the years.
+Inadequate Infrastructure:
+There is a lack of basic infrastructure, including roads and communication networks, which impedes the movement of researchers and humanitarian workers.
+Moreh Integrated Check Post (ICP) in Manipur
+, intended to facilitate trade and connectivity, has experienced slow construction and inadequate facilities, reflecting broader infrastructural deficiencies in the region.
+Political Sensitivities:
+The presence of various insurgent groups and ongoing conflicts creates a volatile environment that discourages data collection. Security concerns often prevent researchers and NGOs from engaging with local communities to gather necessary information on humanitarian needs.
+Shared Ethnic Ties and Cross-Border Dynamics:
+The interconnectedness of ethnic communities across the border complicates the situation further. Policies such as the cancellation of the Free Regime Movement (FMR) agreement have disrupted traditional social networks, making it difficult to assess the socio-economic conditions on both sides effectively.
+Restricted Access for Humanitarian Organizations:
+Government-imposed restrictions and logistical challenges prevent humanitarian agencies from collecting and reporting crucial data.
+After Myanmar’s 2021 military coup, aid organizations faced severe restrictions in conflict-hit areas like the Sagaing Region, resulting in major data gaps on displacement and food insecurity.
+Why does Manipur need a shift towards ‘greater common good’ politics?
+Ethnic Divisions and Communal Tensions:
+The conflict between the Meitei and Kuki-Zomi communities has created deep mistrust and segregation, making governance difficult. A politics of “greater common good” would prioritize reconciliation and collective welfare over ethnic identity-based politics.
+Humanitarian Crisis and Governance Failures:
+Prolonged displacement, lack of adequate relief measures, and deteriorating healthcare require governance focused on inclusive development rather than ethnic-based power struggles.
+Over 58,000 displaced individuals are still in relief camps, struggling with food, water, and medical shortages due to lack of coordinated efforts.
+Economic and Social Stability:
+Manipur’s economic potential is hindered by violence, blockades, and an unstable law-and-order situation. A governance approach focused on the “greater common good” would foster investment, economic recovery, and social stability.
+What are the steps taken by the Indian Government?
+Imposition of President’s Rule:
+On February 13, 2025, Manipur was placed under President’s Rule following the resignation of Chief Minister. This decision was made due to nearly two years of ethnic violence and political turmoil that had resulted in over 250 deaths and widespread unrest.
+Suspension of the State Assembly:
+The state assembly has been put under suspended animation, which means it will not function until the situation stabilizes. This is the 11th instance of President’s Rule being imposed in Manipur since its statehood.
+Security Measures:
+The central government has directed security forces to take all necessary steps to restore order in Manipur. This includes deploying additional military and paramilitary forces to manage the fragile security situation, which has seen recent escalations in violence.
+Appointment of a Security Advisor:
+Following the invocation of Article 355 of the Indian Constitution, a security advisor was appointed to assist the Chief Minister in managing law and order.
+Investigation into Violence:
+The Ministry of Home Affairs has handed over important cases related to the violence to the National Investigation Agency (NIA) for effective investigation, indicating a commitment to addressing the root causes of the unrest.
+Way forward:
+Inclusive Dialogue and Reconciliation:
+Establish a truth and reconciliation commission involving all ethnic communities to foster trust, address grievances, and create a roadmap for long-term peace and stability.
+Sustainable Development and Governance Reforms:
+Focus on infrastructure development, livelihood generation, and transparent governance to ensure equitable growth, reduce ethnic tensions, and rebuild public confidence in state institutions.
+**********On building resilient telecom infrastructure
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Telecom sector;
+Why in the News?
+The Coalition for Disaster Resilient Infrastructure (CDRI), a global organization launched by Prime Minister Narendra Modi in 2019, recently released a report assessing how well Indian telecom networks can handle disasters.
+What does the Coalition for Disaster Resilient Infrastructure report state?
+Multi-Hazard Risk Assessment:
+The report conducted a comprehensive risk assessment across 0.77 million telecom towers, evaluating vulnerabilities to various disasters such as floods, cyclones, and earthquakes, which informs infrastructure planning and resilience strategies.
+Disaster Risk and Resilience Index:
+A new index was developed to assess the vulnerability of telecom infrastructure based on factors like disaster intensity and frequency, enabling targeted risk management efforts.
+Technical and Governance Enhancements:
+Recommendations include improving technical planning and design of telecom infrastructure to withstand disasters, as well as integrating disaster resilience into sectoral policies through risk-informed governance.
+Financial Instruments and Collaboration:
+The report advocates for establishing risk-sharing mechanisms to protect telecom operators financially, alongside promoting cross-sectoral collaboration for coordinated disaster response efforts.
+Last-Mile Connectivity and Digital Solutions:
+Emphasizing the importance of inclusive emergency responses, the report calls for enhancing last-mile connectivity and leveraging digital solutions to ensure rapid service restoration during crises.
+Why do telecom networks face elevated risks in coastal regions in times of disaster and calamity?
+High Exposure to Cyclones & Storm Surges:
+Coastal areas frequently experience
+high-speed winds
+storm surges
+, which can damage telecom towers and disrupt communication.
+Example:
+During Cyclone Amphan (2020), telecom networks in West Bengal and Odisha were severely impacted due to tower collapses and flooding.
+Vulnerability of Undersea Cable Landing Stations:
+Undersea cables connect India to global internet infrastructure, and their
+landing stations
+are located in coastal regions. Damage to these stations can cause widespread
+internet outages
+In 2023, a disruption in undersea cables near the Red Sea affected internet speeds in South Asia, including India.
+Power Failures Due to Flooding & Infrastructure Damage:
+Coastal disasters often lead to
+massive power outages
+, affecting telecom towers and network operating centres that rely on continuous electricity.
+During Cyclone Tauktae (2021), heavy rainfall and flooding in Mumbai led to prolonged telecom disruptions due to power cuts and submerged backup generators.
+Why are undersea cables better than overland cables?
+Higher Capacity:
+Undersea cables can carry vast amounts of data, with total capacities reaching terabits per second, significantly surpassing the capabilities of satellite communications, which typically offer much lower bandwidth (around 1 gigabit per second).
+Lower Latency:
+The signal transmission time is considerably shorter with undersea cables than with satellite links. For example, latency over a fibre submarine cable is around 120 milliseconds, while satellite communications can introduce delays of approximately 650 milliseconds due to the long distances signals must travel to and from space.
+Cost-Effectiveness:
+Laying undersea cables is generally more economical than deploying satellite systems for large-scale data transmission. The initial investment in submarine cables, while significant, is offset by their capacity and reliability, making them a more sustainable option for long-term infrastructure.
+Reliability and Stability:
+Undersea cables are less susceptible to environmental factors that can disrupt overland cables, such as weather conditions or physical damage from construction activities. Their placement on the seabed provides a level of protection against many potential hazards.
+Global Connectivity:
+Submarine cables are essential for connecting continents and regions that are separated by water. They facilitate international data traffic and play a critical role in global communications, making them indispensable for the functioning of the Internet and other communication networks.
+Does power failure create major problems?
+Disrupts Communication During Emergencies:
+Telecom towers and network operating centres
+require continuous power
+to function. When electricity is cut off, mobile networks and internet services fail,
+hindering disaster response
+During Cyclone Fani (2019), Odisha experienced massive power outages, causing mobile networks to shut down, and delaying rescue operations.
+Limits Functionality of Backup Systems:
+Most telecom towers rely on
+battery or diesel generators
+, but these backups last only a few hours. If the fuel supply is disrupted, networks remain down for extended periods.
+In the Assam floods (2022), fuel shortages prevented telecom towers from running generators, prolonging communication blackouts.
+Affects Undersea & Land-based Network Infrastructure:
+Power failures at
+undersea cable landing stations
+and data centres can cause large-scale internet outages, affecting national and global connectivity.
+A power failure at a Chennai cable landing station in 2021 disrupted international internet traffic.
+Way forward:
+Strengthening Resilient Power Solutions
+: Deploy renewable energy sources like solar-powered telecom towers and battery storage systems to ensure uninterrupted network operations during disasters.
+Enhancing Risk-Informed Governance
+: Integrate disaster resilience planning into telecom policies, mandate robust backup power solutions, and establish coordinated emergency response frameworks for rapid service restoration.
+Mains PYQ:
+Critically examine the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’ with reference to the appointment of judges of higher judiciary in India.
+(UPSC IAS/2017)
+**********Why global sea ice cover has dipped to record low — what this means
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Impact of climate change;
+Why in the News?
+Between February 8 and 13, the total area of sea ice in the Arctic and Antarctic shrank to 15.76 million sq km, breaking the previous record low of 15.93 million sq km from early 2023, according to a BBC analysis of data from the US National Snow and Ice Data Center (NSIDC).
+What are the reasons for the record low?
+Warm Air and Ocean Temperatures:
+Elevated air and sea temperatures have significantly contributed to the melting of both Arctic and Antarctic sea ice. Warmer conditions, particularly towards the end of summer, have led to increased melting rates, especially in the Antarctic region.
+Wind Patterns:
+Changes in atmospheric dynamics, including stronger westerly winds associated with the Southern Annular Mode (SAM), have disrupted sea ice formation and stability. In the Antarctic, these winds can break apart ice more easily due to its thinner and more mobile nature compared to the thicker Arctic ice.
+Delayed Freezing:
+In the Arctic, a delayed freezing process around regions like Hudson Bay has occurred due to unusually warm ocean temperatures, preventing the formation of new ice during winter.
+Increased Freshwater Input:
+The melting of glaciers and ice shelves adds freshwater to the oceans, which can alter ocean stratification and impact sea ice formation. While freshwater can initially encourage sea ice growth in some contexts, it also leads to changes that may ultimately reduce overall sea ice extent.
+Feedback Mechanisms:
+The loss of sea ice creates feedback loops that further exacerbate warming. As less ice remains to reflect sunlight, more solar radiation is absorbed by the ocean, leading to increased temperatures and further melting of ice.
+What does “dip” mean?
+In the context of the recent report on sea ice, the term “dip” refers to a significant decrease or reduction in the extent of sea ice coverage. Specifically, it denotes the record low measurement of combined Arctic and Antarctic sea ice, which fell to
+15.76 million square kilometres,
+marking a decline from previous levels.
+This
+highlights the
+alarming trend of diminishing sea ice
+, which is crucial for regulating global temperatures and maintaining ecological balance in polar regions.
+What could be its impact?
+Accelerated Global Warming:
+Less sea ice means more ocean water is exposed to sunlight, absorbing heat instead of reflecting it.
+Example:
+The Arctic is warming nearly
+four times faster
+than the global average, leading to extreme weather patterns worldwide.
+Disruptions in Ocean Currents:
+Melting sea ice releases freshwater into the ocean, reducing salinity and slowing down deep-water circulation.
+The Atlantic Meridional Overturning Circulation (AMOC), which influences global climate patterns, is weakening due to increased freshwater from melting Arctic ice.
+Threat to Marine Ecosystems:
+Sea ice loss affects marine species dependent on stable ice conditions for survival.
+Polar bears
+rely on sea ice for hunting seals. As ice declines, they face starvation and habitat loss. Similarly, krill populations in Antarctica, a key food source for whales and penguins, are declining due to changing ice conditions.
+More Extreme Weather Events:
+Changes in polar ice influence atmospheric circulation, leading to unpredictable weather.
+The weakening of the polar vortex due to Arctic warming has been linked to severe cold waves in
+North America and Europe
+, such as the
+Texas winter storm in 2021
+Coastal and Infrastructure Damage:
+Rising temperatures due to ice melt contribute to permafrost thawing, which destabilizes infrastructure in polar regions.
+Siberia, Russia
+, thawing permafrost has caused buildings and roads to collapse, posing a major economic and environmental challenge.
+What measures have been taken at the international level?
+International Year of Glaciers’ Preservation (2025):
+The World Meteorological Organization (WMO) and UNESCO have declared 2025 as the International Year of Glaciers’ Preservation. This initiative aims to raise awareness about the importance of glaciers and ice sheets, which store a significant portion of the world’s freshwater, and to promote actions to mitigate their melting.
+Global Cryosphere Watch:
+The WMO’s Global Cryosphere Watch network, which includes scientists from the Intergovernmental Panel on Climate Change (IPCC), has been actively monitoring and reporting on cryosphere changes. Their findings highlight alarming trends in ice loss and emphasize the need for immediate action to address these issues.
+Collaborative Research Initiatives:
+Various international scientific collaborations are underway to study and model the impacts of climate change on sea ice. These efforts involve researchers from multiple countries working together to gather data, analyze trends, and develop strategies for adaptation and mitigation.
+Climate Action Frameworks:
+Global climate agreements, such as the Paris Agreement, encourage countries to commit to reducing greenhouse gas emissions, which are a primary driver of climate change affecting sea ice.
+Public Awareness Campaigns:
+International organizations are engaging in campaigns to educate the public about the significance of sea ice and glaciers in regulating global climate systems.
+Way forward:
+Strengthening Climate Mitigation Efforts:
+Nations must enhance commitments under the
+by accelerating
+renewable energy adoption
+, and implementing
+carbon pricing mechanisms
+to curb global warming.
+Enhancing Polar and Oceanic Monitoring:
+international collaboration
+for real-time satellite monitoring, expand
+scientific research on polar ice dynamics
+adaptive strategies
+to protect vulnerable ecosystems and coastal communities.
+Mains PYQ:
+How do the melting of the Arctic ice and glaciers of the Antarctic differently affect the weather patterns and human activities on the Earth? Explain.
+(UPSC IAS/2021)
+**********[pib] Periodic Labour Force Survey (PLFS) Quarterly Bulletin
+Prelims Only
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The latest edition of PLFS report (October-December 2024) has highlighted key labour market indicators.
+About Periodic Labour Force Survey (PLFS)
+The PLFS is conducted by the
+National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI)
+to assess
+employment and unemployment trends
+in India.
+Launched in
+April 2017
+, PLFS provides
+quarterly estimates
+for urban areas and
+annual estimates
+for both rural and urban areas.
+Key Indicators:
+Labour Force Participation Rate (LFPR):
+Percentage of people working or seeking jobs.
+Worker Population Ratio (WPR):
+Percentage of people employed.
+Unemployment Rate (UR):
+Percentage of job seekers unable to find employment.
+Current Weekly Status (CWS):
+Employment status based on work done in the last
+7 days
+Survey Methodology:
+Urban Areas:
+Rotational Panel Sampling
+(each household surveyed four times).
+Data Collected (Oct-Dec 2024):
+5,742 urban units surveyed, covering 1,70,487 individuals across 45,074 households.
+Publication:
+Bulletins for urban areas,
+Annual Reports
+for rural and urban regions.
+Key Highlights of PLFS (Oct-Dec 2024)
+50.4%
+(↑ from
+49.9% in 2023
+Male LFPR:
+75.4%
+74.1% in 2023
+Female LFPR:
+25.2%
+25.0% in 2023
+47.2%
+46.6% in 2023
+Male WPR:
+70.9%
+69.8% in 2023
+Female WPR:
+23.2%
+22.9% in 2023
+6.4%
+(↓ from
+6.5% in 2023
+Male UR:
+5.8%
+unchanged
+Female UR:
+8.1%
+8.6% in 2023
+PYQ:
+[2023]
+Most of the unemployment in India is structural in nature. Examine the methodology adopted to compute unemployment in the country and suggest improvements.
+[2013]
+Disguised unemployment generally means:
+(a) large number of people remain unemployed
+(b) alternative employment is not available
+(c) marginal productivity of labour is zero
+(d) productivity of workers is low
+**********New study challenges the age of Saturn’s Rings
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+A new study has challenged previous assumptions, suggesting that
+Saturn’s rings could be as old as the Solar System (~4.5 billion years old)
+About Saturn and Its Rings
+Saturn, the
+sixth planet from the Sun
+, is famous for its
+iconic ring system
+, made up of
+billions of ice and rock particles
+ranging in size from tiny grains to massive chunks.
+It is primarily composed of
+water ice (95%)
+, with some dust and rocky debris.
+The rings are divided into
+seven main sections (A to G)
+, with gaps like the
+Cassini Division
+Scientists have debated whether the rings
+formed with Saturn (~4.5 billion years ago)
+or if they are
+only 100-400 million years old
+Over time, tiny space rocks should darken the rings, yet they remain surprisingly bright.
+Key Findings of the Study:
+Earlier estimates, based on
+Cassini data
+, suggested the rings were
+because they looked
+clean and bright
+The new study suggests that
+micrometeoroid collisions remove dust efficiently
+, preventing the rings from darkening over time.
+High-speed micrometeoroid impacts (~108,000 km/h) cause dust to vaporize
+, rather than accumulate.
+The vaporized dust either
+escapes Saturn’s gravity, falls into the planet’s atmosphere, or gets ejected into space
+, keeping the rings
+pristine
+100 million years ago
+, the Solar System was stable, making
+ring formation unlikely
+4 billion years ago
+, the Solar System was chaotic, increasing the chances of
+violent planetary collisions
+that could have formed Saturn’s rings.
+Various Missions to Saturn
+Saturn has been explored by multiple spacecraft, each providing valuable insights into its
+rings, atmosphere, and moons
+1. Pioneer 11 (1979)
+First spacecraft to
+fly past Saturn
+, capturing
+basic images
+2. Voyager 1 & Voyager 2 (1980-1981)
+Discovered
+new moons and ring structures
+Provided
+detailed images of Saturn’s rings
+3. Cassini-Huygens (1997-2017)
+NASA-ESA-ASI mission
+orbited Saturn for 13 years
+Key discoveries:
+Confirmed liquid oceans on Enceladus.
+Found methane lakes on Titan.
+Observed Saturn’s rings losing material into the planet’s atmosphere.
+PYQ:
+[2009]
+Which one of the following planets has largest number of natural satellites or moons?
+(a) Jupiter
+(b) Mars
+(c) Saturn
+(d) Venus
+**********Iron Age in India
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Iron Age; Important Sites
+Why in the News?
+Tamil Nadu CM recently proclaimed that the
+Iron Age began on Tamil soil over 5,300 years ago (4th millennium BCE)
+, based on findings from
+Mayiladumparai, Sivagalai, Adichanallur, and Kilnamandi
+.
+The Iron Age in India was
+initially thought to have begun around 700-600 BCE
+Radiocarbon dating pushed the timeline back to
+1800 BCE
+, with evidence of iron smelting found in
+Central Ganga Plain and Eastern Vindhyas
+Recent discoveries in
+suggest that
+iron metallurgy was established in South India as early as 3300 BCE
+Notable Iron Age Sites in India:
+Central and Northern India
+Raja Nala-ka-tila (UP)
+Iron tools and slag
+found in pre-NBP (Northern Black Polished) deposits
+(1400–800 BCE)
+Malhar (Chandauli, UP)
+: Furnaces and iron slag indicate a major iron metallurgy center (1200 BCE).
+Dadupur (UP)
+: Large-scale iron smelting evidence dating back to 1000 BCE.
+Hastinapur (UP)
+: Iron tools associated with the Painted Grey Ware (PGW) culture (1000 BCE).
+Takshashila (Punjab, Pakistan)
+: Iron tools found in Gandhara settlements (800 BCE).
+Western and Central India
+Ahar (Rajasthan)
+Chalcolithic culture (2500–1700 BCE)
+showed early evidence of iron artifacts.
+Naikund (Vidarbha, Maharashtra)
+: Discovery of an iron smelting furnace (1000 BCE).
+Mahurjhari (Nagpur, Maharashtra)
+: Horse ornaments made of copper with iron knobs (800 BCE).
+Paiyampalli (Tamil Nadu)
+: Large-scale iron smelting and slag deposits (1200 BCE).
+Adichanallur (Tamil Nadu)
+: Iron tools and burial urns linked to Megalithic culture (1000 BCE).
+Mayiladumparai (Tamil Nadu)
+: Recent findings date iron usage to 3300 BCE, making it one of the oldest sites of iron metallurgy in India.
+Sivagalai (Tamil Nadu)
+: Iron artifacts and slag deposits, indicating early smelting practices (1100 BCE).
+Iron Age in Tamil Nadu: New Discoveries
+Earlier studies in
+Mayiladumparai Excavation (2022)
+suggested that the
+Iron Age began 4,200 years ago (3rd millennium BCE)
+This timeline
+coincides with the Copper/Bronze Age in North India
+, indicating a
+technological divergence
+between the regions.
+The latest State Archaeology Department’s report, “Antiquity of Iron: Recent Radiometric Dates from Tamil Nadu
+”
+, confirms that
+Iron smelting began as early as 3,345 BCE – 2,953 BCE
+Limited availability of copper ores in South
+India might have led to the
+early adoption of iron technology
+Excavations in
+Sivagalai, Adichanallur, Kilnamandi, and Mayiladumparai
+indicate that the
+predates much of North India.
+PYQ:
+[2017]
+With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, which of the following statements is/are correct?
+Rigvedic Aryans used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them.
+Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron.
+Rigvedic Aryans had domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal.
+Select the correct answer using the code given below:
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********Nocturnal Bull Ants Navigate Using Polarized Moonlight
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Scientists at
+Macquarie University, Sydney
+, have discovered that
+two species of nocturnal bull ants (Myrmecia pyriformis and Myrmecia midas)
+rely on
+polarised moonlight
+for navigation.
+What is Polarised Moonlight?
+Polarised moonlight refers to
+moonlight that has undergone scattering in Earth’s atmosphere, causing its waves to oscillate in a specific direction
+Unlike direct moonlight, which is
+unpolarised
+, the light that scatters in the sky becomes
+linearly polarised
+, meaning its
+electric field aligns in a fixed plane
+The
+moon emits unpolarised light
+, but when it interacts with
+air molecules and dust particles
+in the atmosphere, it
+scatters and becomes polarised
+intensity of polarised moonlight is much lower than polarised sunlight
+, making it harder for most animals to detect.
+The pattern of polarisation in moonlight remains stable
+, allowing nocturnal animals to use it as a reliable
+navigation tool
+Why is it Important for Navigation?
+Many nocturnal animals, including
+, rely on
+celestial cues
+to orient themselves.
+Unlike the moon’s direct position, which changes with phases and cloud cover, the polarisation pattern remains detectable throughout the night
+This enables ants to
+navigate effectively even under crescent or waning moons
+, where light intensity is significantly lower.
+E-Vector Pattern and Ant Navigation
+Polarised moonlight forms a distinct pattern in the sky
+, known as the
+E-vector pattern
+This pattern
+shifts based on the moon’s position
+, but its
+orientation remains stable
+, allowing insects like ants to use it as a
+natural compass
+E-vector pattern aligns at 90° to the moon’s direct light
+, creating a
+predictable navigation reference
+How do Bull Ants use it?
+Ants detect the E-vector pattern in the night sky
+using their
+specialised compound eyes
+, which are sensitive to polarised light.
+Even in dim conditions, they adjust their movements
+according to the
+orientation of polarised moonlight
+Researchers found that
+when the E-vector was artificially rotated, the ants changed their paths accordingly
+, confirming that they rely on this pattern.
+When the
+moonlight disappeared (during a new moon phase)
+struggled to navigate
+, further proving their dependence on
+polarised lunar light
+**********

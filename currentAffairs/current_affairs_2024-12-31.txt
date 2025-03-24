@@ -1,0 +1,420 @@
+On India’s obligations towards the Rohingya
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Refugee crises;
+Why in the News?
+A recent study by The Azadi Project and Refugees International has found that Rohingya refugees detained in India face serious violations of their basic rights. It also criticizes India for not meeting its responsibilities under international human rights agreements.
+What has a recent report said about India’s refugee policy for the Rohingya people?
+Human Rights Violations:
+The report indicates that Rohingya refugees are subjected to “gross violations of constitutional and human rights,” including arbitrary detention without charges and inhumane living conditions in detention centres.
+Call for Legal Revisions:
+It urges India to clarify the legal status of Rohingya refugees and revise outdated laws like the Foreigners Act of 1946 to align with international refugee standards.
+Recommendations for Action:
+The report advocates for the immediate release of vulnerable detainees and calls on international actors, including the U.S. and UNHCR, to engage with India on these issues.
+What does the 1951 Refugee Convention state?
+The 1951 Refugee Convention and its 1967 Protocol establish fundamental principles for the protection of refugees, including:
+Non-refoulement:
+This principle prohibits states from returning individuals to countries where they may face persecution or serious harm. It is a cornerstone of international refugee law and is considered customary international law, binding even on states not party to the Convention.
+Rights of Refugees:
+The Convention outlines various rights that refugees are entitled to, such as access to legal assistance, work, education, and social services, ensuring their dignity and protection from discrimination.
+Note:
+India is not a signatory to the 1951 United Nations Refugee Convention.
+What is India’s stand?
+Non-signatory Status:
+India is not a signatory to the 1951 Refugee Convention or its Protocol, which it argues absolves it from legal obligations to provide asylum or adhere to non-refoulement principles.
+Detention Practices:
+The Indian government continues to detain Rohingya refugees under domestic laws that classify them as illegal migrants. Recent court rulings have reinforced this stance, stating that while they have a right to life under Article 21 of the Constitution, they lack right to reside or settle in India.
+Judicial Interpretation:
+Despite India’s non-signatory status, some High Courts have interpreted international norms as applicable under Article 21, suggesting a potential pathway for legal protections for refugees.
+What are India’s international obligations?
+International Treaties:
+India is a party to several international human rights treaties that imply obligations related to the treatment of individuals at risk of torture or inhumane treatment. For instance:
+The International Covenant on Civil and Political Rights (ICCPR) includes provisions against refoulement (forcible return of refugees) under Article 7.
+Other treaties like the Convention Against Torture also emphasise non-refoulement principles, even if India’s ratification status complicates direct enforcement.
+Constitutional Mandates:
+Article 51(c) of the Indian Constitution encourages respect for international law and treaty obligations. Landmark Supreme Court rulings have indicated that international conventions should guide domestic law when local legislation is lacking
+Way forward:
+Establish a Comprehensive Refugee Policy
+: India should enact a uniform refugee law aligning with international principles, ensuring legal clarity and protection for all refugees, including the Rohingya, while upholding the constitutional mandate under Article 21.
+Strengthen Collaboration with UNHCR and Civil Society
+: Engage with international agencies and local organizations to improve refugee support systems, focusing on humane detention practices, legal aid, and sustainable resettlement initiatives.
+Mains PYQ:
+“Refugees should not be turned back to the country where they would face persecution or human right violation”. Examine the statement with reference to ethical dimension being violated by the nation claiming to be democratic with open society.
+(UPSC IAS/2021)
+**********Why ISRO’s ‘docking’ mission today is critical for India’s space ambitions?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Space sector;
+Why in the News?
+Recently, the Indian Space Research Organisation (ISRO) launched its Space Docking Experiment (SpaDeX) in space with a PSLV rocket.
+What is SpaDeX mission?
+The SpaDeX mission, or Space Docking Experiment, is a significant initiative by the Indian Space Research Organisation (ISRO) aimed at demonstrating advanced in-space docking technology.
+Docking technology involves manoeuvring two spacecraft into the same orbit, aligning them precisely, and physically joining them to enable modular assembly, resupply, crew transfer, or sample return missions in space.
+What is the significance of India’s achievement in space docking technology?
+Joining an Elite Club:
+With the successful completion of the SpaDeX mission, India becomes only the fourth country in the world, after the United States, Russia, and China, capable of conducting space docking operations. This positions India as a key player in global space exploration and technology.
+Foundation for Future Missions:
+The docking capability is crucial for various upcoming missions, including India’s plans for a lunar sample return mission (Chandrayaan-4) and establishing its own space station by 2035. The ability to dock spacecraft allows for complex missions that require multiple launches and assembly in orbit.
+How does the SpaDeX mission contribute to India’s future space exploration goals?
+Support for Lunar Missions:
+SpaDeX is designed to demonstrate technologies necessary for future lunar missions, particularly for Chandrayaan-4, which will involve multiple components that need to be docked in space before proceeding to the Moon.
+Bharatiya Antariksh Station:
+The mission is a critical step towards building the Bharatiya Antariksh Station (BAS), which will consist of several modules that must be docked together in orbit. The first module is expected to launch by 2028.
+Satellite Servicing and Interplanetary Missions:
+The docking technology developed through SpaDeX will facilitate satellite servicing missions and interplanetary missions, enhancing India’s capabilities in space exploration.
+What technological advancements were demonstrated through the SpaDeX mission?
+Innovative Docking Technology:
+The mission showcases advanced docking techniques using two small satellites (SDX01 and SDX02), which require high precision due to their smaller size compared to typical spacecraft. This necessitates more intricate maneuvering during the docking process.
+New Sensors and Systems:
+SpaDeX employs various new sensors such as Laser Range Finders and Rendezvous Sensors to ensure accurate measurements during docking.
+Additionally, it utilizes a new processor for determining relative positions and velocities, paving the way for future autonomous docking systems.
+Biological Experiments:
+For the first time, ISRO is conducting biological experiments in space with the CROPS (Compact Research Module for Orbital Plant Studies), which will study plant growth under microgravity conditions. This adds a new dimension to India’s space research capabilities.
+Way forward:
+Enhancing Autonomous Docking Systems:
+Focus on developing fully autonomous docking capabilities for complex missions, enabling seamless execution of lunar, interplanetary, and modular space station operations.
+Strengthening Collaborative Ventures:
+Leverage international partnerships to exchange expertise and expand applications of docking technology in satellite servicing, resupply missions, and deep-space exploration.
+Mains PYQ:
+What is India’s plan to have its own space station and how will it benefit our space programme?
+(UPSC IAS/2019)
+**********UPI duopoly’s rise and market vulnerabilities
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Digital transactions;
+Why in the News?
+In just eight years, UPI now handles nearly 80% of India’s digital transactions which valued at ₹20.60 lakh crore in August, despite challenges like PhonePe and Google Pay’s market dominance.
+What are the implications of market concentration in the UPI ecosystem?
+Systemic Vulnerability:
+The dominance of two Third Party App Providers (TPAPs) for online transactions like UPI PhonePe and Google Pay, which together control over 85% of the market share, creates a risk of systemic failure.
+Any disruption in their services could significantly impact the entire UPI ecosystem, given that nearly 80% of transactions occur through these platforms.
+Reduced Competition and Innovation:
+The high market concentration discourages competition, leading to fewer incentives for innovation among existing players. Smaller or new entrants face significant barriers to entry due to the scale and resources of the dominant TPAPs, stifling diversity in service offerings.
+Foreign Dominance Risks:
+Both leading TPAPs are foreign-owned, raising concerns about data security and sovereignty. This foreign dominance can lead to potential vulnerabilities in terms of data protection and access to sensitive information about Indian users.
+How effective are regulatory measures in addressing duopoly issues?
+Regulatory Challenges:
+The National Payments Corporation of India (NPCI) has attempted to address market concentration by capping TPAP market shares at 30%. However, this measure has not been effectively enforced, with extensions granted that allow dominant players to maintain their substantial market positions.
+Limited Impact of Existing Regulations:
+Despite regulatory intentions, the continued growth of PhonePe and Google Pay indicates that existing measures have not sufficiently mitigated the risks associated with a duopoly. The potential increase in market share cap from 30% to 40% may further entrench the dominance of these platforms rather than promote a competitive landscape.
+What strategies can smaller players adopt to compete in this landscape?
+Innovation and Niche Services:
+Smaller players can focus on niche markets or specialized services that cater to specific user needs, differentiating themselves from larger competitors. This could include unique features or localised services that appeal to underserved populations.
+Collaboration and Partnerships:
+Forming alliances with banks, fintech companies, or other service providers can help smaller players leverage resources and technology to enhance their offerings and reach a broader audience.
+User Education and Trust Building:
+Investing in user education about digital payments and building trust through transparent practices can attract users who may be hesitant to switch from established platforms. Emphasizing security features and customer support can also enhance user confidence.
+What should the Indian Government do to reduce the dependency? (Way forward)
+Enforce and Strengthen Regulatory Caps
+: Mandate strict enforcement of market share caps for TPAPs and ensure timely compliance to prevent excessive concentration. Introduce penalties for non-compliance and avoid extensions to foster a competitive ecosystem.
+Promote Indigenous Development
+: Provide financial incentives, subsidies, and grants to Indian TPAPs to enhance their competitiveness. Encourage innovation through dedicated programs and regulatory frameworks that support startups in the payments space.
+Mains PYQ:
+Is inclusive growth possible under market economy? State the significance of financial inclusion in achieving economic growth in India.
+(UPSC IAS/2021)
+**********Household Consumption Expenditure Survey, 2023-24
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Household Consumption Expenditure Survey (HCES) 2023-24
+highlights key trends in
+consumption patterns
+across India. It is conducted by the
+National Statistical Office
+(NSO) every
+5 years.
+Important Highlights of HCES, 2023-24:
+Rural Spending
+: Monthly per capita consumption expenditure (MPCE) increased by
+9.3%
+to ₹4,122 in 2023-24 (from ₹3,773 in 2022-23); significantly higher than ₹1,430 in 2011-12.
+Urban Spending
+: MPCE rose by
+8.3%
+to ₹6,996 (from ₹6,459 in 2022-23); up from ₹2,630 in 2011-12.
+Rural-Urban Gap
+: Narrowed to
+69.7%
+in 2023-24, compared to 71.2% in 2022-23 and 83.9% in 2011-12.
+Food Expenditure
+: Share increased to
+47.04%
+in rural and
+39.68%
+in urban households, reversing a decades-long decline.
+Rural households spent most on
+beverages and processed food (11.09%)
+, followed by
+milk products (8.44%)
+vegetables (6.03%)
+Urban households spent most on
+beverages and processed food (9.84%)
+milk products (7.19%)
+, and
+vegetables (4.12%)
+Decline in expenditure on sugar and salt
+, with
+rising spending on beverages
+and processed foods, signaling dietary shifts.
+Non-Food Expenditure
+: Accounted for the majority in both rural (52.96%) and urban areas (60.32%).
+Major rural non-food expenses:
+Conveyance (7.59%)
+medical expenses (6.83%)
+clothing & bedding (6.63%)
+Major urban non-food expenses:
+Conveyance (8.46%)
+entertainment (6.92%)
+durable goods (6.87%)
+–
+Regional Variations
+Highest MPCE
+: Sikkim (Rural – ₹9,377; Urban – ₹13,927) and Chandigarh (Rural – ₹8,857; Urban – ₹13,425).
+Lowest MPCE
+: Chhattisgarh (Rural – ₹2,739; Urban – ₹4,927).
+States with largest rural-urban gaps
+: Meghalaya (104%), Jharkhand (83%), and Chhattisgarh (80%).
+Consumption Inequality
+: Gini coefficient declined from
+0.266 to 0.237
+in rural areas and
+0.314 to 0.284
+in urban areas, indicating reduced income disparity.
+Features and Significance
+Consumption Trends
+: Indicates rising food expenditure driven by inflation and evolving post-pandemic behaviors.
+Narrowing Rural-Urban Gap
+: Highlights improved rural consumption growth outpacing urban areas.
+Changing Diet Patterns
+: Increased preference for beverages and processed foods in both rural and urban households reflects dietary shifts.
+Regional Disparities
+: Offers insights into high- and low-spending regions, aiding targeted interventions.
+Policy Implications
+: Highlights the need for
+price stabilization for essentials
+rural infrastructure investments
+urban employment growth
+to address income disparities and rising expenses.
+PYQ:
+[2019]
+In a given year in India, official poverty lines are higher in some States than in others because:
+(a) poverty rates vary from State to State
+(b) price levels vary from State to State
+(c) Gross State Product varies from State to State
+(d) quality of public distribution varies from State to State
+**********In news: Pangong Lake
+Prelims Only
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Indian Army has installed a statue of Chhatrapati Shivaji Maharaj on the bank of Pangong lake at an altitude of 14,300 feet, a region that is close to the Line of Actual Control (LAC) with China in the eastern Ladakh sector.
+About
+Pangong Lake (Pangong Tso)
+Details
+Geographical Features and Significance
+Name derived from the Tibetan term “Pangong Tso,” meaning
+“high grassland lake.”
+It is an
+Endorheic Lake
+(landlocked, no outflow to external water bodies).
+Geographical Features:
+Length
+: 134 km, spanning
+India (1/3)
+and the
+Tibetan Autonomous Region, China (2/3).
+Altitude
+: Situated at
+4,350 meters
+above sea level.
+Size
+: Covers
+604 sq. km
+, 5 km wide at its broadest point.
+Water Type
+: Brackish but freezes completely during winter.
+Changes colors
+based on sunlight and weather, showcasing shades of blue, green, and red.
+Wildlife
+: Breeding ground for
+Bar-Headed Geese
+Brahmini Ducks
+Radix
+freshwater snails.
+Strategic Significance
+: Lies in the
+Chushul approach
+, a key route for Chinese offensives; witnessed major action during the
+1962 war
+Political Features
+Lies on the
+Ladakh-China border
+with the
+passing through it.
+northern bank
+contested
+terrain due to differing perceptions of the boundary.
+Roads built
+along the
+Chinese banks
+underline its strategic importance.
+1999 Incident
+: China built a 5-km road into Indian territory during
+Operation Vijay
+2020 Standoff
+Began on
+May 5, 2020
+, after a clash in the Pangong Lake area.
+Disengagement on the north and south banks was completed in
+2021
+October 21, 2024
+, both sides resolved the final friction points (Demchok and Depsang), ending a
+four-and-half-year-long standoff
+Symbolism
+: The unveiling of a Shivaji statue coincided with the resolution, emphasizing the region’s strategic and cultural importance.
+PYQ:
+[2020]
+Siachen Glacier is situated to the
+(a) East of Aksai Chin
+(b) East of Leh
+(c) North of Gilgit
+(d) North of Nubra Valley
+**********[pib] Exercise SURYA KIRAN
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Indian Army contingent
+has departed for
+Nepal
+to participate in the
+18th edition of the Battalion-Level Joint Military Exercise SURYA KIRAN
+.
+About the Exercise Surya Kiran
+Exercise Surya Kiran is a
+bilateral joint military exercise
+conducted annually between
+India and Nepal
+since
+2011
+is being held in
+Saljhandi, Nepal
+, from
+31st December 2024 to 13th January 2025
+It alternates between
+as the host nation.
+, consisting of
+334 personnel
+, is led by a battalion from the
+11th Gorkha Rifles
+Nepal Army contingent
+is represented by the
+Srijung Battalion
+The exercise aims to enhance
+interoperability
+in areas like
+jungle warfare, counter-terrorism operations in mountainous terrains
+, and
+humanitarian assistance under the United Nations Charter
+Features and Significance
+Strengthens
+combat readiness
+in jungle warfare and counter-terrorism.
+Facilitates the exchange of
+ideas, experiences
+best practices
+between the armies of both nations.
+Reinforces the strong
+cultural and historical ties
+shared by
+Prepares both nations to address
+shared security challenges
+effectively.
+PYQ:
+[2024]
+Which of the following statements about the Exercise Mitra Shakti-2023 is/ are correct?
+This was a joint military exercise between India and Bangladesh.
+It commenced in Aundh (Pune).
+Joint response during counter-terrorism operations was a goal of this operation.
+Indian Air Force was a part of this exercise.
+Select the answer using the code given below:
+(a) 1, 2 and 3
+(b) 1 and 4
+(c) 1 and 4
+(d) 2, 3 and 4
+**********Marine Heatwave killed four million Alaska seabirds
+Prelims Only
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Marine Heat Waves (MHWs)
+Why in the News?
+The 2014-2016
+Pacific
+marine heatwave (MHW)
+killed over four million common murres (Uria aalge) (IUCN: Least Concerned) in Alaska. A study published in Science revealed that this event marked the largest recorded vertebrate die-off linked to warming oceans.
+About Marine Heat Waves (MHWs)
+Details
+What is it?
+As per the National Oceanic and Atmospheric Administration (NOAA), prolonged periods of sea surface temperatures rising
+3 to 4°C above average
+for at least
+five consecutive days
+IMD
+defines a marine heat wave (MHW) as a period when the
+sea’s temperature
+above the 90th percentile
+(seasonally varying threshold
+for at least 5 consecutive days.
+Can last from
+weeks to years
+, depending on intensity and extent.
+Frequency
+: Increasing in both occurrence and intensity due to
+climate change
+Identified as one of the most significant
+stressors on global marine ecosystems
+, causing large-scale disruptions.
+Key Observations on MHWs
+2014-2016 Pacific MHW
+Caused the death of over
+4 million common murres (Uria aalge)
+in Alaska, the largest vertebrate die-off linked to warming oceans.
+Highlighted rapid and severe population declines in marine birds and a lack of ecosystem recovery even years later.
+Increasing frequency and intensity are reshaping ecosystems, creating new survival challenges for marine species.
+Evidence of shifts in marine environments, disrupting population dynamics.
+Impacts of MHWs
+On Ecosystems:
+Mass Mortality
+: Loss of habitat-forming species like kelps and corals, degrading ecosystems.
+Trophic Cascades
+: Displacement of lower-trophic species and reduced ecosystem productivity.
+On Marine Species:
+Reduced breeding success and increased mortality.
+Example: 2014–2016 Pacific MHW killed half the common murre population in Alaska.
+On Biodiversity:
+Loss of key predators disrupts food webs.
+Threatened species face survival challenges due to limited adaptability.
+PYQ:
+[2020]
+With reference to Ocean Mean Temperature (OMT), which of the following statements is/are correct?
+OMT is measured up to a depth of 26ºC isotherm which is 129 meters in the south-western Indian Ocean during January-March.
+OMT collected during January-March can be used in assessing whether the amount of rainfall in monsoon will be less or more than a certain long term mean.
+Select the correct answer using the code given below:
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********

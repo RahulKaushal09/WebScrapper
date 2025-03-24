@@ -1,0 +1,1484 @@
+The Hidden Cost of Greenwashing the Indian Railways
+Context
+The Indian Railways
+, in pursuit of its ambitious Mission 100% Electrification,
+aims to modernise the country’s vast rail network by completely phasing out diesel traction.
+While the vision is positioned as a step towards reducing foreign exchange expenditure,
+environmental pollution, and transitioning to renewable energy,
+the practical outcomes of this mission raise significant concerns.
+Now it becomes imperative to explore the government’s push for hundred percent rail electrification, its implications,
+and the way forward to a sustainable solution.
+Government’s Decision of Repurposing of Diesel Locomotives and Implications of this Policy Shifts
+Engineering Feat of Locomotive Conversion
+The Indian Railways' decision to export used diesel locomotives after converting them for Cape Gauge usage
+reflects an impressive feat of engineering and innovation.
+conversion process involves significant technical challenges
+, including modifying locomotives originally designed for the 1,676 mm broad gauge to a much narrower 1,067 mm gauge.
+This
+requires meticulous re-engineering, essentially dismantling and rebuilding the locomotives
+to suit operational requirements in African countries.
+While this showcases the skill and expertise of Indian engineers
+and institutions like RITES Ltd.,
+the underlying reason for such exports lies in the sweeping electrification policy
+that has rendered these locomotives redundant.
+Premature Redundancy of Diesel Locomotives
+The policy shift towards 100% electrification, pursued in mission mode, is
+rooted in the government’s desire to modernise rail infrastructure,
+reduce dependency on imported diesel, and promote environmental sustainability.
+However, this shift has come at the cost of prematurely retiring diesel locomotives,
+many of which remain in good working condition with substantial residual service life.
+According to RTI data, as of March 2023, there were 585 diesel locomotives stabled, idling across the network
+due to the rapid expansion of electrification.
+This figure has reportedly risen to 760 in 2024
+, with over 60% of these locomotives possessing more than 15 years of remaining service life.
+Thus, valuable assets that could have continued to generate returns are instead being phased out or sent for export
+, leading to significant financial losses and resource wastage.
+The Environmental Paradox of Electrification
+Furthermore,
+the export of these locomotives highlights the paradoxical outcomes of the electrification policy.
+On the one hand,
+Indian Railways is eliminating domestic diesel traction in favour of electrification, presenting it as a green initiative.
+On the other hand, t
+he same locomotives, now deemed obsolete domestically, are being exported to other countries
+where they will continue to operate, albeit in a modified form.
+export does not eliminate the environmental impact of diesel locomotives;
+it merely transfers it to other regions.
+Overlooking Diesel Locomotives’ Strategic Value
+Additionally,
+the rapid electrification drive has forced Indian Railways to overlook the versatility and utility of diesel locomotives.
+Unlike electric locomotives,
+diesel locomotives are self-sufficient and do not rely on overhead electric wires
+, making them highly valuable in situations where infrastructure is inadequate or power supply is inconsistent.
+This adaptability is especially critical during natural disasters, power outages,
+or in remote areas where electrification is not yet viable.
+By aggressively sidelining diesel traction, Indian Railways risks compromising its operational flexibility
+and preparedness for emergencies.
+Missed Opportunities for Redeployment
+The decision to export these locomotives
+also indicates a missed opportunity for redeployment within India.
+Many smaller or regional routes, where traffic density is lower and full-scale electrification may not be economically justified
+, could continue to
+benefit from diesel traction.
+Instead of strategically using these locomotives
+to optimise network performance,
+Indian Railways has prioritised electrification as a blanket solution,
+rendering such redeployment unlikely.
+A Closer Scrutiny of Government’s Reasons for Rail Electrification
+Economic Viability of Electrification
+government justifies rail electrification on two primary grounds
+:
+reducing foreign exchange by cutting diesel imports and promoting environmental sustainability
+, however, these claims require closer scrutiny.
+First,
+railway diesel consumption constitutes an insignificant share of India’s total diesel use.
+According to a 2014 study by AC Nielsen,
+the transport sector accounted for 70% of diesel consumption,
+the railways contributed only 3.24%.
+By 2021-22, this share had further reduced to around 2%.
+n contrast, trucks alone consumed 28% of the diesel supply, with agriculture accounting for 13.2%.
+Thus, eliminating diesel traction in railways will achieve negligible reductions
+in national diesel consumption while ignoring larger sectors.
+Second, the economic argument fails to account for the costs
+associated with premature electrification.
+substantial capital investment in building electric traction infrastructure
+and retiring usable diesel locomotives creates financial inefficiencies
+Environmental Considerations: A Misleading Justification
+environmental justification
+for rail electrification
+appears equally tenuous.
+While e
+lectrification reduces local emissions from diesel combustion, it does not address the source of the electricity itself.
+India’s electricity generation is still heavily dependent on coal,
+which accounts for nearly 50% of the total energy mix.
+Indian Railways plays a crucial role in transporting coal to thermal plants,
+with 40% of its freight earnings generated by this activity alone.
+Replacing diesel locomotives with electric ones shifts pollution from railway tracks to coal-fired power plants.
+Electric locomotives, powered by coal-based electricity, perpetuate a carbon-intensive cycle:
+more coal transported to generate electricity, which then powers the locomotives.
+Until India achieves a cleaner energy mix,
+where 80% of power is derived from non-fossil fuels,
+the claim of achieving a Green Railway remains unrealistic.
+The environmental benefits of electrification, therefore, are a superficial narrative that ignores systemic dependencies on coal.
+Policy Implications of Push for 100% Rail Electrification
+The aggressive push for rail electrification epitomises the risks of policy-making driven by headline-grabbing slogans
+rather than pragmatic planning.
+sheer scale of wastage, locomotives stretching over 16 kms
+if lined end-to-end
+reflects inefficient use of public resources.
+Costly,
+functional assets are discarded in favour of an unbalanced modernisation agenda,
+ultimately burdening taxpayers.
+Moreover,
+the policy undermines the Railways’ role as a lifeline for India’s economy.
+Way Forward: A Balanced Approach
+Instead of carefully balancing electrification with existing diesel assets,
+the government has pursued a one-size-fits-all approach, disregarding regional and operational requirements.
+The resulting dichotomy, retaining diesel locomotives while claiming a green transition, demonstrates a lack of coherence in execution.
+A more balanced approach would involve
+phased electrification, improved asset management, and investments in cleaner energy generation.
+For the Railways to become genuinely green,
+systemic changes are needed beyond electrification, changes that address the foundational issues
+of energy production, resource utilisation, and operational sustainability.
+Conclusion
+The Indian Railways’ Mission 100% Electrification is a case study of overzealous policy-making
+driven by ambitious, but impractical goals.
+While reducing diesel imports and emissions are commendable objectives,
+the realities of India’s energy mix and the marginal contribution of railways to diesel consumption undermine the rationale.
+The policy’s environmental claims are premature, and its economic implications are wasteful,
+as functional diesel assets are abandoned without a clear strategy for their use.
+Click to View More
+Editorial Analysis
+**********India’s First Diabetes Biobank
+India has established its first diabetes biobank at the Madras Diabetes Research Foundation (MDRF) in Chennai, in collaboration with the Indian Council of Medical Research (ICMR).
+Key Features of the Biobank
+The diabetes biobank is a
+repository of biological samples
+collected from different populations to aid scientific research. It is designed to:
+Collect, process, store and distribute biospecimens
+to support ongoing and future studies.
+House blood samples for various forms of diabetes, including
+Type 1 diabetes, Type 2 diabetes and gestational diabetes.
+About Diabetes:
+chronic disease
+that occurs when the
+pancreas
+is unable to produce insulin or when the body cannot use insulin effectively.
+Insulin
+is a hormone that helps regulate
+blood glucose levels
+If the body fails to produce or use insulin properly, it results in
+high blood glucose levels
+, a condition known as
+hyperglycemia
+. Over a long period,
+can cause significant
+damage to various organs and tissues
+It is a
+major cause
+of critical health conditions such as
+blindness, kidney failure, heart attacks, stroke
+lower limb amputations
+Epidemiological Study on Diabetes in India:
+This study, conducted between
+2008 and 2020
+, sampled
+1.2 lakh individuals
+across the country. The participants included
+33,537 urban residents
+79,506 rural residents
+31 States and Union Territories
+Types of Diabetes:
+Type 1 Diabetes:
+It is an
+autoimmune condition
+where the body’s
+immune system
+destroys the
+insulin-producing beta cells
+in the pancreas. As a result, the body produces
+very little or no insulin
+Patients with Type 1 diabetes require
+daily administration of insulin
+to keep their blood glucose levels under control.
+This condition is usually diagnosed in
+children and young adults
+and was earlier referred to as
+juvenile diabetes
+common symptoms
+of Type 1 diabetes include: Excessive urination (
+polyuria
+), Extreme thirst (
+polydipsia
+), Constant hunger,
+Unexplained weight loss, Vision changes, Fatigue
+Type 2 Diabetes:
+It results from the body’s
+ineffective use of insulin
+, even though it may produce the hormone.
+This type of diabetes accounts for
+more than 95%
+of all diabetes cases globally.
+The primary causes of Type 2 diabetes are
+excess body weight
+lack of physical activity
+of Type 2 diabetes are often
+less severe
+compared to Type 1. Therefore, the disease may remain
+undiagnosed for several years
+, leading to delayed treatment.
+Gestational Diabetes (GDM): GDM
+refers to
+that develop during
+pregnancy
+. It can lead to
+complications
+for both the
+mother
+and the
+In most cases,
+gestational diabetes disappears after childbirth
+. However, women who develop gestational diabetes, along with their children, are at an
+increased risk
+of developing
+later in life.
+Click to View More
+Source :
+India sets up its first diabetes biobank - The Hindu
+Science & Tech
+**********INS Nirdeshak
+INS Nirdeshak is set to be commissioned on December 18 at the Naval Dockyard, Visakhapatnam.
+About INS Nirdeshak:
+is the
+second ship
+under the
+Survey Vessel (Large) Project
+of the
+Indian Navy
+It is designed to conduct
+hydrographic surveys
+, assist in
+navigation
+and support
+maritime operations.
+It is built by
+Garden Reach Shipbuilders and Engineers (GRSE), Kolkata
+It reflects India's commitment to
+Aatmanirbhar Bharat
+(self-reliant India) with over
+80% indigenous content
+Legacy:  INS Nirdeshak
+represents the
+reincarnation
+erstwhile INS Nirdeshak
+, which served the Indian Navy for
+32 years
+with distinction until its
+decommissioning on December 19, 2014
+The name
+‘Nirdeshak’
+, meaning
+‘Pathfinder’
+, signifies its role in charting the seas with precision.
+Key Specifications:
+Displacement
+Approx.
+3400–3800 tons
+Length
+110 meters.
+Speed:
+Capable of achieving speeds
+exceeding 18 knots
+Endurance:
+Can remain at sea for
+over 25 days
+Propulsion
+It is driven by
+two marine diesel engines
+It is equipped with
+fixed-pitch propellers
+Construction Technology
+Built using
+‘Integrated Construction’ technology
+Adheres to standards of the
+Indian Register of Shipping (IRS)
+State-of-the-Art Equipment
+INS Nirdeshak is equipped with advanced
+hydrographic and oceanographic
+survey systems to conduct precise underwater mapping:
+Hydrographic Data Acquisition and Processing Systems.
+Advanced Satellite-Based Navigation and Communication Systems.
+Sub-surface Sensors for detailed underwater terrain charting.
+Autonomous Underwater Vehicles (AUVs) and Remotely Operated Vehicles (ROVs).
+These technologies enable
+high-accuracy hydrographic surveys
+, making the vessel a key asset for the Navy.
+Click to View More
+Source :
+How INS Nirdeshak, to be commissioned soon, is set to enhance maritime dominance of Indian Navy in Indian Ocean Region
+Science & Tech
+**********How Does La Nina Affect India's Climate
+What’s in Today’s Article?
+About La Nina (Meaning, Impact, Impact on India, etc.)
+Reasons for Delayed La Nina
+Conclusion
+What is La Niña?
+La Niña is a phase of the
+El Niño-Southern Oscillation (ENSO)
+that occurs when
+sea surface temperatures
+in the
+eastern and central Pacific Ocean
+become cooler than usual.
+It is the opposite of
+, which brings warming in the same region. Both phases significantly influence
+global weather patterns
+How La Niña Affects Global Climate?
+: Promotes
+normal to above-normal monsoon rainfall
+, leading to better agricultural yields.
+Africa
+: Causes drought-like conditions in certain regions.
+Atlantic Ocean
+: Intensifies
+hurricanes
+United States
+: Southern states receive
+increased rainfall
+during La Niña.
+La Niña and India’s Climate:
+Winter Effects:
+Colder Winters
+: La Niña winters tend to bring
+colder nights
+in northern India but with slightly higher daytime temperatures.
+Wind Speed and Pollution
+Higher Wind Speeds
+help disperse air pollution, improving air quality.
+Lower Planetary Boundary Layer Height (PBLH)
+may trap pollutants closer to the ground, worsening pollution.
+Current Scenario
+: In 2024,
+La Niña has not yet emerged
+as expected, with a 57% probability of it developing later in the year.
+Monsoons and Summers:
+Enhanced Monsoons
+: La Niña years (like
+2020-2022
+) have resulted in
+normal to above-normal rainfall
+Relief from Heat
+: La Niña reduces summer intensity, offering relief from heatwaves seen during
+El Niño years
+El Niño Impact
+: El Niño summers are
+hotter
+and often disrupt the monsoons, leading to droughts. For example, 2023, an El Niño year, saw below-normal rainfall.
+Why Is La Niña Delayed in 2024?
+La Niña usually forms during the
+pre-monsoon
+monsoon season
+However, in 2024, it has been unusually delayed, with
+Oceanic Niño Index (ONI)
+hovering at -0.3°C (threshold for La Niña is -0.5°C or lower).
+If La Niña forms, it would bring the following:
+Cooler winters in
+Stronger monsoons in
+summer 2025
+Meteorological Indices to Identify La Niña:
+La Niña is declared based on specific indices such as:
+: Measures average sea surface temperature anomalies
+Persistence Rule
+: Values must consistently stay at or below the threshold (-0.5°C for La Niña) for five consecutive readings.
+Climate Change and ENSO Events:
+Climate change is likely to increase the
+frequency and intensity
+of both La Niña and El Niño events due to rising ocean and atmospheric temperatures.
+Extreme La Niña events could amplify impacts like
+harsh winters
+intense rainfall
+in India.
+Significance of La Niña for India:
+Agriculture
+: Boosts
+crop production
+due to strong monsoons, aiding farmers.
+Water Resources
+: Improves reservoir levels, reducing water stress.
+Energy
+: More rainfall ensures better
+hydropower generation
+: Less severe heatwaves compared to El Niño years.
+Conclusion:
+The delayed emergence of La Niña in 2024 has brought uncertainties regarding its impact on winter and monsoons.
+If La Niña sets in early 2025, it could ensure a
+strong monsoon season
+, crucial for India’s agriculture and water resources.
+Monitoring
+ENSO patterns
+is vital to understanding and preparing for its climatic effects.
+How does La Niña affect India’s climate.pdf
+( Size:  372.8 KB  )
+Click to View More
+Geography
+**********Hydroxymethanesulphonate
+Recently, scientists have discovered a chemical pathway that worsens air quality in extremely cold winters, involving the formation of hydroxymethanesulphonate in aerosol particles. These findings were published in Science Advances and highlight changes in aerosol chemistry under supercooled conditions in cold regions.
+Key Findings of the Study:
+Hydroxymethanesulphonate Formation
+: It is a
+secondary aerosol
+, that forms when
+formaldehyde
+reacts with
+sulphur dioxide
+in the presence of
+liquid water
+Traditionally thought to occur only in
+clouds and fog
+, but found to occur in
+in Fairbanks winters.
+Role of Temperature
+: Extremely low temperatures
+(around -35
+0
+C)
+cause
+supercooling
+of aerosol particles, where liquid water remains unfrozen below its freezing point.
+Supercooled aerosols allow
+to form within them.
+Aerosol acidity dynamics
+: Aerosol acidity depends on the relative concentration of:
+Sulphate ions (SO₄²⁻)
+→ Increase acidity.
+Ammonium ions (NH₄⁺)
+→ Neutralize acidity.
+Post-2022 sulphur fuel ban in Fairbanks:
+Sulphate ion concentrations dropped.
+Ammonium ion levels increased, reducing aerosol acidity.
+Ammonium dynamics in cold weather:
+In low temperatures,
+ammonium ions
+are less likely to evaporate into
+ammonia gas
+. This buildup of ammonium ions further reduces acidity, creating favourable conditions for
+hydroxymethanesulphonate formation
+Key Concepts
+What are Aerosols?
+: Tiny
+solid or liquid particles
+suspended in the air.
+Examples: Dust, smoke, fog, or chemical particles like sulphates and ammonium.
+What is PM2.5?
+PM2.5:
+Fine particulate matter with a diameter
+less than 2.5 micrometres (µm)
+Significance:
+Penetrates the lungs and bloodstream.
+Causes reduced
+lung function
+asthma aggravation
+premature deaths
+Supercooling:
+Process where
+remains unfrozen even at temperatures below
+0°C
+Allows formation of
+in aerosol particles at very low temperatures.
+Click to View More
+Source :
+New chemical pathway found to worsen air quality in harsh winters
+Science & Tech
+**********What is the Procedure for Removal of a Judge?
+Recently, a motion for the removal of Allahabad High Court Judge, Justice Shekhar Kumar Yadav, has been submitted to the Chairman of the Rajya Sabha by 55 Members of Parliament (MPs) from the Rajya Sabha.
+Under
+Articles 124
+and
+217
+of the Constitution of India, a
+Supreme Court
+High Court judge
+can be removed by the
+President
+on grounds of
+‘proved misbehaviour’
+‘incapacity’
+. The motion must be passed in both Houses of Parliament:
+By a
+majority of the total membership
+of the House, and
+two-thirds majority
+of the members
+present and voting
+in the same session (Special Majority).
+The Constitution of India does
+not define
+the terms
+. However, the
+has clarified through its judgments that actions such as
+wilful misconduct
+corruption
+lack of integrity
+, or offences involving
+moral turpitude
+constitute misbehaviour.
+Incapacity
+refers to a medical condition that includes
+physical or mental limitations
+preventing the judge from performing duties effectively.
+Detailed Procedure Under the Judges (Inquiry) Act, 1968
+The procedure for removal of judges is elaborated in the
+, which requires:
+motion for removal
+to be signed by
+at least 50 members
+100 members
+Lok Sabha
+Speaker of the Lok Sabha
+has the discretion to
+admit or reject
+the motion after consultation.
+If admitted, a
+three-member committee
+is constituted, comprising:
+A Supreme Court Judge,
+A High Court Judge, and
+A distinguished jurist.
+The committee investigates the allegations. If the judge is
+cleared
+of misconduct or incapacity, the motion is dropped and not pursued further.
+If the committee finds the judge
+guilty
+of misbehaviour or incapacity, the report is tabled in
+, where the motion must be passed by a
+special majority
+An address is presented to the president for removal of the judge.
+Finally, the President passes an order removing the judge.
+Click to View More
+Source :
+What is the procedure for removing judges?
+Polity & Governance
+**********Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Recently, the United Kingdom became the 12th member of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP).
+About
+CPTPP:
+It is a landmark
+Free Trade Agreement (FTA)
+finalized in
+2018
+, aimed at reducing
+trade barriers
+among its
+11 member countries
+Origins:
+Initially known as the
+Trans-Pacific Partnership (TPP),
+the agreement was rebranded as CPTPP after the
+United States withdrew
+from the deal in
+January 2017.
+Member nations:
+These countries include
+Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam.
+Key Highlights of the U.K.'s Membership:
+First European Member:
+U.K. becomes the
+, marking its first major trade pact
+post-Brexit
+Significance for the U.K.:
+Entry into force from
+December 15, 2024
+, with staggered implementation for some nations.
+Strengthens U.K.’s post-Brexit vision of
+"Global Britain."
+Allows access to
+dynamic Pacific markets
+Economic Implications:
+Current trade levels:
+The U.K. exported
+£64.7 billion ($81.8 billion)
+to CPTPP members in 2022.
+Modest gains:
+Expected to boost U.K. GDP by only
+0.08% annually
+(£2 billion or $2.5 billion).
+Future potential:
+Benefits may grow as
+more members join the CPTPP
+, increasing trade opportunities.
+Click to View More
+Source :
+UK Officially Joins Trans-Pacific Trade Agreement
+International Relations
+**********CHARAK Initiative
+Under the guidance of the Ministry of Coal, Singrauli-based Coal India arm Northern Coalfields Limited (NCL) has rolled out the ‘CHARAK’ initiative.
+About
+CHARAK Initiative:
+Community Health: A Responsive Action for Koylanchal
+(CHARAK) is an innovative health-centric Corporate Social Responsibility (CSR) initiative.
+This project is aimed at providing free treatment for the patients suffering from identified Life-Threatening diseases belonging to
+Economically Weaker Sections
+of the Singrauli region.
+will provide free treatment of identified
+life-threatening diseases
+at its dedicated hospital or at specialised empanelled hospitals across the country.
+Eligibility:
+Residents of Singrauli and Sonbhadra districts having annual family
+income below Rs. 8 Lakhs
+from all sources will be eligible for benefits under this scheme.
+Diseases covered:
+Under this scheme, Malignancy, TB and related complications, HIV and related complications, Cardiovascular diseases, Organ Transplant, burns with contractures leading to permanent disability, Liver disorders, sudden hearing loss, ARDS, Acute Surgical Emergencies, Neurological Disorders, Neurovascular disorders, Accidental trauma, Serious handicap, Multisystem disorders, Connective Tissue disorders, Sudden vision loss etc.
+Click to View More
+Source :
+NCL Launches ‘CHARAK’- “Community Health: A Responsive Action for Koylanchal” in Singrauli
+Economy
+**********India-Sri Lanka Relations
+Why in News?
+Sri Lankan President Anura Kumara Dissanayake, on his first bilateral visit to India, assured Prime Minister Narendra Modi that Sri Lankan territory will not be used in ways detrimental to Indian interests.
+Both leaders emphasised strengthening cooperation in defence, economic development, and regional security.
+What’s in Today’s Article?
+A Brief About Bilateral Ties
+Key Highlights of Sri Lankan President’s Visit to India
+Conclusion
+A Brief About Bilateral Ties:
+Historical ties:
+Relations date back to ancient times with strong cultural and religious ties, particularly Buddhism, which originated in India. Many Sri Lankans trace their ancestry to India.
+Key areas of cooperation:
+Trade and economic bonds:
+India is Sri Lanka’s third-largest export destination, with over 60% of exports benefiting from the India-Sri Lanka Free Trade Agreement.
+FDI from India amounted to USD 1.7 billion (2005-2019).
+Energy cooperation:
+A multi-product petroleum pipeline is planned from southern India to Sri Lanka to ensure affordable and reliable energy supplies.
+Defence and security:
+Regular military (Mitra Shakti) and naval (SLINEX) exercises are conducted. Sri Lanka is part of BIMSTEC and SAARC, where India plays a significant role.
+People-to-People ties:
+India was the largest source of tourists to Sri Lanka in 2022, with over 100,000 visitors. Enhancing digital payments will facilitate easier business and tourism exchanges.
+Significance of India-Sri Lanka relations:
+Geopolitical importance:
+Sri Lanka’s strategic location in the Indian Ocean at the crossroads of major shipping lanes makes it vital for India’s trade and security interests.
+Regional development:
+Sri Lanka’s integration with the Southern economy aligns with India’s regional growth vision.
+Ease of business and connectivity:
+Digital platforms like UPI and fintech integration simplify trade and tourism, strengthening economic ties.
+Challenges in India-Sri Lanka relations:
+Fisheries dispute:
+Indian fishermen often cross into Sri Lankan waters, leading to arrests and tensions.
+Katchatheevu Island dispute:
+The 1974 agreement recognised Katchatheevu as Sri Lankan territory but allowed Indian fishermen to access surrounding waters. A 1976 pact restricted these rights, creating friction.
+Border security:
+The porous maritime border enables smuggling of narcotics and illegal immigration.
+Tamil ethnic issue:
+India remains concerned about the Tamil minority’s rights in Sri Lanka, with historical sensitivities tied to the ethnic conflict.
+China’s influence:
+Increasing Chinese investments (e.g., Hambantota port, Colombo port projects) raise concerns about regional strategic imbalances.
+Key Highlights of Sri Lankan President’s Visit to India:
+Security cooperation:
+Mutual security commitments:
+President Dissanayake assured India that Sri Lanka’s territory will not harm Indian interests.
+Both leaders stressed interconnected security interests and agreed to finalise a defence cooperation agreement, and
+emphasised a safe, secure, and free Indian Ocean Region
+while countering traditional and non-traditional threats.
+Defence collaboration:
+Key measures -
+Exploring a framework agreement on defence cooperation.
+Augmenting Sri Lanka’s defence capabilities via defence platforms and joint exercises.
+Enhancing maritime surveillance, defence training, and dialogues.
+The Colombo Security Conclave
+will focus on maritime security, cyber security, and counter-terrorism.
+Addressing Tamil minority issues:
+Modi highlighted the need for reconciliation and reconstruction for Tamil minorities.
+He expressed hope for full implementation of Sri Lanka’s Constitution and the holding of provincial council elections.
+Notably, the 13th Amendment and war crime investigations were not discussed in the joint statement.
+Dissanayake emphasised unity, social protection, and sustainable development.
+Fishermen issues:
+Both sides discussed the livelihood challenges of fishermen.
+Agreement:
+Adopt a humanitarian approach to address disputes.
+Avoid aggressive behavior and focus on a long-term solution.
+Leaders instructed officials to continue dialogue for resolution.
+Economic and energy cooperation:
+Investment-led growth:
+Modi emphasised a futuristic vision for economic growth with a focus on investment-led development and enhanced connectivity (physical, digital, and energy).
+Key initiatives:
+India’s support during Sri Lanka’s economic crisis (worth US$ 5 billion).
+Boosting energy ties through:
+Electricity grid connectivity.
+Multi-product petroleum pipelines.
+Solar power projects in Sampur.
+LNG supply to Sri Lanka’s power plants.
+Trilateral cooperation among India, Sri Lanka, and UAE for a petroleum pipeline.
+Digital transformation:
+Plans to expedite -
+Sri Lanka Unique Digital Identity (SLUDI) project.
+Adoption of UPI digital payments.
+Integration of platforms like Aadhaar, GeM, PM Gati Shakti, and DigiLocker.
+Connectivity and tourism:
+Launch of a ferry service between Rameshwaram (India) and Talaimannar (Sri Lanka). Promotion of Ramayana and Buddhist circuits to boost tourism.
+Capacity building and scholarships:
+India announced -
+Rehabilitation of Sri Lanka’s railway signalling system.
+Scholarships for Sri Lankan university students.
+Training for 1,500 civil servants over five years.
+Diplomatic engagements and agreements:
+Sri Lanka and India signed pacts on -
+Avoidance of double taxation.
+Capacity building and training.
+Dissanayake invited PM Modi for a bilateral visit to Sri Lanka.
+Conclusion:
+President Dissanayake’s visit reinforced the strong bilateral relationship between India and Sri Lanka, emphasising shared security interests, economic cooperation, and inclusive development.
+Both leaders reaffirmed their commitment to addressing key challenges while building a prosperous future for both nations.
+newspaper.pdf
+( Size:  5.5 MB  )
+Click to View More
+International Relations
+**********Key facts about Morocco
+Morocco is emerging as a springboard for India’s ambitions to expand its footprint in Africa for defence exports.
+About
+Morocco:
+Location:
+It is located in the
+Maghreb region
+in the Northern and Western Hemisphere regions of the Earth.
+It is bordered by the two countries of
+Western Sahara to the south and Algeria to the east
+It has coastlines on the
+Atlantic Ocean
+to the west and the
+Mediterranean Sea
+to the north.
+It is the only African country with
+coastlines on both the Atlantic Ocean
+Mediterranean Sea.
+Its largest city and major
+Atlantic Ocean port is Casablanca,
+an industrial and commercial centre.
+Two small
+Spanish enclaves, Ceuta and Melilla,
+are situated on the country’s northern coast.
+Climate:
+Most of Morocco north of Western Sahara, particularly along the coasts, experiences a typical
+Mediterranean climate
+, with mild wet winters and hot dry summers.
+River:
+The
+Mououya River
+is the most significant source of water in Morocco. Its source is located in the
+Atlas Mountains
+and flows into the
+Highest point:
+Jebel Toubkal
+is the highest point in Morocco and is also the highest peak of the Atlas Mountains
+Political System:
+It has a
+constitutional monarchy
+with two legislative houses.
+Economy:
+It remains heavily dependent on the export of raw materials.
+Language:
+Morocco's official languages are
+Arabic and Tamazight
+(Berber). Arabic is spoken by about two-thirds of the population.
+Capital City:
+Rabat
+Click to View More
+Source :
+Morocco welcomes Indian defence companies to set up shop
+Geography
+**********Credit Guarantee Scheme for e-NWR based pledge Financing
+Recently, the Union Minister of Consumer Affairs, Food and Public Distribution and New & Renewable Energy launched the Credit Guarantee Scheme for e-NWR based Pledge Financing (CGS-NPF).
+About
+Credit Guarantee Scheme for e-NWR based pledge Financing:
+It aims to provide credit facilities to small farmers to prevent them from
+distress selling.
+It provides a corpus of
+Rs 1,000 crore for post-harvest finance
+availed by farmers against
+electronic negotiable warehouse receipts
+(e-NWRs) after depositing commodities in
+Warehousing Development and Regulatory Authority
+(WDRA) accredited warehouses.
+Coverage:
+Loans up to
+75 lakhs for agricultural purposes
+and Loans up to Rs. 200 Lakhs for non-agricultural purposes.
+Eligible Institutions:
+All scheduled banks and all cooperative banks.
+Eligible Borrowers:
+Small and Marginal Farmer (SMF)/Women/SC/ST/PwD Farmers, other farmers, MSMEs, Traders, FPOs and Farmer cooperatives.
+Risks covered:
+Credit and warehouseman risk
+Guarantee coverage:
+85% for loans up to Rs. 3L and 80% for loans between 3 to 75 lakhs for small and marginal farmers/women/SC/ST/PwD and 75% for other borrowers.
+The credit guarantee schemes are expected to
+enhance the availability and accessibility of finances
+for the targeted beneficiaries, as they play an important role in economic growth.
+It will serve to increase post-harvest lending against e-NWRs and thereby, play a significant role in improving farmers’ income.
+Click to View More
+Source :
+Union Food and Consumer Affairs Minister launches Credit Guarantee Scheme for e-NWR based pledge Financing (CGS-NPF)
+Economy
+**********Idiopathic Pulmonary Fibrosis
+Recently, a famous tabla maestro and five-time Grammy Award winner passed away in San Francisco due to Idiopathic Pulmonary Fibrosis (IPF).
+About
+Idiopathic Pulmonary Fibrosis:
+It is a serious chronic disease that
+affects the tissue surrounding the air sacs,
+or alveoli, in the lungs.
+The
+lung tissue becomes thick and stiff
+for unknown reasons — causing permanent scarring in the lungs over time.
+can make it progressively more difficult to breathe for the patient.
+Complications from IPF include
+pulmonary hypertension and respiratory failure
+, which happen when the lungs cannot deliver enough oxygen into the bloodstream without support. This prevents the brain and other organs from getting the oxygen they need.
+Individuals with a history of
+smoking or a family history
+of IPF are at higher risk. The
+risk also increases with age,
+making older adults more susceptible to developing the disease.
+Symptoms
+Common symptoms include
+shortness of breath and a dry cough
+— both of which are likely to get worse over time.
+Patients might also have
+aching muscles and joints
+as well as feeling extreme tiredness.
+A gradual,
+unintended loss of weight
+and generally feeling unwell. Symptoms also include rapid, shallow breathing and clubbing — a widening and rounding of the tips of the fingers or toes.
+Treatment
+There is
+no cure for IPF
+, but some treatments can help slow lung damage and improve quality of life.
+Medications like
+Nintedanib or Pirfenidone
+can help the lungs function better and reduce flare-ups.
+Oxygen therapy can improve breathing and exercise capacity, while ventilator support may be needed for severe cases.
+Click to View More
+Source :
+Zakir Hussain’s death from Idiopathic Pulmonary Fibrosis (IPF): What causes it and who is most vulnerable to it?
+Science & Tech
+**********Exercise SLINEX
+Exercise SLINEX 2024 (Sri Lanka–India Exercise) will be conducted from 17 to 20 Dec 24 at Visakhapatnam under the aegis of the Eastern Naval Command.
+About
+Exercise SLINEX:
+It is a
+bilateral naval exercise
+conducted between
+India and Sri Lanka.
+It was
+initiated in 2005
+, SLINEX is a significant series of bilateral naval exercises that have strengthened maritime cooperation between India and Sri Lanka over the years.
+The 2024 edition aims to further
+reinforce the strong maritime ties
+between India and Sri Lanka while promoting a safe, secure and rules-based maritime environment.
+The 2024 exercise will be held in two phases - the
+Harbour Phase and the Sea Phase.
+Participating Units:
+From India:
+Indian Naval Ship INS Sumitra, a Naval Offshore Patrol Vessel of the Eastern Fleet, along with a Special Forces team.
+From Sri Lanka:
+SLNS Sayura, an Offshore Patrol Vessel, with an embarked Special Forces team.
+During the harbour phase, participants will engage in professional and social exchanges to strengthen mutual understanding. The Sea Phase will
+feature joint exercises
+, including Special Forces operations, gun firings, communication drills, seamanship practices, navigation evolutions and helicopter operations.
+Over the years, SLINEX has expanded in scope, enabling both navies to enhance interoperability and share best practices.
+Click to View More
+Source :
+SRI LANKA–INDIA EXERCISE - 24 (SLINEX-24)
+Polity & Governance
+**********1948 debate on Uniform Civil Code - What Ambedkar, KM Munshi said
+Why in news?
+PM Modi reiterated his support for a nationwide Uniform Civil Code (UCC) during a discussion in the Lok Sabha on the 75-year journey of the Constitution.
+He highlighted that the Constituent Assembly extensively debated the UCC and envisioned its implementation by future governments. The Prime Minister quoted Dr. B.R. Ambedkar, who advocated for ending religion-based personal laws, and K.M. Munshi, who viewed the UCC as essential for national unity and modernization.
+Emphasizing the vision of the Constitution’s drafters, he stated that the government is working with full commitment to establish a “secular civil code.”
+What’s in today’s article?
+UCC debate in Constituent Assembly
+KM Munshi’s Support for the UCC
+Ambedkar’s Support for UCC in Principle
+Outcome of the Debate on Article 35
+About
+A UCC would provide for one law for the entire country, applicable to all religious communities, in their personal matters such as marriage, divorce, inheritance, adoption etc.
+In other words, UCC is a set of rules/regulations, which proposes to replace the personal laws based on the scriptures and customs of each major religious community in the country with a common set governing every citizen.
+Constitutional position
+Article 44 of the Constitution lays down that the state shall endeavour to secure a UCC for citizens throughout the territory of India.
+Article 44 is among the Directive Principles of State Policy (DPSP).
+Directive Principles are not enforceable by court, but are supposed to inform and guide governance.
+Background of the UCC Debate
+On November 23, 1948, the Constituent Assembly debated a draft Article 35 (now Article 44) on the UCC, which was included in the DPSP.
+The draft stated that the State would aim to secure a UCC for all citizens of India.
+However, concerns were raised about its impact on religious communities, leading to its non-binding inclusion under the DPSPs.
+Opposition to the UCC:
+Several members expressed apprehensions.
+Mohamad Ismail Sahib of the Indian Union Muslim League argued that a uniform code would not necessarily ensure harmony but could lead to discontent by interfering with personal laws.
+Naziruddin Ahmad echoed similar concerns, stating that religious laws, deeply connected with beliefs and practices, should remain untouched.
+Supported UCC
+K. M. Munshi strongly advocated for the UCC, countering the criticism that it would be “tyrannical” to minorities.
+He pointed out that
+even advanced Muslim countries had not treated personal laws as sacrosanct to hinder a civil code
+Munshi also addressed Hindu opposition to the UCC, particularly regarding laws on inheritance and succession, which were seen as part of religion.
+He argued that
+without a UCC, gender equality could not be achieved
+Highlighting discrimination against women in Hindu law, Munshi stated that a civil code was essential to elevate the position of women to equality with men, as enshrined in the Fundamental Rights.
+UCC and National Unity
+Munshi linked the UCC to national integration, urging the Muslim members to abandon an “isolationist outlook.”
+He emphasized that religion should be confined to its legitimate sphere, while the rest of life must be regulated to unify and strengthen the nation.
+He argued that the UCC would not be tyrannical to minorities but instead foster a stronger, consolidated nation.
+Ambedkar’s position
+B.R. Ambedkar, while advocating for Article 35 (now Article 44), refrained from discussing the merits or demerits of implementing a Uniform Civil Code (UCC). However, he defended its inclusion in the DPSP.
+India’s Existing Uniformity in Laws
+Ambedkar countered the argument that a uniform code was unfeasible in a diverse and vast country like India.
+He highlighted the existence of a uniform legal system in areas such as criminal law, which is uniformly enforced through the Indian Penal Code (IPC) and the Criminal Procedure Code (CrPC).
+Challenging the Notion of Uniformity in Muslim Personal Law
+Ambedkar questioned the claim that Muslim personal law had always been uniform across India. He cited examples:
+North-West Frontier Province followed Hindu Law in matters of succession until 1935.
+Regions like United Provinces, Central Provinces, and Bombay periodically operated under Hindu law in specific matters.
+Limiting Religion’s Jurisdiction
+Ambedkar argued against religion having “vast, expansive jurisdiction” that would prevent legislative reforms.
+He stressed the need for liberty to reform India’s social system, which he described as rife with “inequities, inequalities, and discrimination.”
+He opposed excluding personal laws from the jurisdiction of the State.
+Power to Legislate, Not Immediate Enforcement
+Ambedkar reassured apprehensive members that granting the State the power to legislate on personal laws did not mean immediate or objectionable enforcement.
+He emphasized that the government must respect and reconcile with the sentiments of different communities while exercising this power.
+At the end of the debate, Article 35 was put to vote and passed. It was later renumbered as Article 44 of the Indian Constitution.
+Constitutional law experts noted that while Article 44 states, “the state shall endeavour”, other Directive Principles use stronger phrases like “shall in particular direct its policy” or “shall be obligation of the state
+”.
+This indicates that the
+state's duty to implement Article 44 is comparatively less emphasized than other Directive Principles
+1948 debate on Uniform Civil Code.pdf
+( Size:  3.4 MB  )
+Click to View More
+Polity & Governance
+**********Religion and Reservation
+Why in news?
+Recently, the Supreme Court orally observed that “
+Reservation cannot be on the basis of religion
+”. The apex court was hearing a challenge to the Calcutta High Court’s decision in May to strike down reservations granted to 77 classes — predominantly from the Muslim community — within the quota for Other Backward Classes (OBC).
+Earlier, in November 2024, the Supreme Court denied Scheduled Caste (SC) status to a woman who had converted to Christianity.
+Through these instances, the relationship between religion and reservations has once again been brought into focus. Since the Constitution of India came into force in 1950, both the Centre and the Supreme Court have attempted to define the extent to which religion can be considered for providing reservation benefits.
+What’s in today’s article?
+Religion as criteria for OBC reservations
+Religious Restriction in SC Status
+Key Issues Awaiting Supreme Court Adjudication
+Constitutional Framework for Religious Groups in Reservations
+There is no
+express prohibition on identifying religious groups as beneficiaries of OBC or Scheduled Tribe reservations
+However, such efforts have primarily been within the OBC category.
+Article 16(4) of the Constitution empowers states to provide reservations for “any backward class of citizens” inadequately represented in state services.
+Kerala has included Muslims within the OBC quota since 1956, followed by Karnataka in 1995 and Tamil Nadu in 2007.
+Karnataka and the Role of Backward Classes Commissions
+In Karnataka, reservations for Muslims were introduced based on the Third Backward Classes Commission report (1990) chaired by Justice O. Chinnappa Reddy.
+The report identified Muslims “as a whole” as socially and economically backward.
+Similarly, the Justice Rajender Sachar Committee report (2006) highlighted the “abysmally low” representation of Muslim OBCs in Central Government departments.
+It emphasized that the benefits of backward class entitlements had yet to reach them.
+Indra Sawhney Judgment and Its Significance
+The Supreme Court’s
+Indra Sawhney v Union of India
+(1992) judgment clarified that OBC reservations aimed to address historical discrimination.
+It ruled that while religion, race, caste, and other group identities were relevant, they could not be the sole criterion for granting reservations.
+This ensured backwardness was determined objectively
+Calcutta High Court Decision (2024)
+In May, 2024, the Calcutta High Court struck down OBC reservations for 77 classes, 75 of which were Muslim, as the reservations were granted without objective criteria to determine backwardness.
+The court observed that
+religion appeared to be the sole basis for declaring these communities as OBCs
+, which violated the principles laid down in the Indra Sawhney case.
+Constitutional Basis for Scheduled Caste (SC) Reservations
+Article 341(1) of the Constitution empowers the President to specify castes, races, or tribes deemed to be Scheduled Castes (SCs) for the purposes of the Constitution.
+Accordingly,
+The Constitution (Scheduled Castes) Order, 1950 was issued
+, listing SC communities state-wise.
+Religion as a barrier in SC reservations
+Clause 3 of the 1950 order states that individuals professing religions other than Hinduism, Sikhism, or Buddhism cannot be considered Scheduled Castes.
+Initially limited to Hindus, the order was expanded to include SC Hindus converting to Sikhism in 1956 and Buddhism in 1990.
+Judicial Position: Soosai v. Union of India (1985)
+In the Soosai case, a cobbler from the Adi-Dravida SC community was denied benefits after converting to Christianity.
+The Supreme Court did not answer whether a religious convert would retain their caste status after conversion but held
+this would not be sufficient to access SC benefits
+A person must prove that
+caste-based social handicaps continue to exist with oppressive severity in the new religious environment
+Ranganath Mishra Commission Recommendations (2007)
+Constituted in 2004, it found that the caste system transcends religious boundaries and affects all Indian communities.
+It recommended that a change of religion should not affect a person’s SC status once included in the SC list
+However, the Centre has rejected these findings in recent years, leading to periodic halts in efforts to include converts from Christianity and Islam under SC reservations.
+Challenge to the 1950 Scheduled Castes Order
+The constitutional validity of the 1950 Scheduled Castes order, particularly clause 3, is under scrutiny in the
+Ghazi Saaduddin v. State of Maharashtra
+case, pending since 2004.
+In 2011, the Supreme Court decided to examine the constitutionality of this clause.
+However, in April 2024, the court deferred hearings, noting that the Centre had formed a new commission to review whether religious converts should retain SC status.
+The K G Balakrishnan Commission
+The Centre rejected the Ranganath Mishra Commission’s 2007 recommendations, which supported extending SC benefits to converts.
+Instead, it formed a new commission chaired by former Chief Justice of India K G Balakrishnan to assess the issue.
+The commission has conducted public hearings across states and received an extension in November 2024 to submit its report by October 2025.
+Debate on OBC Reservations for Religious Groups
+The Supreme Court is also addressing whether OBC reservations can be provided to religious groups as a whole.
+In 2005, the Andhra Pradesh government introduced a law granting 5% OBC reservations to Muslims, which the AP High Court struck down the same year.
+The High Court ruled that the government failed to apply objective criteria for classifying Muslims as a backward class.
+Though the SC stated it would hear this case after deciding the challenge to reservations for Economically Weaker Sections, which it did on November 7, 2022, there has been no movement on the matter.
+Religion and Reservation.pdf
+( Size:  7.7 MB  )
+Click to View More
+Polity & Governance
+**********India’s wage challenge has shifted from chronic to immediate
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Challenges related to employment;
+Why in the news?
+India’s low wages pose a significant challenge, but adopting a ground-level perspective on employers’ daily realities highlights policy measures to increase the number of high-productivity employers.
+What are the root causes of the current wage stagnation in India?
+Economic Structure:
+The shift from agriculture to non-farm jobs has not been accompanied by a corresponding increase in productivity. Despite significant government spending, the flow of jobs since 1991 has not reduced farm employment, leading to wage stagnation in rural areas.
+Global Economic Changes:
+Manufacturing jobs have become less labour-intensive because of automation, resulting in fewer jobs per unit of investment.
+Additionally, rising tariffs and a weaker global growth outlook contribute to wage stagnation.
+Regulatory Environment:
+The existing regulatory framework creates barriers for entrepreneurs, leading to a lack of job creation in higher-paying sectors. The complexity and rigidity of regulations discourage investment in productive enterprises.
+Skill Mismatch:
+There is a disparity between the skills available in the labour market and those demanded by employers. Many workers remain under-skilled for the higher-paying jobs that are available, perpetuating low wages.
+How can India effectively implement a living wage system?
+ensures workers earn enough to meet basic needs like food, housing, healthcare, and education, enabling a decent standard of living beyond mere subsistence wages.
+Policy Framework:
+Establishing a clear definition of what constitutes a living wage based on local cost of living metrics is essential. This framework should be adaptable to different regions and sectors.
+Incentives for Employers:
+Providing tax breaks or subsidies for businesses that pay living wages can encourage compliance and support workers’ livelihoods.
+Strengthening Labor Rights
+: Ensuring robust enforcement of labor laws that protect workers’ rights to fair wages and safe working conditions is crucial for implementing a living wage system effectively.
+Public Awareness Campaigns:
+Educating both employers and employees about the benefits of a living wage can help shift perceptions and practices within the workforce.
+What are the wage disparities in India?
+Gender Wage Gap:
+According to the Global Gender Gap Index 2024, Indian women earn only ₹40 for every ₹100 earned by men, highlighting a significant gender pay disparity.
+The economic gender parity level in India is recorded at 39.8%, indicating that while some progress has been made, substantial gaps remain in economic participation and remuneration between genders.
+Regional Wage Disparities:
+The average daily wage for casual workers in rural areas is approximately ₹104, significantly lower than the national average of ₹247 per day for all workers.
+Wage Inequality Metrics:
+The Gini coefficient for wages in India stands at 0.49, indicating a high level of wage inequality. The D9/D1 wage ratio, which compares the earnings of the top 10% to the bottom 10%, is 6.7, underscoring the stark contrast in earnings across different segments of the workforce.
+Note:
+is a measure of income inequality that compares the earnings of the
+top 10% of wage earners (D9) to the earnings of the bottom 10% (D1)
+within a given population
+What policy measures can be taken to address wage disparities and ensure fair compensation? (Way forward)
+Rationalisation of Regulations:
+Streamlining regulatory frameworks to reduce bureaucratic hurdles can encourage entrepreneurship and job creation. This includes removing unnecessary jail provisions that deter business operations.
+Investing in Human Capital:
+Prioritizing skill development programs aligned with market demands can boost employability and empower workers to secure higher-paying jobs.
+Encouraging Non-Farm Employment:
+Policies should focus on fostering private, productive non-farm jobs through digitisation and formalization, paving the way for better wages.
+Strengthening Redistribution Mechanisms:
+Adopting progressive taxation on higher profits can fund social programs designed to uplift wage levels across different sectors.
+Fostering Long-Term Economic Planning:
+Crafting a comprehensive economic strategy aligned with labour market needs is essential for ensuring sustainable wage growth and effectively addressing disparities.
+Mains PYQ:
+Can the strategy of regional-resource-based manufacturing help in promoting employment in India?
+(UPSC IAS/2019)
+**********The hidden cost of greenwashing the Indian Railways
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to the electrification of transport;
+Why in the news?
+The ‘Mission 100% Electrification’ project is like chasing an unrealistic dream of becoming a green railway, leading to many usable diesel locomotives becoming unnecessary.
+What are the key points of the report?
+Export of Repurposed Locomotives
+: RITES Ltd. is exporting six refurbished broad-gauge diesel locomotives to African railways after complex gauge conversion, marking a first in such re-engineering.
+Idle Diesel Locomotives
+: Around 760 diesel locomotives, with over 60% still serviceable, are redundant due to the rapid electrification of the railway network.
+Limited Environmental and Economic Gains
+: Electrification reduces only 2% of diesel consumption, while coal-powered electricity (50% of the total) negates environmental benefits, maintaining reliance on polluting sources.
+Strategic Contradictions
+: Despite targeting 100% electrification, Indian Railways plans to retain 3,500 diesel locomotives for disaster management and traffic needs, undercutting “green” claims.
+Policy and Financial Wastage
+: The rushed electrification drive has led to premature asset redundancy, wasting public funds without ensuring environmental or financial sustainability.
+What constitutes greenwashing in the context of Indian Railways?
+Misleading Claims of Environmental Benefits:
+The Indian Railways’ push for 100% electrification is framed as a move towards a “green railway.” However, this initiative overlooks the fact that a significant portion of the electricity generated in India comes from coal-fired power plants, which are environmentally harmful.
+Thus, the transition from diesel to electric locomotives may merely shift pollution from one source to another without achieving genuine environmental benefits.
+Redundancy of Serviceable Assets:
+The decision to electrify the railway network has led to the premature stabling of functional diesel locomotives, many of which have considerable residual life left.
+This not only represents a waste of resources but also raises questions about the actual motivations behind electrification efforts.
+Focus on Slogans Over Substance:
+The Mission 100% Electrification initiative appears to prioritize headline-grabbing goals over comprehensive and well-thought-out policies.
+This approach can be seen as greenwashing, as it promotes an image of environmental responsibility while failing to address the underlying issues related to energy sourcing and pollution.
+How do greenwashing practices impact public perception and trust?
+Erosion of Credibility:
+When organizations like Indian Railways promote initiatives that are not genuinely sustainable, it can lead to public scepticism regarding their commitment to environmental issues.
+Misallocation of Resources:
+Public perception may shift towards viewing government initiatives as wasteful or misguided, leading to decreased support for future projects that could have real environmental benefits.
+Increased Public Scrutiny:
+Greenwashing practices often lead to increased scrutiny from activists, media, and the public.
+As stakeholders demand transparency and accountability, organizations may face backlash for failing to deliver on their environmental promises.
+What regulatory measures can be implemented to combat greenwashing in the transportation sector? (Way forward)
+Clear Guidelines for Environmental Claims:
+Establishing stringent regulations that define what constitutes legitimate environmental benefits can help prevent misleading claims.
+Organizations should be required to substantiate their claims with verifiable data and transparent reporting.
+Mandatory Sustainability Reporting:
+Implementing requirements for regular sustainability audits and reporting can ensure that transportation entities disclose their actual environmental impact, including emissions data and energy sources used.
+Public Accountability Mechanisms:
+Creating independent bodies to assess and review claims made by transportation sectors regarding sustainability initiatives can enhance accountability.
+These bodies could provide certifications or ratings based on genuine environmental performance rather than promotional claims.
+Incentives for Genuine Sustainability Efforts:
+Providing financial incentives or recognition for organizations that implement effective sustainability measures can encourage genuine efforts rather than superficial compliance with green initiatives.
+Mains PYQ:
+Why is Public Private Partnership (PPP) required in infrastructural projects? Examine the role of PPP model in the redevelopment of Railway Stations in India.
+(2022)
+**********Green hydrogen and the financing challenge
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Significance and issues related to hydrogen;
+Why in the news?
+India aims to produce 5 million metric tonnes of green hydrogen annually by 2030 to lead in the sector and reduce emissions, but the high costs of financing may hinder this goal.
+Hydrogen fuel comes in three types:
+Grey hydrogen (produced from natural gas), Blue hydrogen (Grey hydrogen with carbon capture), and Green hydrogen (produced using renewable energy through electrolysis, with no emissions).
+What are the key financial barriers to scaling green hydrogen production?
+High Production Costs
+: The cost of producing green hydrogen is significantly higher ($5.30-$6.70 per kg) compared to traditional grey/blue hydrogen ($1.9-$2.4 per kg). This price disparity makes green hydrogen economically uncompetitive and deters investment and offtake.
+High Weighted Average Cost of Capital (WACC)
+: In emerging markets like India, higher perceived risks increase borrowing costs. This results in a high WACC, which heavily influences the Levelised Cost of Electricity (LCOE) and the overall cost of green hydrogen production.
+High Electrolyzer Costs
+: The current costs of electrolyzers, ranging from $500-1,400/kW for alkaline and $1,100-1,800/kW for proton exchange membrane systems, further strain the financial viability of green hydrogen projects.
+Scaling Challenge
+: Green hydrogen production costs can only decrease with scaled production, but scaling up requires financial viability. The market faces a catch-22 situation: without economies of scale, production remains expensive, and without lowering costs, scaling is unfeasible.
+How can innovative financing mechanisms be developed?
+Blended Finance Models
+: Combining public and private capital can help lower risks and make investments in green hydrogen more attractive. Government-backed financial instruments or concessional loans can reduce borrowing costs, lowering WACC.
+Green Bonds and Climate Financing
+: The issuance of green bonds to raise capital for renewable energy projects can provide long-term funding at lower costs. These bonds can appeal to investors with an interest in sustainable investments.
+Private-Public Partnerships (PPP)
+: Collaborations between government and private sectors can help mitigate risks and ensure the financing of green hydrogen projects. To attract private investors, governments can provide financial support through incentives, subsidies, or tax breaks.
+Carbon Credits and Offtake Agreements
+: Green hydrogen projects could leverage carbon credits or long-term offtake agreements to secure steady revenue streams, which would increase investor confidence and help finance production scale-up.
+What role do policy frameworks play in facilitating investment in green hydrogen?
+Incentives and Subsidies
+: Government policies offering subsidies, tax incentives, or feed-in tariffs can help offset the high initial costs of green hydrogen production and encourage private investment.
+Long-Term Policy Clarity
+: Clear, stable, and long-term policy frameworks provide certainty to investors, reducing perceived risks and lowering the cost of capital. Such policies could include long-term targets for green hydrogen production, financing support, and infrastructure development.
+Regulatory Support for Innovation
+: Governments can encourage innovation by providing regulatory frameworks that support new technologies, such as electrolyzers and advanced hydrogen storage solutions, ensuring the rapid scaling of green hydrogen.
+Market Creation and Demand-Driven Initiatives
+: Policies that create demand for green hydrogen, such as mandatory usage targets for industries like steel, transportation, or chemicals, can drive off-take agreements and ensure market stability.
+Mains PYQ:
+Describe the major outcomes of the 26th session of the Conference of the Parties (COP) to the United Nations Framework Convention on Climate Change (UNFCCC). What are the commitments made by India in this conference?
+(2021)
+**********Olive Ridley Turtles
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Carcasses of Olive Ridley turtles have been found along the Visakhapatnam coast during their breeding season, raising concerns about their conservation.
+About
+Olive Ridley Turtles:
+Details
+are sea turtles known for their olive-colored carapace.
+They are
+carnivorous
+, primarily feeding on jellyfish, crustaceans, and mollusks.
+Unique
+mass nesting behavior (Arribada)
+, where thousands of females lay eggs in synchronized waves on the same beach.
+Their Habitat and Protection Status
+Found in the warm waters of the
+Pacific, Atlantic, and Indian Oceans
+Largest rookery (breeding colony) is at
+Gahirmatha Marine Sanctuary
+, Odisha, India.
+Other major nesting sites include
+Devi River mouth
+(discovered in 1981) and
+Rushikulya river mouth
+(discovered in 1994).
+Protection Status:
+IUCN Status:
+Vulnerable
+CITES:
+Appendix I
+(No international trade)
+Wildlife Protection Act, 1972:
+Schedule I
+(Highest level of protection)
+Conservation Efforts
+Project Olivia
+by Indian Coastguard to protect the Olive Ridley turtles, especially after the Gahirmatha rookery recognition.
+Legal protections and environmental regulations
+safeguard nesting sites and prevent poaching.
+Olive Ridley Protection Program
+ensures the safety of nests and hatchlings.
+PYQ:
+[2015]
+Which one of the following is the national aquatic animal of India?
+(a) Saltwater crocodile
+(b) Olive ridley turtle
+(c) Gangetic dolphin
+(d) Gharial
+**********[pib] Telecom Technology Development Fund (TTDF) Program
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Telecom Technology Development Fund (TTDF) has facilitated a collaboration between the Centre for Development of Telematics (C-DOT) and Trois Infotech on the development of “Face Recognition Using Drone” technology.
+About
+Details
+Launched on
+October 1, 2022
+under the
+Universal Service Obligation Fund (USOF)
+, Ministry of Telecommunications.
+Supports
+indigenous telecom technologies
+, especially for
+rural communication needs
+About USOF (Universal Service Obligation Fund)
+USOF was established in
+April 2002
+Indian Telegraph (Amendment) Act 2003
+Objective: To provide
+financial support
+for telecom services in
+rural and remote areas
+that are
+commercially unviable
+non-lapsable fund
+, with the levy amount credited for
+continuous use
+Operates as an attached office of the
+Department of Telecom
+, headed by an administrator appointed by the
+Central Government
+Initially focused on providing
+basic telecom services
+in rural areas at affordable prices.
+Expanded scope to include
+mobile services
+broadband connectivity
+, and
+infrastructure development
+in rural and remote areas.
+Aims and Objectives
+Encourage Innovation
+: Create synergies across stakeholders (startups, R&D, academia) and focus on
+rural-specific telecom solutions
+Bridge the Digital Divide
+: Provide
+telecom solutions for rural areas and enhance connectivity.
+Intellectual Property Creation
+: Support
+projects contributing to
+patentable technologies
+Key Features and Structural Mandate
+Funding Mechanism
+Grants for Indian startups, research institutes, academia, and telecom companies for
+on rural telecom solutions.
+Managed by
+Department of Telecommunications (DoT)
+as the administering body.
+Features:
+Incentives for Startups
+: Provides financial incentives for
+telecom R&D
+projects from
+prototype to commercialization
+Collaborative Framework
+: Promotes collaboration between stakeholders such as startups, telecom companies, universities, and R&D centers.
+PoC and Pilot Support
+: Encourages
+proof of concept testing
+pilots
+to validate technological solutions.
+PYQ:
+[2019]
+In India, which of the following review the independent regulators in sectors like telecommunications, insurance, electricity, etc.?
+Ad Hoc Committees set up by the Parliament
+Parliamentary Department Related Standing Committees
+Finance Commission
+Financial Sector Legislative Reforms Commission
+NITI Aayog
+Select the correct answer using the code given below:
+(a) 1 and 2
+(b) 1, 3 and 4
+(c) 3, 4 and 5
+(d) 2 and 5
+**********[pib] Import of Hazardous Waste
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Features of the HOMW Rules
+Why in the News?
+The Ministry of Environment, Forest and Climate Change (MoEF&CC) has provided details of the Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016 to the Lok Sabha.
+About
+Details
+Notified by
+the Ministry of Environment, Forest and Climate Change (MoEF&CC) under the
+Environment (Protection) Act, 1986
+Objective
+: Ensure safe storage, treatment, and disposal of hazardous wastes, minimizing harm to the environment and human health.
+Features of the Rules
+Import Regulations
+1. Import of hazardous waste listed in Part A of Schedule III is permitted for
+recycling, recovery, reuse
+co-processing
+2. Import for
+is strictly prohibited in India.
+3. Import is allowed only for
+actual users
+(industries) with permission from MoEF&CC and a
+license from DGFT
+Illegal Imports
+1. Any import of hazardous waste without prior permission from MoEF&CC is
+illegal
+2. Legal action can be taken under the
+Indian Ports Act, 1908
+or the
+Customs Act, 1962
+3. Ports and Customs Authorities are responsible for monitoring and taking action against illegal imports.
+Import/Export of Waste
+1. No hazardous waste can be
+imported for final disposal
+into India.
+2. The rules specify procedures for
+importing and exporting
+hazardous waste.
+3. Exemptions are made for the export of
+silk waste
+defective electrical/electronic components
+Wastes Prohibited for Import
+1. Waste edible fats and oils (animal/vegetable origin)
+2. Household waste
+3. Critical care medical equipment
+4. Tyres for direct re-use
+5. Plastic waste, including PET bottles
+6. Electrical and electronic scrap
+7. Other chemical wastes, especially in solvent form
+Treatment, Storage, and Disposal Facilities
+1. The rules provide clear directions on how
+treatment, storage, and disposal facilities
+should be established.
+SPCBs
+must approve
+layout
+of these facilities.
+Powers and Functions of State Pollution Control Boards (SPCBs)
+Duties Assigned to State Governments
+: Allocate space for recycling and pre-processing of hazardous waste, and implement skill development activities for worker safety.
+Annual Reports
+: State governments must submit reports on hazardous waste management to MoEFCC.
+must submit an annual inventory of hazardous waste management activities to ensure compliance
+Monitoring and Compliance
+: SPCBs monitor adherence to rules and take action against violations.
+: SPCBs approve and monitor facilities for hazardous waste treatment, storage, and disposal.
+PYQ:
+[2019]
+As per the Solid Waste Management Rules, 2016 in India, which one of the following statements is correct?
+(a) Waste generator has to segregate waste into five categories.
+(b) The Rules are applicable to notified urban local bodies, notified towns and all industrial townships only.
+(c) The Rules provide for exact and elaborate criteria for the identification of sites for landfills and waste processing facilities.
+(d) It is mandatory on the part of the waste generator that the waste generated in one district cannot be moved to another district.
+**********[pib] Green Cover around Coalfields
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Coal & Lignite Public Sector Undertakings (PSUs) such as Coal India Limited (CIL), NLC India Limited (NLCIL), and Singareni Collieries Company Limited (SCCL) have implemented various innovative plantation techniques in addition to traditional methods to increase green cover in and around coalfields.
+Achievements in Green Cover Creation:
+Coal & Lignite PSUs
+have successfully created
+green cover on 10,942 hectares
+of land as part of their plantation and bio-reclamation efforts over the last
+5 years
+The efforts are primarily focused on
+coal and lignite mining areas
+and surrounding regions.
+Guidelines and EC Conditions
+The MoEF&CC sets out
+specific and general conditions
+for plantation in the
+Environmental Clearance (EC)
+of coal mining projects.
+Plantations are carried out on:
+Reclaimed degraded forest
+Non-forest lands
+overburden dumps
+to ensure proper reclamation and regeneration of green cover.
+Under the guidance of the Ministry of Coal,
+16 Eco-parks/Mine Tourism sites
+have been established over the last 5 years.
+These sites aim to:
+Promote
+environmental regeneration
+Encourage
+tourism
+recreational activities
+in coal mining areas, boosting local economies and raising environmental awareness.
+Innovative techniques for enhancing Green Cover around Coalfields
+Three-tier plantation
+: A method involving planting different species at varying heights to create a layered canopy for enhanced biodiversity.
+Seed ball plantation
+: Seeds are encased in soil and compost balls and thrown in barren or degraded areas to promote natural growth.
+Miyawaki plantation
+: A high-density plantation technique aimed at creating a dense, self-sustaining forest in a shorter period.
+High-tech cultivation
+: Utilizing modern agricultural techniques for efficient plantation and maintenance.
+Bamboo plantation
+: Focusing on bamboo as a fast-growing and environmentally beneficial plant for reclamation.
+Drip irrigation on overburden dumps
+: Use of efficient water management systems to promote plantation on areas like overburden dumps.
+PYQ:
+[2019]
+Consider the following statements:
+As per law, the Compensatory Afforestation Fund Management and Planning Authority exists at both National and State levels.
+People’s participation is mandatory in the compensatory afforestation programmes carried out under the Compensatory Afforestation Fund Act, 2016.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********Employees’ Pension Scheme (EPS)
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Parliamentary Standing Committee on Labour has recommended increasing the minimum pension of ₹1,000 paid by the Employees’ Provident Fund Organisation (EPFO) under the Employees’ Pension Scheme (EPS).
+About the
+Details
+Introduced in
+1995
+Employees Provident Fund Organisation (EPFO)
+under the Ministry of Labour and Employment.
+Provides pension benefits to employees in the organized sector.
+Aims and Objectives
+To provide
+Ensures
+financial security
+for employees post-retirement or in case of disability or death.
+Features and Significance
+Employee and Employer Contribution
+: Both contribute
+12%
+of the salary towards the EPF.
+Employer’s Contribution
+: 8.33% of the employer’s contribution goes towards the pension fund.
+Union Government Contribution
+: 1.16% of the employee’s basic salary is contributed to the pension fund.
+Pension Fund Setup
+: The fund is created by allocating
+of the employer’s contribution from the EPF corpus.
+Structural Mandate and Implementation
+Supreme Court
+November 2022
+, the court upheld the
+Employees’ Pension (Amendment) Scheme, 2014
+, extending the deadline for opting for the new scheme by 4 months.
+Pre-Amendment Scheme
+: Pensionable salary was based on the
+average salary of the last 12 months
+prior to exiting the pension fund.
+Post-Amendment Scheme (2014)
+: Pensionable salary based on
+average salary of the last 60 months (5 years)
+Eligibility Criteria
+Applies to employees whose
+exceeds
+₹15,000
+per month.
+Employees who are members of the
+Employees’ Provident Fund (EPF)
+and meet the contribution requirements are eligible for the scheme.
+PYQ:
+[2021]
+With reference to casual workers employed in India, consider the following statements:
+1. All casual workers are entitled for Employees Provident Fund coverage.
+2. All casual workers are entitled for regular working hours and overtime payment.
+3. The government can by a notification specify that an establishment or industry shall pay wages only through its bank account.
+Which of the above statements are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********

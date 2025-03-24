@@ -1,10 +1,16 @@
 import base64
 from calendar import c
+import csv
 from lib2to3.pytree import convert
+from math import log
+from unittest import result
+from click import prompt
+from exceptiongroup import catch
 from flask import Flask, request, jsonify
 from httpx import get
 import pandas as pd
-from pydantic import SubclassError
+# from pydantic import SubclassError
+import regex
 import requests
 import fitz  # PyMuPDF
 from PIL import Image
@@ -26,13 +32,15 @@ from LatexToImage import excelRun, get_image
 from urllib.parse import urljoin, urlparse
 import html
 from openai import OpenAI
+from base64 import b64encode, b64decode
+
 
 # try:
 #     from HTMLParser import HTMLParser
 # except ImportError:
 #     from html.parser import HTMLParser
 
-from removeWaterMark import download_image, remove_background_and_convert_to_bw
+from removeWaterMark import HtmlToRemoveWaterMark, download_image, remove_background_and_convert_to_bw, RemoveWaterMarkWithAi
 import datetime
 import time
 import json
@@ -61,6 +69,7 @@ from sentence_transformers import SentenceTransformer, util
 import logging
 import os
 from dotenv import load_dotenv
+os.remove(f'/root/webScrapping/Scrapper.log')
 logging.basicConfig(filename='Scrapper.log', level=logging.INFO)
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -72,6 +81,31 @@ Public_IP = "https://fc.edurev.in/images/"
 from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
+
+# # Example usage
+# process_image('D:\EduRev\embedding\watermark.png')
+
+def decrypt_data(decr_data):
+    # Remove the first 32 characters``
+   
+    decr_data = decr_data[32:]
+    # Remove the last 32 characters
+    decr_data = decr_data[:-32]
+    # Decode base64
+    decr_data = base64.b64decode(decr_data)
+    # print(decr_data)
+    # Unescape the URL encoded string
+    try:
+        decr_data = urllib.parse.unquote(decr_data.decode('utf-8'))
+    except Exception as e:
+        print(str(e))
+    return decr_data
+def convertRelativeURLToAbsoluteURL(inputHtml, baseURL):
+    # print(inputHtml)
+    soup = BeautifulSoup(inputHtml, 'html.parser')
+    for img in soup.find_all('img'):
+        img['src'] = baseURL + img['src']
+    return str(soup)
 
 def simplify_latex_limits(latex_code):
     # Replace the verbose limit syntax with the conventional syntax
@@ -160,7 +194,7 @@ def scrapeQuesFromText():
         })
 
     # Write the result to a JSON file
-    with open('/home/er-ubuntu-1/webScrapping/api_result_json/agricraf.json', 'w', encoding='utf-8') as f:
+    with open('/root/webScrapping/api_result_json/agricraf.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=4, ensure_ascii=False)
     response = sendQuestionsToP1(quizId,quizGuid,result,marks,negMarks)  
     logging.info("agrriCraf Questions sending to P1")
@@ -497,7 +531,7 @@ def clean_latex_code(expression):
     return expression
 def format_mathjax_html(mathjax_str):
         # Remove unnecessary <br> tags
-    mathjax_str = mathjax_str.replace('<br>', '')
+    mathjax_str = mathjax_str.replace(r'<br>', r' \\ ')
 
     # Format the LaTeX delimiters properly
     mathjax_str = mathjax_str.replace(r'\$', '$')
@@ -508,36 +542,134 @@ def format_mathjax_html(mathjax_str):
     mathjax_str = f'${mathjax_str}$'
     mathjax_str = clean_latex_code(mathjax_str)
     return mathjax_str
-def getScrollerTest(url):
-    service = Service(ChromeDriverManager().install())
-    options = webdriver.ChromeOptions()
-    user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-    options.add_argument(f"user-agent={user_agent_string}")
-    options.add_argument('--headless')  # Run in background
-    options.add_argument("window-size=1400,1500")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--no-sandbox")
-    options.add_argument("start-maximized")
-    options.add_argument("enable-automation")
-    options.add_argument("--disable-infobars")
-    options.add_argument("--disable-dev-shm-usage")  # Run in background
-   
-    driver = webdriver.Chrome(service=service, options=options)
-
-    driver.get(url)
+def getScrollerTest(url,language="en",startRange= 0,endRange= 0,testName="",testCat = ""):
+    # service = Service(ChromeDriverManager().install())
+    try:
+        service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
+        options = webdriver.ChromeOptions()
+        user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+        options.add_argument(f"user-agent={user_agent_string}")
+        options.add_argument('--headless')  # Run in background
+        options.add_argument("window-size=1400,1500")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--no-sandbox")
+        options.add_argument("start-maximized")
+        options.add_argument("enable-automation")
+        options.add_argument("--disable-infobars")
+        options.add_argument("--disable-dev-shm-usage")  # Run in background
     
+        driver = webdriver.Chrome(service=service, options=options)
 
-    driver.implicitly_wait(10)
-    html_ = driver.execute_script("return document.documentElement.outerHTML")
+        driver.get(url)
+        
 
-    # Get page source after JavaScript execution
-    # html = driver.page_source
-    # print(html)
-    driver.quit()  # Close the browser
-    html_text = convert_latex(str(html_))
-    # Use BeautifulSoup to parse the HTML content
-    soup = BeautifulSoup(html_text, 'html.parser')
+        driver.implicitly_wait(10)
+        html_ = driver.execute_script("return document.documentElement.outerHTML")
+
+        # Get page source after JavaScript execution
+        # html = driver.page_source
+        # print(html)
+        driver.quit()  # Close the browser
+        html_text = convert_latex(str(html_))
+        # Use BeautifulSoup to parse the HTML content
+        soup = BeautifulSoup(html_text, 'html.parser')
+    except Exception as e:
+        print(str(e))
     formatted_questions = {"questions":[]}
+    
+    if 'https://u1.oliveboard.in/' in url:
+        print(url)
+        cookies = "_gcl_au=1.1.1410901082.1727696015; _ga=GA1.1.2069186666.1727696016; _fbp=fb.1.1727696015567.848452319157235268; susmid=224c983eNjk2NjAzOF5ea2RzMTY2OTleXmprc3NiY3ZeXmlyZGFp7d0b1deb; obem=kds16699%40gmail.com; uauth=224c983e86747930ebdd44d37d0b1deb; luauth=224c983e86747930ebdd44d37d0b1deb; obctapinfo2=1; obwb=2000; obctapinfo3=1; WZRK_G=548f09bbe7af4c42a53ec35e6a3b90b5; __utmz=94392130.1729159943.4.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utma=94392130.1469898232.1727696015.1729159943.1729577777.5; __utmc=94392130; obtredgt=d18327a096f0974d275096454a1d2f13; offerimg=1; obph=7717270389%2C+Regd+1237+days+ago%2C+Prem%3A+jkssbcv%2Cirdai; session=2K152493b7669dee5ae2492f56e4b176eb2e; obsession=BSDRGZ9XOTQ2OTY2MDM49VI5W8MS; lcatv=ssc; oblpv=https%253A%252F%252Fu1.oliveboard.in%252Fexams%252F%253Fc%253Dntpc1%2526i%253Dssc; __utmb=94392130.11.10.1729577777; pupnt=0; WZRK_S_65R-6K5-785Z=%7B%22p%22%3A1%2C%22s%22%3A1729580280%2C%22t%22%3A1729580280%7D; _ga_M8DH7WJ9QL=GS1.1.1729576869.7.1.1729580335.0.0.0"
+        # hit url with this api to get result
+        response = requests.get(url, headers={'Cookie': cookies})
+        soup = BeautifulSoup(response.text, 'html.parser')
+        i = 0 
+        sections = []
+        questionsInSections = []
+
+        while (True):
+            try:
+                # print("sec-"+str(i)+" box")
+                section = soup.find(class_= "sec-"+str(i)+" box")
+                section_name = section.find("p").text
+                questions = section.find_all("span",class_="map-qno")
+                sections.append(section_name)
+                questionsInSections.append(len(questions))
+                # print(section)
+                if(section is None):
+                    break
+                i+=1;
+            except:
+                break
+
+        totalquestions = 0
+        for i in questionsInSections:
+            totalquestions += i
+        i =0
+        question_box_name = "qosblock"
+        question_boxs = soup.find_all(class_=question_box_name)
+        logging.info("Total Questions : "+str(question_boxs))
+        opts = ["0","1","2","3","4"]
+        # answer_values = ["A","B","C","D","E"]
+        formatted_questions = {"questions":[]}
+        for i in range(0,totalquestions):
+            question_name = "qblock-"+str(i)
+            Comprehension_class_name = "paneqcol panetxt"
+            Comprehension =""
+            if(question_boxs[i].find(class_=Comprehension_class_name)):
+                Comprehension = question_boxs[i].find(class_=Comprehension_class_name).text.strip()
+                Comprehension = decrypt_data(Comprehension)
+                Comprehension = convertRelativeURLToAbsoluteURL(Comprehension, "https://u1.oliveboard.in/exams/solution/")
+                Comprehension = convert_special_characters_to_html(Comprehension)
+                Comprehension = scrapeExcel(Comprehension)
+            options_scrape = []
+            options = ["opt-"+str(i)+"-"+opts[j] for j in range(0,5)]
+            question = question_boxs[i].find(id=question_name).text.strip()
+            decrypted_question = decrypt_data(question)
+            decrypted_question = convertRelativeURLToAbsoluteURL(decrypted_question, "https://u1.oliveboard.in/exams/solution/")
+            answer_for_q = -1
+            gotAnswere = False
+            for j in range(0,5):
+                option = question_boxs[i].find(id=options[j])
+                if option is None:
+                    continue
+                option = option.find("div",class_="rightopt").text.strip()
+                decrypted_option = decrypt_data(option)
+                decrypted_option = convertRelativeURLToAbsoluteURL(decrypted_option, "https://u1.oliveboard.in/exams/solution/")
+                decrypted_option = convert_special_characters_to_html(decrypted_option)
+                decrypted_option = scrapeExcel(decrypted_option)
+
+                if(gotAnswere != True):
+                    onclick_attr = question_boxs[i].find(id=options[j]).get("onclick")
+                    match = re.search(r'attemptAgain\((\d+),', onclick_attr)
+                    if match:
+                        first_argument = match.group(1)
+                        answer_for_q = int(first_argument)
+                        gotAnswere = True
+                if(option != None):
+                    options_scrape.append(decrypted_option)
+            solution_name = "soltxt-"+str(i)
+            solution = question_boxs[i].find(id=solution_name).text.strip()
+            decrypted_solution = decrypt_data(solution)
+            decrypted_solution = convertRelativeURLToAbsoluteURL(decrypted_solution, "https://u1.oliveboard.in/exams/solution/")
+            decrypted_solution = convert_special_characters_to_html(decrypted_solution)
+            decrypted_question = convert_special_characters_to_html(decrypted_question)
+            decrypted_question = scrapeExcel(decrypted_question)
+            decrypted_solution = scrapeExcel(decrypted_solution)
+            answer = options_scrape[answer_for_q]
+            if(len(Comprehension)>0):
+                decrypted_question = Comprehension + "<br>" + decrypted_question
+            for k in range(0,len(questionsInSections)):
+                if(i<sum(questionsInSections[:k+1])):
+                    formatted_questions["questions"].append({"question":decrypted_question,"options":options_scrape,"answer":answer,"solution":decrypted_solution,"section_name":sections[k]})
+                    break
+            # formatted_questions["questions"].append({"question":decrypted_question,"options":options_scrape,"answer":answer_for_q,"solution":decrypted_solution})
+
+
+
+        with open("api_result_json/oliveboard.json", "w") as f:
+            json.dump(formatted_questions, f, indent=4)
+        return formatted_questions    
     if 'www.mockers.in/' in url:
         print(url)
         question_div = soup.find('ul', class_='ques-list')
@@ -582,7 +714,7 @@ def getScrollerTest(url):
         # for i, formatted_question in enumerate(formatted_questions, start=1):
         #     print(f"Question {i}:\n{formatted_question}\n")\
 
-        with open('/home/er-ubuntu-1/webScrapping/api_result_json/mockers.json', 'w') as f:
+        with open('/root/webScrapping/api_result_json/mockers.json', 'w') as f:
             json.dump(formatted_questions, f)
         return formatted_questions
     elif 'https://www.educationquizzes.com/' in url:
@@ -704,7 +836,7 @@ def getScrollerTest(url):
         }
         # https://api.quizrr.in/api/test/solution/testDetails/66053524c0857387255f7d67?packId=6605332e66c213425b947e71
         url_to_fetch_section_question = f"https://api.quizrr.in/api/test/solution/testDetails/{testId}?packId={packId}"
-        auth_token = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Njc1NDc2OGJkMTE2MGU2NTEzMTYwMTYiLCJuYW1lIjoiQWFoYW4gTWlzaHJhIiwiZW1haWwiOiJtaXNocmFhc2h3YW5pMDczQGdtYWlsLmNvbSIsInVzZXJUeXBlIjoic3R1ZGVudCIsImlhdCI6MTcxOTExNTY0NCwiZXhwIjoxNzIxNzA3NjQ0fQ.Ytp62ZuFcrxELonyzKwjy0B5KJ1m22ndu_v8E36bh-A"
+        auth_token = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Njc1NDc2OGJkMTE2MGU2NTEzMTYwMTYiLCJuYW1lIjoiQWFoYW4gTWlzaHJhIiwiZW1haWwiOiJtaXNocmFhc2h3YW5pMDczQGdtYWlsLmNvbSIsInVzZXJUeXBlIjoic3R1ZGVudCIsImlhdCI6MTc0MDcyMjU1MiwiZXhwIjoxNzQzMzE0NTUyfQ.xXxeU33UWxZxigF-BozhbfVU2mdh8ZZhULrDfptP65M"
         headers = {
             'Authorization': auth_token
         }
@@ -777,6 +909,7 @@ def getScrollerTest(url):
                     'solution':solution,
                     'section_name':sections_and_name[sectionId]
                     })
+                
                 # HANDLING OF LATEXT AND IMAGE
                 
                 question = question.replace("br/","br")
@@ -790,7 +923,7 @@ def getScrollerTest(url):
                 processing_for_option = []
                 for i in range(len(formatted_options)):
                     processing_for_option.append(format_mathjax_html(formatted_options[i]))
-                with open("/home/er-ubuntu-1/webScrapping/bytxt.txt", "w") as f:
+                with open("/root/webScrapping/bytxt.txt", "w") as f:
                     f.write(solution_)
                 processing_formatted_question['questions'].append({
                     'question':question_,
@@ -799,32 +932,13 @@ def getScrollerTest(url):
                     'solution':solution_,
                     'section_name':sections_and_name[sectionId]
                 })
+                
                 if get_image("quizrr",question_, ques_img_path):
                         question_ = f'<img src="https://fc.edurev.in/images/{ques_uuid}.png" alt="Question Image">'
-                # if not "<img" in question and contains_latex_symbol(question):
-                #     if convert_latex_to_image_for_quizeer(question, ques_img_path):
-                #         question = f'<img src="https://fc.edurev.in/images/{ques_uuid}.png" alt="Question Image">'
-                #     else:
-                        
-                #         if get_image("quizrr",question, ques_img_path):
-                #             question = f'<img src="https://fc.edurev.in/images/{ques_uuid}.png" alt="Question Image">'
-                        
-                # elif "<img" in question and  contains_latex_symbol(question):
-                    
-                #     if get_image("quizrr",question, ques_img_path):
-                #         question = f'<img src="https://fc.edurev.in/images/{ques_uuid}.png" alt="Question Image">'
-                    
-                # else:
-                #     # question = question.replace("br/","br")
-                #     if get_image("quizrr",question, ques_img_path):
-                #         question = f'<img src="https://fc.edurev.in/images/{ques_uuid}.png" alt="Question Image">'
-                    
                 
-                
-                        # json.dump(formatted_questions, f)
                 solution_ = solution_.replace("br/","br")
                 if "br" in solution_:
-                    with open('/home/er-ubuntu-1/webScrapping/bytxt.txt', 'w') as f:
+                    with open('/root/webScrapping/bytxt.txt', 'w') as f:
                         # reading the content then appedn in it 
                         f.write(solution_)
 
@@ -842,26 +956,29 @@ def getScrollerTest(url):
                     
                     option = option.replace("br/","br")
                     if "$" in formatted_options[i]:
-                        option = formatted_options[i].replace("$","")
+                        option = formatted_options[i].replace("$","").replace("\\(\\(","").replace("\(\(","")
                     option_ = format_mathjax_html(option)
                     # formatted_options[i] = formatted_options[i].replace("br/","br")
                     if get_image("quizrr",option_, option_img_path) and len(option) != 0:
                         formatted_options[i] = f'<img src="https://fc.edurev.in/images/{option_uuid}.png" alt="Option Image">'
-                    
                 formatted_questions['questions'].append({
-                        'question':question_,
+                        'question':question_.replace("\\(\\(","").replace("\(\(",""),
                         'options':formatted_options,
-                        'answer':answer,
-                        'solution':solution_,
+                        'answer':answer.replace("\\(\\(","").replace("\(\(",""),
+                        'solution':solution_.replace("\\(\\(","").replace("\(\(",""),
                         'section_name':sections_and_name[sectionId]
                     })
+                # if(offset == 5):
+                #     with open('/root/webScrapping/api_result_json/processing_quizerr_testing.json', 'w') as f:
+                #         json.dump(formatted_questions, f)
+                #     break
                 # print(formatted_questions)
             previous_question_length += question_len 
-        with open('/home/er-ubuntu-1/webScrapping/api_result_json/quizerr.json', 'w') as f:
+        with open('/root/webScrapping/api_result_json/quizerr.json', 'w') as f:
             json.dump(formatted_questions, f)
-        with open('/home/er-ubuntu-1/webScrapping/api_result_json/processing_quizerr.json', 'w') as f:
+        with open('/root/webScrapping/api_result_json/processing_quizerr.json', 'w') as f:
             json.dump(processing_formatted_question, f)
-        with open('/home/er-ubuntu-1/webScrapping/api_result_json/raw_quizerr.json', 'w') as f:
+        with open('/root/webScrapping/api_result_json/raw_quizerr.json', 'w') as f:
             json.dump(raw_formatted_questions, f)
     elif "sstar.com" in url :
         cookies=["_gcl_au=1.1.1351298700.1719813792; _clck=uw7cw9%7C2%7Cfn3%7C0%7C1643; _ga=GA1.2.9252008.1719813793; _gid=GA1.2.1905579535.1719813793; _fbp=fb.1.1719813793042.307039025621393064; gclid=undefined; moe_uuid=9267225b-3920-4178-8d29-7602a9cf25e0; USER_DATA=%7B%22attributes%22%3A%5B%5D%2C%22subscribedToOldSdk%22%3Afalse%2C%22deviceUuid%22%3A%229267225b-3920-4178-8d29-7602a9cf25e0%22%2C%22deviceAdded%22%3Atrue%7D; SOFT_ASK_STATUS=%7B%22actualValue%22%3A%22not%20shown%22%2C%22MOE_DATA_TYPE%22%3A%22string%22%7D; OPT_IN_SHOWN_TIME=1719813795386; PUSH_TOKEN=%7B%22actualValue%22%3A%22cWGzHo9Iel0%3AAPA91bGIQsM1AAVv48GTJrEAKJyXjwVgyT_XZrCE4Pk54ZA15XelUvNbhF5M1_537qD-8ioFssI6yRpFAMXi9uyvVlL1YUXNsKaPh6dLjwrYsctCSE_2txJ4eCRlq_1Wr17lR3xnfhal%22%2C%22MOE_DATA_TYPE%22%3A%22string%22%7D; mp_6193c44f66c36c190cc1_mixpanel=%7B%22distinct_id%22%3A%20%22%24device%3A1906ce3e18a1ea6-001ed209637604-26001f51-e1000-1906ce3e18b1ea6%22%2C%22%24device_id%22%3A%20%221906ce3e18a1ea6-001ed209637604-26001f51-e1000-1906ce3e18b1ea6%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%7D; _ga_7M6YSLDGB0=GS1.2.1719826378.2.1.1719826915.0.0.0; _clsk=19pvrro%7C1719826915979%7C20%7C1%7Ct.clarity.ms%2Fcollect; _clsk=19pvrro%7C1719826915979%7C20%7C1%7Ct.clarity.ms%2Fcollect; SESSION=%7B%22sessionKey%22%3A%22c6f7e4b3-e89c-44ff-9257-f73d2d434788%22%2C%22sessionStartTime%22%3A%222024-07-01T09%3A33%3A00.201Z%22%2C%22sessionMaxTime%22%3A1800%2C%22customIdentifiersToTrack%22%3A%5B%5D%2C%22sessionExpiryTime%22%3A1719828717282%2C%22numberOfSessions%22%3A2%7D; HARD_ASK_STATUS=%7B%22actualValue%22%3A%22granted%22%2C%22MOE_DATA_TYPE%22%3A%22string%22%7D; SUBSCRIPTION_DETAILS=%7B%22domain%22%3A%22https%3A%2F%2Fatpstar.com%22%2C%22token%22%3A%22cWGzHo9Iel0%3AAPA91bGIQsM1AAVv48GTJrEAKJyXjwVgyT_XZrCE4Pk54ZA15XelUvNbhF5M1_537qD-8ioFssI6yRpFAMXi9uyvVlL1YUXNsKaPh6dLjwrYsctCSE_2txJ4eCRlq_1Wr17lR3xnfhal%22%2C%22endpoint%22%3A%22https%3A%2F%2Ffcm.googleapis.com%2Ffcm%2Fsend%2F%22%2C%22keys%22%3A%7B%22p256dh%22%3A%22BN5a-tP4ExScpQNXPJhbv3Cw8Xyg9UvP2slXuZHZi-gwMcJFYU9hoARh4PJZT6XmSgzSEn0HdeDbiZkuja4ST20%22%2C%22auth%22%3A%22a1dRNOA3pfax4zeF6bl6yA%22%7D%7D; ci_sessions=87aad13d4146e1a4d48a8f0487dc7dd2a86ce329",
@@ -924,134 +1041,299 @@ def getScrollerTest(url):
                         'type':question_json.get('qm_answer_type', '')
                     } 
                     )
-                with open('/home/er-ubuntu-1/webScrapping/api_result_json/atpstar.json', 'w') as f:
+                with open('/root/webScrapping/api_result_json/atpstar.json', 'w') as f:
                     json.dump(formatted_questions, f)
                 break
             except Exception as e:
                 print(str(e))
                 logging.info("Error in getting data from atpstar.com with cookie: "+str(e))
-            
-        
-        
-    elif "https://testbook.com/" in url:
-        test_id = url.split('?')[0].split('/')[-1]
-        # ashwini code,sushil code
-        auth_codes = [
-            'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjY1Nzk5NTRmODBiN2U5MGU2NDhkN2VjZCIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNC0wNy0yMVQwNzo1ODo0NC4yMjQ1MjE4NzlaIiwiaWF0IjoiMjAyNC0wNi0yMVQwNzo1ODo0NC4yMjQ1MjE4NzlaIiwibmFtZSI6IkFzaHdhbmkiLCJlbWFpbCI6Im1pc2hyYWFzaHdhbmkwNzNAZ21haWwuY29tIiwib3JnSWQiOiIiLCJpc0xNU1VzZXIiOmZhbHNlLCJyb2xlcyI6InN0dWRlbnQifQ.DWTeumcdTJvJ7AmGzuf1bDZ9jGSatl8eEmDmfl4si4mHdF4e4nJxiQ46W-Ql4c5zB-00Wg_4Cm-OoLOVmRkJKxKlaeVOc1BXZXnUzZJkQ2gtq_QH63E5Q7jqzYr7PsI5kHkZkIqNdkn083v5wQxzZxWfvKIkUzZpTtlOwjHJgjM',
-            'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjViZWE2NTlkNmZmNmZlMjFhNDczZmNkMiIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNC0wNy0wM1QwNDoxMzoyOC41NjkyODE5ODJaIiwiaWF0IjoiMjAyNC0wNi0wM1QwNDoxMzoyOC41NjkyODE5ODJaIiwibmFtZSI6Imx1Y2t5IiwiZW1haWwiOiJsdWNreXRhbmVqYTk5OUBnbWFpbC5jb20iLCJvcmdJZCI6IiIsImlzTE1TVXNlciI6ZmFsc2UsInJvbGVzIjoic3R1ZGVudCJ9.iCEKSYJmciL8Znd4XaEtU5Wna0v07Y9n1jMxmPKsS7ELtGqfxQhuw196hM_E4blvzoFRMoOcvgO2ZgEXWygHysFP-RJMWGN18Yhzc9g6xQtpZiI6912kgMDU5mnnzm6u31hno5J66rXukLc3bkiyDLQLnXVx8H1-4-Z9LYre0k0'
-        ]
-        # params = {
-        #     'auth_code':"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjViZWE2NTlkNmZmNmZlMjFhNDczZmNkMiIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNC0wNy0wM1QwNDoxMzoyOC41NjkyODE5ODJaIiwiaWF0IjoiMjAyNC0wNi0wM1QwNDoxMzoyOC41NjkyODE5ODJaIiwibmFtZSI6Imx1Y2t5IiwiZW1haWwiOiJsdWNreXRhbmVqYTk5OUBnbWFpbC5jb20iLCJvcmdJZCI6IiIsImlzTE1TVXNlciI6ZmFsc2UsInJvbGVzIjoic3R1ZGVudCJ9.iCEKSYJmciL8Znd4XaEtU5Wna0v07Y9n1jMxmPKsS7ELtGqfxQhuw196hM_E4blvzoFRMoOcvgO2ZgEXWygHysFP-RJMWGN18Yhzc9g6xQtpZiI6912kgMDU5mnnzm6u31hno5J66rXukLc3bkiyDLQLnXVx8H1-4-Z9LYre0k0"
-        # }
-        for auth in auth_codes:
-            try:
-                # print(auth)
-                params = {
-                    'auth_code':auth
-                }
-                get_answere_url = f"https://api.testbook.com/api/v2/tests/{test_id}/answers".format(test_id)    
-                get_questions_url = f"https://api.testbook.com/api/v2/tests/{test_id}".format(test_id)
-                formatted_questions = {
-                'questions':[]
-                }
-                response = requests.get(get_questions_url, params=params)
-                print(response)
-                # if test is not attempted
-                #         {
-                #     "success": false,
-                #     "message": "You have not completed the test, can not serve solutions.",
-                #     "curTime": "2024-06-05T11:38:08.758Z"
-                # }
-                answers = requests.get(get_answere_url, params=params)
-                # h = HTMLParser()
-                questions = response.json()['data']['sections']
-                for section in questions:
-                    if section['questions'] :
-                        section_name = ""
-                        if 'title' in section:
-                            section_name = section['title']
-                        
-                        for question in section['questions']:
+    elif "www.smartkeeda.com" in url:
+        try:
+            urlToGetQuestions = "https://www.smartkeeda.com/api/GetQuizData"
+            startRange = int(startRange)
+            endRange = int(endRange)
+            logging.info("TEST NAME SMART KEEDA : '"+str(testName) +"'")
+            logging.info("TEST CAT SMART KEEDA : '"+str(testCat) +"'")
+            for i in range(startRange,endRange+1):
+                try:
+                    logging.info("Working on smart Keeda Test Number :" + str(i))
+                    payload = {"excersice":testCat ,"testname":f"{testName} "+str(i)}
+                    response = requests.post(urlToGetQuestions,json=payload)
+                    response = response.json()
+
+                    data = response['data']
+
+                    # data = data.json()
+                    questions = data['questions']
+                    directionsEnglish = ""
+                    directionsHindi = ""
+                    if 'quizData' in data:
+                        quizData = data['quizData']
+                        if 'sumEng' in data['quizData']:
+                            directionsEnglish =  data['quizData']['sumEng']
+                        if 'sumHin'  in data['quizData']:
+                            directionsHindi =  data['quizData']['sumHin']
+
+                    for ques in questions:
+                        question = ""
+                        formatted_options = []
+                        answer = ""
+                        solution = ""
+                        if(language == "en"):
+                            question = ques['q']
+                            # question = directionsEnglish + "<br>"+question
+                            formatted_options.append(str(ques['oa']).replace("\n","").replace("\r","").replace("\t",""))
+                            formatted_options.append(str(ques['ob']).replace("\n","").replace("\r","").replace("\t",""))
+                            formatted_options.append(str(ques['oc']).replace("\n","").replace("\r","").replace("\t",""))
+                            formatted_options.append(str(ques['od']).replace("\n","").replace("\r","").replace("\t",""))
+                            if 'oe' in ques:
+                                formatted_options.append(str(ques['oe']).replace("\n","").replace("\r","").replace("\t",""))
+                            answer = ques['correct']; 
+                            solution = ques['explanation']
+                        else:  # For Hindi or other language support
+                            question = ques['qHin']  # Hindi question
+                            # question = directionsHindi + "<br>"+question
                             formatted_options = []
-                            question_data = question['en']['value']
-                            if 'comp' in question['en']:
-                                question_data = question['en']['comp'] + " \n" +question_data
-                            # print(question_data)
-                            question_id = question['_id']
-                            for option in question['en']['options']:
-                                # option = html.unescape(option)
-                                option = option['value']
-                                option = convert_special_characters_to_html(option)
-                                option = BeautifulSoup(option, 'html.parser')
-                                formatted_options.append(str(option))
-                            answer = answers.json()['data'][question_id]['correctOption']
-                            question = convert_special_characters_to_html(question_data)
-                            answer = convert_special_characters_to_html(answer)
-                            solution = answers.json()['data'][question_id]['sol']['en']['value']
-                            solution = convert_special_characters_to_html(solution)
-                            question = BeautifulSoup(question, 'html.parser')
-                            answer = BeautifulSoup(answer, 'html.parser')
-                            solution = BeautifulSoup(solution, 'html.parser')
-                            answer = str(answer)
-                            question = str(question)
-                            solution = str(solution)
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\"/>','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\"/>','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\"/>','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" style=\"user-select: auto;\" width=\"26px\"/>','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\"/>','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\"/>','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/hint-text-image.png\" width=\"26px\"/>','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\"/>','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" />','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\">','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\">','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\">','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\">','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/mistake-point-image.png\" width=\"26px\">','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/confusion-points-image.png\" width=\"26px\">','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/hint-text-image.png\" style=\"color: rgb(33, 37, 41);\" width=\"26px\">','')
-                            solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/hint-text-image.png\" width=\"26px\">','')
-                            solution = solution.replace('<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage56.png\">','')
-                            solution = solution.replace('<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage56.png\" style=\"text-align: justify;\">','')
-                            solution = solution.replace('<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/08/601920026219d63b9af13913_16298844340631.png\">','')
-                            solution = solution.replace('<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/09/new_16311073401211.png\">','')
-                            solution = solution.replace('<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage218.png\">','')
-                            solution = solution.replace('<img src=\"//cdn.testbook.com/images/production/quesImage4.png\"/>','<strong>Additional Information</strong>')
-                            solution = solution.replace('<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/09/6017b26a8181d1a29b65ffe4_16322947252551.png\">','')
-                            solution = solution.replace('<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage398.png\" style=\"text-align: justify;\">','')
-                            solution = solution.replace('<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage534.png\">','')
-                            
-                            # Remove mjx container 
-                            question = scrapeExcel(question)
-                            answer = scrapeExcel(answer)
-                            solution = scrapeExcel(solution)
-                            for i in range(len(formatted_options)):
-                                formatted_options[i] = scrapeExcel(formatted_options[i])
-                            # remove math tex elment
-                            question = convert_special_characters_to_html(question)
-                            answer = convert_special_characters_to_html(answer)
-                            solution = convert_special_characters_to_html(solution)
-                            question = mathTexToImg(question)
-                            answer = mathTexToImg(answer)
-                            solution = mathTexToImg(solution)
-                            for i in range(len(formatted_options)):
-                                formatted_options[i] = mathTexToImg(formatted_options[i])
+                            formatted_options.append(str(ques['oaHin']).replace("\n","").replace("\r","").replace("\t",""))
+                            formatted_options.append(str(ques['obHin']).replace("\n","").replace("\r","").replace("\t",""))
+                            formatted_options.append(str(ques['ocHin']).replace("\n","").replace("\r","").replace("\t",""))
+                            formatted_options.append(str(ques['odHin']).replace("\n","").replace("\r","").replace("\t",""))
+                            if 'oeHin' in ques:  # Check if the "oeHin" option exists
+                                formatted_options.append(str(ques['oeHin']).replace("\n","").replace("\r","").replace("\t",""))
+                            answer = ques['correct']
+                            solution = ques['explanation']
+                        
+                        question = scrapeExcel(question)
+                        # question = HtmlToRemoveWaterMark(question)
+                        
+                        answer = scrapeExcel(answer)
+                        # answer = HtmlToRemoveWaterMark(answer)
+                        solution = scrapeExcel(solution)
+                        # solution = HtmlToRemoveWaterMark(solution)
+                        for i in range(len(formatted_options)):
+                            formatted_options[i] = scrapeExcel(formatted_options[i])
+                            # formatted_options[i] = HtmlToRemoveWaterMark(formatted_options[i])
+                        # remove math tex elment
+                        question = convert_special_characters_to_html(question)
+                        answer = convert_special_characters_to_html(answer)
+                        solution = convert_special_characters_to_html(solution)
+                        question = mathTexToImg(question)
+                        answer = mathTexToImg(answer)
+                        solution = mathTexToImg(solution)
+                        solution = solution.replace("<br/>\n<br/>","<br>").replace("\r\n<div>\r\n\t&nbsp;</div>\r\n","").replace("\n<div>\r\n\t </div>","").replace("\r\n\t","").replace("\n","").replace("<div style=\"font-size: 13px;\"> </div>","").replace("<br/>","")
+                        answer = answer.replace("<br/>\n<br/>","<br/>\n")
+                        question = question.replace("<br/>\n<br/>","<br/>\n")
+                        question = question.replace("<br/>","")
+                        for i in range(len(formatted_options)):
+                            formatted_options[i] = mathTexToImg(formatted_options[i])
+                            formatted_options[i] = formatted_options[i].replace("<br/>\n<br/>","<br/>\n")
+                        if(language == "en"):
                             formatted_questions['questions'].append({
                                 'question':question,
                                 'options':formatted_options,
                                 'answer':answer,
                                 'solution':solution,
-                                'section_name':section_name
+                                'ques_parag':directionsEnglish.replace("text-align: justify;","").replace("text-align: center;","")
+                                
                             })
-                            # print(formatted_questions)
-                break
-            except Exception as e:
-                print(str(e))
-                logging.info("auth code not working where auth code is : "+ str(auth)) 
-                logging.error(str(e))
-        with open ('/home/er-ubuntu-1/webScrapping/api_result_json/testbook.json','w') as f:
-            json.dump(formatted_questions,f) 
+                            # question = directionsEnglish.replace("text-align: justify;","").replace("text-align: center;","") + "<br><div>"+question+ "</div>"
+                        else: 
+                            formatted_questions['questions'].append({
+                                'question':question,
+                                'options':formatted_options,
+                                'answer':answer,
+                                'solution':solution,
+                                'ques_parag':directionsHindi.replace("text-align: justify;","").replace("text-align: center;","")
+                                
+                            })
+                            # question = directionsHindi.replace("text-align: justify;","").replace("text-align: center;","") + "<br><div>"+question+ "</div>"
+                        # formatted_questions['questions'].append({
+                        #     'question':question,
+                        #     'options':formatted_options,
+                        #     'answer':answer,
+                        #     'solution':solution,
+                            
+                        # })
+                except Exception as e:
+                    print(e)
+                    logging.info(str(e))
+        except Exception as e:
+                print(e)
+                logging.info(str(e))
+    elif "https://testbook.com/" in url:
+        try:
+            test_id = url.split('?')[0].split('/')[-1]
+            # ashwini code,sushil code,veenu , rajat,SATISH, KhushDeep,anjali --> last updated
+            auth_codes = [
+                'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjY1Nzk5NTRmODBiN2U5MGU2NDhkN2VjZCIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNS0wMy0xOVQwNzowNjo1MC40ODkwNjg2NTJaIiwiaWF0IjoiMjAyNS0wMi0xN1QwNzowNjo1MC40ODkwNjg2NTJaIiwibmFtZSI6IkFzaHdhbmkiLCJlbWFpbCI6Im1pc2hyYWFzaHdhbmkwNzNAZ21haWwuY29tIiwib3JnSWQiOiIiLCJpc0xNU1VzZXIiOmZhbHNlLCJyb2xlcyI6InN0dWRlbnQifQ.baPLrphi7Humc7O5RE9IcH7tgh1aPF25jgqSB7R3pa7vSGrTZzKfWwrnz2P2WD5CGhp_QLQlM8Eo9w1sIRpCIN7h6GDrKAsqW5JAi1mA0r4xTqmfkMwA-vaEhTS7TwkAEfphqasrgNgE1UvjcQvt79Sx3U28SvSoCvk6UGhhT3M',
+                'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjViZWE2NTlkNmZmNmZlMjFhNDczZmNkMiIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNS0wNC0xNFQwOTozMToxMC4wODQ1MTAwOTdaIiwiaWF0IjoiMjAyNS0wMy0xNVQwOTozMToxMC4wODQ1MTAwOTdaIiwibmFtZSI6Imx1Y2t5IiwiZW1haWwiOiJsdWNreXRhbmVqYTk5OUBnbWFpbC5jb20iLCJvcmdJZCI6IiIsImlzTE1TVXNlciI6ZmFsc2UsInJvbGVzIjoic3R1ZGVudCJ9.gtICj_P-4oIzj0Lk4Vt0hbbBCoc7ZWh4NWMIFQgsU_-F_--mQIch0lBaIMhUsQtZqn9udE7TGnqiKKHtA_Fe3GC8AiK2sIrxHwD38i3GT8q0ijUWDjbWtm2iKWz-kEQ4AocR6_p1yLXvrENk7Ml52k5dLvUcE45UuHFBviw9-tA',
+                'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjY2NmJmMmM5OTlhNzhiNTgxMjlmYzdlNiIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNS0wMy0yOVQxMTozMDozOC4zMjU4Mzk4N1oiLCJpYXQiOiIyMDI1LTAyLTI3VDExOjMwOjM4LjMyNTgzOTg3WiIsIm5hbWUiOiJWRyIsImVtYWlsIjoic2Fpbmlwcml5YW5rYTY1NjE0QGdtYWlsLmNvbSIsIm9yZ0lkIjoiIiwiaXNMTVNVc2VyIjpmYWxzZSwicm9sZXMiOiJzdHVkZW50In0.Wn9bPwqR0vvgaXsEz2WpnVKlZPjtAReca5zWLDHw1LrLt7DbgqDwUeQsqLdEBTMV6lsMliERRxFQBdonyu0N6WaFXEusEC_z_CqL5yJPkqJ4hoJUSeuYiQ6RerIySFm3F_BIAQ0W3Uthsfci-YS_F80lHOikum4lwn-TczIKvgw',
+                'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjYzNWJiMzE3N2NjOTJjN2Y3OTNhNGI5MCIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNS0wMy0yMFQwNTo1MTozMS4zMzkyNjUwOTNaIiwiaWF0IjoiMjAyNS0wMi0xOFQwNTo1MTozMS4zMzkyNjUwOTNaIiwib3JnSWQiOiIiLCJpc0xNU1VzZXIiOmZhbHNlLCJyb2xlcyI6InN0dWRlbnQifQ.wEwHinWh3XVo50KkLr6p3zVUyBrjQhxhmL8IipEz1fbG0YyYGaH5lvhriS7XXiLYYQiBeMIN6dDq8ZPDCYBQ4Wktrm-V89diR6X9NuklcKr9x4tAfzTt5QEU6bwbHJQBqH1XTIWA3nK3OlxYBe3eaSy4M0hLyp2nXnzsaiA6eeY',
+                'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjYzYmQzMmRlNDI4NmZlMmM0NmI3OGMyOSIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNS0wMy0xOVQxMDoxNToyNy4wODQxNTE4NzJaIiwiaWF0IjoiMjAyNS0wMi0xN1QxMDoxNToyNy4wODQxNTE4NzJaIiwib3JnSWQiOiIiLCJpc0xNU1VzZXIiOmZhbHNlLCJyb2xlcyI6InN0dWRlbnQifQ.IL81n01VIWgrvyVp92PyIAukmaxSqkUN08o1RwqyYf7yn1FRYUD6wQx1haxzb6XntesLtLCYkQbWmR07nkLy0y1rkdmQTx7cG7oJFG9VImKXh-eGgCcr2Qo2_6NUZFIhYirN43x9em5w1_oGcQWB_RqniHutn4bYi763HC9OYBU',
+                        'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjYyZjg4NDBmODFmNjJmZDc2ZmE0ZTFjZSIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNS0wNC0wNlQwMzo1MjowMS4zNzU5MTEwMjJaIiwiaWF0IjoiMjAyNS0wMy0wN1QwMzo1MjowMS4zNzU5MTEwMjJaIiwibmFtZSI6IktodXNoZGVlZXAiLCJlbWFpbCI6InlvcmFiaWg3NTBAc2ZwaXhlbC5jb20iLCJvcmdJZCI6IiIsImlzTE1TVXNlciI6ZmFsc2UsInJvbGVzIjoic3R1ZGVudCJ9.lW-oiFbe5SWWjBOfejSQcFMaAXYsNLSiMpEPPFK9Ugr9NdknfI8CWQ-JxqCtPJG9K-KxSl3rnAI046hWFHOzvO5DlUyONc8Rdd3fhZsFWErRHFq2C-CxFAgECxJbOoO4Qd1gZdzehg9XOm0YHCsxNwhsMdFajDcMdV9F-TdZn48',
+                                'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjY3Nzc4MDdlY2RmMDZiMzAyZjA0Y2MzMiIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNS0wNC0xMFQwMzo0MDozNy40OTM3MDQ1MzNaIiwiaWF0IjoiMjAyNS0wMy0xMVQwMzo0MDozNy40OTM3MDQ1MzNaIiwibmFtZSI6Ik5pbmRpeWEgU2hhcm1hIiwiZW1haWwiOiJuaW5kaXlhc2hhcm1hOVFAZ21haWwuY29tIiwib3JnSWQiOiIiLCJpc0xNU1VzZXIiOmZhbHNlLCJyb2xlcyI6InN0dWRlbnQifQ.Afbi3BYENaUlQQ_32cZUveeN-bquusT1Ke5RjfVWyrd6ghhZSkDXum7OguV9QJSNmJ8rHUQH4_fSwbhWMAKKj6veMxi23qewkhEI6kXw8-nZT2g_yCAPK6s5CFGBBI1Vu_7Q5emLEaV5G0o1HELtZUM8BC5bxTxJxZpFk7OjKOw'        ]
+            
+            # params = {
+            #     'auth_code':"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Rlc3Rib29rLmNvbSIsInN1YiI6IjViZWE2NTlkNmZmNmZlMjFhNDczZmNkMiIsImF1ZCI6IlRCIiwiZXhwIjoiMjAyNC0wNy0wM1QwNDoxMzoyOC41NjkyODE5ODJaIiwiaWF0IjoiMjAyNC0wNi0wM1QwNDoxMzoyOC41NjkyODE5ODJaIiwibmFtZSI6Imx1Y2t5IiwiZW1haWwiOiJsdWNreXRhbmVqYTk5OUBnbWFpbC5jb20iLCJvcmdJZCI6IiIsImlzTE1TVXNlciI6ZmFsc2UsInJvbGVzIjoic3R1ZGVudCJ9.iCEKSYJmciL8Znd4XaEtU5Wna0v07Y9n1jMxmPKsS7ELtGqfxQhuw196hM_E4blvzoFRMoOcvgO2ZgEXWygHysFP-RJMWGN18Yhzc9g6xQtpZiI6912kgMDU5mnnzm6u31hno5J66rXukLc3bkiyDLQLnXVx8H1-4-Z9LYre0k0"
+            # }
+            for auth in auth_codes:
+                try:
+                    # print(auth)
+                    params = {
+                        'auth_code':auth
+                    }
+                    get_answere_url = f"https://api.testbook.com/api/v2/tests/{test_id}/answers".format(test_id)    
+                    get_questions_url = f"https://api.testbook.com/api/v2/tests/{test_id}".format(test_id)
+                    formatted_questions = {
+                    'questions':[]
+                    }
+                    response = requests.get(get_questions_url, params=params)
+                    # print(response)
+                    # if test is not attempted
+                    #         {
+                    #     "success": false,
+                    #     "message": "You have not completed the test, can not serve solutions.",
+                    #     "curTime": "2024-06-05T11:38:08.758Z"
+                    # }
+                    answers = requests.get(get_answere_url, params=params)
+                    # h = HTMLParser()
+                    abcd = []
+                    questions = response.json()['data']['sections']
+                    for section in questions:
+                        if section['questions'] :
+                            section_name = ""
+                            if 'title' in section:
+                                section_name = section['title']
+                            
+                            for question in section['questions']:
+                                formatted_options = []
+                                question_data = question[language]['value']
+                                if 'comp' in question[language]:
+                                    question_data = question[language]['comp'] + " \n" +question_data
+                                
+                                # print(question_data)
+                                question_id = question['_id']
+                                if("options" in  question[language]):
+                                    for option in question[language]['options']:
+                                        # option = html.unescape(option)
+                                        option = option['value']
+                                        option = convert_special_characters_to_html(option)
+                                        option = BeautifulSoup(option, 'html.parser')
+                                        formatted_options.append(str(option))
+                                else:
+                                    logging.info("question not worked in finding options: "+ str(question[language]['options']))
+                                    continue
+                                if 'data' in answers.json() and 'correctOption' in answers.json()['data'][question_id]:
+                                    answer = answers.json()['data'][question_id]['correctOption']
+                                else:
+                                    logging.info("question not worked in finding data in answer: "+ str(answers.json()['data'][question_id]))
+                                    continue
+                                question = convert_special_characters_to_html(question_data)
+                                answer = convert_special_characters_to_html(answer)
+                                if 'data' in answers.json() and 'sol' in answers.json()['data'][question_id]:
+                                    solution = answers.json()['data'][question_id]['sol'][language]['value']
+                                else:
+                                    logging.info("question not worked in sol: " + str(answers.json()['data'][question_id]))
+                                    continue
+                                solution = convert_special_characters_to_html(solution)
+                                question = BeautifulSoup(question, 'html.parser')
+                                answer = BeautifulSoup(answer, 'html.parser')
+                                solution = BeautifulSoup(solution, 'html.parser')
+                                answer = str(answer)
+                                question = str(question)
+                                solution = str(solution)
+                                  
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\"/>','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/hinglish-image.png\" width=\"26px\"/>','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\"/>','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\"/>','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" style=\"user-select: auto;\" width=\"26px\"/>','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\"/>','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\"/>','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/hint-text-image.png\" width=\"26px\"/>','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\"/>','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" />','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\">','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\">','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\">','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\">','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/mistake-point-image.png\" width=\"26px\">','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/confusion-points-image.png\" width=\"26px\">','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/hint-text-image.png\" style=\"color: rgb(33, 37, 41);\" width=\"26px\">','')
+                                solution = solution.replace('<img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/hint-text-image.png\" width=\"26px\">','')
+                                solution = solution.replace('<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage56.png\">','')
+                                solution = solution.replace('<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage56.png\" style=\"text-align: justify;\">','')
+                                solution = solution.replace('<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/08/601920026219d63b9af13913_16298844340631.png\">','')
+                                solution = solution.replace('<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/09/new_16311073401211.png\">','')
+                                solution = solution.replace('<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage218.png\">','')
+                                solution = solution.replace('<img src=\"//cdn.testbook.com/images/production/quesImage4.png\"/>','<strong>Additional Information</strong>')
+                                solution = solution.replace('<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/09/6017b26a8181d1a29b65ffe4_16322947252551.png\">','')
+                                solution = solution.replace('<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage398.png\" style=\"text-align: justify;\">','')
+                                solution = solution.replace('<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage534.png\">','')
+                                
+                                solution = solution.replace('<span style=\"display: flex;gap: 6px;align-items: center;\"><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Explanation</span></strong>')
+                                solution = solution.replace('<strong><span style=\"vertical-align: middle; font-size: 21px;\"><u>Key Points</u></span></strong>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Explanation</span></strong>')
+                                solution = solution.replace('<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Explanation</span></strong>')
+                                solution = solution.replace('<strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Key Points</u></span></strong>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Explanation</span></strong>')
+                                solution = solution.replace('<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Other Related Points</span></strong>')
+                                solution = solution.replace('<strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Additional Information</u></span></strong>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Other Related Points</span></strong>')
+                                solution = solution.replace('<strong><span style=\"\">Additional Information:</span></strong>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Other Related Points</span></strong>')
+                                
+                                solution = solution.replace('<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Important Points</span></strong>')
+                                solution = solution.replace('<strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Important Points</u></span></strong>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Important Points</span></strong>')
+                                solution = solution.replace('<strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Important Points</u></span></strong>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Important Points</span></strong>')
+                                solution = solution.replace('<strong><span style=\"display: flex;gap: 6px;align-items: center;\"><u style=\"font-size: 21px;\">Important Points</u></span></strong>','<strong><span style=\"vertical-align: middle;font-size: 18px;\">Important Points</span></strong>')
+                                
+                                abcd.append({
+                                    'question':question,
+                                    'options':formatted_options,
+                                    'answer':answer,
+                                    'solution':solution,
+                                    'section':section_name
+                                })
+                                with open('/root/webScrapping/api_result_json/testbook_new.json', 'w') as f:
+                                    # append new json
+                                    json.dump(abcd, f)
+                                  
+                                # Remove mjx container 
+                                question = scrapeExcel(question)
+                                # question = HtmlToRemoveWaterMark(question)
+                                
+                                answer = scrapeExcel(answer)
+                                # answer = HtmlToRemoveWaterMark(answer)
+                                solution = scrapeExcel(solution)
+                                # solution = HtmlToRemoveWaterMark(solution)
+                                for i in range(len(formatted_options)):
+                                    formatted_options[i] = scrapeExcel(formatted_options[i])
+                                    # formatted_options[i] = HtmlToRemoveWaterMark(formatted_options[i])
+                                # remove math tex elment
+                                question = convert_special_characters_to_html(question)
+                                answer = convert_special_characters_to_html(answer)
+                                solution = convert_special_characters_to_html(solution)
+                                question = mathTexToImg(question)
+                                answer = mathTexToImg(answer)
+                                solution = mathTexToImg(solution)
+                                for i in range(len(formatted_options)):
+                                    formatted_options[i] = mathTexToImg(formatted_options[i])
+                                formatted_questions['questions'].append({
+                                    'question':question,
+                                    'options':formatted_options,
+                                    'answer':answer,
+                                    'solution':solution,
+                                    'section_name':section_name
+                                })
+                                print(formatted_questions)
+                    break
+                except Exception as e:
+                    print("error while testbook run :" + str(e))
+                    logging.info("auth code not working where auth code is : "+ str(auth)) 
+                    logging.error(str(e))
+            with open ('/root/webScrapping/api_result_json/testbook.json','w') as f:
+                json.dump(formatted_questions,f) 
+        except Exception as e:
+            print(e)
+            logging.info("Error in getting data from testbook.com with cookie: "+str(e))
+        
     # elif "https://www.dhyeyaias.com" in url:
     #     html_content = requests.get(url).text
     #     soup = BeautifulSoup(html_content, 'html.parser')
@@ -1134,11 +1416,8 @@ def get_base_url(url):
     parsed_url = urlparse(url)
     base_url = f"{parsed_url.scheme}://{parsed_url.netloc}"
     return base_url
-
-def scrape_website(url,website):
-    # Setup Selenium WebDriver
-
-    service = Service(ChromeDriverManager().install())
+def getHTMLfromURL(url):
+    service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
     options = webdriver.ChromeOptions()
     user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
     options.add_argument(f"user-agent={user_agent_string}")
@@ -1154,21 +1433,62 @@ def scrape_website(url,website):
     options.add_argument('--disable-extensions')  # Disable extensions 
 
     
+    logging.info("1")
    
     driver = webdriver.Chrome(service=service, options=options)
 
     driver.get(url)
     
-
     driver.implicitly_wait(10)
     html = driver.execute_script("return document.documentElement.outerHTML")
+    logging.info("2")
+
 
     # Get page source after JavaScript execution
     driver.quit()  # Close the browser
-    if "testbook.com" in url:
-        html_text = excelRun(str(html),True)
+    return html
+
+
+def scrape_website(url,website):
+    # Setup Selenium WebDriver
+
+    # service = Service(ChromeDriverManager().install())
+    service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
+    options = webdriver.ChromeOptions()
+    user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+    options.add_argument(f"user-agent={user_agent_string}")
+    options.add_argument('--headless')  # Run in background
+    options.add_argument("window-size=1400,1500")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--no-sandbox")
+    options.add_argument("start-maximized")
+    options.add_argument("enable-automation")
+    options.add_argument("--disable-infobars")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument('--blink-settings=imagesEnabled=false')  # Disable images
+    options.add_argument('--disable-extensions')  # Disable extensions 
+
+    
+    logging.info("1")
+   
+    driver = webdriver.Chrome(service=service, options=options)
+
+    driver.get(url)
+    
+    driver.implicitly_wait(10)
+    html = driver.execute_script("return document.documentElement.outerHTML")
+    logging.info("2")
+
+    # print(html)
+    # Get page source after JavaScript execution
+    driver.quit()  # Close the browser
+    if "https://99notes.in/" not in url:
+        if "testbook.com" in url:
+            html_text = excelRun(str(html),True)
+        else:
+            html_text = excelRun(str(html))
     else:
-        html_text = excelRun(str(html))
+        html_text = str(html)
     # html_test = convert_latex(str(html))
     # Use BeautifulSoup to parse the HTML content
     if 'www.savemyexams.com/' in url:
@@ -1181,11 +1501,59 @@ def scrape_website(url,website):
         style.extract()
     for nav in soup.find_all('nav'):
         nav.extract()
-    text_list = []
-    
 
+    text_list = []
+    logging.info(website)
+
+    if website == "dataCollection":
+        specific_string_to_remove = "Practice Now"
+        html_text = html_text.replace(specific_string_to_remove, "")
+        specific_string_to_remove = "Download as PDF"
+        html_text = html_text.replace(specific_string_to_remove, "")
+        # Parse the HTML content
+        soup = BeautifulSoup(html_text, 'html.parser')
+        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+        for comment in comments:
+            comment.extract()
+        for style in soup.find_all('style'):
+            style.extract()
+        for nav in soup.find_all('nav'):
+            nav.extract()
+        # cleaned_text = ' '.join(soup.stripped_strings)
+        # soup = BeautifulSoup(str(cleaned_html), 'html.parser')
+        # Find the div with itemprop="articleSection"
+        article_section = soup.find('div', itemprop='articleSection')
+        
+        # Check if the div exists
+        if article_section:
+            # Remove all script and style tags
+            for script_or_style in article_section(['script', 'style']):
+                script_or_style.decompose()
+            for div in article_section.find_all('div', id ="content_questions"):
+                div.decompose()
+            for div in article_section.find_all('img'):
+                div.decompose()
+            for span in article_section.find_all('span', attrs={'fr-original-class': 'fr-inner'}):
+                span.decompose()
+            # Loop through all elements and remove their attributes
+            for tag in article_section.find_all(True):  # True finds all tags
+                tag.attrs = {}  # Remove all attributes
+            
+            # Get the cleaned HTML content as text
+            # Remove empty tags
+            for tag in article_section.find_all():
+                # Strip tag's contents and check if empty
+                if not tag.text.strip():
+                    tag.decompose()
+            clean_content = article_section.prettify()
+            logging.info(clean_content)
+            return clean_content
+        else:
+            print("No <div itemprop='articleSection'> found on the page.")
+        return ""
     if  website == "edurev":
         try:
+            # print(soup)
             ads = soup.find_all('div', class_='cnt_ad_bnr')
             for ad in ads:
                 ad.extract()
@@ -1204,6 +1572,14 @@ def scrape_website(url,website):
             questions = soup.find_all('div', class_='ed_question')
             for ques in questions:
                 ques.extract()
+            for parent_span in soup.find_all('span', attrs={"fr-original-class": "fr-img-wrap"}):
+                spans = parent_span.find('span', attrs={"fr-original-class": "fr-inner"})
+                if spans:
+                    spans.decompose()  # Remove the nested span from the HTML
+            for parent_div in soup.find_all('div', class_="clearalldoubts"):
+                parent_div.decompose()
+            
+            
             # ads = soup.find_all('div', class_='ER_Model_dnwldapp')
             # for ad in ads:
             #     ad.extract()
@@ -1213,6 +1589,7 @@ def scrape_website(url,website):
             html = str(body_content)
             # Use BeautifulSoup to parse the HTML content
             # print(html)
+            return createSeperatorUsingHtml(html)
             soup = BeautifulSoup(html, 'html.parser')
 
             # Extract text from each tag while maintaining the order
@@ -1229,10 +1606,15 @@ def scrape_website(url,website):
             # try:
             # if (h2_tags > 4):
             for tag in soup.descendants:
-                if tag.name in ['p','img','strong', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6']:
+                if tag.name in ['p','img', 'h1', 'h2', 'h3', 'tr', 'td' 'h4', 'h5', 'h6']:
                     # print(tag)
-                    if tag.name == 'img':
-                       
+                    if tag.name == 'img' :
+                        # print("IMAGE TAGS ",tag)
+                        # get data-src attribute in tag if present and then put it in src attribute 
+                        if tag.get('data-src'):
+                            tag['src'] = tag['data-src']
+                            
+
                         text = str(tag)
                         text_list.append(text)
                     else:
@@ -1243,9 +1625,13 @@ def scrape_website(url,website):
                             text = re.sub(r'\s+', ' ', text)
                             processed_texts.add(text)
                             text = "<"+tag.name+">"+text+"</"+tag.name+">"
+                            if tag.name == 'p':
+                                # Check if the <p> tag contains only a <strong> tag
+                                if len(tag.contents) == 1 and tag.contents[0].name == 'strong':
+                                    # Append the strong text as it is
+                                    text = str(tag)
+                                
                             previous_content_length+=len(text)
-                            # if(tag.name == 'h2'):
-                            #     print(tag)
                             if (tag.name == 'h2' and previous_content_length > 700):
                                 text = "\n ********** \n"+text
                                 previous_content_length = 0 
@@ -1254,37 +1640,94 @@ def scrape_website(url,website):
                                 text = "\n ********** \n" + text
                                 previous_content_length =0 
                                 first = False
-                            elif(tag.name == 'p' and previous_content_length >2000):
+                            elif(tag.name == 'p' and previous_content_length >2500):
                                 text = text+"\n ********** \n"
                                 previous_content_length =0 
                                 first = False
+                            
                             text_list.append(text)
                             if (tag.name == 'h2'):
                                 text_list.append("\n ")
-                elif tag.name == 'ul':
-                    # Process 'ul' elements and add their id to the processed_uls set
-                    text = tag.get_text()
-                    if text and text not in processed_texts:
-                        text = re.sub(r'\s+', ' ', text)
-                        processed_texts.add(text)
-                        previous_content_length+=len(text)
-                        processed_uls.add(id(tag))  # Track that this 'ul' has been processed
-                        if(tag.name == 'ul' and previous_content_length >1500):
-                                text = text+"\n ********** \n"
-                                previous_content_length =0 
+                elif tag.name == 'ul' and id(tag) not in processed_uls:
+                    # Track the processed <ul> to avoid duplicates
+                    processed_uls.add(id(tag))
+                    ul_content = []
+                    for li in tag.find_all('li'):
+                        li_text = li.get_text(strip=True)
+                        if li_text not in processed_texts:
+                            processed_texts.add(li_text)
+                            if 'style' in li.attrs:
+                                del li.attrs['style']  # Remove inline styles
+                            ul_content.append(str(li))
+                    if ul_content:  # Add the <ul> only if it has content
+                        ul_html = f"<ul>{''.join(ul_content)}</ul>"
+                        if ul_html not in processed_texts:  # Avoid duplicates
+                            processed_texts.add(ul_html)
+                            previous_content_length += len(ul_html)
+                            if previous_content_length > 1500:
+                                ul_html = ul_html+"\n ********** \n"
+                                previous_content_length = 0
                                 first = False
-                        text_list.append(f"<ul>{text}</ul>")
-                elif tag.name == 'li':
-                    # Only process 'li' elements if their parent 'ul' hasn't been processed
-                    if id(tag.find_parent('ul')) not in processed_uls:
-                        text = tag.get_text()
-                        if text and text not in processed_texts:
-                            text = re.sub(r'\s+', ' ', text)
-                            processed_texts.add(text)
-                            previous_content_length+=len(text)
-                            processed_uls.add(id(tag))  # Track that this 'ul' has been processed
-                            
-                            text_list.append(f"<li>{text}</li>")
+                            text_list.append(ul_html)
+                    
+                elif tag.name == 'ol' and id(tag) not in processed_uls:
+                    # Process <ol> tags similarly to <ul>
+                    processed_uls.add(id(tag))
+                    ol_content = []
+                    for li in tag.find_all('li'):
+                        li_text = li.get_text(strip=True)
+                        if li_text not in processed_texts:
+                            processed_texts.add(li_text)
+                            if 'style' in li.attrs:
+                                del li.attrs['style']  # Remove inline styles
+                            ol_content.append(str(li))
+                    if ol_content:  # Add the <ol> only if it has content
+                        ol_html = f"<ol>{''.join(ol_content)}</ol>"
+                        if ol_html not in processed_texts:  # Avoid duplicates
+                            processed_texts.add(ol_html)
+                            previous_content_length += len(ol_html)
+                            if previous_content_length > 1500:
+                                ol_html = ol_html+"\n ********** \n"
+                                previous_content_length = 0
+                                first = False
+                            text_list.append(ol_html)
+                    
+                # elif tag.name == 'ul':
+                #     ul_content = []
+                #     for li in tag.find_all('li'):
+                #         li_text = li.get_text(strip=True)
+                #         if li_text not in processed_texts:
+                #             processed_texts.add(li_text)
+                #             # remove all inline style from li tag 
+                #             if 'style' in li.attrs:
+                #                 del li.attrs['style']
+                #             ul_content.append(str(li))
+                #     if ul_content:  # Only add non-empty <ul>
+                #         ul_html = f"<ul>{''.join(ul_content)}</ul>"
+                #         previous_content_length += len(ul_html)
+                #     if previous_content_length > 1500:
+                #         ul_html = ul_html+"\n ********** \n"
+                #         previous_content_length = 0
+                #         first = False
+                #     text_list.append(ul_html)
+                # elif tag.name == 'ol':
+                #     ul_content = []
+                #     for li in tag.find_all('li'):
+                #         li_text = li.get_text(strip=True)
+                #         if li_text not in processed_texts:
+                #             processed_texts.add(li_text)
+                #             if 'style' in li.attrs:
+                #                 del li.attrs['style']
+                #             ul_content.append(str(li))
+                #     if ul_content:  # Only add non-empty <ul>
+                #         ul_html = f"<ol>{''.join(ul_content)}</ol>"
+                #         previous_content_length += len(ul_html)
+                #     if previous_content_length > 1500:
+                #         ul_html = ul_html+"\n ********** \n"
+                #         previous_content_length = 0
+                #         first = False
+                #     text_list.append(ul_html)
+                
                 elif tag.name == 'span':
                     # Only process 'li' elements if their parent 'ul' hasn't been processed
                     if id(tag.find_parent('ul')) not in processed_uls:
@@ -1294,8 +1737,8 @@ def scrape_website(url,website):
                             processed_texts.add(text)
                             previous_content_length+=len(text)
                             processed_uls.add(id(tag))  # Track that this 'ul' has been processed
-                            
                             text_list.append(f"<span>{text}</span>")
+
                         
         except Exception as e:
             print(e)
@@ -1403,6 +1846,139 @@ def scrape_website(url,website):
                                 text_list.append("\n ")
         except Exception as e:
             print(e)
+    elif 'https://99notes.in/' in url :
+        output = ""
+        
+        soup = soup.find('div', class_='entry-content single-content')
+        for tag in soup.descendants:
+            if tag.name in ['p','ul','img', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6','figure']:
+                text = tag.get_text()
+                if tag.name == 'figure':
+                    for child in tag.find_all(True):
+                        child.attrs = {}
+                    text = str(tag)
+                else:
+                    text = str(tag)
+                output+=text
+        
+        outputSepJSON = createSepLocal(output)
+        # outputSepJSON = json.loads(outputSepJSON)
+        res = outputSepJSON['data']
+        # outputs = output.split('**********')
+        # res =""
+        # for out in outputs:
+        #     res += getGPTResponse(out,1,1,False)
+        return res
+    elif "www.drishtiias.com" in url:
+            # decompose all fa-star span
+            span_elements = soup.find_all('span', class_="fa-star")
+            for span in span_elements:
+                span.decompose()
+            tags_new = soup.find_all('div', class_="tags-new")
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('div', class_ ="border-bg")
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('div', class_ ="social-shares02")
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('div', class_ ="next-post")
+            for tag in tags_new:
+                tag.decompose()
+            comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+            for comment in comments:
+                comment.extract()
+            tags_new = soup.find_all('style')
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('ul', class_="actions")
+            for tag in tags_new:
+                tag.decompose()
+            main_content = soup.find('div', class_="article-detail")
+            result = ""
+            # processed_texts = set()
+            for child in main_content.descendants:
+                if child.name == "img":
+                    result += str(child) + "\n"
+                if child.string and child.string.strip() and child.string.strip() not in result:
+                    result += child.string.strip() + "\n"
+            
+            return result
+    elif "https://www.legacyias.com/" in url:
+           
+            main_content = soup.find(attrs={"data-elementor-type": "wp-post"})
+            processed_texts = set()
+            processed_uls = set()  # Track processed 'ul' elements
+
+            first = True
+            h2_tags = 0
+            count_p = 0
+            previous_content_length = 0
+            for tag in main_content.descendants:
+                if tag.name in ['h2']:
+                    h2_tags += 1
+            result = ""
+            
+            for tag in main_content.descendants:
+                if tag.name == "img":
+                    result += str(tag) + "\n"
+                if tag.name in ['p','ul', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6','figure']:
+                    text = tag.get_text()
+                    if text and text not in processed_texts:
+                        # Remove extra spaces using regex
+                        text = re.sub(r'\s+', ' ', text)
+                        processed_texts.add(text)
+                        text = "<"+tag.name+">"+text+"</"+tag.name+">"
+                        previous_content_length+=len(text)
+                        # if(tag.name == 'h2'):
+                        #     print(tag)
+                        if (tag.name == 'h2' and previous_content_length > 700):
+                            text = "\n ********** \n"+text
+                            previous_content_length = 0 
+                        
+                        elif(tag.name == 'h3' and previous_content_length >1500):
+                            text = "\n ********** \n" + text
+                            previous_content_length =0 
+                            first = False
+                        elif(tag.name == 'p' and previous_content_length >2500):
+                            text = text+"\n ********** \n"
+                            previous_content_length =0 
+                            first = False
+                        text_list.append(text)
+                        if (tag.name == 'h2'):
+                            text_list.append("\n ")
+                elif tag.name == 'ul':
+                    # Process 'ul' elements and add their id to the processed_uls set
+                    text = tag.get_text()
+                    if text and text not in processed_texts:
+
+                        text = re.sub(r'\s+', ' ', text)
+                        processed_texts.add(text)
+                        previous_content_length+=len(text)
+                        text = "<ul>"+text+"</ul>"
+                        processed_uls.add(id(tag))  # Track that this 'ul' has been processed
+                        if(tag.name == 'ul' and previous_content_length >1500):
+                                text = text+"\n ********** \n"
+                                previous_content_length =0 
+                                first = False
+                        text_list.append(f"{text}")
+                elif tag.name == 'li':
+                    # Only process 'li' elements if their parent 'ul' hasn't been processed
+                    if id(tag.find_parent('ul')) not in processed_uls:
+                        text = tag.get_text()
+                        if text and text not in processed_texts:
+                            text = re.sub(r'\s+', ' ', text)
+                            # processed_texts.add(text)
+                            previous_content_length+=len(text)
+                            processed_uls.add(id(tag))  # Track that this 'ul' has been processed
+                            
+                            text_list.append(f"<li>{text}</li>")
+                # if child.string and child.string.strip() and child.string.strip() not in result:
+                #     result += child.string.strip() + "\n"
+            
+            # return result
+                                     
     elif 'https://www.studyrankers.com/' in url :
         text_list =[]
         div_elements = soup.find_all('div', class_='post-body')
@@ -1454,6 +2030,7 @@ def scrape_website(url,website):
             'faqWrapper_last',
             'hashover-form-section',
             'comments',
+            
 
             
         ]
@@ -1528,7 +2105,8 @@ def scrape_website(url,website):
             'share-lesson',
             'popular-tips iot-widget',
             'footer-content',
-            'footerexamswrap'
+            'footerexamswrap',
+            'jss3'
 
         ]
         
@@ -1612,7 +2190,11 @@ def scrape_website(url,website):
 
         # Write the body content to the output file
         html = body_content
+        return createSeperatorUsingHtml(html)
+        # "herechange"
         # Use BeautifulSoup to parse the HTML content
+        # with open('/root/webScrapping/test.html', 'w') as file:
+        #     file.write(html)
         soup = BeautifulSoup(html, 'html.parser')
         # Extract text from each tag while maintaining the order
         text_list = []
@@ -1627,8 +2209,8 @@ def scrape_website(url,website):
         # try:
         # if (h2_tags > 4):
         for tag in soup.descendants:
-            if tag.name in ['p','img','strong', 'h1', 'h2', 'h3', 'span','tr', 'td' 'h4', 'h5', 'h6',  'ul', 'li']:
-                if tag.name == 'img':
+            if tag.name in ['p','img','strong', 'h1', 'h2', 'h3', 'span','tr', 'td', 'h4', 'h5', 'h6',  'ul', 'li','ol']:
+                if tag.name == 'img' and 'src' in tag.attrs:
                     image_url = tag['src']
                     
                     text = str(tag)
@@ -1636,7 +2218,9 @@ def scrape_website(url,website):
                     text_list.append(text)
                 else:
                     text = tag.get_text()
-                    
+                    # if tag.name == "h4":
+                    #     logging.info("H4 TAGS : "+text)
+                    #     print("IsProcessed : ",text in processed_texts)
                     if text and text not in processed_texts:
                         # Remove extra spaces using regex
                         text = re.sub(r'\s+', ' ', text)
@@ -1667,8 +2251,18 @@ def scrape_website(url,website):
                         
     # print()
     result = ""
-    for text in text_list:
-        result += text + '\n'
+    try:
+
+        for text in text_list:
+            soup = BeautifulSoup(text, "html.parser")
+        
+            # Iterate through all tags in the parsed HTML
+            for tag in soup.find_all(True):  # `True` finds all tags
+                if (tag.name == 'li' or tag.name == 'strong' or tag.name == 'ul' or tag.name == 'ol')  and 'style' in tag.attrs:
+                    del tag.attrs['style']  # Remove style attribute for non-span tags
+            result += str(soup)
+    except Exception as e:
+        print(str(e))
     # print(result)
     result = re.sub(r'\n+', '', result)
     result_in_parts = result.split("**********")
@@ -1685,11 +2279,467 @@ def scrape_website(url,website):
                 else:
 
                     output += "\n ********** \n"+text
-
+    # logging.info("Sending /Scrape Response : ======> "+output)
     return output
     
     # except Exception as e:
     #     print(e)
+def createSeperatorUsingHtml(data):
+    data = data.replace('+', '__PLUS__')
+    data = data.replace("<h7", "<h2")
+    data = data.replace("</h7", "</h2")
+    data = data.replace("<h8", "<h3")
+    data = data.replace("</h8", "</h3")
+    soup = BeautifulSoup(data, 'html.parser')
+    startingText = []
+    endingText = []
+    allBrTags = soup.find_all('br')
+    for brTag in allBrTags:
+        brTag.replace_with(" ")
+    for tag in soup.find_all(True):  # True fetches all tags
+        if 'style' in tag.attrs:  # Check if the tag has a 'style' attribute
+            if tag.name not in ['span', 'img']:  # Exclude 'span' and 'img' tags
+                del tag.attrs['style']  # Remove the 'style' attribute
+    for tag in soup.find_all(class_ ="span"):  # True fetches all tags
+        if(tag.get('class') and 'fr-inner' in tag.get('class')):
+            continue
+        #if tag class is fr-new then add as it is 
+        if tag.get('class') and ('fr-img-caption' in tag.get('class') or 'fr-video' in tag.get('class')):
+            if 'style' in tag.attrs:  # Check if the tag has a 'style' attribute
+                style_content = tag['style']
+                # Split the style into individual properties
+                style_properties = [prop.strip() for prop in style_content.split(';') if prop.strip()]
+                
+                # Filter the properties to keep only display and cursor
+                filtered_styles = [
+                    prop for prop in style_properties 
+                    if prop.startswith('display:') or prop.startswith('cursor:') or  prop.startswith('line-height') or prop.startswith('font-size') or prop.startswith('color') or prop.startswith('text-align') or prop.startswith('margin') or  # Matches margin, margin-right, etc.
+                    prop.startswith('padding') or  # Matches padding, padding-top, etc.
+                    prop.startswith('height:') or
+                    prop.startswith('width:')
+                ]
+                
+                # Reassemble the style string and set it back
+                if filtered_styles:
+                    tag['style'] = '; '.join(filtered_styles)
+                else:
+                    del tag['style']  # Remove style if nothing remains
+                
+    endingText =[]
+    startingText = []
+    processed_texts = set()
+    previous_content_length = 0
+    first = True
+    output = ""
+    startingTag = True
+    endingTag = False
+    
+    processed_uls = set()  
+    ul_content= []
+    text_list = []
+    processed_img_urls = set()
+    rawText = ""
+    processed_texts = set()
+    processed_uls = set()  # Track processed 'ul' elements
+
+    first = True
+    h2_tags = 0
+    count_p = 0
+    previous_content_length = 0
+    for tag in soup.descendants:
+        if tag.name in ['h2']:
+            h2_tags += 1
+    try:
+
+        if soup.find_all('div') or soup.find_all("p"):
+            for tag in soup.descendants:
+                if tag.name in ['p', 'img','strong', 'span', 'h1', 'h2', 'h3','table', 'h4', 'h5', 'h6','h7','h8']:
+                    
+                    if tag.name == 'table':
+                    # Remove inline CSS and attributes from the table and its descendants
+                        tag.attrs = {}
+                        for element in tag.find_all(True):  # True fetches all child tags
+                            if 'style' in element.attrs:
+                                del element.attrs['style']  # Remove inline CSS
+                            # Optionally remove other attributes if needed
+                            element.attrs = {key: value for key, value in element.attrs.items() if key != 'style'}
+                        
+                        # Get the updated full HTML of the table
+                        table_html = str(tag)
+                        previous_content_length += len(table_html)
+                        text_list.append(table_html)  # Add the cleaned table HTML to the text list
+                        processed_texts.add(table_html)
+                        # Skip processing further descendants of this table
+                        continue
+                    if tag.name == 'p' :
+                        # Check if the <p> tag contains only a <strong> tag
+                        text = str(tag)
+                        if '<h2' in text or '<h3' in text or '<h7' in text or '<h8' in text:
+                            continue
+                        if 'fr-img-caption' in text or 'fr-video' in text:
+                            continue
+                        span_elements = tag.find_all('span', recursive=False)
+                        
+                        # Check if there is exactly one <span> inside the <p> tag
+                        if len(span_elements) == 1:
+                            span = span_elements[0]
+                            
+                            # Check if the <span> contains an <img> tag
+                            if span.find('img') and 'edurev.gumlet.io/ApplicationImages/Temp' in span.find('img').get('src'):
+                                continue
+
+                        
+                    if tag.name == 'span':
+                        if(tag.get('class') and 'fr-inner' in tag.get('class')):
+                            continue
+                        #if tag class is fr-new then add as it is 
+                        if tag.get('class') and ('fr-img-caption' in tag.get('class') or 'fr-video' in tag.get('class')):
+                            text = str(tag)
+                            text_list.append(text)
+                            previous_content_length += len(text)
+                            processed_texts.add(text)
+                            for img_tag in tag.find_all('img'):
+                                img_text = str(img_tag)
+                                processed_texts.add(img_text)
+                                processed_img_urls.add(img_tag['src'])
+                            # tag.extract()
+                            continue
+                        else:
+                            img = tag.find('img')
+                            img_url = img.get('src') if img else None
+                            if img and img_url not in processed_img_urls:
+                                if 'edurev.gumlet.io/ApplicationImages/Temp' in img['src']:
+                                    text = str(tag)
+                                    text_list.append(text)
+                                    previous_content_length += len(text)
+                                    processed_texts.add(text)
+                                    for img_tag in tag.find_all('img'):
+                                        img_text = str(img_tag)
+                                        processed_texts.add(img_text)
+                                        processed_img_urls.add(img_tag['src'])
+                                    # tag.extract()
+                                    continue
+                        
+                    elif tag.name == 'img':
+                        if str(tag) not in processed_texts:
+                            text = str(tag)
+                            processed_texts.add(text)
+                            text_list.append(text)
+
+                    else:
+                        if tag.name == 'p':
+                            strong_tags = tag.find_all('strong')
+                            if len(strong_tags) == 1 and tag.get_text(strip=True) == strong_tags[0].get_text(strip=True):
+                                text = str(tag)
+                                # tag.extract()
+                            else:
+                                text = tag.get_text()
+                        else:
+                            text = tag.get_text()
+                        if text and (checkExisting(text, processed_texts) or  text == 'Ans.' ) == False:
+                            text = re.sub(r'\s+', ' ', text)  # Clean up extra spaces
+                            processed_texts.add(text)
+                            rawText = text  # Save the raw text before HTML wrapping
+                            text = "<" + tag.name + ">" + text + "</" + tag.name + ">"  # Wrap in HTML tag
+
+                            # Update content length tracker
+                            previous_content_length += len(text)
+
+                            # Insert `**********` based on content length and tag type
+                            if (tag.name == 'h2' or tag.name == "h3" or tag.name == 'h7' or tag.name == 'h8' ) and previous_content_length > 500:
+                                text = str(tag)
+                                if endingTag:  # If endingTag is True, store in endingText
+                                    endingText.append(rawText)
+                                startingTag = True
+                                endingTag = False  # This block marks the transition
+                                next_tag = tag.find_next()  # Find the next sibling
+                                if next_tag and next_tag.name == 'p':
+                                    span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                    if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                        question_text = next_tag.get_text(strip=True)
+                                        text += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                        processed_texts.add(question_text)
+                                        next_tag.extract()  # Remove the <p> tag from the soup
+                                text = "\n ********** \n" + text
+                                previous_content_length = 0
+
+                            elif tag.name == 'p' and previous_content_length > 5000:
+                                if endingTag:  # If endingTag is True, store in endingText
+                                    endingText.append(rawText)
+                                startingTag = True
+                                endingTag = False  # This block marks the transition
+                                next_tag = tag.find_next()  # Find the next sibling
+                                while next_tag:
+                                    if next_tag.name == 'strong':  # If the next tag is <strong>, check the next sibling
+                                        next_tag_ = next_tag.find_next()
+                                        next_tag.extract()  # Remove the <p> tag from the soup
+                                        next_tag = next_tag_
+                                    elif next_tag.name == 'p':  # If the next tag is <p>, check for the question text
+                                        span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                        if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                            question_text = next_tag.get_text(strip=True)
+                                            text += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                            processed_texts.add(question_text)
+                                            next_tag.extract()  # Remove the <p> tag from the soup
+                                            break
+                                        else:
+                                            next_tag = next_tag.find_next()
+                                    else:
+                                        break
+                                        # next_tag = next_tag.find_next()
+                                    
+                                text += "\n ********** \n"
+                                previous_content_length = 0
+                                first = False
+
+                            # If it's a starting tag, add to `startingText`
+                            if startingTag:
+                                if not endingTag:
+                                    startingText.append(rawText)
+                                    endingTag = True  # Set endingTag to True
+                                    startingTag = False  # Reset startingTag
+
+                            text_list.append(text)
+                        elif text and (text == 'Ans.' ) == True:
+                            text = re.sub(r'\s+', ' ', text)
+                            processed_texts.add(text)
+                            rawText = text  # Save the raw text before HTML wrapping
+                            text = "<" + tag.name + ">" + text + "</" + tag.name + ">"  # Wrap in HTML tag
+
+                            # Update content length tracker
+                            previous_content_length += len(text)
+
+                            # Insert `**********` based on content length and tag type
+                            if (tag.name == 'h2' or tag.name == "h3" or tag.name == 'h7' or tag.name == 'h8'  ) and previous_content_length > 500:
+                                if endingTag:  # If endingTag is True, store in endingText
+                                    endingText.append(rawText)
+                                startingTag = True
+                                endingTag = False  # This block marks the transition
+                                next_tag = tag.find_next()  # Find the next sibling
+
+                                if next_tag and next_tag.name == 'p':
+                                    span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                    if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                        question_text = next_tag.get_text(strip=True)
+                                        text += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                        processed_texts.add(question_text)
+                                        next_tag.extract()  # Remove the <p> tag from the soup
+                                text = "\n ********** \n" + text
+                                previous_content_length = 0
+
+                            elif tag.name == 'p' and previous_content_length > 5000:
+                                if endingTag:  # If endingTag is True, store in endingText
+                                    endingText.append(rawText)
+                                startingTag = True
+                                endingTag = False  # This block marks the transition
+                                next_tag = tag.find_next()  # Find the next sibling
+                                while next_tag:
+                                    if next_tag.name == 'strong':  # If the next tag is <strong>, check the next sibling
+                                        next_tag_ = next_tag.find_next()
+                                        next_tag.extract()  # Remove the <p> tag from the soup
+                                        next_tag = next_tag_
+                                    elif next_tag.name == 'p':  # If the next tag is <p>, check for the question text
+                                        span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                        if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                            question_text = next_tag.get_text(strip=True)
+                                            text += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                            processed_texts.add(question_text)
+                                            next_tag.extract()  # Remove the <p> tag from the soup
+                                            break  
+                                        else:
+                                            next_tag = next_tag.find_next()
+                                    else:
+                                        break
+                                    
+                                    
+                                text = text + "\n ********** \n"
+                                previous_content_length = 0
+                                first = False
+
+                            # If it's a starting tag, add to `startingText`
+                            if startingTag:
+                                if not endingTag:
+                                    startingText.append(rawText)
+                                    endingTag = True  # Set endingTag to True
+                                    startingTag = False  # Reset startingTag
+
+                            text_list.append(text)
+                        else:
+                            processed_texts.add(str(tag))  # Mark the tag as processed
+
+                        # Add delimiter for specific tags
+                        if tag.name == 'h2' or tag.name == "h3":
+                            text_list.append("\n ")
+                elif tag.name == 'ol' and id(tag) not in processed_uls:
+                    # Process <ol> tags similarly to <ul>
+                    processed_uls.add(id(tag))
+                    ol_content = []
+                    for li in tag.find_all('li'):
+                        li_text = li.get_text(strip=True)
+                        if li_text not in processed_texts:
+                            processed_texts.add(li_text)
+                            if 'style' in li.attrs:
+                                del li.attrs['style']  # Remove inline styles
+                            ol_content.append(str(li))
+                            li.extract()
+                    if ol_content:  # Add the <ol> only if it has content
+                        ol_html = f"<ol>{''.join(ol_content)}</ol>"
+                        if ol_html not in processed_texts:  # Avoid duplicates
+                            processed_texts.add(ol_html)
+                            previous_content_length += len(ol_html)
+                            if previous_content_length > 5000:
+                                next_tag = tag.find_next()  # Find the next sibling
+                                if next_tag and next_tag.name == 'p':
+                                    span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                    if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                        question_text = next_tag.get_text(strip=True)
+                                        ol_html += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                        processed_texts.add(question_text)
+                                        next_tag.extract()  # Remove the <p> tag from the soup
+                                                                        # Check for <span> or <img> tags
+                                    span_or_img = next_tag.find(lambda t: 
+                                                                    (t.name == 'span' and 
+                                                                    t.get('class') and 
+                                                                    ('fr-img-caption' in t.get('class'))) or 
+                                                                    t.name == 'img')  # Check for <span> or <img>
+                                    if span_or_img:
+                                        if span_or_img.name == 'span':  # Handle <span> tags
+                                            span_text = str(span_or_img)
+                                            ol_html += f"\n{span_text}"  # Append the <span> content
+                                            processed_texts.add(span_text)
+                                        elif span_or_img.name == 'img':  # Handle <img> tags
+                                            img_text = str(span_or_img)
+                                            ol_html += f"\n{img_text}"  # Append the <img> content
+                                            processed_texts.add(img_text)
+                                        next_tag.extract()  # Remove the tag from the soup
+                                                
+                                ol_html = ol_html+"\n ********** \n"
+                                previous_content_length = 0
+                                first = False
+                                startingTag = True
+                                endingTag = False  
+                            text_list.append(ol_html)
+                            
+                    if startingTag:
+                        if not endingTag:
+                            startingText.append(rawText)
+                            endingTag = True  # Set endingTag to True
+                            startingTag = False  # Reset startingTag
+                elif tag.name == 'ul' and id(tag) not in processed_uls:
+                        # Track the processed <ul> to avoid duplicates
+                        processed_uls.add(id(tag))
+                        ul_content = []
+                        for li in tag.find_all('li'):
+                            li_text = li.get_text(strip=True)
+                            if li_text not in processed_texts:
+                                processed_texts.add(li_text)
+                                if 'style' in li.attrs:
+                                    del li.attrs['style']  # Remove inline styles
+                                
+                                ul_content.append(str(li))
+                                li.extract()
+
+                        if ul_content:  # Add the <ul> only if it has content
+                            ul_html = f"<ul>{''.join(ul_content)}</ul>"
+                            if ul_html not in processed_texts:  # Avoid duplicates
+                                processed_texts.add(ul_html)
+                                previous_content_length += len(ul_html)
+                                if previous_content_length > 5000:
+                                    next_tag = tag.find_next()  # Find the next sibling
+                                    if next_tag and next_tag.name == 'p':
+                                        span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                        if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                            question_text = next_tag.get_text(strip=True)
+                                            ul_html += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                            processed_texts.add(question_text)
+                                            next_tag.extract()  # Remove the <p> tag from the soup
+                                        # Check for <span> or <img> tags
+                                        span_or_img = next_tag.find(lambda t: 
+                                                                    (t.name == 'span' and 
+                                                                    t.get('class') and 
+                                                                    ('fr-img-caption' in t.get('class'))) or 
+                                                                    t.name == 'img')  # Check for <span> or <img>
+                                        if span_or_img:
+                                            if span_or_img.name == 'span':  # Handle <span> tags
+                                                span_text = str(span_or_img)
+                                                ul_html += f"\n{span_text}"  # Append the <span> content
+                                                processed_texts.add(span_text)
+                                            elif span_or_img.name == 'img':  # Handle <img> tags
+                                                img_text = str(span_or_img)
+                                                ul_html += f"\n{img_text}"  # Append the <img> content
+                                                processed_texts.add(img_text)
+                                            next_tag.extract()  # Remove the tag from the soup
+                                                
+                                        
+                                    ul_html = ul_html+"\n ********** \n"
+                                    previous_content_length = 0
+                                    first = False
+                                    startingTag = True
+                                    endingTag = False  
+                                text_list.append(ul_html)
+                        if startingTag:
+                            if not endingTag:
+                                startingText.append(rawText)
+                                endingTag = True  # Set endingTag to True
+                                startingTag = False  # Reset startingTag
+            result = ""
+            for text in text_list:
+                result += text + '\n'
+            # replace any double space from the result using regex
+            # result = re.sub(r'\s+', ' ', result).strip()
+            
+            # print(result)
+            result = re.sub(r'\n+', '', result)
+            result_in_parts = result.split("**********")
+            first = True
+            for text in result_in_parts:
+                if (len(text) != 0):
+                    if (first):
+                        first = False
+                        output += text
+                    else:
+                        if (len(text) < 100):
+                            output += text
+                        else:
+
+                            output += "\n ********** \n"+text
+        else:
+            # this case is when the text only contains text we need to add separator after 1500 characters plus a fullstop 
+            max_length = 1500
+            text = data
+            while len(text) > max_length:
+                # Find the position of the next full stop after max_length
+                end_pos = text[max_length:].find('.')
+                
+                if end_pos != -1:
+                    # Adjust end_pos to be the position in the original text
+                    end_pos += max_length + 1
+                else:
+                    # If no full stop is found, look for the next space
+                    end_pos = text[max_length:].find(' ')
+                    if end_pos != -1:
+                        end_pos += max_length
+                    else:
+                        # If no space is found, set to max_length
+                        end_pos = max_length
+
+                output += text[:end_pos] + "**********"
+                text = text[end_pos:]
+                
+            output += text
+    except Exception as e:
+        print(str(e))
+        output = ""
+    # logging.info("INFO :::::::::::::::::::::::: BEFORE OUTPUT Tag: " + output)
+
+    output = output.replace('__PLUS__', '+')
+    logging.info("INFO :::::::::::::::::::::::: OUTPUT Tag: " + output)
+    output = output.replace("<h7>", "<h2>")
+    output = output.replace("</h7>", "</h2>")
+    output = output.replace("<h8>", "<h3>")
+    output = output.replace("</h8>", "</h3>")
+    # print(output)
+    return output
 def scrapeExcel(text, quizrr = False):
     # Setup Selenium WebDriver
     # latex to image 
@@ -1710,6 +2760,7 @@ def mathTexToImg(text):
 def scrape():
     data = request.json
     url = data.get('url')
+    
     # url = "view-source:"+url
     print(url)
 
@@ -1719,19 +2770,55 @@ def scrape():
     try:
         # edurev = False
         website = ""
+        
         # geeksforgeeks = False
         if "edurev.in" in url:
             website = "edurev"
+        if "touchpoint" in data:
+            website = data.get('touchpoint')
         if "geeksforgeeks.org" in url:
             # geeksforgeeks = True
             website = "geeksforgeeks"
         output_text = scrape_website(url,website)
+        print(output_text)
         return jsonify({'content': output_text}), 200
     except Exception as e:
         print(e)
         return jsonify({'content': "Error: "+str(e)}), 500
+
+@app.route('/collect/data', methods=['POST'])
+def collect_data():
+    data = request.json
+    input_value = data.get('input')
+    prompt_value = data.get('prompt')
+    if prompt_value == "":
+        prompt_value = ""   
+    output_value = data.get('output')
+
+    # Define the CSV file path
+    file_path = "/root/webScrapping/dataSet.csv"
+
+    # Check if the file exists
+    file_exists = os.path.isfile(file_path)
+    try:
+        # Open the CSV file in append mode
+        with open(file_path, mode='a', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file)
+            
+            # If the file does not exist, write the header first
+            if not file_exists:
+                writer.writerow(["Input","Prompt", "Output"])
+            
+            # Write the data
+            writer.writerow([input_value,prompt_value, output_value])
+        
+        return jsonify({"message": "Data saved successfully!"})
+    except Exception as e:
+        print(str(e))
+        return jsonify({"message": "some error occured: " +str(e)}), 500
+
 def sendQuestionsToP1( quizId, quizGuid, formatted_questions, marks, negMarks):
-    api_to_send_questions = "https://p1.edurev.in/Tools/PDF_TO_QuizQuestions_Automation"
+    api_to_send_questions = "https://er.edurev.in/Tools/PDF_TO_QuizQuestions_Automation"
     logging.info("INFO : sending questions to this api : " + api_to_send_questions)
     res = {
             "quizId": quizId,
@@ -1818,7 +2905,7 @@ def csvToTest():
         # response = requests.post(api_to_send_questions, json=res)
         if response.status_code == 200:
             print(f"Successfully sent question {index + 1}")
-    with open("/home/er-ubuntu-1/webScrapping/api_result_json/csvToTest.json", "w") as f:
+    with open("/root/webScrapping/api_result_json/csvToTest.json", "w") as f:
         json.dump(result, f)
     return "XL file received and processed successfully"
     
@@ -1845,8 +2932,12 @@ def createScrollerTest():
     url = data.get("url")
     quizId = data.get("quizId")
     quizGuid = data.get("quizGuid")
+    language = data.get("language")
     marks = ""
     negMarks = ""
+    startRange = 0
+    endRange = 0
+    testName = ""
     if "marks" in data:
         marks = data.get("marks")
     if "negMarks" in data:
@@ -1857,10 +2948,25 @@ def createScrollerTest():
 
     if not url:
         return jsonify({'error': 'text is required'}), 400
+    testCat= ""
+    if "www.smartkeeda.com" in url:
+        print(data)
+        if "startRange" in data:
+            startRange = data.get("startRange")
+        if 'endRange' in data:
+            endRange = data.get("endRange")
+        if 'testName' in data:
+            testName = data.get("testName")
+        if 'testCat' in data:
+            testCat = data.get('testCat')
+
     # try:
-    all_questions = getScrollerTest(url)
+    all_questions = getScrollerTest(url,language,startRange,endRange,testName,testCat)
+    # return all_questions
+
     send_question = sendQuestionsToP1(quizId, quizGuid, all_questions, marks, negMarks)
-    # api_to_send_questions = "https://p1.edurev.in/Tools/PDF_TO_QuizQuestions_Automation"
+    # api_to_send_questions = "https://er.edurev.in/Tools/PDF_TO_QuizQuestions_Automation"
+
     res = {
         "quizId": quizId,
         "quizGuid": quizGuid,
@@ -1889,6 +2995,7 @@ def createScrollerTest():
 def excelScrapper():
     data = request.json
     text = data.get('url')
+    
     url = ""
     if 'sourceBaseURL' in data:
         url = data.get('sourceBaseURL')
@@ -1904,6 +3011,32 @@ def excelScrapper():
     try:
         output_text = scrapeExcel(text,quizrr)
         return jsonify({'content': output_text}), 200
+    except Exception as e:
+        print(e)
+        return jsonify({'content': "Error Happend at Excel Scrapper "}), 500
+def url_to_base64(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 \
+            (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    }
+    response = requests.get(url, headers=headers, timeout=120)
+    response.raise_for_status()  # Check if the request was successful
+    return b64encode(response.content).decode("utf-8")
+
+
+@app.route('/image/scrapper', methods=['POST'])
+def imageScrapper():
+    data = request.json
+    logging.info("INFO : Image Base 64 SCRAPPER data: " + str(data))
+    img_url = data.get('url')
+    logging.info("INFO : Image Base 64 SCRAPPER text URL: " + img_url)
+    quizrr = False
+    
+    try:
+        output_img_bs64 = url_to_base64(img_url)
+        logging.info("INFO : Image Base 64 SCRAPPER data response : " + str(output_img_bs64))
+        return jsonify({'content': output_img_bs64}), 200
     except Exception as e:
         print(e)
         return jsonify({'content': "Error Happend at Excel Scrapper "}), 500
@@ -1977,7 +3110,8 @@ def get_ordinal(n):
 
 def scrape_website_civilDaily(url):
     # Setup Selenium WebDriver
-    service = Service(ChromeDriverManager().install())
+    # service = Service(ChromeDriverManager().install())
+    service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
     options = webdriver.ChromeOptions()
     user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
     options.add_argument(f"user-agent={user_agent_string}")
@@ -2022,7 +3156,8 @@ def scrape_website_civilDaily(url):
 
 def scrape_website_iasbaba(url):
     # Setup Selenium WebDriver
-    service = Service(ChromeDriverManager().install())
+    # service = Service(ChromeDriverManager().install())
+    service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
     options = webdriver.ChromeOptions()
     user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
     options.add_argument(f"user-agent={user_agent_string}")
@@ -2082,7 +3217,8 @@ def get_data_vija(soup):
     return all_data.strip()
 def scrape_website_vaji(url):
     # Setup Selenium WebDriver
-    service = Service(ChromeDriverManager().install())
+    # service = Service(ChromeDriverManager().install())
+    service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
     options = webdriver.ChromeOptions()
     user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
     options.add_argument(f"user-agent={user_agent_string}")
@@ -2125,13 +3261,13 @@ def scrape_website_vaji(url):
     result = ""
     for soup in soups:
         try:
-            
-            if "Article" in soup.find('div', class_='box-header').find("h3").text:
+            if "Article" in soup.find('div', class_='box-header').find("h3").text or "Current Affairs" in soup.find('div', class_='box-header').find("h3").text:
                 date_element = soup.find('small')
                 date_text = date_element.text.strip()
                 # print(date_text)
                 if "hour ago" not in str(date_text) and "hours ago" not in str(date_text) and "days ago" not in date_text and "day ago" not in date_text:
-                    formats = ["%B %d, %Y", "%d %B %Y", "%d %B, %Y", "%d %b %Y"]
+                    # formats = ["%B %d, %Y", "%d %B %Y", "%d %B, %Y", "%d %b %Y"]
+                    formats = ["%B %d, %Y", "%d %B %Y", "%d %B, %Y", "%d %b %Y", "%b. %d, %Y"]
 
                     date_obj = None
 
@@ -2158,273 +3294,346 @@ def scrape_website_vaji(url):
     return result
        
 def scrape_website_current_affair(url):
-    # Setup Selenium WebDriver
-    service = Service(ChromeDriverManager().install())
-    options = webdriver.ChromeOptions()
-    user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-    options.add_argument(f"user-agent={user_agent_string}")
-    options.add_argument('--headless')  # Run in background
-    options.add_argument("window-size=1400,1500")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--no-sandbox")
-    options.add_argument("start-maximized")
-    options.add_argument("enable-automation")
-    options.add_argument("--disable-infobars")
-    options.add_argument("--disable-dev-shm-usage")  # Run in background
-   
-    driver = webdriver.Chrome(service=service, options=options)
-
-    driver.get(url)
+    try:
+        # Setup Selenium WebDriver
+        # service = Service(ChromeDriverManager().install())
+        service = Service('/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver-linux64/chromedriver')
+        options = webdriver.ChromeOptions()
+        user_agent_string = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+        options.add_argument(f"user-agent={user_agent_string}")
+        options.add_argument('--headless')  # Run in background
+        options.add_argument("window-size=1400,1500")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--no-sandbox")
+        options.add_argument("start-maximized")
+        options.add_argument("enable-automation")
+        options.add_argument("--disable-infobars")
+        options.add_argument("--disable-dev-shm-usage")  # Run in background
     
+        driver = webdriver.Chrome(service=service, options=options)
 
-    driver.implicitly_wait(10)
-    html = driver.execute_script("return document.documentElement.outerHTML")
+        driver.get(url)
+        
 
-    # Get page source after JavaScript execution
-    # html = driver.page_source
-    # print(html)
-    driver.quit()  # Close the browser
-    # html_text = convert_latex(str(html))
-    soup = BeautifulSoup(html, 'html.parser')
-    if url == "https://iasbaba.com/current-affairs-for-ias-upsc-exams/":
-        try:
-            today_date = datetime.datetime.now()  # Format like '22 May 2024'
-            formatted_date = f"{get_ordinal(today_date.day)} {today_date.strftime('%B %Y')}"  # Format like '22nd May 2024'
-            # Find the link for today's date
-            ul_elements = soup.find_all('ul', class_='lcp_catlist')
-            result = ""
-            # print(ul_elements)
-            for ul_element in ul_elements:
-                li_elements = ul_element.find_all('li')
-                for li in li_elements:
-                    a_element = li.find('a')
-                    # print(formatted_date, a_element.text)
-                    if a_element and formatted_date in a_element.text:
-                        logging.info("INFO : Found today's date in IAS BABA website")
-                        logging.info(formatted_date, a_element.text)
-                        result += scrape_website_iasbaba(a_element['href'])
-            return result
-        except Exception as e:
-            logging.info("Error in IAS BABA current affairs : "+str(e))
-        
-    elif "www.drishtiias.com" in url:
-        # decompose all fa-star span
-        span_elements = soup.find_all('span', class_="fa-star")
-        for span in span_elements:
-            span.decompose()
-        tags_new = soup.find_all('div', class_="tags-new")
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('div', class_ ="border-bg")
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('div', class_ ="social-shares02")
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('div', class_ ="next-post")
-        for tag in tags_new:
-            tag.decompose()
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('ul', class_="actions")
-        for tag in tags_new:
-            tag.decompose()
-        main_content = soup.find('div', class_="article-detail")
-        result = ""
-        # processed_texts = set()
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif url == "https://www.civilsdaily.com/":
-        try:
-            div_elements = soup.find_all('div', class_="news-block")
-            
-            result = ""
-            for div in div_elements:
-                date_div = div.find('h1', class_="date-strip").text
-                date_div = date_div[1:]
-                # print(date_div)
+        driver.implicitly_wait(10)
+        html = driver.execute_script("return document.documentElement.outerHTML")
+
+        # Get page source after JavaScript execution
+        # html = driver.page_source
+        # print(html)
+        driver.quit()  # Close the browser
+        # html_text = convert_latex(str(html))
+        soup = BeautifulSoup(html, 'html.parser')
+        if "https://www.gktoday.in/" in url:
+            try:
+                div_elements = soup.find('div', class_="inside_post")
+                for style_tag in div_elements.find_all('style'):
+                    style_tag.decompose()
+
+                removeDivs = div_elements.find_all('blockquote')
+                for div in removeDivs:
+                    div.decompose()
+                removeDivs = div_elements.find_all('script')
+                for div in removeDivs:
+                    div.decompose()
+                removePs = div_elements.find_all('p',class_ = "small-font")
+                for p in removePs:
+                    p.decompose()
+                removeDiv = div_elements.find('div', id="relatedposts")
+                removeDiv.decompose()
+                removeDiv = div_elements.find('div', id="comments")
+                removeDiv.decompose()
+                removeDivs = div_elements.find_all('div', class_="google-auto-placed")
+                for div in removeDivs:
+                    div.decompose()
+                removeDiv = div_elements.find('div', class_="prenext")
+                removeDiv.decompose()
+                removeDiv = div_elements.find('div', class_="sharethis-inline-share-buttons")
+                removeDiv.decompose()
+                result = ""
+                for child in div_elements.descendants:
+                    if child.string and child.string.strip() and child.string.strip() not in result:
+                        result += child.string.strip() + "\n"
+                return result.strip()
+            except Exception as e:
+                logging.info("Error in gk today current affairs : "+str(e))
+        elif "https://ensureias.com" in url:
+            try:
+                div_elements = soup.find_all('div', class_="v-card")
+                removeDiv = div_elements.find('div',class_= "v-card__loader")
+                removeDiv.decompose()
+                result = ""
+                for div in div_elements:
+                    for child in div.descendants:
+                        if child.string and child.string.strip() and child.string.strip() not in result:
+                            result += child.string.strip() + "\n"
+                    result+="**********"+"\n"
+                return result.strip()
+            except Exception as e:
+                logging.info("Error in ensureias current affairs : "+str(e))
+
+        elif url == "https://iasbaba.com/current-affairs-for-ias-upsc-exams/":
+            try:
+                print("entered")
                 today_date = datetime.datetime.now()  # Format like '22 May 2024'
-                formatted_date = f"{get_ordinal(today_date.day)} {today_date.strftime('%B')}"
-                if date_div == formatted_date:
-                    articles = div.find_all('article')
-                    for article in articles:
-                        link = article.find('h2', class_ = "entry-title default-max-width").find("a")['href']
-                        result += scrape_website_civilDaily(link)
-            logging.info("Data Scraped from Civils Daily: \n"+str(result))
+                formatted_date = f"{get_ordinal(today_date.day)} {today_date.strftime('%B %Y')}"  # Format like '22nd May 2024'
+                # Find the link for today's date
+                ul_elements = soup.find_all('ul', class_='lcp_catlist')
+                result = ""
+                # print(ul_elements)
+                for ul_element in ul_elements:
+                    li_elements = ul_element.find_all('li')
+                    for li in li_elements:
+                        a_element = li.find('a')
+                        # print(formatted_date, a_element.text)
+                        if a_element and formatted_date in a_element.text:
+                            logging.info("INFO : Found today's date in IAS BABA website")
+                            logging.info(f"{formatted_date}: {a_element.text}")
+
+                            # logging.info(formatted_date, a_element.text)
+                            result += scrape_website_iasbaba(a_element['href'])
+                return result
+            except Exception as e:
+                logging.info("Error in IAS BABA current affairs : "+str(e))
+            
+        elif "www.drishtiias.com" in url:
+            # decompose all fa-star span
+            span_elements = soup.find_all('span', class_="fa-star")
+            for span in span_elements:
+                span.decompose()
+            tags_new = soup.find_all('div', class_="tags-new")
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('div', class_ ="border-bg")
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('div', class_ ="social-shares02")
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('div', class_ ="next-post")
+            for tag in tags_new:
+                tag.decompose()
+            comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+            for comment in comments:
+                comment.extract()
+            tags_new = soup.find_all('style')
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('ul', class_="actions")
+            for tag in tags_new:
+                tag.decompose()
+            main_content = soup.find('div', class_="article-detail")
+            result = ""
+            # processed_texts = set()
+            for child in main_content.descendants:
+                if child.name == "img":
+                    result += str(child) + "\n"
+                if child.string and child.string.strip() and child.string.strip() not in result:
+                    result += child.string.strip() + "\n"
+            
             return result
-        except Exception as e:
-            logging.info("Error in civils daily current affairs : "+str(e))
-    elif "www.civilsdaily.com" in url:
-        result += scrape_website_civilDaily(url)
-        return result
-    elif "iasbaba.com" in url:
-        result+=scrape_website_iasbaba(url)
-        return result
-    elif "iasgyan.in" in url:
+        elif url == "https://www.civilsdaily.com/":
+            try:
+                div_elements = soup.find_all('div', class_="news-block")
+                
+                result = ""
+                for div in div_elements:
+                    date_div = div.find('h1', class_="date-strip").text
+                    date_div = date_div[1:]
+                    # print(date_div)
+                    today_date = datetime.datetime.now()  # Format like '22 May 2024'
+                    formatted_date = f"{get_ordinal(today_date.day)} {today_date.strftime('%B')}"
+                    if date_div == formatted_date:
+                        articles = div.find_all('article')
+                        for article in articles:
+                            link = article.find('h2', class_ = "entry-title default-max-width").find("a")['href']
+                            result += scrape_website_civilDaily(link)
+                logging.info("Data Scraped from Civils Daily: \n"+str(result))
+                return result
+            except Exception as e:
+                logging.info("Error in civils daily current affairs : "+str(e))
+        elif "www.civilsdaily.com" in url:
+            result += scrape_website_civilDaily(url)
+            return result
+        elif "iasbaba.com" in url:
+            result+=scrape_website_iasbaba(url)
+            return result
+        elif "iasgyan.in" in url:
+            
+            tags_new = soup.find_all('div', class_ ="content-btn")
+            for tag in tags_new:
+                tag.decompose()
+            
+            comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+            for comment in comments:
+                comment.extract()
+            tags_new = soup.find_all('style')
+            for tag in tags_new:
+                tag.decompose()
+            
+            main_content = soup.find('div', class_="article_descr")
+            result = ""
+            # processed_texts = set()
+            for child in main_content.descendants:
+                if child.name == "img":
+                    result += str(child) + "\n"
+                if child.string and child.string.strip() and child.string.strip() not in result:
+                    result += child.string.strip() + "\n"
+            
+            return result
+        elif "vajiramias.com" in url:
+            
+            
+            
+            main_content = soup.find('div', class_=" padding-10")
+            result = ""
+            # processed_texts = set()
+            for child in main_content.descendants:
+                if child.name == "img":
+                    result += str(child) + "\n"
+                if child.string and child.string.strip() and child.string.strip() not in result:
+                    result += child.string.strip() + "\n"
+            
+            return result
+
+        elif "https://visionias.in/" in url:
+            tags_new = soup.find_all('style')
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('script')
+            for tag in tags_new:
+                tag.decompose()
+            main_content = soup.find('div', class_="flex flex-col w-full mt-10 lg:mt-0")
+            result = ""
+            for child in main_content.descendants:
+                if child.name == "img":
+                    result += str(child) + "\n"
+                if child.string and child.string.strip() and child.string.strip() not in result:
+                    result += child.string.strip() + "\n"
+            return result
+        elif "dce.visionias.in" in url:
         
-        tags_new = soup.find_all('div', class_ ="content-btn")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="article_descr")
-        result = ""
-        # processed_texts = set()
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "vajiramias.com" in url:
-        
-        
-        
-        main_content = soup.find('div', class_=" padding-10")
-        result = ""
-        # processed_texts = set()
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "dce.visionias.in" in url:
+            tags_new = soup.find_all('div', class_ ="flex justify-between items-center mb-10")
+            for tag in tags_new:
+                tag.decompose()
+            
+            comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+            for comment in comments:
+                comment.extract()
+            tags_new = soup.find_all('style')
+            for tag in tags_new:
+                tag.decompose()
+            
+            main_content = soup.find('div', class_="flex flex-col w-full mt-6 lg:mt-0")
+            result = ""
+            # processed_texts = set()
+            for child in main_content.descendants:
+                if child.name == "img":
+                    result += str(child) + "\n"
+                if child.string and child.string.strip() and child.string.strip() not in result:
+                    result += child.string.strip() + "\n"
+            
+            return result
+        elif "pwonlyias.com" in url:
+            tags_new = soup.find_all('div', class_ ="vc_print_text")
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('div', class_ ="ftwp-in-post ftwp-float-none")
+            for tag in tags_new:
+                tag.decompose()
+            
+            comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+            for comment in comments:
+                comment.extract()
+            tags_new = soup.find_all('style')
+            for tag in tags_new:
+                tag.decompose()
+            
+            main_content = soup.find('div', class_="desc my-4")
+            result = ""
+            # processed_texts = set()
+            for child in main_content.descendants:
+                if child.name == "img":
+                    result += str(child) + "\n"
+                if child.string and child.string.strip() and child.string.strip() not in result:
+                    result += child.string.strip() + "\n"
+            
+            return result
+        elif "www.legacyias.com" in url:
+            tags_new = soup.find_all('div', class_ ="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-54e13bc")
+            for tag in tags_new:
+                tag.decompose()
+            
+            comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+            for comment in comments:
+                comment.extract()
+            tags_new = soup.find_all('style')
+            for tag in tags_new:
+                tag.decompose()
+            
+            main_content = soup.find('div', class_="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-2bc9084")
+            result = ""
+            for child in main_content.descendants:
+                if child.name == "img":
+                    result += str(child) + "\n"
+                if child.string and child.string.strip() and child.string.strip() not in result:
+                    result += child.string.strip() + "\n"
+            
+            return result
+        elif "theiashub.com" in url:
+            tags_new = soup.find_all('div', class_ ="download-div")
+            for tag in tags_new:
+                tag.decompose()
+            tags_new = soup.find_all('img', class_ ="mob_hei")
+            for tag in tags_new:
+                tag.decompose()
+            
+            comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+            for comment in comments:
+                comment.extract()
+            tags_new = soup.find_all('style')
+            for tag in tags_new:
+                tag.decompose()
+            
+            main_content = soup.find('div', class_="mt-1 p-3")
+            result = ""
+            for child in main_content.descendants:
+                if child.name == "img":
+                    result += str(child) + "\n"
+                if child.string and child.string.strip() and child.string.strip() not in result:
+                    result += child.string.strip() + "\n"
+            
+            return result
+        elif "vajiramandravi.com" in url:
+            tags_new = soup.find_all('div', class_ ="print-no download-and-share")
+            for tag in tags_new:
+                tag.decompose()
+            # remove all a tag with target argument as _blank
+            tags_new = soup.find_all('a', target="_blank")
+            for tag in tags_new:
+                tag.decompose()
+            
+            comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+            for comment in comments:
+                comment.extract()
+            tags_new = soup.find_all('style')
+            for tag in tags_new:
+                tag.decompose()
+            
+            main_content = soup.find('div', class_="article-content")
+            result = ""
+            for child in main_content.descendants:
+                if child.name == "img":
+                    result += str(child) + "\n"
+                if child.string and child.string.strip() and child.string.strip() not in result:
+                    result += child.string.strip() + "\n"
+            
+            return result
+        return ""  
+    except Exception as e:
+        logging.info(str(e))
+        return ""
     
-        tags_new = soup.find_all('div', class_ ="flex justify-between items-center mb-10")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="flex flex-col w-full mt-6 lg:mt-0")
-        result = ""
-        # processed_texts = set()
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "pwonlyias.com" in url:
-        tags_new = soup.find_all('div', class_ ="vc_print_text")
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('div', class_ ="ftwp-in-post ftwp-float-none")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="desc my-4")
-        result = ""
-        # processed_texts = set()
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "www.legacyias.com" in url:
-        tags_new = soup.find_all('div', class_ ="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-54e13bc")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-2bc9084")
-        result = ""
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "theiashub.com" in url:
-        tags_new = soup.find_all('div', class_ ="download-div")
-        for tag in tags_new:
-            tag.decompose()
-        tags_new = soup.find_all('img', class_ ="mob_hei")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="mt-1 p-3")
-        result = ""
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    elif "vajiramandravi.com" in url:
-        tags_new = soup.find_all('div', class_ ="print-no download-and-share")
-        for tag in tags_new:
-            tag.decompose()
-        # remove all a tag with target argument as _blank
-        tags_new = soup.find_all('a', target="_blank")
-        for tag in tags_new:
-            tag.decompose()
-        
-        comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-        for comment in comments:
-            comment.extract()
-        tags_new = soup.find_all('style')
-        for tag in tags_new:
-            tag.decompose()
-        
-        main_content = soup.find('div', class_="article-content")
-        result = ""
-        for child in main_content.descendants:
-            if child.name == "img":
-                result += str(child) + "\n"
-            if child.string and child.string.strip() and child.string.strip() not in result:
-                result += child.string.strip() + "\n"
-        
-        return result
-    return ""  
 
 def get_right_answer(data):
     try:
@@ -2511,7 +3720,7 @@ def get_right_answer(data):
     except Exception as e:
         print("Error:", str(e))
         logging.info("Error in getting right answer: "+ str(e))     
-def getGPTResponse(prompt,i,no_of_para,weeklyCA = False):
+def getGPTResponse(prompt,i,no_of_para,weeklyCA = False,daily = False):
     try:
         role = ""
         prompt_ = ""
@@ -2621,21 +3830,132 @@ def getGPTResponse(prompt,i,no_of_para,weeklyCA = False):
 #             (d) Statement-I is incorrect, but Statement-II is correct 
 #             '''
         # Your user prompt as a dictionary
-        prompt_for_document = "\n Paraphrase the information given, elaborate and explain with examples wherever required. Give all points in bullet format with proper heading across (add li tag to html of bullet points). Make sure you do not miss any topic . Make sure not more than 2 headings have a HTML tag H7 and not more than 4 Subheadings have an HTML tag H8 otherwise make the headings bold. Make sure everything is paraphrased and in detail and keep the language easy to understand. Give response as a teacher but do not mention it. Please Do not promote any website other than EduRev and do not give references. Your response should be in HTML only and do not change the images HTML in given in HTML above. Again, always remember to never skip any image in the HTML of your response. Also, table should always be returned as table. Please keep same the headings given under <H2> tag and <H3> tag and don't paraphrase them. Add Heading Exactly the same as input and also Dont miss any content.\n"
-        prompt_for_document_final = prompt + prompt_for_document
-        user_prompt_document = {
-            "Role": '''You are a proficient educational content creator specializing in summarizing and synthesizing complex information from PDF books into concise, comprehensible notes and test materials. Your expertise lies in extracting key theoretical concepts, providing clear definitions, and offering illustrative examples. When presenting information in a list, use only 'li' tags without 'p' tags inside them. Ensure the notes are well-organized and visually appealing, employing HTML tags for structure without using paragraph tags inside list items. Your goal is to optimize the learning experience for your audience by Explaining in Detail from the lengthy content into digestible formats while maintaining educational rigor. You are a content formatter specializing in converting text into HTML elements. Your expertise lies in structuring text into well-formatted HTML tags, including <li>, <ul>, and <p>, without using special characters like * or #. Your goal is to ensure that the HTML output is organized, visually appealing . i need the output in this format :
-            "
-            [Subject name in p tag] // you observe the given input and pick from this list ["GS1/Geography" , "GS1/Indian Society",  "GS1/History & Culture",  "GS2/Polity", "GS2/Governance", "GS2/International Relations", "GS3/Economy", "GS3/Environment", "GS3/Science and Technology", "GS3/Defence & Security", "GS4/Ethics"] the subject name and give in p tag
-            [Title/Heading Name] //just the heading of the content give in h1 tag
-            Why in news?
-            [Content] // contain all the information about the current affairs give in p tag
-            "
-            also you give all the data in HTML code only with proper formatting
+        # prompt_for_document = "\n Paraphrase the information given, elaborate and explain with examples wherever required. Give all points in bullet format with proper heading across (add li tag to html of bullet points). Make sure you do not miss any topic . Make sure not more than 2 headings have a HTML tag H7 and not more than 4 Subheadings have an HTML tag H8 otherwise make the headings bold. Make sure everything is paraphrased and in detail and keep the language easy to understand. Give response as a teacher but do not mention it. Please Do not promote any website other than EduRev and do not give references. Your response should be in HTML only and do not change the images HTML in given in HTML above. Again, always remember to never skip any image in the HTML of your response. Also, table should always be returned as table. Please keep same the headings given under <H2> tag and <H3> tag and don't paraphrase them. Add Heading Exactly the same as input and also Dont miss any content.\n"
+        prompt_for_document = ""
+        role_for_doc = '''Proficient HTML Content Creator for Educational: You are an expert in converting complex educational content into detailed and visually structured HTML notes and test materials. Your expertise lies in extracting and summarizing critical information, ensuring clarity through formatting and readability. You create well-organized content using proper HTML tags such as <p>, <ul>, <li>, <strong>, <h2>, and <h3> for enhanced structuring. Your work emphasizes breaking down lengthy paragraphs into bullet points and highlighting significant points using <strong> for better retention. All content adheres to educational standards and is optimized for easy comprehension.'''
 
-            ''',
-            "objective": prompt_for_document_final +"\nParaphrase the information given, elaborate and explain with examples wherever required. Give all points in bullet format with proper heading across (add li tag to html of bullet points). Make sure you do not miss any topic . Make sure not more than 2 headings have a HTML tag H7 and not more than 4 Subheadings have an HTML tag H8 otherwise make the headings bold. Make sure everything is paraphrased and in detail and keep the language easy to understand. Give response as a teacher but do not mention it. Please Do not promote any website other than EduRev and do not give references. Your response should be in HTML only and do not change the images HTML in given in HTML above. Again, always remember to never skip any image in the HTML of your response. Also, table should always be returned as table. Please keep same the headings given under <H2> tag and <H3> tag and don't paraphrase them."
+        if(daily):  
+            prompt_for_document = '''Paraphrase the given information and elaborate where necessary, while maintaining the original meaning and concept. Ensure the output is structured and formatted using the following HTML guidelines:
+
+Headings:
+
+Use exactly one <h2> heading per response.
+Use multiple <h3> headings if needed.
+Other headings should be bold (<strong>) to maintain a clean structure.
+Content:
+
+Use <p> tags for descriptive paragraphs.
+For questions, use <strong> tags.
+Use <ul> and <li> tags for breaking content into bullet points for better readability.
+Highlighting:
+
+Use <strong> tags to emphasize important terms or phrases, but avoid highlighting more than 3-4 words together.
+Formatting:
+
+Break down long paragraphs into smaller sections with bullet points for better readability.
+Ensure the HTML output is visually appealing and semantically correct.
+Tables:
+
+Always return tables as proper HTML <table> elements with <tr> and <td> tags.
+Images:
+
+Do not alter the <img> HTML structure provided in the input.
+General Notes:
+
+Stick to the headings and subheadings as given in the input; do not paraphrase them.
+Provide a clean HTML structure while ensuring the meaning and concept remain unchanged.
+Avoid any references or promotions other than EduRev.
+Don't use the word: 'Drishti' in the output
+Output Format:
+
+[Subject name in strong tag] // you observe the given input and pick from this list ["GS1/Geography" , "GS1/Indian Society",  "GS1/History & Culture",  "GS2/Polity", "GS2/Governance", "GS2/International Relations", "GS3/Economy", "GS3/Environment", "GS3/Science and Technology", "GS3/Defence & Security", "GS4/Ethics"] the subject name and give in strong tag
+
+<h2>[Title or Heading]</h2> <!-- Provide the main title or heading -->
+<strong>Why in News?</strong>
+<p>[Insert the background or relevance here]</p> <!-- Explain the context or reason for importance -->
+<h3>Key Takeaways</h3>
+<ul>
+  <li>[Insert key point 1]</li>
+  <li>[Insert key point 2]</li>
+  <!-- Add more key points if needed -->
+</ul>
+<h3>Additional Details</h3>
+<ul>
+  <li><strong>[Insert term or concept]:</strong> [Provide explanation, include relevant <strong>examples</strong>.]</li>
+  <li>[Insert supplementary point or additional details for clarity.]</li>
+  <!-- Add more detailed points as needed -->
+</ul>
+<p>[Insert conclusion or summary here]</p> <!-- Add final remarks or notes -->'''
+        else:
+            prompt_for_document = """Paraphrase the given information and elaborate where necessary, while maintaining the original meaning and concept. Ensure the output is structured and formatted using the following HTML guidelines:
+
+    Headings:
+
+    Use exactly one <h2> heading per response.
+    Use multiple <h3> headings if needed.
+    Other headings should be bold (<strong>) to maintain a clean structure.
+    Content:
+
+    Use <p> tags for descriptive paragraphs.
+    For questions, use <strong> tags.
+    Use <ul> and <li> tags for breaking content into bullet points for better readability.
+    Highlighting:
+
+    Use <strong> tags to emphasize important terms or phrases, but avoid highlighting more than 3-4 words together.
+    Formatting:
+
+    Break down long paragraphs into smaller sections with bullet points for better readability.
+    Ensure the HTML output is visually appealing and semantically correct.
+    Tables:
+
+    Always return tables as proper HTML <table> elements with <tr> and <td> tags.
+    Images:
+
+    Do not alter the <img> HTML structure provided in the input.
+    General Notes:
+
+    Stick to the headings and subheadings as given in the input; do not paraphrase them.
+    Provide a clean HTML structure while ensuring the meaning and concept remain unchanged.
+    Avoid any references or promotions other than EduRev.
+    Don't use the word: 'Drishti' in the output
+    Output Format:
+
+    <p>[Subject or Category]</p> <!-- Insert the subject or category of the content -->
+    <h2>[Title or Heading]</h2> <!-- Provide the main title or heading -->
+    <strong>Why in News?</strong>
+    <p>[Insert the background or relevance here]</p> <!-- Explain the context or reason for importance -->
+    <h3>Key Takeaways</h3>
+    <ul>
+    <li>[Insert key point 1]</li>
+    <li>[Insert key point 2]</li>
+    <!-- Add more key points if needed -->
+    </ul>
+    <h3>Additional Details</h3>
+    <ul>
+    <li><strong>[Insert term or concept]:</strong> [Provide explanation, include relevant <strong>examples</strong>.]</li>
+    <li>[Insert supplementary point or additional details for clarity.]</li>
+    <!-- Add more detailed points as needed -->
+    </ul>
+    <p>[Insert conclusion or summary here]</p> <!-- Add final remarks or notes -->\n"""
+            role_for_doc = '''Proficient HTML Content Creator for Educational: You are an expert in converting complex educational content into detailed and visually structured HTML notes and test materials. Your expertise lies in extracting and summarizing critical information, ensuring clarity through formatting and readability. You create well-organized content using proper HTML tags such as <p>, <ul>, <li>, <strong>, <h2>, and <h3> for enhanced structuring. Your work emphasizes breaking down lengthy paragraphs into bullet points and highlighting significant points using <strong> for better retention. All content adheres to educational standards and is optimized for easy comprehension.'''
+        prompt_for_document_final = prompt +"\n"+ prompt_for_document
+        user_prompt_document = {
+            "Role": role_for_doc,
+            "objective": prompt_for_document_final
         }
+        # user_prompt_document = {
+        #     "Role": '''You are a proficient educational content creator specializing in summarizing and synthesizing complex information from PDF books into concise, comprehensible notes and test materials. Your expertise lies in extracting key theoretical concepts, providing clear definitions, and offering illustrative examples. When presenting information in a list, use only 'li' tags without 'p' tags inside them. Ensure the notes are well-organized and visually appealing, employing HTML tags for structure without using paragraph tags inside list items. Your goal is to optimize the learning experience for your audience by Explaining in Detail from the lengthy content into digestible formats while maintaining educational rigor. You are a content formatter specializing in converting text into HTML elements. Your expertise lies in structuring text into well-formatted HTML tags, including <li>, <ul>, and <p>, without using special characters like * or #. Your goal is to ensure that the HTML output is organized, visually appealing . i need the output in this format :
+        #     "
+        #     [Subject name in p tag] // you observe the given input and pick from this list ["GS1/Geography" , "GS1/Indian Society",  "GS1/History & Culture",  "GS2/Polity", "GS2/Governance", "GS2/International Relations", "GS3/Economy", "GS3/Environment", "GS3/Science and Technology", "GS3/Defence & Security", "GS4/Ethics"] the subject name and give in p tag
+        #     [Title/Heading Name] //just the heading of the content give in h1 tag
+        #     Why in news?
+        #     [Content] // contain all the information about the current affairs give in p tag, for content you do not use h1 tag at all
+        #     "
+        #     also you give all the data in HTML code only with proper formatting
+
+        #     ''',
+        #     "objective": prompt_for_document_final +"\nParaphrase the information given, elaborate and explain with examples wherever required. Give all points in bullet format with proper heading across (add li tag to html of bullet points). Make sure you do not miss any topic . Make sure not more than 2 headings have a HTML tag H7 and not more than 4 Subheadings have an HTML tag H8 otherwise make the headings bold. Make sure everything is paraphrased and in detail and keep the language easy to understand. Give response as a teacher but do not mention it. Please Do not promote any website other than EduRev and do not give references. Your response should be in HTML only and do not change the images HTML in given in HTML above. Again, always remember to never skip any image in the HTML of your response. Also, table should always be returned as table. Please keep same the headings given under <H2> tag and <H3> tag and don't paraphrase them.Make sure you never change the meaning or concept , simply paraphrase. Please Give just the Heading in h1 tag else for any content do not use any h tags."
+        # }
         
 
         # user_prompt_test = {
@@ -2651,7 +3971,8 @@ def getGPTResponse(prompt,i,no_of_para,weeklyCA = False):
             gpt_model = "gpt-3.5-turbo"
         
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            # model="gpt-3.5-turbo",
+            model="gpt-4o-mini",
             messages=[
                 {
                     "role": "system",
@@ -2665,24 +3986,6 @@ def getGPTResponse(prompt,i,no_of_para,weeklyCA = False):
             max_tokens=4096,
             temperature=0.7
         )
-        # logging.info("FOR test Role: "+role)
-        # logging.info("FOR test Prompt: "+prompt_)
-        # response_test = client.chat.completions.create(
-        #     model=gpt_model,
-        #     messages=[
-        #         {
-        #             "role": "system",
-        #             "content": "You are ChatGPT, a large language model trained by OpenAI, based on the GPT-3.5/GPT-4o architecture. Knowledge cutoff: 2021-09 Current date: "+formatted_date
-        #         },
-        #         {
-        #             "role": "user",
-        #             "content": json.dumps(user_prompt_test)
-        #         }
-        #     ],
-        #     max_tokens=4096,
-        #     temperature=0.7
-        # )
-
         # Print the response
         if response.choices:
             # Access the content from the response
@@ -2703,6 +4006,8 @@ def getGPTResponse(prompt,i,no_of_para,weeklyCA = False):
             data_res = data_res.replace("</h7>\n", "</h7>")
             data_res = data_res.replace("</h3>\n", "</h3>")
             data_res = data_res.replace("</h8>\n", "</h8>")
+            data_res = data_res.replace("</h3>\n", "</p>")
+            data_res = data_res.replace("<h3>\n", "<p>")
             data_res = data_res.replace("</p>\n", "</p>")
             data_res = data_res.replace("</h2><br>", "</h2>")
             data_res = data_res.replace("</h7><br>", "</h7>")
@@ -2715,145 +4020,6 @@ def getGPTResponse(prompt,i,no_of_para,weeklyCA = False):
             data_res = data_res.replace("</ul><br>", "</ul>")
             data_res = data_res.replace("</ol>\n", "</ol>")
             data_res = data_res.replace("</ol><br>", "</ol>")
-                # print(data_res)
-
-
-#         if response_test.choices:
-#             # Access the content from the response
-#             data_res_test = response_test.choices[0].message.content
-#             data_res_test = str(data_res_test)
-#             logging.info("INFO : Response NORMAL test: " + data_res_test)
-#             prompt_for_single_question = """
-#             Extract the information from the above HTML content and provide the JSON format for the questions, options, answers, and solutions. Each question must be formatted according to the following example:
-            
-#             {
-#                 "questions": 
-#                 [
-#                     {
-#                     "question": "<p>Question: Which of the following is an example of endothermic reaction?</p>",
-#                     "options": [
-#                         "Option A: <p>Example1</p>",
-#                         "Option B: <p>Example2</p>",
-#                         "Option C: <p>Example3</p>",
-#                         "Option D: <p>Example4</p>"
-#                     ],
-#                     "answer": "<p>Answer: Option A</p>",
-#                     "solution": "<p>Solution:</p>"
-#                     }
-#                 ]
-#             }
-
-
-#                     Ensure to:
-#                     1. Extract each question, all 4 options, answer, and solution from the given HTML at the start. 
-#                     2. Format each extracted part into JSON as shown in the example.
-#                     3. Preserve the <img> tags and any other HTML tags within the content.
-#                     4. Provide the output strictly in JSON format without any additional text or formatting markers.
-#                     5. Carefully understand the html at the top and make sure it is extracted in question, answer, options and solution with none of these fields being blank. 
-#                     6. Always give Option A, Option B, Option C, Option D only in the answer, Dont right full answer.
-#                     7. Always give only question in question along with statements and pairs if provided and option in options 
-                    
-# """
-#             prompt_for_multiple_question = """
-
-#                     Extract the information from the above HTML content and provide the JSON format for the questions, options, answers, and solutions. Each question must be formatted according to the following example:
-#             {
-#                 "questions": [
-#                     {
-#                     "question": "<p>Question: Which of the following is an example of endothermic reaction?</p>",
-#                     "options": [
-#                         "Option A: <p>Example1</p>",
-#                         "Option B: <p>Example2</p>",
-#                         "Option C: <p>Example3</p>",
-#                         "Option D: <p>Example4</p>"
-#                     ],
-#                     "answer": "<p>Answer: Option A</p>",
-#                     "solution": "<p>Solution:</p>"
-#                     },
-#                     {
-#                     "question": "<p>Question: Which of the following is an example of endothermic reaction?</p>",
-#                     "options": [
-#                         "Option A: <p>Example1</p>",
-#                         "Option B: <p>Example2</p>",
-#                         "Option C: <p>Example3</p>",
-#                         "Option D: <p>Example4</p>"
-#                     ],
-#                     "answer": "<p>Answer: Option A</p>",
-#                     "solution": "<p>Solution: </p>"
-#                     }
-#                 ]
-#             }
-
-
-#                     Ensure to:
-#                     1. Extract each question, all 4 options, answer, and solution from the given HTML at the start. 
-#                     2. Format each extracted part into JSON as shown in the example.
-#                     3. Preserve the <img> tags and any other HTML tags within the content.
-#                     4. Provide the output strictly in JSON format without any additional text or formatting markers.
-#                     5. Carefully understand the html at the top and make sure it is extracted in question, answer, options and solution with none of these fields being blank. 
-#                     6. Always give Option A, Option B, Option C, Option D only in the answer, Dont right full answer.
-#                     7. Always give only question in question and option in options 
-
-#                     """
-#             if number_of_question_per_paragraph == 1:
-#                 prompt_json = data_res_test + prompt_for_single_question
-#             else:
-#                 prompt_json = data_res_test+prompt_for_multiple_question
-                
-#             user_prompt_json = {
-                        
-#                         "Role": "You are an expert HTML formatter specializing in converting text into well-structured HTML code for educational purposes. Your task is to Understand the given input and fetch questions, options , correct answer and the solution perfectly and  format each question, its options, the correct answer, and the solution in a JSON as provided in the prompt. if the content provided is scrape and not much of releveant to make a question you give all the elements of the JSON in empty ",
-#                         "objective": prompt_json
-#                     }
-#             response_test_json = client.chat.completions.create(
-#                     model="gpt-3.5-turbo",
-#                     messages=[
-#                         {
-#                             "role": "system",
-#                             "content": "You are ChatGPT, a large language model trained by OpenAI, based on the GPT-3.5 architecture. Knowledge cutoff: 2021-09 Current date: "+formatted_date
-#                         },
-#                         {
-#                             "role": "user",
-#                             "content": json.dumps(user_prompt_json)
-#                         }
-#                     ],
-#                     max_tokens=4096,
-#                     temperature=0.3
-#                 )
-#                 # Print the response
-#             if response_test_json.choices:
-#                 # Access the content from the response
-#                 data_res_json = response_test_json.choices[0].message.content
-#             # print(content)
-#             data_res_json = str(data_res_json)
-#             logging.info("INFO : Response test: " + data_res_json)
-#             if "```json" in data_res_json:
-#                 data_res_json = data_res_json.split("```json")[1]
-#                 data_res_json = data_res_json.split("```")[0]
-#                 # data_res_test = json.loads(data_res_test)
-#                 try:
-#                     data_res_json = json.loads(data_res_json)        
-#                 except json.JSONDecodeError as e:
-#                     logging.info(f"ERROR : JSON decoding error: {e}")
-#         else:
-#             logging.info("ERROR : No test response generated.")
-#             # return data_res 
-        # right_ans = False
-        # if type_question == "statement":
-        #     logging.info("sending to get right answer with data :" + str(data_res_json))
-        #     right_ans = True
-        #     data_res_json_after_right_answer = get_right_answer(data_res_json)
-        # if right_ans:
-        #     return data_res , data_res_json_after_right_answer
-        # else:
-        #     return data_res , data_res_json
-        # logging.info("INFO : Response test after cleaning: " + str(data_res_json))
-        
-        # data_res = str(data_res) 
-        # if '<body>' in data_res:
-        #     data_res = data_res.split('<body>')[1].split('</body>')[0]
-        # # return data_res 
-        # return data_res , data_res_json
         return data_res 
     except Exception as e:  
         print(e)
@@ -2896,7 +4062,7 @@ def getMonthlyCA():
             if len(data_) > 10:
                 result += "\n**********\n"  + data_
                 today_date = datetime.datetime.now()
-                file_path = '/home/er-ubuntu-1/webScrapping/currentAffairs/MonthlyCA_'+today_date.strftime("%Y-%m-%d")+'.txt'
+                file_path = '/root/webScrapping/currentAffairs/MonthlyCA_'+today_date.strftime("%Y-%m-%d")+'.txt'
                 with open(file_path, 'w') as f:
                     f.write(result)
                 logging.info("INFO : UserPrompt: " + data_)
@@ -2904,43 +4070,9 @@ def getMonthlyCA():
                 try:
                     # data , data_test = getGPTResponse(data_,para_number_for_prompt_role,total_para,True)
                     data  = getGPTResponse(data_,para_number_for_prompt_role,total_para,True)
-                    # para_number_for_prompt_role+=1
-                    # try:
-                    #     print("Type of data_test:", type(data_test))
-                    #     if type(data_test) == str:
-                    #         data_test = json.loads(data_test)
-                    #         print('converted to json')                    
-                            
-
-                    #     print("Content of data_test:", data_test)
-                    #     if isinstance(data_test, dict) and 'questions' in data_test:
-                    #         for question in data_test['questions']:
-                    #             # print(question)
-                    #             test['questions'].append(question)
-                    #     else:
-                    #         test['questions'].append(data_test)
-                    #         print("data_test is not a dictionary or does not contain 'questions' key. therefore added to test directly as a question")
-                    # except Exception as e:
-                    #     print("Error:", str(e))
-                    
                     res += data
                     res += "\n" + "<hr>" + "\n"
                     logging.info("INFO : Response: " + data)
-                    # for question in test['questions']:
-                    #     question_patterns = [r"Question \d+:", r"Question:"]
-                    #     answer_patterns = [r"ANSWER", r"ANS", r"ANSWEROPTION", r"Answer:"]
-                    #     solution_patterns = [r"Solution:"]
-                        
-                    #     question["question"] = clean_text(question["question"], question_patterns)
-                    #     question["answer"] = clean_text(question["answer"], answer_patterns)
-                    #     question["solution"] = clean_text(question["solution"], solution_patterns)
-                    #     question["answer"] = question["answer"].replace("OPTION","")
-                    #     question["answer"] = question["answer"].replace("Option","")
-                    #     question["answer"] = question["answer"].replace("option","")
-                    #     option_patterns = [r"Option [A-Z]:", r"^\(\d+\)|^\([A-Z]\)", r"\([a-z]\):",r"\([a-z]\)",r"\([A-Z]\)"]
-                    #     for i, option in enumerate(question["options"]):
-                    #         question["options"][i] = clean_text(option, option_patterns)
-                            # print(question["options"][i])
                 except Exception as e:
                     print("Error while getting GPT Response: "+str(e))
                     if once:
@@ -2958,7 +4090,7 @@ def getMonthlyCA():
     doc_title = f"{subject_name}: {month} {year} UPSC Current Affairs"
     # quiz_title = f"{subject_name} MCQs: {month} {year} UPSC Current Affairs"
     # Log the result
-    api_to_send_current_affairs = "https://p1.edurev.in/Tools/CreateCurrentAffairsDocument"
+    api_to_send_current_affairs = "https://er.edurev.in/Tools/CreateCurrentAffairsDocument"
     # details for weekly CA
     # courseId = ""
     # subCourseId = ""
@@ -2968,7 +4100,7 @@ def getMonthlyCA():
     print(result)
     logging.info("************ result send is *****************")
     logging.info(result)
-    with open("/home/er-ubuntu-1/webScrapping/api_result_json/weeklyCA.json", "w") as outfile:
+    with open("/root/webScrapping/api_result_json/weeklyCA.json", "w") as outfile:
         json.dump(result, outfile)
     send_current_affairs = requests.post(api_to_send_current_affairs, json=result)
     print(send_current_affairs.status_code)
@@ -2982,110 +4114,84 @@ def getMonthlyCA():
             
 @app.route('/getWeeklyCurrentAffairs', methods=['POST'])
 def getWeeklyCA():
-    data = request.files["xl_file"]
-    marks = "2"
-    negMarks = "0.66"
-    
-    df = pd.read_csv(data)
-    total_para = len(df)
-    test = {
-        'questions':[]
-    }
-    res =""
-    para_number_for_prompt_role = 0
-    for index, row in df.iterrows():
-        print(row['Links'])
-        result = ""
-        url = row['Links']
-        data_ = scrape_website_current_affair(url)
-        if len(data_) > 10:
-            result += "\n**********\n"  + data_
-            today_date = datetime.datetime.now()
-            file_path = '/home/er-ubuntu-1/webScrapping/currentAffairs/WeeklyCA_'+today_date.strftime("%Y-%m-%d")+'.txt'
-            with open(file_path, 'w') as f:
-                f.write(result)
-            logging.info("INFO : UserPrompt: " + data_)
-            once = True
-            try:
-                data = getGPTResponse(data_,para_number_for_prompt_role,total_para,True)
-                # para_number_for_prompt_role+=1
-                # try:
-                #     print("Type of data_test:", type(data_test))
-                #     if type(data_test) == str:
-                #         data_test = json.loads(data_test)
-                #         print('converted to json')                    
-                        
-
-                #     print("Content of data_test:", data_test)
-                #     if isinstance(data_test, dict) and 'questions' in data_test:
-                #         for question in data_test['questions']:
-                #             # print(question)
-                #             test['questions'].append(question)
-                #     else:
-                #         test['questions'].append(data_test)
-                #         print("data_test is not a dictionary or does not contain 'questions' key. therefore added to test directly as a question")
-                # except Exception as e:
-                #     print("Error:", str(e))
-                
-                res += data
-                res += "\n" + "<hr>" + "\n"
-                logging.info("INFO : Response: " + data)
-                # for question in test['questions']:
-                #     question_patterns = [r"Question \d+:", r"Question:"]
-                #     answer_patterns = [r"ANSWER", r"ANS", r"ANSWEROPTION", r"Answer:"]
-                #     solution_patterns = [r"Solution:"]
-                    
-                #     question["question"] = clean_text(question["question"], question_patterns)
-                #     question["answer"] = clean_text(question["answer"], answer_patterns)
-                #     question["solution"] = clean_text(question["solution"], solution_patterns)
-                    
-                #     option_patterns = [r"Option [A-Z]:", r"^\(\d+\)|^\([A-Z]\)", r"\([a-z]\):",r"\([a-z]\)",r"\([A-Z]\)"]
-                #     for i, option in enumerate(question["options"]):
-                #         question["options"][i] = clean_text(option, option_patterns)
-                #         # print(question["options"][i])
-            except Exception as e:
-                print("Error while getting GPT Response: "+str(e))
-                if once:
-                    once = False
-                    logging.info("trying again......")
-                    data = getGPTResponse(data_,para_number_for_prompt_role,total_para,True)
-    # Log the result
-    api_to_send_current_affairs = "https://p1.edurev.in/Tools/CreateCurrentAffairsDocument"
-    # details for weekly CA
-    # updated for july
-    courseId = "12112"
-    subCourseId = "86752"
-    current_date = datetime.datetime.now()
-
-    # Format the date as "8th July 2024"
-    day = current_date.strftime("%d").lstrip("0")  # Get day without leading zeros
-    month = current_date.strftime("%B")  # Get full month name
-    year = current_date.strftime("%Y")  # Get full year
-
-    # Create the formatted title
-    doc_title = f"Weekly Current Affairs {day} {month} {year}"
-    # quiz_title = f"Weekly Current Affairs MCQs {day} {month} {year}"
-
-    # result = {'result': res, 'test': test,'courseId':courseId,'subCourseId':subCourseId,'marks':marks,'negMarks':negMarks , 'quiz_title':quiz_title, 'doc_title':doc_title}
-    result = {'result': res, 'courseId':courseId,'subCourseId':subCourseId,'marks':marks,'negMarks':negMarks ,  'doc_title':doc_title}
-    logging.info("INFO : Sending weekly Current Affair Result to API : " + api_to_send_current_affairs)
-    print(result)
-    logging.info("************ result send is *****************")
-    logging.info(result)
-    with open("/home/er-ubuntu-1/webScrapping/api_result_json/weeklyCA.json", "w") as outfile:
-        json.dump(result, outfile)
-    send_current_affairs = requests.post(api_to_send_current_affairs, json=result)
-    print(send_current_affairs.status_code)
-    if send_current_affairs.status_code == 200:
-        print("Current Affairs sent successfully!")
-        logging.info("************ weekly Current Affairs sent successfully! *****************")
-        return jsonify({'Message':"weekly Current Affairs Sent!!!!!!!!!!!  ->   Check Your Mail Please"}), 200
-    else:
-        return jsonify({'Message':"Error While Sending weekly Current Affairs !!!!!!!  ->   Create Yourself For Today"}), 400
+    try:
+        data = request.files["xl_file"]
+        marks = "2"
+        negMarks = "0.66"
         
+        df = pd.read_csv(data)
+        total_para = len(df)
+        test = {
+            'questions':[]
+        }
+        res =""
+        para_number_for_prompt_role = 0
+        for index, row in df.iterrows():
+            print(row["Links"])
+            logging.info("INFO : UserPrompt: " + row["Links"])
+            result = ""
+            url = row['Links']
+            data_ = scrape_website_current_affair(url)
+            if len(data_) > 10:
+                result += "\n**********\n"  + data_
+                today_date = datetime.datetime.now()
+                file_path = '/root/webScrapping/currentAffairs/WeeklyCA_'+today_date.strftime("%Y-%m-%d")+'.txt'
+                with open(file_path, 'w') as f:
+                    f.write(result)
+                logging.info("INFO : UserPrompt: " + data_)
+                once = True
+                try:
+                    data = getGPTResponse(data_,para_number_for_prompt_role,total_para,True)
+                    
+                    
+                    res += data
+                    res += "\n" + "<hr>" + "\n"
+                    logging.info("INFO : Response: " + data)
+                    
+                except Exception as e:
+                    print("Error while getting GPT Response: "+str(e))
+                    if once:
+                        once = False
+                        logging.info("trying again......")
+                        data = getGPTResponse(data_,para_number_for_prompt_role,total_para,True)
+        # Log the result
+        api_to_send_current_affairs = "https://er.edurev.in/Tools/CreateCurrentAffairsDocument"
+        # details for weekly CA
+        # updated for july
+        courseId = "12112"
+        subCourseId = "88504"
+        current_date = datetime.datetime.now()
 
-    
+        # Format the date as "8th July 2024"
+        day = current_date.strftime("%d").lstrip("0")  # Get day without leading zeros
+        month = current_date.strftime("%B")  # Get full month name
+        year = current_date.strftime("%Y")  # Get full year
 
+        # Create the formatted title
+        doc_title = f"Weekly Current Affairs {day} {month} {year}"
+        # quiz_title = f"Weekly Current Affairs MCQs {day} {month} {year}"
+
+        # result = {'result': res, 'test': test,'courseId':courseId,'subCourseId':subCourseId,'marks':marks,'negMarks':negMarks , 'quiz_title':quiz_title, 'doc_title':doc_title}
+        result = {'result': res, 'courseId':courseId,'subCourseId':subCourseId,'marks':marks,'negMarks':negMarks ,  'doc_title':doc_title}
+        logging.info("INFO : Sending weekly Current Affair Result to API : " + api_to_send_current_affairs)
+        print(result)
+        logging.info("************ result send is *****************")
+        logging.info(result)
+        with open("/root/webScrapping/api_result_json/weeklyCA.json", "w") as outfile:
+            json.dump(result, outfile)
+        send_current_affairs = requests.post(api_to_send_current_affairs, json=result)
+        print(send_current_affairs.status_code)
+        if send_current_affairs.status_code == 200:
+            print("Current Affairs sent successfully!")
+            logging.info("************ weekly Current Affairs sent successfully! *****************")
+            return jsonify({'Message':"weekly Current Affairs Sent!!!!!!!!!!!  ->   Check Your Mail Please"}), 200
+        else:
+            return jsonify({'Message':"Error While Sending weekly Current Affairs !!!!!!!  ->   Create Yourself For Today"}), 400
+    except Exception as e:
+        print(e)
+        logging.info("Error while getting Weekly Current Affairs: "+str(e))
+        return jsonify({'error': 'An error occurred'}), 500
+        
 @app.route('/getCurrentAffairs', methods=['GET'])
 def scrape_websites_current_affair():
     websites = [
@@ -3096,6 +4202,8 @@ def scrape_websites_current_affair():
     doc_title = ""
     quiz_title = ""
     result = ""
+    print("entered")
+
     for url in websites:
         if url == "https://vajiramias.com/":
             date = scrape_website_vaji(url)
@@ -3111,7 +4219,7 @@ def scrape_websites_current_affair():
                     result += date
     results = result.split("**********")
     today_date = datetime.datetime.now()
-    file_path = '/home/er-ubuntu-1/webScrapping/currentAffairs/current_affairs_'+today_date.strftime("%Y-%m-%d")+'.txt'
+    file_path = '/root/webScrapping/currentAffairs/current_affairs_'+today_date.strftime("%Y-%m-%d")+'.txt'
     with open (file_path, 'w') as f:
         f.write(result)
     
@@ -3153,43 +4261,10 @@ def scrape_websites_current_affair():
             logging.info("INFO : UserPrompt: " + paragraph)
             once = True
             try:
-                data  = getGPTResponse(paragraph,para_number_for_prompt_role,total_para)
-                # para_number_for_prompt_role+=1
-                # # data  = getGPTResponse(paragraph)
-                # try:
-                #     print("Type of data_test:", type(data_test))
-                #     if type(data_test) == str:
-                #         data_test = json.loads(data_test)
-                #         print('converted to json')                    
-                        
-
-                #     print("Content of data_test:", data_test)
-                #     if isinstance(data_test, dict) and 'questions' in data_test:
-                #         for question in data_test['questions']:
-                #             # print(question)
-                #             test['questions'].append(question)
-                #     else:
-                #         test['questions'].append(data_test)
-                #         print("data_test is not a dictionary or does not contain 'questions' key. therefore added to test directly as a question")
-                # except Exception as e:
-                #     print("Error:", str(e))
-                
-                res += data
+                data  = getGPTResponse(paragraph,para_number_for_prompt_role,total_para,False,True)
+                res += data#.replace("<h2","<h7").replace("</h2>","</h7>")
                 res += "\n" + "<hr>" + "\n"
                 logging.info("INFO : Response: " + data)
-                # for question in test['questions']:
-                #     question_patterns = [r"Question \d+:", r"Question:"]
-                #     answer_patterns = [r"ANSWER", r"ANS", r"ANSWEROPTION", r"Answer:"]
-                #     solution_patterns = [r"Solution:"]
-                    
-                #     question["question"] = clean_text(question["question"], question_patterns)
-                #     question["answer"] = clean_text(question["answer"], answer_patterns)
-                #     question["solution"] = clean_text(question["solution"], solution_patterns)
-                    
-                #     option_patterns = [r"Option [A-Z]:", r"^\(\d+\)|^\([A-Z]\)", r"\([a-z]\):",r"\([a-z]\)",r"\([A-Z]\)"]
-                #     for i, option in enumerate(question["options"]):
-                #         question["options"][i] = clean_text(option, option_patterns)
-                #         # print(question["options"][i])
             except Exception as e:
                 print("Error while getting GPT Response: "+str(e))
                 if once:
@@ -3207,10 +4282,10 @@ def scrape_websites_current_affair():
     doc_title = f"UPSC Daily Current Affairs: {day} {month} {year}"
     # quiz_title = f"Daily Current Affairs MCQs: {day} {month} {year}" 
     # Log the result
-    api_to_send_current_affairs = "https://p1.edurev.in/Tools/CreateCurrentAffairsDocument"
+    api_to_send_current_affairs = "https://er.edurev.in/Tools/CreateCurrentAffairsDocument"
     # details for daily CA  
     courseId = "12112"
-    subCourseId = "86529"
+    subCourseId = "106714"
     result = {'result': res,'courseId':courseId,'subCourseId':subCourseId,'marks':"2",'negMarks':"0.66",  'doc_title':doc_title}
     logging.info("INFO : Sending Current Affair Result to API : " + api_to_send_current_affairs)
     print(result)
@@ -3225,101 +4300,64 @@ def scrape_websites_current_affair():
     else:
         return jsonify({'Message':"Error While Sending Current Affairs !!!!!!!  ->   Create Yourself For Today"}), 400
         
-
+def checkExisting(text, processed_texts):
+    for processed_text in processed_texts:
+        if text in processed_text:
+            return True
+    return False
 
 def sanitize_filename(filename):
     # Remove invalid characters
     return re.sub(r'[<>:"/\\|?*\n]', '', filename)
 
-def download_images(query):
-    # IMAGES FROM GOOGLE
+def donwload_google_images(query):
     sanitized_query = sanitize_filename(query)
+    google_images = []
     image_links = []
-    google_crawler = GoogleImageCrawler(storage={'root_dir': '/home/er-ubuntu-1/webScrapping/googleImagesDownload/'})
-    google_crawler.crawl(keyword=sanitized_query, max_num=2)
-    for filename in os.listdir('/home/er-ubuntu-1/webScrapping/googleImagesDownload/'):
+    google_crawler = GoogleImageCrawler(storage={'root_dir': '/root/webScrapping/googleImagesDownload/'})
+    google_crawler.crawl(keyword=sanitized_query, max_num=6)
+    for filename in os.listdir('/root/webScrapping/googleImagesDownload/'):
         # if filename.endswith('.jpg'):
         # convert to base64 each image 
-        base_64_image = base64.b64encode(open(f'/home/er-ubuntu-1/webScrapping/googleImagesDownload/{filename}', 'rb').read())
+        base_64_image = base64.b64encode(open(f'/root/webScrapping/googleImagesDownload/{filename}', 'rb').read())
         base64_image = "data:image/jpeg;base64," + base_64_image.decode("utf-8")
-        os.remove(f'/home/er-ubuntu-1/webScrapping/googleImagesDownload/{filename}')
+        os.remove(f'/root/webScrapping/googleImagesDownload/{filename}')
         # image_name = str(uuid.uuid4()) + ".jpg"
         # os.rename(f'/home/er-ubuntu-1/webScrapping/googleImagesDownload/{filename}', f'/var/www/html/images/{image_name}')
         # image_path = f"{Public_IP}{image_name}"
         image_links.append(base64_image)
-    # IMAGES FROM FREEPIK
-    url_to_register = "https://www.freepik.com/pikaso/api/text-to-image/create-request?lang=en&cacheBuster=2"
+        google_images.append(base64_image)
+    google_images.reverse()
+    return image_links , google_images
 
-    Cookie = ("XSRF-TOKEN=eyJpdiI6IndJZ0JsMm5FRlJuTFNEcmIrUUFIUmc9PSIsInZhbHVlIjoiL1BvYzBsOURuYkpWWnVpNWpmbzRrb3N5bFpieVRySi9zMFg0eXd0SVlFMFk3YXlQclhPUWJpREZXc0JDZTU3MGlZMVU5Wm1XL1hLSjRtMkZOdEpQWjM5OXg4Q0psTW5heTlOTG1tZ3Z5enJCa29CWCtsNjRZNHVNZTI5eXM0MXUiLCJtYWMiOiIzZjJjODY2OGMyZWFjNzhjMzlkODRkOTcyZGE4YzgyMTcwMTdkMGZiNWE3NjI1OWFjN2UzZmZiM2RiNmY5YzA5IiwidGFnIjoiIn0%3D; pikaso_session=eyJpdiI6ImEyL3NIYmtOZGJsNHVkbTlDU3A2Umc9PSIsInZhbHVlIjoibWEwdUJEaVRrRDE0eEZsQmc0cmUrWXFXeXQzRFJDRy9XTHFmbFQ1a1hqZkxwMjJXc2FzMUdBWnRkNFdKNlBIMks2eFNzYi9TMGhLaVVWR1d3aFd1V0c1TGphY3I1eGNzeXkycnlvVE9EWGFtenUxdEEyQnBKaG5GOHIxb0VYd3MiLCJtYWMiOiIxOTk0MThmZjgyZGYyMTQzMTMxMzlkMjgxMzFkMjI0ODcxYzk4NDFmYzcwOTM0YTQyZTVlZDZkZDQzYWY2MjkwIiwidGFnIjoiIn0%3D; _gcl_au=1.1.730307295.1718188112; ads-tag=b; _ga=GA1.1.687132118.1718188113; _cs_ex=1709818470; _cs_c=0; OptanonAlertBoxClosed=2024-06-12T10:28:33.670Z; GR_TOKEN=eyJhbGciOiJSUzI1NiIsImtpZCI6ImRmOGIxNTFiY2Q5MGQ1YjMwMjBlNTNhMzYyZTRiMzA3NTYzMzdhNjEiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiSGFyZGlrIEppbmRhbCIsInBpY3R1cmUiOiJodHRwczovL2F2YXRhci5jZG5way5uZXQvNDk2MTY0MjItMjExMTI4MDgwMTAwLmpwZyIsImFjY291bnRzX3VzZXJfaWQiOjQ5NjE2NDIyLCJzY29wZXMiOiJmcmVlcGlrL2ltYWdlcyBmcmVlcGlrL3ZpZGVvcyBmbGF0aWNvbi9wbmcgZnJlZXBpay9pbWFnZXMvcHJlbWl1bSBmcmVlcGlrL3ZpZGVvcy9wcmVtaXVtIGZsYXRpY29uL3N2ZyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9mYy1wcm9maWxlLXByby1yZXYxIiwiYXVkIjoiZmMtcHJvZmlsZS1wcm8tcmV2MSIsImF1dGhfdGltZSI6MTcxODE4OTQzMCwidXNlcl9pZCI6Ijg1ZGI4Nzk1YWUyODRjZGI4MDM0MTJkZDdhN2ExODE1Iiwic3ViIjoiODVkYjg3OTVhZTI4NGNkYjgwMzQxMmRkN2E3YTE4MTUiLCJpYXQiOjE3MTgxODk0MzAsImV4cCI6MTcxODE5MzAzMCwiZW1haWwiOiJoYXJkaWtqaW5kYWxAZWR1cmV2LmluIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMDc0Nzg1ODM5MjIxMTU5MzI2NDMiXSwiZW1haWwiOlsiaGFyZGlramluZGFsQGVkdXJldi5pbiJdfSwic2lnbl9pbl9wcm92aWRlciI6ImN1c3RvbSJ9fQ.WMCn_lXRzUYfrvZVasIvQxh8c75f9qu73qPcIYGcoEteVa0mOljTlmaJNIIqb8xUjv9lZmj-Lmhx03aaP5i3ejZgKPSEM-JySj8bWbgSboVJXzRLOr5FX-mhRaWxWujkVqnbLaukLjzOQ7fjzK2v6g2uxiaXvnsrEpaCGwRiZXqTj5gHxyAlmAlWyW73VZxOxOVljqVVEEsMMgl8IG6GaDLY02MktWbm81KzfDex2pWqG7cXBSPgQTRRdh6LnAob7qFPHdsi81LeDQ198FSjPs6qX3yVjO8FAsP2kV-pfES0CjOrcFthlRyaTi3PInaWb_CfDAS83g2wizzYgZdN1Q; GR_REFRESH=AMf-vBzyLZC1yAVp5vgCvG-W6Te7RdJdUukraJmXfhdud2VHg-kWqs-focaEeFKZJi-l1BCaMWCo2pDBu_iQAEnlXwv1gCZDtr6Xd86Y3OqBUf_CxXhLNy3kmaQzII8zIf-4ON1FreB-PQI4D93BkPKZxFJEvwUKzdAjAdLS5htmkqaeCxQAMFQBDaWEzlRaHCCzkLYAxZGt; _fc=FC.700669b7-addc-6731-f954-0499f36f49ee; _fcid=FC.700669b7-addc-6731-f954-0499f36f49ee; FP_MBL=1; GRID=49616422; OptanonConsent=isGpcEnabled=0&datestamp=Wed+Jun+12+2024+16%3A21%3A57+GMT%2B0530+(India+Standard+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&geolocation=IN%3BCH&AwaitingReconsent=false; ABTastySession=mrasn=&lp=https%253A%252F%252Fwww.freepik.com%252Fapi; ABTasty=uid=ww04er0x8zq86v80&fst=1718188112547&pst=-1&cst=1718188112547&ns=1&pvt=8&pvis=8&th=; csrf_freepik=b90d65d74b8ee8fb02b5ea92ed0d277c; _hjSessionUser_1331604=eyJpZCI6IjA4MWYyMGFkLTQ2MmQtNWUxZC04M2QwLTc4MzVlYTVkMTA5ZiIsImNyZWF0ZWQiOjE3MTgxODk1MTg1MzYsImV4aXN0aW5nIjpmYWxzZX0=; _hjSession_1331604=eyJpZCI6IjA4Yjk0YzMyLTRjYzMtNGY2ZC04NmRlLWQwM2E4OWViNTM2ZCIsImMiOjE3MTgxODk1MTg1MzgsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=; _hjHasCachedUserAttributes=true; __gads=ID=db56d1d0d311f2d1:T=1718189520:RT=1718189520:S=ALNI_MZDSV6XCBAfOLakpP2qMUdeIiNW0A; __gpi=UID=00000e48ac1ca705:T=1718189520:RT=1718189520:S=ALNI_MY7BoTr9OIVSJvYZANl7RQ2_PL-mQ; __eoi=ID=6fda754bad090ba2:T=1718189520:RT=1718189520:S=AA-AfjblwLbuydwQRMLRirVsVBXN; _cc_id=445b0078bf58440aa386dd6e44b74197; panoramaId_expiry=1718275921667; _au_1d=AU1D-0100-001718189523-JFUE3VRD-FISJ; cto_bundle=E3rCol91VUg1SHM3WFpYeGIxSm05Qnk1Vm1qZ3B4MDNWVHZUaUtvZHJ2Z2VRJTJGYXR2OEZBRHlZOHV3Tmk0RFA5bjVGbm9KSENCTlJDU0VjdE9kSmRkSiUyRkxqSWU0TkNSUjJBTlBCaEJmMXEyRlR2N2R3ZGJOZkJ3VEdhYXR0RnIlMkIlMkZ3MjBrcyUyRkt0WXp1RXZxeWZ6YTFWRDk1STFnanRIVUxRaHdkNGdFenMyYktKWlFBMFM2S3IzdXpTUGtTdzVKYzJtQVQ0c1JCMTkwaFpxU3FJS1o4QlZuUmJ0JTJGYXJvMHVnR2twY1FqaktvJTJCQnclMkZsNCUzRA; ab.storage.userId.35bcbbc0-d0b5-4e6c-9926-dfe1d0cd06ab=g%3A49616422%7Ce%3Aundefined%7Cc%3A1718189526058%7Cl%3A1718189526062; ab.storage.deviceId.35bcbbc0-d0b5-4e6c-9926-dfe1d0cd06ab=g%3A3a8f2c84-9038-32c2-7ad0-29a065430b1f%7Ce%3Aundefined%7Cc%3A1718189526063%7Cl%3A1718189526063; ab.storage.sessionId.35bcbbc0-d0b5-4e6c-9926-dfe1d0cd06ab=g%3Ab24e5449-4676-d581-b316-1c8ecbb7e67d%7Ce%3A1718225595036%7Cc%3A1718189526061%7Cl%3A1718189595036; _ga_18B6QPTJPC=GS1.1.1718189526.1.1.1718189595.58.0.0; ph_phc_Rc6y1yvZwwwR09Pl9NtKBo5gzpxr1Ei4Bdbg3kC1Ihz_posthog=%7B%22distinct_id%22%3A%22583477%22%2C%22%24sesid%22%3A%5B1718189604802%2C%2201900c13-894c-7a18-acf9-a28463a1e0c1%22%2C1718189525324%5D%2C%22%24epp%22%3Atrue%7D; _ga_QWX66025LC=GS1.1.1718188112.1.1.1718189604.49.0.0")
-    data = {
-        "prompt": query,
-        "layout_reference_image": None,
-        "width": 1216,
-        "height": 832
-    }
+def download_gamma_images(query):
+    Gamma_images = []
+    image_links = []
+    queryForGamma = query.replace(" ","+")
+    url = f"https://api.gamma.app/media/images/search?query={queryForGamma}&provider=web&count=48&type=1&license=All&page=1&gammaFeature=mediaDrawer"
+    print(url)
+    payload = {}
     headers = {
-        "Sec-Ch-Ua-Platform": "\"Windows\"",
-        "Sec-Fetch-Dest": "empty",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Site": "same-origin",
-        "Cookie":Cookie,
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-        "X-Xsrf-Token": "eyJpdiI6IjIzbGNOSVZpZElzUWp2UW5iTlBEOWc9PSIsInZhbHVlIjoiY3FZb1JvU0xDK2VmL1RYVmhYeWluTVdNRGpFY25GMk5zeEhURzF2Z0paNnZrdC8yMkwyU1lEL2RDMDZEYklEUWVDUGQwNkRYZjVZUnlKb0IwVjZhNGlsWS9DZHFxb291OE1Fbk5odWZyUmtNVUtHSnFKUmxXM1BSWVM1T3hCQzUiLCJtYWMiOiIyZjgzNzFmZjUxYmM2YjFjNzgyMjdhNjdkYTE2MDRiYzE1NWU4MTkwZTE1MmQzOGJkYzQ1MGE2MzhlZmFlN2JkIiwidGFnIjoiIn0="
+    'Cookie': 'gamma_visitor_id=z8yqruoi09ygg8t; ajs_anonymous_id=z8yqruoi09ygg8t; optimizelyEndUserId=oeu1731328798103r0.44930481277389767; _gcl_au=1.1.130070293.1731328798; _ga=GA1.1.883436424.1731328799; intercom-id-ihnzqaok=abf2e756-0cc5-4e6d-a5cd-64a373b3d687; intercom-device-id-ihnzqaok=fb6b3a08-82dd-409c-af3d-35b9d9aefacb; _fbp=fb.1.1731563005646.33683544367519860; cebs=1; _ce.clock_data=28%2C223.178.208.191%2C1%2C7675d59b5e84e0a878ee6f0a97f9056f%2CChrome%2CIN; pscd=try.gamma.app; OptanonConsent=isGpcEnabled=0&datestamp=Thu+Nov+14+2024+11%3A13%3A28+GMT%2B0530+(India+Standard+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0c6412a5-20eb-459b-8914-5ab27e17f836&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1&AwaitingReconsent=false; _rdt_uuid=1731328798738.f432886c-c56c-4fbf-b810-4506f9164065; cebsp_=2; gamma_logged_in=true; ajs_user_id=sl70t6csvo37xmm; _ga_JTMLK9TNNV=GS1.1.1731563005.3.1.1731563026.0.0.0; _ce.s=v~ac4f6d5f029f94c25c3823ccb974fad285421b28~lcw~1731563027481~vir~returning~lva~1731563005941~vpv~1~v11.fhb~1731563006162~v11.lhb~1731563009313~v11.cs~449691~v11.s~5e6551c0-a24b-11ef-93f5-6f4d7e0e81c4~v11.sla~1731563027538~gtrk.la~m3gvwmvr~v11.send~1731563027222~lcw~1731563027538; __cf_bm=Ttm3gJROUM1YTt7PVAbdXR0HAMTFQW49MiPpAm0ntQ8-1731566257-1.0.1.1-wZ_J0S5usMPog70e9y6pIVv6FC3fr8drPJfWY9KY05ljl0Vu3r6BsozO9Xhw4RSB0JuyZLWXL70OhJlYn2wBvA; cf_clearance=VZUxLGJltpv7u1d4gPmBXEliwyG7F0kr6rLwHIdg5CE-1731566266-1.2.1.1-KF8nVC5KFXjyUc.QOno7YThAZDwU4SPqReiIgPJPdw69GrptWIhwM7ujN4_yUV.PVM8yEoSsi8VGZU2tOmTnrAfqDsfYty0..bkZKoZ5PJnNpxbIanTmI0QYZtCagdZgditNcMneXMF20eWPQWZVcl1lEVg1piAc8IHTpIVTa888zTvnlslEhZmmGQ0.hlN3P63hRfZRB99eH0CET_0R.zWXezLmUD_hY5Qr.uAAyhVfMj3zxWWCWWrCbY4rtIotSpjQxoPrZzOPdX7DAkS7teQ9FfzcF7MVo2jaK1XOD__o3GpamSbSwxvF.rRCzCvfEJYPX1BC9L4UAeJmQv9T5p4bXyb6tl9bY130bM5YBlzvPwc9SfVFJ8oyxJSshCnKGHDrBjv8E6XyVrOmYn.deg; gamma_session=eyJwYXNzcG9ydCI6eyJ1c2VyIjp7ImFjY2Vzc190b2tlbiI6ImV5SnJhV1FpT2lKVlJrOW1ialFyWkd0RlJFcHZPSE5RWEM5MlowMTVZak5VVm1oRlVsVTBTbGhOZVNzMU5XTmtOa0pxUVQwaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SnpkV0lpT2lJek5HSXlZbVk1TmkweU1tWmtMVFF3T0RBdE9XRXpOUzA0WlRKbU1EQTBaVGM0Wm1FaUxDSmpiMmR1YVhSdk9tZHliM1Z3Y3lJNld5SjFjeTFsWVhOMExUSmZNbTlzTmxKQ1RubFpYMGR2YjJkc1pTSmRMQ0pwYzNNaU9pSm9kSFJ3Y3pwY0wxd3ZZMjluYm1sMGJ5MXBaSEF1ZFhNdFpXRnpkQzB5TG1GdFlYcHZibUYzY3k1amIyMWNMM1Z6TFdWaGMzUXRNbDh5YjJ3MlVrSk9lVmtpTENKMlpYSnphVzl1SWpveUxDSmpiR2xsYm5SZmFXUWlPaUl5TVhCaGN6QmxNV0YwWkhCdE1tZGlhbUZ2TmpjNWFHTmhiU0lzSW05eWFXZHBibDlxZEdraU9pSTBORGRrTVRRMk5pMDROamt6TFRRd1pUTXRZbVk0WVMxallqazJZVFF5WW1Zek9ESWlMQ0owYjJ0bGJsOTFjMlVpT2lKaFkyTmxjM01pTENKelkyOXdaU0k2SW05d1pXNXBaQ0J3Y205bWFXeGxJR1Z0WVdsc0lpd2lZWFYwYUY5MGFXMWxJam94TnpNeE5UWXpNREkwTENKbGVIQWlPakUzTXpFMU5qazROamNzSW1saGRDSTZNVGN6TVRVMk5qSTJOeXdpYW5ScElqb2lZamRqTlRZNU56TXRNelJqT1MwME9XTmtMVGxpTldVdFpqSTNNekk0TURWaVpqRTRJaXdpZFhObGNtNWhiV1VpT2lKbmIyOW5iR1ZmTVRFeE5qSTJORFkwTnpjNU16azVNalkzT1RZMUluMC5pS0hjdzNkbktZUHVuNzAyaGhlZFJ5REFub19qWm5pY2JOTS11Z3I2LTRmMldUX0tqekEydTc3VnRscGRiWTQwOGdQXzYwYXRKOElYa3V1MmhQamljbDY3YUdPelNsMHNWdVpDMDhoSUVrMDRIMjB2QXYySGJlb0l0UVJpcjA1Z3NCRDZFNkp4cjVsX3M1a0FLaU80SVNZUENDUnRWMHFyMmVrTzJtc09WWUpJWXY5S2ZXVmF6bG05MHVVbXZhMUpRVXN6QnpkUUpPUEdZWXhYM0FpcERlZE9uRUpzeU90LU9pd3ZqOGdGUG5EZWxvaTVLWDUxU3Y2a0pXeXRxUWpaXzNZUzB2bnZfaEItS0JhVUtxVEdjR3dXRTUzc2VPWTg1RkhXSHl5blhMdTVLSXZLZlFLbkhaSHJINDQ2NF9zRU1HT1drWVJyOERIOGVrdWdHQ3JTWkEiLCJ1c2VyaW5mbyI6eyJzdWIiOiIzNGIyYmY5Ni0yMmZkLTQwODAtOWEzNS04ZTJmMDA0ZTc4ZmEiLCJpZGVudGl0aWVzIjoiW3tcInVzZXJJZFwiOlwiMTExNjI2NDY0Nzc5Mzk5MjY3OTY1XCIsXCJwcm92aWRlck5hbWVcIjpcIkdvb2dsZVwiLFwicHJvdmlkZXJUeXBlXCI6XCJHb29nbGVcIixcImlzc3VlclwiOm51bGwsXCJwcmltYXJ5XCI6dHJ1ZSxcImRhdGVDcmVhdGVkXCI6MTczMTU2MzAyNDM2N31dIiwiZW1haWxfdmVyaWZpZWQiOiJmYWxzZSIsIm5hbWUiOiJSYWh1bCBLYXVzaGFsIiwiZ2l2ZW5fbmFtZSI6IlJhaHVsIiwiZmFtaWx5X25hbWUiOiJLYXVzaGFsIiwiZW1haWwiOiJyYWh1bC5rYXVzaGFsQGVkdXJldi5pbiIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NMNVpCaGdmS2hFenhJRGRuOFpmQTJkenpYRnBGWElaVzdRT2hOMWthbENmZHA2Y2lZPXM5Ni1jIiwidXNlcm5hbWUiOiJnb29nbGVfMTExNjI2NDY0Nzc5Mzk5MjY3OTY1IiwiaXNzIjoiaHR0cHM6Ly9jb2duaXRvLWlkcC51cy1lYXN0LTIuYW1hem9uYXdzLmNvbS91cy1lYXN0LTJfMm9sNlJCTnlZIn0sImlkIjoic2w3MHQ2Y3N2bzM3eG1tIn19fQ==; gamma_session.sig=admkmhTmByFlQPSbwXa0rSG-6l0; intercom-session-ihnzqaok=L0haTXB2eVhXci9XbUhxRWtSKzNxWmpUS3o4eGEvdE5yTXQ0b2JsYVdpYjdaNlR4d2tUNG5LMW1NYmxQTGVqUy0tdEFObG5kU25TeUFvc0ZkVG1telBWQT09--41ac7b0fcfafeb50d277b6854ed732b814f30dbc; gamma_logged_in=true',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36'
     }
-    response = requests.post(url_to_register, headers=headers, json = data)
-    # print(response)
-    id_ = 0
+
+    response = requests.request("GET", url, headers=headers, data=payload)
+
     if response.status_code == 200:
         response_data = response.json()
-        if "id" in response_data:
-            id_ = response_data["id"]
+        for image in response_data:
+            image_url  = image.get('imageUrl')
+            title = image.get('title')
+            Gamma_images.append({
+                "imageUrl": image_url,
+                "title":title
+            })
+    return Gamma_images
 
-
-    url_to_fetch_images = "https://www.freepik.com/pikaso/api/render"
-    for i in range(1, 6):
-        seed = random.randint(10000, 99999)
-        
-        data = {
-            "prompt": query,
-            "permuted_prompt": query,
-            "height": 832,
-            "width": 1216,
-            "num_inference_steps": 8,
-            "guidance_scale": 1.5,
-            "seed": seed,
-            "negative_prompt": "",
-            "seed_image": "",
-            "sequence": i,
-            "image_request_id": id_,
-            "should_save": True,
-            "selected_styles": {},
-            "aspect_ratio": "3:2",
-            "tool": "text-to-image",
-            "experiment": "8steps-lightning-cfg1-5",
-            "mode": "realtime",
-            "style_reference_image_strength": 1,
-            "layout_reference_image_strength": 1,
-            "user_id": 583477
-        }
-        response = requests.post(url_to_fetch_images, headers=headers, json=data)
-        if response.status_code == 200:
-            response_data = response.json()
-            if "results" in response_data and "output_image" in response_data["results"]:
-                base64_image = response_data["results"]["output_image"][0]
-                base64_image = "data:image/jpeg;base64,"+base64_image
-                # print("Base64 Image Data:", base64_image)
-                # 11 july 2024 sending base 64 directly to the output 
-                # image_data = base64.b64decode(base64_image)
-                # image_name = str(uuid.uuid4()) + ".jpg"
-                # with open(f'/var/www/html/images/{image_name}', 'wb') as f:
-                #     f.write(image_data)
-                # image_path = f"{Public_IP}{image_name}"
-                image_links.append(base64_image)
-            else:
-                print("Image data not found in the response.")
-        else:
-            print("Failed to fetch data. Status code:", response.status_code)
-    # UNSPLASH PICTURES
+def download_unsplash_images(query):
+    unsplash_images = []
+    image_links = []
     url = "https://unsplash.com/ngetty/v3/search/images/creative"
 
     params = {
@@ -3333,6 +4371,7 @@ def download_images(query):
     }
 
     headers = {
+        "Cookie": "require_cookie_consent=false; xp-search-region-awareness=control; xp-reduced-affiliates=half; xp-unlock-link-upgrade=control; _sp_ses.0295=*; uuid=52f239da-c65b-474f-bf29-2a781190cfa1; azk=52f239da-c65b-474f-bf29-2a781190cfa1; azk-ss=true; _dd_s=logs=1&id=c441b13f-9584-46c3-a38d-e2893a3e1400&created=1729062320804&expire=1729063455425; _sp_id.0295=9dae181a-e97a-4b0e-bd17-c53c9853f8b4.1729062321.1.1729062555..14a7d76d-0a6f-4d6e-b905-6aaff623c18a..6bab66c0-4eb6-4391-b507-28c2fb79090d.1729062321582.41",
         "Origin": "https://unsplash.com",
         "Referer": "https://unsplash.com/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
@@ -3347,57 +4386,942 @@ def download_images(query):
                 break
             for size in image.get('display_sizes', []):
                 if size['name'] == 'high_res_comp':
-                    image_links.append(size['uri'])
+                    # save image to base url 
+                    unsplashImgUrl = size['uri']
+                    try:
+                        image_data = requests.get(unsplashImgUrl).content
+                        base64_image = base64.b64encode(image_data).decode("utf-8")
+                        base64_image = "data:image/jpeg;base64,"+base64_image
+                        image_links.append(base64_image)
+                        unsplash_images.append(base64_image)
+                    except Exception as e:
+                        print("Error while downloading image from Unsplash:", str(e))
+                    # image_links.append(size['uri'])
                     break
-            
             i += 1
+    return image_links, unsplash_images
 
-    return image_links
+def download_images(query):
+    image_links = []
+    google_images = []
+    freepik_images = []
+    unsplash_images = []
+    Gamma_images = []
+    image_links_google= []
+    image_links_unsplash = []
+    # IMAGES FROM GOOGLE
+    image_links_google, google_images = donwload_google_images(query)
+    image_links.extend(image_links_google)
+    # images from gamma
+    Gamma_images = download_gamma_images(query)
+    # images from unsplash
+    image_links_unsplash, unsplash_images = download_unsplash_images(query)
+    image_links.extend(image_links_unsplash)
+
+    # # # IMAGES FROM FREEPIK
+    # # try:
+    # #     # url_to_register = "https://www.freepik.com/pikaso/api/text-to-image/create-request?lang=en&cacheBuster=2"
+    # #     url_to_register = "https://www.freepik.com/pikaso/api/start-tti"
+
+    # #     # Cookie = ("XSRF-TOKEN=eyJpdiI6IlhMSU9TRG45amFVWkUvOTR3dVRVZkE9PSIsInZhbHVlIjoidU9Rb1FXZlZTdkd5SVZBdjMyell5TGM2ajFKbGFXVXh0Z1g2VUU4MkM4c2lZNWNLTG1VSGZxUjAxRDdaTk5ncENva0RzdUNuZCt4ZWxpQlp4a2taaVFGYmdqN3hVWk9aam5Ed1hpbUFkOTNKdGh1RWpDcWVUeGxzTXpscWU2SEkiLCJtYWMiOiIyOTllMjhjMzc0YjQ2ZjBjMzUyNDllY2RlOTZjYWQzMDc1Yzc0M2ZmMGM1YjQ2ZGVmN2IwYTgzNDZkNWIxM2YxIiwidGFnIjoiIn0%3D; pikaso_session=eyJpdiI6Ik1ITnMvSjI3Q3FEc2hCajBXaU0xWEE9PSIsInZhbHVlIjoiTGQ4REpqQjZhekc1NnVYV1I4N0g1T05uWDJsMC81UURZcFZRS3VJQW4vWlFaSDlxb1diaVNiL2gyWmp2Rm5VMmczQlhkU3piNlNpdElJa3FTWWxsQU51QVFuNjN2WnArZVMvcloyNWg2K0l3UTNoR2l1OVFzWGNUN0VaU0RoeEwiLCJtYWMiOiJmZjBiZmQ0MTkyM2NiNjI3Y2I1YTMzZGQ2YjliMmNiNWI3YjUyNTNkMWJlNTlmODQ2ZjI0NzkyZDAyZDUwMjJiIiwidGFnIjoiIn0%3D; _gcl_au=1.1.1799181729.1726211091; d_abcookie=V6b; PV_UI=V6; pv=J; _ga=GA1.1.1797061377.1726211091; OptanonAlertBoxClosed=2024-09-13T07:04:52.441Z; _ga_18B6QPTJPC=GS1.1.1726211090.1.1.1726213759.60.0.0; _ga_Q29FZ8F7H4=GS1.1.1729062980.2.0.1729062980.0.0.0; ak_bmsc=5884E50669A2DD5E73618E1736BE1C18~000000000000000000000000000000~YAAQN2w3F6ToKnSSAQAAFlUvlBlajq+sSURvA9/Z9UpHwQEoUaB88bv4MZHBlxFlliGeUJxezOz4IHlqaoQ4Ks4R3ux3PSSbVXV9WT54Q9NZtjRzQWLD2NfHHTzMojqkvILtrP5G9cSli70xJ3U147naamrY+uzmGdw3KpOIPQGThYYFCgI/ENnvb1VSQPPEVEs3tGFhZ3fcF9k/pxt++BP3Z+rR/lKEtK9lXnVwkeaqIWbF298stIECWddBAK1c1Q5PiIA8Yefl6Dyo1h8Aj86sUYQGl/GyEq6EJbYKkqJExRcllXKxKEsPmgR7ytj2RIap0/drNzMvnpVTNdY6p1rdE3djGxk/bo+gSTcEKVJtPQzUMXHkcPO6lTrxyt0MBtqSS+ZFp+Xg6AtgIPKJniIIBEKZv2ORbqNqg7OtSqn3B5ey3OL+pqp6hgcuNk+535xJ6jvbqKPtotAlKOP9gfjAhL3PRi0oo51Y; OptanonConsent=isGpcEnabled=0&datestamp=Wed+Oct+16+2024+12%3A46%3A28+GMT%2B0530+(India+Standard+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=75489f8c-8690-4773-91ec-4fb7d90f955a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&intType=1&geolocation=IN%3BCH&AwaitingReconsent=false; csrf_freepik=1e1f6cd739567a65a92dbb87db69d9e6; GR_TOKEN=eyJhbGciOiJSUzI1NiIsImtpZCI6IjhkOWJlZmQzZWZmY2JiYzgyYzgzYWQwYzk3MmM4ZWE5NzhmNmYxMzciLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiREFSSyBTRVRTIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FHTm15eFlEOUt4Sy1zejE5VEQ3ODlDVEp1WDc0el9IQTFkeUJPVFhJXzhIPXM5Ni1jIiwiYWNjb3VudHNfdXNlcl9pZCI6OTg3ODk0NzQsInNjb3BlcyI6ImZyZWVwaWsvaW1hZ2VzIGZyZWVwaWsvdmlkZW9zIGZsYXRpY29uL3BuZyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9mYy1wcm9maWxlLXByby1yZXYxIiwiYXVkIjoiZmMtcHJvZmlsZS1wcm8tcmV2MSIsImF1dGhfdGltZSI6MTcyOTA2Mjk5OCwidXNlcl9pZCI6Im85NTBUQVFuVmhhZnNLVXNDbEl2b0dSejdDNjIiLCJzdWIiOiJvOTUwVEFRblZoYWZzS1VzQ2xJdm9HUno3QzYyIiwiaWF0IjoxNzI5MDYyOTk4LCJleHAiOjE3MjkwNjY1OTgsImVtYWlsIjoiOTAwZ2FtaW5nZ0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjExMjAxMzczMTcxNDgwMTkxNjQ0MiJdLCJlbWFpbCI6WyI5MDBnYW1pbmdnQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6ImN1c3RvbSJ9fQ.r-RWluTl1hk3qauKuohlYENrm_2sX7W25b0X5ySdl-zSLHMRJ4Ov2nmD0WMkWb__LJU_uwsp1rR5Ex7DfWqkNzjLC9OjmIMdJaUFOyArJTiOiIt1bQLwyeReAdcFpuU45TK22Ymxi7EVNhdrXx4gaOR-fjatnN2t-k62msy3LTUj9KGUuBLGEjKOR5jfKUwWJAT-Xu8Nv1DD5GxIA6h6vs5Si7NGQOeYtmmi-L03YWEDOHzBfkN28ahFbQ4Mn8AVDH8SYfURljTuFWv7p2ln22FjCCZTV1WMWtn411ZpDzOnkWchbETt7k0408PDXbNx1htXEj8thJcDQL4_6XZmOA; GR_REFRESH=AMf-vBy9xOFo8DOpPP1ldvtpthcgCcxPuR-V-3VNUs922yq0XMVk2VqwZgm3geYjlKUvRFX-Y9cDVBgSEuPIj10YhqrRlnHrsmxK9piEfoAhJRff_Y_YQ6JEfkxgml8YZ-YZXDvs1V4ZMFV-BnA1krenQV0deJLIqtLcdaDNZvLg97bMqYdqSKMnufwPgQZwc9gkIkyDYJDl; _fc=FC.2a3097f8-6567-34bc-dced-5337743ce9d1; _fcid=FC.2a3097f8-6567-34bc-dced-5337743ce9d1; ph_phc_Rc6y1yvZwwwR09Pl9NtKBo5gzpxr1Ei4Bdbg3kC1Ihz_posthog=%7B%22distinct_id%22%3A%22148377934%22%2C%22%24sesid%22%3A%5B1729063002483%2C%220192942e-794f-7c36-8d6a-4e4a54c59cd3%22%2C1729062926670%5D%2C%22%24epp%22%3Atrue%7D; _ga_QWX66025LC=GS1.1.1729062927.2.1.1729063002.60.0.0")
+    # #     Cookie = ("XSRF-TOKEN=eyJpdiI6Ijh5VER4OUNoMG5ZM3Q5SVhTaFZoN1E9PSIsInZhbHVlIjoiMHlHaVdBN1FUYmxsaFlzT2hQNUVkaDJ2cG1lY29JcUtXd2UrcjU4RFNYTTVPbUthVThOZWRhZlV3ajlmZytXeG9Ib2FKUUpHZjhiakRDNS91U0ZCVHdFYXBNajdSMklaclZGb3BCNzBOcXRabzRWZ0pkU2ErSVVaanM2L1Mvb0IiLCJtYWMiOiJhZDdlOWRkMDgxZTlmYjk0YTNmMTRmOGRkZmVjYjI4MzFiNDBhMjRiMTM0YzdlNGFmNWY0NGFjN2YxOTZiOTE5IiwidGFnIjoiIn0%3D; pikaso_session=eyJpdiI6Im1yOGQxUnYxT3hicGNjTXNRUmtkQmc9PSIsInZhbHVlIjoiOUNXMWVJSXVIQ2svNXlPWEhLUitKb3A4clJhNVJ4cmFkTG1Wa0NXaVpnMElacEtTTkhQWW5BTnRRTlNMdU91NzhsMWlSeG1McVh0b09STWY4SnRZMDQyVjhvQTBLdFFub1loV0tuUDB3OFlCYVhRTjRoVmVnOTNRenBhVzdrK2MiLCJtYWMiOiI0YzNjMzUwMmQwYjljNTFlNTYwZTNiYmQ1NWE5OWI1MGQ2OTg4N2VmZWUzZWVlNmNiNWZiZjNhNjVlZWYyMjAzIiwidGFnIjoiIn0%3D; _gcl_au=1.1.1799181729.1726211091; d_abcookie=V6b; PV_UI=V6; pv=J; _ga=GA1.1.1797061377.1726211091; OptanonAlertBoxClosed=2024-09-13T07:04:52.441Z; _ga_18B6QPTJPC=GS1.1.1726211090.1.1.1726213759.60.0.0; OptanonConsent=isGpcEnabled=0&datestamp=Wed+Oct+16+2024+12%3A46%3A28+GMT%2B0530+(India+Standard+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=75489f8c-8690-4773-91ec-4fb7d90f955a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&intType=1&geolocation=IN%3BCH&AwaitingReconsent=false; GR_REFRESH=AMf-vBy9xOFo8DOpPP1ldvtpthcgCcxPuR-V-3VNUs922yq0XMVk2VqwZgm3geYjlKUvRFX-Y9cDVBgSEuPIj10YhqrRlnHrsmxK9piEfoAhJRff_Y_YQ6JEfkxgml8YZ-YZXDvs1V4ZMFV-BnA1krenQV0deJLIqtLcdaDNZvLg97bMqYdqSKMnufwPgQZwc9gkIkyDYJDl; _fcid=FC.2a3097f8-6567-34bc-dced-5337743ce9d1; _ga_Q29FZ8F7H4=GS1.1.1729079272.3.0.1729079272.0.0.0; GR_TOKEN=eyJhbGciOiJSUzI1NiIsImtpZCI6ImU2YWMzNTcyNzY3ZGUyNjE0ZmM1MTA4NjMzMDg3YTQ5MjMzMDNkM2IiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiREFSSyBTRVRTIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FHTm15eFlEOUt4Sy1zejE5VEQ3ODlDVEp1WDc0el9IQTFkeUJPVFhJXzhIPXM5Ni1jIiwiYWNjb3VudHNfdXNlcl9pZCI6OTg3ODk0NzQsInNjb3BlcyI6ImZyZWVwaWsvaW1hZ2VzIGZyZWVwaWsvdmlkZW9zIGZsYXRpY29uL3BuZyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9mYy1wcm9maWxlLXByby1yZXYxIiwiYXVkIjoiZmMtcHJvZmlsZS1wcm8tcmV2MSIsImF1dGhfdGltZSI6MTcyOTA2Mjk5OCwidXNlcl9pZCI6Im85NTBUQVFuVmhhZnNLVXNDbEl2b0dSejdDNjIiLCJzdWIiOiJvOTUwVEFRblZoYWZzS1VzQ2xJdm9HUno3QzYyIiwiaWF0IjoxNzMwMTA5NzY1LCJleHAiOjE3MzAxMTMzNjUsImVtYWlsIjoiOTAwZ2FtaW5nZ0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjExMjAxMzczMTcxNDgwMTkxNjQ0MiJdLCJlbWFpbCI6WyI5MDBnYW1pbmdnQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6ImN1c3RvbSJ9fQ.DrowNJoLZAnvkj6sBQ55LMP-z07gyKUIODvbgX2uF9PMIbBhubolo5xVsHGXZRS84VpkU1RNUhwB9KZ4YEMqbGGWKDTncXvNO_4tGXHJe_aK-OS9U2L9w3kQYVkQsxFNk5e8koQtHd34YhZFZaE0-cz6w3I-lNzkrWSqK0vEamaP_AdZY6Lhu6Vx1-L40M9MxRX0WrcW50IWpQOoB-SqY-L7xEalic6cg2K-Vc3CWvAHD4TCySF8YRyJG_2rUPKgcVp7H6ZQ163syq0BofUj0myrsE6v-Q5p-qCh0t7IJfAwFeZ9Ok1PqViwqLVp77Bvik-YNUkwnBscvKFMXEYhag; ph_phc_Rc6y1yvZwwwR09Pl9NtKBo5gzpxr1Ei4Bdbg3kC1Ihz_posthog=%7B%22distinct_id%22%3A%22148377934%22%2C%22%24sesid%22%3A%5B1730109769541%2C%220192d293-ff7c-702c-bc7a-c17aa31d41d4%22%2C1730109767548%5D%2C%22%24epp%22%3Atrue%7D; _ga_QWX66025LC=GS1.1.1730109769.4.1.1730109777.52.0.0")
+    # #     # data = {
+    # #     #     "prompt": query,
+    # #     #     "layout_reference_image": None,
+    # #     #     "width": 1216,
+    # #     #     "height": 832
+    # #     # }
+    # #     data =  {
+    # #         "mode": "flux",
+    # #         "prompt":query,
+    # #         "safety_filter_type": "",
+    # #         "variations": True,
+    # #         "number_of_images": 5,
+    # #         "references": []
+    # #         }
+
+    # #     headers = {
+    # #         "Cookie":"XSRF-TOKEN=eyJpdiI6Ijh5VER4OUNoMG5ZM3Q5SVhTaFZoN1E9PSIsInZhbHVlIjoiMHlHaVdBN1FUYmxsaFlzT2hQNUVkaDJ2cG1lY29JcUtXd2UrcjU4RFNYTTVPbUthVThOZWRhZlV3ajlmZytXeG9Ib2FKUUpHZjhiakRDNS91U0ZCVHdFYXBNajdSMklaclZGb3BCNzBOcXRabzRWZ0pkU2ErSVVaanM2L1Mvb0IiLCJtYWMiOiJhZDdlOWRkMDgxZTlmYjk0YTNmMTRmOGRkZmVjYjI4MzFiNDBhMjRiMTM0YzdlNGFmNWY0NGFjN2YxOTZiOTE5IiwidGFnIjoiIn0%3D; pikaso_session=eyJpdiI6Im1yOGQxUnYxT3hicGNjTXNRUmtkQmc9PSIsInZhbHVlIjoiOUNXMWVJSXVIQ2svNXlPWEhLUitKb3A4clJhNVJ4cmFkTG1Wa0NXaVpnMElacEtTTkhQWW5BTnRRTlNMdU91NzhsMWlSeG1McVh0b09STWY4SnRZMDQyVjhvQTBLdFFub1loV0tuUDB3OFlCYVhRTjRoVmVnOTNRenBhVzdrK2MiLCJtYWMiOiI0YzNjMzUwMmQwYjljNTFlNTYwZTNiYmQ1NWE5OWI1MGQ2OTg4N2VmZWUzZWVlNmNiNWZiZjNhNjVlZWYyMjAzIiwidGFnIjoiIn0%3D; _gcl_au=1.1.1799181729.1726211091; d_abcookie=V6b; PV_UI=V6; pv=J; _ga=GA1.1.1797061377.1726211091; OptanonAlertBoxClosed=2024-09-13T07:04:52.441Z; _ga_18B6QPTJPC=GS1.1.1726211090.1.1.1726213759.60.0.0; OptanonConsent=isGpcEnabled=0&datestamp=Wed+Oct+16+2024+12%3A46%3A28+GMT%2B0530+(India+Standard+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=75489f8c-8690-4773-91ec-4fb7d90f955a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&intType=1&geolocation=IN%3BCH&AwaitingReconsent=false; GR_REFRESH=AMf-vBy9xOFo8DOpPP1ldvtpthcgCcxPuR-V-3VNUs922yq0XMVk2VqwZgm3geYjlKUvRFX-Y9cDVBgSEuPIj10YhqrRlnHrsmxK9piEfoAhJRff_Y_YQ6JEfkxgml8YZ-YZXDvs1V4ZMFV-BnA1krenQV0deJLIqtLcdaDNZvLg97bMqYdqSKMnufwPgQZwc9gkIkyDYJDl; _fcid=FC.2a3097f8-6567-34bc-dced-5337743ce9d1; _ga_Q29FZ8F7H4=GS1.1.1729079272.3.0.1729079272.0.0.0; GR_TOKEN=eyJhbGciOiJSUzI1NiIsImtpZCI6ImU2YWMzNTcyNzY3ZGUyNjE0ZmM1MTA4NjMzMDg3YTQ5MjMzMDNkM2IiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiREFSSyBTRVRTIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FHTm15eFlEOUt4Sy1zejE5VEQ3ODlDVEp1WDc0el9IQTFkeUJPVFhJXzhIPXM5Ni1jIiwiYWNjb3VudHNfdXNlcl9pZCI6OTg3ODk0NzQsInNjb3BlcyI6ImZyZWVwaWsvaW1hZ2VzIGZyZWVwaWsvdmlkZW9zIGZsYXRpY29uL3BuZyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9mYy1wcm9maWxlLXByby1yZXYxIiwiYXVkIjoiZmMtcHJvZmlsZS1wcm8tcmV2MSIsImF1dGhfdGltZSI6MTcyOTA2Mjk5OCwidXNlcl9pZCI6Im85NTBUQVFuVmhhZnNLVXNDbEl2b0dSejdDNjIiLCJzdWIiOiJvOTUwVEFRblZoYWZzS1VzQ2xJdm9HUno3QzYyIiwiaWF0IjoxNzMwMTA5NzY1LCJleHAiOjE3MzAxMTMzNjUsImVtYWlsIjoiOTAwZ2FtaW5nZ0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjExMjAxMzczMTcxNDgwMTkxNjQ0MiJdLCJlbWFpbCI6WyI5MDBnYW1pbmdnQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6ImN1c3RvbSJ9fQ.DrowNJoLZAnvkj6sBQ55LMP-z07gyKUIODvbgX2uF9PMIbBhubolo5xVsHGXZRS84VpkU1RNUhwB9KZ4YEMqbGGWKDTncXvNO_4tGXHJe_aK-OS9U2L9w3kQYVkQsxFNk5e8koQtHd34YhZFZaE0-cz6w3I-lNzkrWSqK0vEamaP_AdZY6Lhu6Vx1-L40M9MxRX0WrcW50IWpQOoB-SqY-L7xEalic6cg2K-Vc3CWvAHD4TCySF8YRyJG_2rUPKgcVp7H6ZQ163syq0BofUj0myrsE6v-Q5p-qCh0t7IJfAwFeZ9Ok1PqViwqLVp77Bvik-YNUkwnBscvKFMXEYhag; ph_phc_Rc6y1yvZwwwR09Pl9NtKBo5gzpxr1Ei4Bdbg3kC1Ihz_posthog=%7B%22distinct_id%22%3A%22148377934%22%2C%22%24sesid%22%3A%5B1730109769541%2C%220192d293-ff7c-702c-bc7a-c17aa31d41d4%22%2C1730109767548%5D%2C%22%24epp%22%3Atrue%7D; _ga_QWX66025LC=GS1.1.1730109769.4.1.1730109777.52.0.0",
+    # #         "X-Xsrf-Token": "eyJpdiI6Ijh5VER4OUNoMG5ZM3Q5SVhTaFZoN1E9PSIsInZhbHVlIjoiMHlHaVdBN1FUYmxsaFlzT2hQNUVkaDJ2cG1lY29JcUtXd2UrcjU4RFNYTTVPbUthVThOZWRhZlV3ajlmZytXeG9Ib2FKUUpHZjhiakRDNS91U0ZCVHdFYXBNajdSMklaclZGb3BCNzBOcXRabzRWZ0pkU2ErSVVaanM2L1Mvb0IiLCJtYWMiOiJhZDdlOWRkMDgxZTlmYjk0YTNmMTRmOGRkZmVjYjI4MzFiNDBhMjRiMTM0YzdlNGFmNWY0NGFjN2YxOTZiOTE5IiwidGFnIjoiIn0=",
+    # #         # "X-Xsrf-Token": "eyJpdiI6IlhMSU9TRG45amFVWkUvOTR3dVRVZkE9PSIsInZhbHVlIjoidU9Rb1FXZlZTdkd5SVZBdjMyell5TGM2ajFKbGFXVXh0Z1g2VUU4MkM4c2lZNWNLTG1VSGZxUjAxRDdaTk5ncENva0RzdUNuZCt4ZWxpQlp4a2taaVFGYmdqN3hVWk9aam5Ed1hpbUFkOTNKdGh1RWpDcWVUeGxzTXpscWU2SEkiLCJtYWMiOiIyOTllMjhjMzc0YjQ2ZjBjMzUyNDllY2RlOTZjYWQzMDc1Yzc0M2ZmMGM1YjQ2ZGVmN2IwYTgzNDZkNWIxM2YxIiwidGFnIjoiIn0=",
+    # #     }
+    # #     response = requests.post(url_to_register, headers=headers, json = data)
+    # #     # print(response)
+    # #     logging.info("************ response from freepik *****************")
+    # #     logging.info(response.text)
+    # #     logging.info(response.json())
+
+        
+    # #     id_ = 0
+    # #     if response.status_code == 200:
+    # #         response_data = response.json()
+            
+    # #         if "family" in response_data:
+    # #             id_ = response_data["family"]
+    # #         # if "id" in response_data:
+    # #         #     id_ = response_data["id"]
+
+
+    # #     url_to_fetch_images = "https://www.freepik.com/pikaso/api/render/v2?experiment=flux-schnell&lang=en&user_id=98789474"
+    # #     for i in range(1, 6):
+    # #         seed = random.randint(10000000, 99999999)
+            
+    # #         # data = {
+    # #         #     "prompt": query,
+    # #         #     "permuted_prompt": query,
+    # #         #     "height": 832,
+    # #         #     "width": 1216,
+    # #         #     "num_inference_steps": 8,
+    # #         #     "guidance_scale": 1.5,
+    # #         #     "seed": seed,
+    # #         #     "negative_prompt": "",
+    # #         #     "seed_image": "",
+    # #         #     "sequence": i,
+    # #         #     "image_request_id": id_,
+    # #         #     "should_save": True,
+    # #         #     "selected_styles": {},
+    # #         #     "aspect_ratio": "3:2",
+    # #         #     "tool": "text-to-image",
+    # #         #     "experiment": "8steps-lightning-cfg1-5",
+    # #         #     "mode": "realtime",
+    # #         #     "style_reference_image_strength": 1,
+    # #         #     "layout_reference_image_strength": 1,
+    # #         #     "user_id": 583477
+    # #         # }
+    # #         data = {"metadata":{"seed":seed,"index":i,"prompt":query,"width":896,"height":1152,"negativePrompt":f", overly processed, unnatural, {query}, , ","inputPrompt":query,"variationPrompt":None,"modifiers":[{"key":"photo","type":"style"}],"aspectRatio":"4:5","mode":"flux","tags":["4:5","Flux Fast","smart"],"experiment":"flux-schnell"},"family":id_,"width":896,"height":1152,"prompt":query,"seed":seed,"experiment":"flux-schnell","mode":"flux","tool":"text-to-image","aspect_ratio":"4:5","style_reference_image":"","style_reference_image_strength":0.7,"layout_reference_image":"","layout_reference_image_strength":0.7}
+
+    # #         response = requests.post(url_to_fetch_images, headers=headers, json=data)
+    # #         print(response)
+    # #         logging.info("************ response from freepik *****************")    
+    # #         logging.info(response)
+    # #         if response.status_code == 200:
+    # #             response_data = response.json()
+    # #             if "image" in response_data:
+    # #                 base64_image = response_data["image"]
+    # #                 base64_image = "data:image/jpeg;base64,"+base64_image
+    # #                 image_links.append(base64_image)
+    # #                 freepik_images.append(base64_image) 
+    # #             # if "results" in response_data and "output_image" in response_data["results"]:
+    # #             #     base64_image = response_data["results"]["output_image"][0]
+    # #             #     base64_image = "data:image/jpeg;base64,"+base64_image
+    # #             #     # print("Base64 Image Data:", base64_image)
+    # #             #     # 11 july 2024 sending base 64 directly to the output 
+    # #             #     # image_data = base64.b64decode(base64_image)
+    # #             #     # image_name = str(uuid.uuid4()) + ".jpg"
+    # #             #     # with open(f'/var/www/html/images/{image_name}', 'wb') as f:
+    # #             #     #     f.write(image_data)
+    # #             #     # image_path = f"{Public_IP}{image_name}"
+    # #             #     image_links.append(base64_image)
+    # #             #     freepik_images.append(base64_image) 
+    # #             else:
+    # #                 print("Image data not found in the response.")
+    # #         else:
+    # #             print("Failed to fetch data. Status code:", response.status_code)
+    # # except Exception as e:
+    # #     print(e)
+
+    
+    return image_links, google_images, freepik_images, unsplash_images,Gamma_images 
 
 @app.route('/download_images', methods=['POST'])
 def download_images_endpoint():
     data = request.json
     query = data.get('query')
     image_links = []
+    google_images = []
+    freepik_images = []
+    unsplash_images = []
+
 
     if query:
-        image_links = download_images(query)
+        image_links,google_images,freepik_images,unsplash_images,gamma_images = download_images(query)
 
-    return jsonify({'image_links': image_links}), 200
+    return jsonify({'image_links': image_links,'google_images':google_images,'freepik_images':freepik_images,'unsplash_images':unsplash_images,'gamma_images':gamma_images}), 200
+
+@app.route('/download_google_images', methods=['POST']) 
+def download_google_images_endpoint():
+    data = request.json
+    query = data.get('query')
+    image_links = []
+    google_images = []
+
+    if query:
+        image_links,google_images = donwload_google_images(query)
+
+    return jsonify({'image_links': google_images}), 200
+
+@app.route('/download_gamma_images', methods=['POST'])
+def download_gamma_images_endpoint():
+    data = request.json
+    query = data.get('query')
+    gamma_images = []
+
+    if query:
+        gamma_images = download_gamma_images(query)
+
+    return jsonify({'gamma_images': gamma_images}), 200
+
+@app.route('/download_unsplash_images', methods=['POST'])
+def download_unsplash_images_endpoint():
+    data = request.json
+    query = data.get('query')
+    unsplash_images = []
+    image_links = []
+
+
+    if query:
+        image_links,unsplash_images = download_unsplash_images(query)
+
+    return jsonify({'image_links': unsplash_images}), 200
+
+def createWhatToReadInHTML(json_data):
+    try:
+        print(json_data)
+        json_data = json.loads(json_data)
+        res = ""
+        res += """<p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 10px; line-height: 1.8; letter-spacing: inherit; color: black;"><img src="https://edurev.gumlet.io/ApplicationImages/Temp/661880_a18205fb-2870-4d67-b73d-7f833d3f5616_lg.png" style="display: block; margin: 5px auto; text-align: center; cursor: pointer; padding: 0px 1px; user-select: none; word-break: break-word; width: auto; max-width: 100%; letter-spacing: inherit;" class="fr-draggable"></p>"""
+        final_json = []
+        for data in json_data:
+            news = data.get('heading')
+            if news:
+                split_news = news.split('.', 1)
+                if len(split_news) > 1:
+                    news = split_news[1].strip()
+                else:
+                    news = split_news[0].strip()
+            page = data.get('page')
+            page = page.replace("Page", "")
+            des = data.get('des')
+            des = des.split(":")[0]
+            # json = {
+            #     page:"8",
+            #     subject:[{
+            #         topic:"gs2",
+            #         news:["news1","news2"]
+            #     },
+            #     {
+            #         topic:"gs3",
+            #         news:["news1","news2"]
+            #     }]
+            # }
+            matched = False
+            for final in final_json:
+                if( final.get('page') == page):
+                    matched = True
+                    subjectMatched = False
+                    for subject in final.get('subject'):
+                        
+                        if(subject.get('topic') == des):
+                            subject.get('news').append(news)
+                            subjectMatched = True
+                    if(not subjectMatched):
+                        final.get('subject').append({
+                            "topic": des,
+                            "news": [news]
+                        })
+                    break
+            if(not matched):
+                final_json.append({
+                    "page": page,
+                    "subject": [{
+                        "topic": des,
+                        "news": [news]
+                    }]
+                })
+        for final in final_json:
+            # <p><h8 style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 22px; letter-spacing: inherit; color: black; display: inline-block; font-weight: 900;">Page Number 8</h8></p>
+            # <p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 10px; line-height: 1.8; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">1. UPSC Syllabus Heading:&nbsp;</strong>GS 2</p>
+            # <blockquote style="border-left: 2px solid rgb(94, 53, 177); margin-left: 0px; padding-left: 5px; color: black; word-break: break-word; padding-top: 0px; padding-bottom: 0px; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit;"><p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 0px; line-height: 1.8; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">News:&nbsp;</strong>A good beginning but China negotiations must continue&nbsp;</p></blockquote>
+            # <p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 10px; line-height: 1.8; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">2. UPSC Syllabus Heading:&nbsp;</strong>GS 3</p>
+            # <blockquote style="border-left: 2px solid rgb(94, 53, 177); margin-left: 0px; padding-left: 5px; color: black; word-break: break-word; padding-top: 0px; padding-bottom: 0px; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit;"><p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 0px; line-height: 1.8; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">News:&nbsp;</strong>The issue of India’s economic growth versus emissions&nbsp;</p></blockquote>
+            # <p><h8 style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 22px; letter-spacing: inherit; color: black; display: inline-block; font-weight: 900;">Page Number 9</h8></p>
+            res += f"""<p><h8 style="word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 22px; letter-spacing: inherit; color: black; display: inline-block; font-weight: 900;">Page Number{final.get('page')}</h8></p>"""
+            for j,subject in enumerate(final.get('subject')):
+                initials_subject = ""
+                if(len(final.get('subject')) > 1):
+                    initials_subject = f"{j+1}. "
+                    
+                res += f"""<p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 10px; line-height: 1.8; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">{initials_subject}UPSC Syllabus Heading:&nbsp;</strong>{subject.get('topic')}</p>"""
+                res += """<blockquote style="border-left: 2px solid rgb(94, 53, 177); margin-left: 0px; padding-left: 5px; color: black; word-break: break-word; padding-top: 0px; padding-bottom: 0px; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit;">"""
+                if(len(subject.get('news')) > 1):
+                    res += """<p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 0px; line-height: 1.8; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">News:&nbsp;</strong></p>"""
+                    # <p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 0px; line-height: 1.8; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">i)</strong>Gamify India’s skilling initiatives&nbsp;</p>
+                    # <p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 0px; line-height: 1.8; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">ii)</strong>India’s new digital currency&nbsp;</p>
+                    for i, news in enumerate(subject.get('news')):
+                        initials = ""
+                        n = i+1
+                        while n >0 :
+                            initials += "i"
+                            n-=1
+                        res += f"""<p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 0px; line-height: 1.8; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">{initials})</strong>{news}</p>"""
+                else:
+                    for news in subject.get('news'):
+                        res += f"""<p style="font-size: 20px; font-family: Lato, sans-serif; word-break: break-word; padding-bottom: 0px; line-height: 1.8; letter-spacing: inherit; color: black;"><strong style="font-weight: 700; word-break: break-word; line-height: 1.8; font-family: Lato, sans-serif; font-size: 20px; letter-spacing: inherit; color: black;">News:&nbsp;</strong>{news}</p>"""
+                res += "</blockquote>"
+        return res
+    except Exception as e:
+        print(e)
+    
+    
+
+def getWhatToReadInJSONCA(url):
+    html = getHTMLfromURL(url)
+    soup = BeautifulSoup(html, 'html.parser')
+    soup = soup.find('div', id='home')
+    news_data = []
+    for p in soup.find_all('p', style="text-align:justify"):
+        if p.text.strip() == "" or p.text.strip() == "&nbsp;" or p.text.strip() == " ":
+            p.decompose()
+    for p in soup.find_all('p', style="margin-left:48px; text-align:justify"):
+        if p.text.strip() == "" or p.text.strip() == "&nbsp;" or p.text.strip() == " ":
+            p.decompose()
+
+    with open('/root/webScrapping/test.html', 'w') as file:
+        file.write(str(soup))
+    # Iterate over each news block (replace the tag and class as per your HTML structure)
+    all_p_tags = soup.find_all('p')
+    all_ul_tags = soup.find_all('ul')
+    print(len(all_p_tags))
+    print(len(all_ul_tags))
+    for i in range(0,len(all_p_tags)):
+        if(len(all_ul_tags) <= len(all_p_tags)):
+            try:
+                heading = all_p_tags[i].find('span').text if all_p_tags[i].find('span') else ""
+                page = all_ul_tags[i].find('li').text if all_ul_tags[i].find('li') else ""
+                des = all_ul_tags[i].find_all('li')[1].text if all_ul_tags[i].find_all('li') else ""
+                prelims = ""
+                if(len(all_ul_tags[i].find_all('li')) > 2):
+                    prelims = all_ul_tags[i].find_all('li')[2].text if all_ul_tags[i].find_all('li') else ""
+                # Add the extracted data to the array
+                news_data.append({
+                    "heading": heading.strip(),
+                    "page": page.strip(),
+                    "des": des.strip(),
+                    "prelims": prelims.strip()
+                })
+            except Exception as e:
+                logging.error("error in chahal : " +str(e))
+
+
+    # Convert the array to a JSON string
+    news_json = json.dumps(news_data, indent=4)
+    return news_json
+
+@app.route('/getWhatToReadInJSONCA', methods=['POST'])
+def getWhatToReadInJSONCA_endpoint():
+    data = request.json
+    url = data.get('url')
+    if url:
+        news_json = getWhatToReadInJSONCA(url)
+        result = createWhatToReadInHTML(news_json)
+        return jsonify({'news_json': news_json,'content':result}), 200
+    return jsonify({'error': 'URL not provided'}), 400
+# @app.route('/download_images', methods=['POST'])
+# def download_images_endpoint():
+#     data = request.json
+#     query = data.get('query')
+#     image_links = []
+#     google_images = []
+#     freepik_images = []
+#     unsplash_images = []
+
+
+#     if query:
+#         image_links,google_images,freepik_images,unsplash_images = download_images(query)
+
+#     return jsonify({'image_links': image_links,'google_images':google_images,'freepik_images':freepik_images,'unsplash_images':unsplash_images}), 200
 @app.route('/missedCalls', methods=['POST'])
 def saveMissCalls():
     # print(request)
     phoneNo = request.args.get('phone_no')
     # print(phoneNo)
-    if not os.path.exists('/home/er-ubuntu-1/webScrapping/missedCalls.json'):
-        with open('/home/er-ubuntu-1/webScrapping/api_result_json/missedCalls.json', 'w') as f:
+    if not os.path.exists('/root/webScrapping/missedCalls.json'):
+        with open('/root/webScrapping/api_result_json/missedCalls.json', 'w') as f:
             json.dump([], f)
-    with open('/home/er-ubuntu-1/webScrapping/api_result_json/missedCalls.json', 'r') as f:
+    with open('/root/webScrapping/api_result_json/missedCalls.json', 'r') as f:
         phoneNumbers = json.load(f)
     if phoneNo not in phoneNumbers:
         phoneNumbers.append(phoneNo)
-    with open('/home/er-ubuntu-1/webScrapping/api_result_json/missedCalls.json', 'w') as f:
+    with open('/root/webScrapping/api_result_json/missedCalls.json', 'w') as f:
         json.dump(phoneNumbers, f)
     return "number saved"
-@app.route('/createSeparator', methods=['POST'])
-def createSeparator():
+@app.route('/createSeparatorImprover', methods=['POST'])
+def createSeparatorImprover():
     req = request.json
     data = req.get('data')
+    
+    data = data.replace('+', '__PLUS__')
+    data = data.replace("<h7", "<h2")
+    data = data.replace("</h7", "</h2")
+    data = data.replace("<h8", "<h3")
+    data = data.replace("</h8", "</h3")
+    # logging.info("INFO :::::::::::::::::::::::: STARTING DATA   data Tag: " + data)
+
     # if data:
     #     with open('/home/er-ubuntu-1/webScrapping/api_result_json/separator.json', 'w') as f:
     #         json.dump(data, f)
     # check if there i any html in data using soup
     soup = BeautifulSoup(data, 'html.parser')
+    # for parent_span in soup.find_all("span", class_="fr-img-wrap"):
+    #     # Find and remove any nested spans with class 'fr-inner'
+    #     nested_inner = parent_span.find("span", class_="fr-inner")
+    #     if nested_inner:
+    #         nested_inner.decompose()  # Remove the nested span from the HTML
+    # allStrongTags = soup.find_all('strong')
+    # for strongTag in allStrongTags:
+    #     strongTagText = strongTag.get_text()
+    #     # add space both sides 
+    #     strongTagText = " "+strongTagText+" "
+    #     # replace this text in original strong tag 
+    #     strongTag.string = strongTagText
+    startingText = []
+    endingText = []
+    allBrTags = soup.find_all('br')
+    for brTag in allBrTags:
+        brTag.replace_with(" ")
+    for tag in soup.find_all(True):  # True fetches all tags
+        if 'style' in tag.attrs:  # Check if the tag has a 'style' attribute
+            if tag.name not in ['span', 'img']:  # Exclude 'span' and 'img' tags
+                del tag.attrs['style']  # Remove the 'style' attribute
+    for tag in soup.find_all(class_ ="span"):  # True fetches all tags
+        if(tag.get('class') and 'fr-inner' in tag.get('class')):
+            continue
+        #if tag class is fr-new then add as it is 
+        if tag.get('class') and ('fr-img-caption' in tag.get('class') or 'fr-video' in tag.get('class')):
+            if 'style' in tag.attrs:  # Check if the tag has a 'style' attribute
+                style_content = tag['style']
+                # Split the style into individual properties
+                style_properties = [prop.strip() for prop in style_content.split(';') if prop.strip()]
+                
+                # Filter the properties to keep only display and cursor
+                filtered_styles = [
+                    prop for prop in style_properties 
+                    if prop.startswith('display:') or prop.startswith('cursor:') or  prop.startswith('line-height') or prop.startswith('font-size') or prop.startswith('color') or prop.startswith('text-align') or prop.startswith('margin') or  # Matches margin, margin-right, etc.
+                    prop.startswith('padding') or  # Matches padding, padding-top, etc.
+                    prop.startswith('height:') or
+                    prop.startswith('width:')
+                ]
+                
+                # Reassemble the style string and set it back
+                if filtered_styles:
+                    tag['style'] = '; '.join(filtered_styles)
+                else:
+                    del tag['style']  # Remove style if nothing remains
+                
+
+    # html_text = excelRun(str(soup),True)
+    # soup = BeautifulSoup(html_text, 'html.parser')
+    # print(data)
+    processed_texts = set()
+    previous_content_length = 0
+    first = True
+    output = ""
+    startingTag = True
+    endingTag = False
+    
+    processed_uls = set()  
+    ul_content= []
+    text_list = []
+    processed_img_urls = set()
+    rawText = ""
+    processed_texts = set()
+    processed_uls = set()  # Track processed 'ul' elements
+    processed_tags = set()  # Track processed tags
+    first = True
+    h2_tags = 0
+    count_p = 0
+    previous_content_length = 0
+    for tag in soup.descendants:
+        if tag.name in ['h2']:
+            h2_tags += 1
+    # try:
+    # if (h2_tags > 4):
+    
+    try:
+
+        if soup.find_all('div') or soup.find_all("p"):
+            for tag in soup.descendants:
+                if tag.name in ['p', 'img','strong', 'span', 'h1', 'h2', 'h3','table', 'h4', 'h5', 'h6','h7','h8','blockquote']:
+                    
+                    if tag.name == 'table':
+                    # Remove inline CSS and attributes from the table and its descendants
+                        tag.attrs = {}
+                        for element in tag.find_all(True):  # True fetches all child tags
+                            if 'style' in element.attrs:
+                                del element.attrs['style']  # Remove inline CSS
+                            # Optionally remove other attributes if needed
+                            element.attrs = {key: value for key, value in element.attrs.items() if key != 'style'}
+                        
+                        # Get the updated full HTML of the table
+                        table_html = str(tag)
+                        previous_content_length += len(table_html)
+                        text_list.append(table_html)  # Add the cleaned table HTML to the text list
+                        processed_texts.add(table_html)
+                        # Skip processing further descendants of this table
+                        continue
+                    if tag.name == 'p' :
+                        # Check if the <p> tag contains only a <strong> tag
+                        text = str(tag)
+                        if '<h2' in text or '<h3' in text or '<h7' in text or '<h8' in text:
+                            continue
+                        if 'fr-img-caption' in text or 'fr-video' in text:
+                            continue
+                        span_elements = tag.find_all('span', recursive=False)
+                        
+                        # Check if there is exactly one <span> inside the <p> tag
+                        if len(span_elements) == 1:
+                            span = span_elements[0]
+                            
+                            # Check if the <span> contains an <img> tag
+                            if span.find('img') and 'edurev.gumlet.io/ApplicationImages/Temp' in span.find('img').get('src'):
+                                continue
+
+                        
+                    if tag.name == 'span':
+                        if(tag.get('class') and 'fr-inner' in tag.get('class')):
+                            continue
+                        
+                        #if tag class is fr-new then add as it is 
+                        if tag.get('class') and ('fr-img-caption' in tag.get('class') or 'fr-video' in tag.get('class')):
+                            text = str(tag)
+                            text_list.append(text)
+                            previous_content_length += len(text)
+                            processed_texts.add(text)
+                            for img_tag in tag.find_all('img'):
+                                img_text = str(img_tag)
+                                processed_texts.add(img_text)
+                                processed_img_urls.add(img_tag['src'])
+                            # tag.extract()
+                            continue
+                        else:
+                            img = tag.find('img')
+                            img_url = img.get('src') if img else None
+                            if img and img_url not in processed_img_urls:
+                                if 'edurev.gumlet.io/ApplicationImages/Temp' in img['src']:
+                                    text = str(tag)
+                                    text_list.append(text)
+                                    previous_content_length += len(text)
+                                    processed_texts.add(text)
+                                    for img_tag in tag.find_all('img'):
+                                        img_text = str(img_tag)
+                                        processed_texts.add(img_text)
+                                        processed_img_urls.add(img_tag['src'])
+                                    # tag.extract()
+                                    continue
+                        if("question" in tag.get_text().lower()) and tag.get_text() not in processed_texts:
+                            text = str(tag)
+                            text_list.append(text)
+                            previous_content_length += len(text)
+                            processed_texts.add(text)
+                    elif tag.name == 'img':
+                        if str(tag) not in processed_texts:
+                            text = str(tag)
+                            processed_texts.add(text)
+                            text_list.append(text)
+                    elif tag.name == 'blockquote':
+                        logging.info("inside blockquote")
+                        logging.info(tag)
+                        text_list.append(str(tag))
+                        for child in tag.find_all():
+                            child.extract()
+                    elif tag.name == "strong":
+                        logging.info("inside Strong")
+                        logging.info(tag)
+                        if(checkExisting(tag.get_text(), processed_texts)) and str(tag) not in processed_tags:
+                            processed_texts.add(str(tag.get_text()))
+                            text_list.append(str(tag))
+                            processed_tags.add(str(tag))
+                            for child in tag.find_all():
+                                processed_tags.add(str(child))
+                                child.extract()
+                    else:
+                        
+                        if tag.name == 'p':
+                            strong_tags = tag.find_all('strong')
+                            if len(strong_tags) == 1 and tag.get_text(strip=True) == strong_tags[0].get_text(strip=True) and str(tag) not in processed_tags:
+                                text = str(tag)
+                                processed_tags.add(str(strong_tags[0]))
+                                # tag.extract()
+                            elif len(strong_tags) >0 and tag.get_text(strip=True) != strong_tags[0].get_text(strip=True) and str(tag) not in processed_tags:
+                                # text = tag.get_text()
+                                text = str(tag)
+                                # processed_tags.add(str(tag))
+                                for child in strong_tags:
+                                    processed_tags.add(str(child))
+                                    child.extract()
+                            else:
+                                text = tag.get_text()
+
+                            
+                        else:
+                            text = tag.get_text()
+                        if text and (checkExisting(text, processed_texts) or  text == 'Ans.' ) == False:
+                            text = re.sub(r'\s+', ' ', text)  # Clean up extra spaces
+                            processed_texts.add(text)
+                            rawText = text  # Save the raw text before HTML wrapping
+                            text = "<" + tag.name + ">" + text + "</" + tag.name + ">"  # Wrap in HTML tag
+
+                            # Update content length tracker
+                            previous_content_length += len(text)
+
+                            # Insert `**********` based on content length and tag type
+                            if (tag.name == 'h2' or tag.name == "h3" or tag.name == 'h7' or tag.name == 'h8' ) and previous_content_length > 500:
+                                text = str(tag)
+                                for child in tag.find_all():
+                                    if child.name == 'strong':
+                                        processed_tags.add(str(child))
+                                        # child.extract()
+                                if endingTag:  # If endingTag is True, store in endingText
+                                    endingText.append(rawText)
+                                startingTag = True
+                                endingTag = False  # This block marks the transition
+                                next_tag = tag.find_next()  # Find the next sibling
+                                if next_tag and next_tag.name == 'p':
+                                    span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                    if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                        question_text = next_tag.get_text(strip=True)
+                                        text += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                        processed_texts.add(question_text)
+                                        next_tag.extract()  # Remove the <p> tag from the soup
+                                text = "\n ********** \n" + text
+                                previous_content_length = 0
+
+                            elif tag.name == 'p' and previous_content_length > 5000:
+                                if endingTag:  # If endingTag is True, store in endingText
+                                    endingText.append(rawText)
+                                startingTag = True
+                                endingTag = False  # This block marks the transition
+                                next_tag = tag.find_next()  # Find the next sibling
+                                while next_tag:
+                                    if next_tag.name == 'strong':  # If the next tag is <strong>, check the next sibling
+                                        next_tag_ = next_tag.find_next()
+                                        processed_tags.add(str(next_tag))
+                                        next_tag.extract()  # Remove the <p> tag from the soup
+                                        next_tag = next_tag_
+                                    elif next_tag.name == 'p':  # If the next tag is <p>, check for the question text
+                                        span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                        if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                            question_text = next_tag.get_text(strip=True)
+                                            text += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                            processed_texts.add(question_text)
+                                            next_tag.extract()  # Remove the <p> tag from the soup
+                                            break
+                                        else:
+                                            next_tag = next_tag.find_next()
+                                    else:
+                                        break
+                                        # next_tag = next_tag.find_next()
+                                    
+                                text += "\n ********** \n"
+                                previous_content_length = 0
+                                first = False
+                            if (tag.name == 'h2' or tag.name == "h3" or tag.name == 'h7' or tag.name == 'h8' ):
+                                for child in tag.find_all():
+                                    if child.name == 'strong':
+                                        processed_tags.add(str(child))
+                            # If it's a starting tag, add to `startingText`
+                            if startingTag:
+                                if not endingTag:
+                                    startingText.append(rawText)
+                                    endingTag = True  # Set endingTag to True
+                                    startingTag = False  # Reset startingTag
+
+                            text_list.append(text)
+                        elif text and (text == 'Ans.' ) == True:
+                            text = re.sub(r'\s+', ' ', text)
+                            processed_texts.add(text)
+                            rawText = text  # Save the raw text before HTML wrapping
+                            text = "<" + tag.name + ">" + text + "</" + tag.name + ">"  # Wrap in HTML tag
+
+                            # Update content length tracker
+                            previous_content_length += len(text)
+
+                            # Insert `**********` based on content length and tag type
+                            if (tag.name == 'h2' or tag.name == "h3" or tag.name == 'h7' or tag.name == 'h8'  ) and previous_content_length > 500:
+                                if endingTag:  # If endingTag is True, store in endingText
+                                    endingText.append(rawText)
+                                startingTag = True
+                                endingTag = False  # This block marks the transition
+                                next_tag = tag.find_next()  # Find the next sibling
+
+                                if next_tag and next_tag.name == 'p':
+                                    span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                    if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                        question_text = next_tag.get_text(strip=True)
+                                        text += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                        processed_texts.add(question_text)
+                                        next_tag.extract()  # Remove the <p> tag from the soup
+                                text = "\n ********** \n" + text
+                                previous_content_length = 0
+
+                            elif tag.name == 'p' and previous_content_length > 5000:
+                                if endingTag:  # If endingTag is True, store in endingText
+                                    endingText.append(rawText)
+                                startingTag = True
+                                endingTag = False  # This block marks the transition
+                                next_tag = tag.find_next()  # Find the next sibling
+                                while next_tag:
+                                    if next_tag.name == 'strong':  # If the next tag is <strong>, check the next sibling
+                                        next_tag_ = next_tag.find_next()
+                                        next_tag.extract()  # Remove the <p> tag from the soup
+                                        next_tag = next_tag_
+                                    elif next_tag.name == 'p':  # If the next tag is <p>, check for the question text
+                                        span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                        if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                            question_text = next_tag.get_text(strip=True)
+                                            text += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                            processed_texts.add(question_text)
+                                            next_tag.extract()  # Remove the <p> tag from the soup
+                                            break  
+                                        else:
+                                            next_tag = next_tag.find_next()
+                                    else:
+                                        break
+                                    
+                                    
+                                text = text + "\n ********** \n"
+                                previous_content_length = 0
+                                first = False
+
+                            # If it's a starting tag, add to `startingText`
+                            if startingTag:
+                                if not endingTag:
+                                    startingText.append(rawText)
+                                    endingTag = True  # Set endingTag to True
+                                    startingTag = False  # Reset startingTag
+
+                            text_list.append(text)
+                        else:
+                            processed_texts.add(str(tag))  # Mark the tag as processed
+
+                        # Add delimiter for specific tags
+                        if tag.name == 'h2' or tag.name == "h3":
+                            text_list.append("\n ")
+                elif tag.name == 'ol' and id(tag) not in processed_uls:
+                    # Process <ol> tags similarly to <ul>
+                    processed_uls.add(id(tag))
+                    ol_content = []
+                    for li in tag.find_all('li'):
+                        li_text = li.get_text(strip=True)
+                        if li_text not in processed_texts:
+                            processed_texts.add(li_text)
+                            if 'style' in li.attrs:
+                                del li.attrs['style']  # Remove inline styles
+                            ol_content.append(str(li))
+                            li.extract()
+                    if ol_content:  # Add the <ol> only if it has content
+                        ol_html = f"<ol>{''.join(ol_content)}</ol>"
+                        if ol_html not in processed_texts:  # Avoid duplicates
+                            processed_texts.add(ol_html)
+                            previous_content_length += len(ol_html)
+                            if previous_content_length > 5000:
+                                next_tag = tag.find_next()  # Find the next sibling
+                                if next_tag and next_tag.name == 'p':
+                                    span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                    if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                        question_text = next_tag.get_text(strip=True)
+                                        ol_html += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                        processed_texts.add(question_text)
+                                        next_tag.extract()  # Remove the <p> tag from the soup
+                                                                        # Check for <span> or <img> tags
+                                    span_or_img = next_tag.find(lambda t: 
+                                                                    (t.name == 'span' and 
+                                                                    t.get('class') and 
+                                                                    ('fr-img-caption' in t.get('class'))) or 
+                                                                    t.name == 'img')  # Check for <span> or <img>
+                                    if span_or_img:
+                                        if span_or_img.name == 'span':  # Handle <span> tags
+                                            span_text = str(span_or_img)
+                                            ol_html += f"\n{span_text}"  # Append the <span> content
+                                            processed_texts.add(span_text)
+                                        elif span_or_img.name == 'img':  # Handle <img> tags
+                                            img_text = str(span_or_img)
+                                            ol_html += f"\n{img_text}"  # Append the <img> content
+                                            processed_texts.add(img_text)
+                                        next_tag.extract()  # Remove the tag from the soup
+                                                
+                                ol_html = ol_html+"\n ********** \n"
+                                previous_content_length = 0
+                                first = False
+                                startingTag = True
+                                endingTag = False  
+                            text_list.append(ol_html)
+                            
+                    if startingTag:
+                        if not endingTag:
+                            startingText.append(rawText)
+                            endingTag = True  # Set endingTag to True
+                            startingTag = False  # Reset startingTag
+                elif tag.name == 'ul' and id(tag) not in processed_uls:
+                        # Track the processed <ul> to avoid duplicates
+                        processed_uls.add(id(tag))
+                        ul_content = []
+                        for li in tag.find_all('li'):
+                            li_text = li.get_text(strip=True)
+                            if li_text not in processed_texts:
+                                processed_texts.add(li_text)
+                                if 'style' in li.attrs:
+                                    del li.attrs['style']  # Remove inline styles
+                                
+                                ul_content.append(str(li))
+                                li.extract()
+
+                        if ul_content:  # Add the <ul> only if it has content
+                            ul_html = f"<ul>{''.join(ul_content)}</ul>"
+                            if ul_html not in processed_texts:  # Avoid duplicates
+                                processed_texts.add(ul_html)
+                                previous_content_length += len(ul_html)
+                                if previous_content_length > 5000:
+                                    next_tag = tag.find_next()  # Find the next sibling
+                                    if next_tag and next_tag.name == 'p':
+                                        span = next_tag.find('span', {'data-quiz_question_id': True})  # Check for <span> with attribute
+                                        if span and '[Question:' in span.get_text(strip=True):  # Match the text pattern
+                                            question_text = next_tag.get_text(strip=True)
+                                            ul_html += f"\n{str(next_tag)}"  # Append the <p> text to the output
+                                            processed_texts.add(question_text)
+                                            next_tag.extract()  # Remove the <p> tag from the soup
+                                        # Check for <span> or <img> tags
+                                        span_or_img = next_tag.find(lambda t: 
+                                                                    (t.name == 'span' and 
+                                                                    t.get('class') and 
+                                                                    ('fr-img-caption' in t.get('class'))) or 
+                                                                    t.name == 'img')  # Check for <span> or <img>
+                                        if span_or_img:
+                                            if span_or_img.name == 'span':  # Handle <span> tags
+                                                span_text = str(span_or_img)
+                                                ul_html += f"\n{span_text}"  # Append the <span> content
+                                                processed_texts.add(span_text)
+                                            elif span_or_img.name == 'img':  # Handle <img> tags
+                                                img_text = str(span_or_img)
+                                                ul_html += f"\n{img_text}"  # Append the <img> content
+                                                processed_texts.add(img_text)
+                                            next_tag.extract()  # Remove the tag from the soup
+                                                
+                                        
+                                    ul_html = ul_html+"\n ********** \n"
+                                    previous_content_length = 0
+                                    first = False
+                                    startingTag = True
+                                    endingTag = False  
+                                text_list.append(ul_html)
+                        if startingTag:
+                            if not endingTag:
+                                startingText.append(rawText)
+                                endingTag = True  # Set endingTag to True
+                                startingTag = False  # Reset startingTag
+            result = ""
+            for text in text_list:
+                result += text + '\n'
+            # replace any double space from the result using regex
+            # result = re.sub(r'\s+', ' ', result).strip()
+            
+            # print(result)
+            result = re.sub(r'\n+', '', result)
+            result_in_parts = result.split("**********")
+            first = True
+            for text in result_in_parts:
+                if (len(text) != 0):
+                    if (first):
+                        first = False
+                        output += text
+                    else:
+                        if (len(text) < 100):
+                            output += text
+                        else:
+
+                            output += "\n ********** \n"+text
+        else:
+            # this case is when the text only contains text we need to add separator after 1500 characters plus a fullstop 
+            max_length = 1500
+            text = data
+            while len(text) > max_length:
+                # Find the position of the next full stop after max_length
+                end_pos = text[max_length:].find('.')
+                
+                if end_pos != -1:
+                    # Adjust end_pos to be the position in the original text
+                    end_pos += max_length + 1
+                else:
+                    # If no full stop is found, look for the next space
+                    end_pos = text[max_length:].find(' ')
+                    if end_pos != -1:
+                        end_pos += max_length
+                    else:
+                        # If no space is found, set to max_length
+                        end_pos = max_length
+
+                output += text[:end_pos] + "**********"
+                text = text[end_pos:]
+                
+            output += text
+    except Exception as e:
+        print(str(e))
+        output = ""
+    # logging.info("INFO :::::::::::::::::::::::: BEFORE OUTPUT Tag: " + output)
+
+    output = output.replace('__PLUS__', '+')
+    logging.info("INFO :::::::::::::::::::::::: OUTPUT Tag: " + output)
+    output = output.replace("<h7>", "<h2>")
+    output = output.replace("</h7>", "</h2>")
+    output = output.replace("<h8>", "<h3>")
+    output = output.replace("</h8>", "</h3>")
+    # print(output)
+
+    return {"data":str(output),"mappingStart":startingText,"mappingEnd":endingText}
+
+
+@app.route('/createSeparator', methods=['POST'])
+def createSeparator():
+    req = request.json
+    data = req.get('data')
+    output = createSepLocal(data)
+    print(output)
+    return output
+
+    
+def createSepLocal(data):
+    data = data.replace('+', '__PLUS__')
+    data = data.replace("<h7>", "<h2>")
+    data = data.replace("</h7>", "</h2>")
+    data = data.replace("<h8>", "<h2>")
+    data = data.replace("</h8>", "</h2>")
+    logging.info("INFO :::::::::::::::::::::::: STARTING DATA   data Tag: " + data)
+
+    # if data:
+    #     with open('/root/webScrapping/api_result_json/separator.json', 'w') as f:
+    #         json.dump(data, f)
+    # check if there i any html in data using soup
+    soup = BeautifulSoup(data, 'html.parser')
+    for parent_span in soup.find_all("span", class_="fr-img-wrap"):
+        # Find and remove any nested spans with class 'fr-inner'
+        nested_inner = parent_span.find("span", class_="fr-inner")
+        if nested_inner:
+            nested_inner.decompose()  # Remove the nested span from the HTML
+    # allStrongTags = soup.find_all('strong')
+    # for strongTag in allStrongTags:
+    #     strongTagText = strongTag.get_text()
+    #     # add space both sides 
+    #     strongTagText = " "+strongTagText+" "
+    #     # replace this text in original strong tag 
+    #     strongTag.string = strongTagText
+    allBrTags = soup.find_all('br')
+    for brTag in allBrTags:
+        brTag.replace_with(" ")
+        
+    # print(data)
+
     processed_texts = set()
     text_list = []
     previous_content_length = 0
     first = True
     output = ""
-
+    startingTag = True
+    endingTag = False
+    startingText = []
+    endingText = []
     if soup.find_all('div') or soup.find_all("p"):
-        # html present /
         for tag in soup.descendants:
-            if tag.name in ['p', 'img', 'span', 'h1', 'h2', 'h3', 'tr', 'td', 'h4', 'h5', 'h6', 'ul', 'li']:
+            if tag.name in ['p', 'img', 'span', 'h1', 'h2', 'h3', 'tr', 'td', 'h4', 'h5', 'h6', 'h7', 'h8', 'ul', 'li']:
                 if tag.name == 'span':
                     if str(tag) not in processed_texts:
                         text = str(tag)
@@ -3408,33 +5332,64 @@ def createSeparator():
                                 img_text = str(img_tag)
                                 processed_texts.add(img_text)
                                 text_list.append(img_text)
+
                 elif tag.name == 'img':
                     if str(tag) not in processed_texts:
                         text = str(tag)
                         processed_texts.add(text)
                         text_list.append(text)
+
                 else:
-                    text = tag.get_text(strip=True)
-                    if text and text not in processed_texts:
-                        text = re.sub(r'\s+', ' ', text)
+                    text = tag.get_text()
+                    if text and checkExisting(text, processed_texts) == False:
+                        text = re.sub(r'\s+', ' ', text)  # Clean up extra spaces
                         processed_texts.add(text)
-                        text = "<" + tag.name + ">" + text + "</" + tag.name + ">"
+                        rawText = text  # Save the raw text before HTML wrapping
+                        text = "<" + tag.name + ">" + text + "</" + tag.name + ">"  # Wrap in HTML tag
+
+                        # Update content length tracker
                         previous_content_length += len(text)
-                        if (tag.name == 'h2' and previous_content_length > 700):
+
+                        # Insert `**********` based on content length and tag type
+                        if (tag.name == 'h2' or tag.name == "h7") and previous_content_length > 700:
+                            if endingTag:  # If endingTag is True, store in endingText
+                                endingText.append(rawText)
+                            startingTag = True
+                            endingTag = False  # This block marks the transition
                             text = "\n ********** \n" + text
                             previous_content_length = 0
-                        elif (tag.name == 'p' and previous_content_length > 1500):
+
+                        elif tag.name == 'p' and previous_content_length > 1500:
+                            if endingTag:  # If endingTag is True, store in endingText
+                                endingText.append(rawText)
+                            startingTag = True
+                            endingTag = False  # This block marks the transition
                             text = text + "\n ********** \n"
                             previous_content_length = 0
                             first = False
+
+                        # If it's a starting tag, add to `startingText`
+                        if startingTag:
+                            if not endingTag:
+                                startingText.append(rawText)
+                                endingTag = True  # Set endingTag to True
+                                startingTag = False  # Reset startingTag
+
+                        text_list.append(text)
+
                     else:
-                        processed_texts.add(str(tag))
-                    text_list.append(text)
-                    if (tag.name == 'h2'):
+                        processed_texts.add(str(tag))  # Mark the tag as processed
+
+                    # Add delimiter for specific tags
+                    if tag.name == 'h2' or tag.name == "h7":
                         text_list.append("\n ")
+
         result = ""
         for text in text_list:
             result += text + '\n'
+        # replace any double space from the result using regex
+        # result = re.sub(r'\s+', ' ', result).strip()
+        
         # print(result)
         result = re.sub(r'\n+', '', result)
         result_in_parts = result.split("**********")
@@ -3474,9 +5429,175 @@ def createSeparator():
             text = text[end_pos:]
             
         output += text
-    return {"data":output}
+    logging.info("INFO :::::::::::::::::::::::: BEFORE OUTPUT Tag: " + output)
 
+    output = output.replace('__PLUS__', '+')
+    logging.info("INFO :::::::::::::::::::::::: OUTPUT Tag: " + output)
+
+    return {"data":str(output),"mappingStart":startingText,"mappingEnd":endingText}
+
+
+@app.route('/getHTMLTextBasedSeparator', methods=['POST'])
+def getHTMLTextBasedSeparator():
+    req = request.json
+    data = req.get('data')
     
+    data = data.replace('+', '__PLUS__')
+    data = data.replace("<h7>", "<h2>")
+    data = data.replace("</h7>", "</h2>")
+    data = data.replace("<h8>", "<h2>")
+    data = data.replace("</h8>", "</h2>")
+    logging.info("INFO :::::::::::::::::::::::: STARTING DATA   data Tag: " + data)
+
+    # if data:
+    #     with open('/root/webScrapping/api_result_json/separator.json', 'w') as f:
+    #         json.dump(data, f)
+    # check if there i any html in data using soup
+    soup = BeautifulSoup(data, 'html.parser')
+    for parent_span in soup.find_all("span", class_="fr-img-wrap"):
+        # Find and remove any nested spans with class 'fr-inner'
+        nested_inner = parent_span.find("span", class_="fr-inner")
+        if nested_inner:
+            nested_inner.decompose()  # Remove the nested span from the HTML
+    # allStrongTags = soup.find_all('strong')
+    # for strongTag in allStrongTags:
+    #     strongTagText = strongTag.get_text()
+    #     # add space both sides 
+    #     strongTagText = " "+strongTagText+" "
+    #     # replace this text in original strong tag 
+    #     strongTag.string = strongTagText
+    allBrTags = soup.find_all('br')
+    for brTag in allBrTags:
+        brTag.replace_with(" ")
+        
+    # print(data)
+
+    processed_texts = set()
+    text_list = []
+    previous_content_length = 0
+    first = True
+    output = ""
+    startingTag = True
+    endingTag = False
+    startingText = []
+    endingText = []
+    if soup.find_all('div') or soup.find_all("p"):
+        for tag in soup.descendants:
+            if tag.name in ['p', 'span', 'h1', 'h2', 'h3', 'tr', 'td', 'h4', 'h5', 'h6', 'h7', 'h8', 'ul', 'li']:
+                if tag.name == 'span':
+                    if str(tag) not in processed_texts:
+                        text = str(tag.get_text())
+                        processed_texts.add(text)
+                        # Handle <img> tags inside <span> separately
+                        for img_tag in tag.find_all('img'):
+                            if str(img_tag) not in processed_texts:
+                                img_text = str(img_tag)
+                                processed_texts.add(img_text)
+                                # text_list.append(img_text)
+
+                elif tag.name == 'img':
+                    if str(tag) not in processed_texts:
+                        text = str(tag)
+                        processed_texts.add(text)
+                        # text_list.append(text)
+
+                else:
+                    text = tag.get_text()
+                    if text and checkExisting(text, processed_texts) == False:
+                        text = re.sub(r'\s+', ' ', text)  # Clean up extra spaces
+                        processed_texts.add(text)
+                        rawText = text  # Save the raw text before HTML wrapping
+                        # text = "<" + tag.name + ">" + text + "</" + tag.name + ">"  # Wrap in HTML tag
+
+                        # Update content length tracker
+                        previous_content_length += len(text)
+
+                        # Insert `**********` based on content length and tag type
+                        if (tag.name == 'h2' or tag.name == "h7") and previous_content_length > 700:
+                            if endingTag:  # If endingTag is True, store in endingText
+                                endingText.append(rawText)
+                            startingTag = True
+                            endingTag = False  # This block marks the transition
+                            text = "\n ********** \n" + text
+                            previous_content_length = 0
+
+                        elif tag.name == 'p' and previous_content_length > 1500:
+                            if endingTag:  # If endingTag is True, store in endingText
+                                endingText.append(rawText)
+                            startingTag = True
+                            endingTag = False  # This block marks the transition
+                            text = text + "\n ********** \n"
+                            previous_content_length = 0
+                            first = False
+
+                        # If it's a starting tag, add to `startingText`
+                        if startingTag:
+                            if not endingTag:
+                                startingText.append(rawText)
+                                endingTag = True  # Set endingTag to True
+                                startingTag = False  # Reset startingTag
+
+                        text_list.append(text)
+
+                    else:
+                        processed_texts.add(str(tag))  # Mark the tag as processed
+
+                    # Add delimiter for specific tags
+                    if tag.name == 'h2' or tag.name == "h7":
+                        text_list.append("\n ")
+
+        result = ""
+        for text in text_list:
+            result += text + '\n'
+        # replace any double space from the result using regex
+        # result = re.sub(r'\s+', ' ', result).strip()
+        
+        # print(result)
+        result = re.sub(r'\n+', '', result)
+        result_in_parts = result.split("**********")
+        first = True
+        for text in result_in_parts:
+            if (len(text) != 0):
+                if (first):
+                    first = False
+                    output += text
+                else:
+                    if (len(text) < 100):
+                        output += text
+                    else:
+
+                        output += "\n ********** \n"+text
+    else:
+        # this case is when the text only contains text we need to add separator after 1500 characters plus a fullstop 
+        max_length = 1500
+        text = data
+        while len(text) > max_length:
+            # Find the position of the next full stop after max_length
+            end_pos = text[max_length:].find('.')
+            
+            if end_pos != -1:
+                # Adjust end_pos to be the position in the original text
+                end_pos += max_length + 1
+            else:
+                # If no full stop is found, look for the next space
+                end_pos = text[max_length:].find(' ')
+                if end_pos != -1:
+                    end_pos += max_length
+                else:
+                    # If no space is found, set to max_length
+                    end_pos = max_length
+
+            output += text[:end_pos] + "**********"
+            text = text[end_pos:]
+            
+        output += text
+    logging.info("INFO :::::::::::::::::::::::: BEFORE OUTPUT Tag: " + output)
+
+    output = output.replace('__PLUS__', '+')
+    logging.info("INFO :::::::::::::::::::::::: OUTPUT Tag: " + output)
+
+    return {"data":str(output),"mappingStart":startingText,"mappingEnd":endingText}
+
 import schedule
 import time
 import subprocess
@@ -3488,8 +5609,5 @@ from flask import request
 def hello_world():
     return 'Hello World'
 
-
 if __name__ == '__main__':
-    # scrape_websites_current_affair()
-    # schedule.every().day.at("11:30").do(scrape_websites_current_affair)
     app.run(host="0.0.0.0", port=81)

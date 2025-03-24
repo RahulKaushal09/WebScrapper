@@ -1,0 +1,819 @@
+FATF praises India's PMLA, terror financing
+Why in news?
+Global anti-money laundering and terror financing body FATF has launched its mutual evaluation report on India.
+The report commending the country's systems to tackle the menace of money laundering and terror financing. It also urged India to expedite its prosecutions in financial fraud cases.
+What’s in today’s article?
+FATF’s Mutual Evaluation Process
+Key highlights of the FATF’s mutual evaluation report on India
+Financial Action Task Force
+About
+Set up in 1989, FATF is the global money laundering and terrorist financing watchdog.
+It was established during the G7 Summit in Paris.
+It currently comprises 38 member jurisdictions and 2 regional organisations.
+India became an Observer at FATF in 2006. On June 25, 2010 India was taken in as the
+34th country member of FATF
+The inter-governmental body sets international standards that aim to prevent these illegal activities and the harm they cause to society.
+The FATF functions as an independent body guiding policy, with its president selected by the plenary for a one-year period.
+Secretariat is located at the OECD headquarters in Paris
+Functions
+The FATF has developed the FATF Recommendations, or FATF Standards, which ensure a co-ordinated global response to prevent organised crime, corruption and terrorism.
+It also works to identify national-level vulnerabilities with the aim of protecting the international financial system from misuse.
+They help authorities go after the money of criminals dealing in illegal drugs, human trafficking and other crimes.
+It also works to stop funding for weapons of mass destruction.
+FATF’s Mutual Evaluation Process:
+Mutual Evaluation Process is a comprehensive and rigorous assessment conducted
+to evaluate a country's compliance with international standards for combating money laundering (ML) and terrorist financing (TF)
+India and FATF’s mutual evaluation report
+In its previous evaluation in
+June 2010
+, India was placed in the
+“regular follow-up”
+category, which was removed in
+June 2013
+India's next assessment is set for 2031.
+India in the regular follow-up category
+FATF placed India in the
+category for its compliance with anti-money laundering (AML) and counter-terror financing (CTF) recommendations.
+This category signifies a high level of compliance in combating ML and TF, though some non-financial sectors require improvement in supervision and preventive measures.
+This classification is shared by only four other G20 countries [the UK, France, Italy and Russia (now suspended from FATF)].
+Most of the developing countries are in the
+enhanced follow-up
+category, which requires submission of reports on an annual basis,
+as against once in three years in the “regular follow-up” category
+India complied/largely complied with
+37 of 40
+recommendations and all of the
+“Big-Five”
+Lauds India’s PMLA, terror financing
+The report praised India’s systems to tackle the menace of money laundering and terror financing.
+India is taking steps to address the
+fast-tracking of trials
+in terror financing and money laundering cases, which was identified as a priority.
+Areas for Improvement
+Limited Prosecutions and Convictions
+: India has seen a limited number of prosecutions and convictions in money laundering and terror financing cases.
+It flagged delays in the prosecution of terror financing cases due to challenges in the constitutionality of the Prevention of Money Laundering Act (PMLA) between 2014-2022.
+Though the Enforcement Directorate (ED) increased investigations, the number of prosecutions and concluded trials has not shown a proportionate increase.
+Risk-Profiling:
+Customer risk-profiling in financial institutions requires improvement.
+MCA Registry Monitoring
+: Accurate ownership information in the Ministry of Corporate Affairs (MCA) registry needs better oversight.
+Human Trafficking Link
+: Greater focus is required on the connection between money laundering and human trafficking.
+Jan Dhan-Aadhaar-Mobile Initiative & GST
+FATF praised India’s Jan Dhan-Aadhaar-Mobile (JAM) initiative for boosting financial inclusion and reducing the cash-based economy.
+The implementation of GST, requiring e-invoices and e-bills, was recognized for increasing transparency in the supply chain.
+Key Compliance Measures
+India's Cybercrime Coordination Centre, beneficial ownership registry by the Ministry of Corporate Affairs, and Central KYC Records Registry (CKYCR) were highlighted as positive steps.
+The establishment of task forces and high-level committees to combat corruption, black money, drug trafficking, and fake currency was commended.
+Enforcement Achievements
+The ED was recognized for confiscating assets worth ₹16,537 crore and securing restitution of ₹141.3 billion in the Vijay Mallya case.
+ED's success in pursuing complex, large-scale, cross-border money laundering cases and “hawala” operations was noted.
+Shell Companies Task Force
+The report highlighted the removal of 3,82,875 shell companies and the disqualification of over 3 lakh directors who failed to file financial statements.
+International Cooperation and Asset Recovery
+India’s strong coordination on illicit financial flows, financial intelligence, and international cooperation was appreciated.
+The FATF also noted India’s ability to implement targeted financial sanctions.
+Terrorism Threats in India
+India faces a “disparate range” of terrorism threats, including regional insurgencies in the Northeast and North, Left-Wing Extremist groups, and Islamic State or al-Qaeda-linked threats in Jammu and Kashmir.
+The largest money laundering risks stem from fraud, corruption, and drug trafficking.
+Non-Profit Sector Oversight
+India needs
+to ensure that non-profit organizations (NPOs) are safeguarded against misuse for terror financing
+The FATF recommended more focused, coordinated outreach to help NPOs understand these risks better.
+Targeted Financial Sanctions
+The FATF urged India to improve the framework for implementing targeted financial sanctions to ensure the prompt freezing of funds and assets.
+The current process needs streamlining for better communication.
+Definition of Domestic Politically Exposed Persons (PEPs)
+The report highlighted the absence of a definition for domestic PEPs under anti-money laundering laws.
+Foreign PEPs have already been defined, but domestic PEPs require proper identification and risk-based enhanced measures.
+FATF praises India's PMLA, terror financing.pdf
+( Size:  2.3 MB  )
+Click to View More
+Polity & Governance
+**********SC Dismisses Telecom Companies' Curative Petitions Against Ruling On AGR Dues
+Why in news?
+Recently, the Supreme Court of India dismissed curative petitions filed by major telecom companies, including Vodafone Idea and Bharti Airtel, regarding their
+Adjusted Gross Revenue (AGR)
+dues.
+These companies sought a review of the Court's
+October 2019 judgment
+(Vodafone Idea Limited v. Union of India), which held them liable to pay AGR dues.
+What’s in today’s article?
+Recent SC Judgement in Telecom AGR dues case
+Key highlights of the judgement
+About
+Telecom operators are required to pay licence fee and spectrum charges
+in the form of revenue share to the Centre
+The revenue amount used to calculate this revenue share is termed as the AGR.
+Calculation of AGR and Controversy
+As per Dept of Telecom, the revenue calculations should incorporate all revenues earned by a telecom company.
+This also includes revenues
+from non-telecom sources such as deposit interests and sale of assets
+The companies, however, are of the view that AGR should comprise the revenues generated from telecom services only.
+Non-telecom revenues should be kept out of it.
+Legal battle over definition of AGR
+The telcos and the government were involved in the legal battle over the definition of AGR to include the source of revenues.
+In October 2019, the top court
+widened the definition of AGR
+to include the government's view.
+The court ordered to include all revenues, except for termination fee and roaming charges, as a part of the AGR.
+Final Ruling on AGR issue
+On September 1, 2020, the Supreme Court gave its final ruling on the AGR issue.
+It had directed
+telecom companies to pay AGR, interest and penalty on non-payment on AGR dues
+Telecom service providers were asked by the SC to make payments in yearly instalments between April 1, 2021 and March 31, 2031
+In case of default on payment, interest and penalty on interest would automatically be payable, and that
+non-payment would be punishable for contempt of court
+Steps taken by Government after SC Judgement of 2020
+In September 2021, the Union Cabinet had cleared the telecom reforms package aimed at improving liquidity and ease of doing business.
+Telecom companies were provided with the option of four-year moratorium on spectrum and AGR dues.
+In other words, telecom companies could opt to pay the principal, the interest, and all other penalties, after four years, instead of paying it then.
+The government had also given all the telcos a one-time opportunity to convert the interest on this deferred payment into equity at the end of the four-year period.
+About the news
+The Supreme Court has dismissed curative petitions filed by telecom service providers against the court’s October 2019 judgment.
+2019 Judgement upheld the Department of Telecom’s (DoT) move to recover AGR of about ₹92,000 crore from them.
+Background of the present case
+The apex Court in October 2019 allowed the Centre's plea to recover AGR of about Rs. 92,000 crores from them.
+A three-judge bench upheld the definition of AGR formulated by the Department of Telecom (DoT).
+In January, 2020, the Court rejected the pleas by Vodafone Idea, Bharti Airtel and Tata Teleservices seeking review of the 2019 verdict that widened the definition of AGR.
+In September 2020, the SC passed an order requiring telecom companies to pay their AGR dues over a period of 10 years.
+This was after the DoT moved to the SC proposing staggered payment over 20 years for telecom firms to discharge their AGR dues.
+In 2021, the apex court dismissed the pleas by telecom companies seeking correction of errors in calculation of AGR dues payable by them as per the October 2019 judgment.
+In 2023, telecom companies filed curative petitions against the Court's January 2020 decision (dismissing the review petitions).
+Thereafter, the curative petitions were considered by three senior-most judges of the Court and dismissed recently.
+No ground to exercise curative jurisdiction
+SC held that no ground was made out to exercise curative jurisdiction in terms of the Court's decision in
+Rupa Ashok Hurra v. Ashok Hurra
+The Supreme Court had evolved the idea of curative petitions in the landmark judgment of Rupa Ashok Hurra vs. Ashok Hurra.
+The five-judge bench observed that
+Article 142 of the Constitution
+empowers the Supreme Court to act in whatever manner they may deem fit to establish complete justice.
+Therefore, to protect the substantive rights of the litigant, the Constitution Bench came up with the theory of a curative petition.
+Curative petition will be entertained on strong grounds only e.g.
+Violation of principles of natural justice.
+Where the judge has a bias
+This sector has benefitted immensely
+The apex court observed that this sector has benefited immensely under the scheme as apparent from the gross revenue trend from 2004 to 2015.
+The telecom sector had long reaped the fruits of the Centre’s liberalised mode of payment by revenue sharing regime with the government.
+The telecom service providers in spite of the financial benefits of the package started to ensure that they do not pay the licence fee to the public exchequer based on an agreed AGR.
+SC Dismisses Telecom Companies' Curative Petitions Against Ruling On AGR Dues.pdf
+( Size:  962.4 KB  )
+Click to View More
+Polity & Governance
+**********Food Processing Sector Reforms in Last 10 Years
+Why in News?
+While addressing the
+3rd edition of World Food India 2024
+, the Indian PM said the government has undertaken many reforms in the past 10 years for the growth of the food processing sector.
+The PM also said that the Global Food Regulators Summit by the FSSAI will bring together global regulators (WHO, FAO) and domestic institutes to issues such as food safety, quality standards, and best practices.
+What’s in Today’s Article?
+What is World Food India (WFI)?
+Food Processing Sector in India
+Steps Taken by the Government to Boost Food Processing Sector in India
+Challenges and Road Ahead for Food Processing Sector in India
+The 1st edition of the WFI
+was launched by the
+Ministry of Food Processing Industries
+(MoFPI) in 2017, with the objective of
+Introducing the world to rich Indian food culture.
+As well as promoting investments in the diverse food processing sector of the country.
+In view of celebrating
+2023 as the International Year of Millets
+and to bring the global food processing industry together, the MoFPI organised the
+2nd
+edition WFI in 2023.
+The 3rd edition
+of the WFI 2024 will be organised from 19th to 22nd September 2024.
+Food Processing Sector in India:
+Scenario:
+Food processing in India - '
+A Sunrise sector
+' - has an
+essential role in linking Indian farmers to consumers
+in the domestic and international markets.
+Major sectors
+constituting the food processing industry in India are processed fruits and vegetables, ready-to-eat/cook (RTE/RTC), mozzarella cheese, processed marine products, edible oils, beverages, and dairy products.
+The sector has grown substantially, averaging an annual growth rate of
+around 7.3%
+, during 2015-2022.
+The industry has a share of
+12.22% in the employment generated
+in all Registered Factory sectors engaging
+approximately 2.03 million people
+Unregistered food processing sector
+supports employment to 5.1 million workers, constituting 14.18% of employment in the unregistered manufacturing sector.
+Growth drivers:
+Agri-commodity hub:
+Due to its
+diverse agro-climatic conditions,
+it has a wide-ranging and large raw material base suitable for food processing industries.​
+India has
+access to several natural resources
+that provides it with a competitive advantage in the food processing sector.
+India is the
+largest producer of milk and spices
+and one of the leading producers of fruits and vegetables, poultry, and meat.
+Huge consumer base; strong economy; conducive policies; One District, One Product (ODOP); etc.
+Future prospects:
+The market size of the food processing sector in India is estimated
+to reach US$ 1,274 billion in 2027 from US$ 866 billion in 2022
+, backed by changing lifestyle and food habits due to rising disposable income and urbanisation.
+Steps Taken by the Government (MoFPI) to Boost Food Processing Sector in India:
+PM Kisan SAMPADA Yojana (PMKSY):
+It has been envisaged as a comprehensive package which will result in creation of modern infrastructure with efficient supply chain management from farm gate to retail outlet.​
+PM Formalisation of Micro food processing Enterprises (PMFME) Scheme:
+It aims to enhance existing individual micro-enterprises in the unorganised segment of the food processing industry.
+Production Linked Incentive Scheme for Food Processing Industry (PLISFPI):
+It aims to -
+Boost domestic manufacturing, increase exports
+, while supporting food manufacturing entities with stipulated sales.
+Make investment for expansion of processing capacity
+. For example,
+100% FDI
+is permitted in the food processing sector
+Incentivise emergence of strong Indian brands. Food processing units qualify for
+complete profit exemption
+in the first five years.​
+The One District One Product (ODOP) scheme:
+It was launched under the PMFME to provide the framework for value chain development and alignment of support infrastructure.
+ODOP approved for 713 districts in 35 States/UTs with 137 unique products.
+The Mega Food Park (MFP) scheme:
+The scheme follows a cluster approach, establishing modern food processing units within well-defined agri/horticultural zones.
+Under the MFP scheme 41 projects were approved, of which 24 are operational as of December 2023.
+Operation Greens:
+It was launched to boost Farmer Producers Organisations (FPOs), agri-logistics, processing facilities, and professional management, focusing initially on Tomato, Onion, and Potato (
+TOP
+) value chains from
+2018
+As part of the "Aatmanirbhar Bharat Package", the scheme was extended from TOP crops to all fruits and vegetables (
+TOTAL
+).
+Challenges and Road Ahead for Food Processing Sector in India:
+Challenges:
+Lack of cutting-edge infrastructure:
+Many food processing businesses operate in the small and medium enterprises (SMEs) sector, which often lacks the resources needed to upgrade their facilities and machinery to the latest technology.
+The industry is also plagued by:
+Inefficient supply chains,
+Inadequate storage and transport facilities, and
+A lack of access to credit and financing.
+Impact of these issues:
+These issues make it difficult for SMEs to enter the market and compete with larger, more established companies.
+Road ahead:
+The ever-increasing demand for processed food products in domestic and international markets, as well as supportive government policies, are providing the impetus for the sector.
+Therefore, the sector can become an even more important component of India’s GDP and economic growth,
+if all stakeholders
+- from the government and private players -
+come together and realise this goal
+newspaper.pdf
+( Size:  943.7 KB  )
+Click to View More
+Economics
+**********White Revolution 2.0
+Why in the News?
+Union Home and Cooperation Minister Amit Shah recently launched the standard operating procedure for White Revolution 2.0.
+What’s in Today’s Article?
+About White Revolution (History, Purpose, Achievements, Impact, etc.)
+News Summary (White Revolution 2.0, Objectives, Pathway, etc.)
+White Revolution:
+The White Revolution, also known as
+Operation Flood
+, was a landmark initiative that transformed India from a milk-deficient nation into the world’s largest milk producer.
+Spearheaded by
+Verghese Kurien
+, the “Father of the White Revolution,” this movement played a pivotal role in enhancing dairy farming and milk production in India, significantly improving the socio-economic conditions of rural dairy farmers.
+Background & Initiation of the Revolution:
+The White Revolution began in 1970 with the launch of Operation Flood by the
+National Dairy Development Board
+(NDDB).
+Funded initially through the sale of surplus dairy commodities donated by the European Economic Community, the program aimed to create a nationwide milk grid, increase milk production, and provide fair prices to farmers.
+Key Objectives of the White Revolution:
+Increase Milk Production
+: Boosting India’s milk output to make the country self-sufficient.
+Establish Dairy Cooperatives
+: Organizing farmers into cooperatives to eliminate middlemen and ensure fair returns for milk producers.
+Provide Access to Markets
+: Creating a reliable supply chain to connect rural milk producers directly with urban markets.
+Achievements & Impact:
+World’s Largest Milk Producer
+: India’s milk production increased from 21 million tonnes in the 1970s to over
+220 million tonnes in 2022-23, making it the largest milk producer globally
+Rural Empowerment
+: The initiative empowered millions of rural families, providing them with a steady income and improving their livelihoods.
+Nutritional Benefits
+: Enhanced access to milk improved nutritional standards in India, contributing to better public health outcomes.
+Cooperative Movement and Amul’s Role:
+The cooperative model, pioneered by Amul under Dr. Kurien, became a cornerstone of the White Revolution.
+Amul’s success in Gujarat was replicated nationwide, inspiring the creation of numerous dairy cooperatives that collectively brought about a milk revolution.
+Current Status and Challenges:
+Production Growth
+: As of 2023, India accounts for approximately 23% of global milk production, with an annual growth rate of around 6.2%.
+: Despite its success, the sector faces challenges such as:
+fluctuating milk prices,
+climate change impacts, and
+the need for modernization in dairy farming practices.
+White Revolution 2.0:
+Union Home and Cooperation Minister Amit Shah recently launched the standard operating procedure for White Revolution 2.0, a renewed effort to boost the dairy sector in India.
+Key Objectives of White Revolution 2.0:
+Empower Women
+: The initiative seeks to include women involved in milk procurement into formal employment by depositing earnings directly into their bank accounts. This approach aims to provide financial independence to women and formally recognize their contributions.
+Increase Milk Procurement
+: The program targets an increase in milk procurement by cooperatives from the current 660 lakh liters per day to 1,000 lakh liters.
+Women's Role in the Dairy Sector:
+Amit Shah emphasized the crucial role of women in the dairy industry, particularly in cooperative dairies.
+In Gujarat alone, 36 lakh women are involved in dairy activities, contributing to a business worth ₹60,000 crore annually
+The initiative aims to replicate such success nationwide, strengthening cooperative institutions at the panchayat, tehsil, and district levels.
+Addressing Malnutrition:
+One of the significant benefits of White Revolution 2.0 is its potential impact on malnutrition.
+Amit Shah highlighted that
+increasing milk availability would primarily benefit poor and malnourished children
+He stressed that efforts by women, especially mothers, are key to combating child malnutrition, more so than government interventions.
+Strengthening Cooperative Institutions:
+Amit Shah pointed out that the cooperative sector had not received necessary reforms in the past 70 years, leading to uneven success across states.
+To address this, the government has prepared a proposal for two lakh Primary Agriculture Cooperative Societies (PACS), dairy, and fishery cooperatives, which has been accepted by all states.
+The initiative aims to ensure that every panchayat in the country will have a PACS, dairy, or fishery cooperative society, thereby expanding the reach of cooperatives nationwide.
+Financial Support and Cooperative Integration:
+The government has assured full budgetary support for White Revolution 2.0, recognizing it as a priority area.
+An important initiative under this program is "
+Cooperation among Cooperatives
+," tested successfully in Gujarat's
+Panchmahal
+Banaskantha
+Key actions included:
+Opening bank accounts for cooperative sector institutions in cooperative banks.
+Issuing debit and credit cards to women involved in the Primary Cooperative Society and Milk Producers Committee, strengthening their financial position.
+Establishing micro-ATMs and promoting digital transactions, enhancing the financial inclusion of women in rural areas.
+National Expansion of Cooperative Banking:
+Following successful experiments in Gujarat, where over 9 lakh accounts were opened and deposits increased by ₹4,000 crore in cooperative banks, the initiative will now be scaled up nationwide.
+More than 2,600 micro-ATMs have already been distributed, and similar measures will be implemented across India to empower women financially.
+Conclusion
+White Revolution 2.0 is a significant step towards empowering women, strengthening cooperatives, and addressing malnutrition in India.
+By integrating women into formal employment, enhancing milk procurement, and providing financial support, the initiative aims to transform the dairy sector and contribute to the broader socio-economic development of rural India.
+White Revolution 2.0 to empower women.pdf
+( Size:  367.0 KB  )
+Click to View More
+Economics
+**********FATF on India: Effective Money Laundering system, low prosecution
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+FATF, Mutual Evaluation; Grey and Black Lists
+Mains level:
+Money laundering challenges in India;
+Why in the News?
+The
+placed India in the “regular follow-up” category for having an “effective” anti-money laundering and counter-terror financing system but highlighted the need for significant improvements in prosecuting such cases.
+Key Highlights of the FATF Mutual Evaluation Report on India:
+“Regular Follow-up” Category
+: India has been placed in the “regular follow-up” category, signifying that its system for combating money laundering and terror financing is effective.
+Financial institutions need better risk profiling of customers, and the
+Ministry of Corporate Affairs (MCA)
+registry needs improved monitoring for accurate ownership information.
+Money Laundering Risks
+: The primary sources of money laundering in India come from
+fraud, cyber-enabled fraud, corruption,
+drug trafficking
+Terror threats are mainly linked to Islamic State or al-Qaeda groups in Jammu and Kashmir.
+Non-Profit Organisations (NPOs)
+: India should strengthen measures to prevent abuse of the NPO sector for terror financing, and enhance outreach to NPOs at risk.
+Improvements in Sanctions Framework
+: India needs to improve its targeted financial sanctions framework to ensure the timely freezing of funds and assets related to terror financing.
+Domestic Politically Exposed Persons (PEPs)
+: The report urged India to define domestic PEPs under its
+anti-money laundering laws
+and improve identification and risk-based measures related to them.
+Delay in prosecution
+: The report noted delays in prosecution due to
+review petitions
+are still pending, which delays the resolution of cases under the PMLA.
+Challenges faced by the Indian Government:
+Prosecution and Conviction Delays
+: Despite an increase in investigations, the number of prosecutions and convictions remains low, with significant delays in concluding trials, especially under the PMLA.
+Constitutionality Issues
+: Legal challenges to the constitutionality of the PMLA between 2014-2022 disrupted the momentum in terror financing and money laundering prosecutions.
+Risk Profiling of Financial Customers
+: There is a need for better risk profiling of customers in financial institutions to address money laundering more effectively.
+Inaccurate Ownership Information
+: Ensuring accurate owner information in the Ministry of Corporate Affairs (MCA) registry remains a challenge, especially concerning investments from tax havens.
+: Ensuring that non-profits are not abused for terror financing requires better coordination and focused outreach by authorities.
+Lack of Definition for Domestic PEPs
+: While India has defined foreign PEPs, the absence of a clear definition for domestic PEPs under PMLA creates a gap in the anti-money laundering framework.
+Fast-Tracking Trials
+: The need to fast-track trials in money laundering and terror financing cases is recognized, but progress in addressing this challenge remains slow.
+Way Forward:
+Strengthen Legal and Institutional Framework
+: India should establish clear definitions for domestic Politically Exposed Persons (PEPs) under anti-money laundering laws and enhance targeted financial sanctions to ensure timely asset freezing.
+Enhance Risk Management and Monitoring
+: Financial institutions should improve risk profiling and implement stricter Know Your Customer (KYC) processes, while the Ministry of Corporate Affairs should ensure accurate ownership data, especially for investments from tax havens.
+Mains PYQ:
+Discuss how emerging technologies and globalisation contribute to money laundering. Elaborate measures to tackle the problem of money laundering both at national and international levels.
+(UPSC IAS/2021)
+**********Why US Fed cut interest rates, how India could be impacted? 
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Implications of Global Markets on India; Implication of interest rate;
+Why in the News?
+The United States Federal Reserve, responsible for the country’s monetary policy, announced on Wednesday that it will lower its key interest rate, called the Federal Funds Rate, by 0.5%, or 50 basis points.
+Why did the Fed cut interest rates?
+The Federal Reserve cut the benchmark interest rate by
+to address
+rising unemployment
+concerns while inflation was stabilizing.
+After a series of aggressive rate hikes to
+counter inflation
+that surged due to post-COVID recovery and the
+Russia-Ukraine war,
+inflation began to moderate, nearing the Fed’s target of 2%.
+Rising unemployment data signaled that the restrictive monetary policy might harm the
+labor market
+, prompting the Fed to act.
+Will the US economy achieve a soft landing?
+Optimistic Projections
+: Despite earlier predictions that high inflation would lead to a recession, the Fed’s strategy may succeed in achieving a soft landing, reducing inflation without crashing the economy.
+GDP Growth
+: The Summary of Economic Projections (SEP) estimates GDP growth to remain around
+2% for the next few years,
+indicating a stable economy.
+Unemployment
+: While the unemployment rate has risen slightly to
+4.4%,
+it remains manageable, with expectations of improvement.
+Risks
+: Potential policy shifts, especially related to the
+upcoming presidential election
+, could disrupt the economic outlook, particularly if trade tariffs are imposed.
+How will India be affected?
+Increased Foreign Investments
+: Lower US interest rates could encourage foreign investors to borrow in the US and invest in India through stocks, bonds, or foreign direct investment (FDI), benefiting capital inflow.
+Rupee Strengthening
+: With falling US interest rates, the US dollar may weaken against the Indian rupee, potentially strengthening the rupee. This would
+negatively
+Indian exporters
+but benefit importers.
+RBI’s Interest Rate Decisions
+: While the Fed’s rate cuts influence global markets, India’s central bank, the RBI, may not directly follow suit due to differing inflation targets and mandates. The RBI prioritizes inflation control and GDP growth over unemployment figures.
+Way forward:
+Encourage Capital Inflows
+: India should take advantage of lower US interest rates by attracting foreign investments through improved ease of doing business, fostering growth in key sectors like infrastructure, technology, and manufacturing.
+Maintain Monetary Stability
+: The RBI should carefully assess global trends but prioritize domestic conditions when adjusting interest rates, focusing on inflation control, financial stability, and sustained GDP growth.
+Mains PYQ:
+Do you agree with the view that steady GDP growth and low inflation have left the Indian economy in good shape? Give reasons in support of your arguments.
+(UPSC IAS/2016)
+**********White Revolution 2.0
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Ministry of Cooperation unveiled
+, focusing on
+empowering women farmers
+and
+creating job opportunities
+dairy cooperative sector
+What is White Revolution 2.0?
+Details
+Objective
+Transforming India’s dairy sector by empowering women farmers, increasing milk production, and modernizing dairy infrastructure.
+Target
+Increase procurement
+from the current
+660 lakh litres per day to 1,000 lakh litres per day.
+Funding
+• Initial funding of ₹40,000 per Multi-Purpose Primary Agricultural Credit Society (PACS) by National Dairy Development Board.
+• Total outlay of ₹70,125 crore with full government budgetary support.
+Provisions and Features
+1.
+Women Empowerment
+: Focus on empowering women in the dairy sector and strengthening women’s cooperatives.
+Increase in Milk Procurement
+: Aims to raise procurement by 50% over the next five years.
+3.
+Cooperative Infrastructure
+: 100,000 new and existing cooperative societies (district cooperative societies and Primary Agricultural Credit Societies) to be set up or enhanced.
+4.
+RuPay Kisan Credit Cards
+: Nationwide rollout for dairy farmers, with micro-ATMs at cooperative societies.
+5.
+Computerisation of Primary Agricultural Credit Societies
+: 67,930 Primary Agricultural Credit Societies will be computerised for better management.
+Significance
+: Creates leadership opportunities for women in dairy, promoting gender equality.
+Boost to Rural Economy
+: Strengthening cooperatives and milk procurement will improve rural livelihoods.
+Improved Infrastructure
+: Modern technology, micro-ATMs, and computerisation will increase efficiency.
+Job Creation
+: Expanding cooperatives and modern practices will generate jobs for 130 million farmers.
+Malnutrition Reduction
+: Enhances dairy quality to combat malnutrition.
+6.
+Cooperative Modernisation
+: Focus on Artificial Intelligence and advanced technologies.
+7.
+Dairy Exports Boost
+: Improved production and quality to enhance India’s dairy exports.
+PYQ:
+[2017]
+Explain various types of revolutions, took place in Agriculture after Independence in India. How these revolutions have helped in poverty alleviation and food security in India?
+**********Amoebic Meningoencephalitis
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Primary Amoebic Meningoencephalitis (PAM); Naegleria fowleri.
+Why in the News?
+This year, Kerala faced a sudden surge in
+cases, caused by free-living amoebae (FLA) found in freshwater ponds, lakes, and rivers.
+Kerala also saw a
+diverse range of amoebic infections
+Vermamoeba vermiforis
+Acanthamoeba
+What is Primary Amoebic Meningoencephalitis (PAM)?
+PAM is caused by the
+, often referred to as the “
+brain-eating amoeba
+“. It destroys brain tissue, causing severe swelling and is fatal in most cases.
+An amoeba is a type of cell or
+unicellular organism
+with the ability to alter its shape, primarily by extending and
+retracting pseudopods
+Higher temperatures of up to
+115°F (46°C)
+are conducive to its growth and it can survive for short periods in warm environments.
+The amoeba
+enters the body through the nose
+, typically during activities like swimming, and travels to the brain, causing severe damage.
+PAM is also
+non-communicable
+Symptoms:
+Headache, fever, nausea, vomiting, stiff neck, confusion, seizures, hallucinations, and coma.
+According to the
+US Centers for Disease Control and Prevention (CDC)
+, most people with PAM die within 1 to 18 days after symptoms begin. It usually leads to coma and death after 5 days.
+Diagnosis and Treatment:
+Currently, there are
+no established effective treatments
+for PAM.
+Diagnosis involves
+PCR tests of cerebrospinal fluid
+, though detection can be challenging due to the rarity of PAM.
+Treatment follows
+CDC guidelines
+, including miltefosine, Azithromycin, and Amphotericin B, with miltefosine recently procured by the State Health Department from Germany.
+Medical interventions typically involve a combination of drugs, including amphotericin B, azithromycin, fluconazole, rifampin, miltefosine, and dexamethasone.
+**********100 Years of Harappan Civilization
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Important sites of Indus valley Civilization
+Why in the News?
+It has been
+100 years
+since the
+discovery of the Harappan Civilization
+, announced by
+John Marshall on September 20, 1924
+.
+Harappa: Remains of a Civilization
+The
+, also known as the
+Indus Valley Civilization
+, flourished between
+2600 BCE and 1900 BCE
+, with earlier settlements dating back to
+3200 BCE
+The origins of this civilisation are traced back to
+Mehrgarh
+Balochistan
+, which dates to
+7000 BCE
+It is considered one of the three earliest civilizations, alongside
+Egypt
+Mesopotamia
+The civilization covered over
+1.5 million sq. km
+, stretching across modern-day
+India
+Pakistan
+, and
+Afghanistan
+Remains of the civilization include:
+Well-planned cities
+with a grid layout, intersecting streets, and fortified structures.
+Advanced drainage systems
+with underground sewers and covered drains, showing a strong emphasis on hygiene.
+Granaries
+warehouses
+dockyards
+, indicating the presence of structured trade and food storage mechanisms.
+The discovery of
+seals made of steatite
+, often engraved with animals and an un-deciphered script, suggesting a sophisticated administrative system.
+Craftsmanship
+in pottery, bead-making, terracotta figurines, metal artefacts, and weaving.
+Water management systems
+such as
+reservoirs
+wells
+baths
+, indicating an advanced understanding of hydraulic engineering.
+The Discoverers:
+Two ASI archaeologists were credited with the discovery:
+Daya Ram Sahni
+excavated
+1921-22
+, discovering seals, pottery, and beads.
+Rakhal Das Banerji
+began excavating
+Mohenjo-daro
+1922
+, finding similar items such as seals and copper objects.
+noticed the
+similarity
+between the objects found at Harappa and Mohenjo-daro, despite the sites being
+640 km apart
+About the Mohenjo-daro Site:
+is one of the
+largest cities
+of the Harappan Civilization, located in the
+Sindh
+province of
+, discovered in
+The city represents one of the finest examples of ancient urban planning:
+Great Bath
+: A large, centrally located structure thought to be used for
+ritual bathing
+or religious ceremonies. It is considered one of the earliest public water tanks in history.
+: Massive storage facilities near the citadel suggest an organized system of storing food for the community.
+Citadel and Lower Town
+: The city was divided into a raised
+for the ruling elite and a
+lower town
+for common people. Both areas had well-planned streets and residential complexes.
+Drainage Systems
+: Mohenjo-daro featured
+covered drainage systems
+with individual toilets connected to the drainage network, showcasing an impressive public sanitation system.
+Residential Buildings
+: Homes were built from
+uniform mud bricks
+, with courtyards and bathrooms, and were often multi-storied. The use of
+standardised brick sizes
+(ratio 1:2:4) and
+cubic weights
+showed their high degree of organisation.
+Artefacts found at Mohenjo-daro include:
+Seals
+with animal motifs and the un-deciphered
+Harappan script
+, believed to have been used for administrative or trade purposes.
+Pottery
+tools
+made of bronze and copper.
+Terracotta figurines
+jewellery
+toys
+that reflect a highly developed artistic culture.
+Weights and measures
+based on a uniform standard, indicating the use of a standardized economic system.
+The city’s
+were aligned north-south and east-west, cutting at right angles, allowing for efficient transportation, including
+bullock carts
+Mohenjo-daro is believed to have had
+trade links
+, as suggested by artefacts with Mesopotamian connections.
+PYQ:
+[2013]
+Which of the following characterizes/characterize the people of Indus Valley Civilization?
+1. They possessed great palaces and temples.
+2. They worshipped both male and female deities.
+3. They employed horse-drawn chariots in warfare.
+Select the correct statement/statements using the codes given below.
+(a) 1 and 2 only
+(b) 2 only
+(c) 1, 2 and 3
+(d) None of the statements given above is correct
+**********Why Earth will temporarily get a ‘Mini-Moon’ in September?
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Mini-Moon, Asteroid 2024 PT5,
+Why in the News?
+In a rare celestial event, Earth’s gravitational field will witness a
+small asteroid
+, creating a “
+mini-moon
+” for two months.
+What is Mini-Moon?
+A mini-moon is a
+captured by Earth’s gravitational field
+orbiting the planet
+for a short period before escaping back into space.
+Unlike Earth’s permanent moon, mini-moons only
+stay for a few months
+to a few years
+before being ejected from orbit.
+Mini-moons are a
+rare occurrence
+because most asteroids
+either pass by Earth
+burn up in the atmosphere
+rather than being captured by Earth’s gravity.
+Mini-moons are usually small, often just a
+few meters in diameter
+For example,
+is only about
+33 feet
+(10 meters) in length.
+They are
+hard to detect
+and are usually discovered using
+advanced telescopic
+surveys
+like NASA’s
+Asteroid Terrestrial-impact Last Alert System (ATLAS)
+Significance of Mini-Moons
+Mini-moons offer scientists a unique opportunity
+to study near-Earth objects
+, enhancing our understanding of asteroids’ behavior and composition.
+Mini-moons could contain
+valuable minerals or water
+, making them potential targets for future space missions to extract resources.
+Studying mini-moons helps scientists
+learn more about Earth’s gravitational influence
+and how it interacts with space objects.
+PYQ:
+[2011]
+What is the difference between asteroids and comets?
+Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material.
+Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and Mercury.
+Comets show a perceptible glowing tail, while asteroids do not.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+**********[pib] A poem on ‘National War Memorial’ and a chapter on ‘Veer Abdul Hameed’ included in NCERT
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+National War Memorial, Abdul Hameed (PVC)
+Why in the News?
+and a chapter about
+(PVC) introduced by the Ministries of Defence and Education has been included in the NCERT Class VI curriculum.
+About National War Memorial
+The
+was unveiled on
+25th February 2019
+to honor Indian soldiers who sacrificed their lives in conflicts with Pakistan, China, 1961 Goa war and Operation Pawan.
+The monument is designed in a
+C-hexagon
+layout
+, with names of the fallen soldiers inscribed on its walls.
+It was designed by
+Yogesh Chandrasan
+WeBe Design Lab
+Key features include the
+Amar Chakra
+(Circle of Immortality)
+with the ‘Eternal Flame’ symbolizing the nation’s commitment to remembering the soldiers.
+Veerta Chakra
+showcases six bronze murals depicting acts of bravery.
+Rakshak Chakra
+symbolizes protection with trees representing troops safeguarding the nation.
+Tyag Chakra (Circle of Sacrifice)
+features concentric granite walls honoring the soldiers who have died since Independence.
+The memorial also features
+busts of 21 soldiers
+who have received the
+Param Vir Chakra
+, India’s highest gallantry award.
+Who was Veer Abdul Hameed?
+Abdul Hamid
+was a soldier in the
+4th Grenadiers
+of the Indian Army.
+He fought in the
+Battle of Asal Uttar
+during the
+1965 India-Pakistan war
+, which took place near the India-Pakistan border in Punjab.
+On
+10th September 1965
+, he destroyed 3 Pakistani tanks and damaged a 4th near
+Chima village
+. He was killed during the battle.
+For his exceptional bravery, he was posthumously awarded the
+, India’s highest military honour.
+A war memorial now stands at the site of his death, featuring a captured
+Patton tank
+as a tribute to his courage.
+**********

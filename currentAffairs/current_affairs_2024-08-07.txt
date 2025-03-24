@@ -1,0 +1,838 @@
+The debate over GST on health insurance
+Why in news?
+Insurance premiums for health and life policies have increased this year, and with an 18% Goods and Services Tax (GST) added, many people in India are finding insurance less affordable.
+Opposition leaders protested at Parliament, demanding the removal of GST on these premiums. Recently, Union Minister Nitin Gadkari wrote to Finance Minister, arguing that GST on insurance premiums taxes life's uncertainties and hampers industry growth.
+What’s in today’s article?
+Life and health insurance market in India
+GST on health and life insurance premiums
+Rationale behind this move
+Need for withdrawing the GST on the premium
+In fiscal 2023-24, the general insurance industry collected Rs 1,09,000 crore in health premiums, while life insurance companies collected Rs 3,77,960 crore, with LIC alone contributing Rs 2,22,522 crore.
+Five states—Maharashtra, Karnataka, Tamil Nadu, Gujarat, and Delhi—accounted for 64% of the total health insurance premium in 2022-23, with the rest of the states contributing 36%.
+A Swiss Re Sigma report noted a
+decrease in insurance penetration in India's life insurance sector from 3.2% in 2021-22 to 3% in 2022-23
+non-life insurance penetration remained at 1%
+Overall, India's insurance penetration dropped to 4% in 2022-23 from 4.2% in the previous year.
+GST, introduced on July 1, 2017, replaced all indirect taxes, including service tax and cess.
+Currently,
+GST on health and life insurance policies is fixed at 18%
+Prior to GST, life insurance premiums were subject to 15% service taxes, comprising Basic Service Tax, Swachh Bharat cess, and Krishi Kalyan cess.
+Since GST encapsulates service tax, which applies to the insurance industry, its introduction has resulted in an increase in premium amounts.
+This rise, combined with high medical inflation estimated at 14% last year, has made medical and term insurance less affordable for many.
+The government acknowledged in Parliament that it received requests for an exemption or reduction in GST rates on life and health insurance.
+Rationale behind imposing the GST on health and life insurance premiums
+Role of GST Council
+The GST rates and exemptions on services, including health insurance premiums, are set by the GST Council, which includes the Union Finance Minister and state/UT ministers.
+Revenue earning segment for the government
+GST is applicable to all insurance policies since insurance is a service, and policyholders pay tax on their insurance premium.
+This segment fetched Rs 21,256 crore in GST during the last three financial years, and another Rs 3,274 crore from the reissuance of health policies.
+Certain deductions allowed while computing income tax
+Insurance premiums are eligible for tax deductions under Sections 80C and 80D of the Income Tax Act, 1961, with deductions up to Rs 1.5 lakh, including GST, and additional deductions for medical riders.
+Large increases in premium on health insurance policies
+The main issue is the large increases in premium on health insurance policies this year — a leading public sector insurer has hiked the premium by 50%.
+GST on insurance in India is the highest in the world
+Many experts have pointed out that the GST on insurance in India is the highest in the world.
+This step might create challenges for
+IRDAI’s goal of “Insurance for All by 2047
+”.
+Report by Standing Committee on Finance
+The Standing Committee on Finance in its 66th report, submitted to Parliament in February 2024, recommended rationalisation of the GST rate on insurance products, especially health and term insurance.
+It said that the high rate of GST results in a high premium burden, which acts as a deterrent to getting insurance policies.
+The debate over GST on health insurance.pdf
+( Size:  2.7 MB  )
+Click to View More
+Economics
+**********Govt to restore indexation benefit for property
+Why in news?
+Following criticism over the Budget proposal to remove the indexation benefit on long-term capital gains (LTCG) from selling unlisted assets, the government has decided to offer taxpayers a choice.
+For properties acquired before July 23, 2024, taxpayers can either pay LTCG tax at 20% with the indexation benefit or pay LTCG tax at the new rate of 12.5% without the indexation benefit.
+This change comes from amendments made by the government in the Finance Bill.
+What’s in today’s article?
+Capital Gain Tax
+Indexation benefits
+About
+A capital gains tax is a tax imposed on the sale of an asset. It is calculated as the difference between the sale price of the property and its purchase price.
+Any gain or loss incurred from the sale of a house property may be subject to tax under the 'Capital Gains' head.
+Similarly, capital gains or losses may arise from sale of different types of capital assets such as stocks, mutual funds, bonds and other investments.
+Types
+Depending of the period an asset is held with the owner, there are two types of capital gains - Short-term Capital Gains and Long-term Capital Gains.
+Budget 2024 and Capital Gain Tax
+For classifying assets into long-term and short-term, there will only be two holding periods: 12 months and 24 months.
+The 36-month holding period has been removed
+All listed securities with a holding period exceeding 12 months are considered Long-Term.
+The holding period for all other assets is 24 months
+The taxation of Short-Term Capital Gain for listed equity shares, a unit of an equity-oriented fund, and a unit of a business trust has been
+increased to 20% from 15
+%.
+Other financial and non-financial assets which are held for short term shall continue to attract the tax at slab rates.
+The limit on the exemption of Long-Term Capital Gains on the transfer of equity shares or equity-oriented units or units of Business Trust has increased from Rs 1 Lakh to Rs 1.25 lakh per year.
+However, the rate at which it is taxed has increased from 10% to 12.5%
+The tax on long-term capital gains on other financial and non-financial assets is reduced from 20% to
+12.5%.
+In case of property sale,
+indexation helps in adjusting its purchase price according to the prevailing inflation rate
+So basically, the adjustment inflates the purchase price of a property considering the inflation over the invested years.
+This ultimately brings down the taxable capital gains on the sale of the property.
+Through indexation, investors can accurately determine their capital gains and be assured that they are paying taxes only on the real gains after inflation is adjusted.
+Calculation
+The government releases cost inflation index (CII) numbers to index capital gains on specified assets.
+CII number takes into account the prevailing inflation for the particular financial year.
+Formula to calculate
+the adjusted purchase price using the cost inflation index is:
+Indexed cost = Purchase Amount * (CII in year of sale / CII in year of purchase).
+Initially, I-T department had set 1981 as the base year and later shifted it to 2001, with a base value of 100.
+Each year’s index is computed relative to this base.
+This adjustment ensures that the taxable gain reflects the real increase in the asset’s value, not just the effect of inflation.
+Possible impact of removal of indexation benefit
+Slowdown in the resale market
+It may discourage owners of older residential properties and land from selling, as the increased tax liability reduces their potential profit.
+Rise in cash transactions
+There’s a concern that this change could incentivize under-the-table cash deals to avoid the higher tax burden, counteracting efforts to formalize the real estate sector.
+Higher property prices
+Sellers may attempt to offset the increased tax burden by raising property prices, effectively transferring the cost to buyers.
+Background
+The budget 2024 had announced the removal of the indexation benefits available on the property sale. It introduced a 12.5% LTCG tax rate without indexation.
+The indexation benefit that was previously available on sale of long-term assets, has now been done away with.
+So, any sale of long-term asset made after 23rd July, 2024, will attract tax rate of 12.5% only without indexation benefit.
+The indexation benefit, however, can be taken
+on the sale of property bought or inherited before 2001
+Indexation benefits on property transactions to stay on
+After backlash from different quarters, the Centre has decided to revisit its decision to scrap the indexation benefits on property transactions.
+The government amended the Finance Bill, 2024, allowing people to choose between a 12.5% LTCG tax rate without indexation or a 20% rate with indexation for property acquired before July 23, 2024.
+Now a resident tax payer can opt for tax rate which is more beneficial for properties acquired prior to 23 July 2024.
+Initially, there was no grandfathering for properties bought after April 1, 2001.
+Govt to restore indexation benefit for property.pdf
+( Size:  1.2 MB  )
+Click to View More
+Economics
+**********Performance of Ayushman Bharat Scheme
+Why in the News?
+Beneficiaries aged 70 years and above made up over 12 per cent of all admissions under the government’s flagship Ayushman Bharat health insurance scheme, according to data presented in Parliament by the Union Ministry of Health and Family Welfare.
+What’s in Today’s Article?
+Ayushman Bharat Scheme (Objective, Components)
+Ayushman Bharat HWCs (Purpose, Features, etc.)
+News Summary
+About Ayushman Bharat Scheme:
+Ayushman Bharat, a flagship scheme of Government of India, was launched in 2018 as recommended by the
+National Health Policy 2017
+: To achieve the vision of Universal Health Coverage.
+This initiative has been designed to meet
+Sustainable Development Goal number 3
+and its underlining commitment, which is to "leave no one behind."
+Ayushman Bharat adopts a continuum of care approach, comprising of two inter-related components, which are:
+Pradhan Mantri Jan Arogya Yojana (PM-JAY)
+It provides
+health insurance cover of Rs. 5 lakhs per year
+to over 10 crore poor and vulnerable families for seeking secondary and tertiary care.
+Health and Wellness Centres (HWCs)
+About Ayushman Bharat Health and Wellness Centres (HWCs)
+In February 2018, the Government of India announced the
+creation of 1,50,000 Health and Wellness Centres (HWCs) by transforming the existing Sub Centres and Primary Health Centres
+The goal is
+to ensure access to quality healthcare closer to the community
+, thereby improving health outcomes and reducing out-of-pocket healthcare expenditures for individuals and families.
+These centres provide free essential medicines and diagnostic services, teleconsultation, and health promotion including wellness activities like Yoga.
+HWCs also offer
+annual screening for those 30 years or older for Non Communicable Diseases
+such as:
+Hypertension, Diabetes, and three of the most common Cancers in India — oral, breast and cervical.
+Progress/Achievements under Ayushman Bharat Scheme:
+The scheme crossed the milestone of
+30 crore Ayushman cards
+in January2024.
+In order to reach out to the last mile, NHA has launched ‘Ayushman App’ for Ayushman Card creation.
+With 4.83 crore Ayushman Cards, Uttar Pradesh tops the list of States with the highest number of Ayushman Cards crated. Madhya Pradesh and Maharashtra stand at number two and three positions with 3.78 crore and 2.39 crore Ayushman cards respectively.
+48% of treatment provided under the scheme has been availed by the female; thus, gender equity is part of core design of the scheme.
+Further,
+Ayushman Bharat has successfully catered to 6.2 crore hospital admissions worth more than Rs. 79,000 crores
+Performance of Ayushman Bharat Scheme:
+The Ayushman Bharat health insurance scheme data presented in Parliament reveals that
+beneficiaries aged 70 years and above constituted over 12% of all admissions and nearly 14% of the total expenditure till January 2024
+Of the nearly 6.2 crore approved hospital admissions till January 2024, 57.5 lakh were for senior citizens aged 70 years and above, with treatment costs amounting to more than Rs 9,800 crore out of the
+total Rs 79,200 crore spent over the last six years
+The government's plan to expand Ayushman Bharat to include all individuals over 70, irrespective of economic status, is set to add nearly 4 crore new beneficiaries.
+Expanding coverage to older people of means will likely increase the policy's utilization and costs.
+The interim budget in February
+extended the scheme to ASHA and Anganwadi workers, but no further expansion was mentioned in the July budget, with a slight increase in allocation to Rs 7,300 crore
+India's ageing population is projected to rise from 8.6% in 2011 to 19.5% by 2050
+, tripling in absolute numbers from 103 million in 2011 to 319 million in 2050.
+Hospital admissions for older individuals exceeded their population share in several states, with Maharashtra leading at 20.49%.
+In contrast, Tamil Nadu recorded the lowest proportion of admissions (3.12%) but had higher treatment costs for the elderly.
+States like Maharashtra, Kerala, Haryana, Himachal Pradesh, Bihar, and others had the highest proportions of spending on elderly care.
+Treatments for the elderly are costlier due to longer healing times, higher likelihood of secondary infections, need for ICU care, and multiple comorbidities.
+newsaper.pdf
+( Size:  1.5 MB  )
+Click to View More
+Social Issues
+**********Draft Broadcasting Services (Regulation) Bill 2024
+Why in News?
+The latest draft of the Broadcasting Services (Regulation) Bill 2024 seeks to replace the Cable Television Networks (Regulation) Act 1995.
+The draft Bill seeks to regulate the broadcast of news and current affairs programmes (excluding print news), as they will have to comply with the prescribed programme code and advertisement code.
+What’s in Today’s Article?
+About the Draft Broadcasting Services (Regulation) Bill 2024
+What is the Position of the OTT Platforms under the Latest Draft?
+Why is the Scope of the Draft Broadcasting Services (Regulation) Bill 2024 Significantly Expanded?
+Concerns Regarding the Draft Broadcasting Services (Regulation) Bill 2024
+About the Draft Broadcasting Services (Regulation) Bill 2024:
+Background:
+This draft is a revision of the one released by the Ministry of Information and Broadcasting in 2023 to consolidate the legal framework for the broadcasting sector and extend it to over-the-top (OTT) content and digital news.
+Key features:
+Definition of digital news broadcasters:
+The definition of digital news broadcasters to include publishers of news and current affairs content.
+This means any person who broadcasts such programmes through an online paper, news portal, website, social media intermediary, etc., as part of a systematic business, professional or commercial activity.
+However, this excludes replica e-papers.
+Code of Ethics:
+The Bill seeks to validate the code of ethics prescribed under the IT (Intermediary Guidelines and Digital Media Ethics Code) Rules 2021, which has been stayed by the Bombay and the Madras HCs.
+Content Evaluation Committee (CEC):
+It is a committee to evaluate content and certify its compliance with the code.
+The creator community will now be faced with
+a 3-tier regulation structure
+Creators will have to constitute CECs, register with a Self-Regulatory Organisation and adhere to orders by the Centre appointed Broadcast Advisory Council.
+The news creators who do not intimate the Central government - names, credentials and other details of members of their CEC will be fined:
+Rs 50 lakh in the first contravention, and
+Rs 2.5 crore for subsequent violations in the next three years.
+Besides user generated content, the Centre
+also aims to regulate OTT platforms
+under this new bill.
+However, the revised draft
+no longer mentions
+the streaming platforms as a part of the definition of ‘internet broadcasting services’.
+The OTT platforms are now referred to as a ‘
+publisher of online curated content
+’ to bring them in line with IT Rules 2021.
+The content broadcast on these platforms is defined as the curations that
+exclude news and current affairs programs.
+Instances of sensational news during the 2024 Lok Sabha polls:
+Independent content creators made videos on current affairs which made some sensational claims about the government and its senior leaders.
+Hence, the need was felt to create
+a system of accountability
+for these creators, and to provide
+a level-playing field
+between mainstream press and independent creators.
+Content amplification by big-tech companies:
+Another concern was the decisions made by tech companies’ algorithms, and whether they ended up amplifying a certain narrative over another.
+However, these companies have told the government that their algorithms serve users content depending on their browsing history.
+Concerns Regarding the Draft Broadcasting Services (Regulation) Bill 2024:
+May have a chilling effect on the freedom of speech and expression:
+The latest draft raises several questions on the freedom of speech and expression and the government’s powers to regulate it.
+This includes defining a digital news broadcaster in sweeping terms; requiring prior registration with the government to prescribing standards for content evaluation; etc.
+The government may exempt a distinct class of players:
+This implies that some stakeholders may be spared from the Bill's provisions.
+newspaper.pdf
+( Size:  192.5 KB  )
+Click to View More
+Polity & Governance
+**********A shift in the US to autocratic trends   
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+US Democracy; Differences Between Democracy and Autocracy;
+Why in the news?
+Since WWII, U.S. foreign policy framed democracies vs. dictatorships, but this binary blurs with recent domestic political trends and shifting allegiances.
+The binary between democracy and autocracy in the USA
+Difference between Democracy and Autocracy
+is defined as a
+system of government where the population, typically through elected representatives, exercises power.
+It emphasizes freedom, constitutional governance, and the protection of fundamental rights.
+In contrast,
+is characterized by
+absolute power held by a single ruler, where the will of the ruler supersedes the rights and freedoms of individuals.
+Autocracies suppress dissent and limit political pluralism, often relying on force and coercion to maintain control.
+Current Political Climate
+The political landscape in the
+U.S. has shifted towards a more autocratic style of governance, particularly among factions within the Republican Party.
+This shift is marked by a
+growing acceptance of strongman leadership,
+which seeks to undermine traditional democratic norms and institutions.
+Trump’s rhetoric and actions
+have often reflected a
+disdain for the checks and balances that are foundational to American democracy.
+His assertion of broad presidential powers and his attempts to consolidate authority signal a move away from democratic principles toward a more autocratic governance model.
+Implications of the Shift
+This trend raises concerns about the
+future of democracy in the U.S. Supporters of Trump and similar populist leaders
+often view the
+federal government as an adversary, promoting a narrative that pits “the people” against a corrupt establishment.
+What are the different phases of transformation?
+Rise of the Administrative State:
+The first phase was the
+rise of the administrative state under Theodore Roosevelt, Woodrow Wilson, Franklin Roosevelt, Lyndon Johnson and Richard Nixon.
+This broadened the scope of government intervention and generated a complex bureaucracy to address social problems and welfare.
+Centralizing Executive Power:
+As the administrative state grew, presidents needed to bring it under their direct control. During the
+1980 transition, Ronald Reagan’s team employed a large staff to centralize control over policy, budgeting, and appointments.
+This led to the centralized apparatus that now resides in the Executive Office of the President.
+In 2024, embracing autocratic tendencies:
+The populist faction of the Republican Party, concentrated among less educated, blue-collar, white, rural, and religious populations disadvantaged by globalization,
+embraces a strongman vision of leadership that operates beyond democratic norms.
+Trump waged a campaign against norms and institutions of two-party politics, culminating in his efforts to overturn the 2020 election. The Supreme Court’s ruling granting Trump immunity from prosecution for official acts has significantly blurred the line between democracy and autocracy.
+The present new normal
+Erosion of Democratic Norms and Institutions:
+showed disdain for legal limitations on presidential power and waged a campaign against democratic norms and institutions.
+His attempts to overturn the 2020 election results despite losing to Biden exemplified this authoritarian tendency.
+Conservatism and Nationalism:
+Trumpism
+embraced conservative values
+like opposition to abortion, support for gun rights, and backing law enforcement.
+Trump reshaped U.S. foreign policy to prioritize American interests over global cooperation and multilateralism.
+Way forward:
+Strengthen Democratic Institutions:
+Need to reinforce checks and balances to prevent executive overreach, enhance judicial independence, and protect electoral integrity to ensure democratic principles are upheld.
+Promote Civic Education and Engagement:
+Need to educate citizens on democratic values, the importance of pluralism, and the dangers of autocracy to foster informed and active participation in the democratic process.
+**********How India needs to deal with the new Bangladesh?  
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Implication of Military Coup on India Bangladesh relation
+Why in the News?
+India will require significant political and diplomatic acumen to navigate the fallout from Sheikh Hasina’s fall, which could destabilize and potentially reshape the geopolitics of the subcontinent.
+Why Hasina’s fall was not a surprise?
+Long-standing Discontent:
+Widespread protests against Sheikh Hasina’s government had been brewing over issues like a
+controversial quota system for government jobs
+, indicating significant public discontent.
+Authoritarian Drift:
+Hasina’s government has been accused of suppressing opposition and civil society through measures like
+the Digital Security Act, which has been used to arrest critics and journalists.
+Historical Context:
+Since gaining independence in 1971, Bangladesh has experienced several military coups, political assassinations, and periods of military rule, including the
+killing of Hasina’s father, Mujibur Rahman, in 1975.
+Five Challenges Beyond 1971
+Engagement with Opposition:
+Due to prevailing political uncertainity, India need to
+distance itself from Hasina and engage with her opponents
+to maintain credibility and influence in Bangladesh.
+Managing Regional Rivalries:
+India needs to prepare for
+potential exploitation of the situation by Pakistan and China
+, which may seek to influence the new government against Indian interests.
+Historical Narratives:
+navigate the complex historical narratives surrounding the 1971 liberation of Bangladesh
+, recognizing that many in Bangladesh do not share the same interpretation.
+Economic Stability:
+Ensuring economic stabilization in Bangladesh will be crucial, requiring collaboration with regional partners to prevent extremism and maintain stability.
+Recognition of Local Agency:
+India must acknowledge that Bangladesh has its own political dynamics and agency, which cannot be solely dictated by Indian interests or actions.
+What India must prepare for now? (Way forward)
+Diplomatic Strategy:
+develop a proactive diplomatic strategy to engage with the new government
+in Bangladesh while avoiding perceptions of interference.
+Security Concerns:
+India must be
+vigilant about border security and the potential resurgence of anti-India activities
+, especially if the new government leans towards Pakistan or China.
+Economic Engagement:
+Strengthening economic
+ties and leveraging people-to-people connections will be essential for maintaining a positive relationship with Bangladesh
+, regardless of political changes.
+Learning from Past Experiences:
+India should
+draw lessons from its past experiences with political transitions in the region,
+such as in Afghanistan, to navigate the current situation effectively.
+Collaborative Approach:
+Working with international partners, including the
+US and Gulf nations, will be important to address the challenges
+posed by the political shift in Bangladesh and to ensure regional stability.
+Mains PYQ:
+Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh.
+(2013)
+**********On UP’s stringent Anti-conversion law     
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Legislations in News;
+Mains level:
+Concerning features of Anti-Conversion Law;
+Why in the news?
+The UP Assembly’s amendments to its regressive ‘Anti-conversion’ law appear aimed at facilitating misuse, with over 400 cases registered since the original 2021 law.
+What is UP’s ‘Anti-conversion’ law?
+Uttar Pradesh’s
+“Anti-conversion”
+law, officially known as the
+Uttar Pradesh Prohibition of Unlawful Conversion of Religion Act, 2021,
+prohibits religious conversion through unlawful means such as
+misrepresentation, force, undue influence, coercion, allurement, or fraudulent means.
+Why was the Original 2021 Anti-Conversion Law Amended by UP?
+Increased Stringency:
+The amendments aim to make the
+original law more stringent, responding to claims of rising cases of forced conversions
+and the alleged involvement of foreign and anti-national elements in demographic changes.
+Response to Public Discontent:
+The government
+cited the need to enhance penalties and legal measures to prevent unlawful conversions,
+particularly concerning vulnerable groups such as minors and women.
+Legitimacy of Complaints:
+The amendment allows
+third parties to file complaints about alleged unlawful conversions,
+expanding the scope of the law and potentially increasing its application against inter-faith marriages.
+What are Its concerning features?
+Harsh Penalties:
+The amended law introduces severe penalties, including
+imprisonment of up to 20 years or life
+for targeting minors, women, or certain communities through coercion or force.
+Bail Conditions:
+The law imposes
+stringent bail conditions
+that make it difficult for accused individuals to secure bail, requiring public prosecutor consent and a presumption of guilt.
+Third-Party Complaints:
+The provision allowing anyone to
+file complaints against alleged conversions opens the door for misuse by communal organizations
+and individuals with vested interests, potentially targeting inter-faith couples.
+What does it state about bail conditions and ‘foreign funding’?
+Bail conditions:
+The amended law states that an
+accused individual cannot be granted bail unless the public prosecutor has the opportunity to oppose it
+, and there is reason to believe the accused is not guilty and unlikely to repeat the offence.
+Foreign funding:
+The law prescribes
+stiff penalties for receiving funds from foreign organizations for unlawful conversion
+, with fines and imprisonment aimed at deterring financial support for conversion activities.
+How is it different from other states?
+Comparison with Other States:
+While several states
+like Odisha and Madhya Pradesh have anti-conversion laws,
+Uttar Pradesh’s amendments are notably harsher,
+including provisions for life imprisonment, which are not present in other states.
+Bail and Proof Burden:
+Other states may not impose such severe bail conditions or the reverse burden of proof required in Uttar Pradesh, making it easier for accused individuals in those states to secure bail.
+Scope of Complaints:
+In many states, only aggrieved individuals or their close relatives can file complaints, whereas Uttar Pradesh’s amendments
+allow for broader third-party complaints
+, increasing the potential for misuse.
+Way forward:
+Promote Awareness of Rights:
+Implement comprehensive public awareness campaigns to educate citizens about their legal rights concerning religious conversion and inter-faith marriages.
+Legal and Constitutional Review:
+Stakeholders, including civil society organizations and legal experts, should actively pursue legal challenges against the amended law in the Supreme Court of India.
+**********Counting the ‘poor’ having nutritional deficiency       
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+NSSO
+Mains level:
+Key highlights of NSSO Report;
+Why in the news?
+The
+National Sample Survey Office
+has released the Household Consumption Expenditure Survey (HCES) report for 2022-23, along with public access to unit-level data on household expenditures.
+What does the recent NSSO Report tell us?
+The report utilizes various definitions of poverty established by past committees, with the poverty line (PL) being anchored to calorie norms of
+2,400 kcal for rural and 2,100 kcal for urban areas as per the Lakdawala Committee.
+The Rangarajan Committee’s approach considers broader normative levels, including non-food expenses.
+average per capita calorie requirement (PCCR) is estimated at 2,172 kcal for rural and 2,135 kcal for urban populations.
+The report highlights that the
+average per capita calorie intake (PCCI) for the poorest segments falls significantly
+below these requirements, indicating nutritional deficiencies.
+The total monthly
+per capita consumption expenditure (MPCE) thresholds are set at ₹2,197 for rural and ₹3,077 for urban areas,
+with proportions of the population identified as ‘
+poor’ being 17.1% in rural and 14% in urban contexts.
+If non-food expenditures for the poorest 10% are considered, these thresholds rise, increasing the proportion of the deprived.
+Approach for measurement is the Issue:
+Defining Poverty:
+The report defines the
+poor based on MPCE,
+which is linked to the ability to purchase essential food and non-food items.
+The reliance on
+MPCE does not adequately address nutritional needs.
+While the poverty line is linked to the ability to purchase food and non-food items.
+Caloric Requirement Calculation:
+is derived from the
+ICMR-
+National Institute of Nutrition’s latest recommendations,
+weighted by the population distribution across age-sex-activity categories.
+The ICMR-National Institute of Nutrition’s (ICMR-NIN) recommendations for caloric requirements in India are derived from the
+Recommended Dietary Allowances (RDA)
+for Indians.
+The RDA d
+oes not adequately account for regional and cultural differences
+in dietary habits and food availability.
+Fractile Class Analysis:
+Households are categorized into
+20 fractile classes based on MPCE,
+allowing for the calculation of average PCCI and MPCE for each class.
+Each fractile class r
+epresents 5% of the population
+, allowing for a detailed
+understanding of expenditure distribution and nutritional intake
+variations within the population
+MPCE reflects consumption patterns but
+does not capture the full spectrum of economic well-being or deprivation.
+State-Specific Adjustments:
+The all-India thresholds are adjusted for
+regional price differences to derive state-specific MPCE
+thresholds.
+The methodology for deriving state-specific MPCE thresholds relies on
+regional price indexes,
+can vary significantly in their construction and accuracy.
+Recommendations for Improving Nutritional Levels (Way Forward)
+Nutritional Schemes:
+Govt. needs to develop and expand schemes specifically aimed at improving the nutritional intake of the poorest households.
+Awareness and Education:
+Govt. should increase awareness about nutrition and healthy eating practices among low-income households.
+Subsidized Food Programs:
+Need to enhance access to subsidised food items to ensure that households can meet their caloric and nutritional needs.
+Monitoring and evaluation:
+Govt. should establish robust mechanisms to monitor the effectiveness of nutritional interventions and adjust strategies as necessary.
+Conclusion: ​​
+The NSSO HCES 2022-23 report reveals significant nutritional deficiencies among the poorest. To align with SDG goals, expanding targeted nutritional schemes, subsidized food programs, and robust monitoring is essential.
+Mains PYQ:
+How far do you agree with the view that the focus on the lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India?
+(2013)
+**********RBI Report on Currency and Finance (RCF), 2023-24
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Key highlights of RCF Report
+Why in the News?
+The
+Reserve Bank of India (RBI)
+released the “
+Report on Currency and Finance (RCF)”
+for the year 2023-24 with the theme – India’s Digital Revolution.
+What is the Report on Currency and Finance (RCF)?
+The RCF is an
+annual publication
+by the Reserve Bank of India (RBI).
+It covers various aspects of the
+Indian economy and financial system
+, providing insights and analysis on current economic conditions, financial stability, and policy issues.
+The theme for the 2023-24 report is
+“India’s Digital Revolution.”
+Focus:
+It focuses on the transformative impact of digitalization across various sectors in India, especially in the financial sector.
+Highlights:
+The report highlights how digital technologies are reshaping economic growth, financial inclusion, public infrastructure, and the regulatory landscape. It also addresses the opportunities and challenges associated with digitalization.
+Key Highlights of the RCF:
+[1] Digital Revolution
+The RCF emphasizes India’s leading role in the global digital revolution.
+With robust
+digital public infrastructure (DPI)
+, evolving institutional frameworks, and a tech-savvy population, India has emerged as a frontrunner in this arena.
+Key initiatives such as
+Aadhaar
+, the world’s largest biometric-based identification system, and the UPI, a real-time, low-cost transaction platform, have revolutionized service delivery and financial inclusion.
+[2] Digitalization in Finance
+The above-discussed initiatives have made
+retail payments faster
+more convenient
+, while the
+RBI’s pilot runs of the E-Rupee
+position India at the forefront of digital currency initiatives.
+The digital lending ecosystem is also vibrant, with the
+Open Credit Enablement Network
+Open Network for Digital Commerce (ONDC)
+driving growth.
+[3] Remittance Inflows in India
+India continues to lead as the
+highest remittance recipient globally
+US$ 115.3 billion in 2023
+, accounting for
+13.5% of the world’s
+total remittances.
+The RCF highlights that
+more than half
+of India’s inward remittances in 2021
+came from the Gulf countries
+, with North America contributing 22%.
+remittance-to-GDP ratio
+for India has risen from
+2.8% in 2000 to 3.2% in 2023
+, surpassing the gross FDI inflows to GDP ratio of 1.9% in 2023.
+Looking forward, India is poised to remain a
+leading supplier of labor
+, with its
+working-age population expected to rise until 2048
+, potentially propelling remittances to around $160 billion by 2029.
+[4]
+Smartphones Penetration
+India’s mobile penetration has seen remarkable growth, with
+internet penetration reaching 55% in 2023
+and an increase of
+199 million internet users
+over the past three years.
+cost per gigabyte
+of data in India is the
+lowest globally
+, at an average of
+Rs. 13.32 per GB
+India has one of the
+highest mobile data consumption
+rates worldwide, with an average per-user per-month consumption of
+24.1 GB in 2023
+The number of
+smartphone users
+in India was about
+750 million in 2023
+, expected to reach
+1 billion by 2026.
+The RCF projects that India will become the
+second-largest smartphone manufacturer
+within the next
+5 years
+PYQ:
+[2021]
+Consider the following statements:
+The Governor of the Reserve Bank of India (RBI) is appointed by the Central Government.
+Certain provisions in the Constitution of India give the Central Government the right to issue directions to the RBI in public interest.
+The Governor of the RBI draws his power from the RBI Act.
+Which of the above statements are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********The Physics of Pressure
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Pressure and its impacts
+Why in the News?
+Pressure is an indispensable part of life, often unnoticed but always present.
+It’s the interaction of microscopic particles with the macroscopic world, creating phenomena like air pressure.
+What is Pressure?
+Pressure is defined as the
+force exerted per unit area on a surface.
+For example, an apple weighing 100 g exerts a force of about 1 newton (N) on your hand and a pressure of approximately 500 Pa.
+Atmospheric pressure
+is around
+100,000 Pa
+, equivalent to the pressure exerted by about 200 apples on your hand.
+Everyday Examples of Pressure
+(1) Measuring Blood Pressure:
+Blood pressure, measured in
+mm of mercury (mmHg)
+, is an example of pressure in a different context.
+Blood pressure is measured using a
+sphygmomanometer
+, which balances the
+pressure in an arm cuff with the pressure of the blood in the arteries
+The readings, such as
+120/80 mmHg
+, represent the pressure during
+heartbeats (systolic)
+and between
+beats (diastolic).
+Mercury, being
+15 times heavier than water
+, allows for
+portable blood-pressure machines
+(2) Pressure Cookers:
+The whistle of a pressure cooker is a direct result of the increased pressure cooking the food efficiently.
+The pressure cooker exemplifies the practical application of pressure in cooking, making it an indispensable kitchen tool.
+PYQ:
+[2021]
+In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following?​
+1. Area of the hole in the lid​
+2. Temperature of the flame​
+3. Weight of the lid​
+Select the correct answer using the code given below.​
+(a) 1 and 2 only ​
+(b) 2 and 3 only​
+(c) 1 and 3 only ​
+(d) 1, 2 and 3​
+**********GST on Health and Life Insurance Premiums
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+GST on Health Insurance
+Why in the News?
+Insurance premiums on health and life policies have increased this year,
+and the 18%
+Goods and Services Tax (GST)
+has made insurance less affordable for many people.
+Medical inflation
+, estimated at
+14%
+towards the end of last year, along with increased premiums, has made buying medical insurance difficult for many.
+What is the GST on Health and Life Insurance Premiums?
+GST replaced all indirect taxes like service tax and cess
+from July 1, 2017
+Currently, GST on health and life insurance policies is
+fixed at 18%.
+According to the formula, the
+Centre collects 9% GST
+with a matching collection by states.
+Before GST
+, life insurance
+premiums were subject to 15% service taxes
+, including Basic Service Tax, Swachh Bharat cess, and Krishi Kalyan cess.
+Rational behind the Tax
+GST Council Recommendations:
+GST rates and exemptions on all services, including insurance, are prescribed on the
+recommendations of the GST Council
+, which includes the Union Finance Minister and ministers nominated by state governments.
+Insurance is considered a service
+policyholders pay tax on their premiums
+, generating significant revenue for the government.
+Tax Deductions:
+Insurance policies allow certain deductions
+while computing income tax under
+Sections 80C and 80D of the Income Tax Act, 1961
+. Customers can avail deductions on the premium, including the GST applicable.
+Arguments for Withdrawing the GST on Premiums
+High Premium Increases:
+Significant increases in premiums on health insurance policies this year have been observed, with some public sector
+insurers hiking premiums by 50%.
+The
+renewal rate of policies is declining
+due to frequent premium hikes and medical inflation.
+Comparative GST Rates:
+Confederation of General Insurance Agents’ Associations of India
+points out that GST on insurance in India is the
+highest in the world
+The high GST rate is seen as a
+deterrent to insurance penetration
+, which conflicts with the goal of “
+Insurance for All by 2047
+”.
+Recommendations for Rationalisation:
+Standing Committee on Finance
+recommended
+rationalising the GST rate
+on insurance products to make them more affordable.
+Suggestions include reducing GST rates for health insurance, especially for senior citizens, micro-insurance policies, and term policies.
+Insurance Penetration in India:
+According to a Swiss Re Sigma report, insurance penetration in
+India’s life insurance
+sector reduced from
+3.2% in 2021-22
+3% in 2022-23
+, while the
+non-life insurance sector remained stagnant at 1%.
+Overall insurance penetration
+reduced to
+4% in 2022-23
+4.2% in 2021-22
+PYQ:
+[2018]
+Consider the following items:
+1. Cereal grains hulled
+2. Chicken eggs cooked
+3. Fish processed and canned
+4. Newspapers containing advertising material
+Which of the above items is/are exempted under GST (Goods and Services Tax)?
+(a) 1 only
+(b) 2 and 3 only
+(c) 1, 2 and 4 only
+(d) 1, 2, 3 and 4
+**********Anti-Defection Law: Features, limitations and reforms
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Anti-Defection Law and its Features
+Why in the News?
+Numerous examples in recent time exist in the history of Parliament and State Assemblies where MPs or MLAs have defected from their party.
+These activities often led to the frequent falling of governments.
+What is Anti-Defection Law?
+52nd Constitutional Amendment
+introduced the anti-defection law through the
+Tenth Schedule
+1985
+It aimed at
+tackling political defections
+destabilizing governments, especially
+after the 1967 general elections.
+According to this Schedule, a
+member of the State Legislature
+or the
+House of Parliament
+who
+voluntarily resigns from their political party
+abstains from voting
+in the House contrary to the party’s instruction
+may be removed
+from the House.
+This
+voting instruction is issued by the party whip
+, a member of the parliamentary party nominated by the political party in the House.
+Process of Disqualification under Anti-Defection Law
+Petition:
+Any member of the House
+can initiate the process by filing a petition/complaint with the Speaker (Lok Sabha) or Chairman (Rajya Sabha) alleging defection by another member.
+Presiding Officer CANNOT initiate
+disqualification proceedings
+suo moto
+and can only act upon a formal complaint.
+Deciding Authority:
+of Lok Sabha, the
+of Rajya Sabha, or the State Legislative Assembly decides disqualification petitions under the anti-defection law.
+Timeframe:
+The law
+does not specify
+a strict timeline for the decision, which has led to criticism due to potential delays.
+Judicial Review:
+The decision
+can be challenged
+in courts, ensuring a system of checks and balances.
+The landmark judgment in
+Kihoto Hollohan vs. Zachillhu and Others (1992)
+upheld the constitutionality of the anti-defection law and affirmed that decisions regarding disqualification are subject to judicial review.
+Exceptions:
+No disqualification if
+1/3rd members
+of the legislature party
+split to form a separate group
+(provision
+DELETED by the 91st Amendment in 2003
+).
+Mergers of political parties are allowed
+when
+2/3rd of the members
+of a legislative party agree to merge with another party.
+Three-Test Formula of the Supreme Court:
+The Supreme Court in
+Sadiq Ali versus Election Commission of India (1971)
+laid down the three-test formula for recognizing the original political party:
+Test of Aims and Objectives
+of the party.
+Test of Party Constitution
+, which reflects inner-party democracy.
+Test of Majority
+in the legislative and organizational wings.
+Limitations of the Anti-Defection Law
+Dictatorship of Party
+: The law has been criticized for undermining democratic principles by restricting legislators’ freedom of speech and making them more accountable to party leaders than their constituents.
+Limited Political Choice
+: The law discriminates against independent members, disqualifying them immediately if they join a political party, while nominated members have a six-month grace period.
+Partial Law:
+The law needs a more precise timeline for resolving defection cases. It allows large-group defections, fostering opportunistic mergers and “horse-trading”, destabilizing the political system.
+Promotes Defection:
+It fails to address root causes like intra-party democracy, corruption, and electoral malpractices.
+Recommendations on Reforming the Law
+Dinesh Goswami Committee (1990):
+Disqualification should be limited to cases of voluntarily giving up membership or voting/abstention contrary to the party direction only in specific motions.
+Decision on disqualification should be made by the President or Governor based on the advice of the Election Commission.
+Law Commission of India (2015):
+Proposed shifting the power to decide disqualification petitions from the Presiding Officer to the President or Governor based on the advice of the Election Commission.
+Supreme Court in K. M. Singh v. Speaker of Manipur (2020):
+Recommended transferring the Speaker’s decision-making authority over disqualification petitions to an independent tribunal presided over by judges.
+Committee Led by Rahul Narwekar:
+Announced by Lok Sabha Speaker Om Birla to review the nation’s anti-defection law.
+PYQ:
+[2022]
+With reference to anti-defection law in India, consider the following statements:
+The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House.
+The law does not provide any time-frame within which the presiding officer has to decide a defection case.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+[2014]
+Which one of the following Schedules of the Constitution of India contains provisions regarding anti-defection?
+(a) Second Schedule
+(b) Fifth Schedule
+(c) Eighth Schedule
+(d) Tenth Schedule
+[2013]
+The role of individual MPs (Members of Parliament) has diminished over the years and as a result healthy constructive debates on policy issues are not usually witnessed. How far can this be attributed to the anti-defection law, which was legislated but with a different intention?
+**********

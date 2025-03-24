@@ -1,0 +1,146 @@
+
+**********
+CSR Expenditure 2023
+Source: BS
+Why in News?
+Recently, government data revealed that education received the highest share of
+corporate social responsibility (CSR)
+expenditure in FY23, with Rs 10,085 crore allocated,
+this ignited debate about uneven spending of CSR in a few sectors and regions.
+What are the Recent Developments in CSR Expenditure?
+Overview:
+Total CSR expenditure increased from
+Rs 26,579.78 crore in FY22 to Rs 29,986.92 crore in FY23
+. The number of CSR projects rose from 44,425 to 51,966.
+Companies outside the public sector contributed 84% of the total CSR spend.
+Sector Wise Expenditure:
+Education accounted for one-third of the CSR spend in FY23.
+CSR spending on vocational skills rose slightly to Rs1,164 crore in FY23 from Rs 1,033 crore the previous year.
+Technology incubators got the lowest amount, with only Rs 1 crore
+in FY23 compared to Rs 8.6 crore in the previous year
+Health, rural development,
+environmental sustainability, and livelihood enhancement also received significant CSR
+funds.
+animal welfare
+surged
+from Rs 17 crore in FY15 to over Rs 315 crore in FY23.
+CSR expenditure under the
+Prime Minister Relief Fund
+dropped
+to Rs 815.85 crore in FY23, down from Rs 1,698 crore in FY21 and Rs 1,215 crore in FY22.
+Contribution to disaster management fell the most (77%),
+followed by that on slum development (75%).
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1723626575_image5.png" style="display: block; margin-left: auto; margin-right: auto;" width="550"/>
+Region Wise Expenditure:
+Maharashtra, Karnataka, Gujarat received the most CSR spends
+while North East states, Lakshadweep and Leh and Ladakh received the least CSR spendings.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1723626618_image1.png" style="display: block; margin-left: auto; margin-right: auto;" width="500"/>
+What is CSR?
+About:
+Corporate Social Responsibility
+in general can be referred to as a corporate initiative to assess and take responsibility for the company's effects on the environment and impact on social welfare.
+It is a self-regulating business model
+that helps a
+company to be socially accountable
+. By practising corporate social responsibility,
+companies can be conscious of the impact they are having on economic, social, and environmental factors
+India is the
+first country to mandate CSR spending
+under clause 135 of the
+Companies Act, 2013
+, with a framework for identifying potential CSR activities.
+Unlike India,
+most countries have voluntary CSR frameworks.
+Norway and Sweden, which have moved to mandatory CSR provisions, began with voluntary models.
+Applicability:
+CSR provisions apply to companies meeting any of the following criteria in the preceding financial year.
+Net worth over Rs. 500 crore
+Turnover over Rs. 1000 crore
+Net profit over Rs. 5 crore.
+Such companies must spend
+at least 2% of their average net profits
+from the last three financial years on CSR activities, or if newly incorporated, based on the average net profits from preceding financial years.
+Types of Corporate Social Initiatives:
+Corporate Philanthropy
+: Donations to charity via a corporate foundation.
+Community Volunteering:
+Company-organised volunteer activities.
+Socially-responsible Business practices:
+Producing ethical products.
+Cause Promotions and Activism
+: Company-funded advocacy campaigns.
+Cause-based Marketing:
+Donations to charity based on sales.
+Corporate Social Marketing:
+Company-funded behaviour-change campaigns
+Eligible Sectors:
+CSR activities encompass a range of initiatives, including eradicating hunger and poverty, promoting education and gender equality, combating diseases like
+HIV/AIDS
+, ensuring environmental
+, and contributing to
+government relief funds (Like
+PM CARES
+PM Relief Fund
+for socio-economic development and the welfare of disadvantaged groups
+What are the Issues Pertaining to CSR Compliance?
+Geographical Disparity in CSR Spending:
+Spending is
+concentrated in industrial states like Maharashtra (5375cr.)
+, Gujarat, Karnataka, and Tamil Nadu, while North Eastern states
+(Mizoram 6.9 cr)
+and Lakshadweep, Leh and
+Ladakh receive comparatively less funding, reflecting a regional imbalance.
+CSR Allocation Trends:
+MCA
+data reveals that nearly
+75% of CSR funds are concentrated in three sectors: education, health
+(including
+sanitation and water
+and rural poverty.
+Sectors related to Livelihood enhancement (Rs 1,654 cr) have very less spending.
+PSU vs Non-PSU Spending: Non-PSUs contribute 84% of total CSR spending,
+while PSUs account for the remaining 16%, highlighting a significant difference in CSR expenditure between the two sectors.
+Strategic Misalignment in CSR:
+Many companies have
+merged sustainability with business strategies, prioritising profit margins over genuine
+social impact, thus undermining the true purpose of CSR.
+Finding Right Partners:
+Despite growing awareness about the significance of CSR compliance, the challenges remain in identifying the
+right partners as well as in selecting projects that are long-term impactful, scalable, and are self-sustaining.
+Issues of Transparency:
+There is an expression by the companies that there exists lack of
+transparency on the part of the local implementing agencies
+as they do not make adequate efforts to disclose information on their programs, audit issues, impact assessment and utilisation of funds.
+What are the Ways to Enhance the Effectiveness of CSR Expenditure?
+Enhancing CSR Engagement and Oversight:
+Aligning CSR with local government programs like the
+ADP(Aspirational Districts Programme)
+can boost community participation and engagement, while the
+government should ensure effective CSR implementation,
+leverage AI for better oversight.
+NGOs can work along with companies in remote and rural areas to ensure successful implementation of CSR activities.
+Address Sectoral and Geographical Disparity:
+Need to Invest in
+higher education
+high impact technological and environment friendly projects
+that focus on skill development and livelihood enhancement.
+Develop CSR
+programs for underserved regions, offer incentives for spending in less-funded areas or make a mandatory provision to address regional disparity in spending
+, and collaborate with local
+PSU vs Non-PSU Spending Disparity:
+Encourage
+to increase contributions, implement benchmarking, and
+promote joint CSR initiatives between PSUs and non-PSUs.
+Company Roles and Governance:
+Conduct regular reviews, set clear objectives, and update governance roles. Establish new SOPs for fund utilisation, impact assessments, and detailed checklists.
+Conclusion
+To maximize the impact of CSR,
+companies must move beyond mere compliance and embrace strategic alignment
+with local government programs,
+address sectoral and regional disparities,
+and ensure transparency and accountability.
+fostering stronger collaborations between PSUs and non-PSUs
+and investing in innovative, scalable projects,
+CSR can drive sustainable social change and contribute to India’s long-term socio-economic development.
+Drishti Mains Question:
+Q. Describe how Corporate Social Responsibility can become a financing arm to address the socio-economic issues of society?

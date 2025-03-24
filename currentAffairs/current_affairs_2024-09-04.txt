@@ -1,0 +1,689 @@
+Did Corporate Tax Cuts Increase Wages?
+What’s in Today’s Article?
+About Corporate Tax (Meaning, Impact)
+Impact of Corporate Tax Cuts (US, India)
+Way Ahead
+About Corporate Tax:
+Corporate tax is a
+direct tax
+imposed on the profits of companies or corporations.
+The rate of corporate tax varies by country and is applied to a company’s taxable income, which is calculated after deducting operating expenses, depreciation, and other allowable deductions from gross revenue.
+Corporate taxes are a
+significant source of government revenue
+and can influence a company’s investment decisions, business operations, and growth strategies.
+Lower corporate tax rates are often used as a tool to attract investment and stimulate economic growth
+, though their impact on wages, employment, and long-term revenue generation can vary.
+The U.S. Experience with Corporate Tax Cuts:
+The Tax Cuts and Jobs Act, signed into law by then-President Donald Trump, came into effect in 2018.
+One of the most notable provisions of this legislation was the
+reduction of the top corporate tax rate from 35% to 21%
+Proponents argued that this move would encourage companies to invest more, leading to economic growth, higher employment, and increased wages.
+They also suggested that new investments would lead to technological advancements and productivity gains, further boosting wages.
+Impact of Corporate Tax Cuts:
+A study titled "Lessons from the Biggest Business Tax Cut in U.S. History," published in the Journal of Economic Perspectives found that while the tax cuts did result in an increase in investment, the
+impact was relatively modest, with estimates ranging from an 8% to 14% increase
+This increase in investment is significant when considering that without the tax cuts, investment levels might have declined.
+Despite this positive effect on investment, the
+overall economic impact of the tax cuts was limited
+Moreover, the tax cuts led to a
+substantial reduction in tax revenue
+, with long-term projections indicating a 41% decrease.
+Corporate Tax Cuts in India:
+In India,
+corporate tax rates were slashed in 2019
+rate for existing companies dropping from 30% to 22%, and
+for new companies from 25% to 15%.
+This move resulted in a significant revenue loss, amounting to approximately ₹1 lakh crore in the 2020-21 fiscal year.
+The COVID-19 pandemic, however, severely disrupted India's labor market, leading to a surge in unemployment.
+Although unemployment rates have since decreased and labor force participation has improved, especially among women, the corporate sector has not played a significant role in this recovery.
+Data from the
+Periodic Labour Force Survey (PLFS) indicates a decline in the proportion of regular wage employees at the national level
+, from 22.8% in 2017-18 to 20.9% in 2022-23.
+Moreover, between 2017 and 2022, the compound annual growth rate (CAGR) of nominal monthly earnings for regular wage workers was 4.53% in rural areas and 5.75% in urban areas—barely above the rate of inflation.
+This implies that
+real wages for rural workers have actually declined, while urban wages have stagnated
+While corporate tax collections have shown healthy growth post-pandemic, this has not translated into better employment or wages.
+In fact, several tech companies in India have made headlines for laying off workers, highlighting the lack of expansion in hiring.
+Shift in Tax Burden to Individuals:
+Due to corporate tax cuts, the shift in the tax burden from corporates to individuals is evident in the changing composition of India's gross tax revenues.
+In 2017-18, corporate taxes accounted for nearly 32% of gross tax revenues, but this share has since declined.
+According to budget estimates for 2024-25:
+Corporate Taxes
+contributes 26.5% of gross tax revenues,
+GST
+contributing 27.65% and
+Income Tax
+contributing 30.91%.
+This shift may explain the government's decision to remove indexation benefits and impose taxes on long-term capital gains as it seeks to find new revenue sources to compensate for the reduced share of corporate taxes.
+What Lies Ahead?
+Corporate tax cuts do not automatically lead to increased investment, especially when businesses are uncertain about future profits.
+In economies still recovering from the pandemic and facing supply chain disruptions, these tax cuts have had only marginal effects on private investment.
+However, tax cuts on profits have immediate implications for income distribution.
+By boosting profits on existing capital without necessarily driving future investment, these cuts disproportionately benefit private capital while providing minimal advantages for wage earners.
+For wage earners to benefit, investment would need to significantly raise employment, productivity, and wages.
+Economists argue that a
+more effective policy approach would involve maintaining high taxes on existing profits while offering greater incentives for future investment
+The mixed results of these tax cuts underscore the complexities of policymaking in an uncertain global economic environment.
+Did corporate tax cuts increase wages.pdf
+( Size:  503.0 KB  )
+Click to View More
+Economics
+**********World Bank Revises India’s GDP Growth Estimate
+Why in News?
+The World Bank (WB) revised its forecast for India's GDP growth to 7% for FY25 from 6.6% previously, citing increases in household real estate investments and investments in infrastructure.
+What’s in Today’s Article?
+Highlights of the WB’s Forecast on the Indian Economy
+Opportunities and Challenges for the Indian Economy
+Highlights of the WB’s Forecast on the Indian Economy:
+GDP growth:
+India was the fastest-growing major economy at 8.2% last fiscal and is expected to grow at 7% this fiscal year and 6.7% in FY26.
+Industrial growth:
+It is expected to slow to 7.3% in FY26 compared to 7.6% in FY25. Industrial growth has recovered to 9.5% in FY24 after Covid-19 related disruptions.
+Gross Fixed Capital Formation (GFCF):
+GFCF is expected to slow to 7.8% in FY25 compared to 9.0% in FY24. The GFCF growth rate stood at 6.6% in FY23.
+Service sector growth:
+Amid a globally weakening IT investment climate, the service sector growth is also expected to slip to 7.4% in FY25 and to 7.1 per cent in FY26, compared to 7.6 per cent in FY24.
+Agricultural growth:
+It is expected to register a sharp jump to 4.1% in FY25, compared to 1.4% in FY24.
+Export-Import:
+The World Bank predicted 7.2% growth in the exports of goods and services during FY25 compared to FY24. The growth of imports is expected to be 4.1% in FY25 compared to 10.9% in FY24.
+Opportunities and Challenges for the Indian Economy:
+Export sector:
+India can expand its export portfolio
+by increasing its exports of electronics, green technology items, textiles, garments, and footwear in addition to its strengths in IT, business services, and pharmaceuticals.
+However, India has been
+losing ground to rivals in the labour-intensive
+apparel and footwear sectors.
+India’s share in global apparel exports fell from 4% in 2018 to 3% in 2022 due to increased production costs and decreasing productivity.
+Meanwhile, countries like
+Bangladesh, Vietnam, Poland, Germany, and France
+have managed to increase their global export share in major job-creating sectors by up to 2% between 2015 to 2022.
+Trade barriers:
+The global trade landscape has witnessed
+increased protectionism
+in recent years. The post-pandemic reconfiguration of global value chains has created opportunities for India.
+India has boosted its competitiveness
+through the National Logistics Policy (
+NLP
+) and digital initiatives that are reducing trade costs.
+However, tariff and non-tariff barriers have increased and could limit the potential for trade-focused investments.
+Current account deficit (CAD):
+The CAD stood at 0.7% in FY24 compared to 2% in FY23.
+Foreign exchange reserves
+reached an all-time high of $670.1 billion (in August 2023), equivalent to 11 months' worth of spending, thanks to a falling CAD and robust inflows from foreign portfolio investments.
+However, the WB predicted a steady widening of the CAD from 1.1% in FY25 to 1.2% in FY26 and 1.6% in FY27.
+Jobs in India:
+While India is the fastest-growing major economy,
+urban youth unemployment remains high at 17%.
+Jobs in India generated directly and indirectly connected to international trade have declined over the last decade.
+The country has missed out on the export opportunity presented by China’s withdrawal from labour-intensive manufacturing sectors.
+To create more trade-related jobs,
+India can integrate more deeply into global value chains
+, which will also create opportunities for innovation and productivity growth.
+World Bank pegs India’s growth at 7% in FY25.pdf
+( Size:  61.5 KB  )
+Click to View More
+Economics
+**********Harnessing biotechnology for economic development
+Why in news?
+The Centre recently introduced the BioE3 (Biotechnology for Economy, Environment, and Employment) policy, aimed at transforming industrial and manufacturing processes to be more sustainable and environmentally friendly.
+While it appears to be a routine effort to boost the biotech sector, the policy focuses on using biotechnology to develop manufacturing methods that mimic natural biological processes. Experts describe it as a significant move toward the industrialization of biology, which could have a major impact on the economy.
+What’s in today’s article?
+Biotechnology – About, applications, benefits
+Benefits of BioE3 policy
+Biotechnology is a field of science that involves using living organisms, biological systems, or their components to develop products and technologies that improve various aspects of life.
+It combines biology with technology to create solutions in areas like medicine, agriculture, environmental management, and industrial processes.
+Applications
+Medical Biotechnology
+: Developing new drugs, vaccines, gene therapies, and diagnostic tools.
+Agricultural Biotechnology
+: Creating genetically modified crops that are more resistant to pests, diseases, and environmental conditions, or have improved nutritional content.
+Environmental Biotechnology
+: Using microorganisms to clean up pollutants in the environment, such as in bioremediation.
+Industrial Biotechnology
+: Producing biofuels, biodegradable plastics, and other materials through biological processes instead of traditional chemical methods.
+Emerging Possibilities in Biotechnology
+Recent advancements in gene editing, protein synthesis, enzyme production using genetically modified organisms, and enhanced data processing with artificial intelligence have expanded the scope of biotechnology.
+These breakthroughs have enabled the development of environment-friendly alternatives to traditional products and the replacement of chemical processes in industries with less polluting biological processes.
+Sustainable Alternatives
+Animal-Free Milk
+: Produced through precision fermentation, animal-free milk offers the same taste, texture, and nutritional benefits as natural milk, with a lower carbon footprint and increased supply.
+Bioplastics
+: Biodegradable plastics like polylactic acid, made from renewable resources such as corn starch or sugarcane, can replace traditional plastics, reducing environmental hazards.
+Carbon Capture and Storage
+Biotechnology offers innovative solutions for capturing and utilizing carbon dioxide.
+Unlike traditional chemical-based carbon capture methods, biological processes using microorganisms can convert CO2 into useful compounds like biofuels, eliminating the need for storage.
+Synthetic Biology and Organ Engineering
+Synthetic biology enables the design of novel organisms and biochemicals with specific functions.
+Organogenesis, or organ engineering, allows for the growth of organs in laboratories, potentially reducing the reliance on organ donors for transplants.
+The Future of Biotechnology
+While some biotechnological alternatives, like animal-free milk, are already available in certain markets, many technologies are still under development.
+Challenges such as scalability, financial constraints, and regulatory hurdles remain, but the potential of biotechnology is vast and continues to unfold.
+Introduction to BioE3 Policy
+The BioE3 policy is India's strategic initiative to prepare for a future where biotechnology plays a critical role in transforming the economy and industrial processes.
+Although not expected to yield immediate economic benefits, the policy aims to build competencies, promote research, and train talent for long-term gains as these technologies mature.
+Economic Impact of Biomanufacturing
+Biomanufacturing projected to have a significant economic impact, estimated to be worth $2-4 trillion over the next decade.
+Biomanufacturing involves using biological organisms or processes in industrial production.
+This is just one aspect of the broader integration of biology into economic processes that the BioE3 policy seeks to advance.
+Strategic Alignment with Other Initiatives
+The BioE3 policy is aligned with other recent government missions, such as the Artificial Intelligence Mission, Quantum Mission, and Green Hydrogen Mission.
+These initiatives aim to position India at the forefront of emerging technologies that will soon become essential to the global economy and address critical challenges like climate change and energy security.
+Establishment of Biomanufacturing Hubs
+The policy envisions the creation of several biomanufacturing hubs across India.
+These hubs will serve as centers where industry partners and start-ups can produce specialized chemicals, smart proteins, enzymes, functional foods, and other bio-products. The focus will be on six key areas:
+Bio-Based Chemicals and Enzymes
+Functional Foods and Smart Proteins
+Precision Biotherapeutics
+Climate Resilient Agriculture
+Carbon Capture and Utilisation
+Futuristic Marine and Space Research
+Such as developing life support systems for astronauts that recycle waste and produce oxygen and food in space.
+This involves growing special plants or microorganisms in space habitats.
+Marine research under the policy could lead to the production of novel compounds and enzymes from marine organisms, with applications in pharmaceuticals and cosmetics.
+Harnessing biotechnology for economic development.pdf
+( Size:  2.8 MB  )
+Click to View More
+Science & Tech
+**********Zero FIRs filed in local languages must have translated copy
+Why in news?
+The Union Ministry of Home Affairs (MHA) has directed Union Territories (UTs) to ensure that 'zero FIRs' recorded in local languages are accompanied by a translated copy of the same when forwarded to states with different languages.
+This directive aims to preserve the legal value of FIRs. Complying, the UTs have started sending out the original zero FIRs along with their English translation.
+What’s in today’s article?
+About FIRs
+The term first information report (FIR) is
+not defined
+in the Indian Penal Code (IPC), Code of Criminal Procedure (CrPC) 1973 or in any other law.
+In police regulations or rules,
+information recorded under Section 154 of CrPC is known as FIR.
+states that every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing.
+A copy of the information
+(as recorded) shall be given (free of cost) to the informant.
+In essence, 3 important elements of an FIR:
+the information must relate to the commission of a cognizable offence,
+it should be given in writing or orally to the head of the police station and
+it must be written down and signed by the informant, and its key points should be recorded in a daily diary.
+A zero FIR
+can be filed in any Police Station by the victim
+, irrespective of their residence or the place of occurrence of crime.
+A police station that receives a complaint regarding an alleged offence committed in the jurisdiction of another police station,
+registers an FIR and then transfers it to the relevant police station for further investigation.
+No regular FIR number is given
+and after receiving the Zero FIR, the revenant police station
+registers a fresh FIR
+and starts the investigation.
+It came up after the recommendation in the report of the
+Justice Verma Committee
+set up after the 2012 Nirbhaya gang rape case to suggest amendments to the Criminal Law.
+The objective of a Zero FIR
+is to ensure the victim doesn’t have to run from pillar to post to get a police complaint registered.
+The provision is meant to provide
+speedy redressal to the victim so that timely action can be taken after the filing of the FIR.
+FIR under new criminal laws
+The three new criminal laws came into effect from July 1, 2024.
+The Bharatiya Nyaya Sanhita 2023, Bharatiya Nagarik Suraksha Sanhita 2023 and Bharatiya Sakshya Adhiniyam 2023, replaced the British-era Indian Penal Code, Code of Criminal Procedure and the Indian Evidence Act, respectively.
+Under the new laws, a person can now report incidents by electronic communication, without the need to physically visit a police station.
+This allows for easier and quicker reporting, facilitating prompt action by the police.
+Under the Bharatiya Nagarik Suraksha Sanhita (BNSS) police are now bound to register a ‘zero FIR’.
+Under Section 176 (3) of BNSS, collection of forensic evidence and video-recording of the crime scene in case of offences punishable with seven years or more is mandatory.
+If the forensic facility is not available in a state, it can notify the utilisation of such facility of any other state.
+Victims will receive a free copy of the FIR, ensuring their participation in the legal process.
+Zero FIRs filed in local languages must have translated copy.pdf
+( Size:  1.6 MB  )
+Click to View More
+Polity & Governance
+**********Why gold nuggets are found in quartz veins?
+Mains Paper 1
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+World's orogenic gold systems;
+Mains level:
+Reason and significance of the world's orogenic gold systems;
+Why in the News?
+Researchers have been curious about why the majority of gold nuggets discovered throughout history have been found in orogenic quartz veins.
+Where are most of the world’s orogenic gold systems found?
+Orogenic gold systems are commonly found in
+mountainous regions
+where
+large-scale geological processes
+, such as the
+collision of tectonic plates,
+have occurred.
+For example, the
+Himalayas, the Canadian Shield,
+and the
+Western Australian goldfields.
+Where do large nuggets come from?
+Large gold nuggets
+are often found in
+formed during the tectonic processes that create mountains.
+These nuggets form because, during earthquakes, the
+stress on quartz crystals causes a reaction that deposits gold on their surfaces.
+This process happens
+repeatedly
+, leading to the
+accumulation of gold nuggets.
+Note:
+Gold nuggets are naturally
+occurring pieces of gold
+that have
+formed into lumps or chunks
+. They are typically found in
+riverbeds, streams, or within rock formations, often in quartz veins.
+Orogenic quartz veins are
+that form in mountainous regions.
+Electrochemical reactions at the material-solution interface:
+The piezoelectric quartz crystal
+generates an electric field when subjected to stress.
+This field can
+drive electrochemical reactions at the interface between the quartz and a surrounding aqueous solution containing dissolved gold.
+These reactions
+cause gold to be deposited on the quartz surface.
+Findings by Researchers:
+The researchers discovered that the
+piezocatalytic effect of quartz under seismic stress could explain the accumulation of gold in quartz veins.
+They demonstrated this by subjecting quartz slabs to mechanical strain in a gold-bearing solution and observing the deposition of gold on the quartz surface.
+This finding suggests that
+gold nuggets in orogenic systems are formed through repeated piezocatalytic reactions over time,
+driven by natural seismic activity. The process also explains
+why gold deposits are highly localized and interconnected within quartz veins.
+Conclusion:
+Researchers have found that gold nuggets in orogenic quartz veins form through piezocatalytic reactions caused by seismic stress on quartz. This process drives gold deposition on quartz surfaces, explaining the concentration and localization of gold in mountainous regions.
+Mains PYQ:
+Craze for gold in Indian has led to surge in import of gold in recent years and put pressure on balance of payments and external value of rupee. In view of this, examine the merits of Gold Monetization scheme.
+(UPSC IAS/2015)
+**********Did corporate tax cuts increase wages?
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Impact of tax cut on the economy;
+Why in the News?
+Before the pandemic, the
+U.S. and India reduced corporate taxes
+to boost growth but we now we can evaluate their effects.
+Case Study on the Effects of Tax Cuts in the U.S.
+The
+Tax Cuts and Jobs Act (TCJA), enacted in December 2017
+, significantly
+reduced the corporate tax rate from 35% to 21%.
+A recent analysis by
+economists Gabriel Chodorow-Reich, Owen Zidar,
+Eric Zwick
+highlights several key findings:
+Investment Increase:
+The TCJA led to an estimated increase in
+investment
+approximately 8% to 14%.
+GDP Growth:
+The long-term increase in
+GDP is projected to be modest, around 0.9%,
+which is substantially
+lower than initial expectations.
+Wage Impact:
+The increase in
+annual wages due to the tax cuts was less than $1,000 per worker,
+contrasting sharply with earlier claims of
+increases between $4,000 and $9,000.
+Tax Revenue Decline:
+The TCJA is expected to result in a
+long-term reduction in tax revenue of nearly 41%,
+raising concerns about the fiscal health of the U.S. economy.
+Tax Cuts in India
+September 2019,
+India also implemented corporate tax cuts, reducing the rate for existing
+companies from 30% to 22% and for new companies from 25% to 15%.
+Revenue Loss:
+The tax cuts resulted in a revenue
+loss of approximately ₹1 lakh crore in 2020-21.
+Gig workers
+(insecure forms of work)
+Although unemployment has
+decreased since the pandemic,
+much of the new employment is in insecure forms of work.
+Decline in Regular Employment:
+According to the
+Periodic Labour Force Survey (PLFS)
+in India, the share of regular wage employment fell from
+22.8% in 2017-18 to 20.9% in 2022-23.
+Tax Burden Shift:
+There has been a notable shift in the tax burden from corporate taxes to individual income taxes. The share of corporate taxes in
+gross tax revenues fell from about 32% in 2017-18 to 26.5% in 2024-25.
+What must be the next step? ( Way forward)
+Focus on Future Investment:
+Policymakers should consider
+implementing high taxes on existing profits
+while
+providing incentives for future investments
+to stimulate economic activity.
+Addressing Income Inequality:
+Tax policies should be designed to ensure that the
+benefits of tax cuts do not disproportionately favour wealthier individuals or corporations
+at the expense of wage earners.
+Evaluating Economic Conditions:
+Need to evaluate the tax cuts to
+ensure they are not merely providing short-term benefits
+without addressing long-term growth and fiscal stability.
+Mains PYQ:
+Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the GST introduced in India since July 2017.
+(UPSC IAS/2019)
+**********How does John Mill’s theory define the Extent of Liberty?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+About Harm Principle,
+Mains level:
+Significance of Freedom of Speech and Expression and its limitation;
+Why in the News?
+A minor girl’s gang rape in Assam led to Chief Minister Sarma’s anti-Muslim remarks, criticized as hate speech,
+violating India’s secular Constitution
+and potentially harming societal harmony,
+breaching Mill’s Harm Principle.
+What does the Harm Principle Say?
+The harm principle, articulated by philosopher
+John Stuart Mill in his essay on ‘Liberty’,
+asserts that the
+actions of individuals should only be limited to prevent harm to others.
+Legitimate Use of Power:
+The only justification for
+exercising power over any member of a civilized community, against their will,
+is to prevent harm to others. This means that
+individual liberties should be respected unless they infringe upon the rights or well-being of others.
+Self-Regarding vs. Other-Regarding Actions:
+Mill distinguishes between self-regarding actions
+(which affect only the individual)
+and other-regarding actions
+(which affect others)
+Society or the state has
+no right to interfere in self-regarding actions,
+but it can regulate other-regarding actions that cause harm.
+Definition of Harm:
+Harm is defined as
+wrongful setbacks to interests to which individuals have rights.
+Mill emphasizes that
+mere offence or disapproval does not constitute harm.
+For example, someone may be offended by another’s opinion, but this does not justify restricting that opinion unless it incites violence or causes direct harm.
+Limitations of Freedom:
+Mill acknowledges that while individuals should have the
+freedom to act as they choose, this freedom can be curtailed
+when their actions pose a significant threat to others. For instance, inciting violence is harmful and justifies state intervention.
+What does Mill say about ‘Freedom of Speech and Expression’?
+Importance of Free Speech
+: Mill talks about the
+idea that all opinions,
+whether
+true or false,
+should be allowed to flourish
+because they
+contribute to the pursuit of truth.
+Silencing
+any opinion
+robs humanity
+of the opportunity to challenge and refine its beliefs.
+Truth and Error
+: Mill argues that the
+collision of differing opinions helps people correct their errors and strengthen their understanding of the truth.
+Even false beliefs are valuable as they force us to defend and reinforce our beliefs.
+: While Mill strongly advocates for free speech, he acknowledges that it can be
+limited in cases where speech directly incites harm, such as inciting violence against a specific group.
+He provides the example of expressing harmful opinions to an agitated crowd, which could lead to immediate danger.
+Balancing Freedom and Harm
+: Mill recognizes that while
+free speech is vital
+, it must be balanced against the
+potential harm it might cause,
+especially when it leads to violence or significant psychological harm to targeted groups.
+Way forward:
+Strengthen Legal Frameworks:
+Enhance laws against hate speech to ensure accountability, balancing the right to free expression with the need to protect societal harmony and prevent violence.
+Promote Inter-Community Dialogue:
+Encourage programs fostering tolerance and understanding between communities, reinforcing the secular principles of the Constitution and mitigating divisive rhetoric.
+Mains PYQ:
+What do understand by the concept “freedom of speech and expression”? Does it cover hate speech also? Why do the films in India stand on a slightly different plane from other forms of expression? Discuss.
+(UPSC IAS/2014)
+**********World Heritage City of Jaipur
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Jaipur, World Heritage Sites in India
+Why in the News?
+The Walled City of Jaipur, a UNESCO World Heritage Site since 2019, is set for
+heritage conservation and development with a budget of ₹100 crore.
+About
+the World Heritage City of Jaipur:
+Founded in 1727 by
+Maharaja Sawai Jai Singh II
+Jaipur was designed as a commercial capital with a grid layout that reflects Vedic architectural principles.
+Unlike many other Indian cities built in hilly terrains,
+Jaipur was established on a plain, allowing for a systematic urban design characterized by wide streets and public squares known as chaupars.
+Architectural Significance
+Jaipur’s urban planning is notable for its
+geometric structure,
+which integrates traditional Hindu concepts with modern Western influences.
+The city is divided into nine blocks, with two reserved for state buildings and the remaining for public use. Known for its distinctive pink-colored buildings, which give it the nickname
+“Pink City.”
+The architecture features uniform facades along the main streets. Key monuments include:
+Hawa Mahal
+: A palace known for its intricate façade and numerous windows.
+City Palace:
+A royal residence that blends Mughal and Rajput architecture.
+Jantar Mantar:
+An astronomical observatory built by Jai Singh II.
+Govind Dev Temple:
+A significant religious site reflecting the city’s cultural heritage.
+Jaipur’s (Pink City) Criteria for UNESCO Recognition
+Criterion (ii):
+Exhibiting an important interchange of human values in architecture and urban planning.
+Criterion (iv):
+Representing a significant example of a planned city that reflects the cultural traditions of its time.
+Criterion (vi):
+Being directly associated with events or living traditions of universal significance, particularly in the context of its festivals and cultural practices.
+Other Important Places Contributing to World Heritage Status
+Amber Fort (Amer Fort)
+A majestic fort known for its artistic Hindu and Mughal architectural style, located on a hill overlooking Maota Lake.
+Famous for its intricate carvings, mirror work, and expansive courtyards.
+A complex of palaces, courtyards, and museums in the heart of Jaipur, reflecting the rich cultural heritage of the region.
+Combines Rajput and Mughal architectural styles, showcasing royal artifacts, costumes, and weapons.
+Hawa Mahal (Palace of Winds)
+A five-story palace with 953 small windows (jharokhas), designed to allow royal women to observe street activities while remaining unseen.
+An iconic example of Rajput architecture with intricate latticework and unique design.
+An astronomical observatory with 19 large instruments, including the world’s largest stone sundial.
+A separate UNESCO World Heritage Site, reflecting the scientific achievements of the 18th century.
+Nahargarh Fort
+Built in 1734, located on the Aravalli Hills, offering panoramic views of Jaipur city.
+Served as a retreat and defensive structure for the royal family, showcasing the military architecture of the period.
+**********Study confirms the existence of a Dockyard at Lothal
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Lothal and other IVC Sites
+Why in the News?
+A recent study by the
+Indian Institute of Technology-Gandhinagar (IITGn)
+has presented new evidence supporting the presence of a
+dockyard
+222 x 37 metres
+) at Lothal, which was earlier debated.
+Evidence of Lothal’s Dockyard
+The discovery of
+, located in the
+Bhal region
+Gujarat
+during the 1950s, initiated debates among archaeologists about the
+existence of a dockyard
+The IITGn study reveals that the
+Sabarmati River
+once flowed
+close to Lothal
+during the Harappan period, contrasting its current course, which is
+20 km away
+The study suggests a
+trade route
+linking
+Ahmedabad,
+through
+Lothal, Nal Sarovar, and the Little Rann
+, to
+Dholavira
+, another prominent Harappan site.
+Satellite imagery
+multi-sensor data
+analysis have uncovered the
+ancient channels
+of the Sabarmati River, confirming Lothal’s strategic location on a
+significant riverine route
+The study also suggests that traders might have arrived in Gujarat via the
+Gulf of Khambhat
+, collected materials from
+Ratanpura
+, and transported them to
+Mesopotamia
+(modern-day Iraq).
+About Lothal:
+Details
+Location
+Bhal region, Gujarat,
+Historical Significance
+Built around 2200 BC; major trade centre for
+beads, gems,
+ornaments
+Name Meaning
+“Lothal” means “
+the mound of the dead
+” in Gujarati (Similar to Mohenjodaro)
+Discovery
+Discovered by
+S.R. Rao
+; excavated from
+1955 to 1960
+Port City Evidence
+Earliest known dock; connected to the ancient Sabarmati River
+Key Features
+Tidal dockyard, marine microfossils, and a basin for sailing boats
+Heritage Status
+Nominated for UNESCO World Heritage Site in 2014; only port-town of the Indus Valley Civilization
+PYQ:
+[2021]
+Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelling water into connected reservoirs?
+(a) Dholavira
+(b) Kalibangan
+(c) Rakhigarhi
+(d) Ropar
+**********Anti-Naxal Operation in Dantewada, Chhattisgarh
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Anti-Naxal Operations in India
+Why in the News?
+In a significant anti-Naxal operation, nine Maoists were killed by security forces in the forests along the border of Chhattisgarh’s Dantewada.
+This operation was part of ongoing efforts to eliminate Naxalite influence in the region.
+Dantewada, a district in the Bastar region of Chhattisgarh, India, is known as a
+hotbed of Naxal (Maoist) insurgency.
+The region has seen
+numerous anti-Naxal operations
+over the years due to its dense forests, rugged terrain, and the presence of significant Naxalite (Maoist) cadres.
+Important security operations against Naxalism:
+Details
+Operation Greyhounds
+1989 – Ongoing
+: A specialized anti-Naxal force created to combat Naxal insurgency in Andhra Pradesh and Telangana.
+Operation Green Hunt
+2009 – Ongoing
+: To flush out Naxalite insurgents in the “Red Corridor ” from their strongholds.
+Operation Thunderstorm
+2010
+: To target Naxal cadres in the dense forest regions of Lalgarh, West Bengal.
+Operation Octopus
+2014
+: To clear Maoist influence from the Sukma district of Chhattisgarh.
+Operation All Out
+2015 – Ongoing
+: To launch coordinated offensive operations against Naxalites in Jharkhand and Bihar.
+Operation Samadhan
+2017 – Ongoing
+: A comprehensive strategy to combat LWE by addressing both security and developmental issues.
+Operation Prahar
+: To eliminate top Maoist leaders and dismantle support networks in the Bastar region of Chhattisgarh.
+Operation Monsoon
+2018
+: To target Maoist groups during the monsoon season when their activities are restricted.
+PYQ:
+[2022]
+Naxalism is a social, economic and developmental issue manifesting as a violent internal security threat. In this context, discuss the emerging issues and suggest a multi-layered strategy to tackle the menace of Naxalism.
+**********[pib] SCOMET List
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Directorate General of Foreign Trade (DGFT),
+under the
+Ministry of Commerce & Industry,
+has released the updated
+SCOMET (Special Chemicals, Organisms, Materials, Equipment, and Technologies)
+list for the year 2024.
+What is the SCOMET List?
+Details
+Purpose
+To regulate the export of dual-use items that can be used for both
+civilian and military applications
+, particularly those that could contribute to the
+development of weapons of mass destruction (WMDs)
+and their delivery systems.
+Regulatory Authority
+Directorate General of Foreign Trade (DGFT), Ministry of Commerce and Industry, Government of India.
+Notification
+Notified by DGFT under
+Appendix 3 to Schedule 2 of the ITC (HS) Classification of Export and Import Items
+Legal Framework
+Governed by
+Chapter IVA of the Foreign Trade (Development & Regulation) Act, 1992
+, as amended in 2010.
+This chapter provides the legal basis for export control of dual-use items and outlines penalties for non-compliance.
+Policy and Procedures
+Outlined in
+Chapter 10 of the Foreign Trade Policy (FTP) and the Handbook of Procedures (HBP) 2023
+These documents provide the detailed procedure for licensing, application, and compliance for exporting SCOMET items.
+Categories
+The SCOMET List includes multiple categories:
+1.
+Category 0
+: Nuclear materials and nuclear-related dual-use items.
+2.
+Category 1
+: Toxic chemical agents and precursors.
+3.
+Category 2
+: Materials and materials processing equipment.
+Category 3
+: Electronics.
+5.
+Category 4
+: Computers.
+6.
+Category 5
+: Telecommunications and information security.
+7.
+Category 6
+: Sensors and lasers.
+8.
+Category 7
+: Navigation and avionics.
+9.
+Category 8
+: Marine.
+Category 9
+: Aerospace and propulsion.
+New Licensing Authority for Category 6
+Department of Defence Production (DDP), Ministry of Defence
+is the new licensing authority for the export of items under Category 6 (Sensors and Lasers).
+Export Licensing
+Exporters must obtain a specific license from DGFT (or DDP for Category 6) to export SCOMET items.
+The licensing process includes a comprehensive review to ensure that exports do not contribute to the proliferation of WMDs or unauthorized military use.
+**********

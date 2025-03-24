@@ -1,0 +1,1544 @@
+POPULISM AND GOOD GOVERNANCE
+Syllabus:
+Prelims – GS 2
+Context:
+The Vice-President of India, Shri Jagdeep Dhankhar, called for a national debate on the shift from democracy to Emocracy, saying, “National debate is required so that we take note of shift from Democracy to Emocracy. Emotion-driven policies, emotion-driven debates, discourses threaten good governance.”
+Background: –
+“Historically, populism is bad economics. And once a leader gets attached to populism it is difficult to get out of the crisis. The central factor must be the good of the people, the largest good of the people, the lasting good of the people”, V P said.
+Relationship between populism and good governance
+The relationship between populism and good governance is complex, with both positive and negative implications.
+Understanding Populism :A political ideology that seeks to represent the interests of the common people against a perceived elite.
+Characteristics:
+Direct appeal to the masses
+Charismatic leadership
+Anti-establishment rhetoric
+Simplified solutions to complex problems
+Types of Populism:
+Left-Wing Populism: Advocates wealth redistribution and state intervention (e.g., Latin American leaders like Hugo Chávez).
+Right-Wing Populism: Focuses on nationalism, cultural identity, and anti-immigration policies (e.g., Donald Trump, European right-wing parties).
+Understanding Good Governance: Governance that ensures efficient, accountable, participatory, and transparent administration.
+Key Features (As per UNDP):
+Transparency: Open decision-making and information availability.
+Accountability: Responsibility of public institutions towards citizens.
+Rule of Law: Fair legal framework enforced impartially.
+Inclusiveness: Equal participation of all groups in governance.
+Effectiveness and Efficiency: Best use of resources for public welfare.
+Populism vs. Good Governance: Conflict and Challenges
+Short-Term Popularity vs. Long-Term Institutional Strengthening: Populist leaders may focus on immediate benefits rather than sustainable policies.
+Erosion of Institutional Autonomy: Populists may undermine democratic institutions and weaken democratic Norms.
+Fiscal Populism: Excessive subsidies, loan waivers, and unsustainable welfare schemes burden the economy.
+Undermining Expertise and Bureaucracy: Populists often bypass expert opinions, leading to flawed policy decisions.
+Positive Aspects of Populism in Governance
+Increased Political Participation: Populist leaders mobilize the masses, bringing political awareness.
+Focus on Marginalized Groups: Populist movements often highlight the concerns of the underprivileged.
+Policy Innovation: Pressure from populist movements can lead to new welfare policies.
+Way Forward
+Institutional Checks and Balances: Strengthening judiciary and autonomous bodies to prevent executive overreach.
+Evidence-Based Policymaking: Ensuring policy decisions are backed by data rather than populist rhetoric.
+Strengthening Democratic Norms: Promoting media freedom, civil society participation, and deliberative democracy.
+Fiscal Responsibility: Ensuring populist welfare policies are financially sustainable.
+Public Awareness: Educating citizens about the long-term impacts of populist policies.
+Source:
+PIB
+**********
+AIKOSHA
+Prelims  – CURRENT EVENT
+Union Minister for Electronics & Information Technology, Railways, and Information & Broadcasting, Shri Ashwini Vaishnaw marked a major milestone in India’s AI journey with the launch of several key initiatives under the IndiaAI Mission during its anniversary celebration. Key among the newly introduced initiatives is AIKosha: IndiaAI Datasets Platform.
+The launch of AIKosha signifies a major step in democratizing AI access, enabling research-driven innovation, and strengthening India’s global AI leadership.
+Key takeaways
+AIKosha, launched by India’s Ministry of Electronics and Information Technology (MeitY), is a comprehensive platform designed to streamline access to high-quality, non-personal datasets, AI models, and development tools, thereby fostering AI innovation across the nation.
+Key Features of AIKosha:
+Extensive Repository: The platform hosts over 300 datasets and more than 80 AI models from 12 organizations, providing a rich resource for model builders and developers to create India-centric AI solutions.
+AI Sandbox Capabilities: AIKosha offers integrated development environments equipped with tools and tutorials, enabling users to experiment, develop, and refine AI applications effectively.
+Secure and Accessible: The platform ensures data security through features like data encryption (both at rest and in motion), secure APIs, and firewalls for real-time threat filtering. It also emphasizes content discoverability and AI readiness scoring of datasets to assist users in selecting appropriate resources.
+Objective and Impact:
+By providing a unified portal for seamless access to datasets, models, and tools, AIKosha aims to democratize AI development in India. It supports students, startups, researchers, academia, and government departments in building AI applications tailored to India’s diverse linguistic and cultural landscape.
+This initiative is part of the broader IndiaAI Mission, which seeks to establish a comprehensive ecosystem catalyzing AI innovation through public-private partnerships.
+**********
+REAL ESTATE REGULATORY AUTHORITY (RERA)
+Prelims & Mains – CURRENT EVENT
+The Supreme Court criticised the functioning of the Real Estate Regulatory Authority (RERA) and termed it as “disappointing”.
+This isn’t the first time the court has criticised RERA’s performance. In September 2024, the Supreme Court described RERA as a “rehabilitation centre for former bureaucrats,” accusing it of undermining the Act’s purpose.
+The Real Estate Regulatory Authority (RERA) was established under the Real Estate (Regulation and Development) Act, 2016 to regulate and promote transparency in the real estate sector.
+RERA is applicable to residential and commercial real estate projects, including plotted developments.
+Objectives of RERA
+Regulate the real estate sector and improve accountability.
+Ensure timely completion of projects and prevent delays.
+Promote transparency in property transactions.
+Protect buyers’ rights by setting grievance redressal mechanisms.
+Encourage investment by creating a reliable framework.
+Key Provisions of the RERA Act, 2016
+Establishment of RERA
+States and Union Territories must establish a Real Estate Regulatory Authority for grievance redressal.
+Functions include project registration, dispute resolution, and policy implementation.
+Mandatory Project Registration : Developers must register real estate projects (above 500 sq. m. or 8 apartments) before advertising or selling. Projects without RERA registration are illegal.
+Escrow Account Requirement : Builders must deposit 70% of funds collected from buyers into a separate escrow account to ensure funds are used for the same project.
+Timely Completion & Compensation : Developers must complete projects on time, failing which they face penalties or compensation liabilities.
+Consumer Protection & Rights
+Buyers have the right to full project details, possession timeline, and compensation for delays.
+False advertising by developers can lead to refunds or penalties.
+Establishment of Real Estate Appellate Tribunal : If dissatisfied with RERA decisions, consumers can approach the Real Estate Appellate Tribunal.
+Economic Times
+**********
+CAPITAL ACCOUNT CONVERTIBILITY
+Mains – ECONOMY
+India should not rush into full capital account convertibility at its current per capita income level of about $2,570, Arvind Panagariya, Chairman of the 16th Finance Commission, has said.
+Instead, the country should consider this reform only when per capita income reaches $8,000-10,000, he suggested.
+Capital Account Convertibility (CAC) refers to the freedom to convert local financial assets into foreign financial assets and vice versa at market-determined exchange rates.
+It is part of the Balance of Payments (BoP), which consists of the current account (trade in goods and services) and the capital account (financial transactions).
+Types of Convertibility:
+Current Account Convertibility: Allows free exchange of currency for trade in goods and services.
+Capital Account Convertibility: Allows free exchange of currency for financial transactions like investments, loans, and acquisitions.
+Importance of Capital Account Convertibility:
+Foreign Investment: CAC attracts foreign investment and capital inflows boosting economic growth.
+Global Integration: It facilitates integration with global financial markets, enabling access to international capital.
+Economic Efficiency: CAC promotes efficient allocation of resources by allowing capital to flow to its most productive uses.
+Challenges and Risks of Capital Account Convertibility:
+Volatility: Free capital flows can lead to exchange rate volatility and financial instability, as seen during the Asian Financial Crisis (1997).
+Capital Flight: In times of economic uncertainty, investors may withdraw capital rapidly, leading to currency depreciation and economic instability.
+Monetary Policy Constraints: CAC limits the ability of the central bank to control domestic interest rates and money supply, as it must consider global financial conditions.
+Speculative Attacks: Countries with weak economic fundamentals may face speculative attacks on their currency, leading to crises.
+India’s Approach to Capital Account Convertibility:
+Tarapore Committee (1997):
+The S.S. Tarapore Committee was set up by the Reserve Bank of India (RBI) to recommend a roadmap for CAC in India.
+The committee suggested a three-phase approach with preconditions like fiscal consolidation, low inflation, and a strong financial system.
+Partial Convertibility:
+India has adopted a gradual and cautious approach to CAC, allowing partial convertibility with certain restrictions.
+For example, while FDI and FPI are allowed, there are limits on the amount of capital that can be moved in and out of the country.
+Current Status:
+India has full current account convertibility but partial capital account convertibility.
+The Liberalized Remittance Scheme (LRS) allows individuals to remit up to $250,000 per year for permissible transactions.
+Hindu Businessline
+**********
+ONGOLE CATTLE
+Prelims – CURRENT EVENT
+The population of Ongole cattle is dwindling in India, while its numbers and prestige are increasing in countries like Brazil.
+In February, an Ongole purebred cow was sold for a whopping 4.38 million USD (25.7 million Brazilian Real or INR 40 crore) in Brazil.
+Ongole Cattle are a renowned breed of indigenous cattle native to India, known for their strength, endurance, and adaptability. They are primarily found in the Prakasam district of Andhra Pradesh, particularly in the Ongole region, from which they derive their name.
+Physical Characteristics:
+Size: Ongole cattle are large and robust, with a well-built muscular frame.
+Color: They are typically white or light gray, with a distinctive hump on their back.
+Dewlap: They have a prominent dewlap (loose skin under the neck), which helps them tolerate hot climates.
+Adaptability:
+Ongole cattle are highly adaptable to tropical climates and can thrive in harsh, dry conditions.
+They are resistant to many tropical diseases, making them ideal for regions with challenging environments.
+Utility:
+Draught Purposes: Ongole cattle are primarily used as draught animals for plowing and transportation due to their strength and endurance.
+Milk Production: While not high-yielding milk producers, they provide a moderate amount of milk with high fat content.
+Temperament: Ongole cattle are known for their docile nature, making them easy to handle and manage.
+Indian Express
+**********
+Daily Practice MCQs
+Q1.) Which of the following cattle breeds is native to the Prakasam district of Andhra Pradesh?
+a) Gir
+b) Sahiwal
+c) Ongole
+d) Red Sindhi
+Q2.) Which of the following statements regarding the Real Estate Regulatory Authority (RERA) is correct?
+a) RERA registration is mandatory for all real estate projects, regardless of size.
+b) Developers must deposit at least 70% of the buyers’ funds into an escrow account to prevent fund diversion.
+c) RERA is applicable only to residential real estate projects and excludes commercial properties.
+d) The decisions of RERA are final and cannot be challenged in any tribunal.
+Q3.) With reference to Capital Account Convertibility (CAC), consider the following statements:
+CAC allows unrestricted exchange of domestic currency for foreign currency in financial transactions like investments and loans.
+The S.S. Tarapore Committee (1997) recommended an immediate and full adoption of CAC in India.
+India currently follows a policy of full capital account convertibility.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 2 only
+(c) 1 and 3 only
+(d) 2 and 3 only
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********Antarctic Circumpolar Current
+A groundbreaking study has revealed that the Antarctic Circumpolar Current (ACC)—the world’s most powerful ocean current—is slowing down due to melting ice sheets.
+About Antarctic Circumpolar Current:
+The Antarctic Circumpolar Current (ACC) is the
+strongest ocean current globally,
+flowing clockwise (from west to east) around Antarctica and connecting the Atlantic, Pacific, and Indian Oceans.
+As the only ocean current connecting the Atlantic, Pacific, and Indian Oceans, the ACC is five times stronger than the Gulf Stream and over 100 times more powerful than the Amazon River.
+The Antarctic Circumpolar Current separates the Southern Ocean from the Atlantic, Pacific, and Indian oceans at 60° S latitude, which roughly coincides with the current’s southern boundary.
+It plays a
+critical role in regulating Earth’s climate
+by distributing heat, water, and nutrients worldwide. Beyond climate regulation, the ACC acts as a natural barrier, preventing non-native marine species from reaching Antarctica.
+However, the rapid melting of Antarctic ice due to rising global temperatures is introducing large volumes of freshwater into the ocean, which can disrupt the ACC's flow.
+Potential Impacts of ACC Slowdown:
+Climate Regulation:
+A slowdown of the ACC could lead to more extreme climate events and alter weather patterns globally.
+Marine Ecosystems:
+Changes in the ACC can disrupt nutrient distribution, affecting marine biodiversity and fisheries.
+Carbon Sequestration:
+The ocean's ability to absorb carbon dioxide may decrease, potentially accelerating global warming.
+Click to View More
+Source :
+Antarctic Ocean Current Slowing Down Due To Melting Ice, Study Warns Of Global Impact
+Geography
+**********Bangus Valley
+The Jammu and Kashmir government on Thursday (March 6, 2025) announced a new set of rules for Bangus, a far-off tourist spot near the Line of Control (LoC) in north Kashmir, in a bid to promote it as an ecotourism destination.
+About Bangus Valley:
+Lying within the Trans-Himalayan area, Bangus is a unique
+ecological combination comprising a mountain biome, which includes a grassland biome with flora at lower altitudes; and Taiga or Coniferous forest.
+The valley which lies at an altitude of around 10,000 ft. above sea level is
+in the northern part of district Kupwara within the Handwara sub District.
+Occupying an estimated area of 300 sq. km, the principal valley locally known as
+Bodh Bangus (Big Bangus)
+consists of a linear elliptical bowl aligned along the east-west axis.
+The valley is surrounded by Rajwar and Mawar in the east, Shamasbury and Dajlungun Mountains in the west and Chowkibal and Karnah Guli in the north.
+A smaller valley known as
+Lokut Bangus
+(Small Bangus) lies on the north-eastern side of the main valley.
+Both the valleys have level green meadows surrounded by low-lying mountains covered with dense Coniferous forests (budloo) and a stream flowing through them.
+Trans Himalayan Range:
+The Trans-Himalayas, also known as the Tibetan Himalayas, lie
+north of the Great Himalayan Range
+and extend approximately 1,600 km.
+Comprising major ranges like
+Zanskar, Ladakh, Kailash, and Karakoram,
+this region is characterized by arid plateaus, high-altitude passes, and cold deserts.
+It holds ecological significance and serves as a boundary between the Indian subcontinent and the Tibetan Plateau
+Click to View More
+Source :
+J&K govt. to promote Bangus Valley near LoC as ecotourism destination
+Environment
+**********AI Kosha
+The Ministry of Electronics and Information Technology (MeitY) launched AI Kosha, a non-personal datasets platform, along with the GPU access portal under the IndiaAI Mission.
+About AI Kosha:
+AI Kosha is an initiative by the
+(MeitY) designed to serve as a
+unified repository for datasets, tools, and AI models
+It aims to enhance access to datasets and models from various sources to
+boost AI innovation
+, support AI solution development with shared toolkits, and showcase use cases to inspire new applications.
+It serves as a central repository, offering over 300 datasets, 80+ models, and diverse AI use cases.
+It also features an
+AI sandbox
+with an integrated development environment, tools, and tutorials.
+Key security measures include content discoverability, AI readiness scoring, permission-based access, data encryption, secure APIs, and real-time firewalls to ensure safe and efficient AI development.
+What is the IndiaAI Mission?
+The IndiaAI Mission is a comprehensive initiative launched by the Ministry of Electronics and Information Technology (
+) to build a
+robust AI ecosystem in India
+The IndiaAI Mission, with an allocation of Rs. 10,300 crore (US$ 1.18 billion) over five years, is building a high-performance computing infrastructure with 18,693
+Graphics Processing Units
+(GPUs) and launching an open GPU marketplace to empower startups, students, and researchers.
+Click to View More
+Source :
+MeitY launches AIKosha, a secured platform that provides a repository of datasets, models and use cases to enable AI innovation. It also features AI sandbox capabilities through an integrated development environment along with tools and tutorials.
+Science & Tech
+**********Pashu Aushadhi Initiative
+Pashu Aushadhi Initiative Latest News
+The government will open “Pashu Aushadhi” stores across the country to provide affordable generic veterinary medicines to people engaged in animal husbandry and dairying.
+About Pashu Aushadhi Initiative:
+It has been conceptualised on the lines of the existing Pradhan Mantri Bharatiya Janaushadhi Kendras (PMBJK), which provide “quality generic medicines at affordable prices” to people to “bring down the healthcare budget of every citizen of India”.
+The Pashu Aushadhi initiative is part of the
+revised Livestock Health and Disease Control Programme (LHDCP),
+which was approved by the Union Cabinet chaired by the Prime Minister.
+The Pashu Aushadhi stores will be run by
+cooperative societies and Pradhan Mantri Kisan Samriddhi Kendras (PMKSK).
+The Pashu Aushadhi Kendras will also sell ethnoveterinary medicines, based on traditional beliefs and indigenous knowledge and practices, to treat animal diseases.
+It has been allocated ₹75 crore to ensure the availability of high-quality, affordable generic veterinary medicines.
+These medicines will be distributed through PM-Kisan Samriddhi Kendras and cooperative societies, making essential animal healthcare more accessible to farmers.
+Livestock Health and Disease Control Program:
+The Government of India implements the Livestock Health and Disease Control Programme (LHDCP) across the country with the primary objective of reducing risks to animal health through various measures since 2022.
+The program focuses on
+prophylactic vaccination
+against key animal diseases
+, capacity building of veterinary services, disease surveillance, and strengthening veterinary infrastructure.
+Click to View More
+Source :
+Pashu Aushadhi Kendras: how Govt plans to improvise its Jan Aushadhi initiative to protect livestock health
+Polity & Governance
+**********Viatina-19
+In February 2025, an Ongole cow named Viatina-19 was sold for a record-breaking 4.38 million USD (approximately INR 40 crore) in Brazil's Minas Gerais.
+About Viatina-19:
+Viatina-19 is a Nelore breed cow (
+Ongole cattle
+), renowned for its exceptional genetic qualities. The Nelore breed, originating from India and now prevalent in Brazil, is prized for its adaptability and meat quality.
+They are known for their
+unique genetic traits,
+including exceptional physical strength, heat resistance, and superior muscular structure. These qualities make them highly desirable for dairy.
+The Nelore breed is well known for its ability to adapt to tropical climates and disease resistance. Due to this, Viatina-19's embryos are in high demand globally for breeding programs.
+The Nelore breed, which makes up the majority of Brazil's cattle stock, is
+primarily raised for meat.
+According to the US Department of Agriculture, Brazil has about 230 million cows.
+However, in India, the original home of the Ongoles, the breed is facing the threat of extinction, its numbers halving from 15 lakh in 1944 to 6.34 lakh in the 2019 Livestock Census.
+The price of the cattle, too, is relatively low in India – Rs 1 lakh for a cow and Rs 10 to 15 lakh for a prized bull.
+Click to View More
+Source :
+The world’s most expensive cattle’: Booming in Brazil, dwindling in India
+Economy
+**********Panchaganga River
+Maharashtra govt recently appointed a panel to investigate the causes of pollution in Panchaganga river.
+About Panchaganga River:
+It is a major tributary of the Krishna River, flowing through Maharashtra.
+Course:
+It originates from Prayag Sangam in the Sahyadri mountain ranges in the district of Kolhapur, Maharashtra.
+It is formed by the confluence of five rivulets—Kasari, Kumbhi, Tulsi, Bhogawati and Saraswati.
+From there, the river flows approximately 80 km before eventually joining the Krishna River in Maharashtra.
+The Panchganga River holds immense spiritual significance. The banks of the river are adorned with numerous temples and shrines.
+The valley of the Panchaganga River is very fertile and its sloping banks yield rich crops during the winter season.
+The waters of all the streams which join to form the Panchaganga are much used for growing sugarcane.
+Since the last decade, its pollution level has been increasing fast. The pollution of the Panchaganga River is due to the disposal of untreated municipal sewage from the Kolhapur town.
+Click to View More
+Source :
+Maha appoints panel to probe pollution in Panchaganga river
+Geography
+**********Who is a D-Voter?
+Assam's opposition recently raised concerns over the plight of ‘D’ (Doubtful) voters in Assam, demanding the closure of the state’s only detention centre, now termed a transit camp, and the tabling of the National Register of Citizens (NRC) report in the Assembly.
+About D-Voter:
+D-voters or doubtful voters, are a category of voters in Assam who couldn't give evidence to prove their Indian nationality and whose cases are pending with the Foreigners Tribunals or who have been declared foreigners by the Tribunal.
+The D-voter category was introduced by the Election Commission of India in 1997.
+Because their Indian citizenship has not been verified, doubtful voters are not allowed to vote in elections.
+They are also not permitted to run for office in the nation's elections.
+However, ‘doubtful voter’ or ‘doubtful citizenship’ have not been defined in the Citizenship Act, 1955, or the Citizenship Rules of 2003.
+The Citizenship Rules, 2003, was framed under the provisions of the Citizenship (Amendment) Act, 2003.
+The rules framed in 2003 list out the steps to be followed for the preparation of the National Population Register (NPR) and the National Register of Indian Citizens (NRIC).
+It has only been stated that the Local Registrar will include the details of individuals whose citizenship is in doubt with an "appropriate remark in the population register for further enquiry" under subsection 4 of section 4, which deals with the production of the National Register of Indian Citizens (NRIC).
+A family or individual is notified in a specific pro forma as soon as the verification process concludes, whether they have been classified as a dubious citizen (D-Category).
+Before deciding whether or not to add their name to the register, they are also given the opportunity to be heard by the Taluk or Sub-district Registrar of Citizenship.
+The Registrar has ninety days to complete and justify his findings.
+The marking as a doubtful voter is a temporary measure and cannot be prolonged. Within a specific timeframe, a decision needs to be made.
+According to the documentation provided, if it is determined that the individual is a foreign national or an illegal immigrant, they may be deported or placed in a detention centre.
+D-voters can also apply to have their names added to the NRC.
+They will be included only after they get clearance from the Foreigners Tribunals and their names are removed from electoral rolls under the ‘D’ category.
+Click to View More
+Source :
+Assam opposition demands NRC report, closure of detention centre over ‘D’ voters crisis
+Polity & Governance
+**********Biligiri Rangaswamy Temple (BRT) Tiger Reserve
+An Eco-Sensitive Zone (ESZ) monitoring committee meeting held recently decided that new commercial construction shall not be permitted within 1 km from the boundary of the Biligiri Rangaswamy Temple (BRT) Tiger Reserve or up to the ESZ, whichever is nearer.
+About Biligiri Rangaswamy Temple (BRT) Tiger Reserve:
+It is located in the Chamarajanagar district of Karnataka State.
+It is in the middle of the bridge between Western and Eastern Ghats in South India.
+It was declared a Tiger Reserve in 2011.
+The total area of the Tiger Reserve is 574.82
+sq.km
+The reserve gets its name from Biligiri, meaning "white rocky cliff," which is home to the ancient Rangaswamy Temple dedicated to Lord Vishnu.
+It is also believed that the hill range gets its name due to white mist and silvery clouds which cover these lofty hills for a greater part of the year.
+The Soliga tribe, an indigenous people, inhabit the area and co-exist with wildlife.
+Vegetation: The reserve's diverse climatic conditions and elevation changes have resulted in a much-diversified mosaic of habitats that includes practically all major forest vegetation types, including scrub, deciduous, riparian, evergreen, sholas, and grasslands.
+Flora: The major species include Anogeissus latifolia, Dalbergia paniculata, Grewia teliaefolia, Terminalia alata, Terminalia bellirica, Terminalia paniculata, etc.
+Fauna: Animals including tiger, elephant, leopard, wild dog, bison, sambar, spotted deer, barking deer, four-horned antelope, sloth bear, wild boar, common langur, bonnet macaque, varieties of reptiles, birds, etc., are found in the Tiger Reserve.
+Click to View More
+Source :
+Monitoring committee rejects commercial buildings near BRT Tiger Reserve ESZ
+Environment
+**********What is Vitiligo?
+New research shows gut-friendly bacteria may slow vitiligo progression, offering hope for millions with autoimmune disease.
+About Vitiligo:
+Vitiligo (vit-ih-LIE-go) is a disease that causes loss of skin color in patches.
+The condition can affect the skin on any part of the body.
+It generally starts on your hands, forearms, 0feet and face.
+The discolored areas usually get bigger with time.
+It can also affect hair and the inside of the mouth.
+Causes:
+The condition occurs when your body’s immune system destroys melanocytes.
+Melanocytes are skin cells that produce melanin, the chemical that gives skin its color, or pigmentation.
+While research is ongoing to learn more about the causes of vitiligo, studies indicate that about 30% of vitiligo cases are genetic.
+Vitiligo affects all races and sexes equally. It’s more visible in people with darker skin tones.
+Globally, about 1% of the population has vitiligo.
+Treatment:
+The condition is not life-threatening or contagious.
+Treatment for vitiligo may restore color to the affected skin.
+But it doesn't prevent continued loss of skin color or a recurrence.
+Click to View More
+Source :
+Harnessing the gut microbiome to halt vitiligo patches
+Science & Tech
+**********What is Parvatmala Pariyojana?
+The union cabinet recently approved two major ropeway projects- Govindghat to Hemkund Sahib Ji (12.4 km) and Sonprayag to Kedarnath (12.9 km)- in Uttarakhand, which will be developed under National Ropeways Development Programme – Parvatmala Pariyojana.
+About Parvatmala Pariyojana:
+The National Ropeways Development Programme, known as the ‘Parvatmala Pariyojana’, was announced in the 2022-23 Union Budget.
+Under the Parvatmala Pariyojana, the Ministry of Road Transport and Highways envisages the provision of safe, economical, convenient, efficient, self-sustainable & world-class ropeway infrastructure providing first- and last-mile connectivity to improve logistics efficiency in India.
+The programme aims to improve connectivity and convenience for commuters in hilly regions and to decongest urban areas where the conventional mode of transport is saturated or not feasible.
+The aim is to improve connectivity and convenience for commuters, besides promoting tourism.
+For the development of ropeway infrastructure in dense forests, in urban areas, and in difficult terrains, the ministry is collaborating with various state governments/UT administrations.
+The Centre has identified more than 200 projects at a cost of Rs 1.25 lakh crore under the programme.
+The projects are being implemented through Public-Private Partnership with around 60% contribution support by the Government of India.
+Implementing Agency:
+The National Highways Logistics Management Limited (NHLML) has been mandated by the ministry to implement the project.
+It is a 100% owned SPV of the National Highways Authority of India (NHAI).
+Click to View More
+Source :
+“At an elevation of 15000 ft. above sea level”- Cabinet approves two major ropeway projects in Uttarakhand under Parvatmala Pariyojana
+Polity & Governance
+**********Beyond ‘Beijing’, Unlocking a Feminist Future in India
+Context
+The
+Beijing Declaration
+and Platform for Action,
+adopted in 1995,
+remains one of the
+most
+comprehensive global blueprints for advancing women’s rights
+.
+It
+laid out a road map for accelerating gender equality across 12 critical areas
+of concern, including education, health, economic empowerment, and political participation.
+Over the past three decades,
+India has made significant strides in these dimensions,
+driven by sustained policy efforts, grassroots activism, and the resilience of women and girls.
+Now
+it becomes imperative to examine India’s progress in gender equality, highlighting achievements in health, education, and economic empowerment
+while acknowledging the persistent challenges of gender-based violence.
+India’s Achievements in Advancing Women’s Rights
+Health and Maternal Care: A Significant Leap Forward
+One of India’s most notable achievements in advancing women’s rights has been in the
+field of healthcare, particularly maternal and reproductive health.
+Government initiatives such as the Pradhan Mantri Surakshit Matritva Abhiyan and
+Pradhan Mantri Matru Vandana Yojana
+have significantly improved maternal health care,
+leading to an increase in institutional deliveries to 95%.
+Furthermore,
+maternal mortality has decreased from 130 to 97 deaths per 100,000 births between 2014 and 2020,
+demonstrating progress in ensuring safer childbirth.
+Expansion of Reproductive health services
+The expansion of reproductive health services has
+given women greater autonomy
+over their bodies.
+Over half of married women (56.5%) now use modern contraceptives
+, empowering them with greater control over family planning.
+Ayushman Bharat Pradhan Mantri Jan Arogya Yojana
+, the world’s largest government-funded healthcare program,
+has provided millions of women with access to critical medical treatment,
+further strengthening India’s commitment to women’s well-being.
+Education and Empowerment: A Path to Inclusion
+Education has been at the heart of India’s gender equality agenda.
+Beti Bachao Beti Padhao (BBBP)
+initiative has played a crucial role in improving the child sex ratio and increasing school enrolments for girls.
+The National Education Policy (NEP) 2020
+has introduced reforms aimed at increasing retention rates and expanding opportunities for women in fields such as Science, Technology, Engineering, and Mathematics (STEM).
+However,
+safety concerns in higher secondary education persist,
+necessitating further efforts to create a secure learning environment for girls.
+Economic Empowerment of Women: Bridging the Digital Divide
+Economic independence is central to gender equality,
+and India has made remarkable progress in this area.
+Through initiatives like the
+National Rural and Urban Livelihood Missions
+nearly 100 million women have been integrated into financial network
+s via self-help groups, creating entrepreneurship and financial autonomy.
+The expansion of digital financial services
+, particularly through the
+Unified Payments Interface (UPI), has enabled more women to participate in the digital economy.
+Moreover, the
+Deendayal Antyodaya Yojana–National Rural Livelihood Mission has facilitated access to credit, financial literacy programs
+, and entrepreneurship opportunities for millions of rural women.
+In addition,
+the Pradhan Mantri Gramin Digital Saksharta Abhiyan has trained over 35 million rural women in digital literacy
+, ensuring their inclusion in the evolving digital landscape.
+Gender-Responsive Budgeting
+Recognising the importance of financial investment in women’s empowerment,
+India has embraced gender-responsive budgeting.
+share of the Gender Budget
+in the total national budget has
+increased from 6.8% in 2024-25 to 8.8% in 2025-26, with $55.2 billion
+allocated toward gender-specific programs.
+These financial commitments
+highlight India’s dedication to sustaining and expanding its progress toward gender equality.
+Women in Leadership: A Catalyst for Change
+active participation of women in leadership roles has been instrumental
+in driving India’s progress on gender equality.
+Young women are emerging as leaders in climate action,
+digital entrepreneurship, and governance.
+Initiatives
+like the Gender Advancement for Transforming Institutions
+(GATI) Project,
+which supports women in STEM, and the
+G20 TechEquity Platform
+, which has trained thousands of young women in emerging technologies, reflect this transformation.
+Political Representation
+Political representation has also seen a boost.
+Women’s Reservation Bill, which guarantees 33% representation for women in legislatures
+, builds on the success of local governance initiatives that have empowered 1.5 million women leaders, creating the world’s largest cohort of women in political leadership.
+Persistent Challenges in Addressing Gender-Based Violence
+Despite progress in many areas,
+gender-based violence remains a pressing issue.
+Beijing Declaration emphasised the need to eliminate violence
+against women, yet many continue to face abuse and discrimination.
+In response,
+India has established 770 One Stop Centres,
+providing medical, legal, and psychological support to survivors of violence.
+Legal reforms have also strengthened protections for women.
+The Bharatiya Nyaya Sanhita 2023, implemented in July 2024,
+enhances legal frameworks for women’s safety and justice.
+Innovations such as
+Odisha’s blockchain-based system have expedited support services
+for survivors, ensuring confidentiality and efficiency in assistance.
+Additionally,
+partnerships between the United Nations Population Fund and institutions like the Rajasthan Police Academy
+have enhanced gender-responsive policing, improving trust in law enforcement and increasing access to justice.
+While these measures represent progress, further efforts are needed
+to eliminate gender-based violence completely.
+A Roadmap for the Future
+As India marks the 30th anniversary of the Beijing Declaration,
+it reaffirms its commitment to gender equality as a national and global priority.
+While significant progress has been made in health, education, and economic empowerment,
+challenges such as gender-based violence and workplace discrimination persist.
+Strengthening collaborations,
+investing in young women’s leadership, and addressing systemic barriers will be crucial in accelerating progress.
+Conclusion:
+The Beijing Platform for Action continues to serve as a guiding framework
+for India’s journey toward gender equality.
+With
+sustained government efforts
+, strong partnerships, and an unwavering focus on women-led development,
+India is setting a global benchmark for inclusive and sustainable growth.
+Now, more than ever,
+these efforts are vital in shaping a more equitable and just world.
+Click to View More
+Editorial Analysis
+**********Women in Corporate Leadership, the Lived Reality
+Context
+Every year, International Women’s Day serves as a reminder of the progress made toward gender equality
+while also highlighting the ongoing challenges women face in professional spaces.
+Despite corporate efforts to project an inclusive image,
+the reality of women in the workforce, especially in leadership roles, paints a starkly different picture.
+Therefore,
+it is crucial to examine the barriers that hinder women’s participation in leadership roles, the role of legal mandates in gender diversity
+, the benefits of women in leadership, and the necessity of real empowerment rather than symbolic inclusion.
+The Challenges of Women’s Participation in the Workforce
+Limited Opportunities for Advancement
+Women are often underrepresented in middle and senior management roles, leading to a phenomenon known as the
+‘broken rung.’
+This
+refers to the difficulty women face in securing their first promotion
+to managerial positions, which in turn limits their chances of progressing to higher leadership roles.
+lack of women in middle management creates a leadership pipeline issue
+, further reducing their presence in executive roles.
+Preference for Male Leadership Traits
+Corporate cultures often value
+leadership traits traditionally associated with men,
+such as assertiveness and competitiveness, over those associated with women, such as collaboration and empathy.
+This bias can result in fewer women being considered for senior leadership positions
+, even when they possess the necessary skills and experience.
+Glass Ceiling Effect
+It refers to the
+invisible but real barriers
+that prevent women from advancing beyond a certain level in an organisation.
+While entry-level hiring may provide women with initial opportunities, these efforts often do not translate into leadership positions
+due to institutional resistance and deeply ingrained workplace biases.
+Unequal Access to Networks and Mentorship
+Professional growth often depends on
+mentorship, sponsorship, and access to influential networks
+Women, particularly those from underrepresented backgrounds,
+frequently lack access to the same mentorship and sponsorship opportunities that their male colleagues enjoy.
+This lack of professional support further limits their ability to advance within an organisation.
+Unconscious Bias and Stereotypes
+Women frequently face
+unconscious biases
+that question their capabilities, leadership potential, and commitment to their jobs.
+For example,
+women who exhibit strong leadership qualities may be perceived as ‘too aggressive’ or ‘bossy,’
+while those who adopt a collaborative approach may be seen as lacking authority.
+Such biases create a double bind
+, where women must carefully balance their behaviour to be taken seriously as leaders without being penalized for deviating from traditional gender norms.
+The Motherhood Penalty
+One of the biggest challenges for women in the workforce is the
+motherhood penalty,
+where working mothers face discrimination in hiring, promotions, and pay.
+Employers may assume that women with children are less committed to their jobs
+, leading to fewer opportunities for career advancement.
+Additionally,
+workplace policies often fail to provide adequate support for working mothers,
+such as paid maternity leave, flexible work arrangements, and accessible childcare.
+The Role of Legal Mandates in Advancing Gender Diversity
+In some regions,
+legal mandates have been instrumental in increasing women’s representation
+in leadership.
+India,
+for instance, has implemented
+progressive measures to ensure women’s inclusion
+in corporate governance.
+Companies Act of 2013
+requires public limited companies to have at least one female board member, and the Securities and Exchange Board of India (SEBI) mandated that the top 1,000 listed companies appoint at least one independent female director.
+As a result,
+on the boards of
+NSE 500 companies
+has increased from
+5% in 2011 to 18% in 2023.
+hese legal frameworks demonstrate that structured interventions can be effective
+in promoting gender diversity.
+However
+, for such initiatives to translate into meaningful change, companies must go beyond mere compliance
+and actively develop an environment where women can lead and influence decision-making.
+The Benefits of Women in Leadership and the Way Forward
+Research has consistently shown that
+organisations benefit when women hold leadership positions.
+A more diverse leadership team expands the talent pool
+, creates innovative thinking, and improves decision-making.
+Women bring unique perspectives
+derived from varied educational backgrounds, career experiences, and professional networks.
+Their leadership style
+, often characterised by collaboration and inclusivity,
+enhances team performance and stakeholder engagement.
+From a corporate governance perspective,
+women in leadership improve risk management, strengthen shareholder value,
+and drive sustainable business practices.
+ompanies with strong female representation in senior roles are more likely to be recognised
+for their ethical standards and employee-friendly policies.
+Such recognition
+not only enhances corporate reputation but also creates a cycle where
+more women aspire to and attain leadership positions.
+The Way Forward: Moving Beyond Token Representation
+true measure of progress lies in the actual influence
+and decision-making power granted to women in leadership roles.
+Token appointments, where women are placed in positions without real authority,
+do little to advance gender equality.
+Instead,
+companies must ensure that women occupy executive roles, serve as independent directors
+, and lead critical board committees.
+Another key factor in achieving genuine equality is pay parity.
+Women must be compensated at the same level as their male counterparts,
+reflecting their contributions and responsibilities.
+Without equitable pay,
+gender diversity initiatives remain superficial and fail to create lasting change.
+Conclusion
+The rollback of diversity, equity and inclusion programs
+persistence of gender disparities
+in leadership, and the prevalence of tokenism
+all threaten to undermine hard-won gains
+Legal mandates have played a crucial role in developing gender diversity,
+but true progress requires organizations to actively support and empower women in leadership positions.
+Beyond compliance and public relations efforts,
+companies must recognise the tangible benefits of gender diversity and work toward genuine inclusivity.
+Click to View More
+Editorial Analysis
+**********Pashu Aushadhi Kendras
+Why in news?
+The government will launch "Pashu Aushadhi" stores nationwide to provide affordable generic veterinary medicines. This initiative is part of the revised Livestock Health and Disease Control Programme (LHDCP), approved by the Union Cabinet headed by PM Modi.
+The Pashu Aushadhi stores will be managed by
+cooperative societies
+Pradhan Mantri Kisan Samriddhi Kendras (PMKSK
+). The Department of Animal Husbandry & Dairying will soon release operational guidelines for these stores.
+What’s in today’s article?
+Pashu Aushadhi Initiative Based on Janaushadhi Kendras
+Revised Livestock Health and Disease Control Programme (LHDCP)
+Significance of Pashu Aushadhi
+Pashu Aushadhi Kendras to Offer Traditional Medicines
+The Pashu Aushadhi initiative is modeled after the Pradhan Mantri Bharatiya Janaushadhi Kendras (PMBJKs), which offer affordable generic medicines to reduce healthcare costs for citizens.
+Existing Janaushadhi Kendras
+Currently, over 10,300 PMBJKs operate across India under the Department of Pharmaceuticals, Ministry of Chemicals and Fertilisers.
+The country will observe Janaushadhi Diwas on March 7.
+Generic Medicines for Animals
+While PMBJKs provide generic medicines for humans, Pashu Aushadhi Kendras will offer non-branded, cost-effective veterinary medicines for animal healthcare.
+Pashu Aushadhi to Improve Livestock Health
+Recently, the Union Cabinet, chaired by PM Modi, has approved the revision of the Livestock Health and Disease Control Programme (LHDCP) to enhance animal healthcare and disease prevention.
+The Pashu Aushadhi initiative is a key part of the revised LHDCP.
+Components of LHDCP
+National Animal Disease Control Programme (NADCP)
+– Focuses on controlling major livestock diseases.
+Livestock Health & Disease Control (LH&DC)
+– Has three sub-components:
+Critical Animal Disease Control Programme (CADCP)
+– Targets severe animal diseases.
+Establishment and Strengthening of Veterinary Hospitals and Dispensaries - Mobile Veterinary Units (ESVHD-MVU)
+– Provides mobile veterinary services for doorstep healthcare.
+Assistance to States for Control of Animal Diseases (ASCAD)
+– Supports states in tackling livestock diseases.
+Pashu Aushadhi (New Component)
+– Aims to improve access to affordable generic veterinary medicines through PM-Kisan Samriddhi Kendras and Cooperative Societies.
+Financial Allocation for LHDCP
+The LHDCP has a total outlay of ₹3,880 crore for 2024-25 and 2025-26.
+Out of this, ₹75 crore has been allocated for providing quality and affordable generic veterinary medicines and incentives for their sale under the Pashu Aushadhi component.
+Objectives and Benefits of LHDCP
+Disease Prevention
+– Controls Foot and Mouth Disease (FMD), Brucellosis, PPR, Classical Swine Fever, Lumpy Skin Disease, etc., through vaccination and immunization.
+Livestock Healthcare
+– Enhances disease surveillance and strengthens veterinary infrastructure.
+Economic and Social Impact
+– Boosts livestock productivity, prevents economic losses for farmers, generates rural employment, and promotes entrepreneurship in the veterinary sector.
+As per the 20th Livestock Census (2019), India’s livestock population stands at 535.78 million, including 302.79 million bovines (cattle, buffalo, mithun, and yak).
+Impact of Livestock Diseases
+Various diseases like Foot and Mouth Disease (FMD), Brucellosis, Peste des Petits Ruminants (PPR), Cerebrospinal Fluid (CSF), and Lumpy Skin Disease significantly reduce livestock productivity.
+While vaccination drives have been implemented, farmers still face high out-of-pocket expenses on medicines for their animals.
+Role of LHDCP in Disease Prevention
+The Livestock Health and Disease Control Programme (LHDCP) aims to reduce economic losses by preventing livestock diseases through immunization and improving access to affordable veterinary medicines.
+Apart from generic veterinary medicines, Pashu Aushadhi Kendras will also sell
+ethnoveterinary medicines
+which are based on traditional beliefs and indigenous knowledge to treat animal disease
+Ethnoveterinary Formulations for Livestock Health
+National Dairy Development Board (NDDB)
+has compiled
+traditional remedies
+for treating various ailments in bovines.
+This includes Mastitis; Foot and Mouth Disease (FMD) – mouth and foot lesions; Fever; Diarrhoea etc.
+Ingredients in Traditional Animal Medicines
+Ethnoveterinary formulations use natural ingredients such as coriander, garlic, bay leaves, pepper, cumin, turmeric, chirata, betel, tulsi, neem, sweet basil, jaggery, and onions for treating conditions like fever in animals.
+Pashu Aushadhi Kendras.pdf
+( Size:  1012.0 KB  )
+Click to View More
+Economics
+**********USAID’s Contributions in India - Beneficiaries and Initiatives
+Why in news?
+The Trump administration's January 20 Executive Order ends U.S. foreign aid and effectively dismantles USAID, halting several initiatives in India.
+Key affected programs include the development of a secure 5G Open Radio Access Network (O-RAN) under the Indo-Pacific strategy, clean air and water projects, sanitation efforts, and numerous health initiatives.
+USAID has played a significant role in India's health and population sectors for over two decades and, since 2022, has supported systems to counter China's influence in the Indo-Pacific.
+In 2022, USAID was the fourth-largest provider of Official Development Assistance to India, contributing $228 million, following Japan ($2.97 billion), the EU ($383.5 million), and Germany ($235 million).
+What’s in today’s article?
+USAID Funding for India: Key Trends and Allocations
+Impact of USAID Funding Cuts on India and Global Health
+Total Disbursement Since 2001
+USAID has provided $2.8 billion in Official Development Assistance to India since 2001.
+Recent Highs in Aid (2022-2024)
+2022: $228 million (highest annual disbursal).
+2023: $175 million.
+2024: $151 million (as of December 19).
+A sharp rise in funding post-Covid-19 contributed to these record levels.
+Economic Support Fund Surge
+2022: $148 million allocated.
+2023: $81 million allocated.
+This increase was a major factor in the recent peak in US aid.
+Historical Trends and Focus Areas
+2001-2002:
+Majority of funds directed to Food Aid and Commodity Assistance.
+2003-2021:
+Shift toward Health and Population programs, including polio eradication, maternal health, HIV/AIDS, and tuberculosis control.
+2022-2024:
+Focus expanded to include Covid-19 response and economic recovery efforts.
+Comparison with Past Peaks
+The previous peak in annual disbursal was $175 million in 2006.
+The 2022-2024 period marked the first time since 2001-08 that aid exceeded $100 million annually.
+The Trump administration has severely cut USAID funding to curb U.S. economic losses.
+Developing countries in Asia and Africa, including India, will be affected, especially in health and social sector programs with limited government funding.
+Tuberculosis Program at Risk
+Breaking the Barriers, a USAID-funded TB awareness program in Karnataka, Telangana, Bihar, and Assam, will shut down.
+USAID provided $7 million for this initiative in 2022-23 through the Karnataka Health Promotion Trust (KHPT).
+Threat to HIV/AIDS Programs
+USAID and PEPFAR (President’s Emergency Plan for AIDS Relief) have played a major role in the global fight against HIV/AIDS.
+The defunding of USAID has created uncertainty and could lead to lives lost and increased HIV transmission, according to health experts.
+Global Concerns Over Healthcare Funding
+Experts emphasized that rich countries have a responsibility to support healthcare in poorer nations.
+With 50% of the world’s population lacking access to healthcare, the funding cuts pose a severe risk to global health initiatives.
+Legal Battle Over Foreign Aid
+On February 13, a U.S. Federal Court stayed Trump’s order to halt foreign aid.
+The Trump administration appealed to the U.S. Supreme Court, arguing that 5,800 foreign aid projects had been reviewed, with 500 retained.
+In a 5-4 verdict on March 5, the court rejected the US government’s request to cancel the February 13 order of the US Federal Court.
+USAID’s Contributions in India - Beneficiaries and Initiatives.pdf
+( Size:  244.3 KB  )
+Click to View More
+International Relations
+**********India’s AI Push: Launching AI Kosha and Expanding GPU Capabilities
+Why in the News?
+The Union government recently launched
+, a platform with datasets which will assist with developing Artificial Intelligence models and tools.
+What’s in Today’s Article?
+Introduction (Context)
+AI & GPU (Investments in GPU Capacity, Indigenous AI Models, India’s AI Talent, etc.)
+Introduction:
+India is rapidly transforming into a global AI powerhouse under the visionary leadership of Prime Minister Narendra Modi.
+The government’s strategic initiatives, including the
+IndiaAI Mission
+and the launch of
+, aim to democratize access to AI resources.
+The emphasis is on
+scaling computing infrastructure, enhancing data availability, and supporting indigenous AI model development
+With
+₹10,370 crore allocated
+to the
+, the government is making AI computing accessible to startups, students, and researchers through a
+high-performance GPU infrastructure
+an extensive dataset repository
+These initiatives mark a crucial step towards achieving India’s vision of
+Viksit Bharat 2047
+, where AI plays a central role in economic growth and governance.
+AI Compute and GPU Expansion:
+One of the key challenges for AI development is the availability of high-performance computing power.
+Addressing this, the Indian government has made a
+massive investment in GPU capacity
+14,000 GPUs commissioned
+for shared access, up from
+10,000 announced earlier
+in 2024.
+pooled GPU marketplace
+to provide affordable access to AI computing for startups, researchers, and academic institutions.
+GPUs supplied by
+10 selected companies
+, ensuring a
+robust and diversified AI compute ecosystem
+Plans to develop indigenous GPUs within 3-5 years
+, reducing dependency on imports and strengthening India’s self-reliance in AI technology.
+high-performance computing facility
+that allows access to GPUs at a subsidized rate of
+₹100 per hour
+, compared to global costs of
+$2.5-$3 per hour
+This
+infrastructure expansion
+is critical for training and deploying large AI models, particularly in
+Indian languages and contexts
+, enabling
+self-sufficiency in AI research and innovation
+AI Kosha: A Data Platform for AI Development:
+A major bottleneck in AI model development is the availability of high-quality datasets.
+To tackle this, the AI Kosha platform was launched on March 6, 2025, as a repository of non-personal datasets.
+Key Features of AI Kosha:
+316 datasets at launch
+, focusing on AI model validation and language translation tools for Indian languages.
+Data sourced from
+government initiatives
+Telangana’s open data platform, health records, 2011 Census data, satellite imagery, and pollution data
+Part of the
+IndiaAI Dataset Platform
+, which is one of the
+seven pillars of the IndiaAI Mission
+Aimed at
+reducing biases
+improving AI model accuracy
+across various domains such as
+healthcare, agriculture, and traffic management
+By aggregating
+government and publicly available data
+, AI Kosha aims to catalyse innovation and empower startups to develop AI solutions with locally sourced, high-quality datasets.
+Indigenous AI Models and Language Technologies:
+India is making significant strides in building its own foundational AI models, ensuring that AI solutions are tailored to Indian languages and socio-economic needs. Key initiatives include:
+Sarvam-1 AI Model
+– A Large Language Model (LLM) optimized for Indian languages, with 2 billion parameters, supporting text summarization, translation, and content generation.
+BharatGen
+– The world’s first government-funded multimodal LLM, designed to enhance public service delivery and citizen engagement through AI-driven solutions.
+Digital India BHASHINI
+– A language translation AI system that ensures voice-based access to digital services in multiple Indian languages.
+Hanooman’s Everest 1.0
+– A multilingual AI system supporting 35 Indian languages, with plans to expand to 90 languages.
+Chitralekha
+– An open-source video transcreation platform, developed by AI4Bharat, enabling automatic audio transcription and translation in Indic languages.
+These homegrown AI models will reduce dependency on foreign AI technology while ensuring widespread accessibility for Indian users.
+India’s AI Talent & Workforce Development:
+The success of India’s AI revolution hinges on
+developing a skilled AI workforce
+. The government is
+investing in AI education
+through:
+IndiaAI Future Skills Initiative
+– Integrating AI, 5G, and semiconductor design into university curricula under NEP 2020.
+AI Labs in Tier-2 & Tier-3 cities
+– Expanding access to AI education beyond metro cities.
+Fellowships for AI PhD scholars
+– Supporting full-time AI researchers in the top 50 NIRF-ranked institutes.
+India ranks #1 in AI skill penetration globally, ahead of the US and Germany (Stanford AI Index 2024).
+With AI adoption rapidly growing, India’s AI industry is projected to reach $28.8 billion by 2025, generating over 1 million AI-related jobs.
+AI’s Role in Digital Public Infrastructure (DPI):
+Aadhaar, UPI, and DigiLocker
+, is being
+enhanced with AI
+to improve
+governance and service delivery
+One notable application was Mahakumbh 2025, where AI-driven DPI solutions:
+Optimized real-time crowd management using AI-powered railway movement tracking.
+Deployed Bhashini-powered multilingual chatbots for lost-and-found services.
+Integrated AI solutions with Indian Railways & UP Police, ensuring seamless communication and swift issue resolution.
+By leveraging
+AI with DPI
+, India is setting a
+global benchmark for AI-driven governance and event management
+newspaper.pdf
+( Size:  196.2 KB  )
+Click to View More
+Polity & Governance
+**********The Delimitation Debate - Balancing Representation and Federalism
+Context:
+The delimitation issue has resurfaced as
+a contentious political debate.
+Southern states
+, particularly Tamil Nadu and Andhra Pradesh, have raised
+concerns
+over the
+potential impact of population-based representation
+The debate is intertwined with
+North-South demographic differences
+political power distribution.
+The Core Issue - Population-Based Representation:
+The upcoming delimitation exercise
+could reduce the South’s representation
+in the Lok Sabha due to lower population growth.
+Southern states have historically performed
+better
+in the Human Development Index
+(HDI) and economic indicators.
+The demand to freeze the current strength
+of each state in the Lok Sabha is gaining traction.
+North-South Divide and Political Tensions:
+Southern leaders argue that population-based representation would disadvantage them despite their progressive policies.
+The push for Hindi
+perceived centralization
+by the Centre fuels regional tensions.
+However, concerns of
+North Indian domination in Parliament
+remain debatable as numerical advantage have not necessarily translated into policy bias.
+Challenges in Finding a Consensus:
+Freezing the current representation ratio
+maintains the
+balance
+but leads to
+overburdened
+representatives (approx. 20 lakh people per MP).
+Avoiding the North-South binary
+is crucial to prevent further polarization.
+The BJP and Congress face internal contradictions as their state units take opposing stands.
+Potential Solutions:
+A strict population-based delimitation
+could lead to numerical imbalances but aligns with
+constitutional principles
+An alternative approach is to expand the Lok Sabha
+, ensuring no state loses seats while populous states gain additional representation.
+Reforming the Rajya Sabha
+to enhance federal representation could be another option, though it requires constitutional amendments.
+Federalism and Democratic Representation:
+Democracy
+should be interpreted
+beyond numbers
+to include federal balance.
+Past delimitation exercises
+have implicitly recognized this by ensuring small states have at least one Lok Sabha member.
+Expanding the Lok Sabha
+can
+strengthen federalism
+while upholding democratic principles.
+Way Ahead:
+For a genuine debate on the delimitation question, it is necessary to
+avoid two tempting myths.
+In the first place
+, many intellectuals and politicians from the South are tempted to raise alarms about North India's dominance over the South.
+Secondly
+, in the present party-political arena, there is a temptation to see the issue through the prism of the BJP’s dominance.
+The recent statement by the Union Home Minister that states of the South will not lose any seats highlights the extent of
+anti-BJP sentiment on this matter.
+Conclusion:
+The delimitation debate
+must
+move beyond political rhetoric
+to a
+balanced approach
+Leaders must advocate for solutions that maintain both
+democratic and federal integrity
+Expanding representation without reducing existing seats offers a pragmatic way forward.
+Click to View More
+Editorial Analysis
+**********[7th March 2025] The Hindu Op-ed: Women in corporate leadership, the lived reality
+Indian Society
+PYQ Relevance:
+) What are the continued challenges for Women in India against time and space?
+(UPSC CSE 2019)
+Mentor’s Comment:
+UPSC mains have always focused on the
+continued challenges for Women in India against time and space (2019)
+middle-class working women in India
+(2019).
+Recently, the world celebrated International Women’s Day, with companies highlighting their efforts toward including more women in the workforce. However, the reality is different. The rollback of DEI programs in the U.S. threatens women’s participation in corporate America, where they make up 48% of the workforce, raising concerns about identity erasure.
+Today’s editorial talks about issues faced by women. This content is useful for writing answers in GS Paper 1 and GS Paper 2 of the UPSC Mains exam.
+_
+Let’s learn!
+Why in the News?
+International Women’s Day will be celebrated worldwide on March 8, 2025.
+What challenges do women face in entering and advancing in the corporate workforce?
+Gender Bias and Stereotyping:
+Women often face assumptions that they are less competent or less committed due to gender-based stereotypes.
+Example:
+A 2023 McKinsey report found that women are 18% less likely to be promoted from entry-level to managerial roles compared to men, despite similar qualifications.
+Glass Ceiling Effect:
+Systemic barriers prevent women from advancing to senior leadership and executive positions.
+As of 2023, only
+of CEOs in Fortune 500 companies were women, reflecting limited upward mobility for women in corporate hierarchies.
+Work-Life Balance and Caregiving Responsibilities:
+Women are disproportionately responsible for family and household duties, making it harder to manage demanding corporate roles.
+During the COVID-19 pandemic, 1 in 4 women considered downshifting or leaving their jobs due to increased caregiving burdens.
+Unequal Pay and Compensation Disparities:
+Women consistently earn less than their male counterparts for performing similar work.
+In India, the gender pay gap remains around
+19%
+, with women earning significantly less than men for equivalent roles (Monster Salary Index Report, 2022).
+Lack of Mentorship and Sponsorship:
+Women often lack access to influential mentors who can advocate for their promotion and career growth.
+A Harvard Business Review study (2021) revealed that
+64% of women
+reported not having a senior leader to sponsor their career advancement, limiting their growth opportunities.
+Why are legal mandates like the Companies Act, 2013, and SEBI regulations crucial for increasing women’s representation in corporate leadership?
+Ensuring Minimum Representation:
+Legal mandates create a compulsory framework requiring companies to appoint women to leadership positions, ensuring basic gender diversity.
+mandates at least
+one woman director
+on the board of certain public companies, increasing female representation in leadership roles.
+Driving Structural Change:
+Regulations push companies to institutionalize policies that promote gender diversity, fostering long-term cultural and organizational transformation.
+SEBI’s 2015
+directive for India’s
+top 1,000 listed companies
+to have at least
+one independent woman director
+has led to a threefold increase in women’s participation on NSE 500 boards (from
+5% in 2011 to 18% in 2023
+Reducing Gender Bias:
+Legal mandates act as a corrective mechanism against gender-based discrimination by ensuring that women receive leadership opportunities based on merit.
+Following
+mandate, companies actively seek to identify and groom qualified women for board positions, reducing biases in corporate hiring practices.
+Enhancing Corporate Governance:
+Women in leadership roles bring diverse perspectives that strengthen decision-making, risk management, and accountability.
+Research by
+Credit Suisse (2021)
+found that companies with
+at least one woman board member
+show better financial performance and stronger governance frameworks.
+Setting Industry Benchmarks:
+Legal frameworks establish a baseline for gender inclusion, encouraging other companies and sectors to adopt similar diversity policies.
+have inspired several Indian private firms to adopt voluntary policies promoting
+gender-balanced leadership
+, creating a ripple effect across industries.
+How does the presence of women in leadership roles benefit corporate governance?
+Diverse Perspectives and Better Decision-Making:
+Women leaders bring varied experiences and viewpoints, leading to more comprehensive discussions and well-rounded decisions.
+Harvard Business Review (2021)
+study found that boards with at least
+30% women
+make better strategic decisions and are more likely to consider stakeholder interests.
+Enhanced Risk Management:
+Women leaders tend to adopt a more cautious and analytical approach, improving risk assessment and mitigation strategies.
+2019 MSCI report
+showed that companies with
+three or more women
+on their boards experienced
+lower risk
+of governance-related controversies and better compliance practices.
+Improved Corporate Transparency and Accountability:
+Women in leadership roles advocate for ethical practices, ensuring greater transparency and stronger corporate governance frameworks.
+Norway
+, where a
+40% quota
+for women on corporate boards exists, studies have shown increased reporting standards and improved financial disclosures.
+Stronger Stakeholder Engagement:
+Women leaders prioritize relationship-building and stakeholder communication, fostering trust and long-term value creation.
+Indian companies with
+women independent directors
+are more likely to engage with diverse stakeholders and prioritize corporate social responsibility (CSR) initiatives (SEBI Report, 2023).
+Higher Corporate Performance and Reputation:
+Companies with gender-diverse leadership are often recognized as more ethical, responsible, and attractive to investors.
+analysis found that companies with
+on their board had
+higher return on equity (ROE)
+and better market performance over a five-year period.
+What are the steps taken by the Indian government?
+Legislative Mandates for Board Diversity: The Companies Act, 2013
+mandates that certain public companies must appoint
+at least one woman director
+on their boards.
+SEBI Regulations for Independent Women Directors:
+In 2015,
+mandated India’s
+at least one independent woman director
+to ensure greater gender diversity in decision-making roles.
+Gender-Specific Schemes and Incentives:
+Programs like
+Women Entrepreneurship Platform (WEP)
+MUDRA Yojana
+provide
+financial support
+capacity-building
+to encourage women’s participation in corporate and entrepreneurial spaces.
+Awareness and Capacity-Building Initiatives:
+National Commission for Women (NCW)
+conducts
+training programs
+to prepare women for leadership roles and works to address
+workplace discrimination
+harassment
+under the
+POSH Act, 2013
+Way forward:
+Strengthening Policy Implementation and Accountability:
+Ensure
+strict enforcement
+of existing legal mandates (e.g., Companies Act, 2013 and SEBI regulations) with
+regular audits
+penalties
+for non-compliance.
+Introduce
+progressive targets
+for gender diversity, such as mandating
+at least 30% women
+in leadership roles by a specified timeline.
+Promoting Inclusive Workplace Culture and Leadership Development:
+gender-sensitive policies
+flexible work arrangements
+parental leave
+on-site childcare
+to support work-life balance.
+Establish
+mentorship and sponsorship programs
+targeting women, ensuring
+equal access
+to leadership pipelines and executive training.
+**********The academic link between Nepal and India
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+India-Nepal relations;
+Why in the News?
+On February 16, a third-year female student from Nepal died by suicide at Kalinga Institute of Industrial Technology (KIIT) in Bhubaneswar.
+What were the reasons behind the protests by Nepali students at KIIT, Bhubaneswar?
+Harassment and University Inaction
+: Nepali students protested after a third-year Nepali woman student died by suicide, allegedly due to harassment by a male student. Despite multiple complaints, the university failed to take action.
+Example:
+The deceased student had repeatedly reported the harassment to university authorities, but no substantial steps were taken to address her concerns.
+Forced Campus Eviction
+: KIIT ordered Nepali students to vacate the campus following the protests, which was viewed as an unjust punishment against the entire community.
+Instead of addressing the harassment claims, the university’s eviction order further alienated Nepali students, leading to greater unrest.
+Demand for Justice and Fair Treatment
+: Students sought accountability for the harassment and fair treatment under the Indo-Nepal Peace Treaty of 1950, which ensures equal rights for Nepali citizens in India.
+Protesters argued that the eviction violated Articles 6 and 7 of the treaty, which guarantee the right to residence and fair treatment.
+Why is Nepal’s education system being influenced by the colonial legacy of British India?
+Affiliation with Indian Universities
+: Nepal’s first college, Tri-Chandra College (established in 1918), was affiliated with Indian universities (Calcutta and later Patna University), controlling courses, pedagogy, and examinations.
+Dependence on Indian Instructors
+: Early instructors in Nepal’s education system were trained in Indian universities, leading to the adoption of Indian academic frameworks.
+Limited Domestic Higher Education
+: Until Tribhuvan University was established in 1959, Nepal lacked postgraduate education, forcing students to seek higher education in India.
+Colonial Curriculum
+: The content of education remained heavily influenced by British India’s system, limiting the development of Nepal-centric academic discourse.
+Post-1950 Reforms
+: Efforts like the National Educational Planning Commission (1954) and New Education System Plan (1971) aimed to “Nepalise” the system, yet the intellectual field continued to be shaped by Indian education.
+In what way is the KIIT incident linked to the Indo-Nepal Peace Treaty of 1950, especially Articles 6 and 7?
+Violation of Equal Treatment (Article 6):
+Article 6 of the
+ensures that citizens of Nepal and India receive “national treatment” in each other’s territories. The directive for Nepali students to vacate the KIIT campus violated this provision by treating them differently based on their nationality.
+Infringement on the Right to Residence (Article 7):
+Article 7 grants Nepali citizens the right to reside in India without discrimination. KIIT’s order to vacate the premises directly infringed on this right, as it targeted Nepali students exclusively.
+Impact on Educational Access (Article 7):
+The Treaty allows Nepali citizens to pursue education in India without barriers. The disruption of academic activities and the evacuation order restricted their educational access, breaching this provision.
+Way forward:
+Strengthening Institutional Accountability:
+Ensure universities establish robust grievance redressal mechanisms to address harassment complaints promptly and impartially. Independent inquiry committees should be set up to investigate incidents, ensuring transparency and justice.
+Upholding Treaty Commitments:
+Indian institutions must align their policies with the Indo-Nepal Peace Treaty, guaranteeing equal treatment and the right to residence for Nepali students. Regular dialogue between Indian and Nepali authorities can help prevent future violations.
+Mains PYQ:
+Critically examine the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’ with reference to the appointment of judges of higher judiciary in India.
+(UPSC IAS/2017)
+**********Is Artificial Intelligence affecting critical thinking skills?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Implication of AI;
+Why in the News?
+Artificial Intelligence (AI) tools are being used more and more in classrooms worldwide.In India, a study by TeamLease EdTech last year found that over 61% of educators are using AI tools.
+What are the key findings as per the TeamLease EdTech?
+A study by TeamLease EdTech titled “Revolutionising Classrooms: The Impact of Generative AI on the Future of Education” surveyed over 6,000 educators across India, including school teachers and university professors.
+Widespread Adoption of AI Tools
+: Approximately 61.60% of educators are utilizing AI tools for teaching, preparation, and student engagement.
+Recognition of AI’s Transformative Potential
+: Around 64.87% of educators acknowledge that AI has the potential to transform learning experiences and personalize education.
+Preparation for an AI-Dominated Future
+: About 63.61% of educators believe that integrating AI is crucial for preparing students for a future where AI is prevalent.
+Advocacy for AI Regulation
+: A significant 87.85% of educators support government regulation and monitoring of AI development and application to address ethical implications.
+Need for Teacher Training in AI
+: Approximately 54.92% of educators express the need for AI training to ensure teachers are prepared for AI integration in education.
+What are the key concerns regarding the use of AI in education?
+Over-Reliance on AI and Reduced Critical Thinking:
+Students may become dependent on AI-generated responses, leading to a decline in their ability to critically analyze information.
+Example:
+If students use AI tools like ChatGPT for essay writing without verification, they may accept biased or inaccurate information without questioning it.
+Ethical and Privacy Issues:
+AI tools collect and store user data, raising questions about the privacy and security of sensitive academic information.
+Using AI-powered platforms without adequate security may expose student data to third parties, violating privacy regulations like GDPR.
+Unequal Access and Digital Divide:
+Not all students and institutions have equal access to advanced AI tools, widening the educational inequality gap.
+Rural schools with limited technological infrastructure may struggle to implement AI-based learning.
+Why is it important for educational institutions to develop their own AI usage policies?
+Ensuring Ethical and Responsible AI Use:
+Clear policies guide the ethical use of AI, preventing misuse, plagiarism, and data breaches.
+A university policy on AI-assisted research can outline acceptable use, ensuring students disclose AI-generated content in academic work.
+Protecting Student Privacy and Data Security:
+Policies help safeguard sensitive student information and comply with legal standards like GDPR or India’s DPDP Act.
+Schools can restrict AI tools from accessing personal data by enforcing guidelines on how and when these technologies are used.
+Maintaining Academic Integrity and Fair Assessment:
+AI policies uphold the integrity of learning by defining appropriate AI use in assignments and assessments.
+A school policy may allow AI for research assistance but prohibit its use in writing final exam essays to ensure fair evaluation.
+When should AI tools be integrated into the curriculum?
+When Enhancing Personalized Learning:
+AI tools should be introduced when they can tailor educational content to individual student needs, improving learning outcomes.
+Adaptive learning platforms like
+Khan Academy
+Duolingo
+can adjust the difficulty of lessons based on a student’s progress, offering personalized learning paths.
+When Supporting Skill Development for the Future:
+AI should be integrated when it helps students develop critical skills like data analysis, problem-solving, and digital literacy, which are essential for future careers.
+Teaching AI programming using platforms like
+TensorFlow
+Scratch
+can prepare students for careers in technology and data science.
+When Facilitating Innovative Teaching Methods:
+AI tools should be included when they enhance creative and interactive teaching approaches that traditional methods cannot achieve.
+Virtual labs using AI simulations in subjects like biology or physics allow students to conduct experiments safely and repeatedly, improving comprehension.
+How can educators balance the use of AI while fostering critical thinking and analytical skills in students?
+Aligning AI Tools with Specific Learning Outcomes:
+AI should be used when it directly supports and enhances the achievement of clearly defined educational goals.
+If the objective is to improve analytical reasoning, AI-powered data visualization tools like
+Tableau
+can help students interpret complex datasets and draw meaningful insights.
+Enhancing Critical Thinking and Problem-Solving Skills:
+AI should be integrated when it fosters deeper learning by encouraging inquiry, creativity, and solution-oriented thinking.
+AI-driven coding platforms like
+Python Tutor
+can promote computational thinking and logical reasoning through hands-on programming tasks.
+Supporting Assessment and Feedback Mechanisms:
+AI should be used to provide timely, personalized feedback that aligns with the learning objectives and helps track student progress.
+Automated grading systems like
+Grammarly
+Turnitin
+can assist in assessing writing skills and offer constructive feedback to improve academic writing.
+Way forward:
+Develop Comprehensive AI Literacy Programs:
+Equip educators and students with the skills to critically evaluate AI outputs, ensuring responsible and informed use.
+Establish Clear, Adaptive AI Governance Frameworks:
+Implement dynamic policies that balance innovation with ethical standards, ensuring equitable access and academic integrity.
+Mains PYQ:
+Critically examine the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’ with reference to the appointment of judges of higher judiciary in India.
+(UPSC IAS/2017)
+**********Successful PHTA Test of ISRO’s Semi-Cryogenic Engine
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Successful PHTA Test of ISRO's Semi-Cryogenic Engine
+Why in the News?
+ISRO successfully conducted a
+hot test
+on the
+semi-cryogenic engine (SE2000)
+, a key step towards finalizing the cryogenic stage for future launch vehicles. This
+Power Head Test Article (PHTA)
+is the first hardware test for semi-cryogenic engines.
+About the SE2000 Engine
+The
+SE2000 engine
+is a
+semi-cryogenic rocket engine
+developed by
+to enhance propulsion for
+future heavy-lift launch vehicles
+It is designed to
+power the
+booster stages
+of rockets, increasing
+payload capacity and efficiency
+The engine operates on a
+Liquid Oxygen (LOX) and Refined Kerosene (RP-1) combination
+, unlike traditional cryogenic engines that use
+LOX and Liquid Hydrogen (LH2)
+Key features of the SE2000 engine:
+Thrust capability
+: 2000 kN (kilonewtons), making it one of ISRO’s most powerful engines.
+Higher density impulse
+: Provides
+better efficiency
+than LOX-LH2 combinations.
+Cost-effective
+: Kerosene is cheaper and easier to handle than liquid hydrogen.
+Storage advantages
+: Kerosene can be stored at ambient temperatures, unlike liquid hydrogen, which requires
+-253°C for storage
+The engine is expected to enhance the performance of
+LVM3
+and will be used in
+Next Generation Launch Vehicle (NGLV)
+Applications of the SE2000 engine
+Heavy-lift launch missions
+with increased payload capacity.
+Future space exploration programs
+, including
+human spaceflight missions like Gaganyaan
+Reusable launch vehicles
+, contributing to
+cost-effective and sustainable space travel
+What is the PHTA Test?
+PHTA test
+crucial hardware test
+conducted as part of the
+SE2000 semi-cryogenic engine development process
+validate key engine subsystems before full-scale integration and testing
+Purpose of the PHTA test
+Ensure
+subsystems perform as expected
+under operational conditions.
+Evaluate
+pressure, temperature, thrust efficiency, and fuel combustion
+Identify
+potential technical issues
+before moving to
+full engine testing
+previous attempt in July 2023
+was
+aborted due to technical issues
+at ISRO’s
+Mahendragiri facility
+Back2Basics:
+Semi-Cryogenic vs. Cryogenic Engines
+uses
+liquid oxygen (LOX)
+kerosene
+as propellants, making it easier to handle and store than the
+, which uses
+liquid hydrogen (LH2)
+Semi-cryogenic
+engines are
+less efficient
+more cost-effective
+and practical for
+Earth-orbit missions
+Cryogenic engines
+offer
+higher performance
+due to the higher specific impulse of liquid hydrogen but are more complex to store and manage.
+Semi-cryogenic engines strike a
+balance
+between
+cost, efficiency, and simplicity
+PYQ:
+[2018]
+With reference to India’s satellite launch vehicles, consider the following statements:
+1. PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.
+2. Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.
+3. GSLV Mk III is a four-stage launch l vehicle with the first and third stages l using solid rocket motors; and the second and fourth stages using liquid rocket engines.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3
+(c) 1 and 2
+(d) 3 only
+**********UN Committee on Peaceful Uses of Outer Space (COPUOS)
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+In December 2024, a 500 kg metal object crashed in Makueni County, Kenya, highlighting the growing concern over uncontrolled satellite re-entries, for which the UN Committee on the Peaceful Uses of Outer Space (COPUOS) remains accountable.
+It has yet to implement binding regulations on space debris disposal and re-entry control.
+About the UN Committee on the Peaceful Uses of Outer Space (COPUOS)
+The COPUOS was
+established in
+1958
+promote international cooperation in the peaceful use of outer space
+and address legal issues related to space exploration.
+The committee currently has
+102 member states
+(as of 2022) and meets annually in
+Vienna, Austria
+COPUOS plays a key role in
+preventing the militarization of space and ensuring responsible space activity
+Historical Context
+Established following the launch of
+Sputnik in 1957
+, COPUOS was instrumental in
+preventing space from becoming a new conflict zone
+Resolution 1721 (1961)
+declared that
+international law applies
+in outer space and directed states to
+report all space launches to the UN public registry
+Subcommittees
+Scientific and Technical Subcommittee
+(meets in February).
+Legal Subcommittee
+(meets in April).
+Space Treaties overseen by COPUOS:
+COPUOS oversees
+five key UN treaties and agreements
+related to space activities:
+Outer Space Treaty (1967):
+Establishes principles for space exploration and prohibits national sovereignty over celestial bodies.
+Rescue Agreement (1968):
+Governs the rescue and return of astronauts and space objects.
+Liability Convention (1972):
+Defines responsibility for damage caused by space objects, introducing
+absolute liability
+for damages on Earth.
+Registration Convention (1976):
+Requires states to register launched space objects with the UN.
+Moon Treaty (1984):
+Regulates activities on the Moon and other celestial bodies.
+Defining Space Debris in Law
+Space debris has
+no universally accepted legal definition
+in international treaties.
+defines it as
+non-functional man-made objects in Earth orbit or re-entering the atmosphere
+Legal disputes arise
+over whether a piece of debris qualifies as a
+“space object”
+under the
+1972 Liability Convention
+Liability Under International Space Law
+Outer Space Treaty (1967), Article VI
+: States bear responsibility for national space activities, including those by private companies.
+: Introduced “absolute liability”, meaning launching states are automatically responsible for damage caused by space objects.
+However,
+liability enforcement remains weak
+, and affected nations often struggle to claim full compensation.
+PYQ:
+[2014]
+International civil aviation laws provide all countries complete and exclusive sovereignty over the airspace above their territory. What do you understand by ‘airspace’? What are the implications of these laws on the space above this airspace? Discuss the challenges which this poses and suggest ways to contain the threat.
+**********Wolly Mammoth Traits in Mice using Gene Editing
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Recently, Colossal Biosciences has created a “Woolly Mouse” by editing seven genes in mice embryos to mimic the cold-adaptive traits of woolly mammoths.
+What are Woolly Mammoths?
+The Woolly Mammoth (
+Mammuthus primigenius
+) was a
+large, Ice Age herbivore
+that roamed
+Eurasia and North America
+, thriving in
+cold tundra environments
+It had a
+thick woolly coat, a fat layer for insulation, and small ears
+to minimize heat loss.
+Mammoths lived in
+herds
+and primarily fed on
+grasses and shrubs
+They went extinct around
+4,000 years ago
+, likely due to
+climate change, habitat loss, and human hunting
+Scientists believe reviving mammoth-like elephants could help
+restore Arctic ecosystems
+and slow
+permafrost thawing
+About Woolly Mice
+is a
+genetically modified laboratory mouse
+developed by
+to test their
+de-extinction research
+Scientists successfully
+edited seven genes
+, resulting in
+mice with thick, woolly fur
+, mimicking the coat of a
+Key Features of Woolly Mice:
+Genetically engineered for cold-resistant traits
+using DNA modifications.
+Long, thick, wavy fur and curled whiskers
+, resembling mammoth adaptations.
+Created by combining
+multiple genetic variants
+into a
+single organism
+Serves as a
+model organism
+gene-editing techniques
+before applying them to
+Asian elephants
+, the closest living relatives of
+Technology Used in Woolly Mouse Development:
+CRISPR-Cas9
+system was used to
+precisely modify DNA
+identified genes responsible for fur texture, length, and body fat metabolism
+, allowing them to
+engineer cold-resistant traits
+edited seven genes simultaneously
+unprecedented feat
+in genetic engineering.
+Key genes modified included:
+FGF5:
+regulates
+hair growth
+, making it
+longer and thicker
+MC1R:
+controls
+hair color
+, giving the mice a
+golden hue
+similar to mammoth fur.
+Hair follicle structure genes:
+induced
+woolly hair texture, wavy coats, and curled whiskers
+PYQ:
+[2013]
+Recombinant DNA technology (Genetic Engineering) allows genes to be transferred:
+1. across different species of plants
+2. from animals to plants
+3. from microorganisms to higher organisms
+Select the correct answer using the codes given below:
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********J&K to promote Bangus Valley near LoC for Ecotourism
+Prelims Only
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Jammu and Kashmir government
+has announced
+new ecotourism policies
+, a scenic yet lesser-known destination near the Line of Control (LoC) in
+North Kashmir
+.
+About Bangus Valley
+It is situated in
+Kupwara district, Jammu & Kashmir
+, about
+100 km from Srinagar
+Pir Panjal range
+, close to the
+It consists of
+2 valleys
+Boud Bangus (Big Bangus):
+~300 sq km, surrounded by
+Rajwar, Mawar, and Shamasbury ranges
+Lokut Bangus (Small Bangus):
+A smaller valley northeast of
+, known for
+trekking routes
+Its name is derived from
+Sanskrit words “Van” (forest) and “Gus” (grass)
+, meaning
+“Forest of Grass.”
+Connectivity:
+Handwara via Reshwari Mawer
+(shortest and most preferred route).
+Handwara via Rajwar
+(trekking route).
+Kupwara via Chowkibal
+(under development, expected completion by 2025).
+Road connectivity
+via Handwara
+is complete (June 2022).
+Ecological Importance of Bangus Valley:
+Biodiversity:
+Home to
+50+ animal species and 10+ bird species
+Key Mammals:
+Musk deer, antelope, snow leopard, brown bear, black bear, red fox, monkeys.
+Bird Species:
+Tragopan, monal pheasant, black partridge, bush quail, wild fowl.
+Flora:
+Rich in
+medicinal plants and wildflowers
+, supporting
+traditional herbal medicine
+Water Conservation:
+14 tributaries
+, including
+Roshan Kul, Tillwan Kul, Douda Kul
+, feed the
+Pohru River
+Climate Sensitivity:
+Threatened by glacial melt and changing precipitation patterns.
+PYQ:
+[2019]
+Siachen Glacier is situated to the:
+(a) East of Aksai Chin
+(b) East of Leh
+(c) North of Gilgit
+(d) North of Nubra Valley
+**********

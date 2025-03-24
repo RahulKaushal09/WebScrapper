@@ -1,0 +1,797 @@
+Leveraging Transit-Oriented Development to Build Productive Cities
+What’s in Today’s Article?
+Introduction
+Transit-Oriented Development (Meaning, Benefits, Challenges, Case Study, etc.)
+Key Recommendations for TOD
+Way Forward
+Introduction:
+Indian cities are on the cusp of a major transformation in transportation, with an
+estimated ₹3 trillion to be invested in metro rail projects between 2022 and 2027
+This massive investment in public transportation not only aims to enhance urban mobility but also unlock significant economic potential by improving accessibility to jobs and boosting productivity.
+Rise of Transit-Oriented Development:
+To harness the full benefits of investments in mass transit, the Government of India introduced the
+National Transit Oriented Development (TOD) Policy and Metro Rail Policy
+in 2017.
+TOD is an urban planning strategy that integrates land use with transport infrastructure, promoting compact, mixed-use developments and sustainable transport modes such as walking, cycling, and mass transit.
+Currently,
+27 Indian cities are developing metro systems
+, and many more are building other rail- and bus-based transit systems.
+Benefits of TOD:
+TOD offers a promising solution by
+effectively integrating land use and transport
+, decoupling economic growth from congestion and carbon emissions.
+It promotes the
+development of job clusters near transit
+, enhancing workforce productivity and participation.
+Proximity to transit stations
+boosts job densities
+, creating an agglomeration effect that fosters innovation, productivity, and competitiveness.
+Challenges of TOD:
+Public policies and land market conditions have led to the development of economic centers in suburban and peri-urban areas, causing public transport systems to struggle with
+growing urban sprawl
+The increased reliance on private vehicles results in longer commutes, higher congestion, and pollution, all of which
+negatively impact productivity
+and access to job markets.
+For instance, Bengaluru, one of the most congested cities globally, incurs an estimated social cost of ₹38,000 crore annually due to traffic congestion.
+Case Study – Bengaluru:
+A recent study by
+WRI India
+, titled "
+Jobs near Metro Rail Transit in Bengaluru: Enabling an Accessible and Productive City
+," highlights the importance of TOD in Bengaluru.
+The study examines the spatial distribution of jobs around the city's metro network, which includes operational and under-construction phases (Phases 1, 2, and 2A-2B).
+It also assesses the benefits and challenges businesses face when locating near metro stations.
+Key Findings Include:
+Bengaluru has approximately 0.2 million registered enterprises employing around 4.6 million workers, with the service sector accounting for the majority.
+Large enterprises, although only 2% of total enterprises, contribute to 60% of jobs.
+Job densities are highest in inner-city areas, particularly around tech hubs like Whitefield and Electronic City, where densities range from 58,000 to 1,09,000 jobs per square kilometer.
+Once the ongoing metro phases are completed, 28% of mapped jobs in Bengaluru will be within 500 meters of a metro station, 59% within 1 km, and 85% within 2 km, significantly improving access to employment opportunities.
+Key Recommendations for Enhancing TOD:
+To maximize the economic benefits of TOD, the study offers several actionable recommendations:
+Enhance Job Clusters Near Transit
+: Encourage businesses to locate near metro stations to capitalize on increased foot traffic and workforce accessibility.
+Improve Integrated Planning
+: Foster collaboration between urban planners, transport authorities, and businesses to create cohesive development strategies around transit corridors.
+Address Market and Regulatory Challenges
+: Streamline regulatory processes and address market barriers that hinder businesses from setting up near transit hubs.
+Global Examples and Lessons:
+High-functioning cities like
+Hong Kong demonstrate the success of TOD, with 57% of jobs located within 500 meters of a transit station
+Hong Kong’s emphasis on transit connectivity has significantly boosted economic productivity while reducing car ownership and carbon emissions.
+Way Forward:
+To fully leverage TOD, Indian cities need to set ambitious targets for job densities near transit stations and prioritize areas for densification and renewal.
+Public policies should offer incentives such as additional development rights or tax subsidies to encourage businesses to locate near transit.
+Partnerships between public and private sectors, along with value capture financing mechanisms, can fund station area improvements and enhance last-mile connectivity.
+Leveraging transit-oriented development to build productive cities.pdf
+( Size:  852.7 KB  )
+Click to View More
+Economics
+**********SC Strengthening Law Against Child Pornography in India
+Why in News?
+Marking a significant move in the fight against child exploitation, the Supreme Court of India emphasised that the consumption of sexually explicit content involving minors is a severe criminal offence under the
+POCSO Act
+.
+The top court
+overruled a controversial judgement by the Madras HC
+, which held that passive consumption of child pornography did not constitute an offence under the POCSO Act or the Information Technology (IT) Act.
+What’s in Today’s Article?
+The Protection of Children from Sexual Offences (POCSO) Act
+Examining the SC's Decision to Tighten the Law on Child Pornography
+SC’s Recommendations to the Centre to Address the Issue of Child Pornography
+The Protection of Children from Sexual Offences (POCSO) Act:
+About:
+It is the
+first comprehensive law
+in the country enacted in
+2012
+for dealing specifically with sexual abuse of children.
+Administered by the
+Ministry of Women and Child Development
+, the law is
+intended to
+Protect children from sexual assault
+, sexual harassment and pornographic violations.
+Establish Special Courts for such trials.
+2019
+, the Act was amended to strengthen the penalties for specified offences in order to deter abusers and promote a dignified upbringing.
+Key provisions:
+Gender-neutral legislation:
+The Act defines a child as "any person" under the age of 18.
+Non-reporting is a crime:
+Any person in charge of an institution (excluding children) who fails to report the commission of a sexual offence involving a subordinate faces punishment.
+No time limit for reporting abuse:
+A victim may report an offence at any time, even years after the abuse has occurred.
+Keeping victim’s identity confidential:
+The Act forbids the disclosure of the victim's identity in any form of media unless authorised by the special courts established by the Act.
+Concerns:
+Such abuse is on the rise:
+Particularly since the Covid-19 outbreak, when new forms of cybercrime have emerged.
+Lack of awareness or knowledge:
+On the part of minor girls, boys, parents and society as a whole.
+Examining the SC's Decision to Tighten the Law on Child Pornography:
+The provision of the POCSO Act in question:
+The Bench (led by the CJI) expanded the interpretation of
+Section 15
+of the POCSO Act, which deals with the “
+Punishment for storage of pornographic material involving child
+”.
+Section 15 of the POCSO Act:
+It punishes any person, who stores or possesses pornographic material in any form involving a child,
+With an intention to share or transmit child pornography;
+For commercial purposes, etc.
+With a three-to-five-year jail sentence.
+SC’s verdict:
+Section 15 is not limited to punishing the sharing or transmitting of child pornographic material, and
+could even be used to punish the “intent”
+to commit such an act.
+For instance
+, the court held that a failure to “delete or destroy or report” child pornography would allow the court to “indirectly” infer that the concerned individual intended to share or distribute it under Section 15.
+Overturning the Madras HC judgement,
+the SC expanded the definition of “possession”
+in child pornography cases to include cases -
+Where the individual may not have physical possession of child pornographic material.
+But they have the power to control the material in question and the knowledge of exercise of such control.
+The court termed this “
+constructive possession
+” and held that “viewing, distributing or displaying” such material would still amount to it being in the accused’s “possession” under Section 15.
+SC’s Recommendations to the Centre to Address the Issue of Child Pornography:
+Amend the POCSO Act:
+To replace the term “child pornography” with “child sexual exploitative and abuse material” (
+CSEAM
+) to better reflect the nature of the crime.
+Help victims to heal and reintegrate into society:
+By providing psychological counselling, therapeutic interventions and educational support to victims.
+Introducing cognitive behavioural therapy (CBT) programmes:
+To help address the cognitive distortions that fuel such behaviour among offenders.
+Promoting coordinated effort:
+Among educators, health care providers, law enforcement and child welfare services to identify individuals with problematic sexual behaviours early and implement intervention strategies.
+Raising awareness:
+Public campaigns should aim to de-stigmatise reporting and encourage vigilance within the community.
+Formation of an expert committee:
+To devise comprehensive programmes for health and
+sex education
+and increasing awareness of POCSO among children from an early age, and
+To give effect to above suggestions.
+Supreme Court_ Viewing 'child porn' is offence under Pocso, IT Acts.pdf
+( Size:  1.2 MB  )
+Click to View More
+Social Issues
+**********PM Modi meets Palestinian PM Abbas in New York
+Why in news?
+PM Modi met the President of Palestine, Mahmoud Abbas, on the sidelines of the Summit of the Future in New York. The meeting occurred shortly after
+India abstained from voting on a UNGA resolution demanding that Israel end its "unlawful presence" in the Occupied Palestinian Territory
+What’s in today’s article?
+India – Palestine Relation
+Background:
+Evolution of relationship
+India’s support for the Palestinian cause is an integral part of the nation’s foreign policy.
+In 1974, India became the
+first Non-Arab State
+to recognize Palestine Liberation Organization (PLO) as the sole and legitimate representative of the Palestinian people.
+In 1988, India became one of the first countries to recognize the Palestinian State.
+In 1996, India opened its Representative Office in Gaza, which was later shifted to Ramallah in 2003.
+Support at multilateral fora
+India has always played a proactive role in garnering support for the Palestinian cause in multilateral fora.
+India has consistently supported, co-sponsored, and voted in favour of UN General Assembly Resolutions:
+securing the right to self-determination of Palestinians,
+urging Israel’s compliance with legal obligations, and
+its status as a non-member State at the UN.
+In 2011, India also voted in favour of Palestine becoming a full member of UNESCO.
+United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA)
+India supports Palestine and Palestinian refugees through its contributions to UNRWA.
+India is a member of its Advisory Commission since 2020. Since 2002, India has contributed a total of US$ 36.5 million to UNRWA till 2022-23.
+IBSA Cooperation
+India, Brazil, South Africa (IBSA) Fund has also funded four projects in Palestine worth US$ 5 mn approximately.
+Important Bilateral Visits and Political Interactions
+PM Modi paid a historic visit to Palestine in February 2018, the
+first for an Indian Prime Minister
+Developmental Cooperation
+India has provided various forms of developmental cooperation assistance to Palestine over the years. amounting to approximately US$ 141 million.
+India has also provided a total of
+US$ 39 million of budgetary support
+to the Palestinian Authority.
+In July 2021, India offered a Line of Credit worth USD 50 Million to Palestine for implementing developmental and sustainable projects.
+The major development assistance projects executed successfully by India include:
+Palestine-India Techno-Park
+Construction of Jawaharlal Nehru Library at the Al Azhar University in Gaza city
+The Mahatma Gandhi Library-cum-Student Activity Centre at the Palestine Technical College at Deir Al Balah in the Gaza Strip, etc.
+Currently, eight developmental projects are in progress, the details of some of which are as follows:
+Palestinian Institute of Higher Diplomacy in Ramallah;
+National Printing Press at Ramallah;
+Construction of Super-specialty hospital in Ramallah;
+Turathi - Women Empowerment Centres at Ramallah and Gaza; etc.
+Quick Impact Projects (QIPs)
+In 2021-22 India implemented four Quick Impact Projects:
+Rehabilitation of Yasser Arafat Square in Ramallah City,
+Integration of Technology into Education with the Young Scientists Club (Al Muntada),
+Establishing Beitunia Municipality Nursery, and
+Construction of Aqraba Children Park.
+About the news
+During the UN General Assembly (UNGA) session in New York, Prime Minister Modi met Palestinian President Mahmoud Abbas.
+meeting occurred shortly after India abstained from voting on a UNGA resolution demanding that Israel end its "unlawful presence" in the Occupied Palestinian Territory
+The UNGA adopted a resolution calling for Israel to end its occupation within 12 months.
+India, along with countries like Australia, the UK, Germany, and Canada, abstained from voting on the resolution.
+During the meeting, PM Modi express
+concern over the humanitarian situation in Gaza
+He reiterated India's support for the
+early restoration of peace and stability
+in the region and emphasized strengthening the long-standing friendship between India and Palestine.
+India’s Balancing Approach on the Israel-Palestine Conflict
+PM Modi's meeting with Abbas follows a phone call from October 2023, where he expressed condolences for civilian casualties in Gaza and reaffirmed India's position on the Israel-Palestine issue.
+In October 2023, in his first phone conversation with Palestinian President Abbas since the Hamas attack on Israel, PM Modi had reiterated India’s long-standing principled position on the Israel-Palestine issue.
+Later, India sent humanitarian aid for the beleaguered residents of Gaza via Egypt.
+India has consistently sought to balance its stance on the conflict, with PM Modi also expressing solidarity with Israel after the
+October 7 Hamas attacks
+, which he labeled as
+terror attacks
+For Delhi, the diplomatic challenge was to balance between the many sides in West Asia where India has deep strategic ties with Israel on the one hand, and Saudi, UAE, Qatar, Iran and Egypt – to name a few – on the other hand.
+PM Modi meets Palestinian PM Abbas in New York.pdf
+( Size:  2.1 MB  )
+Click to View More
+International Relations
+**********PM Modi Address at the Summit of the Future
+Why in news?
+PM Modi addressed the ‘Summit of the Future’ at the United Nations General Assembly in New York. The theme of the Summit is ‘
+Multilateral Solutions for a Better Tomorrow’
+What’s in today’s article?
+UN General Assembly
+79th UN General Assembly
+Key highlights of the speech delivered by PM Modi
+United Nations General Assembly (UNGA)
+About
+It was established in 1945 under the Charter of the United Nations and is headquartered in New York City.
+It is
+one of the six principal organs
+of the UN and serves as the main policy-making organ of the Organization.
+It provides a unique forum for multilateral discussion of the full spectrum of international issues covered by the Charter of the United Nations.
+Each Member States of the United Nations has an
+equal vote
+Key decisions
+The UNGA also makes key decisions for the UN, including:
+appointing the Secretary-General on the recommendation of the Security Council
+electing the non-permanent members of the Security Council
+approving the UN budget
+Some of the important achievements of UNGA
+Millennium Declaration, adopted in 2000
+2005 World Summit Outcome Document
+17 Sustainable Development Goals (SDGs)formulated in September 2015
+General debate of UNGA
+The Assembly’s annual general debate provides Member States the opportunity to express their views on major international issues.
+On this occasion, the Secretary-General presents on the opening day of the debate his report on the work of the Organization.
+The UNGA 79, held from 10th to 30th September 2024 focuses on accelerating progress toward achieving the 17 SDGs.
+During this, global leaders will address interconnected challenges and adopt the Pact for the Future, which includes a Global Digital Compact highlighting gender equality.
+The 79th session is being
+chaired by Cameroonian President Philemon Yong
+Theme
+– “Leaving no one behind: acting together for the advancement of peace, sustainable development and human dignity for present and future generations”
+On 22-23 September 2024, Heads of State and Government met at the UN Headquarters in New York to address global governance challenges revealed by recent crises.
+The Summit aims to reaffirm commitments to the SDGs and the UN Charter, strengthen cooperation, and lay the groundwork for an improved multilateral system.
+The summit emphasized the importance of international cooperation to tackle critical global challenges such as climate change, poverty, inequality, ongoing conflicts, and health crises.
+- “Multilateral solutions for a better tomorrow”
+The expected outcome of the Summit includes a Pact for the Future, alongside documents like the Global Digital Compact and Declaration on Future Generations.
+Key highlights of the speech delivered by PM Modi at Summit of the Future
+Emphasis on Collective Strength for Global Peace and Development
+PM Modi emphasized that "the success of humanity lies in our collective strength, not in the battlefield."
+He highlighted the need for reforms in global institutions to achieve lasting global peace and sustainable development, advocating for a human-centric approach in tackling global challenges.
+New Theatres of Conflict: Cyber, Maritime, and Space
+PM Modi underscored the emergence of cyber, maritime, and space as new conflict arenas, alongside traditional threats like terrorism.
+He called for global digital governance to ensure the protection of national sovereignty and integrity.
+He also stressed the importance of balanced, global regulation for the safe and responsible use of technology.
+India’s Commitment to Sustainable Development and Global South
+Reflecting on
+India’s success in lifting 250 million people out of poverty
+, PM Modi highlighted the country’s achievements in sustainable development and expressed readiness to share this experience with the Global South.
+He reaffirmed India's belief in "
+One Earth, One Family, One Future
+", as demonstrated in initiatives like One Earth, One Health and One Sun, One World, One Grid.
+India’s Role in Global Governance Reforms
+Modi emphasized the importance of reforming international institutions like the UN Security Council, aligning with India’s aspiration for permanent membership.
+He cited the
+inclusion of the African Union in the G20
+under India’s presidency as an example of such reforms, calling it a step toward making global governance more inclusive.
+Digital Infrastructure for Global Good
+PM Modi advocated for digital public infrastructure to serve as a bridge for global good, offering India's digital infrastructure to the world.
+He stressed that global action must match global ambition in areas such as cyber, maritime, and space security.
+PM Modi Address at the Summit of the Future.pdf
+( Size:  1.6 MB  )
+Click to View More
+International Relations
+**********NBFC sector resilient under scale-based regulations framework: RBI bulletin
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Significance of NBFC sector;
+Why in the News?
+During the transition to the Scale-Based Regulation (SBR) framework, the NBFC sector experienced double-digit credit growth, maintained adequate capital levels, and saw a reduction in delinquency ratios.
+What is Scale-Based Regulation (SBR)?
+The SBR framework was first outlined in October 2021 and became effective on October 1, 2022.
+It aims to categorize NBFCs based on their size, activities, and perceived riskiness rather than merely distinguishing between systemically important and non-systemically important entities.
+What are the key points presented by RBI on the resilience of the NBFC sector?
+Improvement in Asset Quality
+: Since the introduction of the
+framework in October 2022, the asset quality of NBFCs has improved, with lower gross non-performing asset (GNPA) ratios.
+By December 2023, GNPA ratios had decreased to
+2.4%
+for government-owned NBFCs and
+6.3%
+for non-government NBFCs, reflecting enhanced risk management.
+Double-Digit Credit Growth
+: The NBFC sector maintained strong credit growth throughout 2023, driven by a diversified funding base, including retail credit (gold loans, vehicle loans, and housing loans) and expanding into industrial and service sectors.
+Improved Profitability
+: The sector witnessed a rise in profitability, as evidenced by better returns on assets (RoA) and equity (RoE).
+Net NPA (NNPA) Performance
+: Upper layer NBFCs had lower GNPA ratios than middle layer NBFCs, but the latter maintained sufficient provisions for riskier portfolios, ensuring that their NNPA ratios were also controlled.
+Compliance with SBR
+: Major NBFCs in the “Upper Layer” identified by the RBI under the SBR framework, such as
+LIC Housing Finance, Bajaj Finance, and L&T Finance,
+have complied or initiated steps to comply with listing requirements.
+Regulatory measures  taken up by the NBFC sector
+Scale-Based Regulation (SBR) Framework
+: Introduced in October 2022, the SBR framework categorizes NBFCs into different layers based on their size, systemic importance, and risk profile. For instance, strengthen asset quality, capital requirements, and risk management.
+Prompt Corrective Action (PCA) Norms
+: Effective from October 2024, PCA norms will apply to government-owned NBFCs. These measures aim to enhance financial discipline, focusing on capital adequacy and asset quality.
+Diversification of Funding Sources
+: Due to rising risk weights on bank lending, NBFCs have diversified their funding base by reducing dependence on bank borrowings and expanding into secured retail credit.
+Listing Compliance
+: Many NBFCs in the upper layer have complied or are in the process of complying with listing requirements as part of regulatory mandates.
+What are the emerging risks that NBFCs need to cater? (Way forward)
+Cybersecurity Risks
+: With the increasing use of digital platforms, NBFCs need to
+enhance cybersecurity measures
+to safeguard against evolving cyber threats.
+Climate Risk
+: The financial impact of climate change poses a new risk. NBFCs must
+integrate climate-related risks
+into their risk management frameworks to mitigate potential disruptions.
+Financial Assurance Functions
+: The RBI emphasizes that assurance functions like
+risk management, compliance,
+internal audit
+are critical in maintaining resilience in the face of rapid changes in the financial landscape.
+Evolving Regulatory Environment
+: As the financial sector continues to evolve, NBFCs must stay
+ahead of regulatory changes
+and ensure that their risk management practices are aligned with emerging threats and new regulations.
+**********Why Ambedkar and Gandhi disagreed on question of separate electorates for SC’s?
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Poona Pact;
+Mains level:
+Gandhi vs Ambedkar on Caste;
+Why in the News?
+On September 20, 1932, Mahatma Gandhi began a fast unto death in Yerawada Jail, Pune, to protest against the provision of separate electorates for Scheduled Castes.
+Gandhi’s Views on Caste
+: Initially orthodox, Gandhi supported social prohibitions like
+restrictions on inter-dining and inter-marriage
+but later rejected untouchability, referring to untouchables as “Harijans.” However, he did not reject the
+institution of caste itself,
+as it was tied to Hindu religious practices.
+Ambedkar’s Radical Approach
+: Ambedkar believed that to
+truly abolish caste,
+one needed to attack the divine authority of the Hindu scriptures (shastras) that justified it. He argued that
+reforms short of rejecting the religious basis of caste
+were insufficient.
+Ambedkar’s strategy was to focus on
+lower castes
+achieving
+political power
+to challenge their subjugation within the Hindu social order.
+Ambedkar’s Argument for Separate Electorates
+Distinct Identity of Depressed Classes
+: Ambedkar argued that the
+Depressed Classes (Scheduled Castes)
+formed a distinct group, separate from the Hindus. Despite being part of Hindu society, they
+did not enjoy equal treatment
+and were subject to systemic oppression.
+Political Machinery for Representation
+: Ambedkar advocated for separate electorates with a double vote system, where Scheduled Castes would vote for their own candidates as well as in the general electorate.
+Protection from Majority Rule
+: Ambedkar warned that joint electorates would allow the Hindu majority to control the election of Dalit representatives, making it impossible for
+to effectively protect their interests against the tyranny of the majority.
+Why Gandhi Opposed Separate Electorates
+Integration of Lower Castes
+: Gandhi opposed separate electorates because he believed they would
+marginalize lower castes further
+Instead of being restricted to a limited share of seats, Gandhi thought lower castes should aim for
+broader participation
+political leadership.
+Fear of Dividing Hindu Society
+: Gandhi feared that separate electorates would
+divide Hindu society
+, further weakening it.
+He believed this division would help the British continue their
+“divide and rule” policy,
+undermining India’s struggle for independence.
+Strategic Concerns
+: The introduction of separate electorates for Scheduled Castes, in addition to those for Muslims, would
+fragment the Hindu political base
+, reducing the power and influence of upper-caste Hindu leadership.
+Culmination of the Debate: The Poona Pact
+Gandhi’s Fast
+: In 1932, Gandhi went on a fast unto death to oppose separate electorates, pressuring
+Ambedkar to concede
+. Ambedkar, despite his misgivings, agreed to the Poona Pact, which provided for
+reserved seats for Scheduled Castes
+but within a joint electorate.
+Ambedkar’s Dissatisfaction
+: Ambedkar was never fully satisfied with the outcome, believing the
+joint electorate allowed upper-caste Hindus
+to nominate Dalit representatives, effectively controlling their political voice.
+Conclusion:
+The Gandhi-Ambedkar debate on caste culminated in the Poona Pact, with Gandhi opposing separate electorates to maintain Hindu unity, while Ambedkar sought political power for lower castes. Though Ambedkar agreed, he remained dissatisfied with the compromise.
+Mains PYQ:
+Mahatma Gandhi and Dr. B R Ambedkar, despite having divergent approaches and strategies, had a common goal of amelioration of the downtrodden. Elucidate.
+(UPSC IAS/2015)
+**********How Supreme Court strengthened child pornography law?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Effectiveness of POCSO Act;
+Why in the News?
+In a recent ruling, the Supreme Court has tightened child pornography laws, declaring that viewing, possessing, or failing to report such content is punishable under the Protection of Children from Sexual Offences (POCSO) Act, regardless of whether the material is shared or transmitted.
+What is the law in question?
+The Supreme Court expanded the interpretation of
+Section 15 of the POCSO Act
+, which deals with
+“Punishment for storage of pornographic material involving child”.
+In 2019, the POCSO Act was amended to introduce three connected offences under Sections 15(1), (2) and (3) with increasing grades of punishment:
+Any person, who
+stores or possesses pornographic
+material involving a
+child,
+but fails to delete, destroy or report the same to the
+designated authority with an intention to share or transmit child pornography.
+Any person, who stores or possesses such material for transmitting, propagating, displaying or distributing in any manner at any time except for reporting or use as evidence in court.
+Any person, who stores or possesses such material for commercial purpose.
+The court refers to these as
+“inchoate”
+offences – offences in
+anticipation or preparation
+for committing a
+further criminal act.
+About the Case and SC’s Verdict
+Case Background
+: The Supreme Court was dealing with a case where the Madras High Court had quashed criminal proceedings against a man who had downloaded child pornography but did not share it.
+The High Court had
+limited
+its ruling to
+Section 14
+POCSO (using children for pornography)
+and excluded
+Section 15 (punishing possession)
+since no evidence of sharing existed.
+Supreme Court’s Verdict
+The SC overturned the Madras High Court’s ruling,
+expanding the definition
+“possession”
+of child pornography to include
+“constructive possession”
+even without physical storage of the material.
+Viewing, controlling, or exercising knowledge
+over such material (e.g., watching without downloading) was deemed sufficient for possession.
+The SC stressed that even
+failing to delete or report
+such content implies intent to share and is punishable under
+Section 15(1)
+Even if the accused does not have the material at the time of filing the FIR, they can still be held accountable if they had possessed it
+“at any point”
+How will such cases be registered?
+Determination of Intention
+: The court held that the
+intention (mens rea)
+of the accused will be determined based on the circumstances, such as how the material was stored or possessed and why it was not reported or destroyed.
+Actions like
+storing, not deleting, or failing to report
+child pornography can be used as evidence of intent to share or distribute.
+Role of Police
+: The police must not limit their investigation to only one sub-section of
+. Even if a specific offence isn’t made out, the police should explore the possibility of other violations under different sub-sections.
+Reporting Obligation
+: The court emphasized the
+mandatory reporting
+of child pornography, with penalties for failing to report starting from
+a fine of Rs. 5,000
+and increasing for repeat offences.Failure to report, even after merely viewing child pornographic material, can result in legal consequences.
+Conclusion:
+The Supreme Court’s ruling on the POCSO Act broadened the definition of possession, emphasizing that failure to delete or report child pornography constitutes intent to share, with strict penalties for non-compliance, underscoring the obligation to report such content.
+**********How Starlink satellites are ‘blinding’ astronomers?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Starlink Project
+Why in the News?
+, operated by Elon Musk’s
+SpaceX
+, are causing issues for astronomers by disrupting both optical and radio astronomy due to
+unintended electromagnetic radiation (UEMR)
+.
+What is a Starlink Satellite?
+are part of a network created by
+Elon Musk’s SpaceX
+to provide
+high-speed internet
+to remote areas around the world.
+The network, known as a
+satellite constellation
+, currently includes more than
+6,300 satellites
+orbiting Earth at around
+550 km altitude
+These satellites aim to offer internet connectivity to places that would otherwise lack access, especially in
+rural or underserved regions
+Why Radio Astronomy matters?
+Radio astronomy is a branch of astronomy that
+studies
+celestial objects
+radio frequencies
+instead of visible light
+Radio telescopes
+detect
+radio waves
+, which are longer than light waves, emitted by objects in space such as stars, galaxies, and even black holes.
+Radio astronomy is important because it helps scientists
+study the universe
+beyond what can be seen with optical telescopes.
+Radio noise
+from sources like
+can interfere with these observations, making it difficult for astronomers to collect data, similar to how
+bright lights
+can obscure faint stars.
+What Starlink does to Space Communications?
+are designed to improve
+global internet access
+, especially in hard-to-reach places, by transmitting signals from space.
+However, these satellites also emit
+, which causes
+radio noise
+that disrupts
+observations.
+The situation may worsen as more satellites are launched — some estimates suggest
+100,000 satellites
+could be orbiting Earth by
+2030
+There are currently
+no regulations
+controlling how much
+radio pollution
+these satellites can emit, making it harder for
+to mitigate the impact on their work.
+PYQ:
+[2011]
+A layer in the Earth s atmosphere called Ionosphere facilitates radio communication. Why?
+1. The presence of ozone causes the reflection of radio waves to Earth.
+2. Radio waves have a very long wavelength.
+Which of the statements given above is/are correct?
+(a) 1 Only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********Who was Mary Poonen Lukose?
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Mary Poonen Lukose and her contributions
+Why in the News?
+100 years ago, on September 23, 1924, Mary Poonen Lukose became the first woman to join a legislative council in an Indian princely state, entering the Travancore Legislative Council.
+Who Was Mary Poonen Lukose?
+Born on August 2, 1886, in Kerala, she became the first woman from the state to earn a medical degree, specialising in
+gynaecology and obstetrics.
+Her contributions:
+She performed the
+first cesarean section
+in Kerala before
+1920
+, often working under challenging conditions with minimal equipment.
+She started a
+midwifery training program
+for local women, which led to safer home births, reducing risks for mothers and babies.
+As a
+member of the Travancore Legislative Council
+, she influenced
+public health policy
+, using her expertise to benefit the community.
+Records set by Mary Poonen Lukose
+First woman legislator in an Indian princely state:
+In 1924, she became the first woman member of the Travancore Legislative Council (a predecessor to Kerala’s Legislative Assembly).
+First woman graduate from Madras University
+in 1909, despite facing barriers to studying science as a woman.
+First woman Surgeon General of Travancore
+, and possibly the
+first woman Surgeon General
+in the world, in 1938.
+First woman to head the health department
+in Travancore, in 1924.
+Awarded the
+Padma Shri
+1975
+for her contributions.
+PYQ:
+[2013]
+Defying the barriers of age, gender and religion, the Indian women became the torch bearer during the struggle for freedom in India. Discuss. (10 marks-200 words).
+[2011]
+With reference to Indian freedom struggle, Usha Mehta is well-known for
+(a) Running the secret Congress Radio in the wake of Quit India Movement
+(b) Participating in the Second Round Table Conference
+(c) Leading a contingent of Indian National Army
+(d) Assisting in the formation of Interim Government under Pandit Jawaharlal Nehru
+**********Section 107 of the BNSS
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+BNSS, Section 107
+Why in the News?
+The
+Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023
+introduced
+, which focuses on properties classified as
+“proceeds of crime”
+.
+Previously, this term was associated with laws like the
+Prevention of Money Laundering Act (PMLA), 2002
+or within the
+Code of Criminal Procedure (CrPC)
+under provisions for
+attachment and forfeiture
+About
+Section 107 of the BNSS, 2023 pertains to the
+attachment and forfeiture of property
+categorized as
+“proceeds of crime.”
+It grants the
+court
+the authority to attach property at the request of a
+police officer
+during an
+ongoing investigation
+The request must be approved by a
+Superintendent
+Commissioner of Police
+This section gives the
+court unbridled powers
+to attach any property believed to be derived from
+criminal activities
+and, under specific conditions, to
+it to the
+government
+There is
+no requirement
+for the police officer to wait until the completion of the investigation (unlike earlier laws).
+Property can be attached
+during the investigation
+It differs from the
+PMLA, 2002
+, in that there are
+no preconditions
+like documenting the reasons for believing the property is a result of criminal activity.
+After attachment, if the court finds the property to be
+, it can direct the
+District Magistrate
+to distribute the proceeds to the
+affected persons
+60 days
+If no claimants are identified, the proceeds are
+forfeited
+to the government.
+There is a requirement for issuing a
+show-cause notice
+14 days
+for the property attachment, and the court can pass an
+ex parte order
+if no representation is made.
+Its significance
+Empowers Law Enforcement:
+It allows attachment of property during investigations, preventing criminals from hiding or transferring assets.
+Faster Relief for Victims:
+It enables quick distribution of proceeds of crime to affected persons even before the trial concludes.
+Stronger Deterrence:
+It acts as a deterrent by allowing the forfeiture of criminally acquired assets, impacting offenders financially.
+State-Level Enforcement:
+It empowers State governments to manage proceeds of crime, providing more localized control.
+PYQ:
+[2021]
+Discuss how emerging technologies and globalisation contribute to money laundering. Elaborate measures to tackle the problem of money laundering both at national and international levels.
+**********Massive Greenland Landslide
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Greenland Landslide, Dickson Fjord
+Why in the News?
+In
+September 2023
+, seismic stations across the world detected an unusual signal which
+persisted for 9 days.
+It was caused by a
+massive landslide
+Greenland’s Dickson Fjord
+(i.e narrow sea inlet with steep sides or cliffs, created by a glacier).
+About the Massive Greenland Landslide
+The landslide involved a colossal volume of
+25 million cubic metres
+of rock and ice, equivalent to filling
+10,000 Olympic-sized swimming pools
+25 million cubic meters
+of rock and ice, which is enough to fill
+This event caused a
+mega-tsunami
+with waves as high as
+200 meters
+, which significantly impacted the area.
+The seismic waves created by the landslide lasted for
+9 consecutive days
+The loss of such a large amount of
+glacier ice
+highlights how
+global warming
+is speeding up damage to these fragile environments.
+Causes of the Greenland Landslide
+The main reason for the landslide was
+, which caused the
+glaciers
+in Greenland to melt and shrink over recent decades.
+Hvide Stovhorn peak
+glacier had been holding up the mountain slopes, but as it thinned, the rock above it became unstable and eventually collapsed.
+permafrost
+(frozen ground) on the mountain’s steep slopes started
+melting
+because of rising temperatures, making the slopes unstable.
+When the rocks and ice fell into the fjord, it triggered a
+submarine landslide
+(a landslide under water), which made the event even bigger and caused a
+Back2Basics:
+Seismic Waves
+Type
+Sub-Type
+Wave Characteristics
+Speed
+Medium of Travel
+Movement
+Impact
+Body Waves
+P-Waves (Primary Waves)
+• Longitudinal/compressional waves.
+• Fastest seismic waves.
+Fastest (First to arrive)
+Solids and liquids
+Particles move
+back and forth
+in the direction of wave travel.
+First waves to be detected during an earthquake, cause less damage.
+S-Waves (Secondary Waves)
+• Transverse/shear waves.
+• Slower than P-waves.
+Slower than P-Waves
+Solids only
+perpendicular
+to the wave’s direction.
+Follow P-waves, more ground shaking, cause more damage than P-waves.
+Surface Waves
+Love Waves
+• Transverse horizontal motion.
+• Faster than Rayleigh waves.
+Slower than S-Waves
+Earth’s surface
+side to side
+, horizontally.
+Cause significant structural damage.
+Rayleigh Waves
+• Rolling motion.
+• Slowest seismic waves.
+Slowest of all seismic waves
+Particles move in an
+elliptical motion
+(both vertical and horizontal).
+vertical and horizontal ground movement
+, highly destructive.
+PYQ:
+[2021]
+Describe the various causes and the effects of landslides. Mention the important components of the National Landslide Risk Management Strategy.
+**********

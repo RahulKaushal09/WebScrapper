@@ -1,0 +1,461 @@
+How to Realise the Full Potential of Digital Public Infrastructure
+Context
+The adoption of the Global Digital Compact (GDC)
+at the United Nations Summit
+marks a pivotal moment in the realm of digital governance.
+This
+initiative aligns with the multi-phase Universal Safeguards for Digital Public Infrastructure (DPI) launched in 2023 by the Office of the UN Secretary-General’s Envoy on Technology (OSET)
+and the United Nations Development Program (UNDP).
+As digital governance evolves,
+the GDC sets the stage for global cooperation, with India taking a leading role in championing the cause of DPIs,
+especially for the Global South.
+An Analysis of India’s Leadership in Promoting Digital Public Infrastructure (DPI)
+Pioneering Initiatives: Aadhaar and UPI
+At the heart of India's leadership in DPIs is the Aadhaar program
+, the world’s largest digital identity system, which provides unique identification numbers to over 1.3 billion residents.
+Launched in 2009, Aadhaar was designed to ensure that every Indian has a secure and verifiable identity,
+which in turn facilitates access to various public services.
+Aadhaar has
+enabled more efficient delivery of social welfare schemes
+reducing leakages and ensuring that subsidies reach the intended beneficiaries directly.
+In addition to Aadhaar, India's Unified Payments Interface (UPI) has revolutionised the digital payments landscape
+UPI,
+launched in 2016, is an interoperable real-time payment system
+that allows seamless transactions between banks and payment platforms.
+As of August 2024, UPI has facilitated a staggering 14.96 billion digital transactions
+in a single month, making it one of the largest digital payment systems globally.
+By leveraging this digital identity, India has built an extensive ecosystem that connects people to services like banking, health, and education
+, driving financial and social inclusion across the country.
+The Modular Open-Source Identity Platform (MOSIP)
+India's commitment to promoting DPIs on a global scale is further
+demonstrated by its development of the Modular Open-Source Identity Platform (MOSIP).
+MOSIP is a not-for-profit initiative
+designed to help countries build their own digital identity systems.
+It is a customisable, open-source platform
+that provides the technological infrastructure needed for digital identity programs.
+By offering MOSIP to other nations, India has empowered governments to create secure and interoperable digital identity systems
+, without the burden of high licensing costs or the need for proprietary software.
+Driving Economic Inclusion through DPIs
+India’s focus on digital public infrastructure is
+deeply tied to its goal of fostering economic inclusion.
+By providing digital identities, promoting cashless transactions
+, and creating digital ecosystems for financial services,
+India has made significant strides in bringing marginalised communities into the economic fold.
+One of the
+key successes has been the rapid expansion of bank account ownership under the Pradhan Mantri Jan Dhan Yojana (PMJDY
+), which uses Aadhaar to verify identities.
+As a result, bank account ownership among Indian adults increased from 25% in 2008 to over 80% in recent years.
+Existing Challenges and the Need for Impact Assessments
+Despite the enthusiasm surrounding DPIs,
+there are critical challenges that must be addressed.
+UN’s safeguard framework stresses the importance of managing and regulating the deployment of DPIs to ensure that they remain inclusive, accessible
+, and effective.
+This is
+especially crucial as DPI initiatives become more widespread, both in foundational areas such as digital identity and payments and in sectoral applications
+like healthcare and education.
+Necessity of Impact Assessment
+The necessity of impact assessments for DPIs is
+particularly significant in India, where these infrastructures have driven notable advancements
+For instance, the rate of bank account ownership among adults in India rose from 25% in 2008 to over 80% in recent years,
+with women owning 56% of these accounts.
+Furthermore,
+digital transactions have become a major economic driver, contributing to nearly 50% of India’s nominal GDP
+in the fiscal year 2022-23.
+These
+achievements have also facilitated access to credit through pre-sanctioned loans on platforms like UPI.
+However,
+beneath these impressive figures lie complex questions about the true impact of DPIs on people’s lives, especially regarding their livelihoods
+, income, and social agency.
+Necessary Measures to Overcome the Challenges Associated with Impact Assessments
+Integration of Impact Assessment During Design Phase
+Integrating impact assessment mechanisms during the design phase of DPIs can
+ensure that data is collected systematically from the outset.
+Much like privacy and security considerations,
+data collection capabilities must be built into DPI systems to create a continuous feedback loop.
+approach would allow for regular monitoring and adjustments, ensuring that DPIs remain effective
+and equitable.
+Transparent and Secure Data Collection System
+The second pillar, data, involves making relevant information accessible
+through trusted and well-governed mechanisms.
+Government agencies often prioritise data minimisation to prevent misuse,
+but this caution can hinder effective assessments.
+By building trust with citizens
+and the private sector through transparent and secure data collection systems,
+higher quality assessments can be achieved.
+Moreover,
+technical advancements are necessary to enhance data discoverability and utility,
+enabling more precise evaluations of DPI impacts.
+Dialogue Among Stakeholders
+Creating an atmosphere of dialogue among stakeholders is essential for building a community
+that includes policymakers, third-party assessment agencies, the private sector, and civil society.
+Engaging these actors in regular conversations can facilitate participative governance,
+fostering accountability and encouraging shared responsibility for the success of DPIs.
+Establishing clear protocols for such engagement will ensure that all voices are heard,
+driving continuous improvement in the design and implementation of digital infrastructures.
+India's Influence on Global Digital Policies, Future Role and the Path Forward
+India's success with Aadhaar and UPI has positioned it as a thought leader
+in global discussions on DPIs.
+During its G20 presidency, India has championed the idea that DPIs can be a powerful tool
+for accelerating development in low- and middle-income countries.
+By sharing its experience and best practices,
+India has sought to encourage other nations to adopt similar approaches to building digital infrastructures
+that are inclusive, scalable, and secure.
+Influence Beyond Policy Advocacy
+The World Bank’s ID4D (Identity for Development) initiative,
+which supports nearly 60 countries in building foundational identification systems,
+draws on lessons from India’s Aadhaar model.
+Similarly, the G2Px program, which focuses on digitising government-to-person payments, benefits from India’s experience
+with direct benefit transfer schemes that leverage digital identity.
+initiatives reflect a growing recognition of the need to create inclusive digital ecosystems,
+where foundational infrastructure like digital identity and payment systems serve as the bedrock for broader digital transformation.
+India’s Future Role and the Path Forward
+India’s confidence in the transformative potential of DPIs is well-founded,
+but it must also be matched with a commitment to thorough and regular impact assessments.
+By institutionalising such assessments, India can take timely corrective actions when needed,
+ensuring that the promise of DPIs is fully realized.
+This approach will not only help in transforming economies but also in improving the lives of millions of people
+across the country and beyond.
+Conclusion
+adoption of the Global Digital Compact represents a significant step
+towards global cooperation in digital governance.
+As DPIs gain prominence,
+India's leadership and experience provide a valuable blueprint for other nations.
+Yet, the path forward requires careful attention to the challenges
+of impact assessments, data collection, and inclusive governance.
+Click to View More
+Editorial Analysis
+**********Climate Finance to Developing Nations
+What’s in Today’s Article?
+Introduction (Context, Climate Finance, Need for Climate Finance)
+India’s Climate Finance Needs (Challenges, NCQG, etc.)
+Conclusion
+Introduction:
+The issue of
+climate finance
+is a critical topic in global discussions on climate change.
+As the world faces increasingly severe environmental challenges, the burden falls disproportionately on
+developing nations
+These countries often bear the brunt of climate impacts, such as floods, droughts, and extreme weather events, while having contributed the least to global emissions.
+29th Conference of the Parties (COP29)
+, scheduled to be held in
+Baku, Azerbaijan
+from
+November 11 to 22, 2024
+, will focus heavily on climate finance, making it a crucial meeting for addressing this global inequality.
+What is Climate Finance?
+According to the
+United Nations Framework Convention on Climate Change (UNFCCC)
+, climate finance refers to
+local, national, or transnational financial flows
+that support efforts to
+mitigate
+adapt
+to climate change.
+These funds can come from
+public
+private
+alternative sources
+Key uses of climate finance include:
+Mitigation
+: Reducing or preventing greenhouse gas emissions.
+Adaptation
+: Helping vulnerable regions and communities adapt to the impacts of climate change.
+Developed countries
+are expected to contribute the bulk of climate finance, given their historical responsibility for emissions, while
+need this support to manage both their developmental needs and climate action.
+Why Do Developing Nations Need Climate Finance?
+Developing countries are among the
+most vulnerable
+to climate change due to:
+Geographical factors
+: Many are located in regions more prone to extreme weather conditions.
+Economy reliance on agriculture
+: Sectors like agriculture, which are particularly sensitive to climate change, are often the backbone of their economies.
+Limited resources
+: These nations have fewer financial and technological resources to adapt to climate change or recover from climate-related disasters.
+For example, the
+International Energy Agency (IEA)
+reported that in
+2021
+, around
+675 million people
+in the developing world lacked access to electricity.
+These countries face not only developmental challenges but also the urgent need for climate-friendly energy solutions, which are often more expensive​.
+About
+Copenhagen Accord:
+The Copenhagen Accord is a political agreement that was reached in 2009 at the 15
+session of the UNFCCC.
+At the
+, developed nations pledged to provide
+$100 billion annually
+in climate finance by
+2020
+to help developing countries combat climate change.
+However, this goal has not been fully realized. Key issues with this commitment include:
+Over-reporting
+: Developed nations often report
+commitments
+rather than actual
+disbursals
+of funds.
+Reclassification of aid
+: Existing development aid is sometimes rebranded as climate finance, reducing the impact of new and additional funding.
+Loans vs. Grants
+: A significant portion of the reported climate finance consists of loans, not grants, adding to the debt burden of developing countries.
+For instance, in
+2022
+69.4%
+of international public climate finance was in the form of loans, with only
+28%
+provided as grants.
+Developing nations argue that climate finance should be predominantly
+or at least
+concessional loans
+(loans with low-interest rates), to avoid increasing their financial burdens.
+India’s Climate Finance Needs:
+India is a prime example of a country with ambitious climate goals but significant financial needs. India’s climate targets include:
+500 GW of non-fossil fuel capacity by 2030
+5 million metric tonnes of green hydrogen (GH2)
+production capacity annually.
+Electric Vehicle (EV) penetration
+across various categories by 2030.
+The cost to achieve these goals is enormous:
+An estimated
+₹16.8 lakh crore
+will be required for renewable energy projects by 2030.
+Green Hydrogen Mission
+alone requires an additional
+₹8 lakh crore
+in investments.
+To meet its
+electric vehicle (EV)
+targets, consumers will need to spend
+₹16 lakh crore
+on EVs​.
+Looking further ahead,
+India requires ₹850 lakh crore in investments between 2020 and 2070
+to meet its
+net-zero emissions
+New Collective Quantified Goal (NCQG):
+As the current $100 billion climate finance target expires in 2025, there is a push for a new, more ambitious goal, called the
+. The
+must include:
+Actual disbursals
+, not just commitments.
+New and additional funding
+, beyond existing aid.
+Public capital
+in the form of direct grants.
+Mobilized private capital
+that results from public funding initiatives.
+A high-level expert group at
+COP26
+COP27
+determined that developing countries (excluding China) will need around
+$1 trillion
+in external climate finance annually by
+Challenges in Climate Finance:
+The road to securing adequate climate finance for developing countries is fraught with challenges:
+High capital costs
+: Developing countries often face
+twice the cost
+of capital for green technologies, such as solar photovoltaics, compared to developed nations.
+Competing developmental needs
+: Developing nations need to balance economic growth with climate action, often needing external financial support to do so.
+Conclusion:
+As the world prepares for
+, climate finance remains at the forefront of global negotiations.
+Developing countries, including India, need substantial external financial assistance to meet their climate goals and adapt to the growing impacts of climate change.
+The ongoing debate around the
+$100 billion commitment
+and the push for a more ambitious
+highlights the urgency for
+developed countries
+to fulfil their responsibilities and ensure that
+vulnerable nations
+have the resources they need to fight climate change effectively.
+On climate finance to developing nations.pdf
+( Size:  246.0 KB  )
+Click to View More
+Environment & Ecology
+**********Rising Dependence on Agriculture for Livelihoods in India
+Why in News?
+The landscape of rural India is undergoing a significant transformation, as indicated by the recent All India Rural Financial Inclusion Survey for 2021-22.
+This survey (commissioned by NABARD) reveals a noteworthy increase in the proportion of rural households reliant on agriculture for their livelihoods, signifying a break from a decades-long pattern of dwindling rural agricultural links.
+What’s in Today’s Article?
+Growing Agricultural Households in India
+How the COVID-19 Impacted this Trend of Rising Agricultural Households and Income?
+Rising Agricultural Dependency Amid Economic Growth
+Way Ahead to Address the Rising Dependence on Agriculture for Livelihoods in India
+Growing Agricultural Households in India:
+Statistical insights:
+According to survey,
+57% of rural households were classified as "agricultural" in 2021-22
+, a considerable rise from 48% in 2016-17.
+The survey defines
+an agricultural household
+as one that produces crops or livestock worth more than Rs 6,500 (Rs 5,000 in the earlier survey) and has at least one member engaged in self-employment in agricultural activities.
+Income comparison:
+The average monthly income for agricultural households stood at
+Rs 13,661 in 2021-22
+, surpassing the Rs 11,438 for non-agricultural rural households.
+Notably, agricultural households have seen their income from farming rise to over 45% of their total income, an increase from 43.1% in 2016-17.
+This trend spans across various land sizes, illustrating a broad-based rise in agricultural income.
+Lockdown effects:
+The survey period coincided with the aftermath of COVID-19 lockdowns, which significantly impacted economic activities across sectors.
+Agriculture was exempt from many restrictions
+, potentially leading to an overestimation of its share in rural livelihoods.
+The favourable monsoon seasons from 2019
+further supported agricultural productivity, suggesting a complex interplay between external factors and survey results.
+Labour force dynamics:
+According to the National Sample Survey Office’s (NSSO) Periodic Labour Force Surveys (PLFS), agriculture engaged 64.6% of the country’s workforce in 1993-94.
+That share fell to 58.5% in 2004-05, 48.9% in 2011-12, and a low of 42.5% in 2018-19.
+However, post-2019,
+the farm sector’s share of the employed labour force rebounded
+, with figures rising to 45.6% and 46.5% in the pandemic years.
+Rising Agricultural Dependency Amid Economic Growth:
+The paradox:
+Despite the Indian economy experiencing robust growth, with an annual GDP increase of 8.3% in recent years, agricultural dependency has persisted.
+The proportion of the rural workforce engaged in agriculture rose from 57.8% in 2018-19 to 59.8% in 2023-24.
+This trend presents a paradox:
+why is a growing economy relying more on agriculture?
+Structural employment issues:
+This paradox can be partly explained by the
+stagnation in manufacturing employment
+, which accounted for only 11.4% of the workforce in 2023-24, down from previous years.
+The movement of surplus labour
+does not appear to be transitioning from agriculture to manufacturing; instead,
+it is shifting to informal sectors
+with similar low productivity and wage characteristics.
+Regional disparities in agricultural employment:
+According to the PLFS data for 2023-24, States like Chhattisgarh (63.8%), MP (61.6%), and UP (55.9%) have high agricultural workforce shares, while states like Goa (8.1%) and Kerala (27%) exhibit much lower dependence on agriculture.
+These variations highlight regional economic conditions and the effectiveness of rural development initiatives.
+Way Ahead to Address the Rising Dependence on Agriculture for Livelihoods in India:
+The rising dependence on agriculture for livelihoods in India
+necessitates a thorough examination of underlying causes
+As the economy grows, the challenge remains to
+create sustainable employment opportunities outside of agriculture.
+Policymakers need to focus on
+strengthening the agricultural sector while simultaneously promoting diversification into higher productivity sectors
+Understanding this paradox is crucial for
+crafting effective strategies
+that ensure balanced economic growth and improved livelihoods in rural India.
+Comeback of krishi in Bharat.pdf
+( Size:  1.2 MB  )
+Click to View More
+Economics
+**********India’s Shift to a Cautious Approach in Trade Negotiations
+Context:
+India is adopting a more cautious strategy in its trade negotiations, halting talks for free trade agreements (FTAs) with smaller countries like Oman and Peru. This shift is due to concerns that past FTAs have disproportionately benefitted partner countries.
+The pause in negotiations comes not only due to the widening trade gap but also concerns over the outflow of investment from the country.
+What’s in today’s article?
+Widening Trade Deficit with FTA Countries
+Strategies employed by India to address the issue
+Challenges faced by India in trade negotiation
+Background
+India’s trade agreements with countries like the UAE and ASEAN have resulted in surging imports, widening the trade deficit.
+Deficit with ASEAN
+ASEAN remains a crucial trading partner for India, accounting for 11 percent of its global trade, with bilateral trade reaching US$ 122.67 billion during 2023-24.
+India’s trade with ASEAN experienced astounding growth after signing the ASEAN-India Trade in Goods Agreement (AITIGA).
+However, the trade disproportionately benefits the ASEAN region.
+Between FY 2009 and FY 2023, imports from ASEAN to India grew by 234.4 percent while exports from India rose only by 130.4 percent.
+As a result, India’s trade deficit expanded from US$ 7.5 billion annually when the agreement was enacted in 2011 to approximately US$ 44 billion in 2023.
+Deficit with UAE
+India's trade deficit with the United Arab Emirates (UAE) widened after the signing of the Comprehensive Economic Partnership Agreement (CEPA) in May 2022.
+Within eight months of the CEPA coming into effect, India's trade gap with the UAE widened by more than $5 billion.
+India's exports to the UAE grew by 11% to $20.25 billion, while imports climbed 24.4% to $36.23 billion.
+Development of a New SOP
+The Commerce Ministry is drafting a fresh Standard Operating Procedure (SOP) to streamline future trade negotiations.
+The SOP will include modern chapters on labor, environment, and trade-offs, with a clear focus on human resource mobilisation and the hierarchy of negotiating teams.
+The draft also includes input from the Ministry of External Affairs (MEA) and the Department of Economic Affairs (DEA), referencing consultancy private group.
+Shift in Focus to Larger Markets and Geopolitically Important Countries
+India is now focusing on trade deals with larger markets such as the European Union and the UK, and countries of geopolitical importance like the Maldives.
+Negotiations with smaller countries are paused, as India feels it has not received commensurate returns in past agreements.
+India opens a large market for the partner country, but there is a sense that it is not receiving commensurate returns.
+Reviewing Past FTAs and Tariff Asymmetry
+India is reviewing the ASEAN trade agreement, which has led to significant trade deficits post-Covid.
+The review is expected to be completed by next year, focusing on resolving tariff asymmetry, which has disadvantaged India in these deals.
+Stringent norms for Rule of origin and imposition of anti-dumping duties
+The rising influx of Chinese investments and goods into ASEAN has sparked concerns over the rerouting of Chinese products into India through the region.
+The Economic Survey highlighted that
+Chinese firms are increasingly rerouting supply chains through countries like Mexico and Vietnam
+In response, India's Ministry of Commerce and Industry launched an anti-dumping investigation on various goods imported.
+India is also taking a tough stand on the issue of rule of origin while negotiating with other countries.
+Current Negotiating Capabilities
+One of the main challenges for India is the lack of subject matter expertise and institutional memory in trade negotiations.
+In contrast, foreign negotiators tend to have more experience, putting India at a disadvantage.
+Foreign negotiators are battle-hardened with years of expertise in negotiations, unlike in India where officials are rotated periodically.
+Exit from RCEP and Concerns over Rising Imports from China
+India exited the China-led Regional Comprehensive Economic Partnership (RCEP) negotiations due to concerns over rising imports from China.
+Meanwhile, trade between China and ASEAN grew after RCEP came into effect in 2022, increasing competition for India in the region.
+Other challenges
+Global economic slowdown, the rise of tariffs and non-tariff barriers, and new trade policies such as the EU’s Carbon Border Adjustment Mechanism and Deforestation Rules as major challenges.
+India’s Shift to a Cautious Approach in Trade Negotiations.pdf
+( Size:  2.8 MB  )
+Click to View More
+International Relations
+**********The Huge Cost of Moving Away From Coal
+Context:
+A recent study by iForest (International Forum for Environment, Sustainability and Technology) reveals that India will need over $1 trillion (Rs 84 lakh crore) over the next 30 years for a just transition away from coal. The study, the first of its kind, estimates the costs of phasing down coal mines and plants while ensuring socio-economic stability in coal-dependent regions.
+What’s in today’s article?
+Coal Resource in India
+Ensuring a Just Energy Transition in India
+International Support for Coal Phase-Down – Case Studies
+Findings from the Study of Coal-Dependent Districts in India
+Statistics
+According to the National Coal Inventory of 2023, the total estimated coal reserve (resource) of India is
+378.
+21 billion tonnes as of 01.04.2023.
+Coal Production
+The all India Production of coal during
+2023-24
+was
+997. 83 MT
+with a positive growth of
+11.71%.
+Coal Import
+As per the present Import policy, coal can be freely imported (under Open General Licence) by the consumers themselves considering their needs based on their commercial consideration.
+Coking Coal is being imported by Steel sector mainly to bridge the gap between the requirement and indigenous availability and to improve the quality.
+Other sectors like Power sector, cement etc. and coal traders are importing non-coking coal.
+Total coal import during 2023-24 was 261 million tonnes.
+About Just Energy Transition and challenges associated
+A "just" energy transition refers to an equitable and inclusive shift towards a low-carbon economy that takes into account the needs of workers and communities dependent on fossil fuels.
+As the world's second-largest coal producer, India employs a vast number of individuals in coal mining, thermal power plants, logistics, and related sectors.
+Public sector coal companies alone employ over 3.6 lakh workers, with many more in the private sector.
+As India aims for net-zero emissions by 2070, growing its renewable energy capacity will be crucial.
+However, ensuring that coal-dependent workers and regions are not left behind in this transition poses a major financial challenge.
+Balancing economic stability with climate goals will require significant investment
+Costs associated with a just transition
+A study on India's just transition from coal, based on assessments of coal-dependent districts and international examples from South Africa, Germany, and Poland, identified eight key cost components.
+These include:
+mine closures and site repurposing,
+retiring coal plants and converting them to clean energy,
+skilling workers for green jobs,
+fostering new businesses,
+community support,
+green energy investments,
+compensating states for revenue loss, and
+planning costs.
+Nearly 48% of the estimated $1 trillion required over the next 30 years will be needed for green investments
+to replace coal-based energy infrastructure with cleaner alternatives.
+Source of funds for this transition
+Funding India’s just transition away from coal will require a mix of public and private investments.
+Public funding, through grants and subsidies, will primarily address "non-energy" costs such as community support, skilling coal workers for green jobs, and aiding new businesses.
+India’s $4 billion District Mineral Foundation funds, collected from miners, along with Corporate Social Responsibility (CSR) funds, can be used to support new businesses and coal-dependent communities.
+Private investments, on the other hand, are expected to cover most of the "energy costs," focusing on developing clean energy projects and green infrastructure.
+South Africa’s Just Energy Transition
+South Africa’s Just Energy Transition Investment Plan (JET-IP) will receive international financial support from countries such as the UK, France, Germany, the US, the EU, the Netherlands, and Denmark.
+The plan requires $98 billion over two decades, with $8.5 billion to be provided between 2023-2027.
+Most of the funds will go towards green energy investments, with financing through concessional loans, grants, and public-private partnerships.
+Germany’s Legislative Action on Coal Phase-Out
+Germany has enacted legislation to phase out coal power by 2038, with over $55 billion allocated to close coal mines and power plants.
+The funds will also be used to support coal-dependent regions by fostering economic development.
+The study focused on four coal-dependent districts: Korba (Chhattisgarh), Bokaro and Ramgarh (Jharkhand), and Angul (Odisha), to assess their reliance on coal and estimate the costs of a just transition.
+In Bokaro,
+coal-based industries contribute 54% of the district's domestic product, employing around 1,39,000 workers in coal mining, power plants, and related sectors like steel and cement
+The study estimates that a full coal phase-down in Bokaro will begin after 2040 and will require Rs 1.01 lakh crore over 30 years to rehabilitate workers, repurpose coal sites, and develop green energy infrastructure.
+The Huge Cost of Moving Away From Coal.pdf
+( Size:  2.7 MB  )
+Click to View More
+Economics
+**********

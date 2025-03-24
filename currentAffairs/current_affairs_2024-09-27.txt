@@ -1,0 +1,813 @@
+Deeptech: Revolutionizing the Future of Technology
+What’s in Today’s Article?
+Introduction (About Deeptech, Characteristics, Challenges, etc.)
+National Deeptech Startup Policy (Objectives, Features)
+News Summary
+Introduction:
+Deeptech, or deep technology, refers to cutting-edge innovations rooted in scientific and engineering breakthroughs.
+Unlike traditional tech companies that often focus on software or app development, deeptech ventures delve into complex technologies that have the potential to disrupt industries and address significant global challenges.
+These technologies include
+artificial intelligence
+(AI),
+robotics
+quantum computing
+biotechnology
+blockchain
+advanced materials
+, and more.
+Key Characteristics of Deeptech:
+Scientific and Engineering Foundations
+: Deeptech is built on scientific research, engineering advancements, and sophisticated algorithms. It often involves long-term research and development (R&D) and requires a deep understanding of the underlying science.
+High Entry Barriers
+: Deeptech ventures typically have high entry barriers due to the need for specialized knowledge, substantial capital investment, and complex development processes.
+Significant Impact Potential
+: Deeptech solutions aim to solve critical problems in various sectors such as healthcare, energy, manufacturing, and agriculture. They have the potential to create substantial economic value and drive societal change.
+Extended Development Timelines
+: Unlike typical tech startups that can scale rapidly, deeptech companies often face extended timelines due to the need for rigorous testing, prototyping, and validation before reaching the market.
+Present Challenges Facing Deeptech:
+High R&D Costs
+: The development of deeptech solutions requires significant investment in research, infrastructure, and talent, making it difficult for startups to secure funding.
+Commercialization Barriers
+: Converting deeptech innovations into market-ready products involves overcoming technical, regulatory, and market acceptance hurdles.
+Talent Shortage
+: There is a growing need for specialized talent in fields such as quantum computing, AI, and biotechnology, but the supply of skilled professionals is limited.
+Long Time-to-Market
+: The extended timelines for development and regulatory approval can deter investors looking for quicker returns.
+Future of Deeptech:
+The future of deeptech is promising, with increasing investment and support from governments, academia, and private sectors.
+As deeptech continues to evolve, it will play a pivotal role in shaping industries and enhancing human life.
+Governments and private investors are recognizing the importance of supporting deeptech ventures through funding, incubators, and policy frameworks.
+National Deeptech Startup Policy:
+India's National Deeptech Startup Policy is a strategic initiative
+aimed at fostering the growth of deep technology startups in the country
+Deeptech startups, which are rooted in advanced scientific and engineering innovations, play a critical role in driving India’s technological leadership and addressing complex challenges in sectors such as healthcare, agriculture, energy, and manufacturing.
+Objectives of the Policy:
+Promoting Innovation
+: Encourage the development of cutting-edge technologies through R&D support, grants, and innovation hubs.
+Facilitating Access to Capital
+: Provide financial assistance and incentives, including venture capital, government grants, and tax benefits to startups in the deeptech domain.
+Building Infrastructure
+: Establish dedicated incubators, accelerators, and test beds for deeptech innovations to bridge the gap between research and commercialization.
+Developing Skilled Talent
+: Strengthen educational programs and skill development initiatives to create a robust talent pool in advanced technological fields.
+Streamlining Regulations
+: Simplify regulatory frameworks to enable faster approvals and reduce barriers for deeptech startups, including intellectual property rights (IPR) protection and export controls.
+Key Features of the Policy:
+Funding Support
+: Creation of funds like the Startup India Seed Fund Scheme and deeptech-specific funds to provide initial and growth-stage funding to startups.
+Collaboration with Academia and Industry
+: Promote partnerships between academic institutions, research labs, and industry to accelerate innovation and technology transfer.
+Incentives for R&D
+: Offer incentives such as reduced taxes, grants, and subsidies to encourage R&D activities in deeptech fields.
+Ease of Doing Business
+: Simplify compliance procedures and provide a single-window clearance system for deeptech startups.
+DRDO to fund first-of-its-kind deep tech research for military use:
+DRDO is set to launch a pioneering initiative to advance research in emerging military technologies, backed by a ₹1 lakh crore corpus announced in the interim Budget.
+The initiative aims to indigenize defence products and promote deep tech innovations in areas such as quantum computing, blockchain, and artificial intelligence.
+DRDO has identified five high-value projects, each with a funding cap of ₹50 crore, to reduce reliance on imports and foster self-reliance in defence technology
+Inspired by the US DARPA model, the programme seeks to push futuristic and disruptive technologies that could revolutionize defence systems.
+Defence Minister Rajnath Singh has approved the funding, which will be managed through the DRDO’s
+Technology Development Fund
+(TDF).
+The fund focuses on engaging private industry, MSMEs, and startups in the development of military hardware and software.
+newspaper.pdf
+( Size:  468.0 KB  )
+Click to View More
+Science & Tech
+**********India-US Ties During the Presidency of Joe Biden
+Why in News?
+On the sidelines of the Quad leaders’ summit, the Indian PM held a meeting with United States President Joe Biden.
+As this meeting between the two world leaders may have been the last before Biden leaves the White House in January 2025, i
+t is necessary to look into how the Biden presidency has shaped US-Indian relations.
+What’s in Today’s Article?
+How did Biden Mould US-Indian Relations Prior to Taking Office as US President?
+Legacy of Donald Trump’s Presidency for India - US Ties
+India - US Ties During the Biden’s Presidency
+Technology Cooperation Between India - US
+What are the Issues in the India - US Ties?
+Before becoming Vice President to President Barack Obama:
+In 2006
+, Biden stated that by 2020, the United States and India will be the two closest nations in the world.
+In 2008
+, he (then Senator) worked with both Democrats and Republicans to get the
+landmark India-US nuclear deal
+approved in the US Congress.
+As a VP to President Barack Obama:
+In 2013
+, he visited India and met the then Prime Minister (Manmohan Singh) and Vice President (Hamid Ansari).
+In 2020
+, as the Democratic Presidential nominee, Biden said that
+he would stand with India in confronting various threats along its borders
+Legacy of Donald Trump’s Presidency for India - US Ties:
+President Biden
+inherited a strong India-US relationship
+from his predecessor Donald Trump.
+Aligning Washington and New Delhi’s positions,
+Trump framed China as a strategic rival and adversary to the US
+for the first time. Biden carried Trump’s legacy forward in this regard.
+Trump revived the Quad grouping
+(India, the US, Australia, and Japan) in
+2017
+In 2021
+, Biden elevated the Quad to the leaders’ level - the highest in international diplomacy, and hosted the first Quad leaders’ summit.
+India - US Ties During the Biden’s Presidency:
+Interaction between top leaders:
+Since the first Quad leaders’ summit in 2021, Biden and the Indian PM have met six times at the leaders’ level, including four times in person.
+On the bilateral front, the two have interacted at least 10 times, including twice virtually.
+Strategic alignment vis-à-vis China:
+In the post-pandemic world, both countries wanted to de-risk themselves from future China-related disruptions, and become a part of a resilient global supply chain.
+Advantage to India:
+Since the end of World War II, no major country has prospered without technological assistance from Washington.
+The USA provided considerable assistance in the rise of China as well.
+India also wished to be part of the US-led tech ecosystem.
+Technology Cooperation Between India - US:
+Initiative for Critical and Emerging Technology (iCET):
+In 2023, the two National Security Advisers launched the
+in Washington to -
+Facilitate strategic technology collaborations
+in critical and emerging technologies, and
+Enable co-development and co-production
+in the tech sphere.
+It aims to connect the two countries’ respective innovation ecosystems, especially in
+AI, quantum, telecom, space, biotech, semiconductors
+, and emerging defence technologies.
+After multiple NSA-level meetings (the most recent one in June 2024) the outcomes of iCET are now visible.
+The outcomes of iCET:
+Setting up a semiconductor fabrication plant in India:
+The Indian PM’s recent visit saw the signing of an agreement for setting up a
+This will be enabled by support from the
+India Semiconductor Mission
+as well as a strategic technology partnership between Bharat Semi, 3rdiTech, and the US Space Force.
+This plant would make chips for use in
+national security, next generation telecommunications and green energy applications
+Both are working on a broad range of technology partnerships:
+From joint research conducted by
+NASA and ISRO
+on the International Space Station, to a
+pact for critical minerals supply
+chains and emerging digital technologies in Asia and Africa.
+There has also been progress regarding a deal for
+31 remotely piloted aircraft
+which India would acquire from the US.
+Significance of the iCET:
+The fab titled Shakti
+(or power) would not only be the
+first technology partnership
+between Indian businesses and the US Space Force, but also a first in the Quad.
+This marks a “glass-ceiling broken” in tech diplomacy
+, by going into true chip fabrication.
+What are the Issues in the India-US Ties?
+The alleged assassination plot
+against US-based pro-Khalistan separatist Gurpatwant Singh Pannun has been a thorny issue. Days before the Indian PM’s visit to the US,
+A US court issued summons to NSA Ajit Doval
+, after Pannun filed a civil suit seeking damages for the alleged assassination plot.
+A group of pro-Khalistan separatists visited the White House
+on the eve of the Indian PM’s US visit.
+India must resolve this matter
+in order to allay Washington's concerns regarding New Delhi's democratic credentials.
+However, the two countries’ strategic alignment vis-à-vis China means that such challenges are only minor wrinkles to be ironed out.
+newspaper.pdf
+( Size:  548.6 KB  )
+Click to View More
+International Relations
+**********Bilkis Bano case - Supreme Court dismisses Gujarat review plea
+Why in news?
+The Supreme Court rejected the Gujarat government's plea to review its January 8 verdict, which had canceled the remission granted to 11 men convicted of raping Bilkis Bano and killing seven of her family members during the 2002 Gujarat riots.
+The Gujarat government contested certain "adverse" observations made by the court in the January verdict, arguing that such remarks should not have been made against the state. However, the court found no merit in the review plea and dismissed it.
+What’s in today’s article?
+Remission
+Key highlights of the January 8 judgement by SC
+What is Remission?
+About
+Remission is the complete ending of a sentence at a reduced point.
+Remission is distinct from both furlough and parole in that it is a reduction in sentence as opposed to a break from prison life.
+Constitutional Provisions
+Both the President and the Governor have been vested with sovereign power of pardon by the Constitution.
+Under Article 72
+, the President
+can grant pardons, reprieves, respites or remissions
+of punishment or suspend, remit or commute the sentence of any person.
+Under Article 161
+, a Governor can grant pardons, reprieves, respites or remissions of punishment, or suspend, remit or commute the sentence.
+Statutory power of remission
+The Code of Criminal Procedure (CrPC) also provided for remission of prison sentences. This is because
+prisons is a State Subject
+Under Section 432 of CrPC, the ‘appropriate government’ may suspend or remit a sentence, in whole or in part, with or without conditions.
+Under Section 433 of CrPC, any sentence may be commuted to a lesser one by the appropriate government.
+This power is available to State governments so that they may order the release of prisoners before they complete their prison terms.
+CrPC is now replaced by the Bharatiya Nagarik Suraksha Sanhita
+CHAPTER XXXIV of the BNSS 2023 deals with the powers of remission or commutation in certain cases under the following sections:
+Section 473
+- Power to suspend or remit sentences.
+The Central Government has the power to do so in cases where the sentence is for an offense against a law that comes under the executive power of the Union.
+In other cases, the Government of the State where the offender is sentenced has the power to do so.
+Section 474
+- Power to commute sentences. The appropriate Government can commute any punishment to any other punishment without the consent of the offender.
+Section 475
+- Restriction on powers of remission or commutation in certain cases.
+Section 477
+-  State Government acting after concurrence with the Central Government in certain cases.
+Guidelines to be followed while granting Remission
+In ‘
+Laxman Naskar v. Union of India’ (2000) case
+, the Supreme Court laid down five grounds on which remission is considered:
+Whether the offence is an individual act of crime that does not affect the society;
+Whether there is a chance of the crime being repeated in future;
+Whether the convict has lost the potentiality to commit crime;
+Whether any purpose is being served in keeping the convict in prison; and
+Socio-economic conditions of the convict’s family.
+Also, convicts serving life sentences are entitled to seek remission after serving a minimum of 14 years in prison.
+What is Bilkis Bano Case?
+In the aftermath of the Godhra riots in Gujarat in 2002, Bikinis Bano and her family were attacked by a group of people.
+Bilkis was brutally gangraped and seven of her family members were murdered.
+Her case was taken up by the National Human Rights Commission (NHRC) and Supreme Court, which ordered an investigation by the CBI.
+Due to persistent death threats,
+the trial was moved out of Gujarat to Mumbai where charges were filed against these people
+In January 2008, a special CBI court in Mumbai had sentenced the 11 accused to life imprisonment.
+Release of these convicts
+In 2022, one of the convicts named Radheshyam Shah, after completing 15 years and four months of his life term, moved to the SC for early release.
+In May 2022, the SC passed this case to the Gujarat government.
+It asked the Gujarat government to consider Shah’s application for premature release, as per the state’s 1992 remission policy.
+On August 15, 2022, the Gujarat government released all 11 convicts in the gangrape case under its remission policy.
+However, this decision sparked a major public backlash, and prompted petitions from opposition MPs.
+Review petition by Bilkis Bano
+Bilkis Bano in 2022 filed an appeal in the Supreme Court to review the decision of the Gujarat government ordering release of the 11 gangrape convicts.
+January 8 judgement of Supreme Court
+In response to the review petition filed by Bilkis Bano, the apex court, on January 8,
+overturned
+the Gujarat government's decision to release the 11 convicts.
+The Gujarat government was
+not the appropriate government to pass the remission order as the trial was held in Maharashtra
+The exemption order lacks competence.
+Criminals can be released only by the state where they are tried
+The bench also held that the SC order of May 13, 2022 was obtained by fraud and suppression of facts.
+Gujarat government should have filed a plea seeking review of the 2022 order stating they are not the competent government.
+Supreme Court came down heavily against its own judgment in May 2022
+In May 2022, the SC ruled that there cannot be a concurrent jurisdiction of two State governments on the issue of remission.
+Premature release of a convict has to be considered in terms of the policy applicable in the State
+where the crime was committed
+Hence, Gujrat government’s remission policy was applied for the release of these convicts.
+The rule of law must be preserved unmindful of the ripples of the consequences.
+News Summary- Supreme Court dismisses Gujarat review plea
+About the news
+The Supreme Court dismissed the Gujarat government's review plea challenging its January 8 judgment that canceled the remission granted to 11 convicts in the Bilkis Bano case.
+The January judgment accused Gujarat of being complicit with one of the convicts, Radheshyam Shah, and held that the May 2022, order granting remission was obtained through fraud and suppression of facts.
+The Supreme Court also criticized Gujarat for not filing a review against the 2022 order sooner, which could have avoided further litigation.
+Stand of Gujarat govt
+In its review plea, Gujarat argued that it was only complying with the 2022 Supreme Court directive to decide the remission application under its 1992 Remission Policy, though it consistently maintained that Maharashtra was the appropriate authority to decide.
+The state rejected the court's accusation of "usurpation of power" and emphasized that it had no need to file a review petition as Bilkis Bano herself had done so, but her review was dismissed in December 2022.
+The state further contended that it was not complicit in any fraud.
+Bilkis Bano case - Supreme Court dismisses Gujarat review plea.pdf
+( Size:  2.3 MB  )
+Click to View More
+Polity & Governance
+**********Storms brewing in East, South China seas
+Why in news?
+In recent years, maritime East Asia has become a hotspot for power politics, particularly in the East and South China Seas.
+The East China Sea, bordered by China, Taiwan, Japan, and South Korea, has seen repeated tensions over the
+Senkaku/Diaoyu Islands
+, which are under Japanese control but claimed by China.
+Meanwhile, the South China Sea, located between China, Taiwan, and five Southeast Asian nations—Vietnam, Malaysia, Brunei, the Philippines, and Indonesia—has emerged as a critical flashpoint.
+China has aggressively asserted its territorial claims in this region, escalating disputes and heightening geopolitical tensions across the Indo-Pacific.
+What’s in today’s article?
+Significance of these seas
+Posture taken by China in this region
+Response from regional countries
+Significance of East China Sea (ECS) and South China sea (SCS)
+Significance for China
+Geopolitical Control
+Both seas are crucial for China’s defense and military positioning. Control over these waters allows China to project power in the region and safeguard its national security interests.
+The SCS is part of China's "first island chain" defense strategy, forming a buffer against external threats.
+Territorial Claims
+China views the ECS and SCS as integral parts of its territorial sovereignty, with ongoing disputes over islands like the Diaoyu/Senkaku in the ECS and several islets and reefs in the SCS.
+In its 2019 Defence White Paper, China declares that the South China Sea islands and Diaoyu Islands are integral parts of its territory.
+Trade Routes
+South China Sea is one of the world's busiest maritime trade corridors, with an estimated $3.4 trillion in annual trade passing through it.
+Control over this region gives China potential leverage over international shipping routes.
+Fisheries and Resources
+Both the ECS and SCS are rich in fish stocks, a critical resource for China’s food security and economy.
+The seas also provide livelihoods for millions in neighboring countries.
+Energy Resources
+The South China Sea is believed to hold significant reserves of oil and natural gas.
+Securing these resources is vital for China's growing energy demands and for other nations relying on the region's resources.
+Significance for other countries
+Key maritime route
+The key maritime trade routes in East Asia pass through these two seas.
+Taiwan Strait is a critical maritime choke point
+Vital for digital economy
+The region is home to undersea cables that are important for the global digital economy.
+Vital for energy security
+As per the U.S. Energy Information Administration, in 2023, 10 billion barrels of petroleum and petroleum products and 6.7 trillion cubic feet of liquefied natural gas passed through the South China Sea.
+It is also home to vast reserves of untapped oil and natural gas.
+Global Security
+The East and South China Seas are flashpoints for potential conflict.
+It is drawing global attention from powers like the U.S., which conducts Freedom of Navigation Operations (FONOPs) to challenge China’s maritime claims.
+These tensions affect global trade, security alliances, and regional stability in the Indo-Pacific.
+China aggressively pushing its territorial claims in both seas in two ways
+:
+by building defence-related infrastructure such as ports, military installations, airstrips, and artificial islands and
+by pushing back against the claims of regional countries.
+East China Sea Tensions
+In the East China Sea, China has aggressively contested Japan's control over the Senkaku/Diaoyu Islands, leading to multiple crises.
+Notable incidents include the arrest of a Chinese fishing captain in 2010 and
+Japan's nationalization of the islands in 2012
+Both countries took maximalist positions, and China responded by banning rare earth mineral exports to Japan.
+While tensions have slightly eased in recent years, 2023 witnessed the highest level of Chinese Coast Guard activity near the islands, signaling ongoing disputes.
+China's assertive foreign policy has strained its relations with South Korea, Taiwan, and Japan.
+South China Sea Power Asymmetry
+In the South China Sea, China's growing power has resulted in increased military presence and aggression towards claimant countries such as Vietnam, Malaysia, the Philippines, and Brunei.
+With the world's largest navy by numbers, China has conducted "grey zone" operations that involve harassment tactics like ramming vessels, using water cannons, and military-grade lasers, short of initiating full-scale conflict.
+Philippines-China Tensions
+Tensions between China and the Philippines have intensified since 2022,
+especially around Second Thomas Shoal and Sabina Shoal
+China has repeatedly disrupted the Philippines' resupply missions. China's heavier and larger Coast Guard ships frequently ram smaller Philippine vessels, creating risks of miscalculation.
+The growing frequency of these incidents, including clashes in mid-2024, reflects China's determination to assert its dominance.
+Strategic Alignment and Legal Rejection
+In July 2024, China conducted joint naval exercises with Russia in the South China Sea, showcasing its geopolitical alliances.
+Despite a
+2016 ruling by the Permanent Court of Arbitration rejecting China's territorial claims in the South China Sea
+, China continues to dismiss the legal decision, maintaining its aggressive posture in the region.
+Regional Responses to China's Aggression in the East and South China Seas
+Strengthening Defence Capabilities
+Countries in the Indo-Pacific have ramped up their military expenditures to counter China’s growing power.
+Japan aims to double its defense budget by 2027, and the Philippines has acquired BrahMos anti-ship missiles from India as part of its defense buildup.
+Active Responses at Sea
+Since 2022, the Philippines has pushed back against China’s activities, publicizing incidents and filming Chinese vessels to shape perceptions.
+They have also involved international journalists in documenting Chinese behavior in the West Philippine Sea, turning public diplomacy into a strategic tool.
+Narrative Battle
+Countries are engaging in a battle of narratives, using public diplomacy and media to highlight China’s aggressive actions and gain international support.
+Strengthening Alliances with the U.S.
+Allies like the Philippines, Japan, and South Korea have strengthened their defense ties with the U.S.
+Cooperation between the U.S. and the Philippines in the South China Sea has reached “historic levels,” with increased base access, training, and joint exercises.
+A broader multilateral cooperation dubbed the ‘Squad’ involves the U.S., Australia, Japan, and the Philippines.
+Trilateral Cooperation
+The U.S., Japan, and South Korea have deepened their trilateral defense relationship, with their Defense Ministers meeting for the first time in July 2024.
+They oppose any unilateral attempts to alter the status quo in the Indo-Pacific and emphasize adherence to international law, including freedom of navigation.
+Storms brewing in East, South China seas.pdf
+( Size:  2.0 MB  )
+Click to View More
+International Relations
+**********Fortifying the Basic Structure
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Simultaneous elections;
+Why in the News?
+With the Union Cabinet’s approval of the report by the High-Level Committee recommending simultaneous elections for the Lok Sabha and state assemblies, the debate over “One Nation, One Election” (ONOE) has once again come to the forefront.
+How can Simultaneous Elections enhance governance and stability?
+Reduction of Policy Paralysis
+: Simultaneous elections prevent the frequent imposition of the
+Model Code of Conduct (MCC)
+, which temporarily halts new policy initiatives and decision-making. This ensures that
+governance continues
+uninterrupted.
+Efficient Resource Allocation
+: Election authorities, security forces, and government resources would be deployed more efficiently since elections are held once in a fixed cycle, allowing for
+long-term planning
+execution of policies.
+Cost-Effective
+: Holding simultaneous elections reduces the cost of organizing elections multiple times, allowing the government to
+focus funds on development projects
+rather than repeated electoral processes.
+Political Stability
+: It minimizes the risks of
+constant political instability
+caused by staggered elections, ensuring a stable policy environment for long-term economic and social development.
+About the Voter Engagement and Participation:
+Voters may be more inclined to participate in elections if they
+only need to vote once
+to elect both state and national representatives, which can lead to improved engagement and turnout.
+Simultaneous elections make the process
+more convenient for voters,
+as they need to participate only once, avoiding voter fatigue caused by frequent electoral exercises.
+Voting for both state and national representatives at the same time can allow voters to make more
+informed decisions
+by seeing a clearer alignment of their political choices at both levels.
+Impact on Political Dynamics:
+Level Playing Field
+: Simultaneous elections reduce the advantage for
+ruling parties
+that often leverage state elections for national influence and vice versa.
+Opposition parties
+will benefit from this, as their campaign resources and strategies can be focused at one time.
+Less Populism
+: With fixed election dates, political parties may be
+less inclined to resort to
+short-term populist measures,
+allowing for more substantive debates on long-term issues.
+Reduced Election Fatigue
+: Frequent elections can create voter fatigue and disengagement from political processes. Simultaneous elections reduce this fatigue, which can also lower campaign costs for parties.
+Strategic Alliances
+: Parties may form more concrete alliances across states and national elections, leading to
+more coherent national and state-level strategies
+instead of fragmented political campaigning.
+Way forward:
+Constitutional and Legislative Reforms
+: Amendments to the Constitution and electoral laws should be carefully designed to align election cycles of the Lok Sabha and state assemblies, ensuring a smooth transition without undermining democratic processes.
+Building Consensus Across Political Spectrum
+: A broad political consensus must be achieved through dialogue, involving all stakeholders to address concerns and mitigate opposition, ensuring that simultaneous elections are seen as a step toward democratic efficiency rather than partisanship.
+Mains PYQ:
+Simultaneous election to the Lok Sabha and the State Assemblies will limit the amount of time and money spent in electioneering but it will reduce the government’s accountability to the people’ Discuss.
+(UPSC IAS/2017)
+**********Storms brewing in East, South China seas
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+South China Sea; Places in News;
+Mains level:
+Geopolitical Conflicts; South China Sea;
+Why in the News?
+In recent years, maritime East Asia has witnessed escalating power struggles, with China claiming Japan-controlled Senkaku/Diaoyu Islands in the East China Sea, sparking repeated tensions.
+What are the current geopolitical tensions in the East and South China Seas?
+East China Sea:
+The main issue revolves around the
+, claimed by both China and Japan.
+Tensions have escalated through incidents like the arrest of a Chinese fishing boat captain and Japan’s nationalization of the islands in 2012. The area also witnesses Chinese Coast Guard incursions.
+South China Sea:
+China’s claims over most of the region, backed by aggressive actions such as the creation of artificial islands and naval exercises, have escalated tensions with Vietnam, the Philippines, Malaysia, Brunei, and Taiwan.
+“Nine-Dash Line”
+claims have been rejected by international tribunals, but Beijing continues to push these claims.
+USA Context:
+U.S
+. maintains security alliances with
+Japan, South Korea,
+and the
+providing military backing. Joint exercises and increased cooperation between these allies.
+The formation of the
+“Squad”
+(US, Japan, Australia, and the Philippines) highlights the coordination to counterbalance China’s influence.
+How do climate change and environmental factors impact storm patterns in these regions?
+Storm Patterns and Rising Seas:
+The region is highly vulnerable to
+extreme weather events,
+including
+typhoons
+, which are becoming more intense and frequent due to climate change.
+Rising sea levels and changing storm patterns threaten coastal communities, military installations, and infrastructure.
+Erosion of Islands:
+The creation of artificial islands by China is accelerating coastal erosion and destroying coral reefs, which are critical to local marine ecosystems.
+What are the implications of military activities by regional powers in the East and South China Seas?
+Growing Militarization:
+China has rapidly expanded its military presence, including the construction of airstrips, ports, and other defense infrastructure.
+maritime militias
+have been active in harassing the vessels of other claimant states, particularly in the South China Sea.
+Challenge the US Navy:
+China’s military activities are seen as part of its broader strategy to challenge U.S. naval supremacy in the Indo-Pacific. This strategy also includes controlling vital sea lanes, undersea cables, and energy reserves.
+How are local communities and economies affected?
+Economic Disruption:
+China’s actions in the South China Sea, particularly around disputed fishing areas, have impacted
+local economies dependent on fishing
+Maritime Trade:
+The region is home to critical sea lanes through which a
+significant portion of global trade
+, including energy supplies, passes. Any conflict or blockade in these waters would have severe global economic ramifications.
+Impact on Tourism:
+The increasing militarization and tension also negatively impact tourism in coastal areas.
+Way forward:
+Strengthening Maritime Partnerships:
+India should enhance its strategic maritime partnerships in the Indo-Pacific through forums like the Quad (India, U.S., Japan, and Australia) and ASEAN to ensure a free and open Indo-Pacific.
+Economic and Infrastructure Diplomacy:
+India can leverage initiatives like SAGAR (Security and Growth for All in the Region) and enhance its economic presence by investing in infrastructure, connectivity, and capacity-building projects in Southeast Asian countries.
+Mains PYQ:
+South China Sea has assumed great geopolitical significance in the present context. Comment.
+(UPSC IAS/2016)
+**********[pib] WAVES Anime & Manga Contest
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+WAM! Contest, WAVES Summit
+Why in the News?
+In an effort to promote anime and manga culture in India, the
+Ministry of Information & Broadcasting
+has launched the
+WAVES Anime & Manga Contest (WAM!)
+.
+About the WAVES Anime & Manga Contest
+The WAM! is an innovative initiative launched by the Ministry of Information & Broadcasting in collaboration with the
+Media & Entertainment Association of India (MEAI).
+The contest is part of
+Create in India Challenge
+and is aimed at nurturing local creative talent in anime and manga production.
+It provides a unique platform for
+Indian creators
+to produce localized versions of
+Japanese art styles
+, targeting both
+domestic
+global
+audiences.
+The contest offers
+marketing support
+and opportunities for
+global recognition
+, helping creators showcase their talent in
+webtoon
+, and
+features 3 key categories:
+Manga (Japanese style comics)
+: Individual participation for both
+students
+professionals
+Webtoon (Vertical comics for digital mediums)
+Anime (Japanese style animation)
+: Team participation (up to 4 members) for
+About the Create in India Challenge
+The Create in India Challenge aligns with
+Prime Ministers
+vision of
+“
+Design in India
+Design for the World”
+, emphasizing the development of creative industries in India.
+It is part of the broader effort
+to make India a global hub for design
+innovation
+, and creative production.
+It is a precursor to the
+, a large-scale event aimed at promoting creativity and technology in media and entertainment.
+PYQ:
+[2014]
+Though 100 percent FDI is already allowed in non-news media like a trade publication and general entertainment channel, the government is mulling over the proposal for increased FDI in news media for quite some time. What difference would an increase in FDI make? Critically evaluate the pros and cons.
+**********Philadelphi Corridor
+Trivia
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Philadelphi Corridor is a
+key issue in ceasefire
+talks as
+Israel’s war on Gaza
+continues, with Palestinian deaths nearing 41,000.
+About
+is a strategically significant strip of land between the
+Gaza-Egypt border
+It spans about
+14 kilometers
+in length and
+100 meters
+in width.
+This area plays a critical role in regional security and the geopolitics surrounding
+, and
+It runs from the
+Mediterranean Sea
+in the north to the
+Kerem Shalom crossing
+with Israel in the south.
+It includes the
+Rafah crossing
+, the main border point between
+It acts as a buffer zone between
+, with control over it influencing security and smuggling activities in the region.
+Significance for Israel
+became significant after the
+1979 Camp David peace treaty
+, allowing Israel to maintain a limited military presence.
+In
+2005
+, Israel withdrew from Gaza, including the corridor, leaving
+Palestinian Authority
+responsible for security.
+2007
+Hamas
+took control of Gaza, increasing smuggling activities through tunnels in the corridor.
+Israel regained control of the corridor in
+May 2023
+during a ground offensive in Gaza.
+The corridor has since been
+central to Israel’s strategy
+for controlling arms smuggling and preventing Hamas from using it as a supply route.
+**********Kolkata Tram
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+West Bengal has announced the
+discontinuation
+of the iconic
+150 year old Kolkata trams
+, India’s last functioning tram system.
+About Kolkata Tram
+Introduced in
+1873
+Calcutta
+(now Kolkata), the first trams were
+horse-drawn
+and operated along a
+3.8 km route
+between
+Sealdah and Armenian Ghat Street
+1874
+horse-drawn trams
+reached
+Bombay
+(now Mumbai), followed by their introduction in
+Nashik
+Patna
+However, their dependency on
+horse labor
+made them unsustainable.
+Revival and Modernization of Kolkata’s Trams
+Lord Ripon
+revived trams in
+1880
+by experimenting with
+steam locomotives
+While the
+steam-powered trams
+improved speed, they introduced issues like
+pollution
+, which discouraged other states from adopting this technology.
+1895
+Madras
+(now Chennai) launched the country’s
+electric tramcars
+, reducing
+noise
+Following this,
+also transitioned to
+electric-powered trams
+1902
+, with routes between
+Esplanade and Kidderpore
+, and
+Esplanade and Kalighat
+Significance of Trams
+Kolkata’s trams hold
+historical significance
+as India’s
+oldest running tram system
+, symbolizing the city’s
+colonial past and cultural identity
+They provide an environmentally friendly and
+affordable mode of transport
+, making them relevant even today.
+As a
+symbol of resilience
+, Kolkata’s trams have survived while other cities phased them out.
+They also serve as a
+unique tourist attraction
+, offering a
+nostalgic glimpse
+of the city.
+PYQ:
+[2020]
+Which of the following statements correctly explains the impact of Industrial Revolution on India during the first half of the nineteenth century?
+(a) Indian handicrafts were ruined.
+(b) Machines were introduced in the Indian textile industry in large numbers.
+(c) Railway line were laid in many parts of the country.
+(d) Heavy duties were imposed on the import of British manufactures.
+**********In news: Dhanauri Wetland
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The NGT has ordered the UP government to remove water hyacinth from “
+Dhanauri wetlands”
+and questioned its failure to designate the wetland as a Ramsar site.
+About
+Details
+Location
+Dhanauri village near Dankaur, Uttar Pradesh;
+Floodplains of Yamuna.
+Key Species
+Home to over 120
+Sarus Cranes
+(state bird of Uttar Pradesh) and 217 bird species
+Ecological Significance
+Important birding and nesting site; recognized as an
+Important Bird Area
+by Bird Life International
+Bird Population
+Hosts over
+50,000 waterfowls
+during migratory seasons (November to March)
+Ramsar Criteria
+Fulfills 2 Ramsar criteria:
+1. Hosts over 1% of
+biogeographic Sarus Crane
+population
+2. Congregation site for
+20,000+ waterfowls
+Conservation Status
+Documented by
+BNHS
+(Bombay Natural History Society); crucial for supporting endangered species
+Ramsar Wetlands
+The Ramsar Convention, also known as the ‘
+Convention on Wetlands,’
+is an intergovernmental environmental treaty founded by
+UNESCO in 1971.
+It derives its name from the
+city of Ramsar in Iran,
+where it was initially signed.
+Ramsar sites are wetlands of global significance recognized under this treaty.
+Montreux Record
+is a register of wetland sites on the brink of ecological changes and in need of close monitoring under the Ramsar Convention.
+Ramsar Site Designation Criteria:
+Ramsar site designation hinges on several factors:
+Representing rare or unique natural wetland types.
+Supporting endangered species or threatened ecological communities.
+Maintaining biodiversity in specific biogeographic regions.
+Offering refuge during adverse conditions.
+Regularly accommodating 20,000 or more waterbirds.
+Sustaining 1% of a population of a single water-bird species.
+Serving as a critical source of food, spawning grounds, nurseries, and migration paths for fish.
+Regularly supporting 1% of a population of non-avian wetland-dependent animal species.
+**********Bhagat Singh (1907-1931)
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+September 28th marks 117th birth anniversary of the legendary freedom fighter “
+Bhagat Singh”
+.
+Who was
+Bhagat Singh?
+Details
+Birth
+September 28, 1907; Banga, Punjab (now in Pakistan)
+Family
+Came from a family involved in anticolonial activities; his father
+Kishan Singh
+and uncle
+Ajit Singh
+were active freedom fighters.
+Affiliations
+• Hindustan Republican Association (1924)
+• Hindustan Socialist Republican Association (1928)
+• Naujawan Bharat Sabha (1926)
+Revolutionary Actions
+• Played a key role in the
+Lahore Conspiracy Case (1928)
+by avenging Lala Lajpat Rai’s death and mistakenly killing J.P. Saunders
+• Threw a bomb in the
+Central Legislative Assembly
+April 8, 1929
+, with B.K. Dutt, to protest oppressive British laws.
+Ideologies and Principles
+• Advocated
+Marxist and socialist ideologies
+• Rejected religion in his essay
+Why I Am an Atheist
+• Emphasized rationalism, equality, and justice.
+Arrest and Trial
+Arrested in
+for throwing a bomb in the Central Legislative Assembly; later rearrested for the
+(murder of J.P. Saunders).
+Jinnah
+opposed a 1929 Bill allowing trials in absentia, delivering a strong speech in the Central Assembly.
+Execution
+Hanged on
+March 23, 1931
+, along with
+Sukhdev
+Rajguru
+, in Lahore for his revolutionary activities.
+Nehru
+Subhash Chandra Bose
+visited Bhagat Singh in prison.
+Literary Works
+Bhagat Singh was fluent in
+Urdu, Punjabi, Hindi, and English
+, and familiar with
+Sanskrit
+jail notebook
+referenced thinkers like
+Karl Marx, Thomas Jefferson, Mark Twain
+, and others, reflecting his intellectual diversity.
+At 17, he wrote
+Vishwa Prem
+(Universal Love)
+, advocating for
+universal brotherhood and equality
+He urged the
+oppressed classes
+to rebel against the
+social order
+and spoke about the
+philosophy of revolution
+in his writings, such as
+What is Revolution?
+(1929).
+In his series
+What is Anarchism?
+he described
+organized religion
+the state
+as forms of
+mental and physical slavery
+He wrote about the
+power of love
+in a 1929 letter to
+, emphasizing its role in personal and political strength.
+PYQ:
+[2020]
+Since the decade of the 1920s, the national movement acquired various ideological strands and thereby expanded its social base. Discuss.
+**********

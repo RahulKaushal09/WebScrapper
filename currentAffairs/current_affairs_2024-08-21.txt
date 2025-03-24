@@ -1,0 +1,333 @@
+Telecommunications Act Pits Telecoms & OTTs Against Each Other
+Why in the News?
+Telecom operators and social media companies are in conflict over the interpretation of the new Telecommunication Act. Telecom operators are arguing that over-the-top (OTT) communication platforms like WhatsApp and Google Meet should be classified as telecom services under the Act.
+What’s in Today’s Article?
+Telecommunications Act, 2023 (Objective, Key Features, Issues, etc.)
+About Telecommunications Act, 2023:
+Earlier, the Indian Telecommunications sector was governed by three separate Acts of Parliament:
+Indian Telegraph Act 1885
+Indian Wireless Telegraphy Act 1933
+Telegraph Wires, (Unlawful Protection) Act 1950
+The Telecommunications Act, 2023 was brought in to consolidate these three separate Acts.
+Aim
+: To amend the existing laws governing the provision, development, expansion and operation of telecommunication services, telecom networks and infrastructure, in addition to assignment of spectrum.
+Key Features of Telecommunications Act, 2023:
+Authorisation for telecom-related activities
+Prior authorisation from the central government will be required to:
+(i) provide telecommunication services,
+(ii) establish, operate, maintain, or expand telecommunications networks, or
+(iii) possess radio equipment.
+Assignment of spectrum
+Spectrum will be assigned by auction, except for specified uses, where it will be allocated on an administrative basis.
+Specified purposes include: (i) national security and defence, (ii) disaster management, (iii) weather forecasting, (iv) transport, (v) satellite services such as DTH and satellite telephony, and (vi) BSNL, MTNL, and public broadcasting services.
+Powers of interception and search
+Messages or a class of messages between two or more persons may be intercepted, monitored, or blocked on certain grounds.
+Such actions must be necessary or expedient in the interest of public safety or public emergency, and must be in the interest of specified grounds.
+Telecom services may be suspended on similar grounds.
+An officer authorised by the government may search premises or vehicles for possession of unauthorised telecom network or equipment.
+Protection of users
+The central government may provide for measures to protect users which include:
+(i) prior consent to receive specified messages such as advertising messages,
+(ii) creation of Do Not Disturb registers, and
+(iii) a mechanism to allow users to report malware or specified messages.
+Entities providing telecom services must establish an online mechanism for registration and redressal of grievances.
+Right of way
+Entities laying telecommunication infrastructure may seek right of way over public or private property.
+Right of way must be provided on a non-discriminatory and non-exclusive basis to the extent possible.
+Appointments to TRAI
+The Act amends the TRAI Act to also allow individuals with: (i) at least 30 years of professional experience to serve as the Chairperson, and (ii) at least 25 years of professional experience to serve as members.
+Digital Bharat Nidhi
+Universal Service Obligation Fund
+has been established under the Indian Telegraph Act, 1885 to provide for telecom services in underserved areas.
+The Act retains this provision, renames the fund as Digital Bharat Nidhi, and also allows its use for research and development in telecom.
+Offences and penalties
+The Act specifies various criminal and civil offences.
+Providing telecom services without authorisation, or gaining unauthorised access to a telecom network or data, are punishable with imprisonment up to three years, a fine up to two crore rupees, or both.
+Breaching terms and conditions of authorisation is punishable with a civil penalty of up to five crore rupees.
+Possessing unauthorised equipment, or using unauthorised network or service, is punishable with a penalty of up to ten lakh rupees.
+Adjudication process
+The central government will appoint an
+adjudicating officer
+to conduct inquiries and pass orders against civil offences under the Act.
+The officer must be of the rank of joint secretary and above.
+Key Issues with the Act:
+Interception of communication
+The Act provides that any message or class of messages between two or more persons may be intercepted, monitored, or blocked on specified grounds.
+Such grounds include:
+(i) the interest of the security of the state,
+(ii) friendly relations with other countries,
+(iii) public order, or
+(iv) prevention of incitement of offences.
+Telecom services may be suspended on similar grounds (e.g., internet shutdown).
+The Act allows mass surveillance
+The Act provides that any message or class of messages between two or more persons, or relating to any particular subject, may be subject to interception, monitoring, or blocking.
+These actions will be subject to procedure and safeguards prescribed by the central government.
+Using these grounds, an order may be made to intercept or monitor all communication where a particular word or set of words is used.
+Such an order would require all communication of all users to be monitored.
+Hence, this raises the question whether such actions could be considered proportionate to the objective.
+Safeguards with regard to the power of search and seizure not specified
+The Act allows any officer authorised by the central government to search a premise or vehicle on specified grounds.
+The officer must have reason to believe that unauthorised telecommunications equipment or network used to commit an offence is kept or concealed.
+The officer may also take possession of such equipment or network.
+The Act neither specifies the procedure and safeguards against such actions, nor provides that such safeguards will be prescribed.
+Need for biometric verification
+The Act provides that telecom service providers must verify the identity of their users through any verifiable biometric-based identification.
+This requirement may not be proportionate, and may infringe upon the fundamental right to privacy.
+Telecommunications Act Pits Telecoms & OTTs Against Each Other:
+Telecom operators and social media companies are in dispute over the interpretation of the new Telecommunication Act.
+Telecom companies argue that over-the-top (OTT) communication platforms like WhatsApp and Google Meet should be classified as telecom services, requiring government licensing, just like traditional telecom services.
+Despite the government's earlier clarification that OTT platforms do not fall under this definition, the telecom operators maintain their stance, citing the broad definition of telecom services in the Act.
+This ongoing debate highlights the ambiguity in the Act's language and the differing interpretations by stakeholders.
+newspaper.pdf
+( Size:  1.8 MB  )
+Click to View More
+Polity & Governance
+**********India’s Ethanol Blended Petrol (EBP) Programme - Status and Challenges
+Why in News?
+India is on its way to achieve its target of blending 20% of petrol with ethanol by 2025-26. But concerns about fuel efficiency in existing vehicles and the food vs fuel debate still loom large over the ethanol economy.
+What’s in Today’s Article?
+About Ethanol (C2H5OH)
+About the Ethanol Blended Petrol (EBP) Programme
+Status of Ethanol Production Capacity in India
+Challenges Hanging Over India's Ethanol Economy
+Way Ahead
+About Ethanol (C2H5OH) and Ethanol Blending:
+Ethanol is an
+agricultural by-product
+which is mainly obtained from the processing of sugar from sugarcane, but also from other sources such as rice husk or maize.
+Since ethanol is produced from plants that harness the power of the sun, it is also considered as
+renewable fuel.
+In India,
+ethanol is mainly produced from sugarcane molasses by fermentation process.
+Ethanol is 99.9% pure alcohol
+that can be blended with petrol.
+To supplement ethanol supplies, the Government of India has permitted the procurement of ethanol produced from sources other than molasses, which is known as
+first generation ethanol or 1G.
+Aside from molasses, ethanol can be derived from rice straw, wheat straw, corn stover, bagasse, bamboo and woody biomass, which are known as
+second generation ethanol sources or 2G.
+India’s Ethanol Blended Petrol (EBP) Programme:
+About:
+It was launched by the Ministry of Petroleum and Natural Gas in
+2003
+to promote the use of alternative and environment friendly fuels.
+This programme has been extended
+to the whole of India (except UTs of Andaman Nicobar and Lakshadweep islands) with effect from
+1st April, 2019
+wherein Oil Marketing Companies (OMCs) sell petrol blended with ethanol up to
+10%.
+The all-India average blending of ethanol with petrol has risen from 1.6% in 2013-14 to
+11.8% in 2022-23
+India's goal is to grow this ratio to 20%
+by 2030, but when the NITI Aayog released the ethanol roadmap in 2021, that deadline was advanced to
+20% by 2025-26 would mean producing some 1,000 crore litres of ethanol for blending with petrol.
+Benefits of EBP programme:
+It will reduce India’s import bill.
+It will reduce environmental pollution.
+It will increase farm income.
+Biofuels demand least incremental investment for manufacturers.
+Challenges when it comes to 20% ethanol blended fuel:
+Engines would
+need to be tweaked
+so as to process petrol which has been blended with 20% ethanol.
+Ethanol burns completely emitting nil CO2. However,
+it does not reduce the emission of another key pollutant
+- nitrous oxide.
+Another source of contention is
+inefficient land usage
+in ethanol production and the
+amount of water required to cultivate crops for ethanol.
+Food security concerns,
+given the uncertainties surrounding future output.
+Status of Ethanol Production Capacity in India:
+The Niti Aayog’s roadmap had laid down that
+The capacity of sugarcane-based distilleries would need to increase from 426 crore litres in 2021 to 760 crore litres in 2026.
+While grain-based distilleries’ capacity should increase from 258 to 740 crore litres.
+Two interest subvention programmes
+for establishing new distilleries had facilitated the ramping up of ethanol generation capacity.
+Challenges Hanging Over India's Ethanol Economy:
+Fuel vs. food debate:
+In India, all the emphasis has been on
+first generation (1G) ethanol
+that is directly made from foodgrains and sugarcane.
+For example
+, sugarcane gives rise to three main related products - sugarcane juice and syrup, B-heavy molasses and C-heavy molasses, in the order of decreasing sugar content.
+The first two would typically go to making sugar while the third will be used for ethanol production.
+In a bid to up fuel ethanol production,
+the government had started permitting the diversion of the first two away from sugar production to fuel ethanol
+Concerns about agricultural sustainability:
+Expanding sugarcane cultivation would redirect irrigation water from essential food-grain crops, exacerbating concerns about agricultural sustainability.
+Rising import bill:
+India ranks as a major maize producer globally, but domestic consumption consistently outpaces production.
+This is also because maize has been used to produce more fuel ethanol to compensate for restrictions on using sugarcane products.
+As a result,
+maize import has increased
+(from April to June 2024, the import is already worth $103 million) compared to last year.
+More cultivation area to meet the 20% target:
+As per NITI Aayog’s estimates,
+some 4.8 million hectares will have to be added to maize
+cultivation area to meet the 20% target, which is almost half of the typical maize cultivation area.
+Fuel efficiency in existing vehicles:
+The NITI Aayog report notes that ethanol brought down fuel efficiency in vehicles not suited for ethanol by an average of 6%.
+Performance across states:
+While the fuel ethanol pricing is the same across India, States determine the pricing of Extra Neutral Alcohol (ENA) that goes into making liquor for consumption and other uses.
+In UP
+, the government is fully aligned with the central government’s mission on ethanol and reserves ~25% of the ethanol for ENA.
+In Tamil Nadu
+, where liquor is a highly lucrative market for distilleries, fuel ethanol has not yet caught on as much.
+Way Ahead:
+The government should
+diversify and move to 2G and 3G
+ethanol that have less adverse effect on India’s food security.
+Existing vehicles may have to go for an
+engine retuning and change over
+to E20 supported material.
+As liquor revenue forms a large chunk of revenue of most state governments, many across the industry demand
+an increase in ethanol pricing.
+On the ethanol blending programme.pdf
+( Size:  688.9 KB  )
+Click to View More
+Science & Tech
+**********Task force for safety of medicos
+Why in news?
+The Supreme Court has constituted a national task force (NTF) of senior medical professionals to formulate comprehensive safety protocols for healthcare workers across India.
+This decision comes in the wake of the rape and murder of a trainee doctor at RG Kar Medical College and Hospital in Kolkata, which has sparked widespread protests among the medical fraternity demanding enhanced safety measures.
+The Supreme Court bench took suo motu cognisance of the case, emphasising the urgent need for a national consensus on standard safety protocols for medical professionals.
+What’s in today’s article?
+Current situation w.r.t safety protocols for healthcare workers across India
+SC forms National Task Force
+Current situation w.r.t safety protocols for healthcare workers across India
+Legal provisions
+As per constitutional provisions,
+health and law and order are State subjects
+Hence, it is the primary responsibility of the State government or Union Territory administration to take note of events and eventualities, and do what is necessary to prevent violence.
+The details of the number of fatalities of medical professionals due to attacks by families of patients are not maintained centrally
+Need for a safe work environment
+Experts have pointed out that medical colleges often have ill-lit corridors, poorly secured wards, and long distances between departments.
+There is an urgent need to improve working and living conditions by ensuring proper lighting, security guards, cameras, and manned walk-throughs between departments, operation theatres, and emergency areas.
+These simple measures could make a real difference.
+Examples from developed countries
+Violence against healthcare workers is a global issue, but several countries have implemented effective measures to protect their medical professionals.
+U.K.’s NHS
+enforces a zero-tolerance policy on violence, supported by a dedicated security team and a comprehensive reporting system.
+In the
+U.S.,
+some States classify assaults on healthcare workers as felonies, acting as a strong deterrent.
+Australian hospitals
+have introduced safety measures like security personnel, panic buttons, and mandatory de-escalation training.
+India must urgently introduce a Central protection Act
+and adopt similar measures to take stringent actions to ensure a safer environment for its healthcare workers.
+The Supreme Court on Tuesday formed a 10-member National Task Force to make a blueprint for the safety and facility of healthcare workers at their workplace.
+Members
+The newly established NTF comprises a distinguished panel of medical experts from various specialisations, including:
+Surgeon Vice-Admiral Aarti Sarin
+Dr D Nageshwar Reddy
+Dr M Shreenivas
+Dr Pratima Murty
+Dr Goverdhan Dutt Puri
+Dr Saumitra Rawat
+Anita Saxena
+Pallavi Sapre, Dean
+Dr Padma Srivastava
+In addition to the core members, the NTF will also include ex officio members such as:
+the Cabinet Secretary to the Government of India,
+the Home Secretary,
+the Secretary of the Union Health Ministry,
+the Chairperson of the National Medical Commission, and
+the President of the National Board of Examiners.
+Responsibilities
+The NTF has been tasked with the critical responsibility of devising an action plan to ensure the safety and well-being of medical professionals.
+It will particularly focus on preventing gender-based violence and creating dignified working conditions for interns, resident doctors, and non-resident doctors.
+Areas to be addressed:
+The action plan will address several key areas, including:
+Enhancing security in emergency rooms and other critical areas.
+Implementing baggage screening to prevent the entry of arms.
+Restricting the number of non-patient visitors.
+Managing crowd control effectively.
+Providing restrooms and gender-neutral spaces for medical staff.
+Introducing biometric and facial recognition systems.
+Improving lighting and installing CCTV in all hospital areas.
+Arranging transport for medical professionals between 10 pm and 6 am.
+Conducting workshops on handling grief and crisis situations.
+Performing quarterly audits of institutional safety measures.
+Establishing a police force commensurate with hospital footfall.
+Applying the Prevention of Sexual Harassment (POSH) Act to medical establishments, ensuring the constitution of an Internal Complaints Committee (ICC).
+Setting up an emergency helpline for medical professionals.
+Task force for safety of medicos.pdf
+( Size:  702.4 KB  )
+Click to View More
+Polity & Governance
+**********Senior advocate designation
+Why in news?
+Recently, the Supreme Court designated 39 lawyers, including 10 women, as senior advocates. Notable among them are Indra Sawhney(linked to the pivotal 1992 ruling capping reservations at 50%), Shadan Farasat (Additional Advocate General of Punjab), BJP MP Bansuri Swaraj, and Anindita Pujari, Vice-President of the Bar Association of India.
+These designations were made under new guidelines issued by a three-judge Bench in May 2023, which revised the 2018 guidelines for granting the 'senior advocate' designation.
+What’s in today’s article?
+Senior lawyer designation
+Indira Jaising Case
+2023 guidelines for designation of senior advocates in the SC
+Senior advocates/lawyers in India
+About
+Under Section 16 of the
+Advocates Act 1961
+two classes of advocates are classified; Senior Advocate and Junior or those who are not designated as seniors.
+The Senior advocates play the role of legal experts in India who have significant knowledge in the field of law.
+They are associated with many prominent cases as they are good contributors to the principle of Rule of Law.
+Legal provisions related to the Designation of Senior Counsel
+Section 16(2) of the
+Advocates Act, 1961
+and Rule 2(a) of
+Order IV of the Supreme Court Rules, 1966
+provide certain guidelines to be followed for the designation of a senior counsel.
+As per these provisions:
+The Chief Justice and other judges of the concerned court should believe that a particular advocate is fit to hold the position of a senior advocate.
+The concerned advocate should have exceptional legal expertise and knowledge of the law.
+The consent of such an advocate should be obtained prior.
+The selection should be on the sole ground of his knowledge and expertise in the area of law.
+Restrictions imposed on a Senior Advocate
+A senior advocate is not permitted to appear without an Advocate-on-record or any junior.
+He/she is refrained from drafting pleadings or affidavits before any court or authority mentioned under Section 30 of the act.
+He/she shall not accept directly from a client any brief or instructions to appear in any Court.
+A senior cannot file any pleading or represent his client neither can draft an application by his own handwriting.
+The senior advocate must maintain a code of conduct, different from the other advocates.
+India’s first woman Senior Advocate Indira Jaising filed a petition in SC challenging the existing process of designation.
+She termed this process as opaque, arbitrary and fraught with nepotism and sought greater transparency in the process of designating.
+As a result, the Apex Court decided to lay down guidelines for itself and all High Courts on the process of designating senior advocates.
+Verdict in Indira Jaising Case
+The judgment decided the setup:
+A permanent committee, and
+a permanent secretariat,
+Secretariat was tasked with receiving and compiling all applications for designation with relevant data, information, and the number of reported and unreported judgments.
+Besides creating permanent bodies, the verdict laid down the procedures and assessment criteria for the designation process.
+New guidelines for designation of senior advocates in the SC
+Background
+In February 2023, the Central government sought to change guidelines for the designation of senior lawyers.
+These guidelines were issued by the Supreme Court in the aftermath of its 2017 ruling in the case of ‘Indira Jaising vs. Union of India’.
+The designation guidelines for lawyers are based on a point-based system, which awarded 40% weightage to publications, personality, and suitability gauged through the interview.
+The Centre argued that this system is subjective, ineffective, and dilutes the esteem and dignity of the honour being conferred traditionally.
+It pointed to the
+rampant circulation of bogus and sham journals
+where people can publish their articles without any academic evaluation of the contents and quality of the articles.
+The Centre also sought to
+reinstate the rule of a simple majority by a secret ballot
+, where the judges can express their views about the suitability of any candidate without any embarrassment.
+The existing guidelines discouraged the system of voting by secret ballot, except in cases where it was unavoidable.
+In this backdrop, SC released a new guideline in May 2023.
+Key highlights of the new guidelines
+Minimum age to apply for the senior advocate designation
+The new guidelines prescribe the minimum age as 45 years to apply for the ‘senior advocate’ designation.
+This age limit may, however, be relaxed by the Committee, the Chief Justice of India, or a Supreme Court judge if they have recommended an advocate’s name.
+The 2017 guidelines say that the CJI along with any judge can recommend an advocate’s name for designation.
+However, the 2023 guidelines specify that the
+CJI along with any Judge of the Supreme Court
+may recommend in writing the name of an advocate for designation.
+Marks set aside for publications
+Earlier, the guidelines stated that 15 marks were set aside for publications.
+However, the new guidelines state that only 5 marks will be given for:
+publication of academic articles, experience of teaching assignments in the field of law, and
+guest lectures delivered in law schools and professional institutions connected with law.
+Weightage given to reported and unreported judgements
+The weightage given to reported and unreported judgements (excluding orders that do not lay down any principle of law) has increased from 40 to 50 points in the new guidelines.
+Senior advocate designation.pdf
+( Size:  2.9 MB  )
+Click to View More
+Polity & Governance
+**********

@@ -1,0 +1,740 @@
+Digital Agriculture Mission
+Why in news?
+The Union Cabinet has approved the Rs 2,817-crore Digital Agriculture Mission for the creation of Digital Public Infrastructure (DPI) in the farm sector.
+What’s in today’s article?
+Digital Public Infrastructure in the agriculture sector - Digital Agriculture Mission
+Three pillars of Mission
+Digital General Crop Estimation Survey (DGCES)
+About
+DPI refers to the
+foundational digital systems that enable the delivery of essential public services and foster inclusive economic growth
+These systems include a wide array of technologies, platforms, and services that support government functions, financial transactions, and social services.
+DPI is designed to be interoperable, scalable, and accessible, enabling citizens and businesses to interact with the government and each other efficiently.
+In India, notable examples include the Aadhaar system for unique identification, the Unified Payments Interface (UPI) for seamless financial transactions, and the CoWIN platform for managing COVID-19 vaccinations.
+Benefits
+Inclusivity and Accessibility
+: The Aadhaar system has provided over 1.3 billion Indians with a unique identity, facilitating access to various government services and subsidies.
+Economic Growth
+: The UPI system, for example, has revolutionized financial transactions in India, making it easier for small businesses and individuals to engage in digital payments.
+Efficiency and Transparency
+: The Direct Benefit Transfer (DBT) system in India, has significantly reduced leakages in welfare schemes by ensuring that subsidies reach the intended beneficiaries directly.
+Challenges
+Digital Divide
+: There remains a significant digital divide in India, with many people lacking access to the internet or digital literacy.
+Privacy and Data Security
+: The Aadhaar system, while effective, has faced criticism and legal challenges over data privacy concerns.
+Interoperability and Scalability
+: Integrating various state and national-level services with Aadhaar and UPI requires robust technical solutions.
+The Digital Agriculture Mission aims to create a comprehensive Digital Public Infrastructure (DPI) in the agriculture sector, similar to India's other successful e-governance initiatives like
+Aadhaar, DigiLocker, UPI, and electronic health records
+The mission focuses on
+three major DPI components
+: AgriStack, Krishi Decision Support System (DSS), and Soil Profile Maps.
+Additionally, the mission includes the
+DGCES will leverage technology to provide accurate estimates of agricultural production, fostering a more informed and resilient agricultural ecosystem.
+Funding for Mission
+The Digital Agriculture Mission has a budgetary allocation of Rs 2,817 crore, with Rs 1,940 crore from the Centre and the remainder from states and Union Territories.
+Announcement and coverage
+Planned as part of the Agriculture Ministry's 100-day activities under the newly formed govt,
+the Mission will be implemented nationwide by 2025-26
+Initially set for launch in 2021-22, the Mission was delayed by the Covid-19 pandemic.
+Announced in the Union Budgets of 2023-24 and 2024-25, the
+Mission aims to cover farmers and their lands within three years
+In 2024, a digital crop survey for the Kharif season will be conducted in 400 districts, incorporating details of 6 crore farmers and their lands into registries.
+The basic IT infrastructure for implementing AgriStack is one of the three DPIs to be built under the Mission.
+AgriStack consists of three foundational agri-sector registries or databases:
+Farmers’ Registry
+Farmers will receive a digital identity called a
+'Farmer ID,'
+similar to Aadhaar.
+This ID will be dynamically linked to various records, including land ownership, livestock, crops, demographic details, family information, and schemes/benefits availed.
+The government plans to create digital identities for 11 crore farmers, with 6 crore covered in 2024-25, 3 crore in 2025-26, and the remaining 2 crore in 2026-27.
+This Registry will allow farmers to digitally identify and authenticate themselves to access benefits and services, reducing the need for paperwork and physical visits to offices.
+Crop Sown Registry
+It Registry will record details of crops planted by farmers, using information gathered through Digital Crop Surveys, which are mobile-based ground surveys conducted each crop season.
+The government plans to roll out the Digital Crop Survey nationwide over the next two years, covering 400 districts in the 2024-25 financial year and the remaining districts in 2025-26.
+Geo-referenced Village Maps
+The maps will link geographic information on land records with their physical locations.
+Krishi DSS
+The Krishi Decision Support System is a recently unveiled geospatial platform that integrates remote sensing data on crops, soil, weather, and water resources.
+It supports the generation of crop maps, helping to identify crop sown patterns, monitor droughts and floods, and assess yields using technology and models.
+This system will also play a crucial role in settling crop insurance claims for farmers.
+Under the Mission, detailed Soil Profile Maps (on a 1:10,000 scale) of about 142 million hectares of agricultural land are envisaged to be prepared.
+A detailed soil profile inventory of about 29 million ha has already been completed.
+This will greatly improve the existing crop yield estimation system, and to make the data more robust.
+This, in turn, will address concerns that are sometimes raised about the accuracy of India’s agriculture production estimates.
+By integrating digitally captured data on crop-sown areas with yield data from DGCES and remote-sensing data,
+the system will enhance the reliability of crop production estimates
+This improved data will help government agencies make schemes like paperless Minimum Support Price (MSP)-based procurement, crop insurance, and credit card-linked crop loans more efficient and transparent.
+Additionally, the data will aid in facilitating crop diversification, evaluating irrigation needs based on crop and season, and promoting the balanced use of fertilizers.
+The DGCES will provide scientifically-based yield estimates, further ensuring accurate agricultural production assessments.
+Digital Agriculture Mission.pdf
+( Size:  3.1 MB  )
+Click to View More
+Economics
+**********Chip assembly plant in Gujarat
+Why in news?
+The union cabinet, chaired by PM Modi, has approved the proposal of Kaynes Semicon to set up a semiconductor unit in Gujarat with an investment of INR 3,300 Cr. This is the
+fifth semiconductor unit
+, and the
+fourth assembly unit
+, to receive Cabinet approval.
+The proposal was approved under the India Semiconductor Mission (ISM).
+What’s in today’s article?
+Semiconductor manufacturing in India
+Need for domestic manufacturing of semiconductors
+Foundation stone of modern electronics industry
+Semiconductors and displays are the foundation of modern electronics industry.
+These are critical components that power electronics - from computers and smartphones to the brake sensors in cars.
+To reduce import dependency
+As India does not produce any semiconductors, the country’s demands are met with imports.
+The demand for semiconductors in India will reportedly reach around
+USD 100 billion by 2025
+, up from the current demand of USD 24 billion.
+To overcome the disruption in supply-chain
+The absence of local manufacturing affected India the most during the lockdown imposed due to the Covid-19 pandemic.
+Geopolitical significance
+In the current geopolitical scenario, trusted sources of semiconductors and displays hold strategic importance.
+These are key to the security of critical information infrastructure.
+E.g., The Department of Telecommunications has in the past raised concerns over possible bugs in the telecom equipment sold by the Chinese company.
+Steps taken by the Govt to promote indigenous semiconductor industry
+Launched in 2022, ISM aims to establish a robust semiconductor ecosystem within the country.
+This initiative, housed under the Digital India Corporation, is tasked with catalysing semiconductor manufacturing, packaging, and design capabilities in India.
+As an independent business division, the ISM possesses the necessary administrative and financial autonomy to drive the program’s efficient implementation.
+Moreover, it boasts an advisory board comprising leading global experts in the semiconductor domain, ensuring strategic guidance and expertise.
+SemiconIndia Programme
+The Union Cabinet approved the Semicon India Programme in 2021 with a budget of INR 76,000 crore.
+The program aims to create a sustainable semiconductor and display ecosystem in India.
+It does so by offering attractive incentives to companies involved in various semiconductor-related sectors, including Silicon Semiconductor Fabs, Display Fabs, Compound Semiconductors, Sensors, and Semiconductor Packaging.
+Design Linked Incentive (DLI) Scheme
+Uder this, support is provided to 100 domestic companies of semiconductor design for Integrated Circuits (ICs), Chipsets, System on Chips (SoCs), etc.
+The Centre for Development of Advanced Computing (CDAC) is the nodal agency for implementing the DLI Scheme.
+Modified Scheme for Setting up of Semiconductor Fabs
+The Modified Scheme for Setting up of Semiconductor Fabs in India provides a 50% fiscal support of the project cost for the setting up of semiconductor fabs in India.
+This scheme is part of the Semicon India program.
+Fiscal Support
+The Central Government has announced incentives for every part of supply chain including electronic components, sub-assemblies, and finished goods.
+In total,
+Government has committed support of Rs. 2,30,000 crore
+(USD 30 billion) to position India as global hub for electronics manufacturing with semiconductors as the foundational building block.
+Chips to Startup (C2S) programme
+The government has also introduced the Chips to Startup (C2S) programme aims to train 85,000 engineers (Bachelors, Masters and Research level combined) qualified in ESDM disciplines over a period of 5 years.
+ESDM – Electronic System Design and Manufacturing
+About the news
+In a significant move towards building a robust semiconductor ecosystem, the Union Cabinet approved the proposal for Kaynes Semicon Pvt Ltd to establish a semiconductor manufacturing unit in Sanand, Gujarat.
+This initiative, which involves an investment of ₹3,300 crore, is expected to enhance India's semiconductor production capabilities.
+Key highlights of the plant
+The capacity of this unit will be 60 lakh chips per day.
+The chips produced in this unit will cater to a wide variety of applications which include segments such as industrial, automotive, electric vehicles, consumer electronics, telecom, mobile phones, etc.
+India’s ambitions to become a major chip hub
+India is striving to become a major semiconductor hub, similar to the United States, Taiwan, and South Korea, by attracting foreign companies to establish operations within the country.
+Notably, India has approved an $11 billion fabrication plant by Tata Electronics in partnership with Taiwan’s Powerchip and three chip assembly plants by Tatas, US-based Micron Technology, and Murugappa Group’s CG Power with Japan’s Renesas.
+Additional proposals include a ₹78,000-crore fabrication plant by Israel’s Tower Semiconductor and a ₹4,000-crore assembly plant by Zoho, highlighting the country's growing ambitions in the semiconductor industry.
+Chip assembly plant in Gujarat.pdf
+( Size:  1.1 MB  )
+Click to View More
+Economics
+**********NIAB Working to Decode Genetic Blueprints
+Why in the News?
+The National Institute of Animal Biotechnology (NIAB) is working to decode the genetic blueprints for conservation of indigenous cattle breeds using Next Generation Sequencing (NGS) data and genotyping technology.
+What’s in Today’s Article?
+About NIAB (Objectives, Mission, etc.)
+About BioE3 Policy (Objectives, Strategic Components)
+News Summary
+About National Institute of Animal Biotechnology (NIAB):
+The National Institute of Animal Biotechnology (NIAB) is a premier research institution, established under the
+Department of Biotechnology
+, Ministry of Science and Technology.
+Located in
+Hyderabad
+, NIAB
+focuses on cutting-edge research in animal biotechnology, aiming to improve animal health, productivity, and welfare
+The institute's research activities cover a wide range of areas, including genetics, genomics, vaccine development, diagnostics, and reproductive biotechnology.
+NIAB's mission is to address the challenges faced by the livestock sector in India, which is a vital component of the country's economy, especially for rural populations.
+By developing innovative biotechnological solutions, NIAB aims to enhance the quality and quantity of animal products like milk, meat, and eggs, while also ensuring better disease management and overall animal welfare.
+The institute is also involved in capacity building, offering training programs for students and professionals in the field of animal biotechnology.
+BioE3 Policy:
+The Government of India has recently launched the BioE3 Policy, which stands for "
+Bioenergy, Bioeconomy, and Bioproducts for Environment and Employment
+."
+This policy is a significant step towards promoting sustainable development and addressing environmental challenges while boosting economic growth through the bioeconomy sector.
+Key Objectives:
+Promote Bioenergy:
+The policy aims to increase the production and utilization of bioenergy as a renewable energy source. This includes the promotion of biofuels, biogas, and biomass-based energy solutions.
+Boost Bioeconomy:
+The BioE3 Policy focuses on expanding the bioeconomy by encouraging the development and commercialization of bioproducts. These include bioplastics, biochemicals, and other value-added products derived from biological resources.
+Environmental Sustainability:
+A core objective of the BioE3 Policy is to promote environmental sustainability. By encouraging the use of renewable biological resources and reducing reliance on non-renewable materials, the policy aims to mitigate environmental degradation, reduce carbon emissions, and promote a circular economy.
+Employment Generation:
+The policy also focuses on creating employment opportunities in the bioeconomy sector. By supporting innovation, research, and development in bio-based industries, the BioE3 Policy aims to generate jobs, particularly in rural areas, thereby contributing to inclusive economic growth.
+Strategic Components:
+Research and Development (R&D):
+The policy emphasizes the need for increased R&D in bio-based technologies and processes.
+Infrastructure Development:
+The BioE3 Policy also focuses on developing the necessary infrastructure for the bioeconomy, including bio-refineries, bioproduct manufacturing units, and bioenergy plants.
+Public-Private Partnerships (PPP):
+To achieve its goals, the policy encourages collaboration between the government, private sector, academia, and research institutions.
+Regulatory Support:
+The BioE3 Policy includes measures to streamline regulations and provide incentives for bio-based industries. This includes tax benefits, subsidies, and simplified approval processes to attract investment and encourage the growth of the bioeconomy.
+NIAB Working to Decode Genetic Blueprints:
+The NIAB is working to decode the genetic blueprints for conservation of indigenous cattle breeds using Next Generation Sequencing (NGS) data and genotyping technology.
+NGS is a technology that determines the order of nucleotides in DNA or RNA by sequencing millions of small DNA fragments in parallel.
+NGS is also known as massively parallel sequencing.
+This will help to establish molecular signatures for registered cattle breeds.
+A good number of ‘bio-scaffolds’ (for repairing tissues), both natural as well 3D printed, are being produced for cell/drug delivery, bio-banking and using animal stem cells enriched scaffolds as various therapeutic interventions.
+Scientists are also working on generating biomarkers of susceptibility and resistance to TB in native and crossbred cattle.
+A biomarker (metabolite and protein) has been developed for early assessment of nutritional stress-induced negative energy balance leading to decreased productivity and infertility in cattle population.
+newspaper.pdf
+( Size:  104.7 KB  )
+Click to View More
+Polity & Governance
+**********RBI to Launch the Unified Lending Interface (ULI)
+Why in News?
+Unified Lending Interface (ULI), the Reserve Bank of India’s (RBI) technology platform to enable frictionless credit, will be launched nationwide soon.
+Similar to Unified Payment Interface (UPI), which has revolutionised the retail payment system in the country, ULI will transform the lending landscape.
+What’s in Today’s Article?
+Background in which the Idea of Unified Lending Interface (ULI) Developed
+What is Unified Lending Interface (ULI)?
+Background in which the Idea of Unified Lending Interface (ULI) Developed:
+With rapid progress in digitalisation
+, India has embraced the concept of digital public infrastructure (DPI) which encourages banks, NBFCs, fintech companies and start-ups to create and provide innovative solutions in
+Payments,
+Credit, and
+Other financial activities.
+For digital credit delivery,
+the data required for credit appraisal are available with different entities like Central and State governments, account aggregators, banks, credit information companies and digital identity authorities.
+As these data sets are in separate systems
+, it creates hindrance in frictionless and timely delivery of rule-based lending.
+A pilot project for the digitalisation of Kisan Credit Card (KCC) loans
+of less than ₹1.6 lakh began in 2022.
+The initial results of the KCC pilot were encouraging
+as it enabled doorstep disbursement of loans without any paperwork.
+In 2023
+, the RBI had announced the setting up of a Public Tech Platform for Frictionless Credit which is now branded as the ULI.
+About:
+The ULI platform will facilitate a seamless and consent-based flow of digital information, including land records of various states, from multiple data service providers to lenders.
+Objectives:
+It will cut down the time
+taken for credit appraisal, especially for smaller and rural borrowers.
+It is aimed to bring about efficiency
+in the lending process in terms of reduction of costs, quicker disbursement, and scalability.
+Working:
+The ULI architecture has common and standardised
+APIs
+(Application Programming Interface), designed for a ‘plug and play’ approach to ensure digital access to information from diverse sources.
+For instance,
+taking the example of a dairy farmer seeking a loan. The lender can find data from the milk cooperative to know about -
+Cash flows;
+Land ownership status from land records of States; and
+Insights into his financial condition through farming patterns.
+Thus, with the help of ULI the lenders can
+immediately know the income of the loan applicant and credit eligibility
+Thus, decision making would be automated
+and loans could be sanctioned and disbursed within minutes.
+Significance:
+The platform will reduce the complexity
+of multiple technical integrations by digitising access to customer’s financial and non-financial data that otherwise resided in disparate silos.
+It is expected to cater to large unmet demand
+for credit across various sectors, particularly for agricultural and MSME borrowers.
+Tenant farmers
+who often find it difficult to access agricultural credit can also avail loans by establishing their identity not through his land holding but through the end use of funds being disbursed.
+The ‘new trinity’ of JAM-UPI-ULI
+will be a revolutionary step forward in India’s digital infrastructure journey.
+(Jan Dhan, Aadhar and Mobile) trinity is a tool used by the government to transfer cash benefits directly to the bank account of the beneficiary.
+What is the Unified Lending Interface by the RBI.pdf
+( Size:  327.5 KB  )
+Click to View More
+Economics
+**********Dealings at a China-Africa forum that India must track
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+China-Africa Cooperation (FOCAC);
+Mains level:
+India-Africa relation;
+Why in the News?
+The 9th edition of the
+Forum on China-Africa Cooperation (FOCAC)
+is scheduled to be held in Beijing from 4th to 6th September, 2024.
+About the China-Africa Cooperation (FOCAC)
+The Forum on
+China-Africa Cooperation (FOCAC) was established in 2000
+to enhance the
+strategic partnership between China and African nations.
+It serves as a platform for collective dialogue and cooperation in various sectors, including
+trade, investment, and development.
+Challenges of China-Africa Debt:
+Chinese loans to African countries amounted to
+approximately $170 billion from 2000 to 2022.
+However, Chinese lenders represent only about
+12% of Africa’s total public and private debt
+, indicating that China is not the primary creditor.
+A significant portion of
+Chinese loans is not disclosed in sovereign debt records
+, complicating the understanding of Africa’s overall debt levels. This lack of transparency raises concerns about the sustainability of these debts.
+Despite concerns over
+“debt trap diplomacy,”
+China is unlikely to
+forgive or cancel debts
+but may consider
+writing off smaller, interest-free loans.
+African Priorities at FOCAC 2024
+Economic Goals:
+African nations are focusing on
+enhancing trade relations with China
+, with a
+modest goal of $300 billion in imports from Africa between 2022-2024.
+As of mid-2024,
+trade has reached $167 billion,
+primarily dominated by raw materials.
+Agricultural Development:
+There is a pressing need to develop a
+sustainable
+agricultural industry in Africa.
+This includes improving the
+processing of agricultural commodities
+and leveraging the expertise of countries like China and India to
+enhance crop resilience and productivity.
+Green Energy and Industrialization:
+African countries are advocating for the
+establishment of refining and processing hubs to increase the value added from their raw materials.
+What are the learnings that India can have?
+Continuity in Engagement:
+India should emphasize
+consistent engagement with Africa,
+particularly by
+organizing the India-Africa Forum Summit (IAFS-IV)
+to capitalize on recent momentum, especially after the
+African Union’s inclusion in the G-20.
+Support for Industrialization:
+Indian companies are encouraged to invest in
+higher value-added sectors in Africa,
+such as
+agriculture and pharmaceuticals,
+to foster local employment and market development.
+Private Sector Participation:
+Greater involvement of the
+Indian private sector is essential, along with innovative financing solutions
+like public-private partnerships to support projects in Africa.
+Digital and Financial Connectivity:
+Utilizing
+India’s digital stack and establishing rupee-based financial transactions
+can enhance connectivity and
+reduce forex risks for African nations.
+Conclusion:
+India should deepen its strategic partnerships with African nations by expanding bilateral and multilateral engagements, focusing on key sectors like healthcare, digital infrastructure, and renewable energy. Leveraging India’s experience in these areas can help address African development needs while enhancing India’s influence on the continent.
+Mains PYQ:
+Increasing interest of India in Africa has its pros and cons. Critically Examine.
+(UPSC IAS/2015)
+**********On Germany’s electoral architecture 
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Proportional Representation;
+Mains level:
+Pros and cons of Proportional Representation;
+Why in the News?
+On July 30, Germany’s constitutional court approved downsizing the Bundestag, citing concerns over financial strain and efficiency due to its unprecedented 736 deputies.
+(Note:
+The
+is the
+Lower house of Germany)
+Why has the German Constitutional Court upheld the move to downsize the lower house of parliament?
+Constitutional Rationale:
+The court approved the plan to
+reduce the size of the Bundestag to improve its efficiency and reduce costs,
+as it had become the world’s largest elected assembly.
+The court backed the government’s decision to limit the
+Bundestag to 630 members by removing “overhang” and “balance” seats
+, which had caused the number of legislators to grow significantly.
+Legal Compliance:
+The court’s decision aligns with previous rulings that
+emphasized the need for electoral equality and the fair representation of political parties
+ensuring that the election system remains constitutionally valid.
+How does a mixed-member Proportional Representation system work?
+Dual Voting System:
+In Germany, each voter casts
+two votes in federal elections
+First Vote:
+Directly elects a candidate from a
+local constituency
+via the
+first-past-the-post method (299 seats)
+Second Vote:
+Chooses a political party,
+which determines the
+distribution of another 299 seats proportionally across Germany’s 16 regions.
+Seat Allocation:
+The second vote is crucial as it
+determines the overall proportion of seats each party holds
+in the Bundestag. The final seat count for each party is based on a combination of directly elected candidates and the proportion of the second vote.
+Overhang Seats:
+If a party wins
+more direct seats than the proportion of the second vote would allow,
+these
+extra seats
+are known as
+“overhang seats.”
+These were traditionally retained, leading to an increase in the total number of seats.
+How does a mixed-member Proportional Representation system work in India?
+No MMP System in India:
+does not use a mixed-member proportional representation system
+at the national level. The Indian electoral system primarily follows the
+first-past-the-post method,
+where the candidate with the
+most votes in each constituency wins a seat in the parliament.
+Proportional Representation:
+In India,
+proportional representation (Single transferable
+) is used
+only in certain cases, such as elections to the Rajya Sabha (the upper house) and the President
+Types of Proportional Representation:
+Single Transferable Vote (STV):
+This system allows
+voters to rank candidates in order of preference.
+It is used to elect members of the
+Rajya Sabha (Council of States) and the President of India.
+Party-List PR:
+In this system, voters
+cast their votes for a party rather than individual candidates.
+Seats are allocated to
+each party based on the proportion of votes they receive
+. A
+minimum threshold (usually between 3-5%)
+is often required for a party to gain representation, preventing excessive fragmentation in the legislature.
+Mixed-Member Proportional Representation (MMP):
+This combines elements of
+FPTP and PR, allowing voters to cast two votes—one for a candidate and another for a party.
+This system aims to balance the benefits of direct representation with proportionality.
+What are balance or overhang seats and why were they deemed Unconstitutional?
+These are additional seats that a party wins when it secures
+more direct constituency seats than it would be entitled to based on its second vote share.
+This situation arises
+due to the mixed-member proportional system.
+Balance Seats:
+Introduced to maintain proportionality and fairness,
+balance seats are given to other parties to offset the overhang seats,
+ensuring that the overall seat distribution reflects the second vote shares accurately.
+Unconstitutionality:
+In 2008, the German Constitutional Court ruled that the increasing number of overhang seats violated the principle of electoral equality. The recent judgment further
+upheld the move to eliminate these seats to simplify the electoral system
+and maintain fairness.
+Conclusion:
+Germany should swiftly implement the downsizing plan, ensuring that the transition to a 630-member Bundestag is smooth and transparent, with clear communication to the public and political parties.
+Mains PYQ:
+Critically examine the procedures through which the Presidents of India and France are elected.
+(UPSC IAS/2022)
+**********Use of Regional Languages in High Courts remains limited
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Article 348(1)(a), Article 348 (2)
+Why in the News?
+A growing movement in India is advocating for use of
+regional languages in High Court
+proceedings to make
+justice more accessible to the common citizen.
+Current Scenario: Regional Languages in High Courts
+Out of India’s 25 High Courts,
+only 4
+—
+Rajasthan, Madhya Pradesh, Uttar Pradesh,
+and
+Bihar
+— are
+authorized to use Hindi
+in their proceedings and legal documents.
+was the last High Court to receive authorization to
+use Hindi in 1972.
+A litigant possesses the
+fundamental right
+to comprehend and engage in courtroom proceedings,
+under Article 19 and Article 21
+She/ He is
+entitled to present their case in a language they understand
+before the magistrate.
+Additionally, the “
+right to justice
+” is explicitly recognized under
+of the Constitution.
+Despite these provisions, the use of regional languages in High Courts remains limited.
+Constitution provisions for Regional Languages in Judiciary:
+Provision
+Details
+Article 348(1) (a)
+Language of Proceedings
+English is the official language
+for proceedings in the Supreme Court, High Courts, and specified tribunals.
+All records and orders
+must be in English
+Purpose
+Ensures uniformity and consistency in legal proceedings and documentation at the highest judicial levels.
+Scope
+Applies to the
+, and all authorities mentioned in
+Article 323A or Article 323B.
+Article 348(2)
+Use of Other Languages
+The
+President
+may authorize the use of Hindi or any other regional language in addition to English.
+Authorization is subject to conditions specified by the President.
+Allows for regional languages
+to be used in judicial proceedings, making the system more accessible to non-English speakers.
+Can be applied in the
+, and other authorities as mentioned in Article 323A or Article 323B.
+PYQ:
+[2021]
+Which one of the following in Indian polity is an essential feature that indicates that it is federal in character?
+(a) The independence of judiciary is safeguarded.
+(b) The Union Legislature has elected representatives from constituent units.
+(c) The Union Cabinet can have elected representatives from regional parties.
+(d) The Fundamental Rights are enforceable by Courts of Law.
+**********Vision J&K @2047
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Why in the News?
+The
+Ministry of Personnel, Public Grievances & Pensions
+has presented the
+describing it as an integral part of
+Vision India @2047
+.
+What is J&K @2047?
+Vision J&K @2047 is a long-term strategic plan for Jammu and Kashmir (J&K).
+It seeks to develop the region into a model of sustainable development, economic growth, and social harmony by the year 2047, coinciding with India’s 100th year of independence.
+Key features of Vision J&K @2047:
+Vision J&K @2047 focuses on
+restoring democratic governance
+through Assembly elections and establishing Zilla Parishads.
+It aims to
+enhance infrastructure, create job opportunities, and drive economic development
+in the region.
+Significant improvements in education and healthcare
+are planned, along with empowerment initiatives for women and minorities.
+Governance reforms
+aim to enhance administrative efficiency and reduce bureaucratic hurdles.
+Promotion of local industries and entrepreneurship
+is a key component to achieve economic self-sufficiency.
+**********Rule 170 of Drugs and Cosmetics Act, 2018
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Supreme Court
+has
+raised concerns over the AYUSH ministry’s notification,
+which advised state licensing authorities not to take action
+under Rule 170 of the Drugs and Cosmetics Act
+in the context of the ongoing case against
+Patanjali Ayurved
+.
+Rule 170 of the Drugs and Cosmetics Act, 2018:
+Details
+What is it?
+was introduced in 2018 to
+regulate the manufacture, storage, and sale of Ayurvedic, Siddha, and Unani medicines,
+focusing on controlling misleading advertisements in the AYUSH sector.
+Requirements
+• AYUSH drug manufacturers must
+obtain approval and a unique identification number
+from state licensing authorities before advertising their products.
+• Required documentation includes
+textual references, rationale, indications for use,
+evidence of safety, effectiveness,
+quality.
+Key Provisions
+Prohibits advertisement of AYUSH products without prior state authority approval.
+Advertisements may be rejected if they:
+– Lack of contact details of the manufacturer.
+– Contain obscene or vulgar content.
+– Promote products for enhancing sexual organs.
+– Feature endorsements from celebrities or government officials.
+– Refer to government organizations.
+– Convey false impressions or make misleading or exaggerated claims.
+Rationale Behind
+• Introduced following a parliamentary standing
+committee’s concerns about misleading claims in the AYUSH sector.
+• Aims to
+ensure proactive measures by the AYUSH ministry against such advertisements.
+Challenges
+• AYUSH drug manufacturers are
+required to obtain licenses from drug controllers similar to allopathic medicines.
+• Unlike allopathic drugs,
+AYUSH drugs do not need to undergo Phase I, II, or III trials
+for approval.
+PYQ:
+[2019]
+How is the Government of India protecting traditional knowledge of medicine from patenting by pharmaceutical companies?
+**********[pib] India Semiconductor Mission (ISM)
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Union Cabinet has approved the proposal by
+Kaynes Semicon Pvt Ltd
+to establish a
+semiconductor unit in Sanand, Gujarat.
+This is the
+5
+to be approved under the
+India Semiconductor Mission (ISM).
+This now brings the total investment to ₹1,52,307 crore (US$18.15 billion).
+About India Semiconductor Mission (ISM):
+Details
+Launch Year
+2021
+Financial Outlay
+₹76,000 crore
+Backing by
+Ministry of Electronics and IT (MeitY)
+Objective
+Develop a sustainable semiconductor and display ecosystem in India.
+Primary Goal
+Provide financial support to companies investing in semiconductor and display manufacturing and design ecosystem.
+Leadership
+Envisioned to be led by global experts in the Semiconductor and Display industry.
+Components
+Scheme for Semiconductor Fabs
+: Fiscal support to set up semiconductor wafer fabrication facilities.
+Scheme for Display Fabs
+: Fiscal support for setting up TFT LCD/AMOLED display fabrication facilities.
+Scheme for Compound Semiconductors / Silicon Photonics / Sensors Fab and ATMP/OSAT
+: 30% fiscal support for setting up compound semiconductors, silicon photonics, sensors fabs, and ATMP/OSAT facilities.
+Design Linked Incentive (DLI) Scheme
+: Financial incentives and design infrastructure support for semiconductor design for ICs, chipsets, SoCs, systems & IP cores.
+Vision
+Develop India into a global hub for semiconductor and display manufacturing and design.
+PYQ:
+[2008]
+Which one of the following laser types is used in a laser printer?
+(a) Dye laser
+(b) Gas laser
+(c) Semiconductor laser
+(d) Excimer laser
+**********[pib] DoT notifies Telecommunications (Administration of Digital Bharat Nidhi) Rules, 2024
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Digital Bharat Nidhi Rules, 2024
+Why in the News?
+The Centre has published the
+first set of rules
+under the
+Telecommunications Act, 2023 (44 of 2023),
+titled ‘Telecommunications (Administration of Digital Bharat Nidhi) Rules, 2024.’
+About
+Description
+Legislation
+Introduced under the Telecommunications Act, 2023
+Fund
+Digital Bharat Nidhi (DBN): Replaces the
+Universal Service Obligation Fund (USOF)
+under the Indian Telegraph Act, 1885
+Role of Administrator
+Responsible for overseeing the implementation and administration of DBN
+Key Focus Areas
+• Enhancing telecommunication services in underserved and remote areas
+• Promoting access to mobile and broadband services
+• Improving telecom security
+• Supporting next-generation telecom technologies
+Target Beneficiaries
+• Marginalized groups (e.g., women, persons with disabilities, economically weaker sections)
+• Remote and underserved regions
+Project Criteria
+• Provision of telecom services and equipment
+• Enhancing telecom security
+• Improving access and affordability
+• Promoting innovation, R&D, and indigenous technology
+• Supporting start-ups
+• Encouraging sustainable and green technologies
+Funding Conditions
+Entities receiving DBN funding must provide telecom services on an open and non-discriminatory basis
+Vision Alignment
+Aligned with Viksit Bharat (Developed India) by 2047
+Sustainability Focus
+Emphasizes the promotion of green technologies in telecommunications
+PYQ:
+[2019]
+In India, which of the following review the Independent regulators in sectors like telecommunications, insurance, electricity, etc.?
+Ad Hoc Committees set up by the Parliament
+Parliamentary Department Related Standing Committees
+Finance Commission
+Financial Sector Legislative Reforms Commission
+NITI Aayog
+Select the correct answer using the code given below:
+(a) 1 and 2
+(b) 1, 3 and 4
+(c) 3, 4 and 5
+(d) 2 and 5
+**********What is Digital Agriculture Mission?
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Union Cabinet has approved the “
+Digital Agriculture Mission”
+with a budget of ₹2,817 Crore, including ₹1,940 Crore as the central share.
+About
+Category
+Details
+Historical Context
+Originally planned for the financial year 2021-22 but delayed due to the Covid-19 pandemic.
+Announced in the Union Budgets of 2023-24 and 2024-25.
+Funding Breakdown
+Total outlay:
+Rs 2,817 crore
+• Rs 1,940 crore from the Centre
+• Remaining amount from states and Union Territories (UTs)
+Objective
+To create
+Digital Public Infrastructure (DPI)
+in the agriculture sector, similar to other
+e-governance initiatives like Aadhaar, DigiLocker, eSign, UPI, and electronic health records.
+Major Components of DPI
+1.
+AgriStack
+– A comprehensive digital platform integrating various agricultural services.
+– Facilitates access to information, services, and benefits related to farming and agricultural practices.
+– Centralizes agricultural data to improve accessibility and efficiency.
+2.
+Krishi Decision Support System (DSS)
+– Provides data-driven insights and recommendations for farmers.
+– Assists in decision-making related to crop management, pest control, and resource optimization based on real-time data.
+– Utilizes advanced analytics to enhance productivity and mitigate risks.
+3.
+Soil Profile Maps
+– Detailed digital maps on a
+1:10,000 scale
+covering approximately 142 million hectares.
+– Provides comprehensive information about soil characteristics and health.
+– Supports precision agriculture by offering targeted soil data for optimal crop planning.
+Additional Component
+Digital General Crop Estimation Survey (DGCES)
+– A tech-based system to provide accurate estimates of agricultural production.
+– Aims to offer reliable data for policy decisions, agricultural planning, and resource allocation.
+Impact on Farmers
+The mission will enable farmers to access a range of digital services, improve
+decision-making through data analysis
+enhance productivity with detailed soil information, and provide accurate crop estimations
+to better manage agricultural practices.
+Timeline
+Rolled out across the country over the next two years (until 2025-26).
+PYQ:
+[2020]
+In India, the term “Public Key Infrastructure” is used in the context of:
+(a) Digital security infrastructure
+(b) Food security infrastructure
+(c) Health care and education infrastructure
+(d) Telecommunication and transportation infrastructure
+**********

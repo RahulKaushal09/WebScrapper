@@ -1,0 +1,1136 @@
+Remission of Duties and Taxes on Exported Products (RoDTEP) Scheme
+Amid global economic uncertainties, the industry has urged the government to extend key export-boosting scheme Remission of Duties and Taxes on Exported Products (RoDTEP) for export-oriented units (EOUs) and special economic zones (SEZs) till September-end.
+About
+Scheme:
+This scheme was introduced through an amendment to the
+Foreign Trade Policy 2015-20,
+and it became effective for exports starting
+January 1, 2021
+The primary aim of this scheme is to
+offset the taxes and duties incurred on exported goods that wouldn't otherwise be credited, reimbursed, or refunded
+in any way and are integrated into the exported goods.
+It was enforced to
+repeal and
+reduce taxes for exported products
+, thereby encouraging the conditions of exports and
+increasing the amount of exports
+in the country.
+The scheme is
+administered by the Department of Revenue
+, Ministry of Finance.
+It is a
+WTO-compliant scheme
+and follows the global principle that taxes/duties should not be exported.
+replaced the Merchandise Export Incentive Schemes (MIES
+), in response to the US challenging the Indian export subsidies under the MEIS at the WTO.
+When the WTO dispute panel ruled against India, RoDTEP was framed to ensure that India remains WTO-compliant, while also supporting low-volume exports of commodities from India.
+Tax reimbursement under RODTEP:
+The scheme provides a mechanism for
+reimbursement of taxes, duties,
+and levies, which are
+currently not being refunded under any other mechanism
+at the central, state, and local levels
+but which are incurred by the export entities in the process of manufacture and distribution of exported products.
+This does not only include the direct cost incurred by the exporter but
+also the prior stage cumulative indirect taxes on goods.
+Eligibility
+applicable to
+all the sectors
+involved in the export of goods irrespective of their turnover, provided the country of manufacturing of the exported goods should be in India.
+Such an exporter may
+either be the merchant or manufacturer
+However, such
+have been
+directly exported by such a person.
+Labor-intensive sectors that enjoy benefits under the MEIS Scheme will be given a priority.
+Special Economic Zone Units and Export-Oriented Units
+also eligible
+to claim the benefits under this scheme.
+Goods
+exported through e-commerce platforms are also eligible
+Re-exported products are not eligible
+Process of Refund:
+Rebate
+under the scheme is provided to eligible exporters
+as a percentage of the freight on board (FOB) value of exports.
+Remission is
+issued in the form of transferrable e-scrips
+(a type of certificate with some monetary value)
+maintained in an electronic credit ledger
+CBIC
+(Central Board of Indirect Taxes and Customs).
+can be used for paying basic customs duty on the import of goods or may be transferred electronically to another party.
+Click to View More
+Source :
+Industry seeks extension of RoDTEP scheme to SEZs, EOUs till Sep-end
+Economy
+**********India’s Data Protection Rules Need Some Fine-Tuning
+Context
+On January 3, 2025, India reached a significant milestone in its data protection journey
+with the Ministry of Electronics and Information Technology (MeitY) releasing the Draft Digital Personal Data Protection (DPDP) Rules.
+This
+development follows the passage of the DPDP Act, 2023,
+marking a crucial step towards operationalising a robust framework for safeguarding personal data.
+The
+draft rules symbolise a pragmatic departure from India’s earlier, more rigid data protection efforts,
+emphasising
+a balanced approach that avoids overreach
+while promoting flexibility.
+India’s Journey Toward the DPDP Rules
+The Fall of the Personal Data Protection Bill (PDPB)
+PDPB's downfall can be traced to its failure to balance privacy with economic and operational feasibility.
+It
+sought to impose rigorous obligations on businesses,
+mirroring the European Union’s General Data Protection Regulation (GDPR) approach.
+Although the GDPR was widely regarded as a benchmark for privacy laws
+, its rigid rules inadvertently created barriers to innovation and imposed significant compliance costs, particularly on small and medium enterprises (SMEs).
+India's PDPB similarly drew concerns for being too interventionist and industry-hostile.
+mandated exhaustive consent requirements and strict data localisation, creating fears that the compliance burdens
+would deter foreign investment, stifle startups, and limit technological innovation.
+The Shift to a Principles-Based Framework
+shift from the PDPB to the DPDP Act and its draft rules represents a fundamental change
+in philosophy.
+Learning from the challenges of the PDPB and the limitations of global models like the GDPR,
+India adopted a less prescriptive, more principles-driven framework.
+DPDP rules focus on empowering users without micromanaging businesses,
+emphasising simplicity, flexibility, and proportionality.
+pragmatic approach reflects an understanding of India’s unique socio-economic and technological landscape.
+Unlike the EU,
+where a mature digital economy can absorb the costs of stringent regulations, India’s ecosystem is characterised by diverse entities
+, ranging from multinational corporations to fledgling startups.
+Avoiding the Brussels Effect
+India’s decision to move away from the Brussels Effect
+, a global trend of replicating the EU’s interventionist regulatory ethos,
+is a notable aspect of this journey.
+The EU’s GDPR
+, once hailed as a gold standard,
+has faced growing criticism for its unintended consequences.
+hese include favouring well-resourced corporations capable of absorbing high compliance costs
+, marginalizing SMEs, and failing to significantly enhance public trust in digital platforms.
+India has instead chosen a path that prioritises outcomes over processes
+By focusing on what needs to be achieved rather than dictating how to achieve it,
+the DPDP rules aim to minimise unnecessary complexity and compliance fatigue.
+Challenges and Ambiguities
+The Complexity of Cross-Border Data Flows
+One of the most contentious provisions in the draft rules is
+the restriction on cross-border data flows, particularly the mandate for Significant Data Fiduciaries (SDFs)
+to localise certain data within India.
+The DPDP Act allows the government to notify specific countries where personal data
+can be transferred,
+but the rules extend beyond this provision, introducing added complexities for SDFs.
+Such localisation mandates can have far-reaching implications.
+For global businesses operating in India, maintaining separate infrastructure for data storage can significantly increase operational costs.
+Gaps in Safeguards Against Misuse
+draft rules lack clarity on mechanisms to verify the legitimacy of user requests
+for information on data processing activities.
+Without adequate safeguards,
+businesses may face a barrage of excessive or frivolous requests, diverting resources away from their core operations.
+For example,
+malicious actors could exploit the lack of verification processes to overwhelm a company’s compliance infrastructure
+or gain access to sensitive information.
+Furthermore,
+the rules do not specify whether businesses can charge a reasonable fee for processing such requests
+, especially if they are excessive or unfounded.
+Ambiguity Around Government Access to Data
+A particularly concerning gap in the
+draft rules pertains to the government’s potential access to sensitive business data.
+While the rules grant the government the authority to demand information, they do not provide clear safeguards to protect this data
+from misuse or exposure.
+For instance,
+businesses may have to share proprietary information, trade secrets, or confidential data with the government
+, raising questions about how this information will be protected from competitors or malicious actors.
+The absence of specific provisions addressing these scenarios creates uncertainty and creates apprehension among businesses,
+particularly those operating in industries where intellectual property and trade secrets are critical assets.
+Necessary Measures to Address these Challenges
+Strengthening Procedural Clarity
+A critical aspect of the way forward is to
+address the procedural gaps in the current draft rules.
+Clear guidelines must be established to manage potential conflicts
+between user rights and business operations.
+in scenarios where users request data correction or erasure, businesses need clarity on the extent of their obligations, especially if such requests conflict
+with operational or legal requirements.
+Addressing Cross-Border Data Flow Concerns
+draft rules' provisions for restricting cross-border data flows require careful reconsideration.
+While data localisation can address legitimate concerns around law enforcement access,
+it risks deterring foreign investment and stifling innovation if applied indiscriminately.
+A more nuanced, sector-specific approach could provide a solution
+the Reserve Bank of India’s 2018 mandate for payment data localisation struck a balance between regulatory oversight
+and business needs.
+A similar strategy tailored to industries handling sensitive data
+, such as finance, healthcare, and national security,
+could address law enforcement concerns without burdening all businesses equally.
+Rethinking the Consent Model
+reliance on the notice-and-consent model, while traditional, is increasingly inadequate
+in the face of modern technologies like IoT, AI, and 5G.
+These advancements enable vast, often invisible data collection
+in public and digital spaces where obtaining informed consent is impractical.
+To address this,
+India must explore alternative mechanisms that go beyond consent-based frameworks.
+Anticipating Emerging Technologies
+India’s data protection framework must also account for the rapid evolution of technology.
+Innovations such as generative AI, augmented reality, and
+autonomous systems
+are redefining how data is collected, processed, and used.
+The convergence of these technologies with 5G and IoT is creating a hyper-connected environment,
+increasing the complexity of privacy challenges.
+Future-proofing the DPDP rules will require integrating flexible, principles-based approaches
+that can adapt to technological changes.
+Conclusion
+The Draft DPDP Rules mark a pivotal moment in India’s journey toward a modern data protection
+However,
+their potential will only be realised if the government addresses the challenges,
+clarifies ambiguities, and prepares for the complexities of the digital future.
+By focusing on innovation, ensuring procedural integrity
+, and building public trust,
+India can establish a framework that protects privacy while enabling economic growth
+and technological leadership.
+Click to View More
+Editorial Analysis
+**********Indravati National Park
+Five Maoists, including two women, were killed in an encounter with security forces inside Indravati National Park in Chhattisgarh’s Bijapur district recently.
+About Indravati National Park:
+It is located in the Bijapur district of
+It was established in 1981 and declared as a tiger reserve in 1983 under the Project Tiger of India.
+The park derives its name from the
+Indravati River
+, which flows from east to west and forms the northern boundary of the reserve with
+Maharashtra
+It mainly comprises undulating hilly terrain with altitudes ranging between 177 to 599 m above sea level.
+Three major forest types are recognized in Indravati are
+Moist Mixed Deciduous Forest with Teak
+without Teak, and
+Southern Dry Mixed Deciduous Forest.
+Some common species include
+teak, achar, karra, kullu
+, shisham, semal, haldu, arjun, bel, and Jamun.
+Fauna
+It is home to one of the
+last populations of rare wild buffalo.
+Other animals include
+Nilgai, Black Buck, Sambar, Gaur, Tiger
+, Leopard, Chital, Sloth bears, etc.
+Click to View More
+Source :
+Chhattisgarh: Five Maoists killed in encounter, 2 jawans injured in blast
+Environment
+**********What is Neptune Missile?
+During a joint operation of the Security Service of Ukraine (SBU) and the Ukrainian Navy, an ammunition storage depot in the Rostov region, Russia, was hit using the Neptune missile recently.
+About Neptune Missile:
+An R-360 Neptune is a
+Ukrainian-developed subsonic cruise missile
+initially designed as an anti-ship missile and later modified for land attacks.
+The design of this missile is
+based on a Russian Kh-35 cruise missile
+which goes by the North Atlantic Treaty Organization (NATO) name of AS-20 Kayak.
+The system entered service with the Ukrainian Navy in March 2021.
+Features
+The missile weighs 870 kg and is 5.05 meters long.
+The missile travels at speeds of up to 900 km/h and can fly at altitudes ranging from 10 to 300 meters, dropping to just three meters during its final approach to avoid enemy air defenses.
+It has a maximum
+range of 400 km
+and a combat weight of 350 kilograms (150 kg in the anti-ship version).
+satellite positioning system
+was installed to guide the missile during the flight’s marching phase.
+In the final part of the flight
+, the missile is
+guided by an infrared homing system.
+Click to View More
+Source :
+Russian drone storage facility hit with Neptune missile - Details of Ukraine's Security Service and Navy operation
+Science & Tech
+**********What is Universal Account Number (UAN)?
+The Employee Provident Fund Organisation (EPFO) has extended the deadline for activating Universal Account Numbers (UAN) and linking Aadhaar with bank accounts.
+About Universal Account Number (UAN):
+UAN is a number allotted to
+all salaried employees
+,
+who contribute
+a part of their income
+towards the Employee Provident Fund (EPF).
+It is a
+12-digit number
+that each member of the EPF is allotted against his/her name.
+It is generated and
+allotted by the Employees’ Provident Fund Organisation (EPFO)
+authenticated by the Ministry of Labour and Employment
+, Government of India.
+This number is the
+same throughout an employee’s professional life.
+When an employee changes his job
+, his EPF account number and Member Identification Number (
+Member Id) change,
+UAN remains the same
+If a member has already been allotted a UAN, then s/he may provide the same to the new establishment/employer, which in turn will mark the new allotted Member Id to the UAN.
+The UAN will act as
+an umbrella for the multiple Member Ids
+to an individual
+by different establishments
+This will help the member to view details of all the Member Ids linked to it.
+useful for EPFO to track multiple job switches
+of the employee.
+About Employee Provident Fund (EPF):
+EPF is the fund established under the
+Employees' Provident Funds and Miscellaneous Act, 1952.
+administered by the Employees' Provident Fund Organization
+(EPFO).
+Every establishment with 20 or more employees
+is covered,
+and some organisations that employ fewer than 20 people are also covered, subject to certain constraints and exemptions.
+The employee and employer each contribute
+12% of the employee's basic salary
+and dearness allowance
+towards the EPF.
+After the employee retires
+, they receive a
+lump sum
+that includes both their own and the employer's contributions, in addition to interest on both.
+Click to View More
+Source :
+Don’t lose your EPFO benefits: Link Aadhaar, activate UAN by this date
+Polity & Governance
+**********Neduntheevu Island
+As many as 17 Indian fishermen were arrested by the Sri Lankan Navy while fishing near the Neduntheevu island recently.
+About Neduntheevu Island:
+The Neduntheevu, sometimes known as
+Neduntivu,
+is the
+largest island
+falling
+in the Palk Strait in
+the northern parts of Sri Lanka.
+This is known as
+Delft Island
+also, as it was so called by the Dutch colonials.
+The island's area is 50
+sq.km
+. Its length is 8 km, and its maximum width is about 6 km.
+It happens to be the
+biggest of the seven inhabitable islands in the region
+A unique feature of this island is that it is
+flat and oval-shaped,
+which is wind-swept at almost all times, which makes the place very soothing.
+There are
+no streams
+on the island. The major source of freshwater is surface water, which is collected in natural depressions and artificial ponds.
+On the island there are varied kinds of
+dry shrubs and semi-arid tropical plants
+. This island also has
+tall palm trees,
+which add to the overall beachy feel of the island.
+Dutch fort made of dead coral chunks
+is also located on this island.
+It is home to a population of
+4,800 Tamil people
+, living in compounds only in the northern half of the island.
+Click to View More
+Source :
+17 Indian fishermen from Tamil Nadu arrested by Sri Lankan Navy
+Geography
+**********Hollongapar Gibbon Wildlife Sanctuary
+The Standing Committee of the National Board for Wildlife (NBWL), chaired by Union Environment Minister has approved a proposal to carry out oil and gas exploration in the eco-sensitive zone of the Hollongapar Gibbon Wildlife Sanctuary in Assam's Jorhat district.
+About Hollongapar Gibbon Wildlife Sanctuary:
+It is located in the Jorhat district of
+Assam, India.
+It is the
+only sanctuary in India named after a gibbon
+due to its distinction for containing the densest gibbon populations in Assam.
+It is situated at an altitude between 100 and 120 m (330 and 390 ft), the topography gently slopes downward from southeast to northwest.
+Bhogdoi River
+creates a waterlogged region dominated by semi-hydrophytic plants along the border of the sanctuary.
+Flora:
+The upper canopy of the forest is dominated by the
+tree, while the
+Nahar
+dominates the middle canopy.
+The lower canopy consists of evergreen shrubs and herbs.
+Fauna:
+It contains India’s only
+gibbons–the hoolock gibbons
+, and Northeastern India’s only nocturnal primate–the
+Bengal slow loris.
+Also found at the sanctuary are Indian elephants, tigers, leopards, jungle cats, wild boar, three types of civet, four types of squirrels, stump-tailed macaque, northern pig-tailed macaque, etc.
+National Board for Wildlife:
+It was constituted by the Central Government under Section 5 A of the
+Wildlife (Protection) Act, 1972 (WLPA).
+The WLPA mandates that
+without the approval/recommendation of the NBWL
+, construction of tourist lodges, alteration of the boundaries of PAs, destruction or diversion of wildlife habitat and de-notification of Tiger Reserves, cannot be done.
+It is a 47-member committee,
+headed by the
+Prime Minister
+and the Minister of Environment, Forest, and Climate Change (environment minister) as vice chairperson.
+Click to View More
+Source :
+Centre’s wildlife panel clears oil and gas exploratory drilling in Assam sanctuary
+**********Surface-Enhanced Raman Spectroscopy
+Recently, researchers have developed an efficient nano catalyst which can be used in in environmental remediation, nanoscale electronics, and surface-enhanced Raman spectroscopy (SERS).
+About Surface-Enhanced Raman Spectroscopy:
+Surface-enhanced Raman spectroscopy or surface-enhanced Raman scattering (SERS) is a
+surface-sensitive technique
+that enhances Raman scattering by molecules adsorbed on rough metal surfaces.
+It enhances the Raman scattering signals of molecules
+close to nanostructured metallic surfaces
+, typically gold or silver.
+It provides the same information that normal Raman spectroscopy does, but with a
+greatly enhanced signal.
+Applications:
+It has become a powerful tool in
+chemical, material and life sciences
+, owing to its intrinsic features.
+What is Raman spectroscopy?
+It is a
+spectroscopic technique
+used in condensed matter physics and chemistry to study vibrational, rotational, and other low-frequency modes in a system.
+It depends on the
+inelastic scattering
+, or Raman scattering of monochromatic light, usually from a laser in the visible, near-infrared or near-ultraviolet range of electromagnetic spectra.
+It was discovered by the famous Indian physicist C V Raman in the year 1928.
+Click to View More
+Source :
+Sustainable, efficient nano catalyst developed that can minimize environmental impact in industrial chemical processes
+Science & Tech
+**********United Nations World Economic Situation and Prospects 2025
+According to the United Nations (UN) flagship report, World Economic Situation and Prospects 2025 Indian economy is expected to grow by 6.6 per cent in 2025 and 6.7 per cent in 2026.
+About United Nations World Economic Situation and Prospects 2025:
+It was produced by the
+United Nations Department of Economic and Social Affairs
+(UN DESA), in partnership with UN Trade and Development (UNCTAD) and the five UN regional commissions.
+Key points about the report:
+It projects that
+global growth will remain at 2.8 per
+cent in 2025, unchanged from 2024.
+The report highlighted that
+capital expenditure on infrastructure development
+is expected to have strong multiplier effects on growth in the coming years.
+Expansion in the manufacturing and services sectors will continue to drive the economy, while strong export growth in services and certain goods categories, such as pharmaceutical and electronics, will bolster economic activity,
+It also noted that favourable monsoon rains in 2024 have improved summer-sowing areas for all major crops, boosting agricultural output expectations for 2025.
+The UN report said that
+economic growth in South Asia is expected to remain robust
+in 2025, primarily driven by strong performance in India. The region is projected to grow at 5.7 per cent in 2025 and 6 per cent in 2026.
+It also highlighted the
+opportunity for resource-rich developing countries,
+such as India, to boost growth, create jobs, and increase public revenues for investment through rising demand for critical minerals.
+Click to View More
+Source :
+India's economy likely to grow 6.6% in 2025, 6.7% in 2026: UN report
+Economy
+**********National Programme for Organic Production
+Recently, the Union Minister of Commerce and Industry released the eighth edition of National Programme for Organic Production (NPOP).
+About National Programme for Organic Production:
+Launched in
+2001
+, it is a key government programme that laid the
+foundation of systematic development of organic agriculture sector
+in India, through promoting sustainable farming practices and opening new opportunities for farmers and exporters.
+By setting high standards for organic products, NPOP
+enhances India’s competitiveness in the global organic market
+, while helping farmers adopt
+eco-friendly and economically viable practices.
+The programme involves the accreditation of
+Certification Bodies, standards for organic production, promotion of organic farming
+and marketing etc.
+Implementing agency:
+Agricultural and Processed Food Products Export Development Authority (APEDA)
+, Ministry of Commerce & Industries, is implementing this programme.
+Highlights of the 8
+Edition of NPOP:
+It introduced key amendments aimed at
+promoting ease of operations and enhancing transparency for stakeholders
+, including farmers.
+Certification requirements for organic grower groups have been
+simplified
+, and these groups are
+now granted legal status
+in place of the
+Internal Control System (ICS).
+Many portals launched in this edition:
+NPOP portal:
+The dedicated portal for the National Programme for Organic Production (NPOP) will provide more visibility and ease of operations for Organic stakeholders.
+Organic Promotion Portal:
+Farmers, FPOs and exporters can showcase their certified organic products, generate Trade Leads and connect with global buyers. This will also include online Training and capacity building sessions for operators on Organic production and also information on Organic Trade events.
+TraceNet 2.0:
+The upgraded
+online Organic traceability system
+for seamless operations and enhanced tools for regulatory oversight.
+APEDA portal:
+Redesigned and revamped APEDA portal with enhanced user experience and information for the benefit of Agri and Processed food products’ stakeholders.
+AgriXchange portal:
+Redesigned and revamped AgriXchange portal enables more user-friendly data analysis and generation of reports & data of Agricultural exports making it accessible for the general public.
+Click to View More
+Source :
+We aim to boost organic product exports to Rs 20,000 cr in 3 years: Goyal
+Economy
+**********What is pink fire retardant?
+As multiple wildfires continue to torch Southern California, authorities are using planes to drop a large amount of bright pink fire retardant to curb the blaze.
+About pink fire retardant:
+Fire retardant
+is a mix of chemicals used to extinguish or slow down the spread of fires.
+There are different types of fire retardant but to tackle wildfires in the US, authorities most commonly use
+Phos-Chek
+, a brand of fire retardant, which mostly
+contains an ammonium phosphate-based slurry.
+It is made of salts such
+as ammonium polyphosphate
+, which does not evaporate easily like water and stays for longer.
+Colour is usually added to the fire retardant to ensure that firefighters can see it against the landscape.
+This helps them create fire lines around the fire retardant, potentially saving lives and property.
+What are the concerns?
+Environmental experts have said that spraying fire retardant using planes is ineffective, expensive and a growing source of pollution for rivers and streams.
+Phos-Chek “is laden with toxic metals, and estimates retardant use has released 850,000 pounds of these chemicals into the environment since 2009.
+These toxic metals include chromium and cadmium which can cause cancer, and kidney and liver diseases in humans and these toxic metals can kill aquatic life.
+Click to View More
+Source :
+What is pink fire retardant, being used to curb California wildfires — and what are the environmental concerns?
+Science & Tech
+**********Pink fire retardant is being used to curb California wildfires
+Why in news?
+Wildfires in Southern California have prompted authorities to deploy planes and helicopters to combat the blaze. Nine planes are spraying pink fire retardant, a long-used product, and 20 helicopters are dropping water.
+While the fire retardant has been in use for decades, recent research questions its effectiveness and potential environmental impact.
+What’s in today’s article?
+What is the pink fire retardant?
+Concerns Over Fire Retardant Use
+What is Fire Retardant?
+Fire retardant is a chemical mixture designed to extinguish or slow the spread of fires.
+It is commonly used to combat wildfires, with
+Phos-Chek
+being the most widely used brand in the US
+Composition of Phos-Chek
+Phos-Chek is primarily a mixture of water, fertilizer (ammonium phosphate), and rust-based red color.
+The formulation may also include thickening agents to control viscosity and prevent the material from drifting.
+The key active ingredient is ammonium phosphate
+, which helps slow the spread of fires by cooling and coating fuels, depleting oxygen, and altering how fuels burn.
+Unlike water, it does not evaporate easily and remains effective for a longer duration.
+How It Works
+Phos-Chek reacts with cellulose in plant matter, consuming heat from the fire and producing non-flammable carbon material.
+This process slows or stops the fire's spread, especially in areas with homes or structures.
+Strategic Application
+Fire retardant is typically dropped at the edges of fires to create barriers, preventing the flames from spreading.
+Unlike water, the fertilizer-based active ingredient remains effective even after water evaporates, leaving a protective layer for days or weeks.
+Large air tankers can release up to 9,400 gallons of Phos-Chek in a single drop.
+Importance of the Pink Colour
+A pink dye is added to the fire retardant for visibility against the landscape, enabling firefighters to create fire lines effectively.
+According to experts, pink is the most visible and aesthetically pleasing option.
+Environmental Impact
+Spraying fire retardant via planes is criticized for being ineffective, costly, and a significant source of pollution to rivers and streams.
+A 2024 USC study revealed that Phos-Chek contains toxic metals like chromium and cadmium, which can harm aquatic life and potentially cause cancer, kidney, and liver diseases in humans.
+Questionable Effectiveness
+Assigning credit to aerial retardants is challenging as they are one of many firefighting methods.
+Their effectiveness depends on environmental factors like slope, fuel type, terrain, and weather, as noted by Forest Service scientists.
+Limited Scope of Use
+Experts state that aerial retardants work under a narrow range of conditions, which are increasingly rare due to climate change.
+Growing Usage Amid Intensifying Wildfires
+Rising global temperatures are expected to make wildfires more frequent and intense, escalating the use of aerial fire retardants.
+Between 2009 and 2021, over 440 million gallons of retardant were deployed in the US, releasing more than 400 tons of heavy metals into the environment.
+Ongoing Debate
+Environmental experts, the federal government, and manufacturers are at odds over the environmental and health risks posed by fire retardants, sparking an ongoing debate.
+Pink fire retardant is being used to curb California wildfires.pdf
+( Size:  2.0 MB  )
+Click to View More
+Geography
+**********Kumbh Mela Explained
+Why in news?
+The Maha Kumbh 2025, a grand religious event held every 12 years, will take place in Prayagraj, starting on January 13, with the first holy bath (snan).
+Expected to attract over 45 crore devotees over one-and-a-half months, it is one of the largest gatherings on earth. While its exact origins are debated—some tracing it to the Vedas and Puranas and others to the past two centuries—it remains a significant spiritual and cultural festival.
+What’s in today’s article?
+The Kumbh Mela
+Astrological Basis of Kumbh Mela
+Historical References to Kumbh Mela
+How Kumbh Mela became a platform for nationalism during Independence movement?
+Origin
+The Sanskrit word "kumbh" means pitcher or pot.
+According to mythology, during the ocean churning by Devas (gods) and Asuras (demons), Dhanvantri emerged with a pitcher of amrita (elixir of immortality).
+To prevent Asuras from getting it, Jayant, Indra’s son, fled with the pot, protected by the Sun, Shani, Brihaspati (Jupiter), and the Moon.
+As Jayant ran for 12 divine days (equal to 12 human years), amrita spilled at four locations:
+Haridwar, Prayagraj, Ujjain, and Nashik-Trimbakeshwar
+Frequency
+Maha Kumbh (Poorna Kumbh)
+: Held every 12 years.
+Ardh-Kumbh
+: Held in Prayagraj and Haridwar every 6 years.
+Significance of the Rivers
+The festivals occur on the banks of sacred rivers:
+: Ganga
+: Confluence of Ganga, Yamuna, and mythical Saraswati
+: Kshipra (believed to emerge from Vishnu’s heart in his Varah avatar)
+: Godavari (known as the Ganga of the south)
+Bathing in these rivers during Kumbh, under specific celestial alignments, is believed to cleanse sins and provide spiritual merit (punya).
+Gathering of Sadhus and Spiritual Learning
+Kumbh Melas attract Sadhus and holy men, especially from the akhadas, providing opportunities for devotees to meet and learn from them.
+The site of a Kumbh Mela is determined by astrological calculations based on the
+positions of Jupiter, the Sun, and the Moon
+Jupiter’s 12-year revolution around the Sun also explains the 12-year gap between Kumbh Melas.
+Astrological alignments unique to each site guide the timing and location of the Kumbh Mela.
+Ancient References to Kumbh Mela
+The Skanda Purana is often cited as proof of Kumbh Mela’s antiquity, but no extant version explicitly describes the festival as we know it.
+The Samudra Manthan story, though mentioned in various scriptures, lacks references to the spilling of amrita at four places.
+Some claim the Rig Veda includes shlokas highlighting the benefits of participating in the Kumbh Mela.
+Xuanzang's Account
+Chinese pilgrim Xuanzang
+described a seventh-century fair in Prayag, but it is unclear whether it was the Kumbh Mela.
+Kama Maclean suggests that an ancient bathing festival, Magh Mela, held at Prayag was rebranded as the “timeless” Kumbh after 1857 to avoid British interference.
+Adi Shankaracharya’s Role
+The 8th-century philosopher Adi Shankaracharya is believed to have formalized the four periodic fairs, creating opportunities for Hindu ascetics and scholars to gather and guide the public.
+Evolution of Kumbh Mela
+According to some experts, the Kumbh Mela likely began at Haridwar, as Brihaspati (Jupiter) in Kumbh rashi corresponds to this site.
+The tradition possibly took shape after the 12th century CE during the Bhakti movement, as fairs on sacred riverbanks are an ancient Hindu tradition.
+They link the Kumbh’s origins to Ganga worship and the influence of travelling sadhus, who spread the idea of holding Kumbh Melas at four sacred rivers.
+Historical Records
+Mughal-era records and those kept by sanyasi akhadas indicate the Kumbh Mela was formalized over time, evolving into a major socio-religious event.
+These gatherings provided opportunities for ascetics to earn followers and for pilgrims to engage in spiritual practices.
+Allahabad’s Rise as a Political and Cultural Hub
+Following the 1857 revolt, Allahabad became the capital of the North-Western Provinces, gaining prominence as a political and administrative center.
+With institutions like the High Court (1867) and Allahabad University (1887), the city attracted influential families, students, and nationalists.
+By the late 19th century, Allahabad had transformed into a significant site for political and religious activities, including the Kumbh Mela.
+Religious Festivals as a Platform for Nationalism
+From the late 19th century, the Kumbh Mela evolved into a platform for disseminating nationalist ideas.
+The British policy of non-interference in religion allowed Indian leaders to leverage religious gatherings for political purposes.
+By the 1900s, nationalist leaders like Bal Gangadhar Tilak and Gopal Krishna Gokhale used the Kumbh to promote Swadeshi and other nationalist causes
+The Role of Congress and Religious Leaders
+By the 1930s, the Congress Party actively used Kumbh Melas for political mobilization.
+Sadhus and ascetics played a key role in spreading nationalist messages, blending religious authority with Congress policies.
+Events like the 1936 Ardh Kumbh saw displays such as the idol of Bharat Mata and political processions that aligned spiritual and nationalist sentiments
+Conclusion
+The Kumbh Mela evolved from a regional religious gathering to a significant national event with political undertones, especially during the Indian freedom struggle.
+Its transformation was influenced by nationalist leaders, local priests, and ascetics, who used it as a stage for resistance against colonial rule and the assertion of India’s political sovereignty.
+Kumbh Mela Explained.pdf
+( Size:  5.2 MB  )
+Click to View More
+History & Culture
+**********Should Voter IDs Be Linked with Aadhaar?
+What’s in Today’s Article?
+Introduction (Historical Context, Current Process)
+Linking with Aadhar (Advantages, Challenges, Concerns, Way Ahead, etc.)
+Conclusion
+Introduction:
+The debate over linking Election Photo Identity Card (EPIC) with Aadhaar has been reignited amidst allegations of electoral roll manipulation.
+Prominent political parties have accused each other of tampering with voter lists, especially ahead of the Delhi Assembly elections.
+This issue draws attention to the potential benefits and challenges of such a linkage.
+Historical Context:
+Initial Steps (2015):
+National Electoral Rolls Purification and Authentication Program (NERPAP)
+was launched by the Election Commission (EC) to address duplicate entries in electoral rolls.
+The program aimed to authenticate voter data by linking EPIC with Aadhaar. Within three months, over 300 million voters were linked.
+Supreme Court Intervention (2015):
+The program was halted after the Supreme Court ruled that Aadhaar's mandatory use should be limited to welfare schemes and PAN linking.
+Revival (Post-2018):
+Following the
+Puttaswamy judgment
+, which upheld the constitutional validity of Aadhaar, the Representation of the People Act, 1950, was amended in 2021 to enable the voluntary linking of voter IDs with Aadhaar.
+Current Process:
+Submission Requirements:
+New voters can provide Aadhaar during registration using
+Form 6
+, while existing voters can use
+Form 6B
+for authentication.
+If a voter does not have Aadhaar, alternative documents like a PAN card, driving license, or passport can be submitted.
+Voluntary Nature:
+The EC clarified in 2023 that linking Aadhaar is not mandatory and ensured no voter will be excluded for failing to provide it.
+However, forms have not been updated to reflect this clarification, causing confusion.
+Advantages of Linking Aadhaar with Voter IDs:
+Elimination of Duplicates:
+Linking Aadhaar can help remove duplicate or fraudulent entries, ensuring cleaner electoral rolls. Currently, over 650 million Aadhaar numbers have been linked.
+Improved Electoral Integrity:
+Accurate voter data can strengthen the electoral process by reducing instances of impersonation and ensuring fair elections.
+Administrative Efficiency:
+A streamlined voter database can reduce administrative overhead during elections, making the process more efficient.
+Challenges and Concerns:
+Errors in Aadhaar Database:
+Even minor inaccuracies in Aadhaar data can lead to wrongful deletion or rejection of legitimate voter entries.
+Proof of Citizenship:
+Aadhaar is a proof of residence, not citizenship. Linking Aadhaar will not address the issue of non-citizens being on electoral rolls, requiring separate measures by the EC.
+Privacy Risks:
+Electoral rolls are widely circulated among political parties, and linking Aadhaar may risk misuse of personal data, even if Aadhaar numbers are only linked in the backend.
+Public Misconceptions:
+Many voters fear that linking Aadhaar with voter IDs might compromise the secrecy of their votes, leading to reduced confidence in the system.
+The Way Forward:
+Transparent Communication:
+Public awareness campaigns are necessary to educate voters about the benefits of Aadhaar linkage and address misconceptions regarding data security and voter secrecy.
+Updating Forms:
+The EC must urgently update forms to explicitly state that providing Aadhaar is voluntary, as clarified in the 2023 Supreme Court submission.
+Data Security Measures:
+Strong safeguards must be implemented to prevent misuse of Aadhaar-linked electoral data, ensuring voter confidence.
+Separate Citizenship Verification:
+To ensure only citizens are on electoral rolls, the EC should develop independent methods of verifying citizenship, apart from Aadhaar linkage.
+Conclusion:
+The right to vote is a fundamental component of free and fair elections, integral to India's democratic framework.
+While linking voter IDs with Aadhaar can enhance the integrity of the electoral process, it must be implemented with caution to address privacy concerns, data errors, and misconceptions.
+A balanced approach, combining transparency, data security, and improved administrative measures, will be key to gaining public trust and strengthening the democratic process.
+Should voter IDs be linked with Aadhaar_.pdf
+( Size:  313.2 KB  )
+Click to View More
+Polity & Governance
+**********Centre-State Clashes on Vice Chancellor Appointments
+Why in News?
+The University Grants Commission (UGC) has proposed new regulations for appointing Vice Chancellors (VCs) in universities, sparking disputes between states and the Centre.
+What’s in Today’s Article?
+New Regulations for Appointing VCs in Universities
+How VCs are Appointed?
+Key Provisions of the Draft Regulations 2025
+State vs Centre Disputes over VC Appointments
+Federalism Concerns over VCs Appointments
+Conclusion
+New Regulations for Appointing VCs in Universities:
+Name:
+The draft UGC (Minimum Qualifications for Appointment and Promotion of Teachers and Academic Staff in Universities and Colleges and Measures for the Maintenance of Standards in Higher Education) Regulations, 2025.
+Objective:
+It aims to standardize appointment processes but has drawn criticism for allegedly undermining state rights and federalism.
+Central universities:
+Central universities are established under parliamentary Acts and administered by the Centre, with the President of India acting as Visitor.
+VC appointment committees include two nominees from the university’s Executive Council and one from the Visitor.
+State universities:
+State-specific laws often determine the composition of search committees.
+Typically, the Chancellor (usually the Governor) selects the VC based on committee recommendations.
+For instance, Kerala’s law includes nominees from the university Senate, UGC Chairman, and Chancellor.
+Private universities:
+Private institutions follow similar procedures, with UGC playing a limited role through its nominee in the search committee.
+Key Provisions of the Draft Regulations 2025:
+Committee composition changes:
+The new rules specify that the
+search-cum-selection committee
+will have three members, including one each nominated by the Chancellor/Visitor, the UGC Chairman, and the university’s apex body (e.g., Senate or Syndicate).
+This grants a majority to Centre-aligned nominees in the committee.
+Eligibility expansion:
+Besides professors, individuals from senior roles in industries, public policy, administration, or public sector undertakings may now qualify as VCs.
+Chancellor’s role:
+The Chancellor or Visitor will directly constitute the search committee, a departure from the 2018 guidelines.
+State vs Centre Disputes over VC Appointments:
+Kerala:
+Conflict started in 2021 when Governor Arif Mohammad Khan contested VC reappointments.
+The state passed a Bill to replace the Governor as Chancellor, which awaits Presidential assent.
+West Bengal:
+The Supreme Court is involved in resolving disputes over interim VC appointments made unilaterally by the Governor.
+The state Assembly’s move to replace the Governor with the Chief Minister as Chancellor is stalled due to lack of gubernatorial assent.
+Karnataka:
+Proposed legislative reforms aim to remove the Governor as Chancellor. Bills are awaiting approval.
+Maharashtra:
+Attempts to limit the Governor’s role in VC appointments were reversed under the new government in 2022.
+Tamil Nadu:
+The DMK-led government’s efforts to appoint VCs without Governor approval remain blocked.
+Federalism Concerns over VCs Appointments:
+State governments have raised alarms over the draft regulations, citing:
+Erosion of State autonomy:
+States argue that these rules centralize power in the hands of Governors, undermining federal principles.
+Democratic concerns:
+Critics see it as a move to weaken democratically elected state governments.
+State leaders’ reactions:
+Kerala CM Pinarayi Vijayan:
+Described the draft as “anti-federal” and an overreach into state rights.
+Tamil Nadu CM M K Stalin:
+Called it a “direct assault on federalism.”
+UGC’s stance:
+UGC Chairman M Jagadesh Kumar defended the regulations as necessary for aligning with the
+National Education Policy 2020
+and ensuring transparent, high-quality leadership in higher education.
+Conclusion:
+The proposed UGC regulations have intensified ongoing Centre-state tensions, particularly over Governors’ roles in university administration. While the Centre justifies these reforms as quality-driven, state governments view them as a threat to federalism and their autonomy in education governance.
+The resolution of these disputes will significantly shape higher education and federal-state dynamics in India.
+newspaper.pdf
+( Size:  2.5 MB  )
+Click to View More
+Polity & Governance
+**********Are lithium batteries on flights dangerous?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to lithium batteries;
+Why in the News?
+The International Federation of Air Line Pilots’ Associations (IFALPA) released three position papers addressing fire risks associated with the use of lithium-ion batteries in airports and aircraft settings.
+What is IFALPA?
+is a global nonprofit organization that represents the interests of professional pilots worldwide.
+IFALPA was created to provide a platform for pilots to engage with aviation leaders and influence international aviation standards. As of around 2013, IFALPA included 104 member associations representing approximately 100,000 professional pilots globally.
+The organization aims to contribute the unique perspectives of pilots to the development and adaptation of ICAO’s Standards and Recommended Practices (SARPs) that govern international civil aviation.
+Why are there fears about lithium batteries?
+Concerns regarding lithium-ion batteries primarily stem from their increasing use in various industries, particularly in electric vehicles (EVs) and aircraft systems. These batteries are known for their energy density and versatility but pose significant fire risks under certain conditions.
+Fire Risks:
+Lithium-ion batteries can catch fire when subjected to mechanical, electrical, or thermal stress, leading to short circuits that produce heat and oxygen, creating a fire hazard. This risk is exacerbated in environments like airports where batteries may be exposed to water or extreme conditions.
+Historical Incidents:
+There have been instances of lithium-ion batteries igniting under adverse conditions, such as flooding after Hurricane Helene in 2024, highlighting the potential dangers associated with their use in transportation settings.
+What do the IFALPA papers say?
+FALPA released three position papers addressing the fire risks associated with lithium-ion batteries:
+POS01:
+Focuses on the safe transport of lithium-ion batteries according to UN regulations (3480 and 3481). It emphasises that current regulations should include a State of Charge (SOC) limit of 30% for all transported batteries to mitigate fire risks.
+POS02:
+Discusses the specific fire risks posed by lithium-ion batteries compared to traditional combustion engines. It urges airports and related services to develop specialized fire safety equipment and protocols due to the unique challenges posed by lithium battery fires.
+POS03:
+Extends concerns to the flight deck, noting that existing firefighting kits may not adequately address fires involving lithium-ion batteries with energy ratings above 100 Wh.
+It calls for enhanced safety measures for components that may contain these batteries within aircraft.
+Way forward:
+Enhanced Fire Safety Measures
+: Develop and mandate advanced fire-safety equipment and protocols tailored to lithium-ion battery fires for airports, aircraft, and emergency response teams. Ensure compatibility with high-capacity batteries and incorporate real-time monitoring technologies.
+Stricter Regulatory Standards
+: Expand the
+State of Charge (SOC ≤30%)
+limit to all transported lithium-ion batteries (including those in equipment). Update international regulations to address emerging risks from higher energy densities and broader usage scenarios.
+**********The challenge of holding judges accountable
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to the Judiciary;
+Why in the News?
+Two political parties have accused each other of tampering the voter lists before the Delhi Assembly elections. This has brought back the discussion about linking voter IDs (EPIC) with Aadhaar numbers.
+Why was the National Electoral Rolls Purification and Authentication Program?
+The National Electoral Rolls Purification and Authentication Program (NERPAP) was launched by the Election Commission of India on March 3, 2015, with the primary goal of creating an error-free and authenticated electoral roll.
+Linking EPIC with Aadhaar:
+The program sought to link the Elector’s Photo Identity Card (EPIC) data with the Aadhaar database to authenticate voter identities and eliminate duplicate entries in the electoral rolls.
+Error Correction:
+NERPAP aimed to facilitate the correction of errors in voter data and improve the overall quality of images on electoral documents.
+Voluntary Disclosure of Multiple Entries:
+Voters were encouraged to voluntarily disclose any multiple registrations, allowing for timely corrections and deletions of unnecessary entries from the electoral rolls.
+Enhanced Communication:
+The initiative also aimed to collect mobile numbers and email addresses from voters, enabling the Election Commission to provide important updates regarding elections, such as poll dates and revision schedules.
+Public Participation:
+To ensure maximum engagement, special camps and facilitation centers were organized nationwide to assist voters in linking their Aadhaar with EPIC and addressing any concerns regarding their registrations.
+What did the Supreme Court mandate in the Puttaswamy case in 2018?
+In the
+, the Supreme Court recognized the right to privacy as a fundamental right under the Constitution. It ruled that while Aadhaar could be used for various purposes, including voter registration, individuals cannot be denied their right to vote for failing to provide their Aadhaar number.
+This ruling emphasized that any legal framework must respect individual privacy rights and ensure that no citizen is disenfranchised due to administrative requirements.
+What are the pros and cons?
+Pros:
+Elimination of Duplicate Entries:
+Linking Aadhaar with EPIC can help remove multiple registrations for individuals who may have registered in different locations due to migration.
+Real-time Authentication:
+The unique identity provided by Aadhaar enables online verification, enhancing the accuracy of voter rolls.
+Updated Voter Database:
+The initiative aims to maintain an updated and accurate record of voters, which is crucial for free and fair elections.
+Cons:
+Database Errors:
+Errors within the Aadhaar database could lead to wrongful rejection or deletion of legitimate voter entries.
+Proof of Citizenship Concerns:
+Aadhaar serves as proof of residence but not citizenship, potentially failing to address non-citizen registrations on electoral rolls.
+Privacy Risks:
+While linkage may not directly violate privacy rights, there are concerns about misuse as electoral rolls are accessible to political parties.
+What can be the way forward?
+Transparent and Voluntary Process:
+Modify electoral forms to clearly indicate that providing Aadhaar is voluntary, ensuring no voter is denied registration for not furnishing their Aadhaar number.
+Strengthen Data Accuracy and Privacy Safeguards:
+Establish mechanisms to verify Aadhaar data accuracy and implement robust data protection measures to prevent misuse of linked electoral rolls.
+Mains PYQ:
+Examine the scope of Fundamental Rights in the light of the latest judgement of the Supreme Court on Right to Privacy.
+(UPSC IAS/2017)
+**********Is groundwater contamination high in India?
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Challenges related to water resources;
+Why in the News?
+The Central Ground Water Board (CGWB) found that many states in India are facing a serious problem with high nitrate levels in groundwater.
+What are the contaminants?
+The assessment of India’s groundwater quality has identified several significant contaminants, primarily driven by agricultural practices, industrial activities, and natural geological factors. The key contaminants include:
+Nitrates:
+Excessive use of nitrogen-based fertilizers in agriculture leads to high levels of nitrates in groundwater. This is the most prevalent contaminant, with over 56% of India’s districts reporting nitrate levels exceeding the safe limit of 45 mg/l.
+Fluoride:
+Fluoride contamination is a major concern, particularly in states like Rajasthan, Haryana, and Karnataka. Approximately 9.04% of tested groundwater samples had fluoride levels above the permissible limit of 1.5 mg/l.
+Arsenic:
+Naturally occurring arsenic in certain geological formations poses serious health risks, particularly in alluvial plains where industrial activities may exacerbate contamination.
+Uranium:
+Elevated uranium levels have been detected in several regions, with about 6.60% of samples exceeding the safe limit of 30 ppb (parts per billion). States like Rajasthan and Punjab report significant uranium contamination.
+Iron:
+High concentrations of iron affect groundwater quality and can lead to aesthetic issues and potential health risks when consumed in large amounts.
+Other Heavy Metals:
+Contaminants such as lead, cadmium, mercury, and chromium are also present due to industrial discharges and improper waste management.
+What was the state of groundwater in 2024?
+Overall Extraction Rate:
+The degree of groundwater extraction across the country was reported at approximately 60.4%, indicating that this level has remained relatively stable compared to previous years. This figure reflects the percentage of groundwater resources being utilized versus what is available for extraction.
+Safe Blocks:
+About 73% of groundwater blocks were categorized as ‘safe,’ meaning they are adequately replenished to meet extraction demands. This represents a slight increase from previous assessments.
+Recharge and Availability:
+Total annual groundwater recharge was noted to have decreased marginally from 449 BCM (Billion Cubic Meters) in 2023 to 446.90 BCM in 2024.
+The annual extractable groundwater resources slightly declined from 407.21 BCM to 406.19 BCM.
+Contamination Issues:
+Despite improvements in some areas, challenges remain, particularly with nitrate contamination, where 440 districts were identified as having excessive nitrate levels in their groundwater.
+How are groundwater levels measured?
+Groundwater levels are measured using a network established by the Central Ground Water Board (CGWB), which includes:
+Observation Wells:
+Approximately 26,000 observation wells are used for manual measurements of groundwater levels.
+Digital Monitoring:
+Since 2023, around 16,000 to 17,000 piezometers equipped with digital recorders have been installed to automatically measure and transmit groundwater levels to a centralized system for real-time monitoring.
+What happens if nitrate presence is high in groundwater?
+Health Risks:
+Elevated nitrate levels can cause methemoglobinemia, also known as “blue baby syndrome,” particularly in infants under six months old. This condition reduces the blood’s ability to carry oxygen, resulting in a bluish tint to the skin and potentially severe health complications if untreated.
+Environmental Concerns:
+Excessive nitrates contribute to algal blooms in surface water bodies, which can deplete oxygen levels, harm aquatic ecosystems, and disrupt the balance of marine life.
+Way forward:
+Sustainable Agricultural Practices
+: Promote the use of organic fertilizers, precision farming techniques, and regulated use of nitrogen-based fertilizers to minimize nitrate leaching into groundwater.
+Strengthened Monitoring and Remediation
+: Expand digital groundwater monitoring networks, enforce strict industrial discharge regulations, and implement remediation techniques like bioremediation and constructed wetlands to mitigate contamination.
+Mains PYQ:
+What is water stress? How and why does it differ regionally in India?
+(UPSC IAS/2019)
+**********National River Traffic and Navigation System (NRT&NS) is launched
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+National River Traffic and Navigation System (NRT&NS), National Waterways
+Why in the News?
+The
+Inland Waterways Authority of India (IWAI)
+under the Ministry of Ports, Shipping & Waterways (MoPSW), has introduced the National River Traffic and Navigation System (NRT&NS), a landmark initiative aimed at ensuring safe, efficient, and sustainable navigation along India’s inland waterways.
+About National River Traffic and Navigation System (NRT&NS)
+The NRT&NS aims to
+modernize
+and enhance the
+safety, efficiency, and sustainability
+of inland water transport.
+It leverages
+real-time data
+technology
+to optimize navigation on India’s National Waterways, supporting eco-friendly and cost-effective transport for goods and passengers.
+Key Features:
+Real-time monitoring using GPS and GIS for safe vessel navigation.
+Centralized traffic control centers for efficient operations.
+Digital platforms for route planning, cargo tracking, and alerts.
+Integrated infrastructure to streamline operations and reduce delays.
+Focus on sustainability, economic growth, and capacity building in the inland water transport sector.
+The system is being deployed across India’s National Waterways, including:
+NW 1 (River Ganga):
+Key cargo routes from Haldia to Varanasi.
+NW 2 (River Brahmaputra):
+Major transport corridor in the Northeast.
+NW 3 (West Coast Canal, Champakara Canal, and Udyogmandal Canal), NW 4 (Krishna and Godavari), and NW 5 (Mahanadi rivers and its tributaries)
+: Supporting regional trade and tourism.
+Status of Inland Waterways in India
+India has a vast network of
+14,500 km
+of navigable waterways, including
+111 declared National Waterways (NWs)
+National Waterways Act, 2016
+Key Highlights:
+Increase in Operational Waterways:
+The number of operational NWs has increased by
+767% since 2014
+Cargo Traffic Growth:
+Cargo traffic rose from
+18 million tonnes in 2013-14
+133 million tonnes in 2023-24
+, achieving a
+CAGR of over 22%
+Infrastructure Investments:
+Investments in NW development increased by
+233%
+post-2014, supported by projects like:
+Jal Marg Vikas Project (JMVP):
+Focused on NW 1 (Ganga).
+Arth Ganga:
+Empowering local communities through economic activities along NW 1.
+Tourism Growth:
+River cruise tourism expanded significantly, with
+25 cruise vessels operational in 2023-24
+, up from
+3 in 2013-14
+Challenges:
+Despite this, the share of IWT in India’s overall transport mix remains relatively low compared to global standards.
+PYQ:
+[2016]
+Enumerate the problems and prospects of inland water transport in India.
+**********[pib] UN Committee of Experts on Big Data and Data Science for Official Statistics (UN-CEBD)
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+India has joined the prestigious UN Committee of Experts on Big Data and Data Science for Official Statistics (UN-CEBD).
+About UN-CEBD
+Details
+Established in
+2014
+during the
+45th session
+of the
+UN Statistical Commission.
+First Chair
+: Australia.
+Explores the potential of
+big data and data science
+in transforming official statistics.
+Monitors progress
+toward Sustainable Development Goals (SDGs) using innovative data sources.
+Structural Mandate and Implementation
+Mandate:
+Develop global programs for using big data in official statistics.
+Monitor SDG indicators using advanced data science.
+Address challenges like cross-border data sharing and ethical concerns.
+Governance Structure:
+Advisory Board
+: Strategic oversight and guidance.
+UN Bureau
+: Handles operational tasks.
+Implementation Mechanism:
+Capacity building through training.
+Promote global collaboration and innovation.
+Powers and Functions
+Strategic Vision
+: Integrate big data into national/international statistical systems.
+Practical Use
+: Utilize non-traditional data sources like IoT, satellite imagery, and private sector data.
+Capacity Building
+: Train statisticians in data science techniques.
+Global Standards
+: Develop frameworks for cross-border data sharing and ethical practices.
+Policy Integration
+: Advocate for data-driven policymaking.
+Why India Joined?
+Enhancing Statistical Capabilities
+: Modernize processes with IoT, satellite imagery, etc.
+Global Collaboration
+: Share innovations like the Data Innovation Lab and learn best practices.
+SDG Monitoring
+: Leverage big data for robust tracking of SDGs.
+Showcasing Leadership
+: Strengthen India’s position in global data governance.
+Economic and Policy Benefits
+: Enable evidence-based decisions to address socio-economic challenges.
+**********INTERPOL publishes first Silver Notice targeting criminal assets
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+INTERPOL and its notices
+Why in the News?
+The
+International Criminal Police Organization (INTERPOL)
+has issued a
+to trace and recover criminal assets, marking the first expansion of its color-coded notices to specifically target the finances of organized crime networks.
+What is Silver Notice?
+It is an INTERPOL initiative aimed at
+tracing, locating, and recovering criminal assets
+linked to crimes such as fraud, corruption, drug trafficking, and environmental offenses.
+Objective
+: It targets assets like properties, vehicles, financial accounts, and businesses that are connected to criminal activities.
+It was launched in
+2023
+as part of a pilot phase involving
+52 countries
+, and this phase will run until
+November 2025
+How does it work?
+Member
+countries can
+request INTERPOL to issue a Silver Notice
+for assistance in gathering information about criminal assets.
+The Notice is
+shared globally
+with all
+196 INTERPOL member countries
+, while
+Diffusions
+can be directed to specific countries for more targeted cooperation.
+All Silver Notices and Diffusions are
+reviewed by INTERPOL’s General Secretariat
+to ensure compliance with its rules, including prohibitions on political misuse as outlined in
+Article 3 of the INTERPOL Constitution
+first-eve
+r Silver Notice was requested by
+Italy
+to trace assets linked to a senior mafia member, showcasing its potential to combat organized crime.
+About INTERPOL
+Structural Mandate and Implementation
+Establishment
+: Founded in 1923 in Vienna, now headquartered in
+Lyon, France
+, with
+195 member countries
+: Supports cross-border police cooperation, helping agencies combat international crime.
+India
+became a member of INTERPOL in
+June 1956
+Secretary General
+: Oversees daily operations.
+General Secretariat (Lyon)
+: Manages global databases and police communication systems.
+Global Complex for Innovation (Singapore)
+: Research, training, and cybercrime initiatives.
+Regional Bureaus
+: Satellite offices worldwide.
+National Central Bureaus (NCBs)
+: Each member country, such as India’s
+CBI
+, serves as its national focal point for INTERPOL.
+I-24/7 Service
+: A secure global police communication system enabling real-time sharing of urgent and sensitive information.
+Powers and Functions
+Data Sharing
+19 police databases
+on crimes and criminals, accessible in real-time by member countries.
+: Issues color-coded notices (e.g.,
+Red, Yellow, Blue, Silver
+) to locate fugitives, missing persons, or criminal assets; not legally binding but widely used by law enforcement.
+Operational Support
+–
+Investigative Assistance
+: Provides forensics, analysis, and fugitive-tracking support.
+Coordination
+: Enables law enforcement agencies to handle transnational crime efficiently.
+**********[pib] SECL launches Post-Retirement Benefit (PRB) Cell
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+PRB Cell
+Why in the News?
+South Eastern Coalfields Limited (SECL), a Chhattisgarh-based
+subsidiary of Coal India Limited (CIL)
+has established a Post-Retirement Benefit (PRB) Cell.
+About Coal India Limited (CIL)
+Coal India Limited (CIL) was founded in
+1975
+and is the
+world’s largest coal producer
+It is a
+‘Maharatna’
+public sector enterprise under the
+Ministry of Coal
+, Government of India.
+CIL operates through
+8 subsidiaries
+, including South Eastern Coalfields Limited (SECL), Bharat Coking Coal Limited (BCCL), and Mahanadi Coalfields Limited (MCL), which is its largest coal-producing subsidiary.
+supplies 78% of India’s total coal production
+, supporting more than 50% of the country’s coal-based power capacity.
+CIL operates across
+8 Indian states
+, managing
+84 mining areas
+and a total of
+313 active mines
+What are the aims and objectives?
+Provide a
+centralized platform
+for retired employees to access all post-retirement benefits and services under one roof.
+Simplify and expedite the resolution of issues related to
+pensions, provident funds, medical benefits
+, and other entitlements.
+Eliminate the need for retirees to coordinate with multiple departments,
+minimizing delays and miscommunication.
+Reinforce
+Mission Sambandh
+, SECL’s initiative to build stronger connections and improve communication with stakeholders.
+What are the key benefits of the PRB Cell?
+Acts as a
+one-stop solution
+for all post-retirement benefit queries and services.
+Consolidates services like
+pensions, medical benefits, and financial queries
+, making it convenient for retirees.
+Dedicated personnel ensure
+faster response times
+and seamless service delivery.
+Officers from key departments, including
+Personnel, Finance, and Medical
+, are stationed at the PRB Cell to provide specialized support.
+PYQ:
+[2019]
+Consider the following statements:
+Coal sector was nationalised by the Government of India under Indira Gandhi.
+Now, coal blocks are allocated on lottery basis.
+Till recently, India imported coal to meet the shortages of domestic supply, but now India is self-sufficient in coal production.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+**********

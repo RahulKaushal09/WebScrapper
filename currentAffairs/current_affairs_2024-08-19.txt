@@ -1,0 +1,933 @@
+PM MODI PROPOSES GLOBAL COMPACT
+Syllabus
+Mains – GS 2
+Context:
+PM Narendra Modi proposed a human-centric “Global Development Compact,”  during the Voice of the Global South Summit.
+Background:-
+Global Development Compact will be inspired by the development priorities set by the countries of the Global South.
+Key takeaways
+PM Narendra Modi, in his opening remarks at the virtually held India-hosted third summit, emphasized that global governance and financial institutions established in the last century have failed to address the challenges of the current century.
+Global Development Compact:
+Debt-Free Development: PM Modi stated that under this new Compact, needy countries will not be burdened with debt in the name of development finance. Instead, the Compact will draw on India’s own development journey and its experiences in development partnerships.
+Focus Areas: The Compact will prioritize trade for development, capacity building for sustainable growth, technology sharing, project-specific concessional finance, and grants. To support trade promotion activities, India will initiate a special fund of USD 2.5 million, with an additional USD 1 million allocated to this cause.
+The prime minister said the compact will help in a balanced and sustainable development of the partner countries.
+Closing the Global North-South Gap:
+Call for Unity: PM Modi urged the Global South to unite, speak with one voice, and strengthen one another by learning from each other’s experiences. He suggested that the upcoming Summit of the Future at the UN next month could be a significant milestone in this effort.
+Understanding Global North and Global South:
+Global South: Refers to the countries of Asia, Africa, Latin America, and Oceania, where 88% of the world’s population lives. These countries often have a history of colonialism and have historically lagged in industrialization and development.
+Global North: Comprises the developed countries of North America and Europe, which have historically pursued imperial policies and are characterized by higher levels of development.
+Distinctions: The Global South typically exhibits lower development levels, higher income inequality, rapid population growth, agrarian economies, lower quality of life, shorter life expectancy, and significant external dependence. However, the term is more about political, geopolitical, and economic similarities than strict geographical location. For example, despite being in Asia, countries like Israel, South Korea, and Japan are considered part of the Global North due to their higher levels of development.
+In the last few years, India has been positioning itself as a leading voice, flagging concerns, challenges and aspirations of the Global South
+Source:
+Indian Express
+**********
+UPSC ADVERTISES 45 LATERAL ENTRY POSTS
+The Union Service Public Commission recently sought applications for lateral entry for 45 posts of Joint Secretary, Director and Deputy Secretary across 24 Central ministries.
+Appointment to the posts will be on a contract basis for a period of three years, extendable to five years depending upon performance, and central government employees are not eligible for the posts as per advertisement.
+Lateral entry into bureaucracy is a practice that involves recruiting individuals from outside the traditional government service cadres to fill mid and senior-level positions.
+Lateral entry into bureaucracy was formally introduced during Prime Minister Narendra Modi’s tenure, with the first set of vacancies announced in 2018.
+The aim is to address complex governance and policy implementation challenges by tapping into external expertise.
+The concept of lateral entry has historical precedence. It was initially recommended by the Second Administrative Reforms Commission (ARC) established in 2005 during the United Progressive Alliance (UPA) government.
+The ARC, chaired by Veerappa Moily, advocated for lateral entry to fill roles requiring specialised knowledge unavailable within traditional civil services. These recommendations emphasised recruiting professionals from the private sector, academia and PSUs to improve policy implementation and governance.
+Criticism
+Lack of Reservation: One of the primary criticisms is the absence of reservation for Scheduled Castes (SC), Scheduled Tribes (ST), and Other Backward Classes (OBC) in these positions.
+Ambiguity in Recruitment Process: There are concerns about the transparency and clarity of the recruitment process. Critics point out that there is no clear policy on determining vacancies, shortlisting candidates, and evaluating their suitability.
+Political Allegations: Critics have accused the government of using lateral entry to appoint individuals loyal to specific political ideologies, thereby undermining the neutrality of the civil service.
+Impact on Career Civil Servants: Large-scale lateral induction may demotivate existing civil servants who have progressed through the traditional career path. It could potentially discourage talented officers from continuing in the service.
+Potential for Bias: There are fears that the selection process might be biased towards candidates from certain backgrounds or sectors, which could affect the diversity and inclusiveness of the bureaucracy
+**********
+IMD RAIN FORECASTS FOR MUMBAI WRONG BY 42% IN JULY
+Prelims & Mains – CURRENT EVENT
+<img alt="" class="alignnone wp-image-196578 size-full" decoding="async" fetchpriority="high" height="846" sizes="(max-width: 840px) 100vw, 840px" src="https://iasbaba.com/wp-content/uploads/2024/08/reddf.png" srcset="https://iasbaba.com/wp-content/uploads/2024/08/reddf.png 840w, https://iasbaba.com/wp-content/uploads/2024/08/reddf-298x300.png 298w, https://iasbaba.com/wp-content/uploads/2024/08/reddf-150x150.png 150w, https://iasbaba.com/wp-content/uploads/2024/08/reddf-768x773.png 768w" width="840"/>
+In July, the IMD’s forecasts for Mumbai were off nearly by 42 per cent. Also on at least four days in July, the IMD had changed its forecast and warnings twice within a 24-hour window.
+The IMD issues its daily forecast at 1 pm, for a 24-hour period starting 8.30 am that day to 8.30 am the following day. There are five-, two- and three-day advance forecasts as well, but the 24-hour forecasts are considered the most accurate.
+On July 8, Mumbai woke up to severe flooding after 200 mm of rain overnight, far exceeding the India Meteorological Department’s (IMD) prediction. The IMD had issued a yellow alert, forecasting up to 115 mm of rain in 24 hours, but the city received 267 mm instead.
+Mumbai’s advanced Weather Radar Systems:
+Mumbai houses two sophisticated Doppler weather radars: an S-band radar at IMD’s Colaba observatory and a C-band radar in Veravali.
+Apart from tracking cyclones, radars are also useful for tracking other weather developments like thunderstorm activities. For thunderstorms, the radars undertake scanning every 10 minutes. Through the regular scans, the radars help in providing localised forecasts depending on the cloud developments and other factors.
+The metropolitan region also benefits from over 140 automatic weather stations operated by the BMC, in addition to IMD’s observatories at Santacruz and Colaba.
+Despite these resources, the IMD’s forecasts, especially city-specific ones, often lack accuracy and timeliness. The IMD acknowledges imperfections in its forecasts but notes that accuracy has improved by 40-50% in the last decade.
+The IMD’s observational network has expanded significantly, now operating over 400 weather stations, 1,000 automatic weather stations, and 1,300 automatic rain gauges.
+However, the unpredictability of weather systems, particularly in extreme weather events, exposes the limitations of current forecasting models.
+IMD models often fail to capture extremely localised weather systems which bring extremely heavy rain within a short span of time, making them difficult to forecast.
+Mumbai’s proximity to the sea and ghats adds complexity, making forecasting even more challenging due to dynamic weather changes.
+Factors like ocean and land temperatures, urban areas, and activities like irrigation can amplify convection, leading to unpredictable heavy rainfall.
+**********
+STORM-2035
+: OpenAI recently said that it has banned ChatGPT accounts linked to an Iranian influence operation that used the chatbot to generate content to influence the U.S. presidential election.
+OpenAI downplayed the impact of operation, noting that the content did not engage much with audiences and was not widely shared.
+About Storm-2035 :
+Storm-2035 is a covert Iranian influence operation identified by OpenAI, involving four websites posing as news organizations to target U.S. voters.
+The websites exploited issues like LGBTQ rights and Israel-Hamas conflict and also used AI tools to plagiarise stories and capture web traffic
+Operatives used ChatGPT to generate long-form articles and social media comments, which were then posted on various X and Instagram accounts.
+AI chatbots such as ChatGPT can potentially assist foreign operatives fool internet users by mimicking American users’ language patterns, rehashing already existing comments or propaganda, and cutting down the time it takes to create and circulate plagiarised content meant to sway voters.
+Apart from the upcoming U.S. presidential election, the operation covered global issues like Venezuelan politics, Latin rights in the U.S., the situation in Palestine, Scottish independence, and Israel’s participation in the Olympic Games. It also exploited popular topics such as fashion and beauty.
+Impact of Storm-2035:
+As per Brookings’ BreakoutScale, which measures the impact of covert operations on a scale from 1 (lowest) to 6 (highest), this operation was at the low end of Category 2, meaning it was posted on multiple platforms, but there was no evidence that real people picked up or widely shared their content.
+Previous Incidents:
+In May, OpenAI posted a report revealing it had been working to dismantle covert influence operations that used its tools for generating comments on social media, articles in multiple languages, fake names and bios for social media accounts, and translating or proofreading text.
+A Russian outfit that OpenAI called ‘Bad Grammar,’ used the Telegram to target Ukraine, Moldova, the Baltic States and the U.S.
+Separately, another Russia-based operation titled ‘Doppelganger,’ an Israeli operation that OpenAI nicknamed ‘Zeno Zeno,’ a Chinese network called ‘Spamouflage,’ and an Iranian group called ‘International Union of Virtual Media’ or IUVM, used ChatGPT to write comments on social media platforms like X and 9GAG, and to post articles and news stories.
+Besides hunting down influence networks, OpenAI also found incidents of state-backed threat actors abusing AI to attack enemies.
+OpenAI’s Response:
+OpenAI has developed AI-powered security tools to detect threats more quickly and has strengthened its safeguards against malicious use of its technology.
+The company is also collaborating with U.S. federal agencies and experts, including the U.S. AI Safety Institute, to enhance the security and reliability of its AI models.
+**********
+CONFLICT IN SUDAN
+Prelims – SCIENCE & TECHNOLOGY
+: Recently, atleast 80 people killed in strike by Sudan paramilitary forces.
+This attack occurred despite recent U.S.-sponsored talks aimed at ending the 16-month-long war.
+<img alt="" class="alignnone wp-image-196581 size-full" decoding="async" height="660" sizes="(max-width: 706px) 100vw, 706px" src="https://iasbaba.com/wp-content/uploads/2024/08/sudannn.png" srcset="https://iasbaba.com/wp-content/uploads/2024/08/sudannn.png 706w, https://iasbaba.com/wp-content/uploads/2024/08/sudannn-300x280.png 300w" width="706"/>
+Sudan is a country located in northeastern Africa.
+It is bordered by Egypt to the north, the Red Sea to the northeast, Eritrea and Ethiopia to the east, South Sudan to the south, the Central African Republic to the southwest, Chad to the west, and Libya to the northwest.
+Its capital is Khartoum, situated at the confluence of the Blue Nile and White Nile rivers.
+In modern times, it has experienced significant political and social upheaval, including civil wars and the secession of South Sudan in 2011.
+The country is currently under a transitional government following a military coup.
+Main Causes of the Conflict in Sudan:
+Power Struggle: The primary cause is the power struggle between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF). The leaders of these groups are vying for control of the country.
+Historical Tensions: Sudan has a history of political instability, marked by numerous coups and civil wars since its independence in 1956. The overthrow of longtime dictator Omar al-Bashir in 2019 led to a fragile transitional government, which was later disrupted by a military coup in 2021.
+Economic Factors: Sudan’s economy has been in crisis for years, exacerbated by corruption, mismanagement, and international sanctions. The competition over control of economic resources, particularly gold mines, has fuelled tensions between rival factions.
+Ethnic and Regional Divisions: Ethnic and regional divisions have also played a significant role. The RSF has its origins in the Janjaweed militia, which was involved in the Darfur conflict and accused of committing atrocities against non-Arab populations.
+External Influences: External actors and regional dynamics have further complicated the situation. Neighbouring countries and international powers have various interests in Sudan, influencing the conflict through support for different factions.
+Failed Peace Processes: Despite multiple attempts at peace talks and ceasefires, the lack of a comprehensive and inclusive peace process has hindered efforts to resolve the conflict.
+Hindu
+**********
+MULTIDIMENSIONAL VULNERABILITY INDEX
+Prelims – CURRENT EVENT
+: The UN General Assembly recently launched the Multidimensional Vulnerability Index (MVI).
+The MVI is a crucial tool in the global effort to address vulnerabilities and build a more resilient and sustainable future for all nations.
+The Multidimensional Vulnerability Index (MVI) is a comprehensive tool developed by the United Nations to assess the vulnerability of countries, particularly small island developing states (SIDS) and other developing nations.
+Purpose:
+It aims to provide a more nuanced understanding of the challenges these countries face, beyond traditional economic indicators.
+It designed to highlight the unique vulnerabilities of countries that are often overlooked by conventional metrics like GDP per capita.
+It helps in identifying the need for concessional financing and other support mechanisms.
+It helps policymakers identify areas of weakness and prioritize interventions to enhance resilience and sustainable development.
+The index can by international organizations and donors to allocate resources more effectively, ensuring that aid reaches the most vulnerable populations.
+Dimensions:
+Economic Vulnerability: Includes indicators such as GDP per capita, debt levels, and trade dependency.
+Environmental Vulnerability: Factors in exposure to natural disasters, climate change impacts, and biodiversity loss.
+Social Vulnerability: Considers health care access, education levels, and income inequality.
+Benefits:
+Targeted Interventions: By identifying specific vulnerabilities, the MVI enables more targeted and effective interventions, leading to better outcomes for affected communities.
+Enhanced Resilience: Countries can use the insights from the MVI to build resilience against future shocks, reducing the long-term impact of disasters and economic downturns.
+Informed Decision-Making: The index provides valuable data for decision-makers, helping them to allocate resources efficiently and implement policies that promote sustainable development.
+**********
+Daily Practice MCQs
+Q1.) Consider the following countries:
+How many of the above-mentioned countries share border with Sudan?
+Only one
+Only two
+Only three
+All four
+Q2.) With reference to the Multidimensional Vulnerability Index (MVI), consider the following statements:
+The MVI is a comprehensive tool developed by the United Nations to assess the vulnerability of countries, particularly small island developing states (SIDS) and other developing nations.
+It aims to provide a comprehensive assessment of a country’s structural vulnerabilities, particularly focusing on factors like climate change, economic instability, and social challenges.
+Which of the statements given above is/are correct?
+1 only
+2 only
+Both 1 and 2
+Neither 1 nor 2
+Q3.) Storm – 2035, recently seen in news is a
+Covert Iranian influence operation identified by OpenAI to target U.S. voters
+A high intensity thunderstorm which hit Caribbean islands
+An emerging form of AI technology
+None of the above
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  19th August 2024
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********Mental Health of Medical Students Can no Longer Be Ignored
+Context
+Mental health has long been a neglected issue in India
+, despite alarming statistics and growing evidence of its profound impact on the population.
+The
+recent formation of a Task Force by the National Medical Commission to address the mental health and wellbeing
+of medical students
+highlights the urgent need for a comprehensive and strategic policy approach
+to mental health in the country.
+situation is dire and demands immediate attention and therefore it is important to have an assessment of the current situation of mental health in India and ways ahead
+to address the gaps in policy.
+The Current State of Mental Health in India
+National Mental Health Survey of 2015-16 provides a stark picture
+of the mental health crisis in India.
+It revealed that 10.6 percent of the population over the age of 18 suffers from mental health disorders,
+with 16 percent of those affected being in the productive age group of 30-49 years.
+survey also highlighted a lifetime morbidity affecting 150 million people,
+with 1 percent reporting high suicidal risk.
+Despite this,
+the human resources and treatment facilities required to address these conditions are grossly inadequate,
+resulting in a treatment gap of 80 percent.
+This
+gap underscores the critical need for increased policy attention
+and resource allocation to mental health.
+Policy Gaps, Challenges and Resource Allocation in Mental Health
+Overview of Policy Gaps in Mental Health
+India's approach to mental health has been historically inadequate
+, marked by significant policy gaps and insufficient resource allocation.
+Despite the recognition of mental health
+as a critical public health issue,
+it has not been matched by appropriate government action or funding.
+discrepancy between the growing need for mental health services and the resources allocated to address this need is a glaring issue
+that has persisted over time.
+Insufficient Funding and Budget Allocation
+In 2019, the Union government allocated a mere Rs 600 crore to mental health
+, a fraction of the estimated Rs 93,000 crore required to adequately address the mental health crisis.
+Even with a slight increase to Rs 1,000 crore in the latest budget, mental health spending remains less than 1 percent
+of the overall health budget and
+this is grossly insufficient given the scale of the problem.
+underfunding of mental health is further highlighted by the fact that the majority of the allocated funds were directed toward tertiary institutions
+, such as the National Institute of Mental Health and Neurosciences (NIMHANS) and psychiatry departments of medical colleges.
+Challenges in Community-Based Initiatives
+allocation of Rs 40 crore for the District Mental Health Programme (DMHP)
+and other community-based initiatives is
+particularly concerning.
+DMHP is crucial as it is designed to extend mental health services to the grassroots level,
+particularly in rural and underserved areas where access to mental health care is limited.
+However, the minimal funding it receives severely restricts its capacity to operate effectively,
+leaving large portions of the population without access to necessary mental health services.
+Underutilisation of Allocated Funds
+Moreover,
+the actual expenditure of the allocated funds is another area of concern.
+Of the Rs 40 crore allocated for community-based initiatives,
+only Rs 2.91 crore was reportedly spent.
+This underutilisation of funds reflects not only a lack of prioritisation but also possible inefficiencies in the system
+, such as bureaucratic delays, lack of trained personnel, and inadequate infrastructure.
+Systemic Issues and Knowledge Gaps
+gap in knowledge refers to the challenges policymakers face in understanding how to effectively intervene in mental health issues
+and when such interventions should occur.
+Unlike other health issues,
+mental health requires a nuanced approach that considers the socio-economic, cultural, and psychological factors
+that contribute to mental health disorders.
+The lack of comprehensive data, limited research, and insufficient training of healthcare professionals
+further exacerbate the problem
+, making it difficult for policymakers to design and implement effective mental health strategies.
+Legislative Initiatives, Implementation Challenges and Lessons from India’s HIV AIDS Response
+Legislative Initiatives and Implementation Challenges
+National Mental Health Policy of 2014 and the Mental Health Act of 2017 marked a shift in policy towards ensuring that mental health is given the same priority
+as physical health.
+These
+initiatives emphasised the need for dignity and equal treatment for those with mental health conditions.
+However, despite the clear vision provided by these policies, there remains a lack of clarity on implementation, particularly regarding the financial and physical resources required and the timelines for achieving these goals.
+disconnect between policy and implementation is a common critique of India’s policymaking system.
+Lessons from India’s HIV-AIDS Response
+India’s success in addressing the HIV-AIDS epidemic
+offers valuable lessons for tackling mental health challenges.
+The National Aids Control Programme (NACP) III, implemented by the National Aids Control Organisation (NACO), demonstrated the effectiveness of strategic interventions based on epidemiological evidence, the importance of modelling different options,
+and the need for wide-ranging interventions tailored to different geographies and target groups.
+This approach provided crucial data on cost-effectiveness and scalability
+, which were essential for scaling up interventions.
+Ways Ahead to Address Policy Gaps and Overcome Implementation Challenges
+Need
+for Holistic Approaches to Mental Health
+similar approach on the lines of India’s response to HIV-AIDS is urgently needed
+to develop an implementable strategy for mental health patients.
+Like HIV-AIDS patients, individuals with mental health conditions require empathy
+from society and commitment from various government sectors.
+Mental health issues are often exacerbated by societal pressures and stressors such as poverty
+, growing inequalities of opportunity, and discriminatory environments based on caste, gender, and religion.
+These triggers, if left unaddressed, can cause mental health problems to recur
+despite medical treatment.
+Therefore,
+a purely biomedical approach is insufficient to address mental health conditions
+; a more holistic approach that includes community-anchored and affordable interventions is necessary.
+The Role of Civil Society
+Despite the policy vacuum,
+civil society in India has been active in addressing mental health challenges.
+Organisations such as Banyan in Tamil Nadu, Sangath in Goa, and the Centre for Mental Health Law and Policy in Pune have pioneered models of rehabilitation and
+for individuals with mental disorders.
+These evidence-based strategies
+, such as short-stay homes, emergency care centers, and peer-led interventions,
+need to be studied for potential scaling up.
+For instance, Banyan’s Home Again intervention, which addresses the needs of an estimated 60 lakh homeless and abandoned women with mental illnesses
+, offers a comprehensive strategy that includes awareness, rescue, treatment, rehabilitation, and reintegration with family.
+Conclusion
+The mental health crisis in India demands urgent and comprehensive policy attention
+and by
+learning from the successes of the HIV-AIDS response, India can develop and implement effective strategies
+to address the mental health needs of its population.
+This will require political will, adequate resource allocation, and active engagement with all stakeholders
+, including civil society and affected communities.
+Only then can India hope to bridge the treatment gap
+and ensure that mental health is given the priority it deserves.
+Click to View More
+Editorial Analysis
+**********India – Malaysia Bilateral Relationship
+Why in the News?
+Malaysian Prime Minister Dato Seri Anwar bin Ibrahim is scheduled to visit India from August 19-21, marking his first visit as Malaysia's Prime Minister.
+What’s in Today’s Article?
+India-Malaysia Relationship (History, Economic, Investments, Defense, etc.)
+Challenges / Prospects in Economic Ties
+India – Malaysia Bilateral Relationship:
+India established diplomatic relations with the Federation of Malaya (predecessor state of Malaysia) in 1957.
+The two countries enjoyed a strong relationship in the 1960s as a result of the personal friendship between Prime Ministers Nehru and Tunku Abdul Rahman Putra.
+Presently, India and Malaysia have developed close political, economic and socio-cultural relations.
+Malaysia is home to over
+2.95 million large Indian diaspora
+and the second largest PIO community in the world after the US.
+Economic & Commercial Relations:
+Malaysia has emerged as 13
+largest trading partner for India
+while India figures among the ten largest trading partners for Malaysia.
+A bilateral
+Comprehensive Economic Cooperation Agreement
+(CECA) covering goods, services and investment has come into effect from 2011.
+Major Exports:
+mineral fuels, mineral oils, aluminum and articles thereof, meat and edible meat offal, iron and steel, copper and articles thereof, etc.
+Major Imports:
+palm oil, mineral fuels, mineral oils, electrical machinery and equipment; animal or vegetable fats and oils, etc.
+Investments:
+As per official figures (DPIIT),
+Malaysia ranks as the 26
+largest investor in India
+with FDI inflow of US$ 1.16 billion during the period April 2000 to September 2022.
+The largest presence of Malaysian construction companies outside Malaysia is in India.
+Indian companies have invested in around 250 manufacturing projects of over US$ 2.62 billion.
+Presently, there are more than 150 Indian companies, including 61 Indian joint ventures and 3 Indian Public Sector Undertakings operating in Malaysia.
+Trade Settlement in Indian Rupees
+: Trade between India and Malaysia can now be settled in Indian Rupee (INR) in addition to the current modes of settlement in other currencies.
+Defense and Security:
+India-Malaysia defense relations have developed steadily since the signing of a Memorandum of Understanding (MOU) on Defence Cooperation in 1993.
+Both nations participate in each other's biennial defense exhibitions,
+LIMA
+MILAN
+Additionally, India is involved in the Cooperative Mechanism on the
+Straits of Malacca and Singapore
+(SOMS), contributing to projects that enhance navigational safety and environmental protection.
+Challenges and Prospects in India-Malaysia Economic Ties:
+The business relationship between India and Malaysia faces challenges that could slow down economic growth, such as
+geopolitical tensions
+global demand stagnation
+, and
+higher import tariffs
+However, the strong trade ties between the two countries are expected to persist.
+Despite these challenges, India and Malaysia have formed a strong strategic partnership, with both countries being members of important global forums like the Commonwealth of Nations, NAM, G-15, and G-77, which support their cooperation.
+There are many opportunities to strengthen bilateral relations further.
+Efforts like avoiding double taxation, mutual customs assistance, improving air connectivity, and collaborations among airlines can boost trade and tourism.
+Additionally, factors such as a vibrant diaspora, steady GDP growth, a younger population compared to China, expected increases in Foreign Direct Investment (FDI), and rapid digitization are promising for future trade.
+The recent revival of the India-Malaysia Joint Commission Meeting after 12 years shows renewed commitment to cooperation.
+The upcoming amendment to the Malaysia-India Comprehensive Economic Partnership Agreement (MICECA), which will include new economic sectors, is aimed at reaching a trade volume of US$25 billion within the next three years.
+By exploring new sectors, diversifying trade, and fostering beneficial collaborations, both countries can support India's goal of becoming the world's third-largest economy by 2027 and strengthen ties with ASEAN.
+newspaper.pdf
+( Size:  595.6 KB  )
+Click to View More
+International Relations
+**********Iranian group used ChatGPT to influence U.S. presidential election
+Why in news?
+Recently, OpenAI announced that it had banned ChatGPT accounts connected to an Iranian influence operation that aimed to generate content to sway the U.S. presidential election.
+The Microsoft-backed company reported that it had identified and removed a "cluster of ChatGPT accounts" and is actively monitoring the situation.
+What’s in today’s article?
+Storm-2035
+Use of ChatGPT to influence U.S. presidential election
+OpenAI identified a group involved in an Iranian influence operation, dubbed "Storm-2035," which operated through four websites posing as news organizations.
+These sites, including EvenPolitics, Nio Thinker, Westland Sun, Teorator, and Savannah Time, exploited divisive issues such as LGBTQ rights and the Israel-Hamas conflict to influence U.S. voters.
+According to a Microsoft Threat Analysis Center (MTAC) report, the sites used AI tools to plagiarize content and drive web traffic. The operation targeted both liberal and conservative voters in the U.S.
+OpenAI revealed that operatives from the Storm-2035 group used ChatGPT to generate long-form articles and social media comments, which were then posted on X and Instagram accounts.
+These AI-generated posts mimicked American language patterns, rehashed existing comments or propaganda, and significantly reduced the time needed to produce and distribute plagiarized content aimed at influencing voters.
+The operation not only targeted the upcoming U.S. presidential election but also covered global issues such as Venezuelan politics, Latin rights in the U.S., the situation in Palestine, Scottish independence, and Israel's participation in the Olympic Games.
+It also exploited popular topics like fashion and beauty.
+Impact
+OpenAI has downplayed the severity of the Storm-2035 incident, noting that the content generated by the operation received minimal engagement on social media.
+Using Brookings' BreakoutScale, which rates the impact of covert operations from 1 to 6, the report classified this operation as
+low-end Category 2
+This means the content was posted on multiple platforms but failed to gain traction among real users.
+Despite this, OpenAI emphasized that it had shared the threat information with relevant government, campaign, and industry stakeholders.
+While OpenAI viewed the disruption of this Iran-linked influence operation as a positive outcome, it also acknowledged the serious implications of foreign operatives using generative AI tools to target U.S. voters.
+The incident underscores multiple vulnerabilities across OpenAI, social media platforms like X and Instagram, and the search engines that ranked the sites involved.
+Other similar issues OpenAI faced in the past
+In May, OpenAI disclosed that it had spent over three months dismantling covert influence operations using its AI tools to generate social media comments, articles in various languages, fake profiles, and to translate or proofread content.
+One Russian group, dubbed "Bad Grammar," used Telegram to target Ukraine, Moldova, the Baltic States, and the U.S.
+Other operations included "Doppelganger" from Russia, "Spamouflage" from China, and "International Union of Virtual Media" (IUVM) from Iran.
+These groups used ChatGPT to write social media comments and articles on platforms like X and 9GAG.
+They focused on topics like Russia's invasion of Ukraine, the Gaza conflict, elections in India and Europe, and criticism of the Chinese government.
+OpenAI also uncovered instances of state-backed actors using AI for malicious purposes.
+In July, it revealed that a hacker had accessed its internal messaging systems the previous year, stealing information related to its AI technologies.
+Although the hacker was an individual, the breach raised concerns about potential threats from Chinese adversaries.
+Steps taken by OpenAI to safeguard its tech
+OpenAI found that its
+AI tools successfully refused to generate certain text or images
+due to built-in safeguards during its investigation into influence operations.
+The company also developed
+AI-powered security tools
+that can now detect threat actors within days instead of weeks.
+Although not widely discussed, OpenAI has deepened its ties with U.S. federal agencies.
+In June, OpenAI appointed cybersecurity expert and retired U.S. Army General Paul M. Nakasone to its Board of Directors.
+Nakasone, who previously led the U.S. National Security Agency, has extensive experience in cyber units across the U.S., Korea, Iraq, and Afghanistan.
+Recently, OpenAI also announced a partnership with the U.S. AI Safety Institute, allowing the institute to preview and test its upcoming foundational model, GPT-5.
+Iranian group used ChatGPT to influence U.S. presidential election.pdf
+( Size:  1.4 MB  )
+Click to View More
+International Relations
+**********Dark patterns and digitally conscious products
+Why in news?
+The Advertising Standards Council of India (ASCI), in collaboration with Parallel, a product design studio, recently released a report focusing on the prevalence of deceptive patterns in leading Indian apps.
+This study highlighted the use of one or more of 12 deceptive/dark patterns in most of these apps.
+What’s in today’s article?
+Dark pattern – About, examples, regulation in India
+Dark Patterns
+Dark patterns refer to
+deceptive design techniques
+used in user interfaces to manipulate or deceive users into taking certain actions or making specific choices online.
+Such patterns are unethical user interface designs that deliberately make Internet experience harder or even exploit the users.
+These patterns exploit
+cognitive biases and behavioural tendencies
+to trick or mislead users, often for the benefit of the platform or business implementing them.
+These tricks can include creating a
+false sense of urgency, making people feel bad for not doing something, forcing them to take certain actions, trapping them into subscriptions, or constantly bothering them
+Examples
+Social media companies and Big Tech firms such as Apple, Amazon, Skype, Facebook, LinkedIn, Microsoft, and Google use dark or deceptive patterns to downgrade the user experience to their advantage.
+It came under fire in the EU for its confusing, multi-step cancellation process for the Amazon Prime subscription.
+LinkedIn users often receive unsolicited, sponsored messages from influencers.
+Disabling this option is a difficult process with multiple steps that requires users to be familiar with the platform controls.
+Types
+Regulation of dark patterns in India
+In September 2023, Department of Consumer Affairs has sought public comments on Draft Guidelines for
+Prevention and Regulation of Dark Patterns
+The objective was to clearly identify and define tactics as dark patterns so that the Ministry of Consumer Affairs can act against platforms indulging in this under Section 18 of the Consumer Protection Act, 2019.
+Advertising Standards Council of India (ASCI), a self-regulatory body of the advertising industry in India, recently said that it wants to expand its code to address concerns around dark patterns in digital advertising.
+About the news
+The ASCI study highlights several deceptive patterns used by Indian apps to manipulate users.
+One such pattern is "
+Interface Interference
+," where apps use contrasting colors to draw attention to certain options while blending other parts of the screen, subtly steering users toward a specific choice.
+The study found that over 45% of leading Indian apps use this tactic.
+Another deceptive pattern is "
+Confirm Shaming
+," where apps use guilt or social pressure to influence user decisions.
+For example, an app might offer choices like "Upgrade now" or "I don’t want a smarter software," implying that choosing not to upgrade is foolish.
+A third example is "
+Basket Sneaking
+," where apps add unwanted items to a user's shopping cart, such as a charity donation, without explicit consent, requiring users to actively remove it if they do not wish to contribute.
+These examples illustrate how apps manipulate user behavior through deceptive design tactics.
+Other types
+The report identifies 12 deceptive patterns used in Indian apps, including the previously mentioned Interface Interference, Confirm Shaming, and Basket Sneaking.
+Other notable patterns are:
+Privacy Deception
+, where users are tricked into sharing more personal data than intended;
+Drip Pricing
+, where additional fees are gradually revealed during the purchase process; and
+Subscription Trap
+, where users are led into recurring subscriptions without fully understanding the commitment.
+Significance
+The study is significant as it raises awareness among marketers about these deceptive patterns, which could unintentionally be incorporated into app interfaces.
+It emphasizes the importance for brands with digital interfaces to review ASCI's guidelines and those from the Department of Consumer Affairs.
+As a practical step, marketers can use resources like the Conscious Patterns website to test their apps and receive a "conscious score," helping them balance business needs with user protection.
+The report also stresses that both marketers and designers need to prioritize ethical design practices, as the responsibility for app interfaces often lies with specialist designers rather than marketers.
+This awareness is crucial in the evolving digital landscape.
+Dark patterns and digitally conscious products.pdf
+( Size:  1.4 MB  )
+Click to View More
+Science & Tech
+**********Government Initiatives to Bolster Domestic Clean Technology Manufacturing and its Implications
+Why in News?
+The Ministry of New and Renewable Energy (MNRE) reimposed its mandate requiring solar projects to source (photovoltaic [PV]) modules exclusively from a government-approved list of domestic manufacturers starting April 1.
+This comes amid concerns over market concentration in India’s solar PV module industry and its potential to drive-up household electricity tariffs.
+What’s in Today’s Article?
+Implications of Market Concentration in India’s Solar PV Module Industry
+India’s Renewable Energy Prospects
+Government Initiatives to Bolster Domestic Clean Technology Manufacturing:
+The ALMM (Approved List of Model Manufacturers):
+Issued by the MNRE in 2021, it mandates all government-assisted or associated solar projects
+to use only enlisted modules
+, effectively barring the use of imported modules in most projects.
+The order aims to
+enhance energy security by reducing import dependence.
+The order was reimposed recently because
+the enlisted capacity of around 50 GW is believed to be sufficient and the duty-free import of solar modules from ASEAN countries is detrimental to domestic producers.
+The Production Linked Incentive (PLI) scheme for solar PV modules:
+Till now, the MNRE has announced incentives for 48.3 GW of module manufacturing capacities under the PLI scheme.
+Implications of Market Concentration in India’s Solar PV Module Industry:
+Positive:
+The BCD (Basic Custom Duty of 40% on solar module imports) will help g
+row the consumption demand
+of domestically manufactured products.
+Manufacturers anticipate a multifold increase in solar panel installations due to the
+PM-Surya Ghar Muft Bijli Yojana's
+goal of installing one crore household rooftop solar panels.
+Furthermore, solar panel manufacturers are also hoping for
+a policy change in European countries
+on the lines of the US which may open the European market for India.
+Negative:
+Companies linked to just five manufacturers
+control nearly half of the current capacity listed on the ALMM.
+Domestic solar modules are now
+90% more expensive than imports
+, with prices reaching 18 cents per watt compared to 9.1 cents for imported modules.
+India’s Renewable Energy Prospects:
+Current situation:
+It should be mentioned that India is the
+3rd
+largest energy consuming country and stands
+4th
+for total renewable power capacity additions.
+As of (May) 2024, India’s renewable energy capacity stands at
+195.01 GW
+with solar power capacity of 85.47 GW, wind power of 46.65 GW, small hydro power of 5 GW and large hydro power of around 46 GW.
+At COP26 India announced its plan to achieve the target of
+500GW
+of non-fossil fuel-based energy by 2030.
+Future projections:
+India’s power consumption is growing at around 10%-12% per annum resulting in an additional power demand of 20-25 GW annually.
+This increasing demand combined with the government initiatives may create a multi fold increase in the demand for solar installations.
+Challenges:
+In order to reach the 2030 target,
+India needs to add about 44 GW annually
+, requiring an
+investment of US$ 190-215 billion
+over seven years.
+According to the Ministry of Commerce & Industry data, the total solar capacity installed in FY 24 was around 15 GW this far.
+Land acquisition
+and infrastructure development to establish an
+efficient transmission network
+are the major challenges that the industry and the government need to address.
+India’s per capita power consumption
+is only around one third of the global average.
+newspaper.pdf
+( Size:  1.2 MB  )
+Click to View More
+Economics
+**********Labor conditions in southern states  
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to Migrant;
+Why in the News?
+Migrant workers from various parts of India are gradually becoming a noticeable presence in the agricultural fields of Tamil Nadu’s Cauvery delta, often called the granary of South India.
+Migrants in Tamil Nadu’s Cauvery Delta
+Labour Shortage in Agriculture:
+The Cauvery Delta, known as the
+granary of South India,
+is experiencing a significant shortage of farmhands as the
+younger generation moves away from agriculture.
+This has led to a reliance on
+migrant workers, particularly from states like West Bengal and Bihar,
+who are skilled in paddy transplanting and harvesting.
+Economic Dynamics:
+Migrant labourers are filling the labour gap during agricultural seasons, working in groups and completing tasks more quickly than local labourers. They charge around
+₹4,500 to ₹5,000 per acre
+, compared to local workers who
+earn ₹600 per day.
+Sociocultural Integration:
+While there
+hasn’t been significant tension between migrant workers and local labourers,
+the integration of migrants into the agricultural workforce is still evolving.
+Local labour unions
+acknowledge the presence of migrant workers
+but do not see it as a widespread issue yet, partly
+due to the ongoing mechanization of agriculture
+changing job preferences
+among the
+local youth.
+Dependence on Migrant Workers in Kerala
+Shift in Labor Sources:
+Kerala has seen a growing dependence on migrant
+workers from northern and eastern states,
+including
+to fill labour shortages in various sectors, including agriculture.
+A recent study by the
+Gulati Institute of Finance and Taxation
+estimated the number of inter-state migrant workers in Kerala at
+2.5 million, equivalent to 7% of the state’s population.
+Economic Factors:
+High wage differentials between Kerala and the migrants’ home states, along with a robust urban economy, have made Kerala an attractive destination for migrant labourers.
+External Migration from Uttar Pradesh to Maharashtra
+High Migration Rate:
+Uttar Pradesh tops the list for inter-state job-related migration to Maharashtra, with over
+5.7% of migrants moving for employment purposes between 2020 and 2021
+Concentration of Migrants:
+Within Maharashtra, districts such as
+Mumbai and Thane have the highest concentrations of migrants
+from Uttar Pradesh.
+Lack of Proper Data and Registration
+Historical Data Gaps:
+last comprehensive survey on internal migration
+was conducted as part of the
+National Sample Survey in 2007-08, with the Census 2011 data only
+partially released in
+2020.
+Absence of Real-Time Data:
+During the COVID-19 lockdown, the
+Indian government did not collect data on the deaths or job losses of internal migrants.
+Ministry of Labour and Employment
+confirmed that it maintained
+no records of migrant workers who lost their jobs or lives during this period.
+Legislation:
+Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, 1979
+was enacted to
+protect the rights and regulate the conditions of service for migrant workers
+who move between states in India for employment.
+Implementation Challenges
+Lack of Awareness:
+Many migrant workers are
+unaware of their rights under the Act,
+leading to exploitation and poor working conditions.
+Inadequate Enforcement:
+There is often
+insufficient enforcement of the Act
+by state governments, resulting in widespread violations and the continued presence of migrant workers in informal and unregulated sectors.
+The absence of
+accurate data on the number of inter-state migrant workers
+complicates enforcement and the provision of services.
+Way forward:
+Promote Sustainable Employment and Skill Development in Source Regions
+: To reduce the over-reliance on migrant labour and address labour shortages in sectors like agriculture, the government should focus on creating sustainable employment opportunities in the migrants’ home states.
+: The government should create a real-time migrant data system linked with Aadhaar, enabling targeted policies, social security, and effective crisis response for internal migrants.
+Mains PYQ:
+Discuss the changes in the trends of labour migration within and outside India in the last four decades.
+(UPSC IAS/2015)
+**********Do doctors need a Central protection Act?     
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Need for Central protection law for healthcare workers;
+Why in the News?
+Resident doctors across India are on strike, demanding safety laws after a young doctor was tragically raped and murdered at
+R.G. Kar Medical College in Kolkata
+on August 9.
+Why are Healthcare Workers Protesting?
+Response to Violence:
+The protests were triggered by the brutal rape and murder of a young doctor at R.G. Kar Medical College and Hospital in Kolkata on August 9, 2024.
+Demand for Safety:
+Healthcare workers are demanding laws and measures that ensure their safety while on duty.
+Historical Context:
+Violence against healthcare workers is not a new issue in India. Previous incidents, such as the
+case of Aruna Shanbaug, a nurse
+who was sexually assaulted in
+1973,
+underscore a
+long-standing pattern of violence in healthcare settings.
+Working Conditions of Junior Doctors, Interns, and Nurses
+Poor Working Environment:
+Junior doctors, interns, and nurses often work in
+ill-lit and poorly secured hospital environments.
+Long Shifts and Exhaustion:
+Many healthcare workers, including the victim of the recent incident, are subjected to
+excessively long shifts—in this case, a 36-hour duty shift
+—without adequate rest or safe spaces to recuperate.
+Mental Health Concerns:
+The stressful working conditions, combined with the
+threat of violence, have raised significant concerns about the mental health
+and well-being of healthcare workers.
+Key Demands of the Protesters
+Central Protection Act:
+Indian Medical Association (IMA)
+is advocating for a
+specifically for healthcare workers, similar to measures in other countries that classify assaults on medical staff as serious offenses.
+Enhanced Security Measures:
+Protesters are calling for
+hospital security protocols that match those of airports,
+including the installation of CCTV cameras, deployment of security personnel, and improved lighting in hospital corridors and wards.
+Safe Work Environment:
+There is a demand for
+immediate systemic reforms to improve working conditions,
+including better security arrangements and the establishment of healthcare facilities as safe zones.
+Accountability and Justice:
+The IMA has requested a
+thorough investigation into incidents of violence against healthcare workers,
+with a focus on timely and professional handling of cases and ensuring that perpetrators face exemplary punishment.
+Government Response:
+Following the protests, the
+Ministry of Health and Family Welfare issued an order mandating that any violence against healthcare workers
+must be reported and acted upon swiftly, with
+institutional FIRs to be filed within six hours of an incident.
+Sole responsible for the safety of Health workers:
+State Governments:
+Health and law enforcement are primarily
+state subjects in India,
+meaning that
+state governments are primarily responsible for ensuring the safety of healthcare professionals.
+They are tasked with implementing laws, providing adequate security in hospitals, and ensuring a safe working environment for medical staff.
+Central Government:
+The central government plays a role in formulating
+national policies and frameworks that support the safety of healthcare workers.
+Recent initiatives include the
+Ministry of Health and Family Welfare’s order
+mandating the filing of FIRs within six hours of any violence against healthcare workers, indicating a push for accountability and swift action.
+Way forward:
+Implement a Central Protection Law for Healthcare Workers
+: The government should fast-track the enactment of a Central law specifically designed to protect healthcare workers from violence.
+Improve Working Conditions and Mental Health Support
+: Hospitals should prioritize creating safe and well-secured environments for healthcare workers, including reasonable shift hours, adequate rest periods, mental health support, and robust security protocols to prevent future incidents of violence.
+**********Zoopharmacognosy: the study of how animals self-medicate
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Researchers highlighted the
+zoopharmacognosy
+(
+practice of self-medication)
+by a
+Sumatran orangutan
+using the plant
+Fibraurea tinctoria
+to treat a
+facial wound
+.
+What is Zoopharmacognosy?
+Zoopharmacognosy is the study of
+how animals use natural substances like plants, soils, and insects to treat their own illnesses.
+The term was coined by ecologist
+D.H. Janzen
+from the University of Pennsylvania.
+It shows that animals have an instinctive ability to find and use natural remedies.
+Key Studies and Observations
+Neanderthals:
+In 2012, a
+Nature
+publication found that
+Neanderthals in Northern Spain
+used plants like
+yarrow and chamomile to treat infections.
+Other Animal Species:
+Primates
+: Chimpanzees eat bitter leaves, like
+Vernonia amygdalina
+to get rid of intestinal worms.
+Pregnant lemurs
+nibbling on
+tamarind leaves to aid milk production.
+Reindeer
+: Reindeer eat mushrooms like
+Amanita muscaria
+, possibly to fight off parasites.
+Birds
+: Starlings line their nests with antimicrobial plants to protect their young from diseases.
+Elephants
+: Pregnant elephants in Kenya eat specific plants to help induce labor.
+Dogs
+: Dogs chew grass and then vomit to clear their stomachs of infections.
+PYQ:
+[2019]
+Recently, there was a growing awareness in our country about the importance of Himalayan nettle (Girardinia diversifolia) because it is found to be a sustainable source of:
+(a) Anti-malarial drug
+(b) Biodiesel
+(c) Pulp for paper industry
+(d) Textile fibre
+**********[pib] REACHOUT Scheme
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Indian student team, supported by the
+REACHOUT (Research, Education, Training and Outreach) scheme,
+achieved remarkable success at the
+17th edition of the International Earth Sciences Olympiad (IESO) held in Beijing, China.
+What is the REACHOUT Scheme?
+It is an initiative by the
+Ministry of Earth Sciences (MoES)
+under the broader
+PRITHVI (PRITHvi Vigyan) program.
+The scheme aims to enhance the
+understanding and dissemination of Earth system
+sciences through research, education, and outreach activities.
+About the International Earth Sciences Olympiad (IESO)
+The IESO was
+established in 2003
+during the
+International Geoscience Education Organization Council Meeting in Calgary, Canada.
+The competition focuses on
+promoting interest in earth system sciences,
+particularly in addressing
+climate change, environmental challenges, and natural disasters.
+India’s Participation:
+India has participated in the IESO
+since 2007
+hosted the 10th edition
+Mysore
+Indian National Earth Science Olympiad (INESO)
+serves as a
+national-level prelude
+to the IESO, held across schools in India.
+Top-performing students
+from INESO
+represent India at the IESO
+, with support from MoES and the Geological Society of India.
+PYQ:
+[2019]
+Atal Innovation Mission is set up under the
+(a) Department of Science and Technology
+(b) Ministry of Labour and Employment
+(c) NITI Aayog
+(d) Ministry of Skill Development and Entrepreneurship
+**********In news: Namdhari Sect
+Trivia
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Recently, followers of the two rival groups within the
+Namdhari religious sect
+clashed violently in Haryana.
+About Namdhari Sect
+Details
+Founder
+Satguru Ram Singh in 1857
+(on Baisakhi)
+Also known as
+Kuka Movement
+Primary Beliefs
+–
+Belief in a living human Guru;
+Also known as Kuka/Kukaism
+– Guru Granth Sahib is considered the Supreme Gurbani
+Strict vegetarianism
+and teetotalism (alcohol is forbidden)
+Key Practices
+– Wearing
+white attire
+as a sign of mourning
+Rejection of caste
+distinctions
+– Promotion of
+widow remarriage
+Non-violent resistance
+Cow
+is the sacred animal
+Headquarters
+Bhaini Sahib, Ludhiana, Punjab
+Global Presence
+Deras
+across Punjab and Haryana
+– Presence in countries such as the
+UK, Canada,
+Kenya
+Role in Independence
+– Early opposition to British rule
+– Adoption of non-cooperation and boycott of British goods
+– Victims of severe British reprisals
+Notable Historical Event
+Malerkotla Massacre (1872)
+– 66 Namdharis executed by the British
+Leadership Succession
+– After Ram Singh: His brother Satguru Hari Singh
+– Later Successors: Satguru Partap Singh, Satguru Jagjit Singh
+– Current leaders: Uday Singh and Dalip Singh (factional dispute)
+PYQ:
+[2013]
+Consider the following Bhakti Saints :
+1. Dadu Dayal
+2. Guru Nanak
+3. Tyagaraja
+Who among the above was/were preaching when the Lodi dynasty fell and Babur took over?
+(a) 1 and 3
+(b) 2 only
+(c) 2 and 3
+(d) 1 and 2
+**********Lok Sabha Speaker constitutes 6 new Parliamentary Committees 
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Lok Sabha Speaker has constituted
+six new Parliamentary Committees
+, for a tenure of
+1year:
+Origin
+Composition
+Functions
+Public Accounts Committee (PAC)
+Established in 1921 under the Government of India Act, 1919
+22 members: 15 Lok Sabha + 7 Rajya Sabha;
+Chairman from the Opposition,
+Appointed by the LS Speaker.
+Examines public expenditure, scrutinizes CAG reports, and ensures efficient use of public funds.
+Committee on Estimates
+Traces back to 1921; reconstituted in 1950 (recommended by John Mathai)
+30 members,
+All from Lok Sabha;
+Elected annually through proportional representation.
+Minister CANNOT be a member.
+Examines budget estimates, suggests economic efficiencies, and recommends alternative policies.
+Committee on Public Undertakings
+Established in 1964 based on the Krishna Menon Committee
+Chairman appointed by the Speaker,
+Chosen from Lok Sabha members
+Examines accounts and reports of PSUs, and provides recommendations without interfering in operations.
+Committee on Welfare of OBCs
+The committee was constituted in June 2012
+It comprises 30 members, with 20 from the Lok Sabha and 10 from the Rajya Sabha
+Focuses on the implementation of policies for OBC welfare, evaluates reservations, and suggests improvements.
+Committee on Welfare of SC/ST
+N/A
+The committee consists of 30 members, with 20 elected from the Lok Sabha and 10 from the Rajya Sabha.
+Ensures implementation of safeguards for SCs and STs, reviews welfare programs, and suggests enhancements.
+Joint Committee on Office of Profit
+Joint Committee on Office of Profit was established by the Lok Sabha on July 23, 2019
+15 members; 10 Lok + 5 from Rajya Sabha.
+Examines cases of MPs/MLAs holding offices of profit, determine qualification, and maintains legislative integrity.
+PYQ:
+[2018]
+With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the house whether the powers to make regulations, rules, sub-rules, by-laws, etc., conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation?
+(a) Committee on Government Assurances
+(b) Committee on Subordinate Legislation
+(c) Rules Committee
+(d) Business Advisory Committee
+**********What are Deceptive Dark Patterns?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Advertising Standards Council of India (ASCI)
+has released a report highlighting the use of deceptive dark patterns in Indian apps.
+Key highlights of the ASCI Study:
+The ASCI report aims
+to raise awareness among marketers
+and designers
+about the ethical implications of these deceptive patterns.
+The study
+analyzed 12,000 screens
+across
+53 leading Indian apps
+in 9 different industries.
+The report identified the use of one or more of
+12 deceptive patterns
+in most of these apps.
+These practices use elements of
+digital choice architecture
+, particularly in user interfaces.
+The goal is to
+manipulate or impair consumer autonomy
+, decision-making, or choice.
+patterns are often subtle, directing users toward decisions
+that may not align with their true preferences.
+As a result, they
+compromise the ability of users to make informed choices
+Examples of Deceptive Patterns:
+Description
+Interface Interference
+Directs users to specific choices using visual tricks.
+Highlighting preferred options with bright colors.
+Confirm Shaming
+Uses guilt to push users toward certain actions.
+Options like “Upgrade now” vs. “I don’t want a smarter software.”
+Basket Sneaking
+Adds unwanted items to cart without consent.
+Automatically adding a donation to the shopping cart.
+Privacy Deception
+Tricks users into sharing more personal data.
+Requiring unnecessary personal info during signup.
+Drip Pricing
+Reveals extra fees late in the purchase process.
+Adding hidden charges at checkout.
+Subscription Trap
+Leads to unintended subscriptions without clear notice.
+“Free trial” that auto-renews to a paid plan.
+Importance of Ethical Design
+Raising Awareness:
+Marketers are encouraged to study the guidelines issued by ASCI and the Department of Consumer Affairs to avoid unethical practices.
+Conscious Patterns Website
+: Marketers can use resources like the Conscious Patterns website to test their apps and obtain a “conscious score” to ensure that their apps balance business needs with user interests.
+Digital Responsibility
+: As the digital world evolves, ethical design practices are crucial for building and maintaining trust with customers.
+Marketer and Designer Roles
+: Both marketers and app designers need to be vigilant about pursuing ethical design to create safe and trustworthy online environments.
+PYQ
+[2015]
+What are the impediments in marketing and supply chain management in developing the food processing industry in India? Can e-commerce help in overcoming this bottleneck?
+**********

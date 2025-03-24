@@ -1,0 +1,1499 @@
+REVERSING THE SLOWDOWN
+Syllabus:
+Mains – GS 3
+Context:
+With the new year around the corner, it is important to think ahead and recognize that the big economic issue in India in 2025 is likely to be the growth slowdown.
+Background: –
+For a rich country like the US with an annual per capita GDP of $86,000, slowing growth does not hurt a lot. But for a poor country like India, with a per capita GDP of only $2,700, slowdowns are painful and worrisome.
+Key takeaways
+The recently released GDP growth figures have triggered discussion over whether the slowdown is a temporary blip or a warning of a serious trend. Official statistics show that growth has declined in four out of the last five quarters.
+Consumption demand has been subdued. Partly as a consequence, private investment has been weak. While government investment has been growing over the past few years, propping up demand, it is soon going to run into fiscal constraints.
+There is one major opportunity for reigniting growth. India’s GDP is roughly $4 trillion while global GDP is a little more than $100 trillion. That means that India’s share of the global economy is around 4 per cent. But its share in global goods exports is much smaller, less than 2 per cent.
+Assume that India decides to bring its export share in sync with its share in the global economy. If this could be achieved, it would do wonders for growth.
+Many multinational companies are wanting to move out of China. And the only other country with a large population base and strong growth prospects is India.
+There is now a historic opening to attract foreign direct investment (FDI) in manufacturing, which all across Asia has been the key to increasing countries’ global export market share. The government, to its credit, has been trying to seize this opportunity by rolling out the well-funded Production Linked Incentives (PLI) subsidy scheme.
+India should adopt a well-defined export-led growth strategy, the critical component of which would be minimising risk and policy uncertainty. To give an important example, the country needs a consistent and coherent trade policy that does not involve frequent changes in import tariffs or worse still, import or export bans.
+Source:
+Indian Express
+**********
+CII SEEKS REFORMS IN INDIA’S PRIORITY SECTOR LENDING FRAMEWORK
+Industry body CII has proposed reforms in India’s Priority Sector Lending (PSL) framework, suggesting the inclusion of emerging sectors and high-impact sectors like digital infrastructure, green initiatives, healthcare, and innovative manufacturing.
+CII also suggested setting up of a high level committee to look at the revision of PSL norms and explore the need for any new Development Finance Institutions (DFIs) to cater to some of the new and emerging sectors.
+Priority Sector Lending is a policy tool aimed at ensuring that key sectors crucial to the nation’s development receive adequate financial support.
+Mandated by the Reserve Bank of India (RBI), PSL obligates banks to allocate a specified proportion of their loans to sectors such as agriculture, education, housing, and small industries etc.
+Despite success, the PSL framework requires regular recalibration to remain relevant. This recalibration is essential to ensure that the financial resources are optimally distributed.
+For instance, while agriculture contributes 14 per cent of the GDP today, its PSL allocation remains at 18 per cent, unchanged from when its GDP share exceeded 30 per cent.
+Similarly, sectors like infrastructure and innovative manufacturing lack adequate PSL focus despite their potential to drive economic growth.
+Livemint
+**********
+INDIA’S RELIANCE ON CHINA FOR CRITICAL MINERALS
+Mains – GS 2
+The Ministry of Mines has identified 30 critical minerals. While it highlighted India’s complete import dependency for 10 critical minerals, it did not fully address a more pressing concern — the extent and nature of dependency on China.
+Transitioning away from China will require sustained investment and long-term commitment.
+Is China a dominant player?
+China’s unparalleled dominance in critical minerals stems from its vast resource base and strategic investments across the value chain.
+Reserves of minerals, particularly copper, lead, zinc, nickel, cobalt, lithium, gallium, germanium, and crystalline graphite, increased significantly, supported by robust exploration investment.
+China’s dominance extends beyond reserves to include processing and refining, with control over 87% of rare earth processing, 58% of lithium refining, and 68% of silicon processing.
+Furthermore, China has strategically invested in overseas mining projects and built unparalleled midstream refining capabilities, raising supply chain vulnerabilities for countries including India, the U.S., and EU nations.
+What about China’s export controls?
+When it comes to China’s approach to weaponising critical mineral exports, it is strategic and calculated.
+Beijing primarily targets minerals deemed critical by West and their allies, especially those essential for semiconductors, batteries, and high-tech manufacturing. However, China carefully balances these decisions against two constraining factors: it avoids controlling minerals which heavily depend on Western raw material imports, and it refrains from actions that could disrupt its domestic industry or export-dependent sectors. This strategy was evident in China’s 2010 rare earth embargo against Japan, its recent restrictions on antimony, gallium, and germanium exports, and its December 2023 ban on rare earth extraction and processing technologies.
+Is India dependent on China?
+An in-depth examination of import data of 30 critical minerals spanning 2019 to 2024 reveals India’s acute vulnerability to Chinese supplies, particularly for six critical minerals where dependency exceeds 40%: bismuth (85.6%), lithium (82%), silicon (76%), titanium (50.6%), tellurium (48.8%), and graphite (42.4%).
+Why does India rely on imports?
+India’s heavy reliance on imports stem from several structural challenges in its mining and processing ecosystem.
+Many critical minerals are deep-seated, requiring high-risk investments in exploration and mining technologies — a factor that has deterred private sector participation in the absence of adequate incentives and policy support.
+The country’s processing capabilities are also limited. This is particularly evident in the case of the recently discovered lithium deposits in Jammu and Kashmir, where despite the presence of 5.9 million tonnes of resources in clay deposits, India lacks the technological capability to extract lithium from such geological formations.
+What is the way forward?
+India has initiated a multi-pronged approach to reduce its dependency on China.
+The government has established KABIL, a joint venture of three State-owned companies, to secure overseas mineral assets.
+India has also joined strategic initiatives like the Minerals Security Partnership and the Critical Raw Materials Club to diversify its supply sources and strengthen partnerships.
+The country is also investing in research through institutions like the Geological Survey of India and the Council for Scientific and Industrial Research while promoting recycling and circular economy practices to reduce virgin mineral dependency.
+The Hindu
+**********
+NATIONAL FARMERS DAY
+Prelims – CURRENT EVENT
+National Farmers Day was celebrated on December 23.
+National Farmers’ Day in India, is celebrated annually on December 23 to commemorate the birth anniversary of India’s former Prime Minister, Choudhary Charan Singh.
+National Farmers Day, also known as Kisan Diwas, is celebrated in India on December 23rd each year.
+This day honors the contributions of farmers to the nation’s economy and pays tribute to the birth anniversary of Chaudhary Charan Singh, India’s fifth Prime Minister, who is often referred to as the “Champion of India’s Farmers”.
+Chaudhary Charan Singh served as India’s Prime Minister from 1979 to 1980.
+National Farmers Day was first celebrated in 2001 as an initiative by the Government of India.
+Hindustan Times
+**********
+GREENLAND
+Prelims – GEOGRAPHY
+Donald Trump, the president-elect of the United States, has expressed an interest in buying Greenland.
+The US’s interest in acquiring Greenland could start a whole new geopolitical ‘Great Game’ on top of the world in the fast-thawing Arctic.
+<img alt="" class="alignnone size-medium wp-image-200646 aligncenter" decoding="async" fetchpriority="high" height="294" sizes="(max-width: 300px) 100vw, 300px" src="https://iasbaba.com/wp-content/uploads/2024/12/24-dec-dna-300x294.png" srcset="https://iasbaba.com/wp-content/uploads/2024/12/24-dec-dna-300x294.png 300w, https://iasbaba.com/wp-content/uploads/2024/12/24-dec-dna.png 605w" width="300"/>
+Location: Greenland is located between the Arctic and Atlantic Oceans, east of the Canadian Arctic Archipelago. The territory comprises the island of Greenland and more than a hundred other smaller islands. Greenland has a 1.2-kilometer-long border with Canada on Hans Island.
+Size: It is the world’s largest island, covering an area of approximately 2,166,086 square kilometers.
+The highest elevation is the summit of Gunnbjørn Fjeld, the highest point in the Arctic at 3,694 meters
+Ice Coverage: About 80% of Greenland is covered by ice, including the Greenland Ice Sheet, which is the second largest ice sheet in the world after Antarctica.
+Danish Colonization: Danish colonization began in the 18th century, and Greenland became part of the Kingdom of Denmark in 1953.
+Home Rule and Self-Government: Greenland was granted home rule in 1979 and further autonomy in 2009, allowing it to manage most domestic affairs.
+Demographics and Culture
+Population: As of 2024, the population of Greenland is estimated to be around 56,800.
+Ethnic Groups: The majority of the population is Inuit, with smaller communities of Danish and other Nordic people.
+Languages: The official language is Greenlandic, with Danish also widely spoken.
+Economy and Resources
+Economy: Greenland’s economy is primarily based on fishing, hunting, and mining. There are also potential oil and gas reserves.
+Natural Resources: The island has significant deposits of coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, and hydropower.
+Interesting Facts
+Capital: The capital and largest city is Nuuk.
+Northernmost Point: Greenland is home to the northernmost point of land in the world, Kaffeklubben Island (northernmost permanent land).
+Time Zone: Greenland operates on multiple time zones, ranging from UTC-04:00 to UTC-01:00
+Down To Earth
+**********
+Daily Practice MCQs
+Q1.) Which of the following is NOT a reason for India’s reliance on imports of critical minerals from China?
+Limited exploration and mining technologies in India.
+Absence of incentives for private sector participation.
+Lack of domestic mineral resources for all critical minerals.
+Insufficient policy support for processing capabilities.
+Q2.) National Farmers Day in India, celebrated on December 23, honors which of the following leaders?
+Lal Bahadur Shastri
+Jawaharlal Nehru
+Sardar Vallabhbhai Patel
+Q3.) Which of the following statements about Greenland is INCORRECT?
+Greenland is the world’s largest island with significant ice coverage.
+Greenland operates under the complete administrative control of Denmark.
+It is rich in natural resources like coal, iron ore, and uranium.
+Greenland was granted home rule in 1979 and further autonomy in 2009.
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********The GATT-ification of the World Trade Organisation
+Context
+World Trade Organisation (WTO), headquartered in Geneva, was established in 1995
+as a monumental step towards a rule-based international trading system.
+However,
+it now finds itself in a precarious position, unable to fulfil its promise of a comprehensive dispute settlement mechanism
+and the paralysis of its Appellate Body (
+AB
+) is emblematic of deeper systemic issues that threaten the WTO’s relevance in global trade.
+Now it becomes imperative to critically examine the origins of the WTO’s decline, the geopolitical factors influencing its dysfunction
+, and the implications for global trade.
+The Origins of WTO’s Decline
+This
+obstruction began during Barack Obama’s administration
+, escalated under Donald Trump’s first presidency, and has continued under President Joe Biden.
+It
+reflects a bipartisan political consensus in the U.S. The U.S.’s hostile stance towards the AB
+will intensify further under what is anticipated to be a highly protectionist Trump 2.0 administration.
+The WTO panels
+, the first stage of dispute settlement,
+continue to operate and render decisions resolving trade disputes between WTO member countries.
+this is of little significance because the losing country uses its legal prerogative to appeal to a non-operational AB,
+and thus stall the adjudicatory process.
+It is a fool’s errand to put the AB back on track
+because the real issue is the WTO’s existential crisis and its quest to be a relevant player in global trade.
+larger game is not about killing the AB but, rather, making the WTO dysfunctional.
+An Analysis of the Promising Beginning of the WTO
+The Evolution from GATT to WTO
+establishment of the WTO in 1995 marked a historic transition
+from the General Agreement on Tariffs and Trade (GATT).
+sought to address the limitations of its predecessor by shifting from voluntary compliance
+to enforceable legal commitments.
+change reflected the global embrace of neoliberal principles, including market liberalisation and deregulation.
+A Comprehensive Rule-Based Framework
+WTO extended its reach beyond trade in goods to encompass services and intellectual property
+, introducing agreements such as GATS and TRIPS.
+comprehensive framework aimed to harmonise global trade practices
+and ensure stability and predictability in international markets.
+The Innovation of a Two-Tier Dispute Settlement System
+One of the WTO’s key innovations was its
+two-tier dispute settlement mechanism, featuring a binding adjudicatory process and an appellate function.
+This mechanism
+enhanced impartiality and rigor,
+positioning the WTO as a pioneer in international legal adjudication.
+The Optimism Surrounding Rule-Based Trade
+WTO’s legal framework inspired confidence
+in its ability to transcend political diplomacy.
+Scholars viewed it as a constitutional project that prioritised the rule of law
+, with countries ceding sovereignty to create a more stable and predictable trading system.
+Early Successes and Stabilizing Global Trade
+During its early years,
+the WTO achieved significant milestones, including resolving trade disputes,
+and facilitating market access through initiatives like the Information Technology Agreement.
+These
+successes reinforced its role as a stabilising force in the global economy.
+A Symbol of Global Cooperation and Equity
+More than a trade body,
+the WTO represented a commitment to cooperation and shared prosperity.
+Its principles of non-discrimination, transparency, and enforceability empowered smaller and developing nations
+, ensuring a fairer global trade system and solidifying its initial appeal.
+The Unravelling of the WTO
+The Rise of China and Decline of WTO
+The optimism surrounding the WTO
+began to dissipate with the rise of China as a global economic power.
+China's accession to the WTO in 2001, facilitated by the United States, was driven by the expectation that Beijing would adopt free-market principles
+and dismantle its state-led industrial policies.
+this transformation did not materialize, instead, the U.S. perceived that China exploited the WTO system
+to gain an unfair advantage, exacerbating trade imbalances and industrial policy conflicts.
+The Shift in US Policy Towards WTO
+disillusionment prompted a shift in U.S. policy
+, particularly during Donald Trump’s presidency, where unilateral measures such as a 25% tariff on Chinese goods were imposed in 2018, bypassing WTO rules.
+Appellate Body, a key pillar of the WTO’s dispute settlement system, became a casualty of this geopolitical struggle.
+Since 2019,
+the U.S. has blocked appointments to the AB, rendering it non-operational and stalling dispute resolution.
+obstruction reflects a bipartisan consensus in the U.S., with current President Joe Biden continuing the policy,
+signalling a broader disinterest in reviving the WTO’s adjudicatory mechanisms.
+The Shift from Legalism to Politics
+The decline of the Appellate Body is
+not merely a technical issue but a symptom of a larger transformation in international trade governance.
+As legal scholar Geraldo Vidigal argues,
+the crisis represents a regime change rather than a temporary setback.
+The thick legal framework established in 1995 is being replaced by a ‘thinning of legality,’
+as states reclaim sovereignty over trade policies.
+The GATTification of WTO: Reversal of WTO’s Founding Principles
+This regression,
+termed the GATTification of the WTO,
+indicates a
+return to the less formal, diplomacy-driven mechanisms of the GATT era.
+S. seeks to dismantle the WTO’s institutional controls to confront China
+without legal constraints.
+For instance,
+future U.S. administrations, including a potential Trump 2.0 presidency, are expected to pursue protectionist policies
+that may escalate trade wars.
+This shift underscores the resurgence of international politics over law in shaping trade relations.
+Implications for Global Trade
+The WTO’s weakening
+holds profound implications for the global trading system.
+Without a functioning dispute settlement system,
+the enforcement of trade rules becomes a matter of political leverage rather than legal adjudication.
+undermines trust in multilateralism and incentivises unilateral actions
+, increasing the risk of trade wars and economic fragmentation.
+Moreover,
+the erosion of the WTO’s authority coincides with the rise of regional trade agreements and bilateral deals,
+which often exclude weaker nations and exacerbate inequalities.
+return to a GATT-like system raises questions about the future of global trade governance
+and whether the WTO can adapt to the changing geopolitical landscape.
+Conclusion
+The WTO’s inability to restore its dispute settlement
+system by 2024
+reflects a broader existential crisis.
+While the paralysis of the Appellate Body is a pressing issue,
+the root cause lies in the shifting dynamics of global power, particularly the U.S.-China rivalry.
+transition from a rule-based to a politically-driven trade regime marks a reversal of the WTO’s founding principles.
+Click to View More
+Editorial Analysis
+**********Kerala’s Thrissur Pooram
+The Kerala High Court issued directives to ensure the safety and well-being of elephants and artists during the Thrissur Pooram festival.
+About Thrissur Pooram:
+It is a
+grand festival
+showcasing Kerala’s
+cultural
+spiritual essence
+It is celebrated annually in the Malayalam month of
+Medam
+(April-May) at the
+Thekkinkadu Maidanam
+in Thrissur.
+Often referred to as the
+“mother of all Poorams”
+, it is one of the
+largest temple festivals
+in Kerala.
+It was initiated by
+Raja Rama Varma
+, famously known as
+Sakthan Thampuran
+, the
+Maharaja of Cochin
+(1790–1805).
+Key Highlights
+Majestic elephants
+, adorned in traditional attire, are a central attraction.
+Traditional orchestra music
+(Panchavadyam) adds vibrancy to the festival.
+Kerala High Court Directives:
+The High Court issued guidelines aimed at ensuring the
+safety of elephants
+public
+, and
+during the festival.
+Key directives included:
+Minimum distance requirements
+should be 3 metres between two elephants, 8 metres between elephants and the public or percussion displays, and 100 metres buffer zone near areas of
+fireworks usage
+Elephants must have a minimum of
+three days’ rest
+between public appearances.
+Click to View More
+Source :
+SC stays Kerala HC’s ‘impractical’ guidelines on using elephants in temple festivals | Latest News India - Hindustan Times
+Art and Culture
+**********Ethiopian Wolf
+Recent research has highlighted the Ethiopian wolf as a rare example of a nectar-feeding carnivore, potentially contributing to the pollination of plants.
+About Ethiopian Wolf:
+The Ethiopian wolf is a
+specialized rodent hunter
+in Afroalpine ecosystems, a unique African high-altitude region.
+These ecosystems, located mainly in the
+Ethiopian Highlands
+, exist at altitudes of
+3,200 meters above sea level
+and are characterized by
+cold and harsh climates
+Physical characteristics
+: The wolf is about the size of a large dog, with a reddish coat, white throat and chest markings, and a bushy black tail.
+Population status
+: With fewer than 500 individuals remaining, the Ethiopian wolf is Africa's most endangered carnivore.
+Habitat specificity
+: It resides in isolated
+“sky islands”
+, high-altitude regions above tropical forests, surrounded by drastically different lowland environments.
+Ethiopian Wolf’s Role as a Pollinator:
+It feeds on the
+of the
+red and yellow Ethiopian red hot poker flower
+, a plant that produces
+sweet nectar
+attracting multiple pollinators.
+As the wolf moves between flowers,
+pollen dusts its muzzle
+, potentially aiding in
+Researchers observed wolves spending significant time in flower fields, with one wolf visiting
+30 flower heads in 1.5 hours
+This behavior indicates that the wolf actively seeks
+, a rare trait for large carnivores.
+Click to View More
+Source :
+Wolves with a taste for nectar? How we discovered the first large carnivore that pollinates flowers
+Environment
+**********Farmers Producer Organisations (FPOs)
+The Indian Council for Research on International Economic Relations (ICRIER) recently analyzed challenges faced by India’s Farmer Producer Organisations (FPOs) and suggested necessary reforms.
+About Farmers Producer Organisation (FPO):
+An
+is a type of
+Producer Organisation (PO)
+formed by
+farmers
+It operates as an organization
+of the producers, by the producers, and for the producers
+Small Farmers’ Agribusiness Consortium (SFAC)
+plays a vital role in promoting FPOs across India.
+Purpose of POs
+A PO represents producers of various goods, including
+agricultural products
+non-farm items
+artisan goods
+It can adopt legal forms such as
+producer companies
+cooperative societies
+, or other entities that allow members to share
+profits and benefits
+Ownership of FPOs:
+ownership
+of an FPO lies entirely with its
+member farmers
+. It operates on the principle of
+shared decision-making and benefits
+Legal Framework for FPOs:
+FPOs can be registered under the following:
+Companies Act, 1956
+Companies Act, 2013
+Societies Registration Act, 1860
+Public Trusts Act, 1882
+Structure and Governance
+: These legal frameworks ensure transparency, accountability, and effective management of FPOs.
+About Indian Council for Research on International Economic Relations (ICRIER):
+It is a leading Indian policy research think tank established in 1981, focusing on sectors like Agriculture, Climate Change, Digital Economy, and Economic Growth.
+Click to View More
+Source :
+Placing Indian agriculture on the global map - Opinion News | The Financial Express
+**********Kashmiri Papier-mâché
+343 years after its extinction, Kashmir artisans give wings to the dodo in papier mache.
+About Kashmiri Papier-mâché:
+It is a traditional handicraft of the Kashmir Valley, introduced in the 14th century by
+Muslim saint Mir Sayyid Ali Hamadani
+from Persia.
+This craft is known for its
+intricate designs
+and use of
+paper pulp
+to create colorful, richly decorated items.
+Features:
+Materials and process
+: Made primarily from
+. Items are handcrafted in
+homes and workshops
+, mainly in Srinagar and other parts of the Kashmir Valley.
+Common products
+Vases, bowls, cups
+(with or without metal rims),
+boxes, trays, and lamp bases
+Recently, products like
+papier-mâché models of extinct birds (e.g., dodos)
+have also gained attention.
+Artistic elements
+: The designs feature
+floral motifs
+forest prints
+, and other intricate patterns symbolizing cultural and ecological themes.
+Market
+: While the products have a significant
+domestic market
+, they are also highly demanded
+internationally
+in Europe, Mauritius, and other regions.
+Legal and Cultural Recognition:
+Protected under the
+Geographical Indication (GI) Act, 1999
+, ensuring authenticity and cultural preservation.
+Registered by the
+Controller General of Patents, Designs, and Trademarks
+The Dodo Connection:
+Christmas exports
+: Over
+50,000 papier-mâché dodo models
+were shipped to markets in
+for Christmas.
+Dodos, extinct since 1681, are the
+national emblem of Mauritius
+, making these items culturally significant.
+Click to View More
+Source :
+343 years after its extinction, Kashmir artisans give wings to the dodo in papier mache - The Hindu.
+Geography
+**********Critical Minerals
+India’s reliance on China for critical minerals
+About Critical Minerals:
+Critical minerals are those minerals that are
+essential for economic development and national security
+.
+The lack of availability of these minerals or concentration of extraction or processing in a few geographical locations may lead to
+supply chain vulnerabilities
+and even disruption of supplies.
+The future global economy will be underpinned by technologies that depend on critical minerals such as lithium, graphite, cobalt, titanium, and rare earth elements.
+These are essential for the advancement of many sectors, including high-tech electronics, telecommunications, transport and defence.
+They are also vital to power the global transition to a
+low carbon emissions economy
+, and the
+renewable energy technologies
+that will be required to meet the ‘Net Zero’ commitments of an increasing number of countries around the world.
+About the Critical Minerals Summit:
+Organised by
+: Ministry of Mines, Government of India, with collaboration from Shakti Sustainable Energy Foundation, CEEW, and IISD.
+Purpose
+: To foster collaboration, innovation, and policy dialogue on critical mineral beneficiation and processing.
+Key Highlights
+Focus on eight key minerals, including
+vanadium
+platinum group minerals
+Interactive workshops on mineral auctions, policy incentives, and sustainable solutions.
+India’s Current Scenario:
+The Ministry of Mines listed
+30 critical minerals
+essential for economic and strategic security.
+India relies entirely on imports for 10 critical minerals.
+Dependence on China:
+India’s dependency on China exceeds 40% for 6 critical minerals:
+Bismuth
+(85.6%),
+Lithium
+(82%),
+Silicon
+(76%),
+Titanium
+(50.6%),
+Tellurium
+(48.8%), and
+Graphite
+(42.4%)
+Reasons for reliance
+: China’s dominance in mineral processing, controlling:
+87% of rare earth processing
+58% of lithium refining,
+68% of silicon processing
+Click to View More
+Source :
+India’s reliance on China for critical minerals | Explained
+Economy
+**********Sagar Island
+Sagar Island in West Bengal where the iconic Gangasagar Mela takes place every January is getting impacted by climate change.
+About Sagar Island:
+It is also known as
+Ganga Sagar or Sagardwip
+is located in the
+Ganges delta
+, lying on the
+continental shelf of Bay of Bengal
+It consists of 43 villages. Sagar and Mahisani Islands are separated by
+River Muriganga Batala.
+This island along with the Mahisani and Ghoramara islands are classified under the sand group category.
+This Island is a religious place for Hindus, where pilgrims celebrate Makar Sankranti festival in honour of the Sun.
+The
+Kapil Muni temple
+on the island is a popular pilgrim centre.
+Who is Kapil Muni?
+Kapila or Maharishi Kapila is a Vedic sage traditionally considered to be the
+original proponent of the Samkhya system
+of Indian philosophy.
+He is said to have lived in the India, around the sixth or seventh century B.C.E.
+Click to View More
+Source :
+DTE Exclusive: Rising Bay of Bengal now within 450 metres of iconic Kapil Muni Temple on Sagar Island
+Geography
+**********Youth Co:Lab
+The Atal Innovation Mission (AIM), NITI Aayog, and the United Nations Development Programme (UNDP), in partnership with Citi Foundation, have officially launched the seventh edition of the Youth Co:Lab National Innovation Challenge for 2024-2025.
+About Youth Co:Lab:
+It was
+co-created in 2017 by UNDP and Citi Foundation
+, aims to empower and invest in youth to accelerate the implementation of the
+Sustainable Development Goals
+(SDGs) through leadership, social innovation and entrepreneurship.
+In India, Youth Co: Lab was
+launched in 2019
+in collaboration with
+Atal Innovation Mission, NITI Aayog.
+As of the end of 2024, Youth Co:Lab has conducted
+six national theme-specific youth social innovation and entrepreneurship
+dialogues in India through this collaboration.
+This year, the Youth Co: Lab National Innovation Challenge 2024-2025, held in collaboration with AssisTech Foundation (ATF).
+It will focus on empowering young entrepreneurs and entrepreneurs with disabilities innovating for solutions that “Enhance access to opportunities and well-being of Persons with Disabilities”, across the following
+sub-categories
+Inclusive and Accessible Assistive Technology
+(AT),
+Inclusive Educational Technology and Skilling
+Solutions and Accessible and Inclusive Care Models.
+About Atal Innovation Mission (AIM):
+It is a flagship initiative set up by the
+NITI Aayog in 2016.
+Objective:
+To create and
+encourage an environment of innovation and entrepreneurship
+across schools, educational organisations, research institutes, and industries, including MSMEs.
+Functions:
+Promote entrepreneurship by encouraging innovators to become entrepreneurs through financial support as well as mentorship.
+Promote innovation by creating a platform where ideas are generated through like-minded individuals.
+AIM has created
+four programs
+to support these functions: Atal Tinkering Labs, Atal Incubation Centres, Atal New India Challenges and Atal Grand Challenges.
+All the initiatives of AIM are currently monitored and managed systematically using real-time
+MIS systems and dynamic dashboards.
+AIM is also currently having its
+programs reviewed
+third party agencies
+for ensuring continuous improvements.
+Click to View More
+Source :
+AIM & UNDP unveil Youth Co:Lab 2025, inviting innovators to foster social entrepreneurship with focus on disability-inclusive innovation
+Polity & Governance
+**********Bio-bitumen
+Union minister for road transport and highways inaugurated a 1km stretch of Asia's first highway with a bio-bitumen blended surface.
+About Bio-bitumen:
+It is a
+petroleum-free alternative
+to bitumen, or asphalt.
+It is designed to
+lower the carbon footprint of road construction.
+It is made
+using non-petroleum-based renewable resources
+and can be made from vegetable oils, synthetic polymers, or both, making it a more sustainable model long term.
+Advantages:
+Sustainable:
+It is generated from renewable materials. This makes it a more environmentally friendly alternative to petroleum-based bitumen, which is derived from limited resources.
+Low Carbon Footprint:
+As it is derived from organic materials that have absorbed carbon dioxide during their development, it often has a lower environmental impact than standard bitumen.
+Improved environmental performance:
+It is less toxic and detrimental to the environment than regular bitumen. It contains fewer heavy metals and other hazardous pollutants.
+Applications:
+It is versatile and may be utilised in a variety of applications, including
+road paving, roofing, and waterproofing.
+What is Bitumen?
+It is a dense, highly viscous,
+petroleum-based hydrocarbon.
+It is found in deposits
+such as oil sands and pitch lakes
+(natural bitumen) or is obtained as a residue of the distillation of crude oil.
+Click to View More
+Source :
+Inauguration of Asia's first highway with bio-bitumen surface: Giant leap towards sustainable road infra
+Environment
+**********Cephalopods
+Cephalopods, including cuttlefish, squid, and octopus, demonstrate cognitive skills inspiring debates on their treatment.
+About Cephalopods:
+Cephalopods are the
+most intelligent
+, most mobile, and the largest of all molluscs.
+They are the most morphologically and behaviorally complex class in
+phylum Mollusca.
+Squid, octopuses, cuttlefish, the chambered nautilus
+, and their relatives display remarkable diversity in size and lifestyle with adaptations for predation, locomotion, disguise, and communication.
+These "
+brainy" invertebrates
+have evolved suckered tentacles, camera-like eyes, color-changing skin, and complex learning behavior.
+Their lengthy evolutionary history spans an impressive 500 million years and the abundant fossils they've left behind record repeated speciation and extinction events.
+Characteristics:
+They are characterized by a
+completely merged head and foot
+, with a ring of arms and/or tentacles surrounding the head. The arms, tentacles, and funnel are all derivatives of the foot.
+Locomotion in cephalopods is accomplished mainly by jet propulsion.
+All cephalopods
+are carnivorous.
+Many are
+skilled hunters,
+but
+some feed passively on floating debris
+They possess
+well-developed nervous systems
+and complex sensory organs.
+contain pigment-rich cells
+in the epidermis surrounded by cells containing contractile fibers.
+One of the highly complex behaviours that many cephalopods show is
+visual camouflage.
+They can open and close tiny sacs just below their skin that contain coloured pigments and reflectors, revealing specific colours.
+Australian giant cuttlefish
+, Sepia apama, uses its chromatophores to communicate, creating patterns that attract mates and warn off aggressors.
+This ability can also come in handy for hunting; many cephalopods
+are ambush predators
+that blend into the background or even lure their prey.
+Some Cephalopods live alone in the nearly
+featureless darkness of the deep ocean
+; others live socially on
+active, sunny coral reefs.
+Some cephalopods may be capable of more complicated forms of learning, such as
+reversal learning
+– learning to flexibly adjust behaviour when different stimuli signal reward.
+Click to View More
+Source :
+Octopuses and their relatives are a new animal welfare frontier
+Science & Tech
+**********United Nations Internal Justice Council
+Former Supreme Court judge Justice Madan B. Lokur was appointed Chairperson of the United Nations Internal Justice Council (IJC) for a term ending on November 12, 2028.
+About U.N. Internal Justice Council (IJC):
+It was
+established by the UN General Assembly
+as part of the new internal justice system in order to help ensure independence, professionalism and accountability in the administration of justice system of the United Nations.
+The IJC members are
+appointed by the UN Secretary General.
+It is composed of
+five members consisting of:
+a staff representative
+a management representative
+two distinguished external jurists, one nominated by the staff and one by management, and
+Chair:
+a distinguished jurist chosen by consensus by the four other members.
+Functions:
+To undertake the search for
+suitable candidates
+for the positions of judges when there is a vacancy on the
+UN Dispute Tribunal (UNDT) and the UN Appeals Tribunal (UNAT)
+, to be appointed by the General Assembly.
+To recommend General Assembly two or three candidates for each vacancy with due regard to geographical distribution.
+To provide its views on the
+implementation of the system of administration
+of justice to the General Assembly.
+Click to View More
+Source :
+Former Supreme Court judge Justice Madan Lokur appointed chairperson of U.N. Internal Justice Council
+International Relations
+**********Why Growth of India’s Green Cover Raises Environmental Concerns
+Why in news?
+The 18th biennial
+State of Forest Report (ISFR-2023)
+highlights a marginal gain of
+156 sq km in forest cover
+and a significant increase of
+1,289 sq km in tree cover
+since 2021.
+For the first time, India’s green cover has surpassed the
+25% threshold
+, with
+8,27,357 sq km (25.17%)
+of the country under
+forest (21.76%)
+tree (3.41%)
+cover. Dense forests constitute
+4,10,175 sq km
+of the total.
+What’s in today’s article?
+Trends in Forest and Tree Cover Growth
+Forests within forest
+Forest Balance Sheet: Insights from ISFR-2023
+Implications of Forest Cover Trends
+Calculation
+Since 2001,
+tree patches smaller than 1 hectare
+have been measured separately as
+The latest ISFR-2023 report shows the
+sharpest growth in tree cover
+, rising from
+2.91% in 2021 to 3.41%
+in 2023, marking a
+0.5 percentage point increase in two years
+In contrast,
+forest cover growth has slowed
+, increasing by only
+0.05 percentage points
+This aligns with the diminishing growth trend since forest cover surpassed the
+20% threshold
+in the early 2000s.
+Between 2003 and 2013, forest cover grew by
+0.61 percentage points
+(from 20.62% to 21.23%).
+On the other hand, the next decade saw only a
+0.53 percentage point increase
+to 21.76%.
+Classification of Forest Types in India
+In India,
+tree patches measuring 1 hectare or more
+with a
+minimum canopy cover of 10%
+are classified as forests, irrespective of land use or ownership.
+Forests are categorized based on canopy density:
+Very Dense Forests (VDF):
+Canopy density ≥ 70% (classified since 2003).
+Dense Forests:
+Canopy density ≥ 40%.
+Open Forests (OF):
+Canopy density between 10-40%.
+Non-Forest (NF):
+Areas with < 10% canopy density, including shrubs.
+Dynamic Changes in Forest Density
+Forests undergo transitions across density categories due to factors like
+climate
+biotic pressure
+. For example:
+may thin to a
+Moderately Dense Forest (MDF)
+An
+may improve to an
+Forests may degrade to
+shrub areas
+, indicating deforestation.
+Limitations of Aggregated Data
+While aggregated data reflects the quantum of different forest types, it fails to capture the
+dynamic transformation of forests
+, where
+natural forests degrade, disappear, or are replaced by plantations
+Plantations often grow faster but do not replicate the ecological richness of natural forests.
+Tracking Forest Change
+Since 2003, ISFR reports include a
+“change matrix”
+, detailing forest transitions across categories.
+This data highlights
+broad trends over two decades
+, reflecting the dynamic nature of forest ecosystems.
+Dense Forest Losses (2003-2023)
+India has lost
+24,651 sq km
+(6.3%) of its dense forests since 2003, equivalent to nearly half the size of Punjab.
+Key trends:
+2021-2023:
+3,913 sq km lost (larger than Goa).
+2013-2023:
+17,500 sq km lost.
+2003-2013:
+7,151 sq km lost.
+Plantation Gains Offset Dense Forest Losses
+Rapid transformation of
+15,530 sq km of non-forested or scantly forested land
+to dense forests over the past two decades has offset these losses.
+Experts suggest these gains are predominantly
+, as natural forests do not grow this quickly.
+1,420 sq km of plantations became dense forests.
+Management and Density Improvements
+Better management practices have allowed
+Open Forests (OFs)
+to improve into
+Moderately Dense Forests (MDFs)
+over the last decade.
+Combined with plantation gains, this has kept the dense forest cover largely stable.
+The “change matrix” records a net increase of
+1,370 sq km of dense forest
+between 2003-2023.
+716 sq km of gains
+were recorded in the 2021-2023 cycle alone.
+Data Revisions and Paper Gains
+India’s dense forest cover officially grew by
+21,601 sq km (6%)
+However, this figure includes
+20,232 sq km of revisions
+made in previous ISFR reports (2005, 2009, 2015, and 2021), raising questions about the accuracy of these gains.
+Key Observation
+While plantations and management practices stabilize dense forest cover on paper, the ongoing
+disappearance of natural dense forests
+highlights the need for improved conservation measures.
+Criticism of Plantation-Based Forest Growth
+The apparent growth in forest cover through the
+replacement of natural dense forests with plantations
+has drawn criticism from experts.
+Key issues include:
+Uniformity and Vulnerability:
+Plantations typically consist of trees of the same age and species, making them susceptible to
+fire, pests, and epidemics
+Barrier to Natural Regeneration:
+Plantations hinder the regrowth of
+biodiverse natural forests
+, which provide a broader range of ecological benefits.
+Ecological Superiority of Natural Forests
+Natural forests outperform plantations in several ways:
+Biodiversity:
+Natural forests support more species and complex ecosystems.
+Carbon Stock:
+They store significantly more carbon, both in trees and soil, compared to plantations.
+Climate Challenges of Plantation Forests
+Rapid Growth Assumption:
+In 2018, the
+UNFCCC
+flagged India’s assumption that plantations reach the carbon stock level of natural forests in
+just eight years
+, which is unrealistic.
+Short-Term Gains, Long-Term Risks:
+Plantations grow quickly and are promoted to meet carbon targets. However, they are often
+harvested prematurely
+, undermining long-term climate goals.
+Conclusion
+While plantations may stabilize forest cover on paper and provide short-term carbon benefits, they fail to replicate the ecological and climate advantages of old natural forests, emphasizing the need for better conservation strategies.
+Why growth of India’s overall green cover is not all good news.pdf
+( Size:  2.4 MB  )
+Click to View More
+Environment & Ecology
+**********Bangladesh’s Extradition Request for Sheikh Hasina
+Why in news?
+Bangladesh has formally requested India to extradite former Prime Minister Sheikh Hasina, who fled to India on August 5 following massive protests that ended her 16-year rule. Dhaka sent a diplomatic note to New Delhi, citing the need for Hasina to face judicial processes for alleged crimes against humanity and genocide.
+The International Crimes Tribunal (ICT) in Dhaka has issued arrest warrants against Hasina and several of her former ministers and officials.
+What’s in today’s article?
+Extradition treaty between India and Bangladesh
+Extradition Request by Bangladesh
+Can Hasina be extradited by Bangladesh?
+Treaty signed in 2013
+It was signed to address fugitives operating across borders in both countries.
+It was established due to concerns over Indian insurgents, particularly from the North East, hiding in Bangladesh, and Bangladeshi militants.
+Many Bangladeshi militants such as those from Jamaat-ul-Mujahideen Bangladesh (JMB), sought refuge in Indian states like West Bengal and Assam.
+It provides the legal framework for extradition but does not mandate compliance in all cases.
+Key provisions of the treaty
+The extradition treaty between India and Bangladesh mandates that both countries extradite individuals who:
+have been charged with, found guilty of, or
+are wanted for committing an extraditable offence by a court in the requesting country.
+An extraditable offence, as defined by the treaty, is
+one that carries a minimum punishment of one year imprisonment
+, including financial crimes.
+For an offence to be considered extraditable, the
+principle of dual criminality
+must apply, meaning
+the offence must be punishable in both countries
+The treaty also allows for extradition in cases involving attempts to commit, aiding, abetting, inciting, or participating as an accomplice in an extraditable offence.
+Provisions for Refusal
+Extradition may be refused if the offence is of a “political nature.”
+Some crimes, such as murder, enforced disappearance, and torture, are excluded from being categorized as political offences under the treaty.
+Article 8
+): Grounds for refusal also include accusations not made “in good faith in the interests of justice” or military offences not considered general criminal law violations.
+Amendment in 2016 to Simplify Extradition Process
+Requirement to provide evidence of the offence was removed; only an arrest warrant from a competent court is now required.
+Sheikh Hasina faces multiple arrest warrants issued in Bangladesh, making her case eligible under the amended treaty.
+About the news:
+Bangladesh has sent a diplomatic note asking New Delhi to send back its former PM Sheikh Hasina.
+India’s Response and Treaty Provisions
+Ministry of External Affairs confirmed receiving the request but has not yet commented on the matter.
+Indian officials have stated they will examine the legal grounds before making a decision.
+Strained Bilateral Relations
+Hasina’s presence in India and her public statements have strained relations between the two countries.
+In her public address from India, Hasina accused the interim government of genocide and persecution of minorities, including Hindus, Buddhists, and Christians.
+She alleged that during the protests, minority places of worship were attacked, and leaders of minority communities were persecuted.
+Hasina called for justice, demanding investigations into the killings and acts of violence.
+Bangladesh’s interim government, led by Chief Advisor Prof Muhammad Yunus, has expressed concerns over Hasina’s statements made from India, which they believe create tension.
+Yunus has urged India to help “clear the clouds” over the bilateral relationship.
+Impact on Regional Dynamics
+The extradition request and the political developments surrounding Hasina’s asylum in India have the potential to influence India-Bangladesh relations significantly, requiring deft diplomatic handling by both nations.
+India can refuse extradition, citing lack of “good faith” or justice-related concerns.
+Experts highlight that the decision to extradite Hasina is
+ultimately political rather than legal
+. But this has the
+potential to adversely impact New Delhi’s relations with Dhaka’s new ruling dispensation.
+Bangladesh’s Extradition Request for Sheikh Hasina.pdf
+( Size:  2.2 MB  )
+Click to View More
+International Relations
+**********India’s Reliance on China for Critical Minerals: Challenges and Opportunities
+What’s in Today’s Article?
+Overview (Context of the Article)
+About Critical Minerals (Meaning, China’s Dominance, Export Strategy, India’s Dependency on China, etc.)
+Way Forward
+Overview:
+In 2023, the Ministry of Mines identified 30 critical minerals essential for India's economic development and national security.
+The report highlighted a complete import dependency for 10 critical minerals but fell short of addressing India's reliance on China—a dominant player in the global critical minerals ecosystem.
+This reliance raises strategic vulnerabilities and the need for alternative strategies.
+What are Critical Minerals?
+Critical minerals are raw materials essential for economic and national security, often used in
+high-tech industries
+renewable energy technologies
+They are typically rare, difficult to mine and substitute, and often vulnerable to supply chain disruptions due to limited global production and geopolitical factors.
+The growing demand for these minerals, driven by technological advancements and the global transition to green energy, underscores their critical importance.
+Securing a stable supply of critical minerals is thus a strategic priority for many countries to ensure economic stability and technological progress.
+China’s Dominance in Critical Minerals:
+Vast Resources
+: China has discovered 173 types of minerals, including:
+13 energy minerals
+59 metallic minerals
+95 non-metallic minerals
+Strategic Investments
+: With $19.4 billion invested in exploration in 2023, China discovered 132 new mineral deposits, including 34 large ones.
+Processing Capabilities
+: Dominates processing and refining:
+Rare earths: 87%
+Lithium: 58%
+Silicon: 68%
+Global Investments
+: Strategic stakes in overseas mining projects amplify its control over supply chains.
+China's Export Strategy:
+China strategically controls critical mineral exports, particularly targeting those crucial for semiconductors, batteries, and high-tech manufacturing. Key examples include:
+2010 Rare Earth Embargo
+: Against Japan
+Restrictions on Gallium, Germanium, and Antimony
+: Recent targeted actions
+Ban on Rare Earth Technologies (2023)
+: To protect domestic interests
+China avoids actions that might:
+Disrupt its export-dependent industries
+Undermine its reliance on Western-imported raw materials
+India's Dependency on China:
+India’s import data (2019-2024) reveals high dependency on Chinese supplies for six critical minerals:
+Bismuth (85.6%)
+: Vital for pharmaceuticals and chemicals
+Lithium (82%)
+: Core to EV batteries and energy storage
+Silicon (76%)
+: Crucial for semiconductors and solar panels
+Titanium (50.6%)
+: Key for aerospace and defense
+Tellurium (48.8%)
+: Used in solar and thermoelectric devices
+Graphite (42.4%)
+: Indispensable for EV batteries and steel production
+China's dominant global production shares in these minerals underscore India's supply chain vulnerabilities.
+Why India Relies on Imports?
+Despite abundant mineral resources, structural challenges hinder India’s mining and processing ecosystem:
+Technological Barriers
+Limited ability to extract minerals like lithium from clay deposits in Jammu & Kashmir, despite having 5.9 million tonnes of resources.
+Investment Gaps
+High-risk investments in exploration deter private sector participation.
+Policy Shortcomings
+Lack of incentives and advanced mining technologies limit domestic production capabilities.
+Strategic Way Forward:
+Securing Overseas Assets
+The government established
+KABIL
+(Khanij Bidesh India Limited) to acquire overseas mineral resources.
+International Collaborations
+Partnerships through the
+Minerals Security Partnership
+Critical Raw Materials Club
+aim to diversify supply sources.
+Research and Development
+Institutions like the
+Geological Survey of India
+CSIR
+are advancing technologies for exploration and processing.
+Promoting Recycling
+Circular economy initiatives and production-linked incentives focus on recycling critical minerals to reduce dependency.
+Policy Reforms
+Introducing incentives to attract private investment and updating mining regulations to encourage domestic exploration.
+Conclusion:
+India’s transition from dependence on China requires sustained investment, technological advancements, and global partnerships.
+While government initiatives show promise, long-term commitment and proactive policies will be critical for securing a self-reliant future in critical minerals.
+India’s reliance on China for critical minerals _.pdf
+( Size:  601.8 KB  )
+Click to View More
+International Relations
+**********Centre Scraps No-Detention Policy for Classes 5 and 8
+Why in News?
+The Indian government has
+abolished the no-detention policy
+for Classes 5 and 8 across schools under its jurisdiction. This includes
+over 3,000 central schools
+, including Kendriya Vidyalayas, Jawahar Navodaya Vidyalayas, Sainik Schools, and Eklavya Model Residential Schools (under the Ministry of Tribal Affairs).
+This significant policy change
+aims to improve learning outcomes and accountability
+while balancing the rights of students with academic standards.
+What’s in Today’s Article?
+Overview of the No-Detention Policy
+Reasons for Scrapping the No-Detention Policy
+Key Provisions of the New Policy
+Reactions Towards the New Policy
+Recommendations to Implement the New Policy
+Conclusion
+Overview of the No-Detention Policy:
+Adopted the change:
+18 states and UTs, including Delhi, Rajasthan, and Tamil Nadu.
+Pending decision:
+Haryana and Puducherry.
+Continuing No-detention policy:
+Andhra Pradesh, Kerala, Maharashtra, etc.
+Reasons for Scrapping the No-Detention Policy:
+Criticism of academic dilution:
+Experts argued that the policy led to a
+decline in academic standards and student accountability.
+It was believed to have
+transformed schools into mid-day meal hubs rather than centers of learning.
+State and expert advocacy:
+By 2016, most states supported scrapping the policy during a Central Advisory Board of Education (
+CABE
+) meeting.
+The National Education Policy (
+NEP
+) 2020 emphasised improving learning outcomes while retaining educational access.
+Balancing accountability with equity:
+The policy change aims to instill seriousness in studies while providing remedial measures for underperforming students.
+Key Provisions of the New Policy:
+Promotion and re-examination:
+Students failing the annual exams in Classes 5 or 8 will receive remedial instruction and an opportunity for a re-examination within two months.
+Failure in the re-examination may lead to detention.
+Competency-based assessments:
+Examinations will focus on holistic development rather than rote memorisation or procedural skills.
+Support for struggling students:
+Teachers and school heads will provide targeted support, identify learning gaps, and closely monitor students' progress.
+Safeguards for student rights:
+No child can be expelled before completing Class 8.
+Detailed records of detained students and their progress will be maintained.
+Reactions Towards the New Policy:
+Supporters:
+Educators:
+Applaud the move as a step toward restoring academic rigor and preparing students for real-world challenges.
+Parents:
+See the policy as a means to encourage better academic preparation and outcomes.
+Critics:
+Educationists argue that
+detentions may increase dropout rates and undermine the RTE's goal of inclusive education.
+They highlight the need for integrating Continuous and Comprehensive Evaluation (
+CCE
+) with the policy.
+Recommendations to Implement the New Policy:
+Preventive measures:
+Early identification of at-risk students to reduce failures.
+Focus on addressing learning gaps throughout the academic year.
+Implementation oversight:
+School heads to monitor progress and ensure adequate support for detained students.
+Holistic view:
+Policies should integrate CCE to track progress and avoid stigma associated with failure.
+Conclusion:
+The abolition of the no-detention policy marks a shift in India’s educational approach, aiming to
+balance accountability with inclusivity
+While it seeks to improve learning outcomes,
+its success will depend on careful implementation and continued support for underperforming students
+newspaper.pdf
+( Size:  1.7 MB  )
+Click to View More
+Social Issues
+**********Envisioning India as a global skill supplier
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Schemes related to skill development;
+Mains level:
+Issues related to skill development;
+Why in the News?
+In an address, the Prime Minister expressed hope that India’s skilled workforce would make a significant impact in the global job market.
+What factors contribute to India’s potential as a leading global supplier of skilled workers?
+Demographic Advantage:
+India has a large and youthful population, with approximately 554 million individuals aged between 15 and 64 years, providing a substantial workforce to meet global demands for skilled labour.
+Government Initiatives:
+The Indian government has launched various programs aimed at enhancing skill development, such as the Skill India Programme, which allocates significant budgetary resources for training youth and creating internship opportunities in collaboration with major companies.
+Growing Global Demand:
+There is an increasing demand for skilled workers in sectors like IT, healthcare, construction, and logistics across regions such as the Gulf Cooperation Council (GCC), Europe, and North America due to demographic shifts and technological advancements.
+International Agreements:
+India has entered into multiple bilateral agreements with countries like Japan and France to facilitate the mobility of skilled workers, which enhances its position in the global labour market.
+How is India preparing its workforce to meet global skill demands?
+Skill Training Programs:
+The Ministry of Skill Development and Entrepreneurship is committed to providing future-ready skills training that aligns with global standards.
+This includes initiatives for vocational training through a network of over 15,000 Industrial Training Institutes (ITIs) across the country.
+Curriculum Development:
+There is a focus on integrating globally relevant skills into educational curricula. This involves reorienting skill programs at International Skill Centres to address the specific needs of destination countries.
+National Education Policy (NEP) 2020
+emphasizes a holistic approach to education that includes critical thinking, creativity, and digital literacy.
+Real-Time Skill Forecasting:
+India is encouraged to utilise data analytics to assess job vacancies and skill needs in real-time, allowing for a more responsive approach to skill development that aligns with international labour market demands.
+Customised Training Initiatives:
+The development of short-term skill training programs tailored for specific countries helps prepare Indian workers for international job markets effectively.
+What are the initiatives taken by the Government for skill development in India?
+Skill India International Centers (SIIC)
+: Establishes training aligned with international standards, promotes global partnerships and enhances employability abroad.
+Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+: Offers industry-relevant training with 119 new-age skill courses, focusing on global standards and certifying over 1.42 crore individuals.
+National Skill Development Mission (NSDM)
+: Provides a unified framework for quality skill development across sectors, aligning with global requirements for international job opportunities.
+National Apprenticeship Promotion Scheme (NAPS)
+: Facilitates practical on-the-job training aligned with global industry practices to prepare workers for international markets.
+Skill India Digital Hub
+: A digital platform launched in 2023, offering online resources for vocational training, fostering global skill recognition and accessibility.
+Skill Loan Scheme
+: Provides financial support for skill training, enabling wider access to globally aligned, high-quality training programs.
+What challenges does India face in becoming a global skill hub?
+Fragmented Policy Structure:
+India’s current policy framework for international labour mobility is fragmented and lacks comprehensive strategies based on robust data. The existing data primarily covers low-skilled workers, limiting effective policy formulation.
+Inadequate Data on Migration Trends:
+The reliance on limited data sources for tracking migrant labour outflows hampers the ability to create evidence-based policies that can effectively address the needs of both Indian workers and foreign employers.
+Underutilisation of Return Migrants’ Skills:
+There is a significant gap in effectively reintegrating return migrants into the Indian labour market. The skills acquired abroad are often not recognized or accredited, leading to lost opportunities for both the individuals and the economy.
+Quality of Skill Development:
+While there are numerous initiatives underway, there remains a need to elevate the quality of skill development programs to meet international standards, ensuring that Indian workers are competitive in the global market.
+Way forward:
+Unified Skill Mobility Policy
+: Implement a comprehensive, data-driven national framework for international labour migration, emphasizing skill forecasting, certification, and seamless reintegration of return migrants.
+Global Standards Alignment
+: Upgrade skill development programs to meet international benchmarks, incorporating customised training for destination-specific needs and emerging global industries.
+Mains PYQ:
+“Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive and employable?
+(UPSC IAS/2016)
+**********Looking at 2025, The Economy: Some positives, some concerns
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Indian economy;
+Why in the News?
+The Finance Minister describes the slowdown in Q2 growth as a “temporary blip,” while the RBI has revised its GDP growth forecast for 2024-25 downward, from 7.2% to 6.6%.
+Why RBI has revised its GDP growth forecast for 2024-2025 downward, from 7.2% to 6.6%?
+Economic Slowdown
+: The RBI’s downgrade reflects concerns over a cyclical downturn, with GDP growth in Q2 FY25 at 5.4%, indicating fundamental challenges hindering growth prospects.
+Fundamental challenges:
+Declining corporate investments, sliding consumption growth, and “softness” in urban demand have weakened the investment climate, prompting a downward revision in growth expectations.
+Inflationary Pressures
+: Persistent inflation near double digits complicates monetary policy, forcing the RBI to consider prolonged high interest rates, which could further suppress growth and investments.
+What are the expected growth rates for major economies in 2025?
+India:
+Projected to achieve a growth rate of 6.5% over the next five years, maintaining its status as the fastest-growing major economy globally, despite a recent dip in economic output in 2024.
+China
+: Growth is expected to stabilize around
+4-5%
+, lower than its historical rates due to structural challenges like demographic shifts and a cooling property sector.
+United States
+: Growth is projected at
+1.5-2%
+, as the Federal Reserve maintains a tight monetary policy to counter inflation.
+Eurozone
+: Growth is forecasted at around
+1%
+, reflecting a sluggish recovery from the energy crisis and geopolitical uncertainties.
+Japan
+: Expected growth rate of
+1-1.5%
+, supported by fiscal stimulus but constrained by aging demographics.
+Emerging Markets (excluding China and India)
+: Growth is expected to range from
+3-4%
+, depending on commodity prices and fiscal discipline.
+How will inflation and monetary policy evolve?
+Inflation Persistence:
+Inflation in India remains at the upper end of the permissible range, with food prices nearing double digits. This persistent inflation strengthens the argument for maintaining high interest rates, complicating the Reserve Bank of India’s (RBI) monetary policy decisions as they balance growth with inflation control.
+Monetary Policy Adjustments:
+The RBI may need to reconsider its previous projections of GDP growth, which could lead to adjustments in interest rates. If inflation continues to be a concern, the RBI might maintain or even increase rates longer than necessary which impacts investment and economic activity.
+Investment and Economic Recovery:
+A slowdown in corporate investments and a decline in household financial savings have been observed, which could hinder economic recovery.
+The RBI’s ability to stimulate growth through monetary policy will depend on addressing these investment challenges and ensuring that fiscal measures effectively support economic activity without exacerbating inflation.
+What are the key risks and uncertainties facing the global economy?
+Investment Slowdown:
+A significant challenge is the sluggish performance of corporate investments, exacerbated by high food inflation and muted urban demand. This trend poses risks for growth and job creation.
+Savings-Investment Gap:
+A decline in household financial savings down to 5.3% of GDP from 7.3% coupled with rising household debt (5.8% of GDP) presents a risk to economic stability1.
+Credit Growth Decline:
+Falling credit growth, particularly in household borrowing for home purchases and limited industrial appetite for new projects, indicates a tightening economic environment.
+Fiscal Challenges:
+Increased state expenditures on subsidies may strain fiscal resources, potentially affecting overall economic sustainability and growth prospects.
+What should be done by the government? (Way forward)
+Balanced Fiscal and Monetary Coordination
+: Governments should prioritize targeted fiscal measures to stimulate investment and demand while ensuring fiscal discipline, complemented by a flexible monetary policy that carefully balances inflation control with growth stimulation.
+Boosting Household Savings and Investments
+: Implement policies to encourage higher household financial savings and incentivize corporate investments through tax reforms, reduced regulatory barriers, and support for credit access in productive sectors.
+Mains PYQ:
+The nature of economic growth in India in recent times is often described as jobless growth. Do you agree with this view? Give arguments in favour of your answer.
+(UPSC IAS/2015)
+**********Indic ideas can contribute to good governance
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Ethical Governance;
+Why in the News?
+India’s ancient scriptures, history, and culture serve as key inspirations for meaningful governance. As highlighted in the Bhagavad Gita, the concept of “adhishthan” forms the foundation, with PM Modi already promoting its integration.
+How can ancient Indic principles enhance modern governance?
+Ethical Leadership and Accountability (Raj Dharma):
+Ancient Indic principles emphasize leaders as servants of the people, prioritizing fairness, justice, and public welfare. This aligns with modern demands for transparent and accountable governance.
+Inclusive Development (Antyodaya):
+The concept of Antyodaya advocates for uplifting the marginalized and ensuring that governance benefits all sections of society, especially the most disadvantaged, which is essential for achieving equitable development.
+Sustainability and Environmental Harmony (LiFE & Karmayogi):
+Indic principles stress balance with nature and responsible living, guiding modern governance towards sustainable development practices. Additionally, the
+concept promotes continuous skill-building for public servants to enhance governance effectiveness.
+What are the contemporary challenges to good governance in India?
+Corruption and Lack of Accountability:
+Corruption remains a significant barrier to good governance in India, undermining public trust and the effectiveness of government programs.
+Political Polarization:
+Increasing polarization between political parties has created a toxic environment that hampers constructive dialogue and collaboration.
+Inequality and Access to Services:
+Economic disparities continue to widen, limiting access to essential services such as healthcare, education, and infrastructure for marginalized communities.
+Bureaucratic Inefficiency:
+The inefficiency of bureaucratic processes often leads to delays in service delivery and implementation of policies.
+In what ways can citizen engagement be improved through Indic ideas?
+Participative Governance (Sab Ka Prayas):
+emphasizes collective effort, where citizens are actively involved in decision-making and implementation processes.
+Empathy and Responsibility (P2G2 – Pro-People Good Governance):
+By incorporating
+, which stresses sensitivity, commitment, and a sense of responsibility towards the people.
+Citizens can be more engaged through empathetic governance that prioritizes their well-being and fosters trust in public institutions.
+Empowerment through Education and Awareness (Antyodaya and Raj Dharma):
+Indic ideas like
+promote the empowerment of all individuals, particularly the marginalized, through education and awareness.
+Conclusion:
+To enhance governance, India should integrate ancient Indic principles like ethical leadership, inclusivity, and environmental sustainability into policy-making. This requires strengthening transparency, encouraging citizen participation, empowering marginalized communities, and fostering continuous capacity building in public administration for effective governance.
+Mains PYQ:
+What do you understand by the term ‘good governance’? How far recent initiatives in terms of e-Governance steps taken by the State have helped the beneficiaries? Discuss with suitable examples.
+(UPSC IAS/2022)
+**********UN Internal Justice Council (IJC)
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Justice Madan B Lokur, retired judge of the Supreme Court of India, has been appointed as the Chairperson of the United Nations Internal Justice Council (IJC).
+Justice Lokur’s Legacy:
+Justice Lokur served on the Supreme Court of India from June 2012 to December 2018, delivering landmark judgments across diverse areas of law.
+In August 2019, he was
+to the
+non-resident panel
+Supreme Court of Fiji
+and reappointed for another three-year term in January 2022.
+His notable judgments include:
+Electoral Disqualification on Religious Grounds (January 2017):
+Authored a concurring opinion in a seven-judge bench ruling disqualifying electoral candidates for seeking votes based on religion, race, caste, or other identity markers.
+Raising the Age of Consent in Marriages (October 2017):
+Alongside Justice Deepak Gupta, ruled to raise the
+age of consent
+within marriages to
+18 years
+, bolstering child protection laws.
+About UN Internal Justice Council (IJC):
+Establishment
+Established in
+2009
+to reform and strengthen the UN’s internal justice system.
+Ensures the system operates effectively, impartially, and transparently, addressing workplace disputes within the UN.
+Overview and Structural Mandate
+Safeguards the
+independence and integrity
+of the internal justice system.
+The
+is responsible for overseeing the administration of the
+It supervises:
+Office of Staff Legal Assistance (OSLA)
+UN Dispute Tribunal (UNDT)
+UN Appeals Tribunal (UNAT)
+Recommends measures to ensure judicial independence and efficiency in dispute resolution.
+Composition:
+5 members
+: 2 tribunal judges (from UNDT and UNAT), two staff representatives, and one external legal expert.
+is selected by consensus and appointed by the
+UN Secretary-General
+Members serve a
+four-year term
+, renewable once.
+Powers, Functions, and Jurisdiction
+Judicial Appointments
+Recommends candidates for
+judge positions based on merit and judicial competence.
+Proposes a shortlist for final selection by the Secretary-General.
+Oversight and Accountability
+Monitors tribunal functioning to ensure fairness and transparency.
+Identifies and addresses systemic issues, proposing improvements.
+Judicial Independence
+Protects the impartiality of tribunal judges and safeguards judicial integrity.
+Advocates for institutional protections against external influence.
+Advisory Role
+Provides expert advice on internal justice reform.
+Evaluates tribunal processes to enhance efficiency and accessibility for UN staff.
+Scope of Jurisdiction
+Covers grievances related to administrative decisions, employment conditions, and workplace disputes brought forward by UN staff worldwide.
+**********Mumps Vaccine
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Measles, Mumps, and Rubella (MMR) vaccine
+Why in the News?
+Tamil Nadu Government has
+requested
+the Centre to consider
+including
+Universal Immunisation Programme (UIP)
+due to surge in the Mumps cases across the State.
+Tamil Nadu’s UIP currently offers 11 vaccines protecting against 12 vaccine-preventable diseases, including:
+Tuberculosis, diphtheria, pertussis, hepatitis B, haemophilus influenzae, tetanus, poliomyelitis, measles, rubella, rota virus, pneumococcal, and Japanese encephalitis (in 14 endemic districts).
+The
+Measles-Rubella (MR) vaccine
+was
+added to the UIP
+April
+2017
+, but mumps is yet to be included.
+About Mumps Disease
+Mumps is a contagious viral infection caused by the
+mumps virus
+, primarily affecting the salivary glands, leading to swelling near the ears (parotitis), fever, headache, and muscle aches.
+It spreads through respiratory droplets or direct contact with saliva.
+While often mild, complications can include
+orchitis
+(testicular inflammation),
+oophoritis
+(ovarian inflammation), encephalitis, or hearing loss.
+There is no specific treatment, but supportive care like rest, hydration, and pain management helps.
+Vaccination with the
+MMR vaccine
+is the best prevention, offering 78–88% protection.
+Which free immunised diseases are provided under the Universal Immunization Programme (UIP)?
+was launched in
+1985
+and became part of the
+National Health Mission
+2005
+to provide free vaccination against vaccine-preventable diseases for children and pregnant women.
+The programme now covers
+12 diseases
+tuberculosis, polio, diphtheria, pertussis, measles, rubella, hepatitis B, pneumonia, rotavirus gastroenteritis
+Key vaccines added over the years include
+Hepatitis B
+(2007),
+Pneumococcal Conjugate Vaccine
+(2017),
+Inactivated Polio Vaccine (IPV)
+Measles-Rubella Vaccine
+The entire cost of vaccines is covered by the
+Government of India
+, funded through taxes, with an annual budget of
+₹7,234 crore (US$870 million)
+as of 2022.
+The programme covers
+all residents
+of India, including
+foreign residents
+, ensuring nationwide access to life-saving vaccines.
+4 new vaccines have been introduced, including the
+Adult Japanese Encephalitis vaccine
+, to address emerging health challenges.
+Note:
+Mission Indradhanush
+is a health initiative launched by the Government of India on
+25 December 2014
+by Union Health Minister J. P. Nadda. The mission aims to achieve
+90% full immunization coverage
+in India by
+, targeting vaccination against eight major vaccine-preventable diseases:
+Diphtheria
+Whooping Cough
+Tetanus
+Childhood Tuberculosis
+Meningitis & Pneumonia
+Haemophilus influenza type B
+Additionally, it covers
+Rotavirus Diarrhea
+in specific states and districts.
+The mission targets
+201 districts
+in its first phase, focusing on areas with the highest number of unvaccinated children, particularly in states like
+Uttar Pradesh
+Bihar
+Rajasthan
+Madhya Pradesh
+. The approach follows similar planning and administration as the
+Pulse Polio Immunisation (PPI)
+program.
+PYQ:
+[2016]
+‘Mission Indradhanush’ launched by the Government of India pertains to:
+(a) Immunization of children and pregnant women.
+(b) Construction of smart cities across the country.
+(c) India’s own search for the Earth-like planets in outer space.
+(d) New Educational Policy.
+**********India’s First Bio-Bitumen National Highway Inaugurated
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+first bio-bitumen-
+based
+stretch was inaugurated on
+NH-44 in Mansar, Nagpur, Maharashtra
+by
+Union Minister Nitin Gadkari
+.
+About Bio-Bitumen
+Bio-bitumen is a
+bio-based binder
+derived from renewable, sustainable
+sources
+such as: Vegetable oils, Crop stubble, Algae, Lignin (a component of wood), Animal manure.
+It serves as an
+alternative to traditional bitumen
+, which is primarily derived from the
+distillation of crude oil
+The production of bio-bitumen
+reduces dependence on petroleum
+and is a step toward sustainable road construction and infrastructure development.
+Significance and Features of Bio-Bitumen:
+Bio-bitumen reduces the
+carbon footprint
+associated with the traditional bitumen production process.
+By using renewable sources such as
+lignin
+(a byproduct of wood), it helps mitigate environmental concerns like
+stubble burning
+and contributes to
+lower greenhouse gas emissions
+, potentially by as much as
+70%
+compared to fossil-based bitumen.
+India, which heavily imports traditional bitumen, can reduce its import dependency by switching to bio-bitumen made from
+locally available materials
+The use of bio-bitumen stimulates
+bio-refineries
+, creating opportunities for
+revenue generation
+and providing economic benefits to
+farmers
+and the
+bio-refining industry
+India’s Bitumen Scenario:
+India imports
+around 50%
+of its total annual bitumen requirements, which amounted to
+3.21 million tonnes
+in FY 2023-24.
+The country produced
+5.24 million tonnes
+of bitumen in the same period.
+India’s bitumen consumption has been steadily increasing, averaging
+7.7 million tonnes annually
+over the past five years.
+In 2023-24, India constructed around
+12,300 km
+of national highways, averaging nearly
+34 km per day
+PYQ:
+[2011]
+In the Union Budget 2011-12, a full exemption from the basic customs duty was extended to bio-based asphalt (bioasphalt). What is the importance of this material?
+1. Unlike traditional asphalt, bio-asphalt is not based on fossil fuels.
+2. Bioasphalt can be made from non-renewable resources.
+3. Bioasphalt can be made from organic waste materials.
+4. It is eco-friendly to use bioasphalt for surfacing of the roads.
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only
+(b) 1, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+**********Google’s GenCast AI
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Google DeepMind
+has unveiled its revolutionary
+GenCast AI model
+, designed to predict the weather more accurately and farther in advance than current forecasting tools.
+About
+GenCast:
+What is it?
+is an
+AI-based weather forecasting model
+developed by
+It uses
+machine learning
+techniques for more accurate and long-term predictions compared to traditional models.
+Unlike traditional
+numerical weather prediction (NWP)
+models, GenCast uses an
+ensemble of AI-generated forecasts
+, trained on
+40 years of reanalysis data
+Outperforms traditional tools
+in predicting extreme weather, tropical cyclones, and wind power production.
+How GenCast Works
+Trained on
+of reanalysis data (1979–2019), blending historical data and modern forecasts.
+It is powered by a
+neural network
+with
+41,162 nodes
+240,000 edges
+, where nodes process data and edges connect them.
+diffusion model
+that refines noisy data in
+30 steps
+to improve forecast accuracy.
+It generates about
+50 forecasts at once
+, providing
+probabilistic
+predictions (e.g., likelihood of rain, not exact amounts).
+Generates forecasts in
+8 minutes
+using a
+single TPU v5 unit
+, much faster than traditional NWP models, which take hours.
+Significance of GenCast
+Outperforms ECMWF ensemble forecasts
+97.2% of targets
+, especially for extreme weather predictions.
+Provides
+longer-term forecasts
+for up to
+15 days
+, with spatial resolution of
+0.25° x 0.25°
+and 12-hour intervals.
+Offers
+probabilistic forecasts
+to help better prepare for extreme weather.
+Faster processing
+than traditional models, reducing forecast time from hours to minutes.
+Sustainability
+scalability
+allow the model to be expanded to other areas of weather prediction.
+Google collaborates with
+weather agencies
+to enhance AI forecasting methods while recognizing the importance of traditional models.
+**********

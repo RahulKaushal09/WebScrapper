@@ -1,0 +1,760 @@
+Govt Extends Import Management System for Electronic Devices
+Why in the News?
+The Union government is expected to extend the existing import management system for imports of certain IT hardware products including laptops and tablets for three months.
+What’s in Today’s Article?
+Background (Context of the Article)
+About IMS (Introduction, Objectives, Key Features, Reasons Behind Introduction, etc.)
+News Summary
+Background:
+In November 2023, the Union Government had imposed restrictions on import of laptops, tablets, all-in-one personal computers and ultra-small computers and servers with immediate effect.
+Subsequently, the government conducted consultations on a new system through which it aimed to monitor the sources from which IT hardware is being imported.
+The government eventually introduced the Import Management System for certain category of electronic goods.
+About Import Management System:
+(IMS) of the Indian Government is a framework designed to streamline and regulate the import of goods into India.
+Managed primarily by the Directorate General of Foreign Trade (DGFT), IMS aims to facilitate efficient import processes, ensure compliance with various regulations, and maintain the quality and safety of imported products.
+Objectives of IMS:
+To protect domestic industries by regulating the inflow of goods that could negatively impact local markets.
+To safeguard public health, safety, and the environment by controlling the import of hazardous or substandard products.
+To ensure that all imports comply with Indian laws and standards, maintaining the quality of goods entering the country.
+To enhance ease of doing business by providing a transparent and streamlined process for importers.
+Key Features of IMS:
+Regulation and Control
+: IMS helps in monitoring and regulating the import of goods by enforcing import policies, including restrictions, quotas, and licensing requirements for specific items.
+Licensing and Permits
+: Importers must obtain licenses or permits for restricted items through the IMS. This helps in controlling the entry of sensitive goods that could impact national security, health, or the environment.
+Documentation and Compliance
+: IMS facilitates the submission of required documents such as import licenses, bills of entry, and certificates of origin. It ensures that all imported goods comply with Indian standards and regulations.
+Risk Management
+: The system uses risk management tools to identify and screen high-risk consignments, ensuring that prohibited or substandard goods do not enter the country.
+Tariff and Non-Tariff Measures
+: IMS enforces both tariff and non-tariff measures to regulate imports, such as import duties, anti-dumping duties, and sanitary and phytosanitary standards, which protect domestic industries and consumers.
+Facilitation of Trade
+: By providing guidelines and assistance to importers, IMS aims to make the import process more efficient, reducing the time and cost associated with bringing goods into India.
+Reasons Behind the Introduction of Import Management System:
+China Factor:
+Data released by the Ministry of Commerce and Industry gives us a broad picture of India’s dependence on China with regard to the import of electronic goods such as laptops, computers etc.
+Indeed, India’s imports of the aforementioned class of electronic goods have been steadily rising.
+Whereas in 2019-20, India’s imports of electronic goods stood at $5.3 billion, that figure climbed to $10.3 billion in 2021-22, before declining slightly to hit $8.7 billion in 2022-23
+Given this fact, a rise in indigenous manufacturing would not only help India reduce its dependence on its diplomatic and business rival but would also help indigenous manufacturers expand their footprint globally.
+introduction of Import Management System could force IT hardware companies to establish new supply chains, as China is unlikely to be classified as a trusted geography
+Security Factor:
+Another factor behind the restrictions imposed on this class of electronic goods is concerns about ‘security’.
+The restrictions may have been brought in to
+guard against electronic hardware coming in with “in-built security loopholes that may potentially endanger sensitive personal and enterprise data”
+Across the world, many red flags have been raised about cybersecurity with regard to Chinese-manufactured electronics.
+Govt Extends Import Management System for Electronic Devices:
+The Union government is expected to extend the existing import management system for IT hardware products, including laptops and tablets, by three months, with the current review deadline set for September 30, an official source said.
+The system monitors imports of laptops, personal computers, and other IT hardware without disrupting market supply.
+Imports of these items stood at $8.4 billion in 2023-24, mainly from China, against an authorisation limit of about $9.5 billion.
+The authorisation allows importers to apply for multiple permissions, valid until September 30, 2024. Over 100 applications, including those from Apple, Dell, and Lenovo, were approved on the system’s first day, allowing imports worth nearly $10 billion.
+The extension would cover the entire current year, preventing any disruption.
+Govt. may extend import management system for laptops, tablets for 3 months.pdf
+( Size:  154.8 KB  )
+Click to View More
+Economics
+**********Bombay HC Strikes Down Centre’s Fact Check Unit
+Why in News?
+The Bombay High Court (HC) struck down a key provision of the amended Information Technology (IT) Rules 2021 (under IT Act of 2000), as
+unconstitutional
+.
+This provision empowered the government to identify “fake news” on social media platforms through a “Fact Check Unit” (FCU).
+What’s in Today’s Article?
+Amendment of the IT Rules
+Timeline of Events which Led to the Striking Down of the FCU
+What was the Split Decision of the Bombay HC?
+The Verdict Given by Justice Chandurkar
+What is the Road Ahead in this Matter Now?
+Amendment of the IT Rules:
+The law in question:
+The Ministry of Electronics and Information Technology (MEiTY) promulgated
+the IT (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules 2023
+(2023 Rules), which amended the IT Rules 2021.
+The amendment
+-
+Expanded the general term “fake news”:
+To include “government business”.
+Defines the power of FCU:
+If the FCU comes across or is informed about any posts that are fake, false, or contain misleading facts pertaining to the business of the government, it would flag it to the social media intermediaries concerned.
+Fix the accountability of the online intermediaries:
+The online intermediaries would then have to take down such content if they wanted to retain their “safe harbour”/ legal immunity with regard to third-party content published by them.
+Concerns regarding these amendments:
+When it came to matters pertaining to itself, the FCUs permitted the government to be the "
+only arbiter
+" of truth.
+The Rules raised
+concerns over free speech
+and the extent to which the government can regulate it.
+Timeline of Events which Led to the Striking Down of the FCU:
+The constitutional validity of the Rules was challenged (in the Bombay HC) on the basis of them being
+arbitrary, unconstitutional, and in violation of fundamental rights
+The Centre said -
+The Rules were not against any opinion, criticism, satire, or humour targeting the government.
+They were meant to only prohibit fake, false, and misleading facts on social media related to “government business”.
+Given the split verdict of January, as per rules of the Bombay HC, the case was referred to a third judge (Justice Chandurkar) who would hear the matter afresh.
+Meanwhile, the Centre notified the FCU under the Press Information Bureau (PIB).
+However, the Supreme Court stayed the operation of the notification until the Bombay HC took a final decision on the petitions challenging the amended Rules.
+Striking down the rule:
+The State’s decision to classify speech as true or false and compel the non-publication of the latter is nothing but
+censorship
+Upholding the rule:
+Right of citizens to participate in the representative and participative democracy of the county is meaningless unless they have access to authentic information and are not misled by misinformation.
+The Verdict Given by Justice Chandurkar:
+Violates fundamental rights:
+The amended Rule [3(1)(b)(v)] was violative of
+Articles 14
+(equality before law),
+19(1)(a)
+(freedom of speech and expression) and
+19(1)(g)
+(right to practice a profession or trade) of the Constitution.
+Imposes non-reasonable restrictions:
+The impugned Rule curtailed the fundamental rights of citizens beyond the reasonable restrictions prescribed under
+Article 19(2)
+, which was impermissible through the mode of delegated legislation.
+Using vague expressions:
+The expressions “fake, false or misleading” in the Rule are vague, and under the right to freedom of speech and expression there is
+no further “right to the truth”
+Inadequate safeguards:
+The Centre’s claim that decisions given by the FCU can be challenged before a constitutional court cannot be treated as adequate safeguard.
+Chilling effect on the online intermediary:
+The impugned Rule resulted in a chilling effect on the intermediary
+due to the threat of losing safe harbour
+, and was therefore liable to be struck down.
+Procedural part:
+Justice Chandurkar’s opinion has settled the matter in favour of the petitioners by a 2-1 majority.
+His opinion will be placed before a division Bench of two judges, which will formally announce the 2-1 majority against the impugned Rule.
+An appeal before the SC:
+This is given that similar issues are pending before the Delhi and Madras HCs too.
+Also, other aspects of the 2021 guidelines, such as the mandates for social media platforms to set up a grievance redressal and compliance mechanism, are also pending before various HCs.
+Bombay HC strikes down Centre's fact check unit.pdf
+( Size:  1.0 MB  )
+Click to View More
+Polity & Governance
+**********Supreme Court Seeks Government's Response on Delayed Judicial Appointments
+Why in news?
+The Supreme Court, led by Chief Justice D.Y. Chandrachud, asked the government to provide a detailed report on the status of judicial appointments that had been reiterated by the Collegium but not yet cleared by the government.
+The court emphasized that the Collegium is not a "search committee" and holds a critical role in the constitutional framework,
+implying that the government should not have absolute discretion in accepting or rejecting recommendations
+The court was hearing a Public Interest Litigation (PIL) seeking a fixed timeline for the government to notify judicial appointments recommended by the Collegium. Additionally, a contempt plea was brought by the Jharkhand government, alleging delays in clearing the transfer of Himachal Pradesh High Court Chief Justice M.S. Ramachandra Rao to the Jharkhand High Court.
+What’s in today’s article?
+Collegium System
+Role & responsibilities of Collegium System
+Collegium system: a tug of war
+Background – Article 124 and 217 of Indian constitution and controversy over word “Consultation”
+Article 124(2)
+of Indian Constitution deals with the appointment of Judges of Supreme Court. As per this article:
+Every judge of SC is to be appointed by the President.
+President will consult such judges of the SC and of the HCs in the States as the President may deem necessary.
+CJI shall always be consulted in case of the appointment of judge other than the Chief Justice of SC.
+Article 217
+of Indian Constitution covers the appointment and conditions of a High Court Judge.
+It says that every Judge of a High Court shall be
+after consultation with the Chief Justice of India, the Governor of the State.
+The constitutional provision gave the CJI and other judges the status of consultant and left the decision of appointment to the executives.
+This has been interpreted by the SC in a different way ultimately leading to the evolution of Collegium system.
+Evolution -
+The current collegium system has evolved over a period of time through the judicial pronouncements. These cases have been mentioned as below:
+First Judges Case (1982)
+SC held that consultation does not mean concurrence
+Gave Primacy to Executive.
+Second Judges Case (1993)
+Court reversed its earlier ruling by changing the meaning of consultation to concurrence.
+Advice tendered by CJI is binding.
+CJI would take into account the views of two of his senior most colleagues.
+Third Judges Case (1998)
+Court gave primacy to the opinion of CJI in the matter of appointment of Judges
+However, Chief Justice must consult four senior most judges of SC.
+Opinion of all members of the collegium should be in writing.
+If the majority of the collegium is against the appointment of a particular person that person shall
+not be appointed
+Appointment of Judges
+Supreme Court Judges
+: The Collegium for appointing SC judges consists of the Chief Justice of India (CJI) and the four senior-most judges of the Supreme Court.
+High Court Judges
+: For High Court appointments, the Collegium consists of the CJI and two senior-most judges of the Supreme Court.
+names recommended
+by the Collegium are sent to the government for approval.
+The government can either accept or return the recommendations for reconsideration
+As per convention, the government is obliged to accept the collegium's recommendation for appointment of judges if the decision has been reiterated.
+Transfer of Judges
+The Collegium also plays a key role in the transfer of judges between different High Courts.
+This ensures the independence of the judiciary and prevents judges from developing local biases.
+Role in Maintaining Judicial Independence
+The primary goal of the Collegium system is to ensure that judicial appointments remain independent of political or executive influence.
+By vesting the power of appointment within the judiciary itself, it seeks to maintain the independence and integrity of the courts.
+The judiciary and the executive keep clashing over the collegium system for appointment of judges in higher judiciary.
+The Centre terms this system to be opaque and non-transparent, however retired and current chief justices and judges of the SC holds it as the best system.
+The delays in appointments and transfers, particularly when recommendations are pending approval from the government, have caused friction between the judiciary and the executive.
+Supreme Court Seeks Government's Response on Delayed Judicial Appointments.pdf
+( Size:  1.6 MB  )
+Click to View More
+Polity & Governance
+**********India's Next Dairy Milestone - Current Status and Future Aspirations
+Why in news?
+Operation Flood, launched in 1970, ushered in the White Revolution and transformed the dairy sector in India. In order to give further boost to this sector, the government has announced plans for “White Revolution 2.0”.
+What’s in today’s article?
+Status of Dairy Cooperatives in India
+Milk scenario in India
+About
+White Revolution 2.0 aims to boost milk procurement by dairy cooperatives from 660 lakh kg per day in 2023-24 to 1,007 lakh kg by 2028-29.
+The Ministry of Cooperation's strategy focuses on expanding cooperative reach to new areas and increasing their share in the organized dairy sector.
+This initiative, building on the legacy of Operation Flood, will enhance market access for dairy farmers, generate employment, and empower women.
+Target
+White Revolution 2.0 will increase milk procurement of dairy cooperatives by 50%, over the next five years.
+It will do so by providing market access to dairy farmers in uncovered areas and increasing the share of dairy cooperatives in the organised sector.
+NDDB's Action Plan for White Revolution 2.0
+To drive the White Revolution 2.0, the National Dairy Development Board (NDDB) plans to establish 56,000 new multipurpose dairy cooperative societies (DCSs) over the next five years and strengthen 46,000 existing ones.
+The strengthening will be done by providing more advanced milk procurement and testing infrastructure.
+Key states for new DCSs include Uttar Pradesh, Odisha, Rajasthan, and Andhra Pradesh.
+Funding
+The National Programme for Dairy Development (NPDD) 2.0 will provide the bulk of the funding for White Revolution 2.0.
+The scheme will offer financial aid to set up milk procurement systems, chilling facilities, and capacity-building programs at the village level.
+Additionally, Rs 40,000 will be provided to 1,000 Multipurpose Primary Agricultural Credit Cooperative Societies (MPACSs) to support the infrastructure of dairy cooperatives.
+Pilot project
+In February 2023, NDDB launched a Rs 3.8 crore pilot project to set up dairy cooperatives in uncovered gram panchayats in Haryana, Madhya Pradesh, and Karnataka.
+The 79 DCSs established through this pilot now procure 15,000 liters of milk per day from around 2,500 farmers.
+Since its creation, in 2021, the Ministry of Cooperation has focused on expanding the network of cooperatives, in particular dairy cooperatives.
+Currently, dairy cooperatives cover around 70% of India's districts, with about 1.7 lakh cooperative societies operating in 2 lakh villages (30% of the total number of villages in the country).
+These cooperative societies procure about 10% of the country’s milk production and 16% of the marketable surplus
+However,
+regional disparities exist
+, with higher coverage in states like Gujarat, Kerala, and Sikkim, while regions such as West Bengal and the Northeast lag behind with less than 10% coverage.
+The government aims to bridge these gaps to expand dairy cooperative networks across India.
+World’s top milk producer
+India is the world’s top milk producer, with production having reached 230.58 million tonnes during 2022-23.
+Total milk production increased from 187.75 million tonnes in 2018-19 to 230.58 million tonnes in 2022-23.
+However, the annual growth rate of production came down from 6.47% to 3.83% during this period.
+About 63% of the total milk production comes to the market; the remaining is kept by producers for their own consumption.
+About two-thirds of the marketable milk is in the unorganised sector.
+In the organised sector, cooperatives account for the major share.
+Average yield
+The average yield is, only
+8.
+55 kg per animal per day for exotic/ crossbred animals, and 3.44 kg/ animal/ day for indigenous/ nondescript animals
+The yield in Punjab is 13.49 kg/ animal/ day (exotic/ crossbreed), but only 6.30 kg/ animal/ day in West Bengal.
+Per capita availability of milk
+The national per capita availability of milk is 459 grams/ day, which is higher than the global average of 323 g/ day.
+This number, however, varies from 329 gm in Maharashtra to 1,283 gm in Punjab.
+The top five milk producing states
+The top five milk producing states are UP (15.72%), Rajasthan (14.44%), Madhya Pradesh (8.73%), Gujarat (7.49%), and Andhra Pradesh (6.70%), which together contribute 53.08% of the country’s total milk production.
+Contribution of milk group in the agriculture, livestock, forestry, and fishing sector
+The milk group contributed almost 40% (Rs 11.16 lakh crore) of the value of output from the agriculture, livestock, forestry, and fishing sector in 2022-23 — much higher than cereals.
+Milk group comprises milk consumed or sold in liquid form, ghee, butter, and lassi produced by producer households.
+The dairy sector provides livelihoods to more than 8.5 crore people directly or indirectly, of whom the majority are women.
+India's Next Dairy Milestone - Current Status and Future Aspirations.pdf
+( Size:  2.7 MB  )
+Click to View More
+Economics
+**********Wide-ranging reforms undertaken in food-processing sector in last 10 years
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Food Processing Industry;
+Why in the News?
+Prime Minister Narendra Modi stated on Thursday that over the past decade, India has implemented “comprehensive” reforms to revolutionize the food-processing sector.
+What are the steps taken by Govt in food processing industry in India?
+Priority Sector Lending:
+In April 2015, food and agro-based processing units were included as
+agricultural activities under the Priority Sector Lending norms
+, facilitating easier access to credit for these businesses.
+FDI Policies:
+The government allows
+100% Foreign Direct Investment (FDI)
+under the automatic route for the food processing sector, encouraging foreign investment and technological transfer.
+Special Food Processing Fund:
+A fund of
+₹2,000 crore
+was established with
+NABARD
+to support food processing projects and infrastructure development.
+Regulatory Reforms:
+The Food Safety and Standards Authority of India (FSSAI) shifted from
+product-by-product
+approvals to an ingredient-based approval process in 2016, simplifying compliance for businesses.
+Infrastructure Development:
+Initiatives such as the
+Pradhan Mantri Kisan Sampada Yojana (PMKSY)
+aim to create a robust infrastructure for food processing through cold storage facilities, processing units, and logistics support.
+Status of food processing industries in India
+Economic Contribution:
+The sector accounts for approximately
+13% of India’s total exports
+6% of industrial investment
+. It is expected to generate around
+9 million jobs
+2024.
+Growth Rate:
+The industry has been growing at an average annual rate of about 11.18% over recent years, indicating significant potential for expansion.
+Market Share:
+Despite being one of the largest producers of agricultural commodities, India’s food processing sector represents
+only about 10% of total food production
+What are the still challenges present in food processing industry in India?
+Inadequate Infrastructure:
+A lack of cold storage and transportation facilities leads to over 30% post-harvest losses.
+Fragmented Supply Chains:
+The supply chain is highly fragmented, causing inefficiencies and increased costs due to poor connectivity and coordination among stakeholders.
+Regulatory Complexities:
+The industry is burdened by a complex web of regulations that can hinder business operations and compliance efforts.
+Lack of Skilled Labor:
+There is a significant shortage of skilled professionals in areas such as food technology and quality control, which hampers innovation and adherence to safety standards.
+Limited Technology Adoption:
+Many processors still rely on outdated technologies, which affects productivity and product quality. High costs and lack of technical expertise further inhibit technological advancements.
+What should be done by Govt to resolve these challenges? (Way forward)
+Infrastructure Investment:
+Increase investments in cold chain logistics and transportation infrastructure to minimize post-harvest losses and improve supply chain efficiency.
+Financial Support Mechanisms:
+Facilitate easier access to finance through specialized loans for small and medium enterprises (SMEs) in the food processing sector.
+Skill Development Programs:
+Enhance vocational training initiatives focused on food technology and safety management.
+Regulatory Simplification:
+Streamline existing regulations to reduce bureaucratic hurdles. A unified regulatory framework could help clarify compliance requirements and foster a more conducive environment for business operations.
+Promote R&D Investment:
+Encourage investment in research and development to foster innovation within the sector.
+Mains PYQ:
+Elaborate the policy taken by the Government of India to meet the challenges of the food processing sector.
+(UPSC IAS/2019)
+**********Cabinet approves continuation of PM-AASHA to provide better prices to farmers
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+PM-AASHA scheme;
+Mains level:
+Significance of PM-AASHA;
+Why in the News?
+The government has approved the extension of the PM-AASHA scheme, allocating ₹35,000 crore, to ensure farmers receive better prices for their produce and to regulate price fluctuations of essential commodities for consumers.
+What is PM-AASHA?
+Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA)
+is an
+umbrella scheme
+launched by the Government of India in September 2018, aimed at ensuring
+remunerative prices for farmers’
+produce. It integrates various existing schemes to provide a comprehensive approach to price support, including:
+Price Support Scheme (PSS):
+Physical procurement of specific crops by central agencies.
+Price Deficiency Payment Scheme (PDPS):
+Direct payments to farmers for the difference between the
+Minimum Support Price (MSP)
+market prices.
+Pilot of Private Procurement & Stockist Scheme (PPPS):
+Involvement of private players in crop procurement.
+The scheme has been extended until 2025-26 with a financial outlay of ₹35,000 crore to enhance its effectiveness and reach.
+What are the implications of PM-AASHA?
+Income Security:
+By
+ensuring MSP
+, PM-AASHA aims to stabilize farmers’ incomes and protect them from
+in the market.
+Increased Production:
+The assurance of remunerative prices is expected to
+encourage farmers
+to increase production, particularly in
+pulses and oilseeds
+, which have historically been underproduced.
+Market Stability:
+The scheme helps regulate prices of essential commodities, making them affordable for consumers while ensuring fair compensation for producers.
+Strengthened Procurement Mechanism:
+The integration of various schemes under PM-AASHA enhances the overall procurement process, making it more efficient and transparent.
+What are the issues related to MSP?
+Limited Coverage:
+MSP is primarily applicable to a few crops like
+wheat and rice,
+leaving many farmers without guaranteed prices for their produce.
+Inefficient Procurement Infrastructure:
+The existing infrastructure for procurement is inadequate, leading to delays and inefficiencies that affect farmers’ ability to sell their produce at MSP.
+Lack of Awareness:
+Many farmers are unaware of
+their rights regarding MSP
+or how to access these benefits effectively.
+Regional Disparities:
+There are significant regional disparities in the implementation of MSP. States like
+Punjab and Haryana
+benefit more from MSP due to better procurement systems, while farmers in other states may struggle to access these benefits.
+Market Distortions:
+The MSP system leads to market distortions,
+encouraging overproduction of certain crops
+while neglecting others.
+What should be done to resolve the issues related to MSP?
+Expand MSP Coverage:
+The government should consider
+extending MSP to a wider range of crops
+, particularly those that are crucial for food security and farmer livelihoods.
+Enhance Procurement Infrastructure:
+Investments should be made in developing better procurement facilities, including
+storage and transportation systems
+, especially in rural areas.
+Increase Awareness Campaigns:
+Implementing educational programs for farmers about their rights regarding MSP and how they can benefit from it would empower them significantly.
+Mains PYQ:
+What do you mean by Minimum Support Price (MSP)? How will MSP rescue the farmers from the low income trap?
+(UPSC IAS/2016)
+**********Bombay HC strikes down amended IT rules
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+IT Rules 2023;
+Why in the News?
+The Bombay High Court on Friday struck down the amended IT Rules, 2023, which allowed the Centre to establish a fact-check unit for monitoring government-related misinformation.
+Background of the Case
+In April 2023, the Ministry of Electronics and IT (MEiTY) amended the Information Technology (IT) Rules, 2021, to establish a Fact Check Unit (FCU) aimed at identifying “fake, false, and misleading” information about the Central government on social media platforms.
+Reason Behind the Strike Down
+Violation of Fundamental Right:
+Justice Chandurkar struck down the amended IT Rules 2023 on grounds that they violated
+Articles 14 (right to equality), 19 (freedom of speech and expression),
+19(1)(g) (freedom to practice any profession)
+of the Constitution.
+Lack of clear defination:
+The terms “fake, false and misleading” were deemed vague due to the absence of clear definitions,
+leading to potential misuse
+and a chilling effect on intermediaries’ operations.
+The ruling emphasized that the
+lack of clarity in the rules
+could lead to arbitrary censorship by the government, undermining democratic principles.
+What are the IT Rules 2023?
+The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2023
+empower the government to mandate social media platforms like Facebook, Twitter, Instagram, and YouTube to
+remove content
+“fake, false or misleading” regarding government affairs.
+was designated as the authority to identify such content. If intermediaries failed to comply with its directives, they risked losing their safe harbour status under
+Section 79 of the IT Act, 2000.
+The implications of FCU:
+Potential censorship of political discourse and criticism.
+Increased pressure on social media platforms to comply with government directives.
+A risk of undermining independent journalism and fact-checking efforts by civil society organizations.
+Way forward:
+Clear Definitions and Safeguards:
+Introduce precise definitions for terms like “fake, false, and misleading” and establish an independent oversight mechanism to prevent arbitrary censorship, ensuring the protection of free speech and democratic values.
+Strengthen Accountability:
+Encourage collaboration between the government, civil society, and tech platforms to create transparent and accountable fact-checking processes while protecting intermediaries’ safe harbour status and upholding freedom of expression.
+**********Adjusted Gross Revenue (AGR)
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Supreme Court has
+dismissed the curative petitions
+filed by major telecom service providers, seeking relief from the 2019 judgment regarding Adjusted Gross Revenue (AGR) dues.
+What is Adjusted Gross Revenue (AGR)?
+is the
+usage and licensing fee
+that telecom operators are charged by the Department of Telecommunications (DoT).
+It forms the basis for calculating telecom companies’ dues to the government, including the
+license fee
+spectrum usage charges (SUC)
+is divided into:
+Spectrum Usage Charges (SUC)
+: These are pegged at
+3-5%
+of AGR, depending on the telecom company’s spectrum holdings.
+License Fees
+: Telecom operators are required to pay
+8%
+of their AGR as a license fee to the government.
+Contention over AGR Calculation
+The DoT maintains that
+AGR should include all revenues
+earned by telecom companies, including
+non-telecom sources
+such as deposit interest, asset sales, and dividends.
+Telecom operators, on the other hand, insist that
+AGR should only include revenues generated from core telecom services
+, excluding income from non-telecom sources like interest and capital gains.
+Legal Disputes on AGR
+Beginning of the Dispute (2005)
+: The AGR saga began in 2005 when the Cellular Operators Association of India (COAI) challenged the government’s definition of AGR in court. The dispute centered on whether non-telecom revenue should be included in the AGR calculation.
+TDSAT Ruling (2015)
+: In 2015, the Telecom Disputes Settlement and Appellate Tribunal (TDSAT) ruled in favor of telecom companies. TDSAT held that AGR should include only revenue from core telecom activities and exclude non-core sources such as rent, profit from the sale of assets, dividends, and interest income.
+Supreme Court Ruling (2019)
+: Setting aside the TDSAT decision, the SC upheld the DoT’s definition of AGR on October 24, 2019, declaring that AGR must include all revenue sources, including non-telecom activities like interest and capital gains. This ruling significantly increased the financial liabilities of telecom companies, as they had to pay outstanding dues.
+Financial Impact of the AGR Ruling
+The Supreme Court ruling had serious financial implications for telecom companies:
+Massive Liabilities
+: Telecom companies, especially
+Vodafone Idea
+Bharti Airtel
+, faced huge financial liabilities. The ruling resulted in unpaid dues amounting to over
+₹1.4 lakh crore
+, which included penalties and interest.
+Vodafone Idea’s Crisis
+: Vodafone Idea, in particular, was hit hard by these liabilities and faced potential insolvency, with its future in the Indian telecom sector hanging in the balance.
+Sector Consolidation
+: The financial pressure from the AGR liabilities led to the consolidation of the telecom sector, with smaller players exiting the market.
+PYQ:
+[2019]
+In India, which of the following review the Independent regulators in sectors like telecommunications, insurance, electricity, etc.?
+Ad Hoc Committees set up by the Parliament
+Parliamentary Department Related Standing Committees
+Finance Commission
+Financial Sector Legislative Reforms Commission
+NITI Aayog
+Select the correct answer using the code given below:
+(a) 1 and 2
+(b) 1, 3 and 4
+(c) 3, 4 and 5
+(d) 2 and 5
+**********Bio-RIDE Scheme
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Union Cabinet has approved the “
+Biotechnology Research Innovation and Entrepreneurship Development (Bio-RIDE) scheme”
+to support cutting-edge research and development in biotechnology.
+About Bio-RIDE Scheme
+Details
+Objective
+To support
+bio-entrepreneurship
+, and
+bio-manufacturing
+Total Outlay
+₹9,197 crore
+for the
+15th Finance Commission
+period (2021-22 to 2025-26).
+Components
+Merges
+Biotechnology Research and Development (R&D)
+Industrial & Entrepreneurship Development (I&ED)
+Introduces
+Bio-manufacturing and Bio-foundry
+as new components.
+Key Aims
+Fostering Innovation
+: Promote bio-entrepreneurship and strengthen India’s position in biotechnology.
+Bridging Gaps
+: Accelerate research and product development.
+Implementation Focus
+Promoting Bio-Entrepreneurship
+: Seed funding, incubation, mentorship for startups.
+Advancing Innovation
+: Grants for research in synthetic biology, bio-pharma, and bio-plastics.
+Focus Areas
+Extramural Funding
+for research in agriculture, healthcare, bioenergy, and environmental sustainability.
+Nurturing human resources in biotechnology.
+Industry-Academia Collaboration
+Synergies
+between academic institutions and industry to accelerate commercialization of bio-based products.
+Significance
+Enhances
+bio-innovation
+and supports
+sustainable development
+Contributes to achieving
+green goals
+global leadership
+PYQ:
+[2019]
+Atal Innovation Mission is set up under the
+(a) Department of Science and Technology
+(b) Ministry of Labour and Employment
+(c) NITI Aayog
+(d) Ministry of Skill Development and Entrepreneurship
+**********Nagaland’s King Chilli Festival
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Naga King Chilli
+Why in the News?
+The
+village of Seiyhama in Nagaland
+hosted the
+3rd edition
+of the
+Naga King Chilli Festival
+, celebrating the importance of the
+Naga king chilli
+, one of the world’s hottest chillies.
+About Naga King Chilli
+, also known as
+Raja Mircha
+Bhut Jolokia
+, is one of the
+, with heat levels exceeding
+1 million Scoville Heat Units (SHU)
+It is primarily grown in the
+Northeast Indian states
+Nagaland, Assam, Manipur, and Arunachal Pradesh
+2006
+, it was certified by the
+Guinness World Records
+as the
+in the world, a title it held for several years.
+2008
+, it received a
+GI tag
+, recognizing its unique origin and significance in the
+global spice market
+The chilli has a heat range of
+800,000 to 1,041,427 SHU
+, making it significantly hotter than common chillies like the
+jalapeño
+, which has a SHU of
+2,500 to 8,000
+Benefits offered:
+Rich in
+capsaicin
+, it is known for its
+pain-relieving properties
+and potential
+health benefits
+, such as boosting metabolism, promoting heart health, and relieving pain and inflammation.
+Traditionally, the chilli has been used to
+preserve food
+in Nagaland’s
+hot, humid climate
+, helping to extend the shelf life of food and reduce waste.
+Cultivation:
+The chilli is grown in
+bamboo groves
+using
+ancient cultivation methods
+Farming begins in
+December or January
+, with peak harvests in
+August and September
+Approximately
+150 households
+Seiyhama village, Nagaland
+, cultivate the Naga King Chilli, with the annual harvest reaching
+14,000 kg
+, valued at
+₹70 lakh
+PYQ:
+[2015]
+Which of the following has/have been accorded ‘Geographical Indication’ status?
+1. Banaras Brocades and Sarees
+2. Rajasthani Daal-Bati-Churma
+3. Tirupathi Laddu
+Select the correct answer using the codes given below:
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 only 3 only
+(d) 1, 2 and 3
+**********[pib] Pest-Control Pheromone Dispenser
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+A
+new sustainable pheromone dispenser
+has been developed through a collaborative research project by scientists from
+Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)
+and
+ICAR–National Bureau of Agricultural Insect Resources (ICAR–NBAIR)
+.
+What is the Pest-Control Pheromone Dispenser?
+Details
+What is it?
+A device designed to release pheromones that alter the behaviour of pests, primarily used in agriculture to control infestations and prevent crop damage.
+Developed By
+A collaborative project by scientists from
+, Bengaluru, and
+, India.
+How it Works
+Releases
+synthetic pheromones
+that mimic natural insect signals.
+Attracts pests to traps or disrupts mating cycles, preventing infestations.
+Technology
+Uses
+mesoporous silica matrix technology
+for controlled release.
+Ensures consistent pheromone release, independent of external factors like temperature.
+Benefits
+Cost-effective
+: Fewer replacements of pheromones reduce overall costs.
+Labor-saving
+: Longer intervals between replacements lower labor requirements.
+Environmentally friendly
+: Reduces chemical pesticide use, promoting sustainable agriculture.
+Increased efficacy
+: Stable release rate ensures effective pest control over extended periods.
+Scalability
+Suitable for both
+small-scale farms
+large industrial agricultural operations
+, making it highly scalable.
+PYQ:
+[2018]
+With reference to the Genetically Modified mustard (GM mustard) developed in India, consider the following statements:
+1. GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests.
+2. GM mustard has the genes that allow the plant cross-pollination and hybridization.
+3. GM mustard has been developed jointly by the IARI and Punjab Agricultural University.
+Which of the statements given above is/are correct?
+(a) 1 and 3 only
+(b) 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+**********Square Kilometer Array (SKA) becomes partially functional
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Square Kilometer Array (SKA) Project
+Why in the News?
+The
+, the world’s largest radio telescope, has carried out its first observations, marking a major milestone.
+About Square Kilometer Array (SKA) Project:
+Details
+Project Overview
+SKA is a global project aimed at building the
+world’s largest radio telescope network
+to explore the universe, galaxies, dark matter, and extraterrestrial life.
+Construction Phases
+Two phases:
+SKA-Mid
+South Africa
+operates in higher frequency ranges.
+SKA-Low
+Australia
+operates in lower frequency ranges.
+Phase 1 (SKA- Mid) began in December 2022. Full operations expected by 2029.
+Headquarters
+Jodrell Bank Observatory, UK
+Site Locations
+Telescope arrays in Australia (low-frequency) and South Africa (mid-frequency).
+Design and Features
+197 parabolic radio antennae in South Africa
+131,072 low-frequency antennae in Australia
+These are capable of detecting faint radio signals from vast distances.
+Global Consortium
+16 member countries, including Australia, South Africa, India, China, Japan, and several European nations.
+India’s Role
+Giant Metrewave Radio Telescope
+(NCRA, TIFR) is a key partner
+SKA India consortium (20+ institutions) involved in software, signal processing, and digital hardware development
+Key Technologies
+Advanced interferometer system using wave interference for data collection.
+Scientific Objectives
+Explore galaxies at the edge of the universe
+Study the ‘
+Dark Ages’
+and phenomena like dark matter and dark energy
+Search for extraterrestrial life
+Frequency Range
+Operates between
+50 MHz to 15.4 GHz
+Global Collaboration
+Key collaboration among India, Australia, South Africa, Italy, and other member nations for data generation, analysis, and installation of antennas.
+PYQ:
+[2022]
+Launched on 25th December, 2021, James Webb Space Telescope has been much in the news since then. What are its unique features which make it superior to its predecessor Space Telescopes? What are the key goals of this mission? What potential benefits does it hold for the human race?
+[2015]
+In the context of modern scientific research, consider the following statements about ‘IceCube’, a particle detector located at South Pole, which was recently in the news:
+1. It is the world’s largest neutrino detector, encompassing a cubic kilometre of ice.
+2. It is a powerful telescope to search for dark matter
+3. It is buried deep in the ice.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3 only
+**********

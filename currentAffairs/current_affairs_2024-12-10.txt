@@ -1,0 +1,1236 @@
+DIGITAL AGRICULTURE MISSION
+Syllabus:
+Prelims & Mains – CURRENT EVENT
+Context:
+Gujarat became the first State in the country to generate Farmer IDs for 25% of the targeted number of farmers in the State. The Farmer ID is part of  Digital Agriculture Mission.
+Background: –
+A Farmer ID is a unique digital identity of farmers based on Aadhaar, linked dynamically to the State’s land records system, which means the Farmer ID gets automatically updated with the changes in the land record details of an individual farmer.
+Key provisions of the Copyright Act
+The Digital Agriculture Mission is designed as an umbrella scheme to support various digital agriculture initiatives. These include creating Digital Public Infrastructure (DPI), implementing the Digital General Crop Estimation Survey (DGCES), and supporting IT initiatives by the Central Government, State Governments, and Academic and Research Institutions.
+The scheme is built on two foundational pillars:
+Agri Stack
+Krishi Decision Support System.
+Additionally, the mission includes ‘Soil Profile Mapping’ and aims to enable farmer-centric digital services to provide timely and reliable information for the agriculture sector.
+AgriStack: Kisan ki Pehchaan
+AgriStack is designed as a farmer-centric Digital Public Infrastructure (DPI) to streamline services and scheme delivery to farmers. It comprises three key components:
+1. Farmers’ Registry
+2. Geo-referenced village maps
+3. Crop Sown Registry
+A crucial feature of AgriStack is the introduction of a ‘Farmer ID’, similar to Aadhaar card, serving as a trusted digital identity for farmers.
+The Krishi Decision Support System (DSS) will integrate remote sensing data on crops, soil, weather, and water resources into a comprehensive geospatial system.
+Under the mission, detailed soil profile maps on a 1:10,000 scale for approximately 142 million hectares of agricultural land have been envisaged, with 29 million hectares of soil profile inventory already being mapped.
+The Digital Agriculture Mission focuses on grassroots implementation, targeting farmers as the primary beneficiaries.
+Some of the key benefits of the mission include:
+Digital authentication for accessing services and benefits, reducing paperwork and the need for physical visits.
+Enhanced efficiency and transparency in government schemes, crop insurance, and loan systems through accurate data on crop area and yield.
+Crop map generation and monitoring for better disaster response and insurance claims.
+Development of digital infrastructure to optimize value chains and provide tailored advisory services for crop planning, health, pest management, and irrigation.
+Source:
+PIB
+**********
+MARKHOR
+Prelims – ENVIRONMENT
+A male markhor, one of the most elusive large mammals in India, was rescued by wildlife authorities after straying into Noorkhah village near Baramulla in north Kashmir.
+The village, located close to the Kazinag National Park and the Line of Control, forms part of the species.
+Key takeaways
+The Markhor (Capra falconeri) is a large wild goat species native to the mountainous regions of South Asia and Central Asia, particularly in Pakistan, Afghanistan, and parts of India (Jammu and Kashmir).
+Conservation Status: Listed as Near Threatened on the IUCN Red List since 2015.
+CITES: Listed under Appendix I, prohibiting international trade of the species.
+National Animal: The national animal of Pakistan, where it is also known as the “screw-horned goat” due to its distinctive corkscrew-shaped horns.
+Etymology: The name “Markhor” comes from the Pashto and Persian words meaning “snake-eater,” referencing an ancient belief that the Markhor would consume snakes.
+Physical Characteristics:
+Horns: Both males and females have tightly curled, corkscrew-like horns, with males’ horns growing up to 160 cm (63 in) long.
+Coat: The coat is grizzled, light brown to black in color, and varies in length and thickness with the seasons.
+Habitat:
+Elevation: They inhabit mountainous terrain between 600 and 3,600 meters (2,000 and 11,800 feet) in elevation.
+Environment: They are typically found in shrub forests with oaks, pines, and junipers.
+Behavior:
+Activity: Diurnal, with peak activity in the early morning and late afternoon.
+Diet: Herbivorous, grazing on grasses in spring and summer, and browsing on leaves and shoots in winter.
+Reproduction: Mating season occurs in winter, with males engaging in horn-locking fights to establish dominance.
+Threats:
+Habitat Loss: Deforestation and land conversion for agriculture.
+Illegal Wildlife Trade: Poaching for meat and prized horns.
+Predation: Natural predators include snow leopards, brown bears, lynxes, jackals, and golden eagle.
+Times of India
+**********
+LONAR LAKE
+Prelims – GEOGRAPHY
+The Maharashtra government plans to submit a proposal to the Archaeological Survey of India (ASI) to include the famous Lonar Lake in Buldhana district in the Unesco World Heritage Sites list.
+After reaching ASI, the proposal will undergo a detailed review before being submitted to the United Nations Educational, Scientific and Cultural Organisation. If accepted, Lonar Lake will become India’s 41st Unesco World Heritage Site, alongside iconic places like the Ajanta and Ellora Caves, Elephanta Caves, and Mumbai’s Chhatrapati Shivaji Maharaj Terminus.
+Lonar Lake is a geological and ecological marvel located in the Buldhana district of Maharashtra.
+Formation: Lonar Lake is a meteor crater lake formed approximately 50,000 years ago by a high-velocity meteor impact.
+Geological Significance: It is one of only four known hyper-velocity impact craters in basaltic rock on Earth. The other three basaltic impact structures are in southern Brazil.
+It is a notified National Geo-heritage Monument. National Geological Monuments are geographical areas of national importance and heritage, as notified by Geological Survey of India (GSI), for their maintenance, protection, promotion and enhancement of geotourism.
+Dimensions: The lake has a diameter of 1.2 kilometers (3,900 feet) and a depth of 150 meters (490 feet).
+Water Composition: The lake’s water is both saline and alkaline, making it unique. It is seven times saltier than seawater.
+Color Variations: The lake’s color changes from green to pink depending on the season and water conditions, caused by microorganisms thriving in its saline and alkaline environment.
+Ramsar Site: Declared a Ramsar Wetland in November 2020, highlighting its ecological importance.
+Cultural Significance:
+Temples: The lake is surrounded by over 15 ancient temples, some dating back 1,200 years. The most significant temple is the Daitya Sudan temple, dedicated to Lord Vishnu.
+Local Legends: A popular local legend attributes the lake’s formation to the mythical demon Lonasura, who was vanquished by Lord Vishnu.
+Business Standard
+**********
+THE PLACE OF CHARITY IN AN UNEQUAL SOCIETY
+Mains  – GS 2, GS 3 & GS 4
+Warren Buffet has given away an amount of almost 52 billion dollars to charities. While such a move is commendable, one must also question the processes generating the concentration of such wealth in the first place, regardless of whether it is to be used for philanthropy or not
+Mr. Buffet believes that wealth should be used to equalise opportunities, that the luck that favoured certain individuals and helped them get rich should be extended after one’s death in order to help those less fortunate.
+Critics argue that distribution of private wealth through charity may help to equalise well-being between individuals, but the process by which this wealth was generated and concentrated has led to the differences in opportunities in the first place.
+Mr. Buffet’s ideas can be seen in the context of a philosophical idea called “luck egalitarianism”, which states that no-one should have to suffer the consequences of inequality owing to bad luck or adverse situations.
+Mr. Buffet credits much of his fortune to fortuitous circumstances, such as being born as a white male in the U.S.
+Some might accuse Mr. Buffet of false modesty, claiming that his fortune has been generated through his own efforts and his understanding of markets. But there is truth in what he says. A significant factor driving global inequality is the differences in income between countries. Where one is born determines how wealthy one might be relative to the global population.
+In the developed world, wealth distribution was largely equal during the post World War II. Widespread deregulation and a turn towards neo-liberal economics saw an explosion of inequality from the 1980s onwards, with the ‘trickle-down’ economics of Ronald Reagan and Margaret Thatcher leading to the concentration of gains for few.
+In India as well, the liberalisation of the economy may have led to faster growth, but has dramatically increased inequality and skewed the distribution of opportunities.
+Differences in opportunities are not merely a question of luck, but of specific policy choices and interventions. Examples:
+Bill Gates and Jeff Bezos benefited from monopolistic markets.
+Amazon workers faced stagnant wages despite the company’s profits.
+The Role of Philanthropy:
+While philanthropy can be a powerful tool for social change, it is essential to critically examine its limitations and potential drawbacks:
+Band-Aid Solution: Philanthropy often addresses the symptoms of inequality rather than the root causes. It may alleviate suffering in the short term but fails to challenge the underlying systemic issues that perpetuate poverty and injustice.
+Dependency Culture: Excessive reliance on philanthropy can weaken the role of the state in providing essential social services and can create a dependency culture.
+Elite Capture: Philanthropic efforts can be influenced by the values and priorities of wealthy donors, potentially leading to a narrow focus on specific issues or causes.
+The Need for Systemic Change:
+To address the root causes of inequality, a more comprehensive approach is required:
+Progressive Taxation: Implementing progressive tax policies can help redistribute wealth and fund public services.
+Strong Labor Unions: Empowering workers through strong labor unions can help ensure fair wages and working conditions.
+Regulation of Financial Markets: Stricter regulation of financial markets can prevent excessive wealth accumulation and reduce systemic risk.
+Investment in Public Goods: Investing in public education, healthcare, and infrastructure can create opportunities for all and reduce inequality.
+In conclusion, while philanthropy can be a valuable tool, it should not be seen as a substitute for systemic change. To truly address the challenges of inequality, a combination of public policy, social activism, and individual responsibility is necessary.
+The Hindu
+**********
+HEDGE AGAINST DOLLAR RELIANCE
+Mains – ECONOMY
+Reserve Bank of India Governor Shaktikanta Das said recently that India is not pursuing “de-dollarisation”, and that recent measures promoting transactions in domestic currencies are intended to de-risk Indian trade.
+The clarification came days after Donald Trump threatened “100 per cent tariffs” against BRICS countries if they sought to reduce reliance on the US dollar in international trade.
+A key reason India is not backing de-dollarisation is the rise of the Chinese yuan as a challenger to the US dollar. India has resisted using the yuan for Russian oil imports, even as the acceptance of the currency is growing in Russia.
+At the same time, India is wary of over-dependence on the dollar. The RBI has increased gold purchases in recent times.
+Why are central banks on a gold-buying spree?
+Central banks have increased their gold holdings sharply so as to diversify away from a dollar-dominated financial system.
+The Currency Composition of Official Foreign Exchange Reserves (COFER) of the International Monetary Fund (IMF) shows a gradual decline in the share of the dollar in central bank and government foreign reserves. The gains of the yuan, especially, “match a quarter of the decline in the dollar’s share”, the IMF said.
+How does the high cost of holding dollars play out in this scenario?
+Depleting dollar reserves amid surging oil prices has recently caused considerable social and political unrest in India’s neighbourhood. Sri Lanka, Bangladesh, Nepal, and Pakistan witnessed sharp declines in their dollar reserves following the Ukraine war, which upset their trade relations with India.
+While India has managed to keep a robust reserve, the surging value of the dollar has become a concern.
+India is pushing for trade with Russia and the UAE in domestic currencies that could help cut reliance on the US dollar. However, the domestic currency trade has not yet picked up as expected because of India’s low foothold in goods and services trade internationally.
+India’s efforts toward internationalising the rupee could get a boost if oil exporters begin accepting rupee payments. But they have remained hesitant due to the high transaction costs.
+A reason for the rise of the yuan has been its use in purchasing Russian oil. As China and Russia have a bilateral trade balance, both countries have been able to reduce reliance on the US dollar by successfully trading in domestic currency. India has a bilateral trade deficit with most countries except the US.
+Indian Express
+**********
+Daily Practice MCQs
+Q1.) Which of the following statements regarding the Digital Agriculture Mission is/are correct?
+It includes the creation of a Farmer ID linked to Aadhaar and the land records system of the state.
+The Krishi Decision Support System integrates data on crops, soil, weather, and water resources.
+Options:
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2, and 3
+Q2.) Consider the following statements regarding Lonar Lake:
+It is a meteor impact crater formed in basaltic rock.
+The lake has saline and alkaline water and is listed as a Ramsar Wetland.
+Lonar Lake is already included in the UNESCO World Heritage Sites list.
+Q3.) Which of the following statements about Markhor is/are correct?
+It is listed as Near Threatened on the IUCN Red List.
+It is native to the mountainous regions of South Asia, including India’s Jammu and Kashmir.
+They are strictly nocturnal.
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********Subaru Telescope
+The Subaru Telescope recently captured a pair of interacting galaxies designated as NGC 5257 and NGC 5258.
+About Subaru Telescope:
+It is a
+Japanese
+8.2-metre
+optical-infrared telescope.
+located on
+the
+dormant volcano Mauna Kea
+(4,163 metres) on the
+island of Hawaii.
+The telescope is named for the Japanese name for the Pleiades (a star cluster in the Taurus constellation) and is
+operated by the National Astronomical Observatory of Japan.
+Its
+powerful light-collecting capability
+can capture weak light from celestial objects
+To minimize air turbulence near the telescope, the dome that surrounds the telescope is cylindrical instead of a hemisphere, as is the case with most other observatories.
+The Subaru Telescope has
+observed various celestial bodies, from nearby shooting stars to galaxies
+located 13.1 billion light years away.
+Click to View More
+Source :
+Subaru Telescope captures spectacular pair of interacting galaxies.
+Science & Tech
+**********What is Marbled Duck?
+Bird enthusiasts recently spotted a marbled duck — an unusual winter migrant at Sultanpur National Park after 30 years.
+About M
+:
+The Marbled Duck, also known as
+marbled teal
+, is a relatively small duck characterized by its
+black bill, pale-spotted gray-brown plumage, dark eye patch
+, and the absence of a speculum.
+Scientific Name:
+Marmaronetta angustirostris
+Distribution
+: It is distributed throughout the
+central and southwestern Palearctic
+biogeographic region in several
+highly fragmented populations
+that stretch from
+Central Asia to northwest Africa and the Iberian Peninsula.
+Palearctic includes Europe, Asia north of the Himalayas, and Africa north of the Sahara.
+Migratory Patterns
+: Populations in colder regions migrate south
+during winter,
+reaching
+areas like
+North Africa and the Indian subcontinent
+Habitat
+It is typically found in
+temporary or semi-permanent wetlands
+, although it is ultimately tolerant of many types of wetlands, both natural and artificial, provided they offer shallow areas.
+tends to prefer brackish wetlands
+over fresh or saline ones, and well-structured vegetation.
+It is a gregarious,
+non-territorial, and non-aggressive
+species.
+Marbled ducks are usually
+monogamous
+They fly low and slowly and have noticeably long necks and wings.
+IUCN Red List Status: Near Threatened
+Click to View More
+Source :
+Marbled duck spotted at Sultanpur park after 30 years.
+Science & Tech
+**********What is Voronezh Radar?
+India is set to finalise a landmark USD 4 billion defence agreement with Russia, aimed at acquiring a Russian Voronezh ballistic missile attack early warning radar.
+About Voronezh Radar:
+The Voronezh radar system is a critical component of
+Russia’s early warning and missile defence infrastructure.
+It is capable of identifying and
+tracking a range of threats
+, including
+ballistic missiles
+and aircraft
+, over distances of
+up to 8,000 kilometers.
+These radars are strategically deployed across Russia to provide extensive coverage against potential missile threats.
+They employ
+phased array technology
+, which allows for rapid electronic steering of the beam. This makes them highly efficient and less mechanically complex than older systems.
+There are several varieties of these radars operating
+in the meter (Voronezh-M), decimeter (Voronezh-DM), or centimeter (Voronezh-CM) wavelength
+range, as well as a few others that combine several ranges.
+Multiple Voronezh radars
+can work in unison as part of an integrated Missile Attack Early Warning System
+to generate a comprehensive radar picture of potential missile threats and space activity.
+Click to View More
+Source :
+India, Russia set to sign USD 4-billion deal for advanced radar system.
+Science & Tech
+**********Article 67(b) of the Constitution of India
+Opposition parties have decided to move a notice under Article 67(b) of the Constitution to remove the Chairman of the Rajya Sabha from his office.
+About Article 67(b):
+The
+Vice President of India
+serves as the
+ex-officio Chairman of the Rajya Sabha
+outlines how the Vice President
+can be
+removed from office.
+It states that the Vice President may be removed from her/his office
+by a resolution of the
+Council of States (
+Rajya Sabha) passed by the special majority
+and
+agreed to by the House of the People (Lok Sabha) by a simple majority.
+No such resolution can be moved unless ‘at least
+a 14-day notice has been given
+of the intention to move the resolution.
+The notice must clearly state the intention to initiate the resolution and outline the reasons for it.
+Constitution does not specify particular grounds
+for removal, leaving it to the
+discretion of the Members of Parliament
+Click to View More
+Source :
+Opposition to move notice to remove Vice-President of India.
+Polity & Governance
+**********Bima Sakhi Yojana
+The Prime Minister of India recently launched the Bima Sakhi Yojana in Haryana's Panipat.
+About Bima Sakhi Yojana:
+It is an initiative of the State-owned
+Life Insurance Corporation (LIC).
+It is designed
+to empower women
+aged
+18-70 years
+who have
+passed out of Class 10.
+They will receive specialised
+training and a stipend
+for the first three years
+to promote financial literacy and insurance awareness.
+After training, they can serve as
+LIC agents
+and the
+graduate Bima Sakhis
+would have the opportunity to qualify for being considered for
+Development Officer
+roles in LIC.
+Women LIC agents will get a stipend of
+Rs. 7,000 per month for
+first year, Rs. 6,000 per month in
+second year
+, and Rs.
+5,000 per month
+in the
+third year.
+Bima Sakhis will
+also get commission
+of Rs 48,000 (excluding bonus) for the first year.
+The plan is to appoint two lakh Bima Sakhis over a period of three years.
+Relatives of existing agents and employees
+not eligible
+for the scheme.
+Retired employees are also ineligible.
+Click to View More
+Source :
+PM launches LIC’s ‘Bima Sakhi Yojana’.
+Economy
+**********Melye-amiley
+A recent study published in the prestigious journal ‘Food Frontiers highlighted that extract from a traditional fermented bamboo shoot variety of Tripura, popularly called ‘Melye-amiley’ has anti-obesity effects.
+About Melye-amiley:
+It is a
+shoot variety of Tripura.
+It has anti-obesity effects and offers a solution to weight management and metabolic health.
+It reduces lipid accumulation and
+increases fatty acid β-oxidation.
+Highlights of the research:
+Based on in-vitro cell culture studies, the team has observed that the ‘Melye-amiley’
+can reduce intracellular lipid accumulation.
+The process involved increase in the expression of lipolytic (HSL, LPL, and Agtl) and fat browning regulator genes (UCP1, PRDM16, and PGC1-alpha).
+Furthermore, the study demonstrates that treatment with Melye-amiley leads to the
+upregulation of thermogenic protein expression
+via the AMPK signaling pathway.
+This process stimulates mitochondrial biogenesis and enhances fatty acid β-oxidation, offering a multifaceted approach to weight management and metabolic health.
+These findings suggest that fermented bamboo shoot extract has promising anti-obesity effects by boosting energy expenditure in white adipocytes.
+Click to View More
+Source :
+Fermented bamboo shoot of Tripura possesses anti-obesity property.
+Environment
+**********GG Tau A System
+Recently, researchers from the National Institute of Science Education and Research (NISER) in Odisha, studied a unique triple-star system called GG Tau A.
+About GG Tau A System:
+It is a
+unique triple-star system
+which is located 489 light-years away from Earth.
+The system is young -
+1 to 5 million years old,
+which makes it perfect for studying the early stages of planet formation.
+Around these stars is a
+disk made of gas and dust
+, which is where planets begin to form.
+The three stars in GG Tau A interact with each other and
+affect the disk of gas and dust
+around them, making it harder to predict how planets might form.
+The forces between the stars could cause the disk to behave differently than in a system with just one star, unlike our solar system.
+This makes GG Tau A, a perfect system to study how planets can form in more complicated, multi-star environments.
+Click to View More
+Source :
+India makes breakthrough discovery in a solar system with three suns.
+Science & Tech
+**********In Energy-Dependent World, the Issue of Food Security
+Context
+As emphasised by the World Bank,
+the intertwined crises of food insecurity and energy poverty present one of the most significant challenges
+of the 21st century.
+Both sectors face individual and systemic threats
+, yet their interconnected nature magnifies the complexity of the problem and the agricultural sector, critical for human survival,
+simultaneously contributes to and suffers from energy dependency and climate change.
+Therefore,
+it is imperative to explore the strain on food and energy systems, highlighting the economic and environmental vulnerabilities
+they face, and
+potential pathways toward a sustainable future.
+The Dual Strain on Food and Energy Systems
+Impact of Climate Change
+Food production and energy systems are
+increasingly strained by climate change, population growth, and systemic inequalities.
+Agriculture consumes nearly 70% of global freshwater
+resources and contributes over 20% of global greenhouse gas emissions.
+This
+sector’s heavy reliance on fossil fuels for irrigation, mechanisation
+, fertiliser production, and transportation
+perpetuates environmental degradation.
+At the same time,
+rising temperatures and erratic weather patterns disrupt agricultural output,
+threatening the livelihoods of 2.5 billion people globally.
+Geopolitical Challenges
+Similarly,
+the energy sector faces geopolitical tensions
+, outdated infrastructure, and a slow transition away from fossil fuels.
+Despite a $500 billion investment
+in renewable energy in 2022,
+short-term economic and geopolitical pressures have sustained high fossil fuel consumption.
+Nations such as the
+United States, Brazil, and Guyana continue expanding oil and gas production,
+exacerbating energy and food system vulnerabilities.
+A Detailed Analysis of Agriculture’s Fossil Fuel Dependency and Its Consequences
+The Role of Fossil Fuels in Agriculture
+Mechanisation, irrigation systems, and transportation networks depend on oil, diesel, and coal-based electricity.
+Additionally,
+fertilisers, which are critical for boosting crop yields, are predominantly produced using natural gas.
+Approximately
+80% of natural gas in agriculture is used as a feedstock for ammonia synthesis,
+a key ingredient in nitrogen-based fertilizers, while
+the remaining 20% powers the energy-intensive production process.
+Price Volatility and Food System Vulnerabilities
+The close link between energy prices and agricultural costs creates a cascade of vulnerabilities and
+when fossil fuel prices rise, production costs for farmers increase dramatically.
+Fertiliser prices are
+highly sensitive to natural gas costs
+, for example,
+geopolitical actions such as Russia’s invasion of Ukraine in 2022 triggered spikes in global energy prices
+, which reverberated through agricultural supply chains.
+Fertiliser costs surged, leading to increased food prices
+and putting millions at risk of hunger, especially in low-income nations with limited resources to absorb such shocks.
+For countries like India, which imports 60% of its diammonium phosphate (DAP)
+fertilisers, this
+led to delays during critical cropping seasons, undermining food security
+and agricultural productivity
+Environmental Consequences of Fossil Fuel Dependency
+Fertiliser production and transportation are
+major sources of greenhouse gas emissions.
+heavy use of synthetic fertilisers leads to nitrous oxide emissions
+, a potent greenhouse gas, and causes soil degradation and water pollution through runoff.
+Mechanised farming practices reliant on fossil fuels worsens these issues
+, contributing to a vicious cycle of environmental harm and reduced long-term agricultural productivity.
+Inequities in Energy Access and their Impact
+The unequal access to energy systems
+disproportionately affects low-income nations
+, where unreliable power grids and limited resources hinder agricultural productivity.
+In sub-Saharan Africa
+, for instance
+, fertiliser usage per hectare remains far below the global average
+, contributing to chronic food insecurity.
+Despite spending $1.9 billion on fertilizer imports in 2021
+, double the expenditure of 2016, many
+African nations remain trapped in cycles of low productivity
+and high dependency on imports.
+Furthermore,
+the transition to renewable energy remains uneven.
+High-income countries installed 83% of new renewable capacity in 2022,
+leaving low-income nations dependent on outdated,
+carbon-intensive systems.
+While solutions like solar-powered irrigation and biomass energy hold promise for transforming agriculture, their
+high costs and inadequate infrastructure limit widespread adoption in vulnerable regions.
+Competing Demands on Agriculture and Economic and Environmental Costs of Inaction
+In addition to feeding a growing global population,
+agriculture faces the added responsibility of supporting the energy transition through biofuel production.
+dual role often pits food security against energy needs
+, as biofuel cultivation consumes vast land and water resources.
+With nearly 12% of the global population experiencing hunger
+, prioritising energy production over food
+raises ethical questions.
+Ensuring basic caloric needs for the world’s most vulnerable populations would require $90 billion annually until 2030
+, while transforming global food systems could cost $300 billion to $400 billion annually, just 0.5% of global GDP.
+However,
+for low-income nations, these figures are staggering
+, often surpassing 95% of GDP in some cases.
+Food insecurity could cost the global economy trillions in lost productivity
+and adverse health outcomes,
+while climate-induced energy disruptions threaten to destabilise entire regions.
+For example,
+Africa’s mineral wealth, critical for renewable energy technologies, is often extracted without benefiting local economies
+, perpetuating poverty, and underdevelopment.
+Way Forward to a Sustainable Future
+A Call for Inclusive Solutions
+Despite record investments in renewable energy,
+the expansion of fossil fuels continues unabated, compounding environmental and economic costs.
+To address these intertwined crises effectively,
+clean energy solutions must overcome structural barriers to inclusivity, ensuring that vulnerable communities are not left behind.
+Renewable energy technologies like solar-powered irrigation and decentralised biomass systems offer opportunities
+for sustainable agricultural transformation but
+require targeted investments and infrastructure development.
+Reimagining Agriculture for a Sustainable Future
+twin crises of food and energy insecurity demand a fundamental shift
+in global priorities.
+Agriculture must be reimagined as a cornerstone of sustainable development
+rather than merely a source of sustenance.
+Achieving this vision requires significant investments in renewable energy, equitable resource distribution
+, and the inclusion of marginalized communities in decision-making processes.
+Breaking the Fossil Fuel Dependency
+Addressing agriculture’s reliance on fossil fuels
+requires a multi-faceted approach. Transitioning to renewable energy sources is crucial.
+Technologies like solar-powered irrigation systems, wind-driven farm equipment, and decentralised biomass energy production hold the potential to revolutionise agricultural practices.
+For instance, solar-powered pumps can reduce the dependence on diesel for irrigation
+, while biogas plants can convert agricultural waste into sustainable energy.
+Conclusion
+Agriculture’s dependence on fossil fuels is a pressing issue that threatens food security,
+exacerbates economic inequalities, and accelerates environmental degradation.
+As the clock ticks,
+the question remains: will the world rise to meet this moment of unprecedented challenge and opportunity?
+By addressing food and energy insecurity
+as interconnected priorities,
+humanity can chart a course toward a more equitable and sustainable future.
+Click to View More
+Editorial Analysis
+**********Amrit Gyaan Kosh Portal
+Recently, the Union Minister of Personnel, Public Grievances & Pensions launched "Amrit Gyaan Kosh" Portal.
+About Amrit Gyaan Kosh Portal:
+It has been jointly developed by the
+Capacity Building Commission and Karmayogi Bharat
+It is a platform to promote
+self-reliance in governance training
+and strengthen governance training.
+It is developed on the
+iGOT platform
+, serves as a comprehensive repository of best practices in
+governance and policy implementation.
+It aligns with
+15 of the 17 Sustainable Development Goals
+(SDGs), covering critical themes such as health, education, agriculture, and digital governance.
+The curated resources enable faculty to align their teaching with global standards while addressing India's unique administrative challenges.
+What is Karmayogi Bharat?
+Under the Mission Karmayogi, a comprehensive Institutional Framework has been designed to deliver the program objectives effectively.
+, a Special Purpose Vehicle (SPV), forms a key pillar of the institutional framework with an aim to operate the iGOT Karmayogi platform, manage its overall governance and ensure that it meets the objective of anytime, anywhere, any-device learning for civil service officials to enhance their overall competency.
+The SPV has been incorporated in the name of Karmayogi Bharat under Section 8 of the Companies Act, 2013 as a 100% Government
+owned not for profit Company.
+Click to View More
+Source :
+Union Minister of Personnel, Public Grievances & Pensions launches "Amrit Gyaan Kosh" Portal to strengthen governance training.
+Polity & Governance
+**********National Panchayat Awards
+The National Panchayat Awards Conferment Ceremony 2024, organized by the Ministry of Panchayati Raj, will take place at Vigyan Bhawan, New Delhi.
+About National Panchayat Awards:
+These awards are pivotal in recognizing and encouraging Panchayats for their
+efforts in poverty alleviation, health, child welfare, water conservation, sanitation, infrastructure, social justice, governance, and women empowerment
+These awards have been revamped and launched during the year 2022 aligning them with
+9 Localization of Sustainable Development Goals
+(LSDGs) themes aggregating 17 SDGs.
+Primary objective through this competition is to assess the performance of Panchayats in attainment of SDGs,
+promote competitive spirit
+among them and catalyze the process of LSDGs through Panchayati Raj Institutions for attaining LSDGs by 2030.
+9 LSDG themes
+are: Poverty-Free and Enhanced Livelihoods Panchayat, Healthy Panchayat, Child-Friendly Panchayat, Water-Sufficient Panchayat, Clean and Green Panchayat, Self-Sufficient Infrastructure in Panchayat, Socially Just and Socially Secured Panchayat, Panchayat with Good Governance and Women-Friendly Panchayat.
+This award has been conferred under the
+following categories:
+Deen Dayal Upadhyay Panchayat Satat Vikas Puraskar (DDUPSVP):
+This award is for top-3 ranking GPs/Equivalent bodies for their outstanding performance under each of the above mentioned 9 award themes.
+Nanaji Deshmukh Sarvottam Panchayat Satat Vikas Puraskar:
+This award is for top 3 Gram, Block and District Panchayats each for their aggregate performance under all the 9 award themes of DDUPSVP.
+Special categories of Awards:
+Gram Urja Swaraj Vishesh Panchayat Puraskar is
+for top 3 GPs/Equivalent Bodies for their performance in adoption and usage of renewable sources of energy.
+Carbon Neutral Vishesh Panchayat Puraskar
+is for top 3 GPs/Equivalent Bodies for their performance in adoption and
+This year, total 3 awards have been conferred under this category.
+Panchayat Kshamta Nirmaan Sarvottam Sansthan Puraskar
+is for 3 Institutions across the country who have provided institutional support to GPs in achieving LSDGs.
+Click to View More
+Source :
+The President of India to confer National Panchayat Awards 2024 on 11th December at Vigyan Bhawan, New Delhi.
+Polity & Governance
+**********Pradhan Mantri Poshan Shakti Nirman Scheme
+Recently, the central government has revised the prices of food items provided to children under the Pradhan Mantri Poshan Yojana.
+About Pradhan Mantri Poshan Shakti Nirman Scheme:
+In 2021, Mid-Day Meal Scheme was renamed as Pradhan Mantri POSHAN Scheme.
+It is a centrally sponsored scheme, which aims at
+providing nutritional support
+and enhancing
+school participation
+of students.
+Under the scheme,
+one hot cooked meal
+is served to students studying in Balvatika (pre-primary education program) and classes I to VIII, in
+Government and Government-aided schools
+on all school-days.
+The
+objectives of the Scheme are
+to address two of the pressing problems for majority of children in India, viz. hunger and education by:
+Improving the
+nutritional status of eligible children
+in Government and Government aided schools.
+Encouraging poor children, belonging to disadvantaged sections,
+to attend school more regularly
+and help them concentrate on classroom activities.
+Providing nutritional
+support to children of elementary stage
+in drought-affected and disaster affected areas during summer vacation.
+The Labour Bureau, Ministry of Labour provides data on inflation for the items under the PM POSHAN basket on the basis of
+Consumer Price Index – Rural Labourers
+(CPI-RL).
+The CPI-RL is constructed by Labour Bureau on the basis of collecting continuous monthly prices from the sample of 600 villages spread over 20 States of the country.
+Recently, on the basis of CPI-RL, the Government of India has enhanced the ‘Material Cost’ of the items under the PM POSHAN basket by 13.70 %.
+Click to View More
+Source :
+Enhancement of ‘Material Cost’ under the Pradhan Mantri Poshan Shakti Nirman (PM POSHAN) Scheme.
+Polity & Governance
+**********UGC's New Guidelines to Promote Lifelong Learning
+What’s in Today’s Article?
+Introduction (Context of the Article)
+About RPL (Meaning, Alignment with NEP, Objectives, Benefits, Implementation, Impact)
+Introduction:
+The University Grants Commission (UGC) has introduced a new set of guidelines titled
+"Recognition of Prior Learning (RPL) in Higher Education"
+aimed at making education more accessible and promoting the concept of lifelong learning.
+This initiative addresses the needs of India’s large informal workforce and helps bridge the gap between real-world experience and formal education.
+What is Recognition of Prior Learning (RPL)?
+RPL is a
+formal system designed to evaluate and recognize the skills, knowledge, and experience individuals have gained through informal, non-formal, or experiential learning
+It allows individuals to gain formal recognition and qualifications, improving their career prospects and employability.
+Alignment with NEP 2020
+UGC Chairman highlighted that RPL aligns with the goals of the
+National Education Policy (NEP) 2020
+, which emphasizes inclusivity and skill-based education.
+RPL is also supported by the
+National Credit Framework (NCrF)
+, enabling individuals to convert their skills into qualifications by crediting all forms of learning, whether academic, vocational, or experiential.
+Key Objectives of the Guidelines:
+Enhancing Accessibility
+Enable individuals with competencies acquired through informal learning to access higher education programs.
+Provide flexible pathways for learners with diverse educational and professional backgrounds.
+Promoting Lifelong Learning
+Equip individuals with updated skills to adapt to evolving career demands and changing labor markets.
+Foster continuous learning for a more skilled and adaptable workforce.
+Encouraging Social Inclusion
+Recognize experiential learning to help marginalized and disadvantaged groups improve their socio-economic status by obtaining recognized qualifications.
+Promote equity and inclusivity in higher education.
+Benefits of RPL:
+Economic Growth
+: By creating a more skilled workforce, RPL contributes to the nation's economic development.
+Career Progression
+: Individuals can access higher education, earn formal qualifications, and improve employability.
+Bridging Gaps
+: It connects real-world experiences with formal education, helping individuals integrate more effectively into the professional world.
+Implementation Focus:
+The guidelines emphasize:
+Robust Governance
+: Collaboration among policymakers, educational institutions, employers, and assessment bodies to ensure fairness and consistency.
+Quality Assurance
+: Establishing reliable systems to uphold the integrity of RPL.
+: Providing opportunities for marginalized groups and disadvantaged communities.
+Impact:
+The initiative aims to create a competent workforce capable of meeting the challenges of a rapidly changing job market.
+By valuing prior knowledge and experience, RPL paves the way for lifelong learning, career mobility, and social equity.
+Conclusion:
+The UGC's new RPL guidelines represent a progressive step toward an inclusive and skill-oriented education system in India.
+By valuing diverse learning experiences and promoting lifelong education, the initiative addresses both societal and economic challenges, fostering a more equitable and capable workforce.
+New UGC guidelines to promote ‘life-long’ learning.pdf
+( Size:  192.7 KB  )
+Click to View More
+Polity & Governance
+**********The Friction Between RBI Governors and the Indian Government
+Why in News?
+As Shaktikanta Das concludes his tenure as the Governor of the Reserve Bank of India (RBI) on December 10, his leadership witnessed a familiar tension between the central bank and the government.
+This friction,
+particularly over monetary policy decisions
+, echoes a longstanding history of conflicts between successive RBI Governors and governments.
+What’s in Today’s Article?
+Historical Context - Tensions Between RBI Governors and Governments
+Key Issues During Shaktikanta Das’ Tenure - Policy Rate Standoff
+Recurring Themes in RBI-Government Conflicts
+The 26th RBI Governor
+Conclusion
+Historical Context - Tensions Between RBI Governors and Governments:
+YV Reddy (2003-2008):
+Conflicts with Finance Ministry:
+Reddy faced disagreements with then-Finance Minister P. Chidambaram, particularly over the development of financial markets and a controversial farm loan waiver of ₹60,000 crores.
+Foreign exchange reserves debate:
+Reddy opposed utilising India’s growing forex reserves for government-backed lending without guarantees, ensuring fiscal prudence.
+D Subbarao (2008-2013):
+Resistance to cheerleading:
+Subbarao frequently clashed with Finance Ministers Chidambaram and Pranab Mukherjee over the
+RBI’s anti-inflation stance
+, which was perceived as a barrier to growth.
+Creation of FSDC:
+Subbarao opposed the formation of the Financial Stability and Development Council (FSDC), arguing it undermined the RBI’s role in maintaining financial stability.
+Raghuram Rajan (2013-2016):
+Advocating independence:
+He strongly defended the RBI’s
+autonomy
+resisting government moves to shift money market regulation to SEBI.
+He famously emphasised the importance of the RBI’s ability to say “
+No
+.”
+Demonetisation disapproval:
+Rajan advised caution on demonetisation, warning of the costs and preparation required.
+His recommendations were not heeded, and his term ended shortly before the policy was implemented.
+Urjit Patel (2016-2018):
+Surplus transfer dispute:
+Patel resisted the government’s attempt to tap into the RBI’s excess reserves, leading to escalating tensions.
+Resignation:
+Citing personal reasons, Patel resigned amid increasing government pressure, notably after the invocation of
+Section 7 of the RBI Act
+to influence policy.
+of RBI Act of 1934 gives the central government the power to direct the RBI on matters of public interest.
+Key Issues During Shaktikanta Das’ Tenure - Policy Rate Standoff:
+Despite government pressure to cut key policy rates to address GDP slowdown, the RBI maintained the repo rate at 6.50% to control inflation.
+This decision, opposed by Finance Minister
+Nirmala Sitharaman and Commerce Minister Piyush Goyal,
+highlighted the central bank’s prioritisation of inflation management over growth stimulation.
+Recurring Themes in RBI-Government Conflicts:
+Autonomy of the central bank:
+Governments often push for accommodative monetary policies, while RBI Governors prioritise inflation control and fiscal discipline.
+Interest rate policies
+: Disagreements frequently arise over interest rate cuts, as governments aim to spur growth, while the RBI remains cautious about inflationary risks.
+Regulatory jurisdiction:
+Conflicts over the RBI’s regulatory authority, including disputes on financial market reforms and surplus reserves, underscore tensions in governance.
+Diverging priorities:
+While governments focus on immediate economic growth and political considerations, the RBI emphasises long-term economic stability.
+The Appointments Committee of the Cabinet gave its nod for the selection of the 56-year-old
+Sanjay Malhotra
+(currently Revenue Secretary in the Finance Ministry) as the 26th RBI Governor with effect from December 11 for a period of three years.
+Conclusion:
+The tension between the RBI and the government
+reflects the delicate balance of ensuring monetary policy autonomy while addressing fiscal and economic imperatives
+As Shaktikanta Das’ tenure ends, this enduring dynamic underscore the
+critical role of the RBI in safeguarding financial stability against political pressures.
+newspaper.pdf
+( Size:  530.4 KB  )
+Click to View More
+Economics
+**********On Reforms in Merchant Shipping
+Why in news?
+The Government plans to introduce the
+Merchant Shipping Bill, 2024
+and the
+Coastal Shipping Bill, 2024
+to drive reforms and bring transformative changes aimed at boosting the shipping industry.
+What’s in today’s article?
+Need for new bill
+Features of the Merchant Shipping Bill
+Focus on coastal shipping
+Need for a new bill
+Merchant Shipping Act, 1958
+, and the
+Coasting Vessels Act, 1838
+, which the new bills aim to repeal, are outdated and fail to address the contemporary needs of the merchant marine sector.
+Significant regulatory gaps exist, particularly for vessels operating in the offshore sector, comprising nearly 50% of Indian-flagged vessels.
+Furthermore, maritime training was liberalised allowing private sector participation, yet
+there is no legal framework in the existing Act to regulate their activities effectively
+Welfare provisions in the Merchant Shipping Act are limited to Indian-flagged ships, though 85% of Indian seafarers work on foreign-flagged vessels.
+The existing Act lacks enabling provisions for implementing international conventions signed or planned by India.
+License-era provisions hinder modernization, preventing maritime administration from transitioning to a regulator-cum-facilitator model.
+Expanded vessel scope
+The existing Act regulates only large mechanized ships, leaving smaller and non-mechanized vessels unregulated, creating operational and safety risks in the offshore sector.
+India’s offshore drilling sector gained prominence in 1974 when
+Sagar Samrat
+, a merchant vessel designed for exploratory offshore drilling, drilled the first well in Bombay High.
+Since then, the offshore sector has employed a diverse range of mechanised and non-mechanised vessels.
+However, these vessels remain either unregulated or inadequately regulated
+The new Bill addresses this by expanding the definition of 'vessels' to include a wide range of crafts, such as submersibles, hydrofoils, and Mobile Offshore Units (MOUs), ensuring comprehensive oversight and enhanced transparency.
+Foreign investment
+Lowers the ownership threshold for Indian entities from 100% to 51%, enabling NRIs, OCIs, and foreign entities to invest while maintaining majority Indian ownership.
+Bareboat charter-cum-demise
+The Bill allows the registration of vessels chartered by Indian entities under the bareboat charter-cum-demise, enabling entrepreneurs to acquire ownership of vessels at the end of the charter period.
+A bareboat charter-cum-demise is a maritime contract where a vessel is leased without crew or provisions, with the intention that ownership will transfer to the charterer after a set period, functioning like a lease-to-own arrangement for the ship.
+This provision, particularly beneficial for capital-deficient entrepreneurs, facilitates entry into the shipping industry without upfront investment.
+Provisions for temporary registration of vessels destined for demolition
+India, the second-largest ship recycling center after Bangladesh, faces challenges in registering vessels for demolition as they are often deemed unseaworthy.
+The Merchant Shipping Bill introduces provisions for temporary registration of such vessels, aiming to boost activities at recycling hubs like Alang.
+Enhancing coastal security
+The 26/11 Mumbai attacks highlighted gaps in maritime security, emphasizing the need for stricter vessel regulations.
+The new Bill empowers authorities to issue instructions to all vessel types, enhancing coastal security and safeguarding India’s coastline.
+Marine Pollution Measures
+Reduction of sulphur content in marine fuel to less than 0.5%.
+Ban on single-use plastics on Indian ships.
+Launch of the ‘Swachh Sagar’ portal for ship waste disposal at ports.
+The new Bill fully incorporates international conventions like MARPOL and the Wreck Removal Convention, aligning India's maritime regulations with global standards and promoting sustainable shipping practices.
+Provisions for Seafarers
+Indian seafarers on foreign-flagged ships have grown significantly, from 1,16,000 in 2015-16 to 2,85,000, representing 85% of the workforce.
+The existing Act lacks provisions for the welfare and safety of this vast workforce working on foreign-flagged vesels.
+The new Bill addresses gaps in welfare and safety provisions for these seafarers by extending government welfare measures and protections under the Maritime Labour Convention (MLC), ensuring better working conditions and safety standards.
+Provision for
+The Union Government is responsible for regulating maritime education and training under
+Entry 25 of List 1 (Union List) of the Constitution
+Previously, training was managed by government-run institutions, so no specific legal framework was needed.
+However, with economic liberalization has allowed unauthorized institutes to thrive, complicating regulatory actions.
+The proposed Bill introduces clear legal provisions to regulate maritime training, aiming to eliminate illegal institutes and ensure high-quality, standardized education, protecting rural youth from exploitation.
+Distinguishing Technical Regulation and Commercial Utilisation
+The Government has separated the technical regulation of ships from the commercial use of Indian coastal waters.
+Licensing, operational permissions, coastal planning, and integration of inland and coastal shipping are now part of the proposed
+It has removed the provisions related to the commercial utilisation of Indian coastal waters from the Merchant Shipping Act.
+The Merchant Shipping Act will focus on technical regulation of ships
+Alignment with ‘Sagarmala’ Program
+The new Bill supports the Government’s
+‘Sagarmala’ program
+, which promotes coastal shipping through dedicated berths and better hinterland connectivity for coastal cargo.
+This approach is essential for infrastructure growth and a strong regulatory framework.
+Conclusion
+The reforms are intended to be bipartisan, focusing on investment, safety, marine pollution prevention, and seafarers' welfare. These measures are aimed at unlocking the full potential of India’s maritime sector.
+On Reforms in Merchant Shipping.pdf
+( Size:  2.4 MB  )
+Click to View More
+Polity & Governance
+**********Notice for resolution to impeach Jagdeep Dhankhar
+Why in news?
+Opposition parties, under the INDIA bloc, plan to submit a no-confidence or impeachment resolution against Rajya Sabha Chairman and Vice-President Jagdeep Dhankhar. While lacking sufficient numbers to ensure impeachment, the move aims to send a political message to the ruling Party.
+What’s in today’s article?
+Vice President of India – Appointment, powers, impeachment
+Notice for resolution to impeach Vice President of India
+Vice President in India
+About
+The Vice President of India is the second-highest constitutional office (after President). This office is modeled on the lines of the American Vice-President.
+Eligibility (Article 66 (3))
+Must be a citizen of India.
+At least 35 years of age.
+Qualified to be elected as a member of the Rajya Sabha.
+Cannot hold any office of profit under the Government of India or a state government.
+Election
+Article 66 (1):
+Elected by an electoral college consisting of members of both Houses of Parliament through a system of proportional representation by means of a single transferable vote.
+It is different from electoral college for the election of the President:
+It consists of both elected and nominated members of the Parliament (in the case of the President, only elected members).
+It does not include the members of the state legislative assemblies (in the case of the President, the elected members of the state legislative assemblies are included).
+All doubts and disputes concerning the election of the Vice-President are inquired into and decided by the Supreme Court, whose decision is final.
+Tenure (Article 67)
+Holds office for a term of 5 years but is eligible for re-election.
+Can resign by submitting a resignation letter to the President.
+Can be removed by a resolution passed by an effective majority in the Rajya Sabha and agreed upon by the Lok Sabha.
+Roles, Responsibilities, and Powers
+Ex-Officio Chairman of Rajya Sabha (Article 64)
+Presides over Rajya Sabha sessions and ensures smooth conduct of proceedings.
+Does not vote in the Rajya Sabha except to break a tie.
+Acting President (Article 65)
+Discharges the functions of the President during their absence, resignation, removal, or death, until a new President is elected.
+Ceremonial Role
+Represents the dignity and neutrality of the office without being part of day-to-day governance.
+Impeachment Process (Article 67(b))
+Can be removed by a resolution passed by:
+A majority of all members of the Rajya Sabha.
+Agreement of the Lok Sabha by a simple majority.
+Requires at least 14 days’ notice before moving the resolution.
+About the news
+The opposition parties have decided to submit a notice to move a no-confidence or impeachment resolution against the Vice President Jagdeep Dhankhar.
+The move is based on Article 67(b) of the Constitution, which allows for the removal of a Vice-President through a resolution passed by a majority in the Council of States (Rajya Sabha) and agreed upon by the Lok Sabha.
+Opposition's Grievances
+Accusations of partisanship against Dhankhar have been building.
+This was significant after he named Congress MP Abhishek Singhvi in the context of alleged currency recovery.
+Recently, Rajya Sabha Chairman announced in the House that “a wad of currency notes” was recovered from a seat allotted to Congress MP Abhishek Manu Singhvi.
+There are claims that the ruling party and its government are undermining constitutional offices and parliamentary democracy.
+No Precedent for Chairman Impeachment
+There is no precedent for moving an impeachment or no-confidence resolution against the Rajya Sabha Chairman.
+A similar no-confidence resolution was moved against Deputy Chairman Harivansh in 2020 over procedural disagreements regarding contentious farm Bills.
+Historical Context
+Past instances of resolutions against
+Lok Sabha Speakers
+include G V Mavalankar (1951), Sardar Hukam Singh (1966), and Balram Jakhar (1987).
+These were all discussed and negated by the House.
+Notice for resolution to impeach Jagdeep Dhankhar.pdf
+( Size:  2.0 MB  )
+Click to View More
+Polity & Governance
+**********Under Trump 2.0, the world and the India outlook
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Bilateral Relations; India-USA relations;
+Why in the News?
+After the recent Elections, U.S. President-elect Donald Trump will likely hold a more favourable view of India compared to other nations.
+What are the potential impacts of Trump’s protectionist trade policies on India?
+Increased Tariffs:
+Trump’s administration is likely to impose higher tariffs on Chinese imports, which could lead to a shift in trade dynamics.
+India might benefit from this situation as companies look to relocate their manufacturing bases away from China, potentially increasing Indian exports.
+Supply Chain Diversification:
+As U.S. firms seek to diversify their supply chains to reduce dependency on China, India could emerge as an attractive alternative for manufacturing and technology services, boosting economic ties between the two nations.
+Pressure on Indian Goods:
+Conversely, if Trump’s policies lead to retaliatory measures from China or other countries, Indian goods may face increased scrutiny or tariffs in those markets, affecting India’s export competitiveness.
+How will Trump’s immigration policies affect the Indian workforce in the US?
+H-1B Visa Restrictions:
+Trump’s administration may implement stricter immigration policies, particularly affecting H-1B visas commonly used by Indian IT professionals. This could limit the ability of Indian workers to enter or remain in the U.S. job market.
+Talent Drain:
+Stricter immigration laws might lead to a talent drain, where highly skilled Indian professionals seek opportunities in other countries with more favorable immigration policies, impacting India’s tech sector.
+Focus on Skilled Workers:
+On the flip side, if Trump prioritizes skilled labor that aligns with U.S. economic needs, there could be opportunities for Indian professionals who meet those criteria to gain entry into the U.S. market.
+What strategic opportunities and challenges will arise for India in the Indo-Pacific region?
+Strengthened Alliances:
+Under Trump’s leadership, India is likely to see strengthened ties with the U.S. and other allies like Japan and Australia through frameworks such as the Quad, which aims to counterbalance China’s influence in the region.
+Defence Cooperation:
+Enhanced defence cooperation could lead to increased military sales and joint exercises between India and the U.S., bolstering India’s defence capabilities against regional threats.
+Balancing Relations with China:
+While India may benefit from a closer relationship with the U.S., it will need to navigate its complex relationship with China carefully. Increased tensions between the U.S. and China could put India in a difficult position regarding its economic and security interests.
+Regional Stability Challenges:
+Trump’s assertive foreign policy might lead to greater instability in the Indo-Pacific region. India will need to manage its responses carefully to maintain peace while pursuing its strategic interests.
+Way forward:
+Leverage Strategic Partnerships
+: India should capitalize on strengthened ties with the U.S. and allies like Japan and Australia to enhance its defence, trade, and technology capabilities while maintaining a robust independent foreign policy to balance regional dynamics.
+Promote Domestic Resilience
+: By advancing initiatives like “Make in India” and diversifying export markets, India can reduce reliance on vulnerable sectors impacted by U.S. protectionism and prepare to attract global supply chains shifting away from China.
+Mains PYQ:
+Quadrilateral Security Dialogue (Quad) is transforming itself into a trade bloc from a military alliance, in present times Discuss.
+(UPSC IAS/2020)
+**********On reforms in merchant shipping
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to Merchant Shipping;
+Why in the News?
+The government is set to introduce the
+Merchant Shipping Bill, 2024,
+and the
+Coastal Shipping Bill, of 2024
+, aiming to drive critical reforms and deliver transformative changes to strengthen and revitalize the shipping industry.
+Have the Merchant Shipping Act, of 1958, and the Coasting Vessels Act, of 1838 failed?
+The Merchant Shipping Act, 1958, and the Coasting Vessels Act, 1838, do not meet contemporary maritime needs and regulatory requirements as follows:
+Regulatory Gaps:
+Significant gaps exist for offshore vessels, which account for nearly 50% of Indian-flagged vessels. The current framework fails to regulate these vessels adequately.
+Seafarer Welfare Limitations:
+Welfare provisions are restricted to Indian-flagged ships, neglecting the majority of Indian seafarers (85%) who work on foreign-flagged vessels.
+Lack of Legal Framework:
+There is no effective legal framework to regulate private sector participation in maritime training, leading to unauthorized institutions operating without oversight.
+Inadequate Implementation of International Conventions:
+The existing laws lack provisions to implement various international conventions that India has signed or plans to ratify.
+What are the key features of the New Merchant Shipping Bill 2024?
+Ease of Registration:
+The Bill allows for reduced ownership thresholds (from 100% to 51%) for Indian entities and permits foreign entities to hold shares in Indian vessels while ensuring majority ownership remains with Indians.
+Expanded Scope of Vessels:
+It broadens the definition of ‘vessels’ to include a variety of crafts (e.g., submersibles, barges), ensuring comprehensive regulatory oversight.
+Temporary Registration for Ship Recycling:
+Introduces provisions for temporary registration of vessels destined for demolition, facilitating operations in ship recycling hubs like Alang.
+Strengthened Coastal Security:
+Empowers authorities to issue instructions across all vessel categories to enhance coastal security.
+Integration with International Standards:
+Aligns with global best practices from leading maritime jurisdictions like the U.K., Norway, and Singapore.
+What are some of the international maritime conventions that India has ratified?
+International Convention for the Safety of Life at Sea (SOLAS):
+Establishes minimum safety standards in the construction and operation of ships.
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW):
+Sets standards for training and certification of seafarers.
+Maritime Labour Convention (MLC):
+Focuses on the rights and welfare of seafarers, ensuring decent working conditions.
+International Convention on Civil Liability for Oil Pollution Damage (CLC):
+Addresses liability for oil pollution damage from ships.
+International Convention for the Prevention of Pollution from Ships (MARPOL):
+Aims to minimize pollution from ships, covering various aspects of marine pollution.
+Convention on Limitation of Liability for Maritime Claims (LLMC):
+Limits the liability of shipowners in case of maritime claims.
+Wreck Removal Convention:
+Provides a legal framework for the removal of wrecks to prevent marine pollution.
+Will the new Bills address maritime training and education as well?
+Yes, the new
+Merchant Shipping Bill, of 2024
+, specifically addresses maritime training and education, aiming to fill regulatory gaps and ensure standardization.
+Establishment of a Legal Framework
+: The new Merchant Shipping Bill introduces clear legal provisions to regulate maritime training institutes, addressing the absence of such a framework in the existing law.
+Elimination of Unauthorised Institutes
+: It empowers the government to act against unauthorised maritime training institutes, ensuring only approved institutions operate and deliver high-quality, standardised education.
+Alignment with Global Standards
+: The Bill ensures maritime training aligns with international best practices, enhancing the employability and skills of Indian seafarers in the global maritime sector.
+Way forward:
+Robust Implementation and Monitoring
+: Ensure effective enforcement of the new Bills by establishing transparent regulatory mechanisms, leveraging technology for compliance, and regular monitoring to address gaps swiftly.
+Stakeholder Engagement and Capacity Building
+: Foster collaboration between the government, private sector, and international maritime bodies to enhance infrastructure, promote innovation, and build capacity for sustainable growth in the maritime sector.
+Mains PYQ:
+What are the maritime security challenges in India? Discuss the organisational, technical and procedural initiatives taken to improve maritime security.
+(UPSC IAS/2022)
+**********Indians need the right to disconnect
+Indian Society
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to women;
+Why in the News?
+After an EY employee’s death allegedly linked to work pressure, a report highlights Indian women in professions like IT and auditing exceeding 55-hour workweeks, with marginalized unorganized sector workers facing varied hours.
+What are the present issues arising at Workplaces in India?
+Long Working Hours:
+Many Indian professionals, especially women in sectors like auditing and IT, work over 55 hours per week, contributing to high levels of stress and burnout.
+Mental Health Impact:
+A significant percentage (49%) of Indian workers report that workplace stress negatively affects their mental health, highlighting the urgent need for better work-life balance.
+Lack of Legal Protections:
+Unlike several countries that have implemented laws to protect employees’ right to disconnect from work outside official hours, India lacks specific legislation addressing this issue.
+Cultural Attitudes:
+There is a pervasive workaholic culture where employees feel compelled to remain available outside working hours, often leading to a blurring of boundaries between personal and professional life.
+What benefits and challenges would India face in enforcing a ‘right to disconnect’ law?
+Benefits:
+Improved Employee Well-Being:
+Enforcing a right to disconnect could help mitigate stress and improve mental health among employees, leading to a healthier workforce.
+Enhanced Productivity:
+Research indicates that allowing employees to disconnect can lead to increased productivity during working hours as they can focus better without after-hours distractions.
+Work-Life Balance:
+Such legislation would promote a more balanced approach to work, allowing employees to prioritize personal time and family life.
+Challenges:
+Economic Concerns:
+Implementing a right to disconnect may b e seen as detrimental to economic growth in a competitive landscape like India, where companies often push for extended working hours.
+Resistance from Employers:
+Many employers may resist such regulations, fearing it could hinder their operational flexibility and responsiveness.
+Cultural Shift Required:
+There would need to be a significant cultural shift within organizations to embrace the right to disconnect, moving away from the expectation of constant availability.
+How does the concept align with India’s economic growth and competitive landscape?
+Boosting Productivity:
+Recognizing the right to disconnect could enhance overall productivity by fostering a healthier work environment. This aligns with India’s goal of becoming the third-largest economy by 2030.
+Attracting Talent:
+A commitment to employee well-being through such legislation could make Indian companies more attractive to skilled professionals, particularly in competitive sectors like technology.
+Global Competitiveness:
+As global standards for employee rights evolve, India risks falling behind if it does not adapt its labor laws. Implementing a right to disconnect could position India favorably in the global market.
+Way forward:
+Legislative Framework:
+Introduce comprehensive laws recognizing the right to disconnect, ensuring strict enforcement mechanisms and sector-specific guidelines to accommodate diverse workplace needs while safeguarding employee well-being.
+Cultural Transformation:
+Promote awareness campaigns and organizational policies to shift workplace culture towards respecting personal time, emphasizing the long-term benefits of work-life balance for productivity and economic growth.
+Mains PYQ:
+What are the continued challenges for Women in India against time and space?
+(UPSC IAS/2019)
+**********[pib] New National Manuscripts Mission
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Union Ministry of Culture
+is planning to
+revive and relaunch
+National Mission for Manuscripts (NMM)
+and is considering the formation of an
+autonomous body
+to help preserve India’s ancient texts.
+Why Center is re-evolving this scheme?
+Currently, the
+operates as part of the
+Indira Gandhi National Centre for the Arts
+The new entity, expected to be named the
+National Manuscripts Authority
+, will likely function as an
+under the
+Ministry of Tourism and Culture
+About the National Mission for Manuscripts (NMM):
+Aims and Objectives
+To document, conserve, digitize, and disseminate India’s manuscript heritage.
+Set up over 100 Manuscripts Resource Centres and Manuscripts Conservation Centres across India.
+Manuscripts are often on materials like paper, bark, cloth, metal, or palm leaf, and are
+at least 75 years old
+, with significant scientific, historical, or aesthetic value.
+India has an estimated 10 million manuscripts covering various themes, languages, scripts, and illustrations.
+Manuscripts primarily contain knowledge content, unlike historical records.
+80% of manuscripts are privately owned, limiting public availability.
+Structural Mandate
+Formed in 2003
+by the Ministry of Tourism and Culture.
+Managed by the
+National Archives of India
+Currently operates as part of the
+Features and Programs under the Mission
+Documented
+metadata for 5.2 million manuscripts
+digitized 300,000 titles
+, though only a third of them have been uploaded.
+Only 70,000 of the 130,000 manuscripts uploaded are accessible for viewing due to the absence of an access policy.
+Preventive and curative conservation of 9 crore folios has been conducted over 21 years.
+PYQ:
+[2008]
+Recently, the manuscripts of which one of the following have been included in the UNESCO’s Memory of World Register?
+(a) Abhidhamma Pitaka
+(b) Mahabharata
+(c) Ramayana
+(d) Rig-Veda
+**********National Food Security Act, 2013
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Supreme Court remarked that a
+long-term solution to food security issues
+is generating employment, while advocate Prashant Bhushan pointed out that the
+National Food Security Act (NFSA)
+still relies on 2011
+census
+data.
+About National Food Security Act, 2013:
+Details
+Launch
+NFSA was signed into law on
+12th September 2013
+, with retroactive effect from
+5th July 2013
+It aims to provide subsidized food grains to approximately 2/3rd of India’s population.
+Aims and Objectives
+Provide
+subsidized food grains to 2/3rd of India’s population
+, covering about 75% of rural and 50% of urban areas.
+Converts
+programs into
+legal entitlements
+Recognizes
+maternity entitlements
+for pregnant women, lactating mothers, and children.
+Structural Mandate
+Central Government directs states
+to implement the provisions of the Act (Section 38).
+Mandates that the
+subsidized prices remain fixed for 3 years
+(with no revision yet).
+Ensures that
+eligible households
+have a
+legal right to food grains
+at subsidized rates under the
+Targeted Public Distribution System (TPDS).
+Features and Programs
+PDS provides
+5 kg/person/month
+: Rice (₹3/kg), Wheat (₹2/kg), Coarse grains (₹1/kg).
+Eldest woman
+(18 years or above) in the household is
+considered the head
+of the family for issuing ration cards.
+Provides free meals to pregnant women
+children aged 6 months to 14 years
+under ICDS and mid-day meal schemes.
+Ensures pregnant and lactating women receive a
+₹6,000 cash benefit
+, payable in installments.
+Midday Meal and ICDS
+universal
+, and PDS reaches 75% of rural and 50% of urban populations.
+Priority Households
+5 kg of food grains
+per person per month,
+Antyodaya Anna Yojana (AAY) households
+35 kg per month
+Why it is still driven by figures from 2011 Census?
+Data Discrepancy
+: The 2021 census is getting extensions indiscriminately. It would have identified additional beneficiaries, possibly up to 10 crore more people.
+Ration Card Issue
+: Many migrant workers had still not received ration cards, despite several court orders.
+Logistical and Administrative Constraints
+: Updating census-based allocations requires substantial administrative coordination and a shift in policy across the Centre and States.
+PYQ:
+[2018]
+With reference to the provisions made under the National Food Security Act, 2013, consider the following statements:
+The families coming under the category of ‘below poverty line (BPL)’ only are eligible to receive subsidised food grains.
+The eldest woman in a household, of age 18 years or above, shall be the head of the household for the purpose of issuance of a ration card.
+Pregnant women and lactating mothers are entitled to a ‘take-home ration’ of 1600 calories per day during pregnancy and for six months thereafter.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 only
+(c) 1 and 3 only
+(d) 3 only
+**********Egyptian Cotton Leafworm (A Moth Species)
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+A moth species called Egyptian cotton leafworm
+can hear sounds emitted by stressed plants
+, a study confirmed.
+About the
+Details
+Scientific name:
+Spodoptera littoralis
+Polyphagous
+pest affecting crops like cotton, tomatoes, maize, tobacco, and peppers.
+Found across
+tropical and subtropical regions
+Africa, Middle East, and South Asia
+The moth has been
+spreading to new areas
+due to climate change.
+Larvae damage crops by
+feeding on leaves, stems, and flowers
+, reducing crop yield and quality.
+Findings of the Study
+Female moths
+use plant acoustic emissions
+(sound clicks) to decide where to lay eggs.
+These sounds, undetectable to humans, help the moths identify healthier, hydrated plants for egg-laying.
+Moths avoid stressed, dehydrated plants that produce stress-related sounds.
+Impact on Agriculture
+Harmful in
+cotton-growing
+Larvae cause significant damage to a variety of crops, particularly cotton, tomatoes, and tobacco, impacting the quality and quantity of the produce.
+PYQ:
+[2014]
+Which of the following statements is / are correct regarding vegetative propagation of plants?
+1. Vegetative propagation produces clonal population.
+2. Vegetative propagation helps in eliminating the virus.
+3. Vegetative propagation can be practiced most of the year.
+Select the correct answer using the code given below:
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********[pib] India-Australia CCEA Stocktake
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+CCEA, ECTA
+Why in the News?
+A stocktake visit for the
+Comprehensive Economic Cooperation Agreement (CECA)
+recently concluded in New Delhi.
+Key Takeaways from the Meet
+The discussions covered a wide range of critical aspects of the
+, including:
+Trade in goods and services
+Mobility
+agri-tech cooperation
+Market access modalities
+that align with
+India’s food security objectives
+Both sides emphasized their
+shared commitment
+to ensuring that the CECA produces
+meaningful benefits
+and delivers a
+balanced outcome
+for both nations.
+The discussions have opened up pathways for enhanced collaboration in areas such as
+agricultural innovation
+market access
+, and
+supply chain resilience
+About India-Australia CCEA Negotiations:
+is a comprehensive trade agreement between
+More comprehensive
+than the earlier
+India-Australia Economic Cooperation and Trade Agreement (ECTA)
+, which is a limited trade agreement in force since
+December 2022
+Negotiations for CECA
+began in
+May 2011
+, suspended in
+2016
+, and re-launched in
+2021
+after concluding the ECTA.
+So far
+10 rounds
+of negotiations have taken place.
+Key Features of CECA
+Covers
+digital trade
+government procurement
+Rules of Origin/Product-Specific Rules Schedule
+New areas:
+competition policy
+MSMEs
+critical minerals
+sports
+India-AU Trade Statistics
+2023-24
+imports from Australia
+fell by
+15%
+USD 16.15 billion
+exports to Australia
+rose by
+14.23%
+USD 7.94 billion
+Australia is India’s
+13th largest export destination
+14th largest import source
+PYQ:
+[2017]
+‘Broad-based Trade and Investment Agreement (BTIA)’ is sometimes seen in the news in the context of negotiations held between India and:
+(a) European Union
+(b) Gulf Cooperation Council
+(c) Organization for Economic Cooperation and Development
+(d) Shanghai Cooperation Organization
+**********

@@ -1,0 +1,387 @@
+PYROCUMULONIMBUS CLOUDS
+Syllabus
+Prelims & Mains – GEOGRAPHY
+Context:
+Intense wildfires in the United States and Canada have sparked the formation of pyrocumulonimbus clouds.
+Background:-
+The occurrence of these clouds has increased in recent years. Typically, about 102 pyrocumulonimbus clouds were recorded globally in a year, with 50 of them in Canada. However, during last year’s extreme wildfire season, Canada alone witnessed 140 pyrocumulonimbus clouds.
+About pyrocumulonimbus clouds
+The cumulonimbus flammagenitus cloud (CbFg), also known as the pyrocumulonimbus cloud, is a type of cumulonimbus cloud that forms above a source of heat, such as a wildfire, nuclear explosion, or volcanic eruption.
+Formation of Pyrocumulonimbus Clouds:
+Not all wildfires produce pyrocumulonimbus clouds; they form during extremely hot fires or volcanic eruptions. For example, the Australian bushfires of 2019-2020, with temperatures exceeding 800°C, led to their formation.
+Process: Intense heat from fires causes surrounding air to rise, carrying water vapour, smoke, and ash. As this air ascends and cools, water vapour condenses on ash particles, forming pyrocumulus or “fire clouds.” But if there is sufficient water vapour available and the upward movement of hot air intensifies, pyrocumulus clouds can evolve into a pyrocumulonimbus cloud, reaching up to 50,000 feet and generating their own thunderstorms.
+Impacts: While they can produce lightning, they yield little rain, potentially igniting new fires far from the original source. Additionally, they can induce strong winds, accelerating and complicating wildfire spread.
+Increasing Frequency:
+The exact cause of the rise in pyrocumulonimbus events is not fully understood, as research in this area is emerging. However, climate change, leading to higher global temperatures and more intense wildfires, is believed to contribute to their increased occurrence.
+Source:
+Indian Express
+**********
+CHHATTISGARH TO GET NEW TIGER RESERVE
+Prelims – ENVIRONMENT
+Chhattisgarh recently cleared a long-pending proposal to notify a new tiger reserve – the third largest in the country. This comes amid the dwindling tiger population in the state.
+Chhattisgarh’s tiger population fell from 46 in 2014 to 17 in 2022, according to a National Tiger Conservation Authority report.
+About Guru Ghasidas-Tamor Pingla Tiger Reserve
+The Guru Ghasidas-Tamor Pingla Tiger Reserve, which integrates an existing national park with a wildlife sanctuary, is Chhattisgarh’s fourth reserve for tigers.
+The decision to establish the reserve comes after Chhattisgarh High Court, while hearing a PIL on July 15, granted four weeks to the state government to clear its stand on declaring that area a tiger reserve.
+In 2019, wildlife activist filed a PIL in the high court highlighting the decline in the big cat population in the state. The PIL accused the government of inaction in notifying and establishing the reserve, despite approval from the National Tiger Conservation Authority and the Union Environment Ministry since 2012.
+On 7th August, the state cabinet merged the regions of the Guru Ghasidas National Park and the Tamor Pingla Sanctuary, located in the districts of Manendragarh-Chirmiri-Bharatpur, Koriya, Surajpur and Balrampur, to create the new reserve.
+Guru Ghasidas-Tamor Pingla Tiger Reserve will be the third largest tiger reserve in the country. It spans 2,829 square kilometres across four northern districts of Chhattisgarh.
+Andhra Pradesh’s Nagarjunasagar Srisailam Tiger Reserve is the country’s largest tiger reserve, covering 3,296.31 sq km. Manas Tiger Reserve in Assam is the second largest with an area of 2,837.1 sq km.
+**********
+KASTURI COTTON
+Prelims – CURRENT EVENT
+Union Minister of State for Textiles, Shri Pabitra Margherita in a written reply  to Lok Sabha mentioned about the progress in Kasturi cotton initiative.
+In order to attain the objective of building image of Indian cotton at Global level, making India Aatmanirbhar and vocal for local in the field of cotton, Ministry of Textiles had announced the “Kasturi Cotton India” Brand of cotton on the eve of World Cotton Day on 7th October 2020.
+About Kasturi cotton
+Kasturi Cottonis a premium cotton brand from India, launched by the Government of India to promote the country’s cotton and textile industry globally.
+Key Features
+High Quality: Kasturi Cotton is known for its long staple length, typically 30 mm and 29 mm, which ensures superior quality.The cotton must meet specific benchmarked parameters, including micronaire value, RD (degrees of reflectance) value, fiber strength, uniformity index, trash, and moisture content.
+Traceability: One of the standout features of Kasturi Cotton is its blockchain traceability and barcode validation.This ensures transparency and quality control throughout the supply chain.
+Sustainability: The brand emphasizes sustainable practices in cotton production, which helps in earning premium prices and enhancing credibility.
+Objectives
+Global Recognition: Kasturi Cotton aims to create a unique identity for Indian cotton in the global market, reinforcing India’s position as a cotton powerhouse
+Value Addition: It seeks to add value to the entire cotton chain, from farmers to end users, by ensuring high standards and traceability.
+Additional Information
+The Cotton Textiles Export Promotion Council (TEXPROCIL) the apex body to promote exports of Indian Cotton textile products including raw cotton across the world, has been designated as the implementing agency for Traceability, Certification and Branding of “KASTURI Cotton India”.
+PIB
+**********
+NEUTRON STARS
+Prelims – SCIENCE AND TECHNOLOGY
+Astronomers recently discovered ten strange dead stars, or “neutron stars,” lurking near the heart of the Milky Way.
+Neutron stars are one of the most extreme and exotic objects in the known universe.
+About Neutron stars :
+Neutron stars are the collapsed cores of massive stars that have undergone a supernova explosion.
+They are among the densest objects in the universe, second only to black holes.
+Typically, neutron stars have a diameter of about 20 kilometers (12 miles) and a mass between 1.18 and 1.97 times that of the Sun.
+How Are Neutron Stars Formed?
+Supernova Explosion: When a massive star (usually 10-25 times the mass of the Sun) exhausts its nuclear fuel, it can no longer support itself against gravitational collapse. This leads to a supernova explosion.
+<img alt="" class="alignnone wp-image-196169 size-full" decoding="async" fetchpriority="high" height="330" sizes="(max-width: 555px) 100vw, 555px" src="https://iasbaba.com/wp-content/uploads/2024/08/life-cycle.png" srcset="https://iasbaba.com/wp-content/uploads/2024/08/life-cycle.png 555w, https://iasbaba.com/wp-content/uploads/2024/08/life-cycle-300x178.png 300w" width="555"/>
+Core Collapse: The core of the star collapses under gravity, causing protons and electrons to combine into neutrons. This process results in an incredibly dense core composed almost entirely of neutrons.
+Formation of Neutron Star: If the core’s mass is between about 1 and 3 solar masses, the newly-created neutrons can halt further collapse, resulting in a neutron star. If the core’s mass exceeds this limit, it will continue to collapse into a black hole.
+Characteristics of Neutron Stars
+Density: Neutron stars are extremely dense. A sugar-cube-sized amount of neutron star material would weigh about a billion tons on Earth.
+Magnetic Fields: They have very strong magnetic fields, which can be billions of times stronger than Earth’s magnetic field.
+Rotation: Neutron stars can rotate very rapidly, sometimes hundreds of times per second. These rapidly rotating neutron stars are known as pulsars.
+Temperature: Newly formed neutron stars can have surface temperatures of around 10 million K. Over time, they cool down, but even older neutron stars can still be quite hot.
+Space
+**********
+RASHTRIYA VIGYAN PURASKAR (RVP)
+: The central government recently announced the full list of the first-ever Rashtriya Vigyan Puraskar (RVP) 2024 awardees.
+The award ceremony is scheduled to take place on August 23 at the Rashtrapati Bhavan Cultural Centre, coinciding with the first National Space Day.
+About Rashtriya Vigyan Puraskar
+The Rashtriya Vigyan Puraskar is a prestigious set of awards introduced by the Government of India to recognize outstanding contributions in the fields of science, technology, and innovation.
+These awards are on par with other national honours like the Padma awards.
+Categories of Awards:
+Vigyan Ratna Awards: Recognizes lifetime achievements and contributions in any field of science and technology.
+Vigyan Shri Awards: Honors distinguished contributions in any field of science and technology.
+Vigyan Team Awards: Given to teams of three or more scientists/researchers/innovators for exceptional collaborative contributions.
+Vigyan Yuva-Shanti Swarup Bhatnagar (VY-SSB) Awards: The highest multidisciplinary science awards for young scientists (up to 45 years old), named after Shanti Swarup Bhatnagar.
+Eligibility:
+Open to scientists, technologists, and innovators from government, private sector organizations, or individuals working independently.
+The awards also recognize contributions from Persons of Indian Origin abroad.
+Domains:
+Covers 13 domains including Physics, Chemistry, Biological Sciences, Mathematics & Computer Science, Earth Science, Medicine, Engineering Sciences, Agricultural Science, Environmental Science, Technology & Innovation, Atomic Energy, Space Science and Technology.
+Nomination and Announcement:
+Nominations are invited annually from January 14th to February 28th, with awards announced on May 11th (National Technology Day) and the ceremony held on August 23rd (National Space Day).
+All nominations received for the RVP awards are placed before the Rashtriya Vigyan Puraskar Committee (RVPC), headed by the Principal Scientific Adviser (PSA) to the Government of India.
+Hindustan Times
+**********
+ARTIFICIAL INTELLIGENCE (AI) AND ETHICS
+Mains – GS 4
+: Artificial Intelligence is on the rise, with new developments and products making headlines almost daily.
+The future of Artificial Intelligence (AI) will not be secured by regulation alone. To ensure safe and trustworthy AI for all, we must balance regulation with policies that promote high-quality data as a public good.
+Artificial Intelligence (AI):
+It refers to the capability of a computer or robot controlled by a computer to perform tasks that typically require human intelligence and judgment.
+Ethical AI:
+It refers to the development and deployment of AI systems in a manner that aligns with ethical principles, societal values, and human rights.
+It is also known as Moral or Responsible AI.
+Artificial Intelligence (AI) and Ethical Issues:
+AI-generated content may raise concerns about preserving the authenticity and integrity of artistic expression, particularly when it is difficult to discern between human-created and AI-generated works.
+There are questions regarding the rights of artists, creators, and participants involved in AI-driven projects, including issues related to intellectual property, ownership, and consent for using personal data or creative contributions.
+AI can revive historical voices or artistic styles, but ethical considerations arise concerning whether such efforts aim to preserve cultural heritage or exploit the identities and legacies of individuals for commercial gain.
+The widespread adoption of AI in creative industries may have implications for human creativity and innovation, potentially leading to homogenization, loss of diversity, or reliance on formulaic approaches.
+The lack of regulatory measures presents challenges in safeguarding privacy and preventing discrimination, necessitating compliance, enforcement, and adaptation to evolving technologies.
+Way Forward:
+AI-driven creative processes should ensure transparency and disclosure including clear attribution of AI-generated content and obtaining informed consent from all involved parties.
+The authenticity and integrity of artistic expression should be upheld by acknowledging the contributions of human creators and respecting their rights to control and be properly credited for their work.
+The ethical guidelines and best practices for the ethical use of AI in creative endeavours should be developed by addressing issues such as consent, ownership, fairness, and accountability.
+The regulatory oversight and governance mechanisms should advocate compliance with ethical standards and protect the rights and interests of individuals involved in AI-driven creative projects.
+The Hindu
+**********
+Daily Practice MCQs
+Q1.) Which among the following is the largest tiger reserve of India ?
+Manas Tiger reserve
+Sariska Tiger reserve
+Q2.) With reference to the Rashtriya Vigyan Puraskar, consider the following statements:
+Which of the statements given above is/are correct?
+1 only
+2 only
+1 and 3 only
+1,2 and 3
+Q3.) Consider the following statements:
+Both 1 and 2
+Neither 1 nor 2
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  9th August 2024
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********RBI Monetary Policy Meeting 2024
+Why in news?
+In its first meeting after the Union Budget, the Reserve Bank of India’s Monetary Policy Committee (MPC) decided to keep the policy repo rate unchanged at 6.50% for the ninth consecutive time.
+Of the six members of the MPC, four voted in favour of the decision, which is aimed at taming inflation.
+What’s in today’s article
+Key outcomes of MPC 2024
+Other announcements made during MPC 2024
+The Committee
+Under Section 45ZB of the amended RBI Act, 1934, the central government is empowered to
+constitute a six-member Monetary Policy Committee (MPC).
+MPC will determine the policy interest rate required to achieve the inflation target. The first such MPC was constituted in September 2016.
+Members of MPC
+the RBI Governor as its ex officio chairperson,
+the Deputy Governor in charge of monetary policy,
+an officer of the Bank to be nominated by the Central Board, and
+three persons to be appointed by the central government.
+Functions of MPC
+Setting Policy Interest Rates
+: The primary function of the MPC is to determine the policy interest rates, specifically the repo rate.
+Inflation Targeting
+: The current inflation target set by the government is a Consumer Price Index (CPI) inflation target of 4% with a tolerance band of +/- 2%.
+Economic Analysis and Forecasting
+: The MPC conducts thorough analysis and forecasting of various economic indicators, including inflation, GDP growth, employment, fiscal conditions, and global economic developments.
+Decision-Making
+: The MPC meets at least four times a year to review the monetary policy stance.
+Policy rates remained unchanged
+MPC decided to keep the policy repo rate unchanged at 6.50%.
+Repo rate is the rate at which the Reserve Bank of India lends money to commercial banks in the event of any shortfall of funds.
+The standing deposit facility (SDF) rate remains at 6.25%, while the marginal standing facility (MSF) rate and the bank rate stand at 6.75%.
+The SDF is a liquidity window through which the RBI will give banks an option to park excess liquidity with it.
+It is different from the reverse repo facility in that it does not require banks to provide collateral while parking funds.
+MSF is a window for banks to borrow from the central bank in an emergency situation when inter-bank liquidity dries up completely.
+The MPC also decided to remain focused on withdrawal of accommodation to ensure that inflation progressively aligns to the target, while supporting growth.
+An accommodative stance means the central bank is prepared to expand the money supply to boost economic growth.
+Withdrawal of accommodation means reducing the money supply in the system which will rein in inflation further.
+Food prices drive inflation
+The headline inflation, after remaining steady at 4.8% during April and May, had increased to 5.1% in June.
+The headline inflation, primarily driven by food inflation, remains stubborn.
+Core inflation (CPI excluding food and fuel) moderated, while the fuel group remained in deflation.
+Inflation is moderating but the pace of disinflation is uneven and slow. Still there is distance to cover to align inflation with target.
+GDP forecast
+Real GDP growth for 2024-25 has been projected at 7.2%, with the first quarter (Q1) projection at 7.1%; Q2 at 7.2%; Q3 at 7.3%; and Q4 at 7.2%.
+Real GDP growth for the first quarter of 2025-26 is projected at 7.2%.
+Transaction limit for tax payments via UPI hiked from Rs 1 lakh to Rs 5 lakh
+RBI announced to increase the transaction limit for tax payment through Unified Payments Interface (UPI) from Rs 1 lakh to Rs 5 lakh per transaction.
+The move will further ease tax payments by consumers through UPI, which has become the most preferred mode of digital payments.
+The enhancement of the UPI limit for tax payments will strengthen the tax-collection system, reduce the cost of tax collection, and make tax payments more convenient for taxpayers.
+Creation of repository of digital lending apps
+In a bid to protect customers from fraudulent players in the financial services sector, the Reserve Bank of India is creating a public
+repository of digital lending applications
+which will be available on its website.
+This measure will put some check on the digitalized loan shark business.
+Aim of RBI is to sensitise the public about unauthorized digital lending App’s and to prevent them from falling prey to digital fraud.
+Focus more on deposit mobilisation via innovative product
+RBI Governor Shaktikanta Das has expressed concern over the shift of household savings from banks to alternative investment avenues,
+leading to slower deposit growth compared to credit growth
+While deposits grew by 11.7%, credit growth increased by 15.5% as of July 12.
+RBI Governor urged banks to
+attract deposits by offering innovative products and leveraging their branch networks to avoid potential liquidity issues
+Can’t ignore food inflation pressures
+The Economic Survey for 2023-24 suggested excluding food prices from headline inflation.
+It argued that food prices were keeping the CPI-based inflation high and delaying interest rate cuts by the RBI.
+However, RBI Governor disagreed, emphasizing that
+food inflation, which constitutes about 46% of the CPI basket, cannot be ignored due to its significant impact on the public and overall inflation
+He acknowledged that while the MPC might overlook temporary food inflation spikes, it must remain vigilant against persistent food inflation to prevent spillovers into other areas of the economy.
+The governor mentioned that the National Statistical Office (NSO) is conducting a survey to reassess the CPI basket, which may influence future decisions on the weight of food, fuel, and core components in headline inflation.
+RBI Monetary Policy Meeting 2024.pdf
+( Size:  700.1 KB  )
+Click to View More
+Economics
+**********India waives clinical trials for several drugs approved in major western markets
+Why in news?
+The government has waived the requirement for clinical trials of certain categories of drugs in India if they are approved in the US, the UK, Japan, Australia, Canada and the European Union.
+What’s in today’s article?
+Clinical Trials in India
+About
+Clinical trials in India are crucial for evaluating the safety and efficacy of new drugs, medical devices, and treatment protocols.
+These trials are conducted in phases and are essential for the advancement of medical science and patient care.
+India, with its diverse population and vast pool of medical conditions, is an attractive destination for clinical trials, providing valuable data that can be generalized across various populations.
+Regulatory Framework
+The regulation of clinical trials in India is primarily governed by the Central Drugs Standard Control Organization (CDSCO) under the Ministry of Health and Family Welfare.
+Drugs and Cosmetics Act, 1940
+, and its subsequent amendments, along with the
+New Drugs and Clinical Trials Rules, 2019
+, provide the legal framework for the conduct of clinical trials in the country.
+Institutions Involved
+The apex regulatory body for drug approval and oversight of clinical trials.
+Indian Council of Medical Research (ICMR)
+Plays a significant role in setting ethical guidelines and standards for clinical trials.
+Drug Controller General of India (DCGI)
+The head of CDSCO, responsible for granting approvals for clinical trials and ensuring compliance with regulatory standards.
+Clinical Trial Registry of India (CTRI)
+CTRI was established in 2007 as a key initiative by the Indian Council of Medical Research (ICMR).
+It is a national online registry where all clinical trials conducted in India must be registered before the enrollment of the first participant.
+The primary objectives of CTRI include ensuring transparency, accountability, and public access to information about clinical trials conducted in the country.
+Ethical Oversight and Committees
+Ethics Committees (ECs)
+: Every institution conducting clinical trials must have an Ethics Committee to review the trial protocols, ensure participant safety, and protect their rights. The ECs must be registered with the CDSCO.
+Institutional Review Boards (IRBs)
+: Similar to ECs, these boards are established within institutions to review and monitor the ethical aspects of clinical trials.
+Independent Ethics Committees
+: For trials conducted outside the institutional setup, independent ethics committees ensure adherence to ethical standards.
+ICMR National Ethical Guidelines for Biomedical and Health Research Involving Human Participants
+These guidelines emphasize informed consent, confidentiality, and the protection of vulnerable populations.
+The New Drugs and Clinical Trials Rules, 2019
+, further strengthen ethical oversight by mandating compensation for trial-related injuries or deaths and ensuring faster approval processes while maintaining stringent safety protocols.
+About the news
+The Indian government has waived the requirement for local clinical trials for certain categories of drugs already approved in the US, UK, Japan, Australia, Canada, and the EU.
+The waiver applies to
+five categories
+orphan drugs for rare diseases,
+gene and cellular therapy products,
+new drugs used in pandemics,
+new drugs for special defense purposes, and
+new drugs with significant therapeutic advances.
+This move aims to expedite the availability of advanced medicines in India, particularly for conditions like cancer, rare diseases (e.g., Spinal Muscular Atrophy and Duchenne Muscular Dystrophy), and autoimmune disorders.
+Rule under which this was done
+Under Rule 101
+of the New Drugs and Clinical Trials Rules, 2019, the
+Drugs Controller General of India (DCGI) has the authority to grant this waiver
+Benefits
+This will align India with global markets, reduce delays in drug availability, lower costs for pharmaceutical companies, and decrease public procurement costs for the government.
+The waiver is expected to promote research and innovation in India by providing earlier access to advanced medicines and patient data, shifting the focus from volume to value in the pharmaceutical industry.
+Concerns
+India previously permitted waivers for local clinical trials.
+However, in 2012, a
+parliamentary standing committee expressed concerns in its 59th report about approving certain new drugs in the country without conducting local clinical trials
+In this context, public health advocates have called for strict scrutiny before every waiver.
+This is due to the fact that there may be certain medicines that require local clinical trials due to Indian conditions and genetic factors.
+India waives clinical trials for several drugs.pdf
+( Size:  1.7 MB  )
+Click to View More
+Social Issues
+**********Why Himalayan Towns Need a Different Kind of Development
+What’s in Today’s Article?
+Background (Context of the Article)
+Challenges in Himalayan Towns (Examples, Reasons, Suggestions, etc.)
+Background:
+The Indian Himalayan Region is spread across
+13 Indian States/Union Territories
+(namely Jammu and Kashmir, Ladakh, Uttarakhand, Himachal Pradesh, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Assam and West Bengal), stretching
+across 2500 km
+Nearly 50 million people reside in this region, which is characterized by a diverse demographic, and versatile economic, environmental, social and political systems.
+Towns have expanded, and more urban settlements are developing.
+However, Himalayan towns require a different definition of urbanisation.
+Challenges in Himalayan Towns:
+Himalayan towns, including key state capitals, face significant civic management challenges.
+For instance, cities such as Srinagar, Guwahati, Shillong, and Shimla, along with smaller towns, are grappling with issues related to sanitation, solid and liquid waste management, and water supply.
+The root cause lies in the reliance on planning models designed for plains, which are ill-suited for the unique geographical and environmental conditions of the Himalayas.
+Additionally, city governments are severely understaffed, operating at just 25% of their required human resource capacity.
+For example, in the Kashmir Valley, excluding the Srinagar Municipal Corporation, there are only 15 executive officers managing over 40 urban local bodies.
+Uncontrolled Urban Expansion:
+Urban expansion into peripheral areas is a growing concern. Cities like Srinagar and Guwahati are encroaching on village commons, leading to the depletion of open spaces, forest lands, and watersheds.
+In Srinagar, from 2000 to 2020, there was a 75.58% increase in built-up real estate, while water bodies shrank by nearly 25%.
+Moreover, almost 90% of liquid waste in these areas is discharged into water bodies without any treatment, exacerbating environmental degradation.
+Underlying Causes:
+The Indian Himalayan Region (IHR) is under immense pressure from rapid urbanisation and development, compounded by high-intensity tourism, unsustainable infrastructure practices, and irresponsible resource use, particularly land and water.
+These issues are further aggravated by climate change impacts such as changing precipitation patterns and rising temperatures, leading to water scarcity, deforestation, land degradation, biodiversity loss, and increased pollution, including plastic waste.
+These pressures threaten to disrupt the socio-ecological fabric of the Himalayas, with potentially devastating consequences for local communities and ecosystems.
+Tourism in the IHR has expanded significantly, with an average annual growth rate of 7.9% from 2013 to 2023.
+However, this growth has often resulted in the replacement of eco-friendly infrastructure with inappropriate and unsafe constructions, poorly designed roads, and inadequate waste management systems.
+This has led to the depletion of natural resources, damaging biodiversity and essential ecosystem services.
+For long-term sustainability, a shift towards ecotourism, which prioritises environmentally friendly practices, is urgently needed.
+Strategic Recommendations:
+Mapping and Vulnerability Assessment:
+Planning institutions in IHR cities must shift from traditional land-use principles to more comprehensive approaches that incorporate geological and hydrological vulnerabilities.
+Every town should be mapped to identify these risks, and planning processes should involve local communities in a bottom-up approach.
+Climate-Resilient Urban Design:
+Consultant-driven urban planning, which often fails to address the unique challenges of Himalayan towns, should be replaced with urban designs focused on climate resilience.
+Urban Financing for IHR:
+None of the cities in the IHR have the financial capacity to support their infrastructure needs.
+The Finance Commission should include a separate chapter on urban financing for the IHR, recognising the high costs of urban services and the absence of industrial corridors.
+Current intergovernmental transfers from the central government to urban local bodies account for only 0.5% of GDP; this should be increased to at least 1%.
+Focus on Sustainability:
+Himalayan towns must engage in broader discussions about sustainability, with a focus on creating urban futures through robust, eco-centric planning processes that actively involve public participation.
+Why Himalayan towns need a different kind of development.pdf
+( Size:  351.3 KB  )
+Click to View More
+Geography
+**********Bill to Curb Independent Online Content Creators in India
+Why in News?
+The Ministry of Information and Broadcasting (MIB) recently circulated the draft version of
+the Broadcasting Services (Regulation) Bill 2024
+among a handful of stakeholders from the industry.
+The MIB is learnt to have proposed
+expanded regulations for independent creators of news content
+on platforms such as YouTube, Instagram and X, which has raised concerns over the freedom of speech and expression.
+What’s in Today’s Article?
+Objective and Intent Behind the Draft Broadcasting Services (Regulation) Bill 2024
+Key Provisions of the Draft Bill that Undermine Creative Independence in India
+Issues with the Provisions of the Draft Broadcasting Services (Regulation) Bill 2024
+Way Ahead for Internet Regulation in India
+Objective and Intent Behind the Draft Broadcasting Services (Regulation) Bill 2024:
+Significance of the digital media:
+As seen in the recent elections, digital media can serve as a vital alternative forum for creators and commentators to
+scrutinise government policies and demand accountability
+It can enable dissenting voices
+that are ignored by mainstream media and aid in the formation of
+counter-narratives
+on key issues.
+Objectives of the bill:
+This Bill aims to extend the regulations currently applied to traditional television and radio to the internet, and is designed to consolidate existing guidelines and increase accountability among broadcasters.
+It covers
+all large influencers, content creators and political commentators, and tries to regulate speech.
+Intent of the bill:
+Hence, the Bill could significantly
+undermine creative independence and stymie online freedom of expression
+in India, both of which are vital for a well-functioning and vibrant democracy.
+Key Provisions of the Draft Bill that Undermine Creative Independence in India:
+Reimagines the term “broadcaster”:
+To include
+digital news broadcasters
+, defining them as anyone who “systematically” broadcasts news and current affairs online, including on social media platforms via text, video or audio.
+This means that
+on YouTube, Twitter, blogging portals or podcasts discussing current affairs and socio-political issues will all get covered under the Bill.
+Provisions for the digital news broadcasters:
+These broadcasters with a certain threshold of subscribers/viewers
+must notify the government, conform to a Programme Code, set up a grievance redressal mechanism
+, and adhere to a three-tier regulatory structure.
+For content other than current affairs
+(for example, a programme providing a historical overview), broadcasters are also required to get
+pre-certification by a Content Evaluation Committee
+Penalties for the digital news broadcasters:
+The Bill empowers the users to raise complaints against Programme Code violations, and gives the central government the power to -
+Impose penalties,
+Direct broadcasters to go off-air, and
+Even prohibit transmission in the interest of sovereignty, security, public order, decency, morality, or foreign relations.
+Extra-territorial application:
+The current draft potentially brings global content creators, news publishers, and commentators of current affairs within the scope of the Bill.
+Threatening safe harbour:
+The Bill imposes new obligations on social media intermediaries, including compliance with government demands for information about broadcasters on their platforms.
+Issues with the Provisions of the Draft Broadcasting Services (Regulation) Bill 2024:
+Ignores fundamental differences between TV and the internet
+Unlike TV where linear programming is disseminated one to many, content on the internet is
+demand-based and one-to-one
+Applying the same regulations as TV,
+may significantly increase costs
+(while reducing speed to market) for smaller-scale content creators and independent journalists
+This may lead to
+serious censorship
+and can create a chilling effect on free speech.
+Implementation challenges:
+The extra-territorial application of the provisions are difficult to implement given the global, decentralised nature of the web.
+Add to the regulatory difficulties by introducing parallel legislation:
+This is because the IT Act 2000 and the accompanying IT Rules already require social media intermediaries to
+Establish grievance redressal mechanisms,
+Comply with government orders, and
+Operate a notice-and-takedown regime for flagged content.
+Way Ahead for Internet Regulation in India:
+The constitutional challenges to the IT Rules 2021, which attempted to create government oversight over media, have led to these Rules being stayed by the Courts.
+Therefore,
+other measures (such as the IT Act 2000) need to be leveraged
+if the government is worried about fake news or harmful/misleading content.
+The draft Bill
+requires thorough deliberation and discussion
+with a broad and diverse range of stakeholders before it is made into law.
+newspaper.pdf
+( Size:  777.2 KB  )
+Click to View More
+Polity & Governance
+**********

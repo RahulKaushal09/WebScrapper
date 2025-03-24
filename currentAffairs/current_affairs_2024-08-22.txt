@@ -1,0 +1,711 @@
+Orangutans
+Recently, Malaysia has initiated "Orangutan Diplomacy" to address sustainability concerns related to palm oil-linked deforestation affecting orangutans, in response to backlash.
+About Orangutans:
+Orangutans, widely recognized for their distinctive red fur, are considered to be the largest tree-dwelling mammals. They are primarily arboreal, spending over 90% of their waking hours in trees.
+Orangutans are highly intelligent and share
+4% of their genes with humans
+, making their conservation even more significant.
+Distribution:
+They inhabit the Indonesian island of
+Sumatra
+and the
+Malaysian and Indonesian parts of Borneo.
+Their habitat spans from lowland peat swamp forests to high-altitude mountainous forests, reaching nearly
+6 kilometres
+above sea level.
+Species:
+There are three species of orangutans:
+Bornean, Sumatran,
+Tapanuli.
+Characteristics:
+Size:
+Adult males are generally about twice the size of females, standing up to
+3 meters tall
+and weighing up to
+130 kg
+in the wild.
+Appearance:
+They are covered in long, sparse orange or reddish hair. They possess arms significantly longer than their legs and have grasping hands and feet with long, curved fingers and toes. Mature males develop prominent cheek pads, a unique feature among primates.
+Lifespan:
+Orangutans can live up to 50 years in the wild.
+Diet:
+They are primarily daytime feeders with a diet mainly consisting of fruit and leaves such as lychees and figs. They also consume nuts, bark, insects, and occasionally bird eggs.
+Social structure:
+Orangutans are known for their semi-solitary behaviour. Though they are the most solitary among great apes, they do show social tolerance during periods of high fruit availability, coming together in groups known as parties.
+Conservation Status:
+All three species of orangutans are listed as
+‘Critically Endangered’
+on the IUCN Red List.
+Click to View More
+Source :
+Environment
+**********Lunar Magma Ocean
+The recent findings from India's Chandrayaan-3 mission have sparked renewed interest in the Lunar Magma Ocean (LMO) theory, a crucial concept in planetary science that explains the moon's early formation.
+Chandrayaan-3's discovery:
+Chandrayaan-3's Pragyan rover identified a rock type known as
+ferroan anorthosite
+in the lunar south pole region.
+This discovery is significant as it aligns with earlier observations made by the
+Apollo and Luna missions
+, confirming the theory that these rocks are remnants of an ancient magma ocean that once covered the moon.
+What is the Lunar Magma Ocean (LMO)?
+The Lunar Magma Ocean is a
+hypothesized early stage in the moon's history
+when its surface was entirely molten. This ocean of magma is believed to have formed following a catastrophic impact between the early Earth and a Mars-sized body, leading to the formation of the moon.
+Ferroan Anorthosite:
+This rock type is crucial evidence of the LMO. As the magma began to cool and solidify, different minerals crystallized at various depths. Ferroan anorthosite,
+rich in calcium and aluminium
+, floated to the surface, forming the moon's initial crust.
+Importance of the LMO:
+LMO helps scientists
+decipher the moon's geologic history,
+including its differentiation process, where heavier materials sank, and lighter materials floated, leading to the layered structure we observe today.
+Scientific implications:
+The presence of ferroan anorthosite supports the theory that the
+moon’s early crust was formed from a global magma ocean
+This discovery also suggests that the moon has not experienced significant volcanic activity or plate tectonics, unlike Earth, preserving its ancient surface.
+General Relativity and Time Dilation:
+The discovery also ties into broader concepts like Einstein's theory of general relativity, which explains how the moon’s lower gravity causes time to tick slightly faster than on Earth.
+Key points:
+Impact hypothesis:
+The theory that the moon was formed from debris following a collision between the early Earth and a rogue planetary body.
+South Pole-Aitken basin:
+The largest impact crater in the solar system, near which Chandrayaan-3's Pragyan rover conducted its studies.
+Alpha Particle X-ray Spectrometer (APXS):
+The instrument used by Pragyan to identify the chemical composition of lunar soil.
+Click to View More
+Source :
+Chandrayaan’s Pragyan rover offers evidence of magma ocean on young moon
+Science & Tech
+**********Atomic clocks- Lunar time standard
+Recently, an international astronomical group has called for a lunar time standard to facilitate future missions, addressing time discrepancies on the Moon due to its unique gravitational effects.
+About Atomic clocks
+Atomic clocks are the most precise timekeeping devices, critical for applications requiring extreme accuracy, such as
+GPS systems, telecommunications, and scientific research.
+These clocks measure time using the resonant frequencies of atoms, such as
+cesium-133
+In atomic time, one second is defined by the time it takes for a cesium atom to vibrate
+9,192,631,770 times.
+The stability and accuracy of atomic vibrations make atomic clocks the most reliable devices for measuring time.
+How Does an Atomic Clock Work?
+Atomic clocks operate using a type of atom known as the
+, which vibrates at a highly stable and precise frequency. The process begins in a
+microwave cavity
+, a chamber filled with cesium vapour.
+microwave signal
+is introduced into this cavity, causing the cesium atoms to vibrate and emit radiation at a specific frequency.
+This emitted frequency is then detected and compared to a standard frequency.
+Any differences between the two frequencies are used to adjust the clock’s timekeeping, ensuring continuous precision.
+Types of Atomic Clocks
+There are two primary types of atomic clocks:
+Cesium atomic clocks:
+The most common type, used to define the international time standard,
+Coordinated Universal Time (UTC)
+Hydrogen maser atomic clocks:
+Even more accurate than cesium clocks, these are primarily used in scientific research due to their exceptional precision.
+Why is a Lunar Time Standard Needed?
+A lunar time standard is essential for ensuring
+precise timekeeping for lunar spacecraft and satellites,
+which require extreme accuracy for their missions.
+This standard would synchronise communication between
+satellites, astronauts, lunar bases, and Earth
+, thereby facilitating coordinated operations, reliable transactions, and effective management of lunar commerce.
+Due to the Moon's lower gravity, time on the Moon ticks slightly faster compared to Earth. Specifically, an Earth-based clock would lose approximately
+7 microseconds per Earth day
+when observed from the Moon, with additional periodic variations.
+This discrepancy can cause significant challenges in critical situations, such as
+docking spacecraft on the Moon,
+transferring data at precise times,
+and maintaining reliable communication and navigation.
+How Earth’s Time Standard Works
+The timekeeping system on Earth is based on Coordinated Universal Time (UTC), an internationally agreed-upon standard.
+Universal Time Coordinated (UTC)
+: It is a global time standard ensuring consistency. It relies on International Atomic Time (TAI), maintained by atomic clocks worldwide, to provide precise and uniform timekeeping.
+UTC is maintained by the International Bureau of Weights and Measures in Paris, France, and is derived from a weighted average of over 400 atomic clocks located around the world.
+Time zones:
+To determine local time, countries adjust UTC by adding or subtracting hours based on their distance from the
+0-degree longitude meridian
+, also known as the Greenwich Meridian.
+Countries west of the Greenwich Meridian subtract from UTC, while those to the east add to it.
+Click to View More
+Source :
+Why has an international astronomical group joined calls for creating time standard for the Moon? | Explained News - The Indian Express
+Science & Tech
+**********Genome Editing- ISDra2TnpB
+A recent breakthrough in plant genome editing comes from a collaborative effort between the ICAR-National Rice Research Institute in Cuttack, India, and Pennsylvania State University, USA.
+About Genome editing:
+Genome editing is a powerful tool that allows scientists to make precise changes to the
+Deoxy-Ribonucleic Acid (DNA)
+sequence of living organisms.
+This technology has vast applications in agriculture, where it can be used to enhance
+crop yields,
+improve
+resistance to pests and diseases
+, and introduce desirable traits like
+drought tolerance
+The most commonly known genome-editing tool is
+CRISPR
+, which has revolutionised genetic research due to its
+precision
+efficiency
+CRISPR and its limitations in plant genome editing:
+CRISPR technology, particularly using proteins like
+Cas9
+Cas12
+, has been widely used in genome editing.
+These proteins work by cutting DNA at specific locations, allowing scientists to remove, add, or replace genetic material.
+However, a major limitation in plant genome editing has been the size of these proteins, which are often too large to be efficiently accommodated by plant cells.
+This has created a need for smaller, more efficient genome-editing tools that can work effectively in plant systems.
+The ISDra2TnpB genome editor:
+Researchers have developed a new genome-editing tool called ISDra2TnpB, derived from the bacteria
+Deinococcus radiodurans.
+This tool is significantly smaller than the traditional CRISPR-associated proteins like Cas9 and Cas12, making it more suitable for use in plant cells.
+Key Features of ISDra2TnpB:
+Size advantage:
+ISDra2TnpB is less than half the size of Cas9 and Cas12, allowing for more efficient delivery and function within plant cells.
+High editing efficiency:
+The tool has demonstrated a 33.58% editing efficiency in average plant genomes, making it a promising option for various crops.
+Versatility:
+The researchers showed that ISDra2TnpB is effective in editing both monocot plants (like rice) and dicot plants (like Arabidopsis).
+Base editing capabilities:
+The team further enhanced the tool by creating a hybrid base editor that can swap single nucleotides in the DNA sequence, opening up new possibilities for precise genetic modifications.
+Potential applications in agriculture:
+The development of ISDra2TnpB has significant implications for agriculture, particularly in improving crop resilience and productivity. For example, this tool could be used to:
+Reduce crop susceptibility to pests:
+By editing genes that make crops vulnerable to pests, ISDra2TnpB could help develop more pest-resistant varieties.
+Enhance nutritional value:
+The tool could be used to remove anti-nutrient factors from crops, improving their nutritional content.
+Increase crop resilience to environmental stress:
+ISDra2TnpB could help create shorter rice crops that are less prone to damage during cyclones, a common problem in cyclone-prone regions.
+Click to View More
+Source :
+ICAR, Penn State team makes tool small enough to edit plant genomes
+Science & Tech
+**********What is a Waterspout?
+Recently, a luxury yacht sank off Sicily, Italy, during a violent storm, resulting in one confirmed death and six individuals missing, possibly due to a waterspout.
+About Waterspouts:
+Waterspouts are significant atmospheric phenomena characterised by
+rotating columns of air
+that form over water bodies. These tornado-like structures typically develop overseas or in large lakes, presenting a spectacular display of nature's power.
+It is a
+weaker version of a tornado
+, typically lasting
+5-10 minutes.
+Average diameter is around
+165 feet (50 meters).
+Wind speeds can reach up to
+100 km/h (60 mph).
+Formation of Waterspouts:
+The formation of a waterspout varies depending on its type:
+Fair-weather waterspouts
+occur when cool air flows over open water, pulling water upwards and creating the waterspout.
+Tornadic waterspouts
+are more likely to form during thunderstorms. Some may even start as tornadoes on land and then move over water. These waterspouts typically develop in the sky and extend downward.
+Waterspouts evolve through a distinct
+five-stage process:
+Dark spot
+: A light-coloured disk becomes visible on the water’s surface, surrounded by a darker area with blurred edges.
+Spiral pattern
+: Bands of light and dark colours spiral outward from the dark spot.
+Spray ring
+: The dark spot creates a swirling mass of sea spray, resembling the eye of a hurricane.
+Mature vortex
+: The spray ring forms a spinning funnel that stretches from the water’s surface to the clouds above.
+Decay
+: As warm air disrupts the vortex, the waterspout weakens and dissipates.
+The key to waterspout formation is the
+presence of cold air cycling over warm water
+. When these conditions align, a waterspout can develop.
+While most common in
+tropical and subtropical regions,
+waterspouts can occur in various parts of the world, including
+Europe, the Middle East, and even Antarctica
+Types of Waterspouts:
+Tornadic Waterspouts:
+Essentially tornadoes over water.
+Associated with severe thunderstorms.
+Can be accompanied by dangerous conditions like high winds, large hail, and frequent lightning.
+Fair Weather Waterspouts:
+Form under calmer conditions, often along the base of developing cumulus clouds.
+Generally not linked to thunderstorms.
+Develop from the water's surface upward.
+Typically move very little due to light wind conditions.
+Snowspouts:
+These are exceptionally rare waterspouts that develop under the base of a snow squall.
+They are occasionally known as snow devils and are typically weak, although, in certain instances, they can reach the strength of an
+EF1 tornado.
+Recent research from the University of Barcelona suggests a correlation between warmer sea surface temperatures and increased waterspout formation.
+For instance, the sea surface near Sicily has been observed to be
+2.5 to 3 degrees
+Celsius warmer than the
+1990-2020 average
+, potentially contributing
+Click to View More
+Source :
+What is a waterspout, which may have sunk the luxury yacht off Sicily?
+Geography
+**********Prime Minister Employment Generation Programme (PMEGP)
+KVIC and Department of Posts collaborate to boost PMEGP Implementation across India.
+About PMEGP:
+PMEGP is a
+central sector scheme administered
+by the
+Ministry of Micro, Small and Medium Enterprises.
+Objectives:
+To generate employment opportunities in rural as well as urban areas of the country through setting up of new self-employment ventures/projects/micro enterprises.
+To bring together widely dispersed traditional artisans, rural and urban unemployed youth and give them self-employment opportunities to the extent possible, at their place.
+To provide continuous and sustainable employment to a large segment of traditional and prospective artisans and rural and urban unemployed youth in the country, so as to help arrest migration of rural youth to urban areas.
+To increase the wage-earning capacity of workers and artisans and contribute to increase in the growth rate of rural and urban employment.
+Eligibility:
+Individuals
+above 18 years of age.
+There will be no income ceiling for assistance for setting up projects under PMEGP.
+For setting up of projects costing above
+10 lakh in the Manufacturing sector
+and above
+Rs. 5 lakh in the Business /Service sector
+, the beneficiaries should possess at least VIII standard pass educational qualification.
+Implementing Agency
+: Khadi and Village Industries Commission (KVIC)
+About Khadi and Village Industries Commission (KVIC)
+It is a
+statutory body
+established under the
+Khadi and Village Industries Commission Act of 1956.
+It is an apex organization under the
+Ministry of Micro, Small, and Medium Enterprises,
+with regard to khadi and village industries within India.
+The KVIC is charged with the
+planning, promotion, organisation and implementation of programmes for the development of Khadi and other village industries in rural areas
+in coordination with other agencies engaged in rural development wherever necessary.
+Click to View More
+Source :
+KVIC & DoP sign MoU for physical verification of PMEGP
+Polity & Governance
+**********Antihyper Hydrogen-4
+The newly found antiparticle, called antihyper hydrogen-4, could have a potential imbalance with its matter counterpart that may help scientists understand how our universe came to be.
+Why in the News?
+Antihyper Hydrogen-4 is made up of
+an antiproton, two antineutrons and one antihyperon
+(a baryon that contains a strange quark).
+Physicists found traces of this antimatter among particle tracks from 6 billion collisions at the
+Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory in New York.
+Key findings:
+Both hyperhydrogen-4 and its antimatter counterpart antihyper hydrogen-4
+seem to wink out of existence very quickly.
+The physicists
+didn't find a significant difference between their lifetimes.
+The scientists' next step will be to compare the masses of the antiparticles and their particle opposites, which they hope could reveal some clues as to how our matter-heavy universe came to be.
+Antimatter: Except for having
+opposite electric charges, antimatter has the same properties as matter, same mass, same lifetime before decaying and same interactions.
+What is Antiparticle?
+It is a subatomic particle that
+has the same mass as another particle
+equal but opposite values of some other properties
+Example-
+The antiparticle of the electron is the positron.
+Click to View More
+Source :
+Heaviest antimatter particle ever discovered could hold secrets to our universe's origins
+Science & Tech
+**********POCSO Act
+The Supreme Court criticized the Calcutta High Court for observing in a judgment that POCSO Act must be amended to decriminalise consensual sexual acts involving adolescents above sixteen years.
+About POCSO Act:
+The Protection of Children from Sexual Offenses (POCSO) Act, 2012 was enacted by Govt. of India to
+safeguard children from sexual abuse and sexual offences.
+The Act clearly defines a
+child as any person below the age of 18 years.
+The Act was further
+reviewed and amended in 2019
+to introduce more stringent punishment including the
+death penalty for committing sexual crimes on children
+The Government of India has also
+notified the POCSO Rules, 2020.
+Key provisions:
+Gender-neutral legislation
+: The Act defines a child as "any person" under the age of 18.
+Non-reporting is a crime:
+Any person in charge of an institution (excluding children) who fails to report the commission of a sexual offence involving a subordinate faces punishment.
+No time limit for reporting abuse
+: A victim may report an offence at any time, even years after the abuse has occurred.
+Keeping victim’s identity confidential
+: The Act forbids the disclosure of the victim's identity in any form of media unless authorised by the special courts established by the Act.
+Click to View More
+Source :
+How Can POCSO Act Offence Be Termed Romantic?'
+Polity & Governance
+**********Similipal Tiger Reserve
+Similipal Tiger Reserve authorities have decided to grow bamboo grass in the National park.
+About Similipal Tiger Reserve:
+Location:
+It is located within the
+Mayurbhanj District, in the Northern-most part of Odisha.
+spread over 2750 sq km
+and has some beautiful
+waterfalls like Joranda and Barehipani.
+History and current status:
+It was formally designated a
+tiger reserve under Project Tiger in May 1973.
+The Government of Orissa declared Similipal as a wildlife sanctuary in 1979.
+Later in 1980, Government of Orissa proposed 303 sq. km of the sanctuary as National Park.
+UNESCO added this National Park to its list of Biosphere Reserves in May 2009.
+This tiger reserve also
+comes under Mayurbhanj Elephant Reserve that includes the adjacent Hadgarh and Kuldiha Wildlife Sanctuaries.
+It is surrounded by high plateaus and hills, the h
+ighest peak being the twin peaks of Khairiburu and Meghashini
+(1515m above mean sea level).
+The terrain is mostly undulating and hilly, interspersed with open grasslands and wooded areas.
+Vegetation
+: It is a mix of different forest types and habitats,
+with Northern tropical moist deciduous dominating some semi-evergreen patches.
+Fauna:
+It is known for the
+tiger, elephant and hill mynah.
+It holds the
+highest tiger population in the state of Orissa.
+55 species of mammals, 304 species of birds, 60 species of reptiles, 21 species of frogs, 38 species of fish and 164 species of butterflies have been recorded from the reserve.
+An astounding 1078 species of plants, including 94 species of orchids are found here.
+Click to View More
+Source :
+Similipal Tiger Reserve to plant bamboo grass to aid elephants
+Environment
+**********Dhangar Community
+A large group of Dhangars recently marched to the office of the sub divisional officer in Khamgaon of Maharashtra’s Buldhana district, demanding a “grazing corridor” for their sheep and goats.
+About Dhangar Community:
+The Dhangars are a
+community of shepherds
+with populations in several states. They live in
+Gujrat, karnataka and Andhra Pradesh besides Maharashtra
+The Dhangar community is on the
+Vimukta Jati and Nomadic Tribes (VJNT) list in Maharashtra.
+live a largely isolated life
+and wander
+mainly in forests, hills and mountains.
+Households and Population:
+Dhangar households are
+typically small, close-knit units, where family plays a central role.
+The community is estimated to have a population of
+around 1 crore
+, which is about 9% of Maharashtra's total population.
+Clusters and Sub-Castes:
+Within the Dhangar tribe, there are
+around 20 sub-castes and cluster
+s, each with its own distinct customs and traditions.
+Occupation:
+They are relying on
+herding practices as a primary means of livelihood.
+They practice both
+nomadic pastoral and semi-nomadic and agrarian lifestyles in rural areas.
+Seasonal Migration
+: With the end of the bajra harvesting season
+in October,
+the Dhangar tribe starts
+their annual
+migration in search of greener pastures for their cattle.
+Culture:
+They practice a variety of customs and rituals in this journey, like-the
+Worship of their ancestors.
+The tradition of
+singing songs, especially during the night
+, is a significant aspect of Dhangar culture and serves multiple purposes.
+They use these songs called
+sumbaran- an oral tradition of Dhangars
+Click to View More
+Source :
+Who are the Dhangars of Maharashtra?
+Polity & Governance
+**********Were 8 crore New Jobs created in Three Years?
+What’s in Today’s Article?
+Background (Context of the Article)
+Methodological Concerns (Experts’ Opinion, Shifts in Employment Structure, Comparison, etc.)
+Background:
+PM Modi recently claimed that India created eight crore new jobs over the last three to four years, based on data from the India-KLEMS database, hosted by the Reserve Bank of India (RBI).
+According to this database, the
+number of workers in India rose from 56.6 crore in 2020-21 to 64.3 crore in 2023-24
+, reflecting a net increase of 7.8 crore workers.
+This
+claim was supported by a report from the State Bank of India (SBI)
+, which validated the employment figures from the India-KLEMS database with data from the National Sample Survey Office’s (NSSO) Annual Survey of Unincorporated Sector Enterprises (ASUSE).
+Methodological Concerns:
+Experts and analysts have raised concerns about the methodology used to arrive at these employment figures.
+The India-KLEMS project, which started as an academic exercise funded by the RBI in 2009, was not initially designed to produce employment data.
+KLEMS stands for [
+Capital
+(K),
+Labour
+(L),
+Energy
+(E),
+Material
+(M) and
+Services
+(S)].
+The database is part of a research project supported by the Reserve Bank to analyse productivity performance in the Indian economy at disaggregated industry level.
+Instead, it was aimed at measuring industry-level total factor productivity (TFP).
+The employment data in India-KLEMS are derived from various official sources such as the Central Statistics Office, Census of India, and the Periodic Labour Force Surveys (PLFS), and not directly collected by the RBI.
+Population Estimates and Worker Population Ratio (WPR):
+The India-KLEMS database calculates the
+number of workers by multiplying the Worker Population Ratio (WPR) with the total population
+However, due to the absence of official population figures post-2011, the database relied on population projections from different sources, including the Economic Survey (ES) and the Ministry of Health & Family Welfare (MoHFW).
+This has led to inconsistencies and possible overestimations in the workforce figures.
+Shifts in Employment Structure:
+According to PLFS data,
+India’s WPR rose from 34.7% in 2017-18 to 41.1% in 2022-23
+, with a significant increase in the rural female WPR.
+However, this rise was largely due to an increase in unpaid self-employment among rural women, particularly in agriculture.
+The data suggests that there was little meaningful and paid employment generated during this period, contrary to the claims made using the India-KLEMS figures.
+Comparison with ASUSE Data:
+The SBI report’s claim that the number of workers in India-KLEMS and ASUSE 2022-23 match has also been questioned.
+The ASUSE only covers unincorporated non-agricultural establishments and explicitly excludes certain sectors.
+The SBI report, however, estimated the total number of workers by adding data from other sectors not covered in ASUSE, leading to an inflated estimate of 56.8 crore workers.
+Conclusion:
+The data from India-KLEMS, which was designed for different purposes and uses questionable methods, is being used to support a political narrative on employment generation.
+The real issue lies in the
+absence of accurate population figures due to the delayed Census
+, leading to reliance on erroneous projections and politicized economic debates.
+The situation calls for a more reasoned and accurate approach to studying employment trends in India.
+Were 8 crore new jobs created in three years.pdf
+( Size:  243.2 KB  )
+Click to View More
+Economics
+**********Discussion on E-commerce Sector in India
+Why in News?
+Aiming at the largest online retailer in the world - Amazon, the Union Minister of Commerce and Industry voiced concerns about the rapid expansion of the e-commerce sector in India.
+What’s in Today’s Article?
+What is E-commerce?
+Key Factors Promoting the Growth of E-Commerce in India
+Government Initiatives to Promote E-commerce in India
+Concerns Regarding E-Commerce Sector in India
+Meaning:
+E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet.
+Advantages:
+No geographical barrier:
+Delivery of products is taking place in the remotest part of the country, which has brought suppliers and customers closer together - boosting output and creating ideal competition.
+Lower cost:
+Due to decrease in miscellaneous expenses and increase in economy of scale, cost of the products also gets reduced.
+Personalization and product recommendation:
+Customers can learn more about the products thanks to the feedback and remarks system.
+For business:
+Advantages include an expanded customer base, increased sales, extended business reach, and the convenience of recurring payments and instant transactions.
+Disadvantages:
+Security and privacy issues:
+The general acceptance of e-commerce buying habits is hampered by the lack of strong encryption techniques to protect identification, personal data, and financial transactions.
+Limited customer service:
+Compared to e-commerce websites, physical storefronts make it easier to resolve concerns and determine whether a product is suitable.
+Regulatory concerns:
+The lack of clarity regarding the laws governing online sales creates mistrust between consumers and sellers.
+Limited understanding of product suitability:
+Buying things online eliminates the opportunity to physically handle them. Instead, one must rely exclusively on digital photos.
+There is lesser accountability on part of e-commerce companies:
+The product quality may or may not meet the expectations of the customers.
+Key Factors Promoting the Growth of E-Commerce in India:
+Price - A trump card for Indian e-commerce players:
+As most of the products that are available online are cheaper than the same products available offline.
+Payment options:
+The Government of India’s
+Digital India
+initiative has been a key factor in enhancing internet penetration across the country.
+With the advent of digital wallets and
+UPI
+(Unified Payments Interface), the payment options have grown over the years.
+However, the
+Cash on Delivery (COD)
+is prevalent in India due to a large amount of cash being circulated in the economy.
+Domestic consumption:
+India’s growth story driven by domestic demand and the high consumption of the aspirational Indian consumer has ensured the growth of e-commerce.
+Language:
+Most e-commerce portals in India are in English and that has played a big role in the growth of the industry, as India has the largest English-speaking middle-class population.
+Government Initiatives to Promote E-commerce in India:
+Since 2014, initiatives like
+Digital India, Make in India, Start-up India, Skill India, and Innovation Fund
+have supported the growth of E-commerce in the country.
+Government e-Marketplace (GeM):
+It is an online platform for public procurement in India that was launched in 2016 by the Ministry of Commerce and Industry.
+Its objective is to create an inclusive, efficient, and transparent platform for the buyers and sellers to carry out procurement activities in a fair and competitive manner.
+National Retail Policy:
+In order to administer offline retail and e-commerce in an integral manner, the government had identified five areas in its proposed national retail policy -
+Ease of doing business,
+Rationalisation of the licence process,
+Digitisation of retail,
+Focus on reforms and
+An open network for digital commerce (ONDC).
+ONDC:
+It has been built to promote open networks for all aspects of the exchange of goods and services over digital or electronic networks.
+It uses open specifications and open network protocols independent of any specific platform.
+The Consumer Protection (e-commerce) Rules 2020:
+It directed e-commerce companies to display the country of origin alongside the product listings.
+In addition, the companies will also have to reveal parameters that go behind determining product listings on their platforms.
+5G:
+Heavy investment made by the Government in rolling out a fibre network for 5G will help boost E-commerce in India.
+Concerns Regarding E-Commerce Sector in India:
+According to a Pahle India Foundation’s report ‘Net Impact of E-Commerce on Employment and Consumer Welfare in India’,
+E-commerce is growing at an annual rate of
+27%
+, meaning that e-commerce
+will double every three years.
+Online vendors have
+generated 15.8 million jobs
+in India (including 3.5 million for women), with about 1.76 million retail enterprises participating in e-commerce activity.
+The Union Minister of Commerce and Industry (at the launch of the report) claimed that this growth of the e-commerce sector in India would be the consequence of "
+predatory pricing
+".
+Predatory pricing is a practice
+(generally by a new player in the market) of keeping prices superficially low to undercut competition and gain market share.
+He singled out
+for indulging in predatory pricing and selling products directly to consumers even though it isn’t allowed to do so.
+According to the minister, this might cause "
+social disruption
+" because it would
+negatively affect an estimated 100 million small retailers nationwide.
+newspaper.pdf
+( Size:  216.0 KB  )
+Click to View More
+Economics
+**********Centre debates taking caste count during Census
+Why in news?
+The Union government has not yet decided on conducting the next Census but is actively discussing the possibility of including caste enumeration. The demand for a caste Census has delayed the process, as any inaccuracies could complicate the exercise.
+What’s in today’s article?
+Census in India
+Caste Census
+About
+Population Census provides basic statistics on state of human resources, demography, culture and economic structure at local, regional and national level.
+Beginning in the year 1872, when the first census was conducted non-synchronously, the census enumeration exercise in India is carried out in every 10 years.
+The first synchronous census was taken under British rule in 1881, by W.C. Plowden, Census Commissioner of India.
+The responsibility of conducting the decadal census rests with the Office of the
+Registrar General and Census Commissioner of India
+, Ministry of Home Affairs.
+Legal/Constitutional basis of Census
+Population census is listed in
+Union List (entry 69)
+of Seventh Schedule in Indian Constitution.
+Census is conducted under the provisions of the
+Census Act, 1948
+Process of census enumeration
+The Census Operations in India have been carried out in two phases:
+House-listing and Housing Census and
+Population Enumeration.
+The Population Enumeration follows the Housing Census within a gap of six to eight months.
+In Population Enumeration phase each person is enumerated and her/his individual particulars like Age, Marital status, Religion, mother tongue etc.
+Some of the features of upcoming census
+The upcoming decadal Census of India will be the
+16th in series and 8th after independence
+India’s Census enumeration was scheduled to take place in 2021.
+It was postponed due to the outbreak of Covid-19 in 2020.
+In the history of Indian Census, for the first time, the Census data will be collected digitally i.e., on Mobile App in the ensuing census
+Also, self-enumeration facility will be provided for the first time in the forthcoming Census.
+Caste census
+Caste census means inclusion of caste-wise tabulation of India's population in the Census exercise.
+The debate over conducting a caste census has become more complex than anticipated.
+Opponents view it as a politically motivated move rather than one rooted in justice, while proponents see it as an opportunity to transform state authority into an ethical entity.
+Background
+Caste was enumerated in British India Censuses (1881-1931).
+Post-Independence,
+the 1951 Census excluded caste enumeration except for SCs and STs, who continue to be counted
+Caste data were collected for the 2011 census but the data was never made public.
+In 1961, the GOI recommended states conduct their own surveys for state-specific OBC lists, as there were no central reservations for OBCs at that time.
+Though Census is a Union subject,
+the Collection of Statistics Act, 2008
+allows
+States and local bodies to gather necessary data, as seen in Karnataka (2015) and Bihar (2023)
+Demand for a caste census in India
+The demand for a caste census in India extends beyond political motives, driven by the need to support the world's largest caste-based affirmative action program.
+Caste identities play a crucial role in determining reservations in educational institutions and government jobs.
+Scheduled Castes (SCs) and Scheduled Tribes (STs) have quotas based on their population percentages, while Other Backward Classes (OBCs) have a 27% reservation, determined by the BP Mandal Commission based on caste.
+Need for caste Census
+The necessity of a caste census in India arises from the
+outdated reliance on caste estimations from 1931 for current welfare policy formulation
+, which is problematic for those affected by these policies.
+A new caste census would provide updated data for more accurate policymaking.
+Previous estimates by the NSSO and UDISE show significant OBC representation in primary education, but current data on caste-based privileges is lacking.
+The Supreme Court's Indra Sawhney decision (1992) mandated regular data collection to prevent privileged castes from exploiting quota benefits.
+Proponents of the caste census, including leaders like Bihar's Nitish Kumar and Tamil Nadu's MK Stalin, argue that it will enable more precise social programs and address the imbalance in job and education opportunities among castes.
+It will provide reliable data on educational and economic disparities, ensuring that opportunities are fairly distributed.
+Argument against caste census
+Critics say it could deepen social divisions.
+Documenting caste data could deepen existing prejudices and entrench caste-based discrimination, rather than reducing it.
+Many opponents claim that that it is an administrative nightmare.
+The 2011 SECC, which identified over 46 lakh castes and sub-castes, exemplifies the difficulty in accurately categorizing such a diverse population.
+It might lead to unreliable data that might complicate policymaking rather than clarify it.
+Opponents also say that it would fuel demands for increased reservations.
+Political parties could exploit caste census results to mobilize vote banks, potentially leading to increased caste-based polarization and conflicts.
+Analysts argue that a caste census could detract from more pressing issues like poverty, education, and healthcare, which require attention across all communities, regardless of caste.
+By focusing on caste, the government might overlook broader socio-economic inequalities that affect people from all backgrounds.
+Past Attempts to count the caste
+Centre debates taking caste count during Census.pdf
+( Size:  1.0 MB  )
+Click to View More
+Social Issues
+**********PM Modi’s historic visit to Ukraine and Poland
+Why in news?
+Prime Minister Narendra Modi has arrived in Warsaw for the first leg of his two-nation visit to Poland and Ukraine. After visiting Poland on August 21, he will head to Ukraine on August 23.
+This also marks the first-ever visit by an Indian PM to Poland in 45 years.
+What’s in today’s article?
+Significance of PM Modi’s visit to Ukraine and Poland
+India – Poland bilateral relation
+Key highlights of the PM Modi’s visit to Poland
+Efforts to raise Europe’s profile in India’s foreign policy
+PM Modi's visit to Poland and Ukraine marks
+India's growing focus on Central Europe in its foreign policy, reflecting an effort to engage more deeply with Europe
+This visit addresses a key gap in India's European policy as
+Central Europe becomes a focal point in global geopolitics
+, particularly due to the ongoing conflict in Ukraine.
+Modi's visit, the first by an Indian Prime Minister to Poland since 1979 and to Ukraine since its independence, signals India's active interest in the region during a time of significant geopolitical shifts.
+Experts believe this visit is about setting the terms of a sustainable long-term engagement with Poland and Ukraine, and more broadly Central Europe.
+Poland and Ukraine are bound to emerge as important long-term partners
+The war in Ukraine stems from the collapse of post-Cold War agreements between Russia and the West in Central and Eastern Europe.
+The outcome of this war will shape a new European order, with Poland and Ukraine playing significant roles.
+As India strengthens its ties with Europe, Poland and Ukraine are poised to become key long-term partners.
+India's engagement with these nations, shortly after the Prime Minister's visit to Russia, highlights Delhi's belief that its relationships with Moscow and Central Europe are not mutually exclusive.
+Diversification of India’s relation in Europe
+India’s engagement was narrowly based on the relations with Europe’s big four — Russia, Germany, France, and Britain.
+Over the last decade, India has sought to widen this outreach to Europe.
+During his first two terms as PM, Modi travelled 27 times to Europe and received 37 European heads of state and government.
+In his first term as foreign minister, S Jaishankar travelled to Europe 29 times and received 36 of his European counterparts in Delhi.
+India has begun
+collective diplomacy with many sub-regions of Europe
+, including the Nordics and Baltics.
+Connecting with Central Europe has been part of this plan. Modi’s visit to Austria last month (the first in 41 years) and Poland and Ukraine this week are part of that strategy.
+Weight carried by these nations
+Ukraine holds the largest territory in Europe after Russia. Poland and Ukraine are seventh and eighth in European population rankings (including Russia).
+Poland is the largest economy in Central Europe and ranks eighth in Europe.
+Rapid economic growth over the last three decades, a large population base (38 million), its location at the heart of Europe, and massive spending (more than 4 per cent of GDP this year) have turned Poland into a force to reckon with.
+Ukraine’s economy has been shattered by the war, but the prospect of its reconstruction after peace settlement has put it on the geoeconomic drawing boards around the world.
+Ukraine, which inherited a significant part of the Soviet arms industry, is now looking to the US and Europe to expand and modernise its defence industry.
+Ukraine’s natural strength as one of the world’s granaries adds to its strategic salience in the years ahead.
+India – Poland Relation in brief
+Background
+Diplomatic relations between India and Poland were established in 1954, leading to the opening of the Indian Embassy in Warsaw in 1957 and Polish Embassy in New Delhi in 1954.
+During WWII, between 1942 and 1948, over 6,000 Polish women and children found refuge in two princely states in India, Jamnagar and Kolhapur.
+Digvijaysinhji Ranjitsinhji Jadeja, the Jam Saheb of Nawanagar, provided shelter to over a thousand Polish children in his state.
+Many others found refuge in a giant camp in Kolhapur.
+Economic & commercial Relations
+Poland continues to be India’s largest trading & investment partner in Central & Eastern Europe.
+Over the period 2013-2023, the total bilateral trade with Poland has witnessed an increase of 192% i.e. from US$1.95 billion in 2013 to
+US$5.72 billion in 2023
+The balance of trade continues to be largely in favour of India in 2023.
+Investment
+Indian investment in Poland has been steadily growing over the years and is now estimated over US$ 3 billion.
+Total Polish investment in India is estimated at $685 million.
+Sectoral Collaboration
+Poland possesses reputed clean coal technologies and Polish public sector companies have played a substantial role in development of mining and power sectors in India.
+Trainee engineers from M/s Coal India Limited trainee have received training in Polish mines that specialize in intelligent mining.
+Chemical Industry is one of the major sectors of the Polish economy and Poland is a net
+importer
+of chemicals. Chemical products figures in top 5 exports items from India to Poland with organic chemicals taking the lead.
+Textile continues to be the largest segment in the Indian exports to Poland. Polish imports of textiles and textile articles from India have grown to US$ 645 million in 2023.
+Cultural Relations
+A monument, commemorating Jam Saheb Digvijaysinhji Ranjitsinhji Jadeja of Nawanagar, was unveiled in October, 2014 at the Square of the Good Maharaja, Ochota District, Warsaw, Poland.
+Another plaque commemorating the Valivade-Kolhapur camp near the Monte Casino War Memorial was inaugurated in November 2017 in Warsaw.
+About the news
+This visit coincides with the 70th anniversary of diplomatic relations between India and Poland and is aimed at revitalizing and elevating bilateral ties to a new level.
+PM Modi laid a wreath and paid tribute to The Dobry Maharaja Memorial in Warsaw.
+He also paid his tributes at the
+memorials for the Valivade-Kolhapur camp
+Monument to the Battle of Monte Cassino in Warsaw
+PM honoured the brave soldiers who fought in World War II. Indian and Polish troops fought side by side in this historic battle.
+PM Modi also addressed the Indian Diaspora at an event organised by the Indian community in Warsaw.
+PM Modi’s historic visit to Ukraine and Poland.pdf
+( Size:  3.7 MB  )
+Click to View More
+International Relations
+**********

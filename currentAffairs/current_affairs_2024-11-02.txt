@@ -1,0 +1,587 @@
+Why post-Diwali Delhi air was cleaner this year
+Why in news?
+Delhi’s 24-hour average air quality before and during Diwali this year was worse than the past two years. However, the day after Diwali saw an improvement in pollution levels, marking the lowest post-Diwali AQI since 2015, except for 2022.
+The
+post-Diwali AQI on Friday
+339
+, an improvement from
+358
+the previous year. The worst post-Diwali air quality in recent years was in 2021, with an AQI of
+462
+What’s in today’s article?
+Reasons behind low pollution level in Delhi after Diwali
+Air Quality Index (AQI)
+Introduction to AQI
+The AQI was launched by the Indian government in 2014 as part of the Swachh Bharat campaign to provide a simplified understanding of air pollution.
+An expert group, including medical professionals and air quality experts, collaborated with IIT Kanpur to develop the AQI scheme.
+How AQI is Calculated
+The AQI transforms complex data on various pollutants into a single numerical value and color code.
+The pollutants measured include
+PM10, PM2.5, Nitrogen Dioxide, Ozone, and Carbon Monoxide
+Each pollutant is assigned a weight based on its health impact, and the worst-weighted pollutant determines the composite air quality, yielding a single AQI value instead of multiple readings.
+Impact of Harmful Pollutants
+Particulate matter, especially PM2.5 (particles smaller than 2.5 micrometers), poses significant health risks.
+Due to their minuscule size, PM2.5 particles can enter the respiratory system and bloodstream, leading to serious health issues such as asthma, heart attacks, and other chronic respiratory conditions.
+Influence of AQI on Government Policy
+Governments utilize AQI data to implement measures aimed at improving air quality.
+In regions like Delhi, the Graded Response Action Plan (GRAP) is activated in response to deteriorating air quality.
+This plan may lead to bans on coal and firewood use, restrictions on diesel generators, and increased parking fees to reduce private vehicle usage, thereby mitigating pollution.
+Warmer Temperatures
+This year, Delhi experienced the warmest October in 73 years, with average temperatures of
+35.1°C (maximum)
+21.2°C (minimum)
+In contrast, Diwali last year took place in November, with cooler temperatures averaging
+27.8°C
+13°C
+Cooler weather typically worsens
+pollution due to a lower inversion height
+, which traps pollutants closer to the ground.
+A temperature inversion is a layer in the atmosphere where the temperature increases with height, which is the opposite of normal behavior.
+This happens when air near the ground cools faster than the air above it.
+The warmer October temperatures this year
+helped reduce pollution dispersion
+, contributing to relatively improved air quality post-Diwali despite higher pollution levels on the festival day.
+As temperature dips, the inversion height — which is the layer beyond which pollutants cannot disperse into the upper layer of the atmosphere — is lowered.
+The concentration of air pollutants increases when this happens.
+Strong winds
+High wind speeds significantly improved the dispersal of pollution in Delhi following Diwali.
+India Meteorological Department (IMD) reported westerly winds starting at 3-7 kmph, increasing to 10 kmph by 9 AM and reaching 15 kmph by noon.
+This wind speed aided in reducing levels of PM2.5 and PM10, which had spiked due to firecracker use and stubble burning in nearby states.
+Despite air quality remaining 'poor' to 'very poor' throughout Diwali, these wind conditions ultimately facilitated a reduction in pollution levels the following day.
+Why post-Diwali Delhi air was cleaner this year.pdf
+( Size:  2.3 MB  )
+Click to View More
+Environment & Ecology
+**********US cracks down on Indian companies for supplies to Russian firms
+Why in news?
+The U.S. recently sanctioned around 400 entities and individuals, including 19 Indian firms and two Indian nationals, over links to Russia’s war efforts in Ukraine.
+Sanctions typically restrict trade, investment, and financial transactions with targeted entities, aiming to curb their economic and operational activities by cutting off access to U.S.-based resources and systems.
+For firms, this can mean being barred from the U.S. market, losing American partners, and facing significant financial and operational limitations, potentially affecting global trade and their business operations.
+What’s in today’s article?
+Economic sanctions
+Indian Firms and Nationals sanctioned
+Possible Impact on India
+Understanding Sanctions
+Sanctions aim to restrict or end economic ties between the sanctioning entity and the target, taking forms such as import/export bans, trade restrictions, asset freezes, and exclusion from banking systems.
+Sanctions may be:
+Comprehensive
+: Affecting entire countries, such as the U.S. embargo on Cuba.
+Targeted
+: Directed at specific entities, groups, or individuals, as with U.S. sanctions on Russian firms.
+Global Mechanisms for Sanctions
+Sanctions are imposed by individual countries, such as the U.S. on nations like Iran, North Korea, and Russia, which has become the world’s most sanctioned country post-Ukraine war.
+International bodies like the UN (through its Security Council) and the EU also have mechanisms to impose sanctions.
+Efficacy and Criticisms of Sanctions
+While intended to apply economic pressure, the effectiveness of sanctions is debated.
+Targets can find ways to bypass restrictions, and enforcing sanctions can impact both the sanctioning country and its industries reliant on sanctioned imports.
+For instance, despite extensive Western sanctions, Russia’s economy remains resilient with ongoing trade with countries like India and China
+UN lacks direct enforcement powers
+, relying on member nations for implementation.
+The United States has imposed sanctions on
+for providing critical components to Russian companies linked to the defense sector.
+These sanctions restrict trade and financial dealings with these firms and individuals.
+Companies sanctioned – few examples
+Ascend Aviation India Private Limited
+Shipped over 700 items valued above $200,000, including U.S.-origin aircraft parts from the
+Common High Priority List (CHPL)
+, to Russian companies from March 2023 to March 2024.
+Working with the European Union, Japan, and the United Kingdom, Bureau of Industry and Security (BIS) has developed the CHPL.
+CHPL includes 50 items that Russia seeks to procure for its weapons programs.
+Mask Trans
+Supplied more than $300,000 worth of CHPL-listed aviation components to Russia’s S7 ENGINEERING LLC between June 2023 and April 2024.
+TSMD Global Private Limited
+Exported CHPL items worth at least $430,000, such as integrated circuits and CPUs, to Russian firms from July 2023 to March 2024.
+Futrevo
+Provided over $1.4 million worth of CHPL-listed electronic components to SMT-ILOGIC, a manufacturer of Orlan drones, between January 2023 and February 2024.
+Individuals sanctioned
+The directors of Ascend Aviation India, Vivek Kumar Mishra and Sudhir Kumar, were also sanctioned
+Impact on Indian Defence Sector
+The U.S. sanctions, aimed at restricting supply of dual-use items to Russia, are
+expected to have minimal impact on India’s defense ecosystem
+Most sanctioned companies have no significant ties to major defense projects, with only
+RRG Engineering
+involved in limited work with the
+DRDO
+and the Indian armed forces.
+Trading Activities and Foreign Connections
+Many of the sanctioned entities appear to be engaged in trading, importing Western electronics for resale to sanctioned Russian companies. For example:
+Denvas Services
+: Supplies digital kiosks and has Russian nationals among its directors and shareholders. It has been accused of procuring U.S.-origin microelectronics for Russia's conventional weapons.
+: The only company with limited defense ties, accused of sending microelectronics to Russia-based Arteks Limited Company. It has previously supported DRDO projects with manpower and provided non-critical supplies like NBC warfare detectors and satcom stations.
+Availability of Equipment in India
+Industry experts believe the sanctioned equipment, such as microelectronics and NBC detectors, is easily available within India and can be sourced when required, mitigating potential disruptions from these sanctions.
+US cracks down on Indian companies for supplies to Russian firms.pdf
+( Size:  1.9 MB  )
+Click to View More
+International Relations
+**********Prevention of Money Laundering Act
+Why in the News?
+The Supreme Court has highlighted that sickness and infirmity of an accused are grounds for bail even under the Prevention of Money Laundering Act (PMLA).
+What’s in Today’s Article?
+About PMLA (Major Provisions of the Act, Criticism of certain provisions)
+News Summary
+About Prevention of Money Laundering Act, 2002:
+The Prevention of Money Laundering Act (PMLA), 2002 was enacted in January, 2003.
+The Act seeks to combat money laundering in India and has three main objectives
+To prevent and control money laundering
+To confiscate and seize the property obtained from the laundered money; and
+To deal with any other issue connected with money laundering in India.
+Sec.3
+of the Act defines offence of money laundering as:
+whosoever directly or indirectly attempts to indulge or knowingly assists or knowingly is a party or is actually involved in any process or activity connected with the proceeds of crime and projecting it as untainted property shall be guilty of offence of money-laundering.
+The Act was amended by the
+Prevention of Money Laundering (Amendment) Act, 2009
+and by the
+Prevention of Money Laundering (Amendment) Act, 2012
+Major Provisions of the Act:
+The Act prescribes obligation of banking companies, financial institutions and intermediaries for verification and maintenance of records of the identity of all its clients and also of all transactions.
+PMLA empowers the
+Directorate of Enforcement
+(ED) to carry out investigations in cases involving offence of money laundering and also to attach the property involved in money laundering.
+ED is a law enforcement agency and economic intelligence agency responsible for enforcing economic laws and fighting economic crime in India.
+It was formed as an Enforcement Unit, in the Department of Economic Affairs, for handling Exchange Control Laws violations under
+Foreign Exchange Regulation Act, 1947
+PMLA envisages setting up of an
+Adjudicating Authority
+to exercise jurisdiction, power and authority conferred by it essentially to confirm attachment or order confiscation of attached properties.
+It also envisages setting up of an
+Appellate Tribunal
+to hear appeals against the order of the Adjudicating Authority
+PMLA envisages designation of one or more courts of sessions as
+Special Court
+or Special Courts to try the offences punishable under the Act.
+PMLA also allows Central Government to enter into an agreement with Government of any country outside India for enforcing the provisions of the PMLA
+Section 45 of the PMLA:
+Section 45 of the Act, deals with the bail provisions related to money laundering offenses in India.
+This section places stringent conditions on the granting of bail to individuals accused of money laundering, making it one of the more controversial aspects of the PMLA.
+Twin Conditions for Bail
+: Under Section 45(1) of the PMLA, before granting bail to a person accused of money laundering, the court must be satisfied of two conditions:
+Prima Facie Innocence
+: The court should have reasonable grounds to believe that the accused is not guilty of the offense.
+No Risk of Tampering
+: The court should be convinced that the accused is not likely to commit any offense if released on bail.
+Non-Bailable Offenses
+: Offenses under the PMLA are considered non-bailable. This means that the court has discretionary powers in granting bail, and bail is not an automatic right for the accused.
+Amendments and Court Rulings
+: The stringent nature of Section 45 has led to several challenges in court, with arguments that it violates the right to personal liberty.
+The Supreme Court, in
+Nikesh Tarachand Shah v. Union of India
+(2017), struck down the twin conditions as unconstitutional, but they were reintroduced through amendments to the PMLA in 2018.
+News Summary:
+The Supreme Court of India has underscored that illness and frailty of an accused can be valid grounds for granting bail under PMLA.
+In a recent ruling, a three-judge Bench led by Chief Justice D.Y. Chandrachud granted interim bail to Amar Sadhuram Mulchandani, former chairperson of Seva Vikas Co-operative Bank, due to his severe health issues.
+Section 45 of the PMLA generally imposes stringent conditions for bail, requiring courts to believe the accused is likely innocent and unlikely to re-offend.
+However, a proviso in Section 45(1) allows the court discretion to exempt minors, women, the sick, and infirm individuals from these conditions.
+The court highlighted this humane provision, noting Mulchandani’s deteriorating health, including cardiac and kidney issues, as well as diabetes and hypertension, as sufficient grounds for bail.
+Sickness, infirmity are grounds for bail in PMLA case.pdf
+( Size:  301.7 KB  )
+Click to View More
+Polity & Governance
+**********India’s National Biodiversity Strategy and Action Plan (NBSAP)
+Why in News?
+In line with the Kunming-Montreal Global Biodiversity Framework (KM-GBF), India has submitted its National Biodiversity Strategy and Action Plan (NBSAP) with 23 specific national biodiversity targets.
+The strategy is designed to address pressing challenges in biodiversity conservation and sustainable development.
+What’s in Today’s Article?
+Overview of the KM-GBF
+Conclusion
+Overview of the KM-GBF:
+KM-GBF was adopted by 196 countries during the 15th meeting of the 2022 UN Biodiversity Conference of the Parties (
+COP 15
+) in Montreal, Canada.
+Promoted as the
+"Post-2020 Global Biodiversity Framework"/ the "Paris Agreement for Nature"
+, it aims to halt and reverse biodiversity loss by
+2030
+This historic framework, which includes
+4 goals for 2050 and 23 targets for 2030
+, supports the achievement of the Sustainable Development Goals (SDGs).
+In adopting the KM-GBF,
+all Parties committed to setting national targets to implement it
+, while all other actors have been invited to develop and communicate their own commitments.
+India’s National Biodiversity Strategy and Action Plan (NBSAP):
+Background:
+Home to nearly 8% of the world's known plant and animal species
+, India hosts 3,532 fish species, 450 amphibian species, 738 reptilian species, 1,346 bird species, and 436 mammal species.
+At the ongoing
+16th Convention on Biological Diversity (COP-16) in Colombia
+, India has presented its ambitious financial roadmap for biodiversity and conservation.
+India's commitment to reducing threats to biodiversity:
+India’s plan includes
+restoring at least 30% of degraded ecosystems
+, covering terrestrial, inland water, marine, and coastal areas.
+This restoration effort is intended to
+enhance biodiversity, ecosystem functions, ecological integrity, and connectivity
+Objectives of NBSAP:
+India’s NBSAP aligns with the KM-GBF's three primary goals:
+Reducing threats to biodiversity.
+Meeting people’s needs through sustainable use and benefit-sharing.
+Providing tools and solutions for implementation and mainstreaming.
+Key features of NBSAP:
+The NBSAP establishes a comprehensive framework focused on conservation, sustainable use, and benefit-sharing.
+It addresses significant national challenges, including:
+Water crisis
+Food insecurity
+Human-wildlife conflicts
+Pollution and emerging diseases
+Disaster risk
+Core targets of NBSAP:
+Eight of the 23 targets focus specifically on reducing threats to biodiversity, with areas such as:
+Land and sea use changes.
+Pollution and climate change.
+Managing invasive alien species.
+Invasive species management:
+To mitigate the impact of invasive alien species, India’s action plan includes the following measures:
+Pathway management to prevent species introductions.
+Eradication/control efforts in priority areas, such as islands.
+Quarantine and database development to monitor and control invasive species.
+Financial requirements:
+Achieving these biodiversity targets requires substantial financial investment.
+India has undertaken assessments to track biodiversity-related expenditures:
+Average annual biodiversity expenditure from 2017-18 to 2021-22:
+Rs 32,207.13 crore
+Projected annual expenditure for 2024-25 to 2029-30:
+Rs 81,664.88 crore
+With significant spending projected for 2025-2030, the nation emphasises
+the need for international financial support to achieve its biodiversity targets
+under the KMGBF.
+Conclusion:
+India’s NBSAP at COP-16
+demonstrates a strong commitment to conserving biodiversity
+, in alignment with global goals under the KM-GBF.
+Through strategic action, financial investment, and a focus on sustainable practices, India aims to
+contribute meaningfully to a nature-positive world by 2030
+Achieving these targets will require
+a blend of national efforts and international support in the form of finance, technology, and capacity-building resources
+India spells out finance needs for biodiversity, conservation.pdf
+( Size:  224.1 KB  )
+Click to View More
+Environment & Ecology
+**********How remote sensing system LiDAR helped discover a lost Mayan city?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+LiDAR technology,
+Mains level:
+Use of technology in infrastructure
+Why in the News?
+Scientists have used LiDAR technology to find an ancient Mayan city hidden for centuries under a thick jungle in Mexico.
+What is LiDAR?
+LiDAR (Light Detection and Ranging)
+is a remote sensing technology that uses laser light pulses to measure distances between a sensor (often airborne) and Earth’s surface.
+It produces high-resolution, 3D models of ground elevation with up to 10 cm vertical accuracy, as per the
+US Geological Survey.
+How Does LiDAR Work?
+LiDAR Setup
+: Includes a laser, a scanner, and a GPS receiver. The laser emits rapid pulses of light that reflect off surfaces on the ground, including natural features and man-made structures.
+Data Collection
+: The reflected light returns to the sensor, and the LiDAR system calculates the two-way travel time to determine the distance to each point on Earth’s surface.
+Data Processing
+: GPS and Inertial Measurement System (IMS) data are used to create accurate maps. The initial data forms a “point cloud” representing surfaces like vegetation, buildings, and terrain.
+“Bare Earth” Model
+: By filtering out structures and vegetation, LiDAR can create a Digital Elevation Model that shows just the ground terrain.
+Applications of LiDAR
+Geography and Mapping
+: Creates precise 3D information for topographic mapping.
+Urban Planning and Infrastructure
+: Used in planning transportation routes, assessing flood risk, and managing natural resources.
+Conservation
+: Helps monitor forest health, manage habitats, and detect environmental changes.
+Engineering and Policy
+: Provides data for infrastructure design, environmental policy making, and land-use planning.
+Why is LiDAR Useful for Archaeologists?
+Large-Area Surveying
+: LiDAR enables archaeologists to study extensive areas quickly, bypassing the need for labor-intensive, on-ground exploration.
+Vegetation Penetration
+: LiDAR can “see through” dense tree canopies by using the reflections that pass through gaps, allowing mapping of hidden structures and terrain.
+Detailed Site Mapping
+: With “bare earth” models, archaeologists can strip away vegetation layers to reveal hidden archaeological sites.
+Case Study – Maya Civilization
+: Archaeologists discovered the lost Mayan city of Valeriana in Mexico by analyzing publicly available LiDAR data, uncovering plazas, temple pyramids, a ballcourt, and other features indicative of a Classic Maya capital.
+Where is the Indian Government using Laidar?
+High-Speed Rail Projects
+: NHSRCL (National High-Speed Rail Corporation Limited) uses aerial LiDAR surveys for the Delhi-Varanasi High-Speed Rail Corridor, reducing survey time from 10-12 months to 3-4 months by capturing detailed topographical data within a 300-meter corridor.
+National Highways
+: NHAI mandates Mobile LiDAR for feasibility studies and project reports, enhancing the accuracy and efficiency of highway surveys across extensive networks.
+Forest Mapping
+: The Ministry of Environment is piloting LiDAR-based forest mapping across states to improve forest management and accurately monitor forest cover changes.
+Water Resource Management
+: WAPCOS is using LiDAR to identify groundwater recharge zones, aiding water resource management and mitigating human-animal conflicts in forested areas.
+: Chandigarh and Gujarat are using LiDAR for GIS mapping and drone-based surveys, respectively, supporting detailed city models, urban planning, and infrastructure mapping.
+Conclusion:
+LiDAR technology has revolutionized fields from archaeology to urban planning by providing precise 3D mapping. In India, it’s enhancing infrastructure projects, environmental monitoring, and urban planning, proving invaluable for efficient, large-scale data collection and analysis.
+**********Why the goal to arrest global temperature rise to 1.5°C is unrealistic?
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to Climate change;
+Why in the News?
+Over nine years ago, the world promised to cut emissions significantly, but it hasn’t succeeded. As a result, the goal of keeping global warming below 1.5 degrees is now out of reach.
+Is the 1.5°C Target Still Achievable?
+Rising Emissions
+: Global emissions are still increasing, with 2023 seeing record levels. Despite clean energy advancements, emissions reductions have been insufficient to meet the pace required for the 1.5°C target.
+Potential for Emission Peaking
+: The
+UNEP Emissions Gap Report
+suggests that emissions could peak by 2023 or 2024 if significant additional measures are taken, but global actions remain inconsistent and often insufficient.
+Need for Accelerated Action
+: For the 1.5°C goal, global emissions need to drop by at least 43% by 2030 from 2019 levels.
+Current projections indicate only a 2.6% reduction by 2030, far short of the required cuts.
+Technological and Financial Challenges
+: Achieving the 1.5°C target hinges on rapid technological deployment, energy transition, and substantial financing for climate action. However, these remain constrained by a lack of coordination and resources.
+Implications of Exceeding the 1.5°C Limit
+Increased Frequency of Extreme Events
+: Exceeding 1.5°C would lead to more frequent and severe extreme weather events, such as heatwaves, droughts, wildfires, and intense storms.
+Impacts on Ecosystems and Biodiversity
+: Many species and ecosystems are sensitive to small temperature changes; coral reefs, for instance, face near-total collapse beyond 1.5°C warming.
+Threats to Human Health and Livelihoods
+: Exceeding 1.5°C could lead to more heat-related illnesses, loss of productivity, water scarcity, and risks to food security, disproportionately affecting vulnerable populations.
+Feedback Loops
+: Warming beyond 1.5°C may activate feedback loops (e.g., Arctic ice melt, permafrost thawing), which could lead to irreversible changes and make further warming difficult to control.
+Should We Reconsider the Focus on the 1.5°C Target?
+Adaptation vs. Mitigation
+: Given the increasing difficulty of limiting warming to 1.5°C, some argue for a shift in focus towards adaptation strategies to manage the unavoidable impacts of higher temperatures.
+Realigning Expectations
+: While the 1.5°C target was critical to rally global climate action, a shift towards realistic, achievable goals may better support gradual but sustained progress, especially if mitigation pathways fall short.
+Moving Towards a ‘Just Transition’
+: With a likely overshoot of the 1.5°C target, there is a greater need to ensure that climate adaptation and resilience measures do not disproportionately burden low-income countries and communities.
+Science-Based Overshoot Scenarios
+: The IPCC and other scientific bodies continue to assess overshoot scenarios (e.g., temporarily exceeding 1.5°C and then returning below it later) to guide global climate strategies. However, returning to a lower temperature after an overshoot requires substantial and sustained negative emissions, which are currently unfeasible at scale.
+Way forward:
+Prioritize Scalable Emissions Reductions and Resilient Adaptation
+: Accelerate global transition to renewable energy, improve energy efficiency, and reduce methane and other non-CO₂ emissions. Simultaneously, invest in adaptation measures to help vulnerable communities manage the impacts of warming beyond 1.5°C.
+Strengthen Climate Finance and International Cooperation
+: Mobilize substantial climate funding for developing nations to support both mitigation and adaptation efforts. Enhance cross-border technology sharing and policy alignment to enable collective, equitable climate action.
+Mains PYQ:
+‘Climate change’ is a global problem. How India will be affected by climate change? How Himalayan and coastal states of India will be affected by climate change?
+(UPSC IAS/2017)
+**********How the United States’ electoral college works?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Presidential election of India and USA;
+Why in the News?
+In the US system, when people vote for a presidential candidate, they are actually voting to choose that candidate’s “electors,” who will then cast their votes for the President.
+What is the structure and function of the Electoral College?
+Composition
+: The Electoral College consists of 538 electors. A candidate needs a majority of 270 electoral votes to win the presidency.
+Allocation of Electors
+: Each state’s number of electors equals its Congressional delegation (one for each House member and two for Senators). California has the most electors (54), while six states and the District of Columbia have the smallest allocation (3 each).
+Selection of Electors
+: Political parties select electors in each state before the election, typically choosing party loyalists or those with ties to the presidential candidate.
+Electoral Voting Process
+: Electors meet in their state capitals in December to cast their votes for President and Vice President. This is mostly a formality, as electors generally vote for their party’s candidate.
+Note:
+The Electoral College is a body of 538 electors who elect the U.S. President and Vice President, reflecting the popular vote in each state.
+How does the Electoral College impact election outcomes?
+Discrepancy Between Popular and Electoral Votes
+: Candidates can win the presidency without winning the national popular vote, as seen in the elections of 2000 and 2016. This discrepancy occurs due to the allocation of electoral votes based on state populations rather than a direct count of all votes.
+Focus on Swing States
+: The winner-takes-all system encourages candidates to concentrate their campaign efforts on a few key swing states, which can lead to disproportionate attention and resources being directed there, often neglecting voters in states where one party is overwhelmingly dominant.
+Strengthening the Two-Party System
+: The Electoral College reinforces a two-party system by making it challenging for third-party candidates to gain traction, as the winner-takes-all approach in most states discourages votes for non-major party candidates, leading to a perception that such votes are “wasted.”
+What happens if no candidate receives a majority of electoral votes?
+House of Representatives Decides
+: If no candidate secures a majority of electoral votes, the election is decided by the House of Representatives, with each state delegation casting one vote for one of the top three candidates.
+Senate Elects Vice President
+: Concurrently, the Senate elects the Vice President from the top two candidates for that office.
+Historical Context
+: This scenario has occurred only a few times in U.S. history, most notably in the election of 1824 when John Quincy Adams was elected by the House after no candidate received a majority of electoral votes.
+Difference between Indian and USA presidential election:
+Aspect
+Electoral Process
+Indirect election by an electoral college of MPs and state assembly members.
+Indirect election through the Electoral College, where citizens vote for electors.
+Voting System
+Single transferable vote system, ensuring proportional representation.
+Winner-takes-all system in most states; majority wins all electoral votes.
+Comprised of elected representatives, totaling around 5,000 electors.
+Consists of 538 electors based on Congressional representation.
+Majority Requirement
+Majority of electoral votes needed to win.
+270 electoral votes needed to win.
+Frequency of Elections
+Every five years.
+Every four years.
+Nature of the Position
+Primarily ceremonial; limited powers.
+Head of state and government; significant executive powers.
+Campaigning
+Limited campaigning; party nominations prevail.
+Extensive campaigning; candidates raise funds and engage voters directly.
+Political Parties
+Influenced by major parties, with independent candidates also eligible.
+Dominated by a two-party system (Democratic and Republican).
+Conclusion:
+The Electoral College consists of 538 electors, with a majority of 270 needed to win the presidency. It allocates electors based on state Congressional representation. It impacts elections by creating discrepancies between popular and electoral votes, focusing campaigns on swing states, and reinforcing a two-party system. If no majority is achieved, the House decides the president.
+**********[pib] Exercise GARUD SHAKTI 24
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Indian Army contingent has departed for Cijantung, Jakarta, Indonesia to take part in the
+9
+edition
+of India-Indonesia Joint Special Forces Exercise GARUD SHAKTI 24.
+Note:
+Garuda
+is a
+bilateral air force
+exercise
+between the
+Indian Air Force
+and the
+French Air and Space Force.
+Shakti
+biennial training
+event conducted alternatively in
+France
+About
+Details
+What is it?
+A bilateral joint special forces exercise between
+aimed at enhancing military cooperation.
+Held alternatively in India and Indonesia.
+History
+Initiated in 2012
+as part of defense cooperation between India and Indonesia.
+Objectives
+• Enhance mutual understanding and cooperation between special forces
+• Share best practices and experiences in counter-terrorism
+• Conduct joint operations and drills to improve interoperability
+Activities
+• Joint planning and execution of special operations
+• Orientation on advanced special forces skills
+• Sharing information on weapons, tactics, and techniques
+• Operations practice in diverse terrains
+• Cultural exchanges between troops
+Significance
+• Strengthens bilateral relations
+• Fosters trust between India and Indonesia
+• Contributes to regional security and addresses terrorism challenges
+• Enhances operational capabilities of both armies
+Recent Edition
+Ninth Edition (2024)
+: Scheduled from November 1 to 12, focusing on enhancing understanding, cooperation, and interoperability.
+PYQ:
+[2024]
+Which of the following statements about the Exercise Mitra Shakti-2023 is/ are correct?
+This was a joint military exercise between India and Bangladesh.
+It commenced in Aundh (Pune).
+Joint response during counter-terrorism operations was a goal of this operation.
+Indian Air Force was a part of this exercise.
+Select the answer using the code given below:
+(a) 1, 2 and 3
+(b) 1 and 4
+(c) 1 and 4
+(d) 2, 3 and 4
+**********[pib] Exercise VAJRA PRAHAR
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Indian Army contingent
+departed today for the
+15th edition of VAJRA PRAHAR
+, a
+joint Special Forces exercise
+with the
+US Army
+.
+About
+Exercise VAJRA PRAHAR:
+Details
+What is it?
+A joint Special Forces exercise between India and the US aimed at enhancing military cooperation.
+Inception
+Started in
+2010
+as part of bilateral defense cooperation between India and the US.
+No exercises held between
+2012 and 2015
+and in
+2020
+Frequency
+Conducted
+annually
+alternately
+in India and the United States.
+15th Edition Dates
+Scheduled from
+2nd to 22nd November 2024
+at the
+Orchard Combat Training Centre, Idaho, USA
+Participants
+45 personnel
+from each country; Indian Army’s Special Forces and US Army’s Green Berets.
+Objectives
+• Enhance military cooperation
+• Promote interoperability and tactical exchange
+• Improve combined capabilities in joint operations
+Key Focus Areas
+• High physical fitness standards
+• Joint planning and tactical drills
+Significance
+• Joint Team Mission Planning
+• Reconnaissance Missions
+• Use of Unmanned Aerial Systems (UAS)
+• Execution of Special Operations
+• Roles of Joint Terminal Attack Controllers
+• Psychological Warfare
+**********What is Chronic Wasting Disease (CWD)?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Chronic Wasting Disease (CWD) and its spread
+Why in the News?
+A case of Chronic Wasting Disease (CWD) was confirmed in the US.
+About Chronic Wasting Disease (CWD)
+is a fatal, transmissible disease that affects the
+brain and central nervous system
+deer, elk, and moose
+First identified in
+1967
+, CWD is a
+prion disease
+where normal proteins misfold, leading to symptoms that eventually cause
+death
+Transmission
+occurs through
+animal-to-animal contact
+or contamination of
+feed or water
+by infected saliva or bodily waste.
+Environmental contamination can occur through
+soil exposure
+from infected carcasses or bodily fluids.
+High-risk areas
+include places where
+deer and elk gather closely
+, like
+feeding or watering sites
+Species affected
+: CWD does not naturally infect
+cows, other livestock, or pets
+Although
+no strong evidence
+exists that it can spread to
+humans
+, officials advise against eating meat from infected animals.
+Symptoms of CWD:
+: Drastic weight loss, lack of coordination, drooling, listlessness, and excessive thirst. Infected animals may also show drooping ears and lose their fear of humans.
+Prevention
+: To prevent the spread of CWD, avoid handling or eating sick animals, use synthetic lures, dispose of carcass waste in landfills, and report any sick or unusual deer to local wildlife authorities.
+PYQ:
+[2012]
+Vultures which used to be very common in Indian countryside some years ago are rarely seen nowadays. This is attributed to:
+(a) The destruction of their nesting sites by new invasive species
+(b) A drug used by cattle owners for treating their diseased cattle
+(c) Scarcity of food available to them
+(d) A widespread, persistent and fatal disease among them
+**********

@@ -1,0 +1,672 @@
+
+**********
+Influence of Wind Shear on Hurricanes
+Source: DTE
+Why in News?
+Recently, the concept of
+wind shear
+has gained increased attention due to its crucial role in determining whether a storm intensifies into a destructive
+hurricane
+.
+What is Wind Shear?
+About:
+Wind shear is a meteorological phenomenon that refers to a
+sudden change in wind speed and/or wind direction
+over a relatively small distance.
+Types:
+It is mainly of 2 types:
+Vertical Wind Shear:
+Occurs when wind speed and/or direction changes rapidly with increasing altitude.
+Common examples include
+low-level jet streams
+and wind shear associated with
+thunderstorms.
+Horizontal Wind Shear:
+Occurs when wind speed and/or direction changes rapidly over a
+horizontal distance.
+In this case, the wind might be blowing from the west at one spot, but then suddenly switch to blowing from the north just a bit further on.
+frontal systems and sea breezes.
+Major Causes:
+Temperature Inversion:
+During calm nights, warm air near the ground traps cooler air above, creating strong vertical wind shear, which could be a hazard for
+aircraft taking off and landing.
+Thunderstorms:
+Powerful
+updrafts and downdrafts
+within thunderstorms cause both horizontal and vertical wind shear, making flying near them dangerous.
+Frontal Systems:
+Boundaries between
+warm and cold air masses (fronts)
+create rapid changes in wind speed and direction, resulting in horizontal wind shear that can challenge aircraft navigation.
+Detection Methods:
+Low-Level Wind Shear Alert System (LLWAS)
+: This network of ground-based towers uses anemometers (wind speed sensors) and wind direction sensors to measure wind speed and direction at multiple points around an airport.
+Doppler Radar:
+On the ground, these radars track wind speed and direction to spot wind shear zones.
+LIDAR:
+This uses light to detect wind shear, especially helpful for clear air turbulence.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1716543926_Vertical_and_Horizontal_Wind_Shear.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+What are the Effects of Wind Shear on Hurricanes?
+About Hurricanes: Hurricanes or
+Tropical Cyclones
+violent storms
+that originate over oceans in tropical areas and move over to the coastal areas bringing about large scale destruction caused by violent winds, very heavy rainfall and storm surges.
+Its formation and initial development depends upon the transfer of water vapor and heat from the warm ocean to the overlying air, primarily by evaporation from the sea surface.
+They are given many names in different regions of the world such as:
+Typhoons
+in the China Sea and Pacific Ocean
+Tornados
+in the Guinea lands of West Africa and Southern USA
+Willy-willies
+in north-western Australia and
+in the Indian Ocean
+in the West Indian islands in the Caribbean Sea and Atlantic Ocean.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1716544006_Hurricans.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+Effects of Wind Shear on Hurricanes:
+Hurricanes thrive in environments with minimal vertical wind shear, as it allows for a
+symmetrical structure
+efficient rotation.
+Strong vertical wind shear
+can disrupt the hurricane's vertical structure,
+offsetting the top of the storm
+from the bottom.
+weakens the wind circulation
+, heat transport, and moisture supply, which are essential for fueling the hurricane.
+Excessive vertical wind shear can potentially tear a hurricane apart.
+Other Factors Affecting Hurricane Intensity:
+While vertical wind shear is a significant factor, it is not the only determinant of hurricane intensity.
+Other factors, such as
+sea surface temperatures, atmospheric moisture
+content,
+pressure systems,
+also play crucial roles in hurricane development and strengthening.
+In some cases, exceptionally warm sea surface temperatures can overcome the effects of increased wind shear, as witnessed during the
+2023 hurricane season.
+What is the Influence of EL Nino and La Lina on Wind Shear?
+El Nino's Influence on Wind Shear:
+years, stronger-than-usual vertical wind shear is typically observed over the Atlantic Ocean during hurricane season.
+El Nino events are characterised by warmer sea surface temperatures in the eastern Pacific Ocean and cooler temperatures in the western Pacific.
+This pattern leads to stronger upper-level winds over the Atlantic, resulting in increased vertical wind shear.
+The increased wind shear during El Nino years can make it more challenging for hurricanes to develop and intensify in the Atlantic basin.
+La Nina's Influence on Wind Shear:
+conditions, which are the opposite of El Nino, tend to be more favorable for hurricane development in the Atlantic.
+During La Nina years, vertical wind shear is generally weaker over the Atlantic, allowing for more active hurricane seasons.
+The record-breaking
+2020 Atlantic hurricane season
+occurred during a La Nina event.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1716544123_EL Nino_and_La Lina.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+Read More:
+
+**********
+Global Impact of Land Squeeze
+Source: DTE
+Why in News?
+A recent study conducted by the
+International Panel of Experts on Sustainable Food Systems (IPES-Food)
+focusses on the unprecedented ‘land squeeze’, threatening farmers and food production.
+Land squeeze refers to the situation where the
+demand for land for various purposes
+(agriculture, urbanisation, infrastructure, etc.) outpaces the available cultivable land.
+What are the Key Highlights of the Report?
+The report
+warns of prevalent "land squeeze"
+due to rising land prices, land grabs, and carbon schemes, threatening farmers and food production.
+Globally, the
+top 1% of the world’s largest farms
+now
+control 70%
+world’s farmland.
+As land becomes scarce, it can be
+converted from productive agricultural land
+to other uses, impacting food production
+Between
+2008-2022
+, there has been a
+doubling of
+global land prices.
+This increase has been particularly pronounced in Central-Eastern Europe, where prices have tripled.
+"Green grabs,
+" land acquisitions are evidently motivated by
+environmental concerns,
+now account for approximately
+20% of large-scale
+land deals.
+Green grabbing
+refers to the large-scale acquisition or control of land and resources for environmental purposes, often with negative social and economic consequences. It's essentially land grabs done under the guise of environmental protection.
+Over half of the land designated by governments for
+carbon removal projects
+presents a potential risk of interference with the livelihoods of small-scale farmers and Indigenous people.
+Carbon offset markets
+are expected to
+quadruple
+in the
+next 7 years
+What are the Key Reasons Behind Land Squeeze?
+Land Grabs:
+Large-scale acquisitions
+of land by governments, corporations, and speculators are displacing farmers and Indigenous communities.
+These acquisitions are mainly for
+resource extraction
+(mining, logging) or
+export-oriented agriculture.
+Rising Population and Demands:
+increasing global population
+along with the
+huge demand for food, feed, fiber and fuel
+is putting lots of pressure on the availability of the land.
+Shifts in Global Food Production Systems
+It involves the transfer of large areas of land towards
+industrial agriculture
+like
+Concentrated Animal Feeding Operations (CAFO)
+monoculture farming practices.
+Industrial agriculture
+is the
+large-scale, intensive production of crops and animals,
+often involving chemical fertilizers on crops and harmful use of antibiotics in animals.
+Also, there has been
+increased demand for land for
+biofuels
+and other
+non-food uses.
+What are the Key Impacts of Land Squeeze?
+Loss of Access and Control for Farmers and Rural Communities:
+Displacement and Dispossession:
+Land grabs and other pressures force small-scale farmers and indigenous communities off their land, disrupting their livelihoods and traditional ways of life.
+Threatens Food Security:
+With
+fewer farmers and less land available
+for food production, overall food security becomes threatened, particularly for local communities.
+Weakened Bargaining Power:
+land ownership
+puts farmers at a
+disadvantage in negotiating fair prices
+for their products from powerful agribusinesses.
+Exacerbated Rural Poverty:
+Limited access to land restricts opportunities for
+rural populations
+, trapping them in a cycle of poverty.
+Environmental Degradation:
+Unsustainable Practices
+: The focus on
+large-scale, export-oriented agriculture
+often leads to unsustainable land use practices, such as
+deforestation
+, soil depletion, and overuse of water resources.
+Loss of Biodiversity:
+Land conversion for mining, infrastructure, and industrial agriculture
+destroys natural habitats
+and threatens biodiversity.
+Increased Vulnerability to Climate Change:
+Degradation of soil health and loss of natural vegetation
+weaken ecosystems,
+making them more vulnerable to
+climate shocks.
+Social Unrest and Conflict:
+Competition for Resources
+: Competition for scarce land resources can lead to
+social tensions and conflicts
+between communities and investors.
+According to the report by
+IPES-Food, over half of the land
+presents a potential risk of interference with the livelihoods of small-scale farmers and indigenous people.
+Instability and Outmigration:
+Loss of land and livelihood opportunities triggers
+rural-urban migration
+, putting pressure on urban resources and social services.
+What are the Recommendations of the Report?
+Halt Land Grabs
+: Policies and regulations are
+needed to prevent land grabs
+and ensure land use decisions prioritise local communities and food security.
+Support Small-Scale Farmers
+: Investments in rural infrastructure, secure land tenure, and access to financing are crucial for empowering small-scale producers.
+Sustainable Land Management:
+Promote practices that protect soil health, conserve biodiversity, and ensure long-term food production.
+Fair Trade Policies:
+Trade agreements should be reformed to promote sustainable agriculture and protect the livelihoods of small-scale farmers.
+Conclusion
+The land squeeze is a complex issue demanding a multifaceted solution. By addressing the underlying causes and supporting small-scale food producers, we can ensure equitable access to land, protect our environment, and build a more sustainable food system for the future.
+Drishti Mains Question:
+Q. Highlighting the threats of land squeeze discuss the land use pattern of India and challenges associated with it.
+
+**********
+Low Snow Persistence in Hindu Kush Himalayas
+Source: TH
+Why in News?
+The recent report from the
+International Centre for Integrated Mountain Development (ICIMOD)
+has shown that the snow persistence in the
+Ganga, Brahmaputra, and Indus basins
+of the
+Hindu Kush Himalayas (HKH)
+has reached record low levels.
+is a regional intergovernmental organisation established
+in 1983
+and working
+towards a greener, more inclusive, and climate-resilient
+Hindu Kush Himalaya.
+What are the Findings of the Report?
+Global Findings:
+Amu Darya river basin
+in Afghanistan reported its lowest snow persistence, the
+Helmand River,
+crucial for Iran and Afghanistan's drinking water supply, saw its snow persistence nearly 32% below normal.
+China’s
+Yellow River
+exceeding normal levels by
+20.2%
+, is influenced by the interaction of
+cold air from the east asian winter monsoon
+with moist air from the
+Pacific Ocean.
+India’s Context:
+The report analysed data from 2003 to 2024, revealing that the Ganga River basin experienced its
+lowest snow persistence in 22 years,
+and the Brahmaputra basin recorded a
+14.6% decrease
+in snow persistence compared to normal levels.
+Reason Behind Low Snow Persistence:
+Impact of Weakened Western Disturbances and Global Warming:
+This study reveals that weakened
+western disturbances
+from warmer seas in the Mediterranean,
+Caspian,
+Black Seas
+have reduced
+winter precipitation and snowfall
+in the Hindu Kush Himalaya region.
+Additionally, global warming has intensified
+La Niña and El Niño events
+further decreasing the region's snow persistence capacity.
+1.5°C global temperature limit
+set under the
+Paris Agreement
+may not be sufficient for the Hindu Kush Himalayan (HKH) region, as this area is expected to experience higher temperature increases than the global average.
+Environmental Degradation:
+Environmental degradation in the HKH region, driven by
+deforestation, overgrazing, unsustainable land practices
+, and infrastructure development, is leading to profound impacts such as
+soil erosion, loss of biodiversity, and water pollution
+in the region.
+The Proliferation of Invasive Species:
+The proliferation of invasive species such as Cirsium arvense
+(Canada thistle)
+and Trifolium repens
+(white clover)
+poses a significant threat to native Himalayan species, upsetting the delicate balance of the region's ecosystem.
+Key Recommendations:
+Long-term Strategies:
+This study suggests that
+reforestation
+with native species such as
+improves
+snow retention
+in the HKH region.
+Enhanced
+weather forecasting
+early warning systems
+Improved
+water infrastructure
+and enact protective policies for snow-receiving areas.
+Community involvement i
+n decision-making along with promoting regional cooperation will help restore the HKH region.
+Climate Change Mitigation:
+Reduce emissions to mitigate rising temperatures and focus on
+G-20 countries
+as they are responsible for 81% of global emissions
+Shift away from
+fossil fuels
+cleaner energy sources.
+What is the Hindu Kush Himalaya Region?
+Geographical Spans of HKH:
+The Hindu Kush Himalayan (HKH) region spans
+Afghanistan, Bangladesh, Bhutan, China, India, Kyrgyzstan, Mongolia, Myanmar, Nepal, Pakistan, Tajikistan, and Uzbekistan.
+Third Pole:
+Often referred to as the
+due to its
+vast ice and snow reserves,
+it holds immense climatic significance.
+This region hosts the largest concentration of ice and snow outside the
+Arctic and Antarctica.
+from the HKH region serve as crucial water sources for
+major rivers,
+which flow through 16 countries across Asia.
+Key River Systems and their Destinations from HKH:
+South Asia:
+Indus, Ganga, Brahmaputra → Arabian Sea and Bay of Bengal
+Central Asia:
+Syr Darya, Amu Darya → former Aral Sea basin
+East Asia:
+Tarim → Taklamakan Desert
+Yellow River → Gulf of Bohai
+Yangtze → East China Sea
+Southeast Asia:
+Mekong → South China Sea
+Chindwin, Salween, Irrawaddy → Andaman Sea
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1719569346_Hindu_Kush _ Himalayan_Region.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+Drishti Mains Questions:
+Q. What are the key challenges facing the Hindu Kush Himalaya region, and how can it be protected by following various climate-friendly practices?
+
+**********
+India's Water Stress and Hydropower
+Source: LM
+Why in News?
+Recently,
+Moody's Ratings
+has warned that
+India's escalating water shortage, climate change-driven natural disasters
+can disrupt several sectors including agricultural production and industrial operations which could undermine the country's
+sovereign credit strength
+.
+What is the Current State of Hydropower Generation in India?
+Current State of Hydropower Generation:
+Hydropower generation in India has
+declined by 17.33%
+from 162.05 billion units in FY23 to
+133.97 billion units in FY24.
+India's installed large
+hydro capacity currently stands at 46.92 GW,
+constituting approximately
+10% of the nation's total power generation capability of 442.85 GW.
+Capacity addition
+of large hydropower projects witnessed a
+decline in FY24,
+with only
+60 MW added
+compared to 120 MW in FY23.
+Factors Responsible of Low Hydropower Genera
+Delayed and Irregular
+monsoons
+: The southwest monsoon has been
+delayed
+this year
+and the patchy rainfall due to
+El-nino Effect
+and a prolonged dry spell last year have left water reservoirs drying up.
+Low Reservoir Levels:
+India's 150 key reservoirs had a
+live storage of only 37.662 BCM, representing 21%
+of their live storage capacity and 80% less than the previous year.
+Indira Sagar reservoir
+in Madhya Pradesh, which supports a hydel capacity of 1 GW, is currently
+17% full
+, down from 24% at this time last year (2023).
+Meanwhile, the
+Koyana dam
+in Maharashtra, with a hydro power capacity of 1.9 GW, is at
+10% capacity
+, lower than the usual level of 15% for this time of year.
+Shutdown of Hydropower Plants
+: Some hydropower plants were shut down in the last few years
+due to the adverse impact of
+floods
+cloudbursts,
+and these plants are yet to resume operations.
+Implications of Low Hydropower for Energy Sector:
+Increased Reliance on
+Thermal Power
+: With declining hydropower generation compared to last year,
+coal-fired power plants will have the load
+to meet the rising power demand.
+Disruptions in Power Supply:
+Industries with high water usage, such as coal power plants and steel makers, will be impacted by the shortage of water supply.
+Further delay in monsoons has led to several
+thermal power plants not undergoing the required maintenance
+, which may lead to
+faults and trippings
+in power supply.
+Reduced Hydropower Potential
+: The decline in water availability will further limit the
+potential for hydropower generation,
+which is a crucial component of India's
+renewable energy
+component.
+What is the Current State of Water in India?
+Water scarcity
+: India has a large
+population (18%
+of the world's total) but limited
+freshwater resources (only 4%
+of the world's total). This makes it a water-stressed country.
+Water pollution:
+Around
+50%
+of India's rivers are contaminated and polluted, making the water unsafe for drinking or irrigation.
+Overdependence on groundwater
+: India is the
+world's largest user of groundwater
+, which is leading to depletion of these resources.
+Groundwater
+plays a vital role in ensuring water security in rural and urban areas, fulfilling around
+80% of the drinking water requirements
+two-thirds of agricultural irrigation needs
+in the country.
+Climate Vulnerability:
+three-quarters of India's districts
+are vulnerable to
+extreme weather
+events like droughts and floods, which can further disrupt water availability.
+What are the Causes of Water Stress in India ?
+Rapid Economic Growth and Urbanisation
+: India's population has grown rapidly, from 361 million in 1951 to over 1.3 billion in 2024.
+This has led to a significant
+increase in water demand for both domestic and industrial uses
+, putting a strain on already stressed resources. Industries, major water consumers, further exacerbate the problem by polluting water bodies with their effluents.
+Declining Water Availability
+: According to the Ministry of Jal Shakti, India's average annual water availability per capita is likely to drop to
+1,367 cubic metres by 2031
+from an already-low
+1,486 cubic metres in 2021.
+A level below 1,700 cubic metres indicates
+water stress,
+with 1,000 cubic metres being the threshold for
+water scarcity.
+Climate Change and Weakening Monsoon Patterns:
+The Indian Ocean has been warming at a rate of
+1.2 degrees Celsius per century during 1950-2020,
+and this is expected to intensify to
+1.7-3.8 degrees Celsius during 2020-2100.
+This warming is leading to a
+narrowing gap between land and sea temperatures, weakening the monsoon circulation
+and resulting in
+more severe and frequent droughts.
+Changing weather patterns and melting glaciers
+in the Himalayas are altering the availability and distribution of water resources.
+Agricultural Practices and Inefficient Usage:
+Agriculture accounts for over
+of India's total water usage.
+Inefficient irrigation techniques, such as
+flood irrigation,
+cultivation of
+water-intensive crops
+like rice and sugarcane in water-scarce regions further strains water resources.
+Groundwater Depletion:
+Central Ground Water Board, 54%
+of India's groundwater resources are
+overexploited
+excessive and unregulated groundwater extraction
+for irrigation and other purposes.
+Poor Water Infrastructure and Management
+: India's water management system suffers from
+deficiencies in infrastructure and governance. Inadequate storage, distribution, and treatment facilities
+lead to significant water losses and inefficiencies.
+Additionally,
+weak water management policies, monitoring, and enforcement
+worsen these issues.
+Water Pollution:
+Industrial effluents,
+agricultural runoff, and domestic sewage
+have polluted many of India's surface and groundwater resources. This has reduced the availability of clean, usable water for various purposes.
+What are the Implications of Water Scarcity in India?
+Health Impacts:
+Lack of access to safe drinking water can lead to various health issues like dehydration, infections, and waterborne diseases. The
+NITI Aayog
+reports that
+around 200,000 people die in India annually due to inadequate water supply
+and related issues.
+Ecological Damage
+: Water scarcity poses a
+threat to wildlife and natural habitats, as animals are forced to venture into human settlements,
+leading to conflicts and endangerment.
+It has also disrupted the biodiversity and ecological balance of ecosystems.
+Reduced Agricultural Productivity:
+Agricultural sector,
+which consumes 85% of India's water resources,
+has been negatively affected with water scarcity leading to reduced crop yields,
+affecting food security, and increasing poverty among farmers.
+Economic Losses:
+Water scarcity can hamper India's economic growth and development by
+affecting industrial production, reducing energy generation
+, and increasing the cost of water supply and treatment.
+World Bank's
+Climate Change, Water and Economy' report
+(2016) warns that countries with water shortages may face a significant setback in economic growth by 2050.
+Effect on India’s Climate Goal:
+India targets generating
+50% of its electricity from non-fossil fuel sources by 2030
+and lower hydropower output would lead to
+relying heavily on solar and wind power
+to fulfil its climate pledge.
+Way Forward
+Sustainable Groundwater Management:
+There is a need to devise a proper mechanism and rural-urban integrated projects for
+artificial recharge to groundwater
+rainwater harvesting
+at household level, conjunctive use of surface water and groundwater, and regulation of water reservoirs.
+Smart Agriculture:
+Drip irrigation
+is a powerful technology that can reduce water consumption by
+20-40%
+increasing crop yield by 20-50%
+compared to furrow
+(flood) irrigation.
+Also, cultivation of
+s like pulses, millets and oilseeds
+should be encouraged
+in water-stressed regions.
+Blue-Green Infrastructure:
+Combining
+green and blue
+elements together in modern infrastructure planning can be an effective way of providing a sustainable natural solution for
+watershed management
+and eco friendly infrastructure.
+Green indicates
+: Gardens, permeable pavements, green roofs.
+Blue indicates
+: Water bodies like rivers, canals, ponds and
+wetlands.
+Using Modern Water Management Techniques:
+Information Technology
+can be integrated with water-related data systems to enhance management and efficiency.
+Recent advances in technology have enabled the purification of water previously deemed unfit for consumption, making it clean and safe.
+Some of the most commonly used techniques include
+Electrodialysis Reversal (EDR)
+Desalination
+Nanofiltration
+Solar and UV Filtration.
+Drishti Mains Question:
+What is Water Stress? Discuss the current challenges related to water management in India?
+
+**********
+Summer Solstice 2024
+Source: IE
+Why in News?
+Recently,
+21
+Jun
+e has been marked as the day of the summer solstice in the
+northern
+hemisphere
+of the world.
+The
+is celebrated as the beginning of summer, or midsummer when one of Earth’s poles is at its maximum tilt towards the sun.
+What is the Summer Solstice?
+Origin:
+Origin of Summer Solstice can be traced to around
+200 BC when ancient Greek scholar Eratosthenes,
+conducted a experiment to measure the Earth’s circumference.
+He observed that
+on the summer solstice, sunlight shone directly down a well in Aswan, Egypt,
+indicating the sun was directly overhead.
+By calculating the difference in shadow lengths between Awan and Alexandria cities and the distance between them, Eratosthenes was able to
+provide an early and accurate estimate of the Earth’s circumference.
+About:
+marks the longest day of the year, when the
+sun reaches its highest point in the sky.
+During the solstice, the Earth’s axis (around which the planet spins, completing one turn each day) is tilted in a way that the
+North Pole is tipped towards the sun
+and the South Pole is away from it.
+Typically,
+this imaginary axis p
+asses right through the middle of the Earth from top to bottom and is
+always tilted at 23.5 degrees with respect to the sun.
+At the
+Arctic Circle
+66°33′ north latitude)
+, the sun never sets during the solstice.
+The amount of light received by a specific area in the
+Northern Hemisphere
+during the summer solstice depends on the latitudinal location of the place.
+Effect:
+During this, countries in the
+are nearest to the Sun and the Sun shines overhead on the
+Tropic of Cancer (23.5° North).
+The Earth rotates on its axis, causing the Northern Hemisphere
+to receive more direct sunlight between March and September.
+incoming energy the Earth receives
+from the sun on this day is
+30% higher at the North Pole than at the Equator.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1718971742_image7.png" style="display: block; margin-left: auto; margin-right: auto;" width="550"/>
+Cultural Significance:
+In many cultures, summer Solstice is a significant time of the year which marks festivals and rituals across the globe.
+
+**********
+What is Cold Lava?
+13-06-2024
+10:34 AM
+<img alt="timer" data-nimg="1" decoding="async" height="24" loading="lazy" src="/_next/static/media/timer.1fbdd779.svg" style="color:transparent" width="24"/>
+min read
+Prelims: Environment & Ecology
+<img alt="What is Cold Lava? Blog Image" class="cover-image-size" src="https://vajiram-prod.s3.ap-south-1.amazonaws.com/Cold_Lava_64593e8d83.webp"/>
+Overview:
+Mt. Kanlaon Natural Park on Negros Island, Philippines, witnessed rivers of cold lava following an explosive eruption recently.
+About Cold Lava:
+Called “lahar”
+in Indonesian, cold lava is a phenomenon that occurs
+when rain mixes with volcanic materials
+like ash, sand, and pebbles.
+The mixture forms a
+concrete-like substance
+that destroys everything in its path.
+Rain can carry cold lava down the slopes
+of a volcano during an eruption and into the paths of nearby towns or villages.
+Unlike traditional lava flows
+which move slowly
+and give residents time to evacuate,
+cold lava can advance rapidly
+, at a speed of hundreds of kilometres per hour, and spread as far away as 60 km from the volcano.
+One of the defining characteristics of cold lava is its ability to
+pick up additional debris and sediment as it travels
+downhill.
+This mixture can
+rapidly increase in volume and destructive potential
+, transforming from a relatively innocuous flow into a powerful force.
+It is considered
+more destructive and deadlier compared to regular lava flows
+Its
+high density and abrasive nature
+mean that it can cause significant damage to buildings, bridges, and roads, posing a serious threat to human life and property.
+Cold lava
+remains hot internally
+due to chemical reactions within the volcanic material, but
+its external appearance and behaviour
+more akin to wet concrete.
+While it is
+commonly associated with volcanic eruptions
+, lahars can
+also occur when no eruption takes place.
+Sometimes, heavy rainfall or snowfall can easily erode and transport fine-grained, loose volcanic sediment and form a slurry, especially if vegetation has not had time to grow back on recent volcanic deposits.
+Q1: What is Lava?
+Lava is hot, liquefied rock that flows from a volcano or other opening in the surface of Earth. When the liquid rock is still underground it is known as magma. Igneous rock is formed when lava cools and hardens.
+Source:

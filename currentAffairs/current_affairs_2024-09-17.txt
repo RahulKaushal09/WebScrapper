@@ -1,0 +1,297 @@
+Laws regarding early elections to Delhi Assembly
+Why in news?
+Delhi CM, Arvind Kejriwal, is expected to submit his resignation as Chief Minister during a meeting with Delhi Lieutenant Governor Vinai Kumar Saxena. He has requested that Delhi Assembly elections be held alongside Maharashtra’s, despite the Delhi Assembly’s term not expiring until February 23, 2025.
+What’s in today’s article?
+Responsibility of deciding the schedule of Delhi Assembly elections
+Role of Chief minister in deciding the schedule
+Current state of preparedness for elections in Delhi
+Article 324 of the Indian Constitution
+Under
+of the Constitution, the
+Election Commission of India (ECI)
+is granted the authority to oversee and manage elections.
+The ECI ensures that the election process is completed before the five-year term of the Assembly ends.
+The Representation of the People Act, 1951
+According to
+Section 15(2) of the Representation of the People Act, 1951
+, elections cannot be announced less than
+six months
+before the Assembly's term ends, unless the Assembly is dissolved earlier.
+Things the ECI looks at before deciding the election schedule
+The new Assembly (or Lok Sabha) must be constituted before the end of the current Assembly’s term, meaning the election process, including all formalities, must be completed beforehand.
+The ECI works backward from the end date, considering factors like weather, security availability, festivals, training of officers, and procurement of EVMs.
+Before finalizing the election schedule, the ECI consults local administration and police and attempts to align voting in states where elections are due around the same time.
+Article 174(2)(b)
+of the Constitution allows the Governor to dissolve the Legislative Assembly, and the Council of Ministers can recommend early dissolution.
+Once dissolved, the Election Commission must conduct elections within six months.
+In 2018, Telangana's Assembly was dissolved early on the Cabinet's recommendation, and elections were held before the term ended.
+Delhi is not a full state
+is governed by the
+Government of National Capital Territory of Delhi Act, 1991
+, under which the
+Lieutenant Governor (LG)
+can dissolve the Assembly, but the final decision lies with the Centre.
+Section 6(2)(b) of the Act says the Lieutenant Governor may from time to time dissolve the Assembly, even if a Chief Minister of Delhi recommends the dissolution of the Assembly, the final say is the Centre’s (through the LG).
+Despite the current Delhi CM’s intention to resign and call for early elections, he has not recommended dissolving the Assembly.
+His successor might be decided after a meeting of AAP MLAs.
+The current state of preparedness for elections in Delhi
+The ECI is currently focused on conducting elections for the Jammu and Kashmir Assembly, with voting in three phases from September 18 to October 1.
+Following this, elections in Haryana will be held on October 5, and counting for both Haryana and J&K will take place on October 8.
+The next Assembly elections will be in Maharashtra and Jharkhand, whose terms end in November 2024 and January 2025, respectively.
+A special summary revision of the electoral rolls is conducted a few months before elections.
+The electoral rolls for J&K, Haryana, Maharashtra, and Jharkhand were published in August,
+while Delhi’s updated rolls will be published on January 6, 2025, as part of the annual revision
+Hence it can be said that Delhi is not preoccupying the ECI currently.
+Laws regarding early elections to Delhi Assembly.pdf
+( Size:  2.3 MB  )
+Click to View More
+Polity & Governance
+**********Rs 6,000-crore scheme to boost precision farming
+Why in news?
+The Centre is planning to earmark Rs 6,000 crore to promote precision farming. In this regard, a Smart Precision Horticulture Programme will be launched by the Union Ministry of Agriculture under the existing Mission for Integrated Development of Horticulture (MIDH) scheme.
+What’s in today’s article?
+Precision farming
+Precision farming (PF) in India
+Proposal to launch scheme to boost precision farming
+About
+Precision farming, also known as precision agriculture, is a modern agricultural practice that uses advanced technology like GPS, sensors, data analytics, drones, and remote sensing to monitor and manage crop production with high accuracy.
+The goal is to
+optimize inputs (like water, fertilizers, and pesticides) based on site-specific conditions to maximize yield, minimize waste, and reduce environmental impact
+Benefits
+Increased Productivity:
+By monitoring field variability, farmers can tailor inputs to meet the specific needs of crops, leading to improved yield and efficiency.
+Resource Optimization:
+Precision farming ensures judicious use of water, fertilizers, and pesticides, reducing waste and lowering production costs.
+Environmental Benefits:
+Reducing the use of chemicals minimizes soil and water contamination, promoting sustainable agricultural practices.
+Risk Management:
+Through real-time data collection and analysis, farmers can make informed decisions, reducing risks related to unpredictable weather and crop diseases.
+Challenges
+High Initial Cost:
+Implementing precision farming technologies requires significant investment in tools and infrastructure, which can be a barrier for small farmers.
+Technical Expertise:
+Farmers need to be trained to use precision tools, interpret data, and implement the findings in their agricultural practices.
+Digital Divide:
+Access to reliable internet connectivity, especially in rural areas, limits the adoption of precision farming in many regions.
+Data Management:
+Processing and interpreting large amounts of data requires specialized software and skills, which are not always available to small-scale farmers.
+Context
+As a modern approach to farming, precision agriculture focuses on all aspects of resources (soil, water, nutrients) required for farming.
+However
+, in India, the practice is so far developed for nutrient-use efficiency (NUE) and water-use efficiency (WUE).
+PF in the Indian landscape is yet to become an integral part of mainstream farming systems.
+Steps taken
+National Mission on Sustainable Agriculture (NMSA)
+Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)
+, which focus on water-use efficiency and soil health monitoring.
+The government has also promoted the use of
+drones, soil health cards, and satellite-based monitoring
+The government has also announced a
+Digital Public Infrastructure (DPI)
+for agriculture that will provide farmers with access to technology and information.
+PF technology is being developed and disseminated through the
+22 Precision Farming Development Centres
+in the country.
+Agriculture Infrastructure Fund
+(AIF), launched during Covid-19, has provisions for financing infrastructure projects for smart and precision agriculture.
+Also, funds are released to states/UTs for projects involving use of AI and machine learning, under schemes like the
+National e-Governance Plan in Agriculture
+Area Under Precision Farming
+Precision farming in India is still at a nascent stage, with a limited area under coverage, mostly in states like Punjab, Haryana, Maharashtra, and Andhra Pradesh.
+The technology has been mainly adopted in large commercial farms and regions with advanced irrigation facilities.
+Challenges in India
+Fragmented Land Holdings
+: The small size of farms in India poses a challenge for the large-scale implementation of precision farming technologies.
+Cost and Awareness
+: Small farmers often lack awareness and resources to invest in high-tech solutions.
+Infrastructure Gaps
+: Lack of robust digital infrastructure in rural India limits the reach of precision farming tools.
+Scheme to promote precision farming
+The Indian government is planning to allocate Rs 6,000 crore to promote precision farming.
+It will utilize smart technologies like IoT, AI, drones, and data analytics to enhance productivity and resource efficiency while reducing environmental impacts.
+is working on launching a
+Coverage
+The scheme will cover 15,000 acres of land in five years from 2024-25 to 2028-29 and is expected to benefit about 60,000 farmers.
+Role of Agriculture Infrastructure Fund (AIF) in promoting precision farming
+Currently, the AIF has provisions for financing infrastructure projects for smart and precision agriculture.
+Under AIF, individual farmers as well as farmers’ communities such as Farmer Producer Organization, Primary Agricultural Credit Societies and SHGs are eligible for loans with
+interest subvention of 3% for using technological solutions in farm practices
+These practices include:
+farm/ harvest automation;
+purchase of drones, putting up specialised sensors on field;
+use of blockchain and AI in agriculture;
+remote sensing and Internet of Things (IoT).
+Collaboration with other countries to promote precision farming in India
+The government is also collaborating with countries like the
+Netherlands
+Israel
+for advanced farming solutions, with a plan to establish
+100 Centres of Excellence (CoEs)
+in five years.
+Already,
+32 Indo-Israel CoEs
+have been set up in 14 states.
+Rs 6,000-crore scheme to boost precision farming.pdf
+( Size:  1.6 MB  )
+Click to View More
+Polity & Governance
+**********India’s Renewable Energy Revolution Story
+Why in News?
+At the 4th Global Renewable Energy Investors Meet and Expo (RE-INVEST 2024) in Gandhinagar, the PM declared that
+India's solar revolution story will be painted in gold
+when the history of the 21st century is written.
+This is because installed
+solar energy capacity in India has increased by 30 times in the last 9 years
+reaching 89.43 GW (as of August 2024).
+The PM also highlighted that the
+government has taken many big decisions in the green energy sector
+What’s in Today’s Article?
+Renewable Energy Installed Capacity in India
+Growth of Renewable Energy Installed Capacity in India
+Key Growth Drivers of Renewable Energy in India
+About the RE-INVEST 2024
+Government Initiatives/ Achievements in the Green Energy Sector Highlighted by the PM at the RE-INVEST 2024
+Renewable Energy Installed Capacity in India:
+As of August 2024
+, Renewable Energy (RE) sources (including large hydropower) have a
+combined installed capacity of 199.52 GW
+The following is the installed capacity for Renewables:
+Wind power: 47.19 GW
+Solar Power: 89.43 GW
+Biomass/Cogeneration: 10.35 GW
+Small Hydro Power: 5.07 GW
+Waste To Energy: 0.60 GW
+Large Hydro: 46.92 GW
+As per REN21 Renewables 2024 Global Status Report,
+India stands 4th globally
+in RE installed capacity (including large hydro),
+4th in Wind Power capacity and 5th in Solar Power capacity
+Growth of Renewable Energy Installed Capacity in India:
+India’s installed non-fossil fuel capacity has
+increased 396%
+in the last 8.5 years
+and stands at more than 207.76 GW (including large hydro and nuclear), which is
+about 46% of the country’s total capacity
+The country has set an enhanced target
+at the UNFCCC’s COP26 (Glasgow, 2021) of
+500 GW
+of non-fossil fuel-based energy by
+2030
+- the world's largest expansion plan in renewable energy under the
+Panchamrit
+Pledge
+Key Growth Drivers of Renewable Energy in India:
+Government commitments
+Reduce India’s total projected carbon emission
+by 1 Bn tonnes by 2030,
+Reduce the carbon intensity
+of the nation’s economy by less than 45% by the end of the decade, and
+Achieve net-zero
+carbon emissions by 2070.
+Proposed solar cities and parks
+The government approved solar city per state and the setting up of 57 solar parks of 39.28 GW capacity across the nation.
+The government is also giving a push to
+Floating PV Projects
+National Green Hydrogen Mission:
+The government launched the mission with an aim to produce 5 million metric tonne (MMT) green hydrogen per annum with an associated renewable energy capacity of about 125 GW by 2030.
+Off-shore Wind Energy:
+The medium and long-term targets for off-shore wind power capacity additions are 5 GW by 2022 and 30 GW by 2030.
+Wind-Solar Hybrid Policy:
+In 2018, national policy was announced to promote an extensive grid-connected wind-solar PV hybrid system for efficiently utilising transmission infrastructure and land.
+AatmaNirbhar Bharat:
+The PLI scheme in Solar PV manufacturing was introduced under AatmaNirbhar Bharat.
+Promoting FDI:
+Up to 100% FDI is allowed under the automatic route for renewable energy generation and distribution projects subject to provisions of the Electricity Act 2003.
+Union Budget 2024 Highlights:
+The Centrally Sponsored Scheme for Solar Power (Grid) has been allocated INR 10,000 Cr.
+PM-Surya Ghar Muft Bijli Yojana
+has been allocated INR 6,250 Cr. Under this scheme, the government provides funds and helps in installation of solar rooftops in every household.
+Exemption of Basic Customs Duty (
+BCD
+) on imports of 25 critical minerals important for the renewable energy sectors has also been announced.
+About the RE-INVEST 2024:
+Organised by the
+Ministry of New and Renewable Energy
+(MNRE), Government of India,
+RE-Invest is a global platform
+bringing together key players in the renewable energy sector.
+The conference will delve into the future of energy
+, exploring trends, technologies, and policies shaping the global renewable energy landscape and help in achieving
+UN SDGs 7 and 13.
+This unique platform will foster collaboration
+, knowledge sharing, and investment opportunities to advance India's renewable energy goals.
+Government Initiatives/ Achievements in the Green Energy Sector Highlighted by the PM at the RE-INVEST 2024:
+A new Bio E3
+(Biotechnology for Economy, Environment, and Employment) policy has been approved for promoting high performance bio manufacturing.
+For offshore wind energy projects,
+a viability gap funding scheme
+has been approved with an outlay of ₹Rs 7000 crore.
+The Union government has set aside a
+₹1 trillion research fund
+for taking several initiatives for electric mobility and high-performance bio manufacturing.
+India is the first G-20 country to meet climate commitments
+made in Paris nine years before the deadline.
+newspaper.pdf
+( Size:  206.5 KB  )
+Click to View More
+Economics
+**********How do Emergency Provisions Impact Centre-State Relations?
+What’s in Today’s Article?
+Introduction (Context of the Article)
+Emergency Provisions (Articles 355 & 356, Historical Context, Judicial Interpretations, Recommendations from Commissions, Case of Manipur, etc.)
+Introduction:
+The recent surge in violence in Manipur has reignited discussions on the Centre-State relations in India, particularly regarding the use of emergency provisions.
+These provisions allow the central government to intervene in the affairs of state governments under specific circumstances.
+India's Federal Structure:
+India operates under a federal system, where governance is shared between the Centre and the States.
+The Constitution, through its
+Seventh Schedule
+, divides powers between the two levels of government.
+Law and order are primarily the responsibility of the State governments.
+However, in cases where there is a breakdown of governance, the Centre has the authority to intervene under certain emergency provisions.
+Understanding Emergency Provisions:
+The emergency provisions are encapsulated in
+Part XVIII of the Constitution
+, specifically
+Article 355 mandates the Centre to protect states from external aggression and internal disturbances, while ensuring that state governments function according to the Constitution.
+Article 356 grants the Centre the power to impose President's Rule in a state if it fails to comply with constitutional norms.
+These provisions are unique to India, as similar federal systems like the U.S. and Australia do not allow the central government to remove state governments.
+Historical Context and Judicial Interpretation:
+B.R. Ambedkar, while drafting these provisions, expressed hope that they would remain unused.
+Article 356 has been misused on numerous occasions to remove state governments
+, often for political reasons.
+It was only after the landmark 1994 Supreme Court judgment in the
+R. Bommai case
+that limitations were imposed on the use of Article 356.
+The court ruled that
+it could only be invoked in cases of a constitutional breakdown
+, not merely for a law-and-order issue.
+Additionally, the
+court emphasized that the imposition of President's Rule would be subject to judicial review
+On the other hand, the scope of Article 355 has expanded through various court rulings.
+Initially interpreted narrowly, cases like
+Naga People's Movement of Human Rights vs Union of India
+(1998) have broadened its application, allowing the Centre to take a wider range of actions to fulfil its duty of protecting states.
+Recommendations from Various Commissions:
+Several commissions have examined the use of emergency provisions in Centre-State relations.
+Sarkaria Commission (1987)
+National Commission to Review the Working of the Constitution (2002)
+, and the
+Punchhi Commission (2010)
+all concur that Article 355 places a duty on the Union government, but any actions under Article 356 should be used as a last resort.
+They emphasize that it should only be invoked in extreme situations.
+The Case of Manipur:
+The violence in Manipur has brought the issue of emergency provisions to the forefront once again.
+The situation in the state, marked by widespread violence, looting of police ammunition, and targeted attacks, goes beyond a simple law-and-order breakdown.
+Yet, despite the severity of the crisis, Article 356 has not been invoked.
+This is likely due to political considerations, as the same party holds power both at the Centre and the State.
+However, Article 355 is being utilized, and the Centre is taking steps to restore normalcy through various instructions and actions.
+Conclusion:
+While India's federal structure emphasizes state autonomy, emergency provisions like Articles 355 and 356 give the Centre considerable power to intervene when necessary.
+However, these provisions must be used judiciously to maintain the delicate balance between the Centre and the States.
+The situation in Manipur highlights the complexities of this relationship, where political, constitutional, and legal factors all play a role in determining the extent of the Centre’s involvement.
+How do emergency provisions impact Centre-State relations.pdf
+( Size:  158.8 KB  )
+Click to View More
+Polity & Governance
+**********

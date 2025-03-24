@@ -1,0 +1,110 @@
+
+**********
+PMMVY Implementation Concerns
+Source: TH
+Why in News?
+Despite maternity benefits being a legal entitlement under the
+National Food Security Act (NFSA), 2013
+, the
+Pradhan Mantri Matru Vandana Yojana (PMMVY)
+faces significant implementation challenges, leaving millions of pregnant women without essential benefits.
+What is PMMVY and its Concerns?
+PMMVY:
+The
+Centrally Sponsored
+scheme launched in 2017 under the
+Ministry of Women and Child Development,
+provides maternity benefits to eligible pregnant and lactating women.
+However, government employees and those receiving similar benefits are not eligible.
+Objectives:
+PMMVY ensures maternal nutrition, promotes institutional deliveries, supports financial stability, and encourages the birth of girl children.
+Key Features
+: Provides
+financial assistance
+to support maternal health and nutrition.
+First child:
+Rs 5,000 is provided, and additional benefits under
+Janani Suraksha Yojana (JSY)
+ensure that women receive around
+Rs 6,000
+in total.
+Second child (only if a girl):
+Rs 6,000 is given to promote
+gender equality
+and discourage
+female feticide
+Concerns:
+Restricted Coverage
+: The scheme violates the
+NFSA, 2013
+, which mandates universal maternity benefits, by limiting benefits to only the
+first two children
+, with the second child covered only if it is a
+Budget Cuts
+: In
+2023-24, the central government allocated just Rs 870 crore
+for the scheme, only one-third of what was allocated in 2019-20.
+Covering
+90% of births
+at Rs 6,000 each would require at least
+Rs 12,000 crore
+Poor Implementation
+: The scheme’s effective coverage dropped from
+36% in 2019-20 to just 9% in 2023-24.
+Bureaucratic and Digital Hurdles
+: The scheme is plagued by
+Aadhaar
+-based verification issues
+, complex application processes and frequent software failures, making it difficult for
+poor and digitally illiterate women
+to access benefits.
+What are the Provisions for Maternity Benefits Under NFSA?
+NFSA 2013:
+Aims to provide
+food and nutritional security
+by ensuring access to affordable food grains for a large section of India's population.
+The Act marks a shift from
+welfare-based to rights-based food security,
+making the
+Public Distribution System (PDS
+more structured and legally binding.
+Maternity Benefits Under the NFSA, 2013
+: All pregnant women (except those in the formal sector) are entitled to
+Rs 6,000 per child
+as maternity benefits.
+Maternity benefits
+help ensure
+proper nutrition, healthcare, and rest
+for pregnant women, which is crucial for maternal and child health.
+Way Forward
+Grassroots Implementation:
+Involve
+Accredited Social Health Activists
+Anganwadi workers
+Panchayati Raj institutions
+to identify and assist eligible beneficiaries.
+Extend benefits to
+low-income workers in the informal economy
+, as many are outside the scope of
+paid maternity leave.
+Extend benefits to all pregnant women, as mandated by the NFSA  instead of restricting it to the first child and second child.
+Holistic Approach:
+Ensure better linkage with JSY,
+POSHAN Abhiyaan
+, and state maternity schemes (state models like Tamil Nadu and Odisha) to provide comprehensive maternal care.
+Combine cash transfers with
+free nutrition kits,
+antenatal care
+postpartum support
+for better maternal and child health outcomes.
+Monitoring:
+Conduct regular independent audits to evaluate fund utilization and beneficiary reach.
+Remove Digital Hurdles:
+Introduce
+alternative identity verification
+to prevent exclusion due to Aadhaar-related issues.
+Ensure payments are credited without delays by
+integrating with Jan Dhan accounts
+removing unnecessary bureaucratic approvals
+Drishti Mains Question:
+How does the Pradhan Mantri Matru Vandana Yojana contradict the provisions of the National Food Security Act, 2013? Suggest measures to align the scheme with NFSA.

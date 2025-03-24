@@ -1,0 +1,17 @@
+
+**********
+Aadhaar Good Governance Portal
+February 28, 2025
+The Ministry of Electronics and Information Technology (MeitY) has recently launched the Aadhaar Good Governance portal. This initiative aims to streamline the approval process for
+Aadhaar authentication
+requests. The portal is part of a broader effort to enhance ease of living and improve service accessibility for citizens.
+Purpose
+The portal serves to facilitate the submission and approval of Aadhaar authentication requests. It aims to make the process more efficient for both government and non-government entities. This aligns with the goal of improving transparency and inclusivity in public services.
+Recent Legislative Changes
+The portal’s launch follows the amendment of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016. This amendment, notified in January 2025, expands the scope of Aadhaar authentication. It allows various entities to use Aadhaar for public interest services, thereby enhancing service delivery.
+Enhancing Digital Economy
+Aadhaar is recognised as a trusted digital identity globally. Over a billion Indians have used it for authentication over 100 billion times in the last decade. It plays an important role in the growth of India’s digital economy, promoting resident-centric services.
+Benefits for Service Providers and Seekers
+The amendment allows Aadhaar number holders to access services across various sectors. These include healthcare, hospitality, e-commerce, and education. Service providers can utilise Aadhaar for customer onboarding, e-KYC verification, and staff attendance.
+Step-by-Step Guidance for Users
+The Aadhaar Good Governance portal will provide a comprehensive guide for entities seeking authentication. It will include Standard Operating Procedures (SOPs) for applying and onboarding. Future integrations might include face authentication in customer-facing applications.

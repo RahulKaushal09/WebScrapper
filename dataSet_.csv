@@ -1,0 +1,875 @@
+Input,Prompt,Output
+"Methods of Sampling Sampling is a technique used in research where a subset of individuals is selected from a larger population to represent the entire population. This section discusses various methods of sampling. Random Sampling Random sampling is a method where each member of the population has an equal chance of being selected. This can be done in several ways: Lottery Method Each member of the population is assigned a number, and numbers are randomly drawn to select the sample. Tables of Random Numbers A table of random numbers is used to randomly select members from the population. Purposeful or Deliberate Sampling This method involves the researcher making deliberate choices about which members of the population to include based on who they believe will provide the best information. Stratified or Mixed Sampling This method involves dividing the population into distinct strata or groups based on certain characteristics. A random sample is then taken from each group. This ensures that different segments of the population are adequately represented. Example: If studying a population with different age groups, the population is divided into age categories, and samples are taken from each category. Systematic Sampling In systematic sampling, items are selected from an ordered list at regular intervals. Example: Every 10th item on a list is selected. Cluster Sampling In cluster sampling, the population is divided into clusters (groups), and a random sample of clusters is selected. All members of the chosen clusters are then included in the sample. Example: Dividing a city into districts and randomly selecting districts, then surveying all individuals in those districts. Quota Sampling Quota sampling involves dividing the population into groups and then sampling a specific quota from each group, similar to stratified sampling, but without random selection within groups. Convenience Sampling In convenience sampling, the sample is chosen based on ease of access and convenience to the researcher. Example: Surveying individuals who are easily accessible, such as people in a shopping mall. Reliability of Sampling Data The reliability of sampling data depends on several factors: Size of the Sample Larger samples tend to be more representative of the population. Method of Sampling The chosen sampling method impacts the reliability and accuracy of the data. Skills of Correspondents and Enumerators The effectiveness of those collecting the data affects its reliability. Training of Enumerators Proper training ensures that data collection is consistent and accurate. Important Organizations for Data Collection Several national and international organizations collect, process, and publish statistical data. Key organizations include: NSSO (National Sample Survey Organization) Conducts large-scale surveys on socio-economic issues. RBI (Reserve Bank of India) Collects and publishes financial and economic data. Registrar General of India Conducts the Census and collects vital statistics. DGCIS (Directorate General of Commercial Intelligence and Statistics) Collects trade statistics. Labour Bureau Collects data on labor and employment.",Paraphrase above information in points . Make sure language you use should be in layman . Provide in points and also make headings and sub headings wherever required.,"<h2>Sampling Methods</h2> <img alt=""Collection of Data | Statistics for SSC CGL""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421706_b6dbdacd-476b-4a04-a62e-32063a8c5b77_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; width: 496px;"" /><strong>Random
+    Sampling</strong>
+<p>Random sampling ensures that every member of a population has an equal chance
+    of being selected. This method minimizes selection bias and ensures
+    representativeness.</p>
+<p>(a)Lottery Method:</p><strong>(a)Lottery Method</strong>
+<p>Each member of the population is assigned a unique number. Numbers are then
+    randomly drawn to select the sample.</p>
+<p>Example: In a class of 30 students, each student is assigned a number from 1
+    to 30. Numbers are drawn randomly to select 5 students for a survey.</p>
+<strong>Example</strong>
+<p>Tables of Random Numbers:</p><strong>Tables of Random Numbers</strong>
+<ul>Description: A pre-generated table of random numbers is used to select
+    members from the population.Example: Using a table, a researcher might
+    randomly select students from a list of 100 based on random numbers that
+    fall within the list.</ul><strong>Description</strong><strong>Purposeful or
+    Deliberate Sampling</strong>
+<p>Purposeful sampling involves selecting specific individuals based on certain
+    criteria deemed important for the study. This is often used when specific
+    insights are required. The researcher identifies individuals who are thought
+    to have particular knowledge or experience relevant to the study.</p>
+<p>Example: In a study about expert opinions on climate change, researchers
+    might only select environmental scientists and policy makers.</p>
+<strong>Stratified or Mixed Sampling</strong>
+<p>Stratified sampling involves dividing the population into distinct sub-groups
+    (strata) and then randomly sampling from each stratum. This ensures that all
+    sub-groups are represented.The population is divided based on
+    characteristics like age, gender, income, etc. A random sample is drawn from
+    each stratum.</p>
+<ul>Example: In a survey of a city's population, the city might be divided into
+    age groups (e.g., 18-30, 31-50, 51+) and a random sample taken from each
+    group to ensure representation across all ages. </ul><strong>Systematic
+    Sampling</strong>
+<p>Systematic sampling involves selecting every nth item from a list of the
+    population. A starting point is selected at random, and then every nth item
+    in the list is chosen.</p>
+<ul>Example: In a list of 1000 names, every 10th person might be selected for a
+    survey, starting from a random point in the list.</ul><strong>Cluster
+    Sampling</strong>
+<p>Cluster sampling involves dividing the population into clusters and then
+    randomly selecting some clusters to include all members from those clusters.
+    The population is divided into clusters, which could be geographic or
+    organizational units. Clusters are randomly chosen, and all members of these
+    clusters are included in the sample.</p>
+<ul>Example: In a national survey, cities (clusters) are randomly selected, and
+    all residents within those cities are surveyed.</ul><strong>Quota
+    Sampling</strong>
+<p>Quota sampling involves dividing the population into groups and then
+    selecting samples from each group to meet a specific quota. This method is
+    similar to stratified sampling but does not involve random selection within
+    groups. The population is segmented into groups, and samples are taken until
+    a pre-set number of individuals from each group are included.</p>
+<ul>Example: A survey requires 100 respondents with specific quotas for gender,
+    age, and occupation. Once quotas are met, sampling stops.</ul>
+<strong>Convenience Sampling</strong>
+<p>Convenience sampling involves selecting individuals who are easiest to reach
+    or most convenient for the researcher. The sample is chosen based on ease of
+    access rather than randomness.</p>
+<ul>Example: Surveying people at a local grocery store because it is easily
+    accessible, rather than attempting to reach a broader population. </ul>
+<h3>Reliability of Sampling Data</h3>
+<p>The reliability of sampling data can be influenced by several factors:</p>
+<ul>Size of the Sample: Larger samples generally provide more reliable estimates
+    of the population and reduce sampling error.Method of Sampling: The choice
+    of sampling method impacts how representative and unbiased the sample is.
+    Random methods tend to be more reliable compared to non-random
+    methods.Skills of Correspondents and Enumerators: The effectiveness and
+    competence of those collecting the data play a crucial role in data
+    reliability. Skilled individuals are more likely to gather accurate and
+    consistent information.Training of Enumerators: Proper training ensures that
+    data collection is done uniformly and correctly, minimizing errors and
+    biases.</ul>
+<p>Size of the Sample: Larger samples generally provide more reliable estimates
+    of the population and reduce sampling error.</p><strong>Size of the
+    Sample</strong>
+<p>Method of Sampling: The choice of sampling method impacts how representative
+    and unbiased the sample is. Random methods tend to be more reliable compared
+    to non-random methods.</p><strong>Method of Sampling</strong>
+<p>Skills of Correspondents and Enumerators: The effectiveness and competence of
+    those collecting the data play a crucial role in data reliability. Skilled
+    individuals are more likely to gather accurate and consistent information.
+</p><strong>Skills of Correspondents and Enumerators</strong>
+<p>Training of Enumerators: Proper training ensures that data collection is done
+    uniformly and correctly, minimizing errors and biases.</p><strong>Training
+    of Enumerators</strong>
+<h3>Important Organizations for Data Collection</h3>
+<p>Several key organizations are involved in collecting, processing, and
+    publishing statistical data:</p>
+<p>1. NSSO (National Sample Survey Organization):</p><strong>1. NSSO (National
+    Sample Survey Organization)</strong>
+<ul>Role: Conducts extensive surveys on various socio-economic issues in
+    India.Focus: Economic and social data, including employment, consumption,
+    and health statistics.</ul><strong>Role</strong><strong>Focus</strong>
+<p>2. RBI (Reserve Bank of India):</p><strong>2. RBI (Reserve Bank of
+    India)</strong>
+<ul>Role: Collects and publishes financial and economic data.Focus: Monetary
+    policy, financial stability, and banking sector statistics.</ul>
+<p>3. Registrar General of India:</p><strong>3. Registrar General of
+    India</strong>
+<ul>Role: Conducts the Census of India and collects vital statistics.Focus:
+    Population data, demographic information, and vital statistics like births
+    and deaths.</ul>
+<p>4. DGCIS (Directorate General of Commercial Intelligence and Statistics):</p>
+<strong>4. DGCIS (Directorate General of Commercial Intelligence and
+    Statistics)</strong>
+<ul>Role: Collects and publishes trade statistics.Focus: Trade, commerce, and
+    industrial data.</ul>
+<p>5. Labour Bureau:</p><strong>5. Labour Bureau</strong>
+<ul>Role: Gathers data on labor and employment.Focus: Employment statistics,
+    wage rates, and labor market trends.</ul>"
+"What are Common Challenges in Data Collection?
+Data Quality Issues: The main problem affecting the extensive use of machine learning is poor data quality. To make technologies like machine learning work well, you need to focus on ensuring data quality. Inconsistent Data: When dealing with various data sources, there can be differences in the same information, like formats, units, or even spellings. These differences can arise during company mergers or relocations. Inconsistent data, if not dealt with consistently, can lessen the value of the data over time. Organizations that stress data consistency aim to have reliable data to support their analyses. Data Downtime: Data is crucial for the decisions and operations of data-focused businesses. However, there can be short periods when data is not reliable or unavailable. This data unavailability can lead to customer complaints and below-par analytical outcomes. Data engineers spend a lot of time ensuring data pipelines are current and dependable. From data collection to insights, the time taken to process data can be long, incurring high costs. Ambiguous Data: Even with careful oversight, mistakes can still happen in large databases or data lakes, especially with rapidly streaming data. These mistakes can involve unnoticed spelling errors, formatting problems, or misleading column headings. Unclear data can result in various reporting and analytics challenges. Duplicate Data: Streaming data, local databases, and cloud data lakes are some of the data sources that modern businesses have to deal with. They may also have application and system silos. These sources are likely to duplicate and overlap quite a bit. Duplicate contact information, for example, significantly impacts the customer experience. When certain prospects are overlooked while others are contacted repeatedly, marketing campaigns suffer. The chances of biased analytical outcomes rise when there is duplicate data. It can also lead to machine learning models with biased training data. Too Much Data: While we emphasize data-driven analytics and its benefits, there is a data quality issue with too much data. There is a risk of getting lost in a large amount of data when looking for information relevant to your analytical efforts. Data scientists, data analysts, and business users spend 80% of their time searching for and organizing the right data. With an increase in data volume, other data quality problems become more serious, especially when dealing with streaming data and large files or databases. Inaccurate Data: For heavily regulated industries like healthcare, data accuracy is vital. Given the current situation, increasing data quality for situations like COVID-19 and future pandemics is crucial. Inaccurate information doesn't give you an accurate picture of the situation and can't be used to plan the best course of action. Personalized customer experiences and marketing strategies underperform if your customer data is inaccurate. Hidden Data: Most businesses only use a portion of their data, with the rest sometimes lost in data silos or discarded in data graveyards. For example, the customer service team might not receive customer data from sales, missing a chance to build more precise and comprehensive customer profiles. Missing opportunities to develop new products, improve services, and streamline processes are caused by hidden data. Finding Relevant Data: Finding relevant data is not straightforward. There are many factors to consider when trying to find relevant data, such as the relevant domain, demographics, time period, and more. Data that isn't relevant to our study in any of these factors becomes obsolete and we can't effectively proceed with its analysis. This could lead to incomplete research or analysis, repetitive data collection, or the termination of the study. Deciding the Data to Collect: Determining what data to collect is one of the most crucial factors when collecting data and should be among the first considerations. We need to choose the subjects the data will cover, the sources we will use to gather it, and the amount of information we will need. Our answers to these questions will depend on our goals or what we aim to achieve using the data. For example, we may choose to gather information on the types of articles that website visitors between the ages of 20 and 50 access most frequently. We could also opt to gather data on the average age of all customers who made a purchase from your business in the last month. Dealing With Big Data: Big data refers to extremely large data sets with complex and diverse structures. These characteristics often result in increased challenges when storing, analyzing, and utilizing different methods to extract results. Big data particularly refers to data sets that are very large or complex, making traditional data processing tools insufficient. The massive amount of data, both unstructured and structured, that a business encounters on a daily basis. Low Response and Other Research Issues: Poor design and low response rates have been identified as two issues with data collection, especially in health surveys that used questionnaires. This can lead to an inadequate or insufficient supply of data for the study. Establishing an incentivized data collection program could be helpful in increasing responses.",Paraphrase above information in points . Make sure language you use should be in layman . Provide in points and also make headings and sub headings wherever required.,"<h2>What are Common Challenges in Data Collection?</h2>
+<p>There are some prevalent challenges faced while collecting data, let us
+    explore a few of them to understand them better and avoid them.</p><img
+    alt=""Collection of Data | Statistics for SSC CGL""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421706_06aa9843-f888-49c1-ab33-b99e5c832a7d_lg.jpeg""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""max-width: 100%; cursor: pointer; padding: 0px 1px; user-select: none; word-break: break-word; width: 603px; display: block; margin: 5px auto; text-align: center; letter-spacing: inherit !important;"" />
+<ul>Data Quality Issues: The main challenge affecting the widespread use of
+    machine learning is poor data quality. To make technologies like machine
+    learning effective, it is important to focus on ensuring data
+    quality.Inconsistent Data: When dealing with different data sources, there
+    can be variations in the same information, such as formats, units, or even
+    spellings. These variations can occur during company mergers or relocations.
+    If inconsistent data is not addressed consistently, it can diminish the
+    value of the data over time.Data Downtime: Data is vital for the decisions
+    and operations of data-centric businesses. However, there may be brief
+    periods when data is unreliable or unavailable. This unavailability of data
+    can lead to customer complaints and subpar analytical results.Ambiguous
+    Data: Even with careful oversight, errors can occur in large databases or
+    data lakes, particularly with rapidly streaming data. These errors can
+    involve unnoticed spelling mistakes, formatting issues, or misleading column
+    headings. Unclear data can pose various challenges for reporting and
+    analytics.Duplicate Data: Modern businesses have to manage streaming data,
+    local databases, and cloud data lakes. They may also have application and
+    system silos, leading to significant duplication and overlap. Duplicate
+    contact details, for instance, can greatly impact the customer
+    experience.Too Much Data: While the emphasis is on data-driven analytics and
+    its advantages, having too much data can be a data quality issue. There is a
+    risk of getting lost in a large volume of data when searching for
+    information relevant to analytical efforts.Inaccurate Data: For heavily
+    regulated sectors like healthcare, data accuracy is essential. Improving
+    data quality for situations like COVID-19 and future pandemics is crucial.
+    Inaccurate information does not provide an accurate representation of the
+    situation and cannot be used to plan the best course of action.Hidden Data:
+    Most businesses utilize only a portion of their data, with the remainder
+    sometimes lost in data silos or discarded in data graveyards. Missing
+    opportunities to develop new products, enhance services, and streamline
+    processes are consequences of hidden data.Finding Relevant Data: Identifying
+    relevant data is not always straightforward. Various factors need to be
+    considered when trying to find relevant data, such as domain relevance,
+    demographics, and time period. Data that is irrelevant in any of these
+    aspects becomes obsolete and hinders effective analysis.Deciding the Data to
+    Collect: Determining what data to collect is a crucial aspect of data
+    collection and should be prioritized. Choices regarding the subjects covered
+    by the data, data sources, and required information depend on the goals or
+    objectives of data usage.Dealing With Big Data: Big data involves extremely
+    large and complex data sets, posing challenges in storage, analysis, and
+    deriving results. Traditional data processing tools may not be adequate for
+    handling big data effectively.Low Response and Other Research Issues: Poor
+    design and low response rates are identified as challenges in data
+    collection, particularly in health surveys using questionnaires.
+    Establishing an incentivized data collection program can help improve
+    response rates. </ul><strong>Data Quality Issues:
+</strong><strong>Inconsistent Data: </strong><strong>Data Downtime:
+</strong><strong>Ambiguous Data: </strong><strong>Duplicate
+    Data:</strong><strong>Too Much Data: </strong><strong>Inaccurate
+    Data:</strong><strong>Hidden Data: </strong><strong>Finding Relevant Data:
+</strong><strong>Deciding the Data to Collect: </strong><strong>Dealing With Big
+    Data:</strong><strong>Low Response and Other Research Issues</strong>"
+"Madhavacharya (1238–1317)
+- Bhakti Movements Upsc Notes Philosophy of Dvait (Dualism) · We can reach God. But Bhakta and Bhagwan are different and can never be completely unified. · The world is not an illusion; it is real. · Propagated Tattvavada – the presence of two tattvas or categories of reality. Svatantra tattva (independent reality) – the cause of the universe is God, and he is the only independent reality. Asvatantra tattva (dependent reality) – Jiva (individual souls) and Jada (matter, material things) are dependent Vallabhacharya (1479-1531)Vallabhacharya (1479-1531)- Bhakti Movement Upsc Notes Belonged to a Telugu Brahmin family residing in Varanasi. Philosophy of Shuddha Advait (Pure Non-dualism) · God is the universe itself. Its size is like an atom. But it extends the whole body through its essence of intelligence. · The Maya is not unreal, and everything is Krishna’s Leela. · Vallabha founded Pushti Marg (path of grace). · He rejected asceticism and monastic life. The soul is both an enjoyer and a doer. Nimbaraka (11th century)Nimbaraka (11Th Century)- Bhakti Movement Upsc Notes Philosophy of Dvait Advait (Dualistic monoism) · Three categories of objects – Ishwar Conscious objects(chit) Unconscious objects(achit) · For Ramanuja, Oneness is greater than Difference, but for Nimbaraka, Difference is as crucial as oneness. Chaitanya Mahaprabhu (1486-1534)Chaitanya Mahaprabhu (1486-1534) Source: Wikipedia Philosophy of Achintya-bhed-abheda · God is simultaneously one and different from the creation. · Founded Gaudiya Vaishnavism. · composed the Shiksha-shtakam (eight devotional prayers) · According to his followers, he is the combined avatar of Radha and Krishna. · He popularised the chanting of Hare Krishna Maha-mantra.",Paraphrase above information in points . Make sure language you use should be in layman . Provide in points and also make headings and sub headings wherever required.,"<p>Madhavacharya (1238-1317 CE): </p><strong>Madhavacharya (1238-1317 CE):
+</strong>
+<p>Madhavacharya</p><img alt=""Madhavacharya""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/13053934_3b3a551f-fbed-4798-a664-cbf4023e6dea_lg.jpeg""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""word-break: break-word; max-width: 100%; letter-spacing: inherit !important;"" />
+<ul>He advanced the philosophy of Dvaita (Dualism), which asserts that while a
+    devotee can reach God, the devotee (Bhakta) and God (Bhagwan) are distinct
+    and can never be fully unified.He also taught that the world is real and not
+    an illusion.His concept of Tattvavada involves two categories of
+    reality:Svatantra Tattva (Independent Reality), where God is the cause of
+    the universe and the only independent reality.Asvatantra Tattva (Dependent
+    Reality), which includes Jiva (individual souls) and Jada (matter).</ul>
+<strong>Dvaita (Dualism)</strong><strong>Tattvavada</strong>
+<ul>Svatantra Tattva (Independent Reality), where God is the cause of the
+    universe and the only independent reality.Asvatantra Tattva (Dependent
+    Reality), which includes Jiva (individual souls) and Jada (matter).</ul>
+<strong>Jiva (individual souls)</strong><strong>Jada (matter)</strong>
+<p>Vallabhacharya (1479-1531 CE): </p><strong>Vallabhacharya (1479-1531 CE):
+</strong>
+<p>Vallabhacharya</p><img alt=""Vallabhacharya""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/13053934_64f86e8c-a11f-4218-b6b5-285f8ba964ee_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""word-break: break-word; max-width: 100%; letter-spacing: inherit !important;"" />
+<ul>Hailing from a Telugu Brahmin family in VaranasiHe promoted the philosophy
+    of Shuddha Advaita (Pure Non-dualism)God is the universe itself, atomic in
+    size but pervading the whole body through the essence of intelligenceHe
+    taught that Maya is not unrealEverything is Krishna's Leela (divine
+    play)Vallabha founded the Pushti Marg (Path of Grace)Rejecting asceticism
+    and monastic lifeBelieved that the soul is both an enjoyer and a doer </ul>
+<strong>Telugu Brahmin</strong><strong>Varanasi</strong><strong>Shuddha
+    Advaita</strong><strong>Krishna's Leela</strong><strong>Pushti
+    Marg</strong><strong>enjoyer</strong><strong>doer</strong>
+<p>Nimbarka (11th Century CE):</p>
+<p>Nimbarka</p><img alt=""Nimbarka""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/13053934_5f16b438-3e25-4799-8808-6d45676bb2da_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""word-break: break-word; max-width: 100%; letter-spacing: inherit !important;"" />
+<ul>He proposed the philosophy of Dvaita Advaita (Dualistic Monism), which
+    involves three categories of objects: Ishwar (God), Chit (Conscious
+    objects), and Achit (Unconscious objects).While Ramanuja emphasized oneness
+    over difference, Nimbarka considered both oneness and difference to be
+    equally important.</ul><strong>Dvaita
+    Advaita</strong><strong>Ishwar</strong><strong>Chit</strong><strong>Achit</strong><strong>Ramanuja</strong>
+<p>Chaitanya Mahaprabhu (1486-1534 CE):</p>
+<p>Chaitanya Mahaprabhu</p><img alt=""Chaitanya Mahaprabhu""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/13053934_a8fde577-399e-48ae-b44d-e346f5d6e9fc_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""word-break: break-word; max-width: 100%; letter-spacing: inherit !important;"" />
+<ul>He introduced the philosophy of Achintya Bheda Abheda (Inconceivable Oneness
+    and Difference), which states that God is simultaneously one with and
+    different from His creation.He founded Gaudiya Vaishnavism and composed the
+    Shiksha-shtakam, a series of eight devotional prayers.His followers regard
+    him as the combined incarnation of Radha and Krishna.He also popularized the
+    chanting of the Hare Krishna Maha-mantra.</ul><strong>Achintya Bheda
+    Abheda</strong><strong>Gaudiya
+    Vaishnavism</strong><strong>Shiksha-shtakam</strong><strong>Radha</strong><strong>Krishna</strong><strong>Hare
+    Krishna Maha-mantra</strong>"
+"Saints of Maharashtra 
+Between the 13th and 17th centuries, saints of Maharashtra wrote poems in simple Marathi, which inspired people. Shri Vitthal Rukmini Mandir Pandharpur was an important centre for these saints. They all believed that a personal god resides in people’s hearts. Saints Features and Teachings Dnyaneshwar/ Janeshwar/ Jnanadeva (1275–1296) · He belonged to the Nath tradition (consider Shiva as their first guru). · Contributions to Marathi literature – Dnyaneshwari (a commentary on Gita) and Amrutanubhav. Namdev (1270-1350)Namdev (1270-1350) · Belonged to the Warkari cult, · his hymns are included in the Guru Granth Sahib. · Emphasised the importance of the institution of marriage. · Emphasised the importance of family life. He also preached that it is the only method of attaining Moksha (self-realisation). Sakkubai · A devotee of lord Vitthala · Born in a Brahmin family, she was ill-treated by her in-laws. Eknath (1533-1599)Eknath (1533-1599)- Bhakti Movement Upsc Notes · He was the spiritual successor to the prominent Marathi saints Dnyaneshwar and Namdev. · Eknath belonged to the Warkari cult. ·Their Writings of the Hindu religious text Bhagavata Purana, known as Eknathi Bhagavata, Bhavarth Ramayan and Rukmini Swayamwar Hastamalak Sant Tukaram (17th cent.)Sant Tukaram (17Th Cent.) - Bhakti Movement Upsc Notes · belonged to the Warkari cult (worshipper of Vithoba and a duty-based approach towards life) · Refuted all forms of ritualism, outward display of religiosity and social differences. · Rejected the idea of renunciation or monastic life. · Emphasised the Humanist idea that Bhakti lies in sharing others’ pain. Family of Chokhamela (belonged to the Warkari cult) Chokhamela (14th century) · He belonged to the Mahar caste. · Wrote Abhangas (devotional poetry sung in praise of the God Vitthala), such as ‘Abir Gulal Udhlit Rang’. Soyarabai (Wife of saint Chokhamela) · Writings – blank verses of her own · In Abhang, she shows displeasure to God for the ill-treatment of the Untouchables and for making their lives miserable. · She addresses herself as Chokha’s Mahari. Nirmala · younger sister of Chokhamela · Her Abhangas describe the injustice and inequalities she suffered as a result of the caste system.",Paraphrase above information in points . Make sure language you use should be in layman . Provide in points and also make headings and sub headings wherever required.,"<h2>Saints of Maharashtra </h2> <strong>Saints of Maharashtra </strong>
+<p>Between 13th and 14th Century, saints from Maharashtra wrote poems in simple
+    Marathi, inspiring people with their teachings. Shri Vitthal Rukmini Mandir
+    in Pandharpur served as an important center for these saints, who shared the
+    belief that a personal god resides within the hearts of individuals.</p>
+<p>Dnyaneshwar/Janeshwar/Jnanadeva (1275–1296):</p>
+<strong>Dnyaneshwar/Janeshwar/Jnanadeva (1275–1296)</strong>
+<p>Jnanadeva</p><img alt=""Jnanadeva""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/13053934_a729d077-752d-4c0c-899c-893b71dd277a_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""word-break: break-word; max-width: 100%; letter-spacing: inherit !important;"" />
+<ul>He was part of the Nath tradition, which considers Shiva as the first
+    guru.His contributions to Marathi literature include the Dnyaneshwari, a
+    commentary on the Gita, and Amrutanubhav.</ul><strong>Nath
+    tradition</strong><strong>Marathi
+    literature</strong><strong>Dnyaneshwari</strong><strong>Gita</strong><strong>Amrutanubhav</strong>
+<p>Namdev (1270-1350): </p><strong>Namdev (1270-1350)</strong>
+<p>Namdev</p><img alt=""Namdev""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/13053934_a981441d-4711-4639-b63b-bdf9370c3744_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""word-break: break-word; max-width: 100%; letter-spacing: inherit !important;"" />
+<ul>A member of the Warkari cult, some of his hymns are included in the Guru
+    Granth Sahib.He emphasized the importance of marriage and family life,
+    teaching that these are the primary means to achieve Moksha
+    (self-realization). </ul><strong>Warkari cult</strong><strong>Guru Granth
+    Sahib</strong><strong>marriage</strong><strong>family
+    life</strong><strong>Moksha</strong>
+<p>Sakkubai: </p><strong>Sakkubai</strong>
+<ul>A devotee of lord VitthalaBorn in a Brahmin family, she faced mistreatment
+    from her in-laws</ul><strong>devotee</strong>
+<p>Eknath (1533-1599):</p><strong>Eknath (1533-1599)</strong>
+<p>Eknath</p><img alt=""Eknath""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/13053934_2fe94ae9-363e-43ed-a4d7-aa30cac3d320_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""word-break: break-word; max-width: 100%; letter-spacing: inherit !important;"" />
+<ul>As the spiritual successor to prominent Marathi saints like Dnyaneshwar and
+    Namdev, he was also a member of the Warkari cult.His writings include the
+    Eknathi Bhagavata, Bhavarth Ramayan, and Rukmini Swayamwar.</ul>
+<strong>Dnyaneshwar</strong>
+<p>Sant Tukaram (17th century): </p><strong>Sant Tukaram (17th century)</strong>
+<p>Saint Tukaram</p><img alt=""Saint Tukaram""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/13053934_2e2331e0-a6d9-4fb7-bf34-41fb3327a815_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""word-break: break-word; max-width: 100%; letter-spacing: inherit !important;"" />
+<ul>He belonged to the Warkari cult, worshipping Vithoba and advocating a
+    duty-based approach to life.He rejected ritualism, outward displays of
+    religiosity, and social distinctions, emphasizing that Bhakti is about
+    sharing in others’ suffering.He also dismissed the idea of renunciation or
+    monastic life.</ul><strong>Vithoba</strong><strong>duty-based
+    approach</strong><strong>ritualism</strong><strong>renunciation</strong><strong>monastic
+    life</strong>
+<p>Family of Chokhamela (belonged to the Warkari cult)</p>
+<p>Chokhamela (14th century)</p>
+<ul>He was a member of the Mahar caste and is known for his devotional poetry,
+    Abhangas, sung in praise of the God Vitthala.One of his notable compositions
+    is ""Abir Gulal Udhlit Rang.""</ul><strong>Mahar
+    caste</strong><strong>Vitthala</strong><strong>Abir Gulal Udhlit
+    Rang</strong>
+<p>Soyarabai (Wife of Chokhamela)</p>
+<ul>She composed her own blank verses and Abhangas.In her writings, she
+    expressed her displeasure with God for the mistreatment of Untouchables and
+    the misery of their lives.She often referred to herself as ""Chokha's
+    Mahari,"" emphasizing her identity as Chokhamela's wife. </ul><strong>blank
+    verses</strong><strong>Abhangas</strong><strong>mistreatment</strong><strong>Untouchables</strong><strong>misery</strong><strong>Chokha's
+    Mahari</strong><strong>Chokhamela's wife</strong>
+<p>Nirmala</p>
+<ul>Nirmala, the younger sister of Chokhamela, wrote Abhangas that describe the
+    injustices and inequalities she endured due to the caste system.</ul>
+<strong>Chokhamela</strong><strong>injustices</strong><strong>inequalities</strong><strong>caste
+    system</strong>"
+"Q3: Examine the linkages between the nineteenth century’s Indian Renaissance and the emergence of national identity. 
+Ans: Nineteenth century witnessed significant changes in Indian polity and society consequent to the expansion and consolidation of British imperialism in India which made Indians realise that their interests were sacrificed in order to promote the interests of the British authority. The impact of modern western culture and consciousness of defeat by a foreign power gave birth to a new awakening. The modern educational systems familiarised the educated classes with the ideas of equality, liberty and nationalism. They were impressed by modern science and the doctrines of reason and humanism. Thoughtful Indians who were product of modern education began to look for the strengths and weaknesses of their society aimed at giving back to the nation its lost identity. This new cultural project, which partly manifested itself through the social and religious reforms was encoded in the phrase ‘Indian Renaissance’. It marked a period of transition in values, transformation in social sensibilities and rebirth in cultural creativity. A defining feature of the movement was an inquiry into the past and an assessment of the traditions to overcome contemporary problems. Ram Mohan Roy’s use of Hindu scriptures in his debate with his opponents on Sati, or Ishwar Chandra Vidyasagar’s widow remarriage campaign, or Narayana Guru’s advocacy of universalism sought to eliminate social obscurantism, religious superstition and irrational rituals. The common feature that they all shared was the urge to transform the existing social and cultural conditions, ranging from irrational religious practices and rituals to the oppressive state of women’s lives. Renaissance ‘purified’ and ‘rediscovered’ an Indian civilisation that was conformant with the European ideals of rationalism, empiricism, monotheism and individualism. It was meant to show that Indian civilisation was by no means inferior to that of the West, rather in one sense, in its spiritual accomplishments it was even superior to it. Evidence of this search for a superior national culture could be found in the development of patriotic regional literature, in the evolution of new art forms, in the search for purer forms of classical music and in the construction of new ideals of womanhood. The literary movement led by Bankim Chandra Chattopadhyay, Tagore, Iqbal and Subramaniya Bharati provided leadership with imagination and fervor. The movement, thus, not only talked of beauty and nationalism but also revealed to its followers India in terms of its spirit, its philosophy, its arts, its poetry, its music and its myriad ways of life. The sense of pride in the spiritual essence of Indian civilisation, as opposed to the material culture of the West, motivated Indians to confront the colonial state in a newly emerging public space. This, in other words, provided the ideological foundation of modern Indian nationalism that developed in the late nineteenth century.",Paraphrase the above text but don't change the basic sense of the passage and don't make the language complicated.  And provide it in HTML language. Make sure to Provide b tags and pointers. ,"<p>Q3: Examine the linkages between the nineteenth century’s Indian Renaissance
+    and the emergence of national identity. (Ancient History and Art &
+    Culture)Ans: </p><strong>Q3: Examine the linkages between the nineteenth
+    century’s Indian Renaissance and the emergence of national identity.
+    (Ancient History and Art & Culture)</strong>
+<p>Nineteenth-century Transformations in India: The 19th century witnessed
+    profound changes in Indian society and politics due to the expansion and
+    consolidation of British imperialism. Indians became aware that their
+    interests were being subordinated to those of the British authority.</p>
+<strong>Nineteenth-century Transformations in India: </strong>
+<p>The impact of modern Western culture, coupled with the consciousness of
+    defeat by a foreign power, sparked a new awakening. Modern education systems
+    introduced the educated classes to ideas of equality, liberty, and
+    nationalism. The educated Indians, products of modern education, started
+    critically evaluating their society, aiming to restore the nation's lost
+    identity.</p>
+<p>This cultural shift, expressed through social and religious reforms, was
+    encapsulated in the term 'Indian Renaissance.' It denoted a period of
+    transitioning values, evolving social sensibilities, and a resurgence in
+    cultural creativity.</p>
+<p>A significant aspect of this movement was the examination of the past and an
+    evaluation of traditions to address contemporary challenges. Figures like
+    Ram Mohan Roy, Ishwar Chandra Vidyasagar, and Narayana Guru aimed to
+    eradicate social obscurantism, religious superstitions, and irrational
+    rituals. Their common goal was the transformation of existing social and
+    cultural conditions, especially concerning irrational religious practices
+    and the plight of women.</p>
+<p>The Renaissance aimed to 'purify' and 'rediscover' an Indian civilization
+    aligned with European ideals of rationalism, empiricism, monotheism, and
+    individualism. It sought to demonstrate that Indian civilization was not
+    inferior to the West and, in certain spiritual aspects, even superior.</p>
+<p>Evidence of this quest for a superior national culture was evident in the
+    rise of patriotic regional literature, the emergence of new art forms, the
+    pursuit of purer classical music, and the construction of new ideals of
+    womanhood. Literary figures such as Bankim Chandra Chattopadhyay, Tagore,
+    Iqbal, and Subramaniya Bharati provided leadership with imagination and
+    fervor.</p>
+<p>The movement not only emphasized beauty and nationalism but also presented
+    India in terms of its spirit, philosophy, arts, poetry, music, and diverse
+    ways of life. The pride in the spiritual essence of Indian civilization, in
+    contrast to the material culture of the West, motivated Indians to confront
+    the colonial state in an emerging public space. This laid the ideological
+    foundation for modern Indian nationalism in the late 19th century.</p>"
+"Q4: Many voices had strengthened and enriched the nationalist movement during the Gandhian Phase. Elaborate. 
+Ans: Gandhian Phase in Indian freedom struggle is undoubtedly remarkable because of the perspective Gandhiji provided to the masses and the way he guided the freedom fighters with the means of truth and non-violence. But there were numerous other simultaneous factors which further strengthened Gandhi’s efforts and contributed to the nationalist movement. Voices which strengthened and enriched the nationalist movement: Khilafat Movement (1919-22) was launched by the Indian Muslims to pressurise the British government to preserve the authority of Ottoman Sultan as Caliph of Islam. Gandhi and Congress leaders viewed it as an opportunity for cementing Hindu-Muslim unity and bringing the Muslims in the National Movement although this event is said to have brought the issue of religion in the freedom struggle. The ideological differences between the Swarajists and the No-Changers within the congress led to serious changes and contribution. No-changers continued their constructive programme of spinning, temperance, Hindu-Muslim unity, removal of untouchability etc whereas Swarajists won the election of Central Legislative Assembly in november 1923 filling the political void while the national movement was regaining its strength. Marxism and other socialist ideas spread rapidly in 1927 under J.L. Nehru and S.C. Bose’s leadership. The left wing did not confine its concern to freedom struggle only but raised the question of internal class oppression by the capitalists and landlords. It strengthened the voices of the marginalised and poor of the country and connected them to the movements. Revolutionaries like R.P. Bismil, C.S. Azad and Bhagat Singh among others took the responsibilities of informing people about a necessary revolution to uproot British Empire. The Terrorist Movement in Bengal led by Surya Sen is notable because of the role of revolutionary women who participated. Students and peasant parties got involved and propagated Marxist and communist ideas while remaining an integral part of the national movement and the Congress. In 1928, Bardoli Satyagraha occurred under the leadership of Sardar Vallabh Bhai Patel bringing forward farmers’ concerns. There was rapid growth of trade unionism under the leadership of All India Trade Union Congress and many strikes took place during 1928 like Kharagpur, Jamshedpur and Bombay Textile Mill strike is the most important. The traders and workers contributed to the struggle for independence. Women from all over India were not left alone. They came forward and equally contributed to the national movement. Kasturba Gandhi, VIjay Laxmi Pandit, Aruna Asaf Ali, Bhikaji Cama are some of the most prominent who assumed leadership at different fronts. Even the Business class participated by giving financial assistance and rejecting imported goods Every class, section, age group, political ideology emerged, came forward and contributed to the national movement. Even though it weakened the movement to some extent by the fragmentation and the internal ideological differences, it mainly made the movement strong by diversifying it and adding alternative perspectives to it. This multidimensional nature of the movement is one of the reasons for its success in 1947 when finally all the unheard voices till then were heard.",Paraphrase the above text but don't change the basic sense of the passage and don't make the language complicated.  And provide it in HTML language. Make sure to Provide b tags and pointers. ,"</p> <strong>Q4: Many voices had strengthened and
+    enriched the nationalist movement during the Gandhian Phase. Elaborate.
+    (Ancient History and Art & Culture)</strong>
+<p>Factors that strengthened and enriched the nationalist movement:</p>
+<ul>Khilafat Movement (1919-22): Launched by Indian Muslims to pressure the
+    British government to preserve the authority of the Ottoman Sultan as the
+    Caliph of Islam. Gandhi and Congress leaders saw it as an opportunity to
+    foster Hindu-Muslim unity, despite introducing religious considerations into
+    the freedom struggle.Ideological Differences within Congress: The
+    ideological rift between the Swarajists and No-Changers within Congress
+    brought about significant contributions. No-changers focused on constructive
+    programs like spinning, temperance, Hindu-Muslim unity, and untouchability
+    removal. Meanwhile, Swarajists won the 1923 Central Legislative Assembly
+    elections, filling a political void during the national movement's
+    resurgence.Spread of Marxist and Socialist Ideas: Under the leadership of
+    J.L. Nehru and S.C. Bose in 1927, Marxism and socialist ideas addressed
+    issues beyond the freedom struggle, emphasizing internal class oppression by
+    capitalists and landlords. This strengthened the voices of the marginalized
+    and poor, connecting them to broader movements.Role of Revolutionaries:
+    Figures like R.P. Bismil, C.S. Azad, and Bhagat Singh played crucial roles
+    in advocating for a necessary revolution to uproot the British Empire. Surya
+    Sen's Terrorist Movement in Bengal, particularly notable for the
+    participation of revolutionary women, was part of this wave.Trade Unionism
+    and Strikes: The rapid growth of trade unionism, particularly under the All
+    India Trade Union Congress, led to various strikes in 1928, such as
+    Kharagpur, Jamshedpur, and the Bombay Textile Mill strike, making
+    significant contributions to the independence struggle.Women's
+    Participation: Women from across India, including Kasturba Gandhi, Vijay
+    Laxmi Pandit, Aruna Asaf Ali, and Bhikaji Cama, emerged as prominent leaders
+    in different facets of the national movement.Business Class Participation:
+    Even the business class participated by providing financial assistance and
+    rejecting imported goods, demonstrating a diverse and united front. </ul>
+<strong>Khilafat Movement (1919-22): </strong><strong>Ideological Differences
+    within Congress:</strong><strong>Spread of Marxist and Socialist Ideas:
+</strong><strong>Role of Revolutionaries:</strong><strong>Trade Unionism and
+    Strikes: </strong><strong>Women's Participation:</strong><strong>Business
+    Class Participation:</strong>
+<p>While internal ideological differences and fragmentation weakened the
+    movement to some extent, the multidimensional nature of the contributions
+    made it strong by diversifying perspectives. This diversity ultimately
+    contributed to the success of the movement in 1947, where previously unheard
+    voices played a crucial role.</p>"
+"Q5: Assess the role of British imperial power in complicating the process of transfer of power during the 1940s.
+Ans:Introduction Britain never wanted to leave India but the promise to the Indian National Congress of independence in return of Indian resources and army during World War Two; the post war financial and political exhaustion; change in political power at the centre (Labour Party) whose ideology favoured the Congress party; increasing global pressure and the inability to crush Indian leaders’ will and efforts finally led to the Indian independence. However, Britain did succeed in making the process of transfer of power so complicated and hard that India still suffers from them. Cabinet Mission Sir Stafford Cripps was responsible for drafting the Cabinet Mission Plan, which proposed a complicated system for India with three tiers- the provinces, provincial groupings and the centre. The centre’s power was confined to foreign affairs, defence, currency and communication only. Three major groups of provinces: Group A, to include the Hindu-majority provinces; Group B, containing the Muslim-majority provinces (western Pakistan); and Group C, to include the Muslim-majority Bengal (eastern Pakistan). Even though both Nehru and Jinnah eventually refused to accept it, Lord Wavell authorised a cabinet with Nehru as the Interim Prime Minister which enraged Jinnah who in turn resorted to direct action of sparking riots and massacres. Partition In July, 1947 the British Parliament passed the Indian Independence Act which provided for the demarcation of India and Pakistan by midnight of August 14–15, 1947, in just one month. Two Nations Theory was an important factor here and fuelled communalism. The task of demarcating the boundaries was given to a British lawyer, Sir Cyril Radcliffe who had never visited the country before and was clueless about the social and political consequences of his decision. Two boundary commissions were set up for it. During partition, there was a large-scale communal violence and forced migration of people, probably the biggest in history. Autonomy to Princely States The British paramountcy on the princely states and all the existing treaties of Britain with the princely states before the independence ended in 1947. As princely states were not a part of the British India, they became independent and had the option to either merge with India or with Pakistan or to stay independent. Even after the efforts of Lord Mountbatten, Nehru and Patel, few princely states like Kashmir, Junagadh and Hyderabad posed some serious challenges in the already troubled times. Conclusion It was hard to let go of the main resource supplier and the market consumer but when the odds were not in favour of Britain, it gave independence to India but made sure to create some contentious issues while leaving India. A lot of current day problems like issue of enclaves with Bangladesh (later resolved through The Constitution 100th Amendment Act, 2015), the migration issue, Kashmir issue between India-Pakistan etc. have their roots in the complications created by the British imperial power during the 1940s.",Paraphrase the above text but don't change the basic sense of the passage and don't make the language complicated.  And provide it in HTML language. Make sure to Provide b tags and pointers. ,"<p>Q5: Assess the role of British imperial power in complicating the process of
+    transfer of power during the 1940s. (Ancient History and Art & Culture)Ans:
+</p><strong>Q5: Assess the role of British imperial power in complicating the
+    process of transfer of power during the 1940s. (Ancient History and Art &
+    Culture)</strong>
+<p>Introduction: Britain never intended to relinquish control over India, but
+    the commitment made to the Indian National Congress during World War Two,
+    promising independence in exchange for Indian resources and military
+    support, coupled with post-war financial and political exhaustion, a change
+    in political power favoring the Congress party, global pressure, and the
+    resilience of Indian leaders, eventually led to Indian independence.
+    However, Britain managed to complicate the process of power transfer,
+    leaving a lasting impact on India.</p><strong>Introduction: </strong>
+<p>Cabinet Mission:Sir Stafford Cripps drafted the Cabinet Mission Plan,
+    proposing a complex system for India with three tiers: provinces, provincial
+    groupings, and the center. The center's authority was limited to foreign
+    affairs, defense, currency, and communication. Three major province groups
+    were outlined, but both Nehru and Jinnah rejected the plan. Lord Wavell
+    authorized an interim government with Nehru as Prime Minister, further
+    straining relations with Jinnah, who resorted to direct action.</p>
+<strong>Cabinet Mission:</strong>
+<p>Partition:In July 1947, the British Parliament passed the Indian Independence
+    Act, calling for the demarcation of India and Pakistan by August 14–15,
+    1947, within just one month. The Two Nations Theory fueled communalism,
+    leading to large-scale violence and forced migration during partition. Sir
+    Cyril Radcliffe, a British lawyer unfamiliar with India, was tasked with
+    demarcating boundaries, contributing to the historical communal strife.</p>
+<strong>Partition:</strong>
+<p>Autonomy to Princely States:British paramountcy over princely states ended in
+    1947, and existing treaties concluded. Princely states gained independence,
+    with the option to merge with India, Pakistan, or remain independent.
+    Despite efforts by Lord Mountbatten, Nehru, and Patel, princely states like
+    Kashmir, Junagadh, and Hyderabad presented significant challenges during
+    this turbulent period.</p><strong>Autonomy to Princely States:</strong>
+<p>Conclusion:Despite Britain's reluctance to let go of a major resource
+    supplier and market consumer, the odds forced it to grant independence to
+    India. However, the British legacy left behind contentious issues, leading
+    to present-day problems such as the enclave issue with Bangladesh, migration
+    concerns, and the Kashmir dispute between India and Pakistan, all rooted in
+    the complexities created during the 1940s.</p><strong>Conclusion:</strong>"
+"Today, the India we know is a modern nation, with defined
+borders, defined states and a known population. However,
+it was very different 500 years ago, 2,000 years ago or even
+5,000 years ago. This region of the world, which we often call
+the 'Indian Subcontinent', has had many different names
+and shifting boundaries. We can learn about India's past
+and evolution from many different sources. Let us explore.
+In the course of history, India has been called by many
+names— both by its inhabitants and by visitors from outside.
+These names come to us from ancient texts, accounts of
+travellers and pilgrims, and inscriptions.","Needed in Introduction Form. Use easy Language according to class 6 students
+","<h2>Introduction to India's Past</h2>
+<p>India, as we know it today, is a modern country with clear borders, different
+    states, and a large population. But if we go back in time—500 years, 2,000
+    years, or even 5,000 years ago—India was very different. The land we now
+    call India was known by different names and had changing boundaries. This
+    region, often called the 'Indian Subcontinent,' has a rich history that we
+    can learn about from various sources.</p><strong>500 years, 2,000 years, or
+    even 5,000 years ago</strong><strong> 'Indian Subcontinent,' </strong>
+<p>Throughout history, India has been known by many names. These names were
+    given by the people who lived here and by visitors from other countries. We
+    find these names in ancient texts, stories written by travelers and
+    pilgrims, and old inscriptions carved in stone. By exploring these sources,
+    we can learn about the fascinating journey of India through time.</p><img
+    alt=""India, That Is Bharat Chapter Notes | Social Studies (SST) Class 6""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421689_dd95abc4-a6b3-442f-9cfc-2d581ee8dafc_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; word-break: break-word; width: auto; max-width: 100%; letter-spacing: inherit !important;"" />"
+"How Indians Named India
+The Rig Veda is India's most ancient
+text; as we will see in Chapter 7,
+it is several thousand years old.
+It gives the northwest region of
+the Subcontinent the name 'Sapta
+Sindhava', that is, the 'land of the
+seven rivers'. The word 'Sindhava'
+comes from 'Sindhu', which refers
+to the Indus River, or at times to a
+river in general.
+
+Moving on in time, we see names for other parts of India
+appear in the literature. The Mahäbhärata is one of India's
+most famous texts (we read about it in the theme 'Our
+Cultural Heritage and Knowledge Traditions'). Interestingly,
+it lists many regions, such as Käshmira (more or less today's
+Kashmir), Kurukshetra (parts of Haryana today), Vanga
+(parts of Bengal), Prägjyotisha (roughly today's Assam),
+Kaccha (today's Kutch), Kerala (more or less today's Kerala),
+and so on.
+
+But when do we come across a name for the entire Indian
+Subcontinent? Because ancient Indian texts are difficult to
+date, this is not an easy question to answer. The Mahäbhärata
+uses the terms 'Bhäratavarsha' and 'Jambudvipa', and
+scholars generally agree that this long poem was written
+from a few centuries BCE onward.
+The first term, 'Bhäratavarsha', clearly extends to the entire
+Subcontinent, and the text includes the names of numerous
+rivers and peoples. 'Bhäratavarsha' means 'the country of
+the Bharatas'. 'Bharata' is a name that first appears in the
+Rig Veda, where it refers to one of the main Vedic groups
+of people. In later literature, several kings named 'Bharata'
+are mentioned.
+
+The second term, 'Jambudvipa', means 'the island of the
+fruit of the jamun tree'. This is indeed a common tree native
+to India, also called 'jambul tree', 'Malabar plum tree', etc.
+'Jambudvipa' came to mean the Indian Subcontinent.
+In fact, we get a good clue from an Indian emperor — his
+name is Aéhoka and we will meet him later; for now, we
+can take his date to be about 250 BCE. As we will see, he
+left us many inscriptions. In one of them, he used the same name 'Jambudvipa' to describe the whole of India, which
+at the time included what is today Bangladesh, Pakistan, as
+well as parts of Afghanistan.
+A few centuries later, 'Bhärata' became the name generally
+used for the Indian Subcontinent. For instance, in an ancient
+text called the Vishnu Purana, we read:
+This name, 'Bhärata' remains in use even today. In north
+India, it is generally written as 'Bharat', while in south
+India, it is often 'Bharatam'.
+It is interesting to note that different parts of the country
+adopted a similar definition for India. For instance, a poem
+of ancient Tamil literature, from about 2,000 years ago,
+praises a king whose name is known ""from [Cape] Kumari
+in the south, from the great mountain in the north, from
+the oceans on the east and on the west..."" You can now
+recognise 'the great mountain in the north', and it should
+not be difficult to identify 'Cape Kumari'. It looks like ancient
+Indians knew their geography well!","Paraphrase with headings. Use easy Language according to class 6 students. Do not Short any informations
+","<h2>How Indians Named India</h2> <img
+    alt=""India, That Is Bharat Chapter Notes | Social Studies (SST) Class 6""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421689_867b7a0a-be81-4104-af2d-f26806f36782_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; word-break: break-word; width: auto; max-width: 100%; letter-spacing: inherit !important;"" />
+<h3>The Rig Veda and the Name 'Sapta Sindhava'</h3>
+<ul>The Rig Veda is India's oldest text, written several thousand years ago. In
+    this ancient text, the northwest region of the Indian Subcontinent is called
+    'Sapta Sindhava,' which means the 'land of the seven rivers.' The word
+    'Sindhava' comes from 'Sindhu,' a term used for the Indus River or sometimes
+    for rivers in general.</ul><strong> 'Sindhu,'</strong><img
+    src=""https://fc.edurev.in/images/2e1ddd90-704d-4d86-8a6f-fd5bd2c40653.png"" />
+<h3>Names of Different Regions in Ancient Literature</h3>
+<p>As time passed, more names for different parts of India began to appear in
+    literature. One of the most famous Indian texts, the Mahabharata, lists many
+    regions that are familiar to us today.For example:</p><strong>For
+    example:</strong>
+<ul>'Käshmira' refers to what is now Kashmir.'Kurukshetra' is part of today's
+    Haryana.'Vanga' corresponds to parts of Bengal.'Prägjyotisha' is roughly
+    today's Assam.'Kaccha' is today's Kutch region.'Kerala' is more or less the
+    same as the present-day state of Kerala.</ul>
+<h3>The Names 'Bhäratavarsha' and 'Jambudvipa'</h3><img
+    alt=""India, That Is Bharat Chapter Notes | Social Studies (SST) Class 6""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421689_c2a82b23-f6af-4c2c-bc6e-994c8ac208e3_lg.jpeg""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; width: 517px; word-break: break-word; max-width: 100%; letter-spacing: inherit !important;"" />
+<p>When did the entire Indian Subcontinent get a name? This is a tricky question
+    because ancient texts are hard to date. However, in the Mahabharata, we come
+    across the terms 'Bhäratavarsha' and 'Jambudvipa.' Scholars believe that
+    this poem was written a few centuries before the Common Era (BCE).</p>
+<strong> 'Bhäratavarsha' and 'Jambudvipa.' </strong>
+<ul>Bhäratavarsha: This term refers to the entire Subcontinent. It means 'the
+    country of the Bharatas.' The name 'Bharata' first appears in the Rig Veda
+    and refers to one of the main Vedic groups of people. Later literature
+    mentions several kings named Bharata.Jambudvipa: This term means 'the island
+    of the jamun tree fruit.' The jamun tree, also called the jambul tree or
+    Malabar plum tree, is native to India. Over time, 'Jambudvipa' came to
+    represent the Indian Subcontinent. </ul>
+<strong>Bhäratavarsha</strong><strong>Jambudvipa</strong>
+<h3>Emperor Ashoka and the Name 'Jambudvipa'</h3>
+<ul>A big clue about the use of 'Jambudvipa' comes from Emperor Ashoka, who
+    ruled around 250 BCE. Ashoka left many inscriptions, and in one of them, he
+    used 'Jambudvipa' to describe the whole of India. During his time, this
+    included areas that are now Bangladesh, Pakistan, and parts of Afghanistan.
+</ul><strong> 'Jambudvipa'</strong>
+<h3>'Bhärata' Becomes the Name for the Subcontinent</h3><img
+    alt=""India, That Is Bharat Chapter Notes | Social Studies (SST) Class 6""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421689_69996db8-c04a-4617-8687-9e8dacbaaa7b_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; word-break: break-word; width: auto; max-width: 100%; letter-spacing: inherit !important;"" />
+<ul>A few centuries later, 'Bhärata' became the widely used name for the Indian
+    Subcontinent. For example, in an ancient text called the Vishnu Purana, the
+    name 'Bhärata' is used to describe the region. This name is still in use
+    today. In North India, it is generally written as 'Bharat,' while in South
+    India, it is often 'Bharatam.'</ul><strong>, 'Bhärata' </strong>
+<h3>Ancient Tamil Literature and the Idea of India</h3>
+<ul>Interestingly, different parts of ancient India shared a similar
+    understanding of the country's geography. For example, a poem from ancient
+    Tamil literature, about 2,000 years old, praises a king whose fame spread
+    ""from [Cape] Kumari in the south, from the great mountain in the north, from
+    the oceans on the east and on the west..."" This shows that ancient Indians
+    knew their geography well and had a clear idea of the land that made up
+    India.</ul><strong>For example, </strong>"
+"The Indian Constitution, which was first written in English,
+uses the phrase 'India, that is Bharat' right at the beginning.
+Similarly, the Hindi version of the Constitution mentions the
+same as 'Bhärat arthäth India'.","Paraphrase with heading
+","<p>The Indian Constitution: 'India, that is Bharat'</p>
+<p>In the very beginning of the Indian Constitution, which was originally
+    written in English, the phrase ""India, that is Bharat"" is used to describe
+    the nation. Similarly, in the Hindi version of the Constitution, this is
+    written as ""Bhärat arthäth India."" This shows the dual identity of the
+    country as both 'India' and 'Bharat'.</p><strong>""Bhärat arthäth
+    India.""</strong>"
+"How Foreigners Named India
+The first foreigners to mention India were the Persians,
+the ancient inhabitants of Iran. In the 6th century BCE, a
+Persian emperor launched a military campaign and gained
+control of the region of the Indus River, which, as we saw,
+was earlier called 'Sindhu'. So, it is no surprise that in their
+earliest records and stone inscriptions, the Persians referred
+to India as 'Hind', 'Hidu' or 'Hindu', which are adaptations
+in their language of 'Sindhu'. (Note that in ancient Persian,
+'Hindu' is a purely geographical term; it does not refer here
+to the Hindu religion.)
+Based on these Persian sources, the ancient Greeks named
+the region 'Indoi' or 'Indike'. They dropped the initial letter
+'h' of 'Hindu' because this letter did not exist in their Greek
+language.
+The ancient Chinese also interacted with India. In several
+texts, they refer to India as 'Yintu' or 'Yindu'. This word also
+originally comes from 'Sindhu', in the following manner:
+Another Chinese word, also derived from
+'Sindhu', was 'Tianzhu'; but this word could
+also be understood as 'heavenly master'. This
+reflects the respect the ancient Chinese had
+for India as the land of the Buddha.
+You are probably quite familiar with a
+more recent term, 'Hindustan', but you may
+not know that it was first used in a Persian
+inscription some 1,800 years ago! Later on, this became
+the term used by most invaders of India to describe the
+Indian Subcontinent.","Paraphrase with heading and sub headings
+","<h2>How Foreigners Named India</h2>
+<p>What did the Persians call the region around the Indus River?</p>
+<p>The Persians called the region around the Indus River 'Hind,' 'Hidu,' or
+    'Hindu,' which was a geographical term, not related to the Hindu religion.
+</p><strong> 'Hind,' 'Hidu,' or 'Hindu,'</strong><img
+    alt=""India, That Is Bharat Chapter Notes | Social Studies (SST) Class 6""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421689_43f4931f-8fa1-48c3-bfa3-b0fb473133b3_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; width: 350px; word-break: break-word; max-width: 100%; letter-spacing: inherit !important;"" />
+<h3>The Persians and the Name 'Hind'</h3>
+<ul>The Persians, ancient inhabitants of Iran, were the first foreigners to
+    mention India. In the 6th century BCE, a Persian emperor led a military
+    campaign and gained control over the region around the Indus River, which
+    was earlier called 'Sindhu.' The Persians adapted this name in their
+    language, referring to the region as 'Hind,' 'Hidu,' or 'Hindu.' It's
+    important to note that in ancient Persian, 'Hindu' was a geographical term
+    and had no connection to the Hindu religion.</ul><strong>'Sindhu.'
+</strong><strong> 'Hind,' 'Hidu,' or 'Hindu.'</strong>
+<h3>The Greeks and the Name 'Indoi' or 'Indike'</h3>
+<ul>Based on Persian sources, the ancient Greeks referred to the region as
+    'Indoi' or 'Indike.' They altered the name by dropping the initial 'h' from
+    'Hindu' since the letter 'h' did not exist in the Greek language.</ul>
+<strong>'Indoi' or 'Indike.' </strong><strong>'h' from 'Hindu' </strong><img
+    alt=""India, That Is Bharat Chapter Notes | Social Studies (SST) Class 6""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421689_8056bcf5-c611-463e-9ac9-be645ab09096_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; word-break: break-word; width: auto; max-width: 100%; letter-spacing: inherit !important;"" />
+<h3>The Chinese and the Name 'Yintu' or 'Yindu'</h3>
+<ul>The ancient Chinese also had interactions with India and referred to the
+    region as 'Yintu' or 'Yindu.' This name, like others, was derived from
+    'Sindhu.' Another Chinese word derived from 'Sindhu' was 'Tianzhu,' which
+    could also be interpreted as 'heavenly master.' This term reflects the
+    respect the ancient Chinese had for India as the land of the Buddha. </ul>
+<strong> 'Yintu' or 'Yindu.' </strong><strong> 'Sindhu' was
+    'Tianzhu,'</strong><img
+    alt=""India, That Is Bharat Chapter Notes | Social Studies (SST) Class 6""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421689_01c57a23-ec50-4c30-b563-f70fa52cce89_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; word-break: break-word; width: auto; max-width: 100%; letter-spacing: inherit !important;"" />
+<h3>The Term 'Hindustan'</h3>
+<ul>You might be familiar with the term 'Hindustan,' but it was first used in a
+    Persian inscription around 1,800 years ago. Over time, 'Hindustan' became
+    the common term used by many invaders to describe the Indian Subcontinent.
+</ul><strong> 'Hindustan,' </strong><strong>Indian Subcontinent</strong>"
+"Xuanzang (formerly spelt Hiuen Tsang, Hsuan
+Tsang, etc.) travelled from China to India in the
+7th century CE. He visited many parts of India, met
+scholars, collected Buddhist texts, and returned
+to China after 17 years. There, he translated
+the manuscripts he took back with him from
+Sanskrit into Chinese. Several other Chinese
+scholars visited India over the centuries.
+","Paraphrase with heading
+","<p>Xuanzang's Journey to India</p>
+<ul>Xuanzang, a Chinese scholar (previously spelled as Hiuen Tsang or Hsuan
+    Tsang), traveled from China to India in the 7th century CE. During his
+    17-year journey, he visited various parts of India, met with scholars, and
+    collected numerous Buddhist texts. Upon his return to China, Xuanzang
+    translated these manuscripts from Sanskrit into Chinese. Over the centuries,
+    several other Chinese scholars also made similar journeys to India.</ul>
+<strong>China to India in the 7th century CE</strong><strong>Sanskrit into
+    Chinese</strong>"
+"India's Ancient Names
+Before we move on ...
+-5
+India is an ancient land, which has had many names in the
+course of its history.
+The names given by the ancient inhabitants of India
+include 'Jambudvipa' and 'Bhärata'. The latter became
+widespread in time and is the name of India in most
+Indian languages.
+Foreign visitors to, or invaders of, India mostly adopted
+names derived from the Sindhu or Indus River; this
+resulted in names like 'Hindu', 'Indoi', and eventually
+'India'.","Paraphrase with heading
+","<h3>India's Ancient Names</h3>
+<ul>India is a very old land with a rich history, and throughout this history,
+    it has been known by many different names.The ancient people of India called
+    their land 'Jambudvipa' and 'Bhärata.' Over time, 'Bhärata' became widely
+    used and is now the name for India in most Indian languages.Foreign visitors
+    and invaders often based their names for India on the Sindhu or Indus River,
+    leading to names like 'Hindu,' 'Indoi,' and eventually 'India.'</ul><strong>
+    'Jambudvipa' and 'Bhärata.' </strong><strong> 'Hindu,' 'Indoi,' and
+    eventually 'India.'</strong>"
+"How Is Time Measured in History?
+Can you identify which calendar is most widely used around the world today?
+Yes, the Gregorian calendar is the most widely used around the world today. It is commonly used for
+civil purposes, while other calendars, such as the Hindu, Muslim, Jewish, and Chinese calendars, are
+often used for religious festivals and special occasions.
+Each society and culture has had its own ways ofmeasuring
+time. Major events, such as the birth of an important
+person or the start of a ruler's reign, have often marked
+the beginning of a new era. At present, the Gregorian calendar is commonly used worldwide; side by side, Hindu,
+Muslim, Jewish, Chinese and other calendars are also used
+for calculating the dates of festivals and other auspicious
+events.
+In the West, the conventional year for Jesus Christ's birth
+has generally been taken to be the starting point for this
+calendar. Years are counted forward from this point and
+used to be marked with 'AD' (an abbreviation for a Latin
+phrase that refers to the years after Jesus' birth). However,
+this is now called the Common Era or CE across the world.
+For example, 1947, the year India gained independence,
+can be written as 1947 AD (sometimes AD 1947) or 1947 CE.
+Similarly, the years before the conventional date for the
+birth of Jesus are counted backward and used to be
+marked with BC (or Before Christ). They are now called
+Before Common Era or BCE. For example, 560 BCE is an
+approximate year of birth of Gautama Buddha.","Paraphrase in very simple language according to class 6 students.
+","<h2>How Is Time Measured in History?</h2>
+<p>Can you identify which calendar is most widely used around the world today?
+</p>
+<p>Yes, the Gregorian calendar is the most widely used around the world today.
+    It is commonly used for civil purposes, while other calendars, such as the
+    Hindu, Muslim, Jewish, and Chinese calendars, are often used for religious
+    festivals and special occasions.</p><img
+    alt=""Timeline and Sources of History Chapter Notes | Social Studies (SST) Class 6""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421689_13c997f7-55d7-40db-8f87-0f9fecb40ce4_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; width: 514px;"" />
+<ul>Different societies and cultures have their own ways of measuring time.
+    Important events, like the birth of a famous person or the beginning of a
+    ruler's rule, often mark the start of a new era. Today, most people around
+    the world use the Gregorian calendar, but other calendars, like the Hindu,
+    Muslim, Jewish, and Chinese calendars, are also used, especially for setting
+    dates for festivals and special occasions.In the Western world, the calendar
+    often starts from the year when Jesus Christ was believed to be born. Years
+    after this point were marked with 'AD,' which is short for a Latin phrase
+    meaning ""in the year of our Lord."" Nowadays, people use 'CE,' which stands
+    for ""Common Era,"" instead of 'AD.' For example, the year India became
+    independent, 1947, can be written as 1947 AD or 1947 CE.Years before Jesus'
+    birth were counted backward and used to be marked with 'BC,' meaning ""Before
+    Christ."" Now, this is called ""Before Common Era,"" or BCE. For example, 560
+    BCE is roughly the year when Gautama Buddha was born.</ul><strong>Gregorian
+    calendar</strong><strong>""in the year of our Lord."" </strong><strong>""Common
+    Era,"" </strong><strong>'BC,' meaning ""Before Christ."" </strong>"
+"The Beginnings of Human History
+Can you name one way early humans made their lives easier?
+Yes, early humans made their lives easier by using tools like stone axes and arrowheads, which
+helped them hunt, build, and protect themselves.
+Modern humans (Homo sapiens) have walked the planet
+for about 300,000 (three lakh) years. This appears to be a
+very long time, yet it is only a tiny fraction of the Earth's
+history. Let us have a quick look at our early history.
+Early humans faced many challenges from nature and lived
+in bands or groups to help each other. They were constantly
+seeking shelter and food, and were mainly hunters and
+gatherers; this means that they relied on hunting and
+collecting edible plants and fruits for their survival. Our
+early ancestors also had certain beliefs about the natural
+elements and possibly also some notion of afterlife.
+These groups lived in temporary camps, rock shelters or
+caves, and communicated with each other using languages
+that are now lost. They used fire and started making obj ects
+that made their lives easier, like improved stone axes and
+blades, arrowheads and other tools. Aspects of their life
+are visible in rock paintings found in hundreds of caves
+all over the world. Some of those paintings depict simple
+figures or a few symbols; others are more detailed and
+represent scenes with animals or humans. In time, these
+early humans learned to make simple ornaments such as
+stone or shell beads, pendants made of animal teeth, and
+sometimes exchanged them with other groups.",Paraphrase in very simple language according to class 6 students.,"<h2>The Beginnings of Human History</h2>
+<p>Can you name one way early humans made their lives easier?</p>
+<p>Yes, early humans made their lives easier by using tools like stone axes and
+    arrowheads, which helped them hunt, build, and protect themselves.</p><img
+    alt=""Timeline and Sources of History Chapter Notes | Social Studies (SST) Class 6""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421689_a1a24e72-303b-48a7-aa19-2472db1aaf3e_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; width: 594px;"" />
+<ul>Modern humans, called Homo sapiens, have been on Earth for about 300,000
+    years. While this seems like a long time, it is only a small part of Earth's
+    history. Let's take a quick look at how early humans lived.Early humans had
+    to deal with many challenges from nature, so they lived in groups to help
+    each other. They were always looking for shelter and food, mainly by hunting
+    animals and gathering plants and fruits. They also had some beliefs about
+    nature and possibly thought about what happens after death.These groups
+    lived in temporary places like camps, rock shelters, or caves. They
+    communicated using languages that we no longer know. They used fire and
+    started making tools like stone axes, blades, and arrowheads to make life
+    easier. We can see parts of their life in rock paintings found in caves
+    around the world. Some paintings show simple figures or symbols, while
+    others show detailed scenes with animals or people. Over time, early humans
+    also learned to make simple jewelry like beads and pendants from stones,
+    shells, or animal teeth, and they sometimes traded these with other groups.
+</ul><strong> Earth for about 300,000 years</strong><strong> hunting animals and
+    gathering plants and fruits</strong><strong> camps, rock shelters, or
+    caves</strong><strong> simple figures or symbols,</strong>"
+"The First Crops
+Over long ages, the Earth's climate has gone through many
+changes. At certain times, it was very cold and much of the
+Earth was covered with ice — this is called an 'Ice Age', as
+you will learn in greater detail in Science. Later, when the
+climate warmed up, this ice partly melted, and the resulting
+waters swelled the existing rivers and eventually drained
+into the oceans. The last Ice Age lasted from over 100,000
+(one lakh) years ago to around 12,000 years ago.
+Afterwards, living conditions improved for humans; in many
+parts of the world, they started settling down and cultivating
+cereals and grains. They also domesticated animals such as
+cattle, goats, etc. With more food available, these communities
+grew in size and number, and often settled down near rivers.
+This was not only because of the availability of water, but
+also because the soil would be more fertile there. It made the
+process of growing crops easier.",Paraphrase in very simple language according to class 6 students.,"<h2>The First Crops</h2> <img
+    alt=""Timeline and Sources of History Chapter Notes | Social Studies (SST) Class 6""
+    data-src=""https://edurev.gumlet.io/ApplicationImages/Temp/1421689_7c933c24-83d3-40e8-aecb-eba01b0beb21_lg.png""
+    fr-original-class=""fr-draggable""
+    src=""https://edurev.gumlet.io/cdn_assets/v312/assets/img/ph.png""
+    style=""display: block; margin: 5px auto; text-align: center; width: 363px;"" />
+<ul>Over many years, the Earth's climate has changed a lot. Sometimes it was
+    very cold, and a large part of the Earth was covered with ice. This time is
+    called the Ice Age.Later, when the weather warmed up, some of the ice
+    melted, and the water flowed into rivers and oceans. The last Ice Age
+    started over 100,000 years ago and ended about 12,000 years ago.After the
+    Ice Age, life became easier for humans. In many places, people began to
+    settle down and grow crops like cereals and grains. They also started
+    keeping animals like cattle and goats. With more food available, their
+    communities grew bigger, and they often settled near rivers. This was
+    because they needed water, and the soil near rivers was more fertile, which
+    made it easier to grow crops.As communities grew, they became more complex.
+    Leaders, called chieftains, took care of the people, and everyone worked
+    together for the community’s benefit. There was no private land; instead,
+    everyone shared the land for growing and harvesting crops.Over time, small
+    villages grew bigger and started trading goods like food, clothes, and tools
+    with each other. Some villages became small towns, and people invented new
+    technologies like pottery for making clay pots and metal tools for daily
+    use.</ul><strong> Ice Age.</strong><strong>last Ice Age started over 100,000
+    years ago and ended about 12,000 years ago</strong><strong> cattle and
+    goats.</strong><strong>soil near rivers was more
+    fertile</strong><strong>chieftains,</strong><strong> food, clothes, and
+    tools with each other</strong>"

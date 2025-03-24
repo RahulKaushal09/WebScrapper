@@ -1,0 +1,22 @@
+
+**********
+ISRO Unveils Finite Element Analysis Software FEAST
+February 7, 2025
+The Indian Space Research Organisation (ISRO) recently launched the latest version of its Finite Element Analysis of Structures (FEAST) software at IIT Hyderabad. This event, the 8th National Finite Element Developers’ Meeting, gathered over 250 experts from academia and industry. ISRO Chairman V. Narayanan brought into light the software’s significance in structural design for upcoming projects like the Gaganyaan Human Spaceflight Mission and the Bharatiya Antariksh Station.
+What is FEAST?
+FEAST is an indigenous finite element analysis software developed by ISRO’s Vikram Sarabhai Space Centre (VSSC).
+It predicts how structures respond to various forces such as stress and temperature changes.
+This software provides a cost-effective alternative to foreign software. It is particularly beneficial for students and researchers in India.
+Applications of FEAST
+FEAST is crucial for ISRO’s major projects.
+It is used in the structural design analysis for the
+Gaganyaan mission
+, India’s first manned space mission.
+It also supports the design of the Bharatiya Antariksh Station and the Next Generation Launch Vehicle.
+These applications highlight FEAST’s role in advancing India’s space exploration capabilities.
+Accessibility of FEAST
+ISRO has issued over 4,000 licenses for FEAST to various institutions and industries. The software is available in three versions – Academic for students, Premium for small and medium industries, and Professional for larger entities. A free trial version is also accessible on the official ISRO website, promoting broader usage.
+Educational Initiatives
+To support user education, ISRO has published a book titled Introduction to Finite Element Analysis. This resource is aimed at undergraduate engineering students and practising engineers. It offers step-by-step tutorials and solved examples to facilitate learning and application of FEA.
+Future Developments
+ISRO is also developing Pravaha, a computational fluid dynamics software. This initiative aims to enhance ISRO’s simulation capabilities and promote self-reliance in engineering software development.

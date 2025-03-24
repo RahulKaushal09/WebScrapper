@@ -1,0 +1,763 @@
+New AI platform will Help Farmers and Scientists
+Why in News?
+The Union Government launched the AI-based
+National Pest Surveillance System
+(NPSS) that will help farmers to connect with agriculture scientists and experts on controlling pests using their phone.
+What’s in Today’s Article?
+About NPSS (Objective, Structure, Working, Proposed Outcome, etc.)
+About National Pest Surveillance System:
+On August 15, the Indian Government launched the National Pest Surveillance System (NPSS), an AI-based platform designed to help farmers connect with agricultural scientists and experts to manage pest control.
+This initiative
+aims to reduce farmers' reliance on pesticide retailers and promote a scientific approach to pest management
+Key aspects of the NPSS include
+Use of AI tools to analyse pest data for effective control and management.
+Enabling farmers to capture and send images of infested crops or pests to experts via the platform for accurate diagnosis and treatment.
+Enhancing the connection between scientists and approximately 14 crore farmers across the country.
+The system will benefit farmers by providing timely information on pest attacks, thereby increasing productivity and conserving soil health.
+It requires no additional funding and will be implemented at the state level through outreach programs.
+Structure of NPSS:
+Working of NPSS:
+Proposed Outcome:
+A National System of Pest Surveillance to
+provide easy and timely access to expert support for pest identification and pest surveillance-based pest management advice to farmers of the country
+This will not only assist in avoidance of pest epidemics but will also help in minimizing the crop loss due to pests with the real data submission by Government, resources & lead farmers.
+Moreover, a repository of national pest scenario will also be available to various public agencies, working in the field of plant protection to identify the pest hotspots and thus to formulate plant protection policies.
+newspaper.pdf
+( Size:  269.0 KB  )
+Click to View More
+Economics
+**********Steps for Implementing Land Reforms in India
+Why in News?
+The Centre has decided to provide states with Rs 10,000 crore in incentives for implementing land-related reforms in rural and urban areas, and Rs 5,000 crore for creating a Farmers’ Registry during the financial year 2024-25 (FY25).
+The funds will be provided under the Scheme for Special Assistance to States for Capital Investment 2024-25.
+What’s in Today’s Article?
+Promises Related to the Land Reforms Made in the Union Budget 2024-2025
+Significance of Actions on Reforms around Land
+Challenges Towards Implementing Actions on Land Reforms
+What is the Scheme for Special Assistance to States for Capital Investment 2024-25?
+Promises Related to the Land Reforms Made in the Union Budget 2024-2025:
+Land-related reforms in the rural areas:
+These will include -
+Assignment of unique land parcel identification numbers (ULPIN) or
+Bhu-Aadhaar
+for all lands,
+Digitisation of cadastral maps,
+Survey of map subdivisions as per current ownership,
+Establishment of land registry, and
+Linking to the farmers registry.
+Land-related reforms on the urban front:
+Digitisation of land records with GIS mapping.
+Establishing an IT-based system for property record administration, updating, and tax administration.
+These will facilitate
+improving the financial position of urban local bodies
+Implementation of the Digital Public Infrastructure (DPI) in agriculture:
+The Indian government (in partnership with States) will facilitate the implementation of the DPI in agriculture for coverage of farmers and their lands in 3 years.
+This programme will include a “
+digital survey
+” of the kharif crop in 400 districts and the land details being brought into a “
+”.
+These actions will facilitate credit flow and other agricultural services to rural land.
+Significance of Actions on Reforms around Land:
+It points towards a
+recognition that States are the key actors
+on these issues, and that
+approaches and constraints can vary across States
+Overall better land registries and cadastral maps are key -
+To understanding land-use around the country
+To enforce building codes, and
+To evaluate the risks due to various hazards, including
+natural disasters.
+Information about land-use and land-use change are also key to understanding India’s
+emissions inventory.
+Challenges Towards Implementing Actions on Land Reforms:
+India has been trying to develop such land maps since the 1980s, with limited success.
+One particular pitfall has been
+lack of standards
+These maps have been made by
+manual digitisation
+and are
+not properly georeferenced
+, i.e. the digital data is not mapped to fixed geographical coordinates.
+The States have used
+different mapping projections,
+so maps prepared by one State’s processes are not directly compatible with those of another.
+Thus, it is important to develop GIS data standards and interoperability for various end applications first.
+These efforts also
+need technology support and upgrading
+, while appropriate and enabling institutional arrangements will need to be worked out at state and city levels.
+In view of a
+higher multiplier effect
+of capital expenditure and in order to provide a boost to capital spending by States, the scheme was
+announced in the Union Budget 2024-25.
+The scheme (first launched in 2020-21)
+provides financial assistance to state governments
+in the form of 50-year interest-free loans for capital investment projects.
+In 2024-25, the scheme was redesigned with an overall allocation of ₹1.30 lakh crore, and includes 2 mandatory conditions for the next fiscal year:
+With many states tweaking the names of centrally sponsored schemes (CCSs), the Centre has made it mandatory that to avail of the capex loan,
+states would have to retain the official name of all schemes.
+The Centre has now mandated that states have to deposit the central share of interest earned in SNA accounts till March 31 (2024), in the Consolidated Fund of India.
+The single nodal agencies (SNA) model
+requires states to notify an SNA for each CSS to receive funds from both the Centre and from state budgets.
+newspaper.pdf
+( Size:  604.2 KB  )
+Click to View More
+Polity & Governance
+**********WHO declares monkeypox a public health emergency of global concern
+Why in news?
+The WHO has declared monkeypox a public health emergency of international concern, with the Democratic Republic of the Congo and other African countries being severely affected.
+Since 2022, there have been 99,176 cases and 208 deaths reported from 116 countries. What seems to be worrisome is the spread of a new sexually transmissible strain of the virus.
+What’s in today’s article?
+WHO – About, WHO and India
+What does declaration as a PHEIC mean?
+Monkeypox
+What is the reason for the current concern?
+Risk for India
+World Health Organisation
+About:
+Founded in 1948, it is the UN agency responsible for global public health. It has 194 member states.
+It is based in
+Geneva, Switzerland.
+It is involved in vaccination campaigns, health emergencies and supporting countries in primary care.
+It is funded by a combination of members' fees based on wealth and population and voluntary contributions.
+India & WHO:
+India became a party to the WHO in January 1948. India is a member state of the South East Asia Region at the WHO.
+The first regional director for South East Asia was an Indian, Dr Chandra Mani, who served between 1948-1968.
+Currently, the post has again been occupied by an Indian appointee, Dr Poonam Khetrapal Singh, who has been in office since 2014.
+Dr Soumya Swaminathan served as WHO’s chief scientist (2019-2022).
+A PHEIC is declared for an extraordinary event which is determined to constitute a public health risk to other States through the international spread of disease.
+PHEIC label by WHO is designed to
+trigger a coordinated international response
+and could unlock funding to collaborate on sharing vaccines and treatments.
+Monkeypox:
+It is a rare zoonotic viral disease belonging to the Orthopoxvirus genus in the Poxviridae family, the same virus family as smallpox.
+Zoonotic diseases are those disease that spread from animals to humans.
+It was first discovered in animals in 1958 when two outbreaks occurred in captive monkey colonies kept for research purposes. Hence, the name ‘monkeypox’.
+Treatment
+There is currently no specific treatment for monkeypox. However, the Vaccinia vaccine, which was used against smallpox, had shown 85% efficacy in monkeypox prevention.
+The spread of
+clade Ib of the mpox virus (MPXV)
+, primarily transmitted through sexual contact, is causing concern.
+Historically, clade I infections, which are deadlier than clade II, spread through zoonotic events, but sexual transmission of clade I was previously unreported.
+Over 100 cases of clade Ib have emerged in countries neighboring the DRC—Burundi, Kenya, Rwanda, and Uganda—where mpox was not previously reported.
+This, alongside a rise in total mpox cases to over 15,600 and 537 deaths this year, underscores the urgency of a coordinated international response.
+WHO Director-General Dr. Tedros emphasized the need to control these outbreaks, as recent research shows the virus is now spreading human-to-human and rapidly mutating into new lineages.
+The first case of the more contagious clade Ib mpox infection outside Africa was reported in Sweden,
+raising concerns that it could spread to other countries through global travel
+During the 2022 outbreak, India reported 27 cases and one death, primarily from the less deadly clade II, with infections initially linked to international travel but later spreading locally.
+Experts emphasized that the current surge of mpox in Africa, coupled with the spread of a new sexually transmissible strain, is a global emergency.
+WHO declares monkeypox a public health emergency of global concern.pdf
+( Size:  2.0 MB  )
+Click to View More
+Science & Tech
+**********PM's speech on 78th Independence Day
+Why in news?
+Prime Minister Narendra Modi, in his speech from the ramparts of the Red Fort on the occasion of the 78th Independence Day, laid out a roadmap for the country for the coming years.
+From hosting the 2036 Olympics to championing a Secular Civil Code, PM Modi emphasised India's collective progress and empowerment of every citizen.
+What’s in today’s article?
+Key highlights of PM Modi’s speech
+On Viksit Bharat
+The vision for a developed Bharat by 2047 hinges on the collective resolve of 140 crore citizens.
+The goal is to build a ‘Viksit Bharat’ by embracing modernization, innovation, and technology across all sectors, from tourism to agriculture.
+A key aspect is
+reducing government interference in citizens' lives
+Additionally,
+mandating at least two annual reforms
+in each of the 3 lakh institutions across the country could result in 25-30 lakh reforms annually.
+This will boost public confidence and driving progress towards a 'Swarnim Bharat' by 2047.
+On defence
+India is becoming self-reliant in this sector. It has gradually emerged and is establishing itself as an exporter and manufacturer of various Defence Equipment.
+On financial sector, economy
+India has successfully doubled per capita income and made significant progress in employment and self-employment.
+Reforms in the banking sector have strengthened our banks, making them a crucial support for the poor, middle-class families, and MSMEs.
+Despite the global COVID-19 pandemic, India has swiftly improved its economy, with a focus on
+modern infrastructure
+and Ease of Living driving economic growth.
+The aim is to make India the third-largest economy, with a commitment to work three times harder, faster, and on a larger scale to realize the nation's dreams sooner.
+All elected representatives are urged to ensure Ease of Living on a mission mode.
+On farmers
+To strengthen the nutrition of the world & also support the small farmers of India.
+India and its farmers have the potential to create a global food basket of organic food.
+60,000 ‘Amrit Sarovars’ (ponds) have been revived and replenished.
+On world affairs
+G-20 was never held in such a grand manner before.
+Bharat has the capability to organize major international events and possesses unparalleled hospitality.
+Bharat does not mean a threat to anyone
+He expressed hope that the situation in Bangladesh soon returns to normalcy.
+The primary concern of our 140 crore citizens is to ensure the safety of Hindus, the minorities in Bangladesh.
+Bharat has always desired that our neighbouring countries pursue a path of contentment and peace.
+Our commitment to peace is deeply rooted in our culture
+On empowerment and development
+We chose reforms to uplift the poor, middle class, underprivileged, urban population, and youth by empowering them and addressing their aspirations.
+Last-mile connectivity has ensured access to education and healthcare in remote areas, fulfilling the mantra of "Sabka Saath, Sabka Vikas."
+Lifting 25 crore people out of poverty affirms our momentum toward achieving our dreams.
+Inclusive initiatives like Indian sign language, Sugamya Bharat, and support for the transgender community ensure dignity and equality for all.
+The ‘
+Trividh Marg’ (three-way route)
+embodies the spirit of service to all, with a duty to uplift and empower neglected regions, marginalized communities, small farmers, tribals, women, laborers, and workers.
+On education
+75,000 new seats will be introduced in the medical sector in the next 5 years.
+The spirit of ancient Nalanda University will be revived, positioning India as a global education hub by promoting higher learning and research.
+To develop an education system so that the youth of our country don’t need to go abroad.
+To create such institutions that attract people from abroad.
+India’s talent should not be hindered because of language. The strength of the mother tongue empowers even the poorest child in our country to fulfil their dreams.
+National Research Foundation
+was created, providing it with a legal framework to develop a permanent system that continuously strengthens research.
+The govt has decided to allocate
+one lakh crore rupees for research and innovation
+in the Budget so that the ideas of our country’s youth can be realized.
+On women safety, empowerment
+In the last decade, 10 crore women have joined self-help groups (SHGs), becoming key agents of social transformation through financial empowerment.
+One crore mothers and sisters joined women self-help groups and are becoming ‘lakhpati didis’.
+Funds allocated to women SHGs will be increased from 10 lakhs to 20 lakhs.
+Till date, a total of nine lakh crore funds has been channeled via banks to these SHGs.
+The government extended paid maternity leave from 12 to 26 weeks. Women are increasingly taking on leadership roles in sectors like defense and space.
+Society must address crimes against women seriously, ensuring swift investigations and harsh punishments to create a deterrent and restore trust in the government, judiciary, and civil society.
+On developing industry
+Vocal for Local
+has become a new mantra for economic development.
+One District One Product
+is the new wave now.
+Bharat will become an industrial manufacturing hub and the world will look up to it.
+We must embrace the call of "Design in India" and move forward with the dream of "Design in India and Design for the World.
+India's commits to become a global leader in semiconductor production.
+India must leverage its rich ancient legacy and literature to come up with
+Made in India gaming products
+Indian professionals must lead the global gaming market, not just in playing but also in producing games.
+Bharat's contribution to global growth is substantial,
+our exports are continuously rising, our foreign exchange reserves have doubled, and global institutions have increasingly placed their trust in Bharat
+We are proud that our toy industry has also become a name to reckon with in the global market. We have
+started exporting toys
+India has a large hub of manufacturing ecosystem of mobile phones and we
+have started exporting them all over the world
+On railways
+Government is committed to make its railways a net-zero carbon emitter by 2030.
+On renewable energy
+India has achieved more in the renewable energy sector than G 20 Nations collectively. India is working hard to become self-reliant in the energy sector.
+The PM Surya Ghar Free Electricity Scheme is set to provide new strength.
+Those who generate electricity from solar energy under the PM Surya Ghar Yojana, can also reduce their fuel costs.
+The demand for electric vehicles is on the rise.
+On Youth Affairs & Sports
+1 lakh youth should be inducted into the political system, specifically those with no history of politics in their families
+The goal is to host the 2036 Olympics in India, and preparations are actively progressing toward this ambition.
+On law and justice
+The current Civil Code resembles a Communal Civil Code, one that is discriminatory.
+Laws that divide our nation based on religion and foster discrimination have no place in modern society.
+After 75 years of a Communal Civil Code, it is crucial to
+move towards a Secular Civil Code
+India should come forward to embrace the concept of "
+One Nation One Election
+".
+Over 1,500 laws were eliminated to ensure citizens are not trapped in a web of legal complexities.
+We have replaced the centuries-old criminal laws with new criminal laws known as Bharatiya Nyaya Sanhita, whose idea at core is to ensure justice for citizens as against British ideology of reprimand and punishment.
+On housing
+4 crore pukka homes have given a new lease of life to the poor.
+3 crore new homes have been promised to further this national agenda.
+PM's speech on 78th Independence Day.pdf
+( Size:  2.5 MB  )
+Click to View More
+Polity & Governance
+**********Why climate change poses an existential threat to Panama Canal?   
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Impact of Climate change on Panama Canal;
+Why in the News?
+The Panama Canal, which links the Atlantic and Pacific Oceans through the Isthmus of Panama, opened to ships 110 years ago. Now, it is facing a
+serious threat to its existence.
+System of Water Elevators
+The Panama Canal utilizes a sophisticated
+lock system that functions as water elevators, allowing ships to navigate the elevation difference between the Atlantic and Pacific Oceans.
+This system is essential because the two oceans are at different elevations, with the Pacific being slightly higher.
+Operation of the Locks
+Ship Enters:
+A ship approaches the
+first lock chamber, which is at sea level.
+The gate opens to allow the ship into the chamber and then closes behind it.
+Water Level Adjustment:
+The valve between the first and second chamber (at a higher elevation) is opened, allowing water to flow into the
+first chamber from the adjacent higher chamber.
+This increases the water level in the first chamber.
+Transition:
+Once the
+water levels between the two chambers are equalized,
+the gate between them opens, allowing the ship to move into the next chamber. This process is repeated until the ship reaches the
+desired elevation of 85 feet at Gatun Lake.
+Lowering:
+reverse process
+occurs when
+lowering ships back to sea level
+at the other end of the canal.
+Note:
+Each passage requires over
+50 million gallons (approximately 200 million liters) of freshwater,
+primarily sourced from Lake Gatun, which is vital for the canal’s operation.
+Threat of Climate Change
+Recent droughts have led to significantly lower water levels in
+because droughts were exacerbated by
+climate change and the El Niño phenomenon,
+which have led to
+significantly reduced water levels in the lake
+In 2023, rainfall was
+43% lower than average
+, making it one of the
+driest years on record for the region.
+which reduced the number of ships able to transit the canal.
+In December,
+traffic dropped to as low as 22 ships per day,
+highlighting the vulnerability of the canal to climatic variations.
+Contentious Solution
+Proposed Dam:
+$1.6 billion
+project aims to create an
+additional water source for the canal on the Rio Indio,
+potentially
+securing water availability for the next 50 years.
+However, it has sparked controversy due to its
+social implications.
+Displacement Issues:
+The dam would
+flood the homes of approximately 2,000 residents
+, predominantly from
+lower socio-economic backgrounds
+, forcing them to relocate and lose their livelihoods. This raises significant ethical concerns regarding the balance between infrastructure needs and the rights of affected communities
+Conclusion:
+Before proceeding with the Rio Indio dam project, engage in thorough consultations with the affected communities, ensuring their voices are heard in the decision-making process. Need to develop a
+fair compensation and resettlement plan that prioritizes the socio-economic well-being
+of displaced residents, offering alternative livelihoods and housing options to minimize the negative impact on vulnerable populations.
+Do you know about another elevation-based canal system?
+Kiel Canal (Germany):
+The Kiel Canal features
+locks that raise and lower vessels to navigate the elevation differences between the North Sea and the Baltic Sea.
+It is one of the busiest artificial waterways in the world.
+Welland Canal (Canada): This canal connects
+Lake Ontario and Lake Erie and includes a series of locks that lift ships approximately 43 meters (141 feet)
+to bypass Niagara Falls. It is an essential part of the Great Lakes shipping route.
+Trade from Panama Canal:
+The Panama Canal moves roughly
+$270 billion worth of cargo
+annually, which is the trade route taken by
+40% of all U.S. container traffic alone
+. It handles about
+5% of all global maritime trade.
+Mains PYQ:
+Mention the significance of straits and isthmus in international trade.
+(UPSC IAS/2022)
+**********How can traffic which causes air pollution be controlled?    
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Challenges related to air pollution in India;
+Why in the News?
+India has 83 of the world’s 100 most polluted cities. Air pollution caused 2.1 million deaths, with 99% breathing air below WHO standards.
+Share of Road Transport in India’s CO2 Emissions as per
+the International Energy Associates
+Road transport is responsible for
+approximately 12% of India’s total CO2 emissions.
+Within this sector, heavy vehicles are a significant contributor to
+particulate matter (PM2.5) emissions,
+which are particularly harmful due to their
+ability to penetrate deep into the lungs and enter the bloodstream.
+Studies indicate that heavy vehicles contribute to about
+60-70% of total vehicular PM emissions
+40-50% of total Nitrogen Oxide (NOx) emissions
+in urban areas. This highlights the
+critical role that road transport plays
+in India’s overall air pollution problem.
+Why has the vehicular scrapping policy not been effective in States like Karnataka and Maharashtra?
+Insufficient Scrapping Facilities:
+Both states have a
+limited number of registered vehicle scrapping facilities (RVSFs).
+For instance, Karnataka has only
+two authorized RVSFs located in Devanahalli and Koratagere
+, which are unable to handle the volume of vehicles eligible for scrapping.
+Voluntary Compliance:
+The policy’s reliance on voluntary participation has resulted in l
+ow engagement from vehicle owners.
+For example, the policy targets around
+20 lakh vehicles for scrapping,
+without mandatory compliance,
+many older, polluting vehicles continue to operate on the roads
+Lack of Awareness and Less Incentives:
+There is a lack of awareness regarding the
+benefits of scrapping old vehicles
+among the public. Although the policy offers incentives, such as
+tax relief for scrapping vehicles may not be sufficient to encourage
+widespread participation.
+Bureaucratic delays:
+The implementation of the scrapping policy has
+faced bureaucratic delays
+and inconsistencies. In Maharashtra, despite announcing incentives for scrapping old vehicles, the actual impact has been
+limited due to slow bureaucratic processes
+and a lack of effective enforcement.
+Steps taken:
+Bureau of Energy Efficiency (BEE)
+has taken several significant steps towards enhancing fuel efficiency and reducing carbon emissions in the transport sector through the implementation of the
+Corporate Average Fuel Economy (CAFE) norms.
+Introduction of CAFE Norms:
+The BEE has proposed the
+CAFE III and CAFE IV norms,
+which aim to set stringent targets for carbon emissions from passenger vehicles.
+CAFE III,
+effective from 2027 to 2032, sets a
+target of 91.7 grams of CO2 per kilometer,
+while
+CAFE IV,
+from 2032 to 2037,
+aims for 70 grams of CO2 per kilometer.
+These targets are designed to drive innovation and encourage the adoption of cleaner technologies in the automotive sector.
+Transition to WLTP Testing:
+A significant step is the commitment to transition from the Modified Indian Driving Cycle (MIDC) to the World Light Duty Vehicle Testing Procedure (WLTP) by March 31, 2027.
+provides a more
+accurate and globally harmonized measure of a vehicle’s fuel consumption
+and emissions,
+ensuring that the targets reflect real-world driving conditions
+more effectively.
+Penalties for Non-Compliance:
+The BEE has outlined financial penalties for manufacturers that fail to meet the established fuel efficiency standards.
+For instance, if a manufacturer’s average fuel efficiency
+exceeds the limit by up to 0.2 liters per 100 km,
+a penalty of
+₹25,000 per vehicle applies.
+If it exceeds by more than
+0.2 liters,
+the penalty increases to
+₹50,000 per vehicle.
+Way forward:
+Enhance Infrastructure and Accessibility
+: Need to increase the number of registered vehicle scrapping facilities (RVSFs) across states like Karnataka and Maharashtra to make the process more accessible.
+Strengthen Policy Enforcement and Incentives
+: Transition from voluntary to mandatory compliance for the scrapping of old and polluting vehicles. This can be supported by enhancing public awareness campaigns that highlight the environmental and financial benefits of vehicle scrapping.
+Mains PYQ:
+Mumbai, Delhi and Kolkata are the three Megacities of the country but air pollution is a much more serious problem in Delhi as compared to the other two. Why is this so?
+(UPSC IAS/2015)
+**********Reshape the governance structures of AI companies      
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Challenges related to Data Access;
+Why in the News?
+Recently, corporations adopting stakeholder capitalism are focusing on products like Generative AI, which require governance models that balance profit-making with broader social responsibilities, reflecting a shift in corporate priorities.
+Data Access Issues
+Dependence on Data for AI Development:
+The advancement of AI technologies necessitates access to vast amounts of data, including
+personal and sensitive information.
+This reliance raises
+significant privacy concerns,
+as improper handling of this data can lead to breaches of privacy rights.
+Regulatory Scrutiny:
+Companies like Meta have faced
+regulatory challenges regarding data usage for AI training.
+For example, Meta was asked to pause its
+plans to train large language models using public content from Facebook and Instagram
+due to
+raised by regulators, highlighting the tension between data access and compliance with privacy laws.
+Algorithmic Bias:
+AI systems can
+perpetuate existing biases
+present in the data they are trained on,
+leading to discriminatory outcomes.
+For instance, Amazon
+discontinued
+a recruiting algorithm that
+displayed gender bias.
+Purpose vs. Strategy
+Conflict Between Purpose and Profit:
+Many companies, including OpenAI, initially adopted governance structures aimed at public benefit but faced challenges when
+profit motives clashed with their social objectives.
+The dismissal of
+CEO Sam Altman
+over concerns about prioritizing commercialization over user safety exemplifies this conflict.
+Shareholder Primacy:
+Despite the adoption of alternative governance models,
+the underlying shareholder primacy often prevails.
+The pressure to generate profits can
+overshadow the intended social benefits
+, leading to a situation where public good becomes secondary to financial gains.
+Corporate Governance issue:
+The governance issues faced by OpenAI, particularly the internal conflict that led to Altman’s firing,
+raise questions about the effectiveness of public benefit corporate structures
+in balancing profit and purpose, especially in tech companies reliant on investor capital.
+Potential Shift to For-Profit Structures:
+Rumors about OpenAI considering a
+transition to a for-profit governance model
+indicate a trend where companies may abandon their social objectives in favour of profit maximization.
+Workable Strategy (Way forward)
+Framing Ethical Standards:
+Developing comprehensive
+ethical guidelines for AI product companies is crucial.
+These standards should address data privacy, algorithmic fairness, and accountability, ensuring that AI technologies are developed responsibly and equitably.
+Incentivizing Public Benefit Objectives:
+Corporations should be
+incentivized to adopt public benefit purposes
+that align with their business strategies. This could involve
+financial incentives for companies that demonstrate long-term profit gains
+from socially responsible practices.
+Reducing Compliance Costs:
+To encourage adherence to public benefit objectives, it is essential to lower the
+compliance costs associated with implementing ethical practices.
+Mains PYQ:
+The emergence of the Fourth Industrial Revolution (Digital Revolution) hasinitiated e-Governance as an integral part of government”. Discuss.
+(UPSC IAS/2020)
+**********Jiyo Parsi Scheme
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Minister for Minority Affairs
+has launched a dedicated portal for Jiyo Parsi Scheme.
+What is the Jiyo Parsi Scheme?
+It is a
+Central Sector Scheme
+launched in
+2013-14
+by the
+Ministry of Minority Affairs
+It aims to
+arrest the
+population decline
+of the Parsis, a
+minority community
+in India.
+It focuses on
+stabilizing and increasing the Parsi population
+through scientific protocols and structured interventions.
+Features of the Scheme:
+Financial support
+for infertility treatments and related medical care in empanelled hospitals.
+Assistance for
+childcare
+and support for
+elderly Parsis.
+Programs to
+raise awareness
+encourage participation
+within the
+Parsi community.
+Target Groups:
+married couples
+of childbearing age needing assistance.
+Young adults and adolescents
+in the Parsi community for disease detection, with parental/legal guardian consent.
+Significance of the scheme:
+This scheme has successfully facilitated the birth of over 400 Parsi children.
+It preserves the cultural heritage and identity of the Parsi community.
+It ensures the long-term sustainability of the community in India.
+It demonstrates government commitment to supporting minority communities and promoting diversity.
+PYQ:
+[2011]
+In India, if a religious sect/community is given the status of a national minority, what special advantages it is entitled to?
+It can establish and administer exclusive educational institutions.
+The President of India automatically nominates a representative of the community to Lok Sabha.
+It can derive benefits from the Prime Minister’s 15-Point Programme.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********Indian Astronomers discover new method for Solar Cycle Amplitude Prediction
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Space Weather, Solar Supergranular Cells
+Why in the News?
+Astronomers from the
+Indian Institute of Astrophysics (IIA)
+have developed a new
+method to predict the amplitude of the upcoming solar cycle.
+This discovery is based on
+100 years of solar data
+from the IIA’s
+Kodaikanal Solar Observatory
+What is Space Weather?
+Space weather refers to the
+varying conditions within the solar system
+and its
+heliosphere
+influenced by the Sun and solar wind
+The main components of space weather include:
+coronal mass ejections
+, and
+solar flares.
+These components can
+compress the Earth’s magnetosphere
+, triggering geomagnetic storms.
+This can
+disrupt
+communication, power transmission, damage spacecraft electronics, and pose threats to astronauts.
+Solar Cycle and Its Importance
+The activity of the
+Sun follows an approximately 11-year periodic cycle
+, marked by variations in the number of sunspots on the Sun’s surface.
+solar cycle influences space weather
+, Earth’s atmosphere, and climate variations.
+Predicting the amplitude of the solar cycle
+is a major challenge in astrophysics, as it directly affects related phenomena and space weather.
+Research Findings
+IIA researchers discovered that the
+width of supergranular cells
+on the solar surface
+during the
+minimum year of the solar cycle
+correlated with the number of sunspots
+observed during the subsequent
+solar cycle maximum
+This simple method
+can be used to predict the strength of the upcoming solar cycle
+, which is valuable for space weather forecasting.
+What are Supergranular Cells?
+Supergranular Cells are
+large convective cells on the Sun’s surface
+, with
+diameters
+of about
+30,000 km
+These cells are
+part of the solar convection zone
+where
+hot plasma rises
+cools
+as it reaches the surface, and
+then sinks back down
+continuous cycle
+Characteristics:
+Supergranular cells are larger than granules, another type of convective cell on the Sun. Its borders, known as
+supergranular lanes
+, are about
+5,000 km thick
+Plasma within these cells
+moves from the center
+of the cell
+toward the edges
+, where it sinks back into the Sun’s interior. This movement creates a
+network of lanes
+that can be observed on the solar surface.
+associated with the magnetic field concentrations
+on the Sun’s surface, often where sunspots and other magnetic features appear.
+PYQ:
+[2022]
+If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth?
+GPS and navigation systems could fail.
+Tsunamis could occur at equatorial regions.
+Power grids could be damaged.
+Intense auroras could occur over much of the Earth.
+Forest fires could take place over much of the planet.
+Orbits of the satellites could be disturbed.
+Shortwave radio communication of the aircraft flying over pola-regions could be interrupted.
+Select the correct answer using the code given below:
+(a) 1, 2, 4 and 5 only
+(b) 2, 3, 5, 6 and 7 only
+(c) 1, 3, 4, 6 and 7 only
+(d) 1, 2, 3, 4, 5, 6 and 7
+**********Corbett Tiger Reserve
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+Jim Corbett National Park and Tiger Reserve
+authorities have recently concluded an
+awareness campaign to celebrate World Elephant Day (August 12).
+About Corbett Tiger Reserve
+Details
+Location
+Situated in the foothills of the Himalayas in
+Uttarakhand
+Spread over Pauri, Nainital, and Almora districts.
+Establishment
+Established in
+1936
+Hailey National Park
+(first National Park of India).
+Renamed Corbett National Park
+1957
+in honor of Jim Corbett.
+Total area now extends to 1,288.31 sq. km.
+Terrain
+Several valleys, with rivers
+Ramganga, Pallaen,
+Sonanadi
+flowing through them.
+Geographical Features
+Spread over the
+Bhabar
+lower Shivalik
+regions.
+Porous tract with boulders and sand deposits, deep water table.
+Flora
+Sal and mixed forests, with
+grasslands
+called ‘
+Chaur’
+Evergreen
+Sal, Sheesham, and Kanju
+trees are common.
+Lantana
+weed is a widespread irritant in the reserve.
+Fauna
+Home to tigers and elephants as key species.
+Also hosts leopards, small carnivores, ungulates like sambar and spotted deer, birds, reptiles (gharials, crocodiles), and fishes.
+PYQ:
+[2020]
+Among the following Tiger Reserves, which one has the largest area under “Critical Tiger Habitat”?
+(a) Corbett
+(b) Ranthambore
+(c) Nagarjunasagar- Srisailam
+(d) Sunderbans
+**********National Pest Surveillance System (NPSS)
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The Centre has launched the
+AI-based National Pest Surveillance System (NPSS)
+to help farmers
+connect with agriculture scientists and experts for pests’ control.
+What is the National Pest Surveillance System (NPSS)?
+The NPSS is an
+AI-based platform
+launched by the government on August 15, 2024.
+It is designed to help
+farmers connect with agricultural scientists and experts for effective pest control
+using their phones.
+It aims to
+reduce
+farmers’
+dependence on pesticide retailers
+It provides data for selected crops i.e.
+Rice, Cotton, Maize, Mango
+Chilies
+How will farmers use it?
+Farmers can take photos of infested crops or pests using the NPSS platform, which are then analyzed by scientists and experts.
+Then they will suggest the correct quantity of the pesticide at the right time,
+reducing excessive pesticide use.
+Target Groups:
+Approximately
+14 crore farmers across India.
+Significance
+It will reduce
+crop damage,
+improve
+pest management practices
+, and reduce the
+risk of soil damage
+by minimizing excessive pesticide use.
+PYQ:
+[2014]
+With reference to Neem tree, consider the following statements:
+1. Neem oil can be used as a pesticide to control the proliferation of some species of insects and mites.
+2. Neem seeds are used in the manufacture of biofuels and hospital detergents.
+3. Neem oil has applications in pharmaceutical industry.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********

@@ -1,0 +1,159 @@
+
+**********
+MSP and its Legalisation
+Source: TH
+Why in News?
+Recently, the
+Cabinet Committee on Economic Affairs (CCEA)
+increased the
+Minimum Support Price
+for six
+rabi crops
+(wheat, barley, gram, lentil, rapeseed, mustard, and safflowerfor).
+The
+increase of MSP ignited debate
+around the farmers' demand
+for the legalisation of MSP
+and its effect on the agricultural ecosystem.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1729512012_image18.png" style="display: block; margin-left: auto; margin-right: auto;" width="500"/>
+What is the Minimum Support Price?
+About:
+The MSP
+regime was established in 1965
+by setting up the
+Agricultural Prices Commission (APC)
+(later renamed as CACP) as a form of market intervention to enhance
+national food security
+and protect farmers from significant decline in market prices.
+MSP Calculation:
+The CACP
+calculates
+three categories of production costs for each crop
+, both at the state level and as all-India averages.
+A2:
+Covers all paid-out costs directly incurred by the farmer in cash and kind on seeds, fertilisers, pesticides, hired labour, leased-in land, fuel, irrigation, etc.
+A2+FL:
+Includes an estimated value of unpaid family labour with A2.
+C2:
+It is a
+more comprehensive cost
+that factors in
+rentals and interest for owned land and fixed capital assets
+, on top of A2+FL.
+The government maintains that the
+MSP was fixed at a level of at least 1.5 times the all-India weighted average Cost of Production (CoP)
+, but it calculates this cost as 1.5 times the A2+FL cost.
+<img caption="false" class="content-img" src="http://drishtiias.com/images/uploads/1729512056_image13.png" style="display: block; margin-left: auto; margin-right: auto;" width="650"/>
+What are the Concerns Related to MSP in India?
+Limited Coverage:
+According to the
+Shanta Kumar Committee's 2015 report
+, only
+6% of farmers benefit
+from the MSP. Mainly those in regions with access to procurement infrastructure, such as Punjab and Haryana, while a large number of farmers in other states are left out.
+Skewed Crop Focus:
+The MSP system is
+focused primarily on a few crops, especially rice and wheat,
+leading to a
+lack of incentive for farmers to grow other crops
+, which affects crop diversification and can contribute to overproduction of these staple crops.
+Overburdening Procurement System:
+The MSP often leads to
+large-scale government procurement
+, especially of rice and wheat,
+causing storage challenges and wastage
+, and straining the
+Food Corporation of India's (FCI)
+resources.
+Environmental Impact:
+focus on certain water-intensive crops like rice
+(supported by MSP) leads to
+environmental concerns
+such as groundwater depletion, particularly in regions like Punjab.
+Dependence on Middlemen:
+In some cases, even when MSP is declared, farmers face difficulties in
+accessing procurement agencies directly
+, leading to dependence on middlemen who may exploit them by offering lower prices.
+What are the Needs and Challenges for Legalising MSP in India?
+Need:
+Income Security for Farmers:
+Legalising MSP would
+ensure guaranteed income for farmers,
+protecting them from fluctuations in market prices.
+Ensured income is crucial as
+many farmers face distress due to price crashes
+, especially during bumper harvests .
+Boost to Agricultural Investment:
+A legally guaranteed MSP can
+encourage farmers to invest more in agricultural inputs,
+modern technology, and sustainable farming practices.
+With assured returns,
+farmers are more likely to adopt measures that improve productivity and sustainability.
+Reduction of Rural Poverty:
+By offering a stable price,
+legal MSP can reduce rural poverty
+and improve the standard of living for small and marginal farmers.
+Stabilizing Agricultural Markets:
+MSP serves as a price stabilization tool, preventing the volatility of crop prices in open markets and
+reducing inflation burden on the consumer.
+legal backing of MSP
+could smoothen supply chain and ensure consistent crop procurement.
+Mitigation of Distress Sales:
+Farmers often resort to distress sales due to a lack of remunerative prices. The
+legally enforcing MSP could prevent distress sale.
+Challenges:
+Fiscal Burden on the Government:
+Legalising MSP across all crops would
+require the government to procure large quantities at assured prices
+, significantly increasing the fiscal burden.
+As per government
+extending MSP to all farmers and crops could cost over
+Rs 10 lakh crore annually,
+which is financially unviable for the government.
+Market Distortion:
+Legal MSP could distort free market mechanisms by discouraging private traders and businesses from participating in the agricultural market.
+Excessive reliance on
+MSP could disrupt competitiveness
+in the domestic and export market and leads to
+legal  battle for India at WTO.
+Storage and Infrastructure Constraints:
+Legalising MSP would require large-scale procurement, which in turn necessitates substantial improvements in storage and logistics infrastructure.
+The government faces storage limitations, with
+existing infrastructure being insufficient to handle
+an expanded procurement system for all crops .
+Implementation Challenges:
+Implementing
+MSP uniformly across India
+challenging due to diverse agricultural practices and climates,
+making it hard to set MSP levels that benefit all farmers,
+Differences in production costs across states further complicate uniform MSP enforcement .
+Overproduction and Environmental Impact:
+Legalising MSP might incentivize overproduction of certain crops like wheat and rice, which are already extensively procured under the MSP system.
+This could lead to environmental degradation, including groundwater depletion and soil pollution.
+Way Forward
+Correcting MSP Implementation:
+Reform MSP to
+ensure it targets crops based on regional needs
+and market demand.
+Strengthen procurement infrastructure and encourage crop diversification
+to reduce over-reliance on specific crops like wheat and rice.
+Encourage Crop Diversification:
+The government should incentivise crop diversification to address the environmental and economic issues.
+MSP should be introduced or expanded for other crops, including
+pulses, oilseeds, and millets
+, to promote sustainable farming and reduce pressure on water resources.
+Direct Benefit Transfers (DBT):
+To reduce inefficiencies and
+curb the dependence on middlemen, the government can explore direct benefit transfers for farmers.
+This could allow farmers to receive the difference between the MSP and market price directly into their bank accounts if they cannot sell at MSP.
+Allied Activities for Farmers:
+Promote allied agricultural activities like
+horticulture, dairy farming, and fisheries
+to provide farmers with additional income sources, making agriculture more sustainable and less dependent on MSP.
+Skill Development for Manufacturing Jobs:
+Expand skill development programs to equip rural populations, particularly youth and women, with manufacturing and technical skills.
+This would create
+employment opportunities outside agriculture,
+supporting the transition to non-farm incomes.
+Drishti Mains Question:
+Critically analyse the concerns associated with the legalisation of Minimum Support Price system and suggest a way forward.

@@ -1,0 +1,1072 @@
+SUB-CLASSIFICATION OF SC, ST
+Syllabus
+Mains – GS 2
+Context:
+In a landmark judgement, a seven-judge Bench of the Supreme Court on August 1 reframed how the Scheduled Castes (SC) and Scheduled Tribes (ST) quota may operate. The Bench headed by Chief Justice of India permitted states to create sub-classifications within the SC and ST categories for the purpose of according wider protections — through sub-quotas — to the most backward communities within these categories.
+Background:-
+This overturns the apex court’s 2004 decision in E V Chinnaiah v State of Andhra Pradesh, in which it had held that the SC/ST list is a “homogenous group” that cannot be divided or sub-classified further.
+Key takeaways
+Article 341 of the Constitution allows the President, through a notification, to list as SC “castes, races or tribes” that suffered from untouchability. SC groups are jointly accorded 15% reservation in education and public employment.
+Over time, some groups within the SC list have been underrepresented compared to others, prompting states to try extending more protections to these groups. These attempts have faced judicial scrutiny.
+In 1975, Punjab issued a notification giving first preference in SC reservations to the Balmiki and Mazhabi Sikh communities. This was challenged following the Supreme Court’s 2004 decision in E V Chinnaiah, which struck down a similar law in Andhra Pradesh.
+V Chinnaiah judgement: The court held that any attempts to create a differentiation within the SC list would essentially amount to tinkering with it, for which the Constitution did not empower states. Article 341 only empowers the President to issue such a notification, and Parliament to make additions or deletions to the list. The court also said that sub-classifying SCs violates the right to equality under Article 14.
+In 2006, the Punjab & Haryana High Court struck down Punjab’s 1975 notification in Dr. Kishan Pal v State of Punjab.
+Despite this, Punjab reintroduced the first preference in the Punjab Scheduled Caste and Backward Classes (Reservation in Services) Act, 2006. This Act was challenged, leading to the High Court striking it down in 2010, and an appeal to the Supreme Court. In 2014, the case was referred to a five-judge Constitution Bench to determine if the E V Chinnaiah decision had to be reconsidered.
+In 2020, Constitution Bench in Davinder Singh v State of Punjab held that the 2004 E V Chinnaiah decision required reconsideration, noting that SCs are not a homogeneous group and that there are unequals within SC’s, ST’s, and socially and educationally backward classes. But since this Bench, like in E V Chinnaiah, comprised five judges, a seven-judge Bench heard the issue in February 2024.
+Key issues before the Bench included:
+Are all castes in the SC list to be treated similarly?
+: Article 341(1) allows the President to specify SCs in a state. Article 341(2) states that only Parliament can modify this list. E V Chinnaiah decision held that SCs must be treated identically. However, CJI Chandrachud rejected this, stating that the Presidential list is a “legal fiction” and does not imply uniformity within the SCs.
+Can states ‘tinker’ with or sub-classify the Presidential list?
+: The court, in E V Chinnaiah, had held that the power under articles 15(4) & 16 (4) was limited to providing quotas in education and public employment and once reservations have been provided to SCs as a whole, it is not open to the State to sub-classify. The majority opinion in the present case held that states in exercise of its power under Articles 15 & 16 can identify varying degrees of social backwardness and provide special provisions, including sub-quotas.
+What is the yardstick for sub-classification?:
+States must demonstrate the need for wider protections, provide empirical evidence, and have a reasonable rationale for classifying sub-groups. This reasoning can be tested in court. Representation must be “effective” rather than merely “numerical,” and states must prove the disadvantaged status of sub-groups based on quantifiable data.
+Does the creamy layer principle apply to Scheduled Castes?:
+Justice Gavai supported introducing the ‘creamy layer’ principle for SCs, as applied to OBCs, to ensure that only the most disadvantaged benefit from reservations. Four of the seven judges agreed with this opinion.
+In conclusion, the Supreme Court’s decision reflects a nuanced approach to SC reservations, recognizing internal disparities within SCs and allowing states to address them with appropriate measures backed by evidence.
+Source:
+Indian Express
+**********
+CLOUDBURSTS
+Prelims & Mains – GEOGRAPHY
+Several cloudbursts occurred in Himachal Pradesh recently. Five people have died and around 50 are missing.
+The cloudbursts also triggered flash floods that washed away several buildings, bridges, and roads cutting off several areas.
+About cloudbursts
+A cloudburst is a localised but intense rainfall activity.
+Not all instances of very heavy rainfall, however, are cloudbursts. A cloudburst has a very specific definition: Rainfall of 10 cm or more in an hour over a roughly 10 km x 10-km area is classified as a cloudburst event. By this definition, 5 cm of rainfall in a half- hour period over the same area would also be categorized as a cloudburst.
+Causes
+Orographic Lift: Cloudbursts frequently occur in mountainous regions where moist air is forced to rise over a mountain, cooling and condensing rapidly.
+Convective Clouds: They can also result from convective clouds, such as cumulonimbus clouds, which can extend up to 15 kilometers (9.3 miles) above the ground.
+Sudden Condensation: When warm air mixes with cooler air, it can lead to rapid condensation and precipitation.
+Effects
+Flooding: The intense rainfall can lead to flash floods, causing significant damage to infrastructure and posing risks to life.
+Disasters: Cloudbursts can result in landslides, especially in hilly areas, further exacerbating the damage.
+Detection and Forecasting
+Challenges: Detecting cloudbursts is challenging due to their small scale. Satellite precipitation radars often miss them, and weather models struggle to simulate them accurately.
+Forecasting: Predicting cloudbursts remains difficult, particularly in hilly regions where the interaction between moisture and terrain is complex.
+Down To Earth
+**********
+NIRBHAYA FUND
+Prelims & Mains – CURRENT EVENT
+Under the Nirbhaya Fund, upto the financial year 2023-24, a total amount of Rs.7212.85 Crore has been allocated.
+Since the inception of the Nirbhaya Fund, approximately ₹5,000 crore has been released and utilized by various Ministries and Departments. This amount represents nearly 76% of the total allocation.
+About Nirbhaya Fund
+TheNirbhaya Fund was established by the Government of India in 2013, following the tragic 2012 Delhi gang rape incident.
+It is a non-lapsable corpus fund.
+Purpose and Establishment
+Objective: The fund aims to support initiatives that enhance the safety and security of women in India.
+Initial Corpus: It was announced with an initial corpus of ₹1,000 crore in the 2013 Union Budget.
+Administration
+Managing Body: The fund is administered by the Department of Economic Affairs under the Ministry of Finance.
+Ministry of Women and Child Development (MWCD) is the nodal Ministry to appraise/recommend proposals and schemes to be funded under Nirbhaya Fund. An empowered committee was set up for appraising and recommending proposals.
+MWCD further has the responsibility to review and monitor the progress of sanctioned schemes in conjunction with the line Ministries/Departments.
+Key Initiatives and Projects
+One Stop Centres (OSCs): Also known as “Sakhi Centres,” these provide integrated support and assistance to women affected by violence, including medical aid, police assistance, legal aid, and counseling.
+Safe City Projects: Implemented in various cities to enhance women’s safety through better infrastructure, increased police presence, and technology-based solutions like CCTV surveillance.
+Emergency Response Support System (ERSS): A pan-India single emergency number (112) for all kinds of emergencies, including those related to women’s safety
+News On Air
+**********
+PUMPED STORAGE HYDROPOWER
+Budget 2024-25 promised that a policy for promoting pumped storage projects will be brought out for electricity storage and facilitating smooth integration of the growing share of renewable energy with its variable and intermittent nature.
+As the world focused on renewable energy and the challenge of variable power generation, many solutions for energy storage were proposed. The most widely adopted method globally is pumped storage.These are like super large batteries but natural and use water.
+About Pumped Storage Hydropower (PSH) :
+Pumped Storage Hydropower (PSH) is a type of hydroelectric energy storage that plays a crucial role in balancing electricity supply and demand.
+How It Works
+PSH involves two water reservoirs at different elevations:
+Upper Reservoir: Positioned at a higher elevation.
+Lower Reservoir: Positioned at a lower elevation.
+During periods of low electricity demand, excess energy from the grid is used to pump water from the lower reservoir to the upper reservoir. This process stores energy in the form of gravitational potential energy. When electricity demand is high, the stored water is released back into the lower reservoir through turbines, generating electricity in the process.
+Types of PSH
+Open-Loop PSH: This system has a continuous connection to a natural water source, such as a river.
+Closed-Loop PSH: This system operates independently of natural water bodies, using only the two reservoirs.
+Advantages
+Energy Storage: PSH acts like a giant battery, storing energy for later use.
+Grid Stability: It helps balance supply and demand, ensuring a stable electricity grid.
+Renewable Integration: PSH supports the integration of intermittent renewable energy sources like wind and solar by storing excess energy.
+s experience
+India has 3.3 GW of pumped storage. Main ones are Nagarjunasagar, Kadana, Kadamparai, Panchet and Bhira. Some four are under construction and two in advanced levels of planning.
+How the Kadamparai Plant Operates :
+In Tamil Nadu, wind and solar power can generate half of the state’s electricity at noon, particularly in July. On a typical summer day, solar plants generate around 5,000 MW at noon, but this drops to zero by sunset. Wind power varies seasonally, with its peak from May to September.
+Tamil Nadu has peaks of around 17,000 MW to 20,000 MW on a daily basis. This year in July, maximum wind power generated reached 5,499 MW and maximum solar reached 5,512 MW. Wind and solar have Must Run Status in the State which means whatever they produce must be taken.
+The Kadamparai plant in Tamil Nadu helps balance the grid. It features an upper and lower reservoir, with a height difference of around 380 meters. The plant’s turbine generator can produce electricity when water flows from the upper to the lower reservoir and can also function as a pump, consuming electricity to move water back up.
+Power managers in Tamil Nadu plan daily operations based on expected demand and weather forecasts. Excess solar power during the day is used to pump water to the upper reservoir at Kadamparai. When solar power generation ceases in the evening, the Kadamparai plant switches to generating mode, providing 400 MW of power for three to four hours to support evening peak loads.
+The upper reservoir holds around 1 TMC feet of water, with minimal leakage, often replenished by rainfall. During peak solar generation, hydro power (approximately 1,000 MW) is conserved for peak demand times or emergencies. Hydro power can be quickly activated if there’s a sudden drop in other power sources.
+Hindu
+**********
+WOMEN ENTREPRENEURSHIP PROGRAM (WEP)
+Prelims – CURRENT EVENT
+: Recently, the National Skill Development Corporation (NSDC) unveiled the Women Entrepreneurship Program to empower women entrepreneurs and spurring economic growth.
+WEP aims to create a supportive ecosystem for women entrepreneurs, enabling them to thrive and contribute significantly to India’s economic growth.
+About Women Entrepreneurship Program
+The program is designed to address the distinct challenges that women face when starting and growing businesses.
+It aims to empower approximately 25 lakh women across India by providing them with essential skills, knowledge, and resources.
+The initiative is in partnership with Britannia Industries Limited, reflecting a commitment to fostering an inclusive environment for women entrepreneurs.
+Divided into two phases, NSDC, with support from the National Institute for Entrepreneurship and Small Business Development (NIESBUD), will offer free online self-learning entrepreneurship courses through the Skill India Digital Hub (SIDH). These courses, available in multiple languages, will cover crucial topics such as entrepreneurial skills, enterprise setup, finance basics, digital skills, and market analysis.
+In the next phase, NSDC extends robust incubation support to 10,000 shortlisted contestants across 100 business models.
+Additionally, participants’ products and services will be highlighted on SIDH’s e-commerce platform, UdhyamKart and Britannia’s digital ecosystem for women entrepreneurship.
+NSDC will conduct periodic impact assessments to evaluate the success and sustainability of the supported businesses, ensuring the program’s long-term effectiveness.
+About National Skill Development Corporation (NSDC):
+Establishment: The National Skill Development Corporation (NSDC) was established on July 31, 2008, as a not-for-profit public limited company under section 25 of the Companies Act, 1956.
+Unique Model: NSDC operates as a unique Public Private Partnership (PPP) model under the Ministry of Skill Development & Entrepreneurship (MSDE)
+PIB
+**********
+INDO-PACIFIC ECONOMIC FRAMEWORK (IPEF)
+: India has been elected as the Vice-Chair of the Supply Chain Council under the Indo-Pacific Economic Framework (IPEF).
+Alongside the USA, which serves as the Chair, India will play a crucial role in enhancing supply chain resilience across the Indo-Pacific region.
+About Indo-Pacific Economic Framework (IPEF)
+The Indo-Pacific Economic Framework (IPEF) is a strategic blueprint aimed at promoting economic integration, connectivity, and cooperation among countries in the Indo-Pacific region.
+It envisions a comprehensive and inclusive approach to harness the region’s economic potential while fostering stability, development, and shared prosperity.
+It was launched by U.S. President Joe Biden on May 23, 2022.
+The IPEF has four pillars:
+Trade: Enhancing trade relations and facilitating economic exchanges.
+Supply Chains: Strengthening supply chain resilience and coordination.
+Clean Economy: Promoting sustainable and environmentally friendly practices.
+Fair Economy: Fostering fairness, competitiveness, and inclusiveness among member economies.
+**********
+Daily Practice MCQs
+Q1.) With reference to the Women Entrepreneurship Program (WEP), consider the following statements:
+WEP is designed to address the unique challenges faced by women when starting and growing businesses.
+WEP offers financial grants to women entrepreneurs.
+Which of the statements given above is/are correct?
+1 and 2 only
+2 and 3 only
+1,2 and 3
+Q2.) With reference to the Indo-Pacific Economic Framework (IPEF), consider the following statements:
+The Indo-Pacific Economic Framework is a multilateral initiative aimed at enhancing economic cooperation and connectivity in the Indo-Pacific region.
+It was launched by India during the G20 summit.
+Both 1 and 2
+Neither 1 nor 2
+Q3.) Consider the following statements about cloudbursts
+All instances of very heavy rainfall are considered cloudbursts.
+Which of the statements given above is/are not correct?
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  3rd August 2024
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********Before the Landslide: Wayanad Tragedy is a Warning, Do Not Ignore Ecology
+Context
+In recent days,
+Wayanad, a district known for its breathtaking landscapes, has been hit by a catastrophic landslide
+that has resulted in profound loss and devastation.
+The landslide,
+triggered by a cloudburst, ravaged the regions of Meppadi, Mundakkai, and Chooralmala leading to the collapse of a crucial bridge in Mundakkai
+and resulting in the death of over 300 people, with an equal number still missing.
+This
+tragedy underscores the severe consequences of both natural and human-induced factors
+on fragile ecosystems.
+Environmental and Climatic Factors Behind Wayanad Landslide
+According to climate experts,
+the immediate cause of the landslide was the exceptionally heavy rainfall
+linked to the warming of the Arabian Sea.
+phenomenon has caused atmospheric instability over large parts of the Western Ghats,
+including Kerala, resulting in rain-laden clouds moving southward and causing excessive rainfall.
+The warming of the Arabian Sea, indicative of broader climate change patterns, has intensified weather anomalies,
+making regions like Wayanad increasingly vulnerable to such disasters.
+Human Induced Factors Behind Wayanad Tragedy
+Unchecked Development and Tourism
+Wayanad's scenic beauty has made it a popular eco-tourism destination,
+attracting numerous tourists annually.
+To cater to this influx,
+there has been rampant construction of resorts, hotels, and other infrastructure.
+This development, however, has often been carried out without proper environmental assessments
+or adherence to sustainable practices.
+Resorts have sprung up in fragile areas
+, roads have been carved into steep hillsides, and tunnels have been bored through mountains,
+all contributing to the destabilisation of the terrain.
+Quarrying Activities
+demand for construction materials has led to extensive quarrying in the Western Ghats
+, including Wayanad.
+Quarrying involves the removal of large amounts of rock and soil, which not only alters the landscape
+but also affects the structural integrity of the land.
+removal of vegetation and topsoil increases the risk of soil erosion
+and reduces the land's ability to absorb and retain water.
+During heavy rains, these areas become prone to landslides
+as the destabilized ground cannot withstand the increased water pressure.
+Inadequate Land Use Planning
+Construction and development projects
+have often been executed
+without considering the region’s carrying capacity
+and ecological sensitivity.
+Western Ghats Ecology Expert Panel, led by Madhav Gadgil, had demarcated the region as an ecologically sensitive area (ESA)
+and recommended restrictions on construction, mining, and quarrying.
+However,
+these guidelines were not adequately implemented,
+and development continued unchecked, ignoring the potential environmental impact.
+Deforestation and Plantation Expansion
+study from 2022 revealed that 62% of the district’s green cover disappeared between 1950 and 2018
+, while plantation cover increased by around 1,800%.
+dense forests, which once provided stability to the soil and regulated water flow, have been replaced by plantations
+, particularly rubber.
+Rubber trees, unlike the native forest vegetation, have shallow root systems
+that are less effective in preventing soil erosion.
+change in land cover has reduced the soil's ability to retain water,
+increasing the likelihood of landslides during heavy rainfall.
+Outdated Infrastructure and Practices
+Infrastructure development in Wayanad and other parts of Kerala
+relied on outdated data and practices
+that do not account for current rainfall patterns and intensities.
+construction of roads, bridges, and culverts has not been designed to handle the increased water flow
+during heavy rains, leading to blockages and flooding.
+These
+inadequacies in infrastructure design and maintenance have contributed to the severity of the landslides
+and the resulting destruction.
+Ignoring Expert Warnings
+Despite repeated warnings from climate experts
+and environmentalists, the
+recommendations to curb construction and implement sustainable practices have been largely ignored.
+2011 Gadgil Committee report highlighted the need for stringent measures to protect the Western Ghats
+, but the continued neglect and prioritisation of economic gains over environmental sustainability have led to repeated disasters.
+The failure to heed these warnings has resulted in significant loss of life and property
+and has further degraded the region's ecological balance.
+Broader Implications for Kerala
+Recurring Climate-Induced Disasters
+Kerala has experienced a series of devastating climate-induced disasters
+over the past decade.
+2018 floods, which killed more than 400 people
+and caused widespread destruction, were followed by similar events in subsequent years.
+In 2019 and 2020, landslides in Idukki district claimed many lives
+, including numerous tea plantation workers.
+cycle continued in 2021 and 2022, with landslides and flash floods striking again.
+recurring disasters indicate that Kerala is increasingly vulnerable to extreme weather events,
+exacerbated by climate change.
+Impact on Biodiversity and Ecosystems
+The environmental degradation in Kerala has severe implications for biodiversity and ecosystems.
+Western Ghats are home to numerous endemic species of flora and fauna.
+destruction of forests and natural habitats
+due to unplanned development and plantation agriculture
+threatens these species' survival.
+loss of biodiversity not only impacts the ecological balance but also affects the livelihoods of communities
+dependent on these natural resources.
+Socio-Economic Consequences
+recurring natural disasters have significant socio-economic consequences for Kerala.
+destruction of homes, infrastructure, and agricultural land leads to massive financial losses
+and displaces thousands of people.
+tourism industry, a major contributor to the state’s economy, also suffers as natural beauty spots become disaster-prone
+Additionally, the cost of disaster relief and rehabilitation strains the state’s resources, diverting funds from other essential services.
+Way Forward
+Need for Climate-Resilient Infrastructure
+To mitigate the impact of climate-induced disasters,
+Kerala must invest in climate-resilient infrastructure.
+includes constructing roads, bridges, and buildings designed to withstand extreme weather conditions.
+Incorporating scientific precision and environmental considerations
+into development projects is essential.
+Such infrastructure should accommodate current and future rainfall patterns
+, ensuring that drainage systems can handle heavy downpours without causing blockages or floods.
+Sustainable Land Management Practices
+Promoting sustainable land management practices
+is crucial to maintaining hillside stability and reducing soil erosion.
+Reforestation, controlled deforestation, and sustainable agriculture can help
+restore the ecological balance in the Western Ghats.
+Planting native tree species and maintaining natural vegetation cover can enhance the soil’s ability
+to retain water and prevent landslides.
+Sustainable agricultural practices can minimise land degradation and ensure long-term productivity without compromising the environment
+Conclusion
+The recent tragedy in Wayanad is a stark reminder of the fragile balance
+between nature and human activity.
+To prevent future tragedies,
+it is imperative to integrate scientific precision in development activities,
+respect ecological warnings, and prioritize sustainable land management practices.
+Only through such measures can we hope to safeguard our environment
+and the lives that depend on it.
+Click to View More
+Editorial Analysis
+**********Legal challenges to the Great Nicobar infrastructure project
+Why in news?
+The Central government's Rs 72,000 crore Great Nicobar Island (GNI) infrastructure project includes constructing an airport for civilian and defense use, an international container transshipment terminal, and a township.
+The project has faced legal challenges in the National Green Tribunal (NGT) and the Calcutta High Court.
+Recently, the Andaman and Nicobar Islands Integrated Development Corporation Limited (ANIIDCO), the project's implementing agency, submitted conclusions from a high-powered committee (HPC) formed by NGT in 2023.
+The HPC concluded that the proposed transshipment port does not fall within the Island Coastal Regulation Zone-IA (ICRZ-IA), where ports are prohibited.
+What’s in today’s article?
+Great Nicobar Island – location, ecosystem, tribes
+Great Nicobar Island (GNI) Project
+Legal Challenges to the GNI Project
+Geographical location
+Great Nicobar, the southernmost of the Andaman and Nicobar Islands.
+The Andaman and Nicobar Islands are a cluster of about 836 islands in the eastern Bay of Bengal.
+The two groups of which are separated by the 150-km wide
+Ten Degree Channel
+The Andaman Islands lie to the north of the channel, and the Nicobar Islands to the south.
+Indira Point on the southern tip of Great Nicobar Island is India’s southernmost point, less than 150 km from the northernmost island of the Indonesian archipelago.
+Ecosystem
+The Great Nicobar Island has tropical wet evergreen forests, mountain ranges reaching almost 650 m above sea level, and coastal plains.
+The Island has two national parks and a biosphere reserve.
+Many endangered species are found at the Island. The
+leatherback sea turtle is the island’s flagship species
+Tribes of Nicobar
+Great Nicobar is home to
+the Shompen and Nicobarese tribal peoples
+The Shompen are hunter-gatherers who depend on forest and marine resources for sustenance.
+The Nicobarese, who lived along the west coast of the island were mostly relocated after the 2004 tsunami.
+An estimated 237 Shompen and 1,094 Nicobarese individuals now live in a 751 sq km tribal reserve, some 84 sq km of which is proposed to be denotified.
+Great Nicobar Island project
+In November 2022, the Environment ministry has given environmental clearance for the Centre’s ambitious Rs 72,000 crore multi-development projects in Greater Nicobar Island.
+The Great Nicobar Island (GNI) is a mega project to be implemented at the southern end of the Andaman and Nicobar Islands.
+The project includes an international container trans-shipment terminal, an international airport, township development, and a 450 MVA gas and solar based power plant over an extent of 16,610 hectares in the island.
+The port will be controlled by the Indian Navy, while the airport will have dual military-civilian functions and will cater to tourism as well.
+Legal Challenges and Grounds for Appeals
+In 2022, environmental activists challenged the environmental and Coastal Regulation Zone clearances granted to the project.
+They cited irreversible damage to biodiversity, inadequate environmental impact studies, and opacity in the clearance process.
+They highlighted the impact on the Shompen and Nicobarese tribal communities and the ecological sensitivity of the Island Coastal Regulation Zone (ICRZ-IA).
+NGT's Response and Formation of HPC
+The NGT formed a high-powered committee (HPC) to revisit the project’s green clearance due to concerns about coral conservation, the port’s location in a prohibited area, and limited baseline data.
+The HPC concluded that the proposed port does not fall in the ICRZ-IA
+Recent petitions
+In May 2024, Kothari filed two petitions before the NGT’s eastern bench.
+The first challenged the exclusion of parts of the project from ecologically sensitive areas as per the 2019 CRZ notification.
+The second accused the MoEFCC of contempt for not updating the NGT on the HPC’s findings and failing to act as directed.
+ANIIDCO filed a counter affidavit, while MoEFCC requested more time to respond.
+High Court Cases
+The activists also filed a writ petition in the Calcutta High Court challenging the NGT’s April 2023 order.
+The petition argued that the NGT special bench overstepped its jurisdiction and failed to adequately consider the project’s environmental impact, delegating decision-making to the HPC.
+It contended that the NGT should have directly evaluated the clearances and not relied on the committee.
+Legal challenges to the Great Nicobar infrastructure project.pdf
+( Size:  2.7 MB  )
+Click to View More
+Environment & Ecology
+**********Olympics boxing gender testing controversy
+Why in news?
+Imane Khelif, a 25-year-old welterweight from Algeria, qualified for the quarterfinals of the Olympic women's boxing tournament by dismantling Italy's Angela Carini in the round of 16. Their fight lasted just 46 seconds.
+Since her victory, Khelif has been the target of a wave of abuse, with many calling her a “biological man” who had an “unfair advantage” over Carini. Some people also wrongly identified Khelif as a transgender woman.
+The participation of trans women, and women having certain “masculine” biological characteristics like higher testosterone levels, in women’s sports has long been a subject of polarising debate.
+What’s in today’s article?
+Background: the controversy
+Gender eligibility: a contentious issue in women’s sports
+Steps taken by sports federations deal with this matter
+Boxers failed gender eligibility test conducted by International Boxing Association (IBA)
+In 2023, Imane Khelif and Chinese Taipei boxer Lin Yu-ting were banned from competing in the IBA’s World Championship in New Delhi after failing a confidential "gender eligibility" test.
+The IBA stated that the boxers did not meet the criteria to compete in the female category.
+Both boxers are competing in Paris Olympics
+Both boxers are now competing at the Paris Olympics, as the International Olympic Committee (IOC) derecognized the IBA over governance and financial issues.
+The IOC-appointed unit governing the competition in Paris only requires the gender stated in an athlete’s passport for eligibility, and Khelif’s passport identifies her as female.
+Response by IOC
+Following Khelif’s win and the subsequent abuse, the IOC stated that all Olympic boxers complied with eligibility and entry regulations.
+It noted that both Khelif and Lin have competed in women’s competitions for many years, including the Tokyo 2020 Games.
+The IOC also criticized the IBA's decision to ban the two women as arbitrary and not following proper procedure.
+Organization of sports based on sex
+Modern sports are organized on the basis of sex, with men and women competing in different categories.
+This is because men, on average, have certain physiological advantages over women.
+Sex is determined based on chromosomes
+Sex is determined based on chromosomes, which carry genes. Humans have 23 pairs of chromosomes — 22 are identical in men and women; one, the sex chromosome, is different.
+The XX sex chromosomes result in the development of female sex organs, and XY in male sex organs.
+The SRY gene, found on the Y chromosome, is responsible for the production of testosterone
+Link between testosterone and athletic performance
+Many studies have supported the link between testosterone and athletic performance.
+As per them, the difference in circulating testosterone between adults likely explains most, if not all, sex differences in sporting performance due to testosterone's effects on muscle mass, strength, bone size, strength (density), and circulating hemoglobin.
+However, other studies note that data on this matter is currently inadequate.
+DSD and Swyer syndrome
+Some people born with female reproductive organs may also carry the XY chromosome, in what is known as Swyer syndrome.
+This syndrome is one of many “Disorders of Sex Development”, or DSDs.
+Swyer syndrome, also known as 46 XY gonadal dysgenesis, is a rare genetic condition where individuals have one X and one Y chromosome in each cell (typically associated with males) but develop female reproductive structures.
+People with Swyer syndrome are genetically male but phenotypically female, meaning they have a female appearance and female external genitalia.
+This is at the heart of the debate surrounding gender eligibility in women’s sports.
+Many argue that in order to prevent some athletes from having an unfair advantage in women’s sports, women with DSDs must not be allowed to compete with other women.
+They claim that DSDs facilitate greater testosterone production, and other consequent athletic advantages.
+Sports federations have their own eligibility criteria
+In 2021, the IOC decided to allow international sports federations to develop their own eligibility rules based on an “evidence-based approach” considering principles of “fairness”, “inclusion”, “non-discrimination”, “no presumption of advantage”, and “prevention of harm.”
+Previously, the IOC required women athletes who had transitioned from male to female to have testosterone levels below 10 nanomoles per litre (nmol/L).
+World Athletics still uses testosterone levels as an eligibility criterion, requiring DSD athletes to maintain levels below 2.5 nmol/L for at least 24 months before competing.
+This is stricter than the pre-2023 requirement of 5 nmol/L for events ranging from 400 meters to a mile, with no restrictions on other events.
+FINA, the world swimming body, the International Cycling Union, and the International Rugby Union have all implemented varying degrees of bans on trans women athletes.
+Debate goes on
+There is still much unknown about the impact of testosterone on sporting performance.
+Many question whether women born with higher levels of testosterone have any different advantage compared to people with other genetic advantages, such as LeBron James' height or Michael Phelps' large, fin-like hands.
+Olympics boxing gender testing controversy.pdf
+( Size:  2.4 MB  )
+Click to View More
+Polity & Governance
+**********Two Indian Astronauts Selected for Axiom-4 Mission
+Why in the News?
+India has shortlisted two astronaut-designates for the upcoming Axiom-4 mission to the International Space Station (ISS).
+What’s in Today’s Article?
+About Axiom-4 Mission (Basics, Objectives, Key Features, etc.)
+About ISS (History, Participants, Purpose, etc.)
+News Summary
+About Axiom-4 Mission:
+Axiom Mission 4 (or Ax-4) is a private spaceflight to the International Space Station.
+It is operated by Axiom Space and uses a SpaceX Crew Dragon spacecraft.
+The flight is in collaboration with
+NASA
+and will be the fourth flight of Axiom Space after
+Axiom Mission 1
+Axiom Mission 2
+Axiom Mission 3
+Scheduled to launch in 2024, Axiom-4 will continue the company's pioneering efforts to establish a sustainable human presence in Low Earth Orbit (LEO).
+Mission Objectives:
+Commercial Space Endeavours:
+Axiom-4 aims to
+facilitate commercial activities in space
+, including scientific research, technological development, and space tourism.
+The mission will help demonstrate the viability of commercial space stations as a platform for business and innovation.
+International Collaboration:
+Axiom-4 is set to carry a
+diverse crew of astronauts from different countries
+, reflecting the growing international interest in space exploration.
+This mission will strengthen partnerships between nations and contribute to global space initiatives.
+Research and Development:
+The mission will support various scientific experiments and technological tests in the unique microgravity environment of space.
+Research areas include materials science, biology, Earth observation, and more, with the potential to yield groundbreaking discoveries and innovations.
+Key Features:
+Spacecraft and Crew:
+The mission will use a SpaceX Dragon spacecraft, launched atop a Falcon 9 rocket.
+The crew will consist of professional astronauts and private individuals, including researchers and potentially tourists, who have undergone rigorous training for the mission.
+Duration and Activities:
+Axiom-4 is expected to be a short-duration mission,
+lasting approximately 14 days
+During their time aboard the International Space Station (ISS), the crew will conduct scientific experiments, perform technology demonstrations, and engage in educational outreach.
+Commercial Space Station Development:
+Axiom Space's long-term vision includes
+building the world's first commercial space station
+The Axiom-4 mission is part of the company's broader plan to eventually transition from the ISS to their own independent orbital outpost.
+About International Space Station (ISS):
+International Space Station is a modular space station launched in
+1998
+Modular stations can allow modules to be added to or removed from the existing structure, allowing greater flexibility.
+It is a large laboratory in space that allows astronauts to come aboard and stay for weeks or months to carry out experiments in microgravity.
+The first crew on the ISS arrived on November 2, 2000.
+Objective:
+To conduct scientific research in astrobiology, astronomy, meteorology, physics, and other fields.
+It is the largest artificial object in space.
+It circles the Earth in roughly 93 minutes, completing 15.5 orbits per day.
+Currently, the ISS has eight solar arrays generating about 160 kilowatts of power total.
+Altitude:
+400 km
+Participating Space Agencies:
+It is a multinational collaborative project involving five participating space agencies:
+National Aeronautics and Space Administration (
+USA
+Roscosmos State Corporation for Space Activities (
+Russia
+In July 2022, Russia announced that it would withdraw from the ISS after 2024.
+However, in December 2023, Russia and the US space agencies agreed to extend their joint flights to the ISS until 2025.
+Japan Aerospace Exploration Agency (
+European Space Agency (
+Canadian Space Agency (
+Canada
+The station is divided into two sections:
+Russian Orbital Segment (ROS)
+– Operated by Russia,
+United States Orbital Segment (USOS)
+– Operated by the US as well as many other nations.
+The ownership & use of the space station is
+established by intergovernmental treaties & agreements
+Two Indian Astronauts Selected for Axiom-4 Mission:
+India has selected Group Captains Shubhanshu Shukla and Prasanth Balakrishnan Nair for the upcoming Axiom-4 mission to the International Space Station (ISS).
+This mission is part of a joint ISRO-NASA effort, stemming from a Space Flight Agreement with Axiom Space Inc.
+Group Captain Shukla will serve as the prime mission pilot, with Group Captain Nair as the backup.
+Both astronauts will undergo training in the U.S. starting in August 2024.
+Their participation will contribute to scientific research, technology demonstrations, and enhance India's human space program while strengthening ISRO-NASA cooperation.
+newspaper.pdf
+( Size:  201.0 KB  )
+Click to View More
+Science & Tech
+**********Conservation and Protection of Western Ghats
+Why in News?
+The Union Environment Ministry (MoEFCC) has issued a draft notification to declare the Western Ghats an ecologically sensitive area (ESA). The ESA includes villages in Wayanad (Kerala), where a devastating series of landslides on July 30 killed at least 210 people, with hundreds more still missing.
+What’s in Today’s Article?
+Western Ghats and its Conservation Efforts
+The Sixth Draft Western Ghats Notification
+Challenges Towards Conserving Western Ghats
+About Western Ghats:
+It is a mountain range
+(in a stretch of 1,600 Km) parallel to the western coast of the Indian peninsula.
+It is a UNESCO World Heritage Site
+and is one of the 36 biodiversity hotspots in the world.
+These are home to high mountain forests
+, which have been
+severely fragmented
+due to human activities, especially clear-felling for tea, coffee, and teak plantations.
+Conservation efforts:
+In 2010
+, MoEFCC appointed the
+Western Ghats Ecology Expert Panel (WGEEP)
+, to be chaired by ecologist
+Dr Madhav Gadgil
+It was formed
+to study the impact of population pressure, climate change and development activities
+on the Western Ghats.
+Recommendations of the WGEEP:
+Designate the entire region as an Ecologically Sensitive Area (ESA)
+and classify 64% of the Western Ghats into Ecologically Sensitive Zones called ESZ 1, ESZ 2 and ESZ 3.
+Almost all developmental activities
+like mining, construction of thermal power plants, and dams were to stop along with the
+decommissioning of similar projects
+that have completed their shelf life in ESZ 1.
+The report suggested
+a bottom-to-top approach
+and the establishment of a
+Western Ghats Ecology Authority
+to manage the ecology of the region and to ensure its sustainable development.
+Resistance to the implementation of the WGEEP’s recommendations:
+Stakeholder states resisted
+the Gadgil panel recommendations amid fears of hindrance to development and loss of livelihood.
+In 2012
+, MoEFCC constituted a
+High-Level Working Group on Western Ghats
+under former ISRO chief
+Dr K Kasturirangan,
+to formulate a report to replace WGEEP.
+Recommendations of the Kasturirangan-led panel:
+It notified only 37%
+(against 64% by Gadgil commission) of the area as ecologically sensitive.
+It also split the Western Ghats into
+cultural (human settlements) and natural (non-human settlements) regions. It was suggested that
+cultural lands be designated as an ESA.
+Status of implementation of above recommendations:
+In 2017
+, MoEFCC demarcated an area of 56,825 sq Km in the Western Ghats as ESA as opposed to the 59,940 sq Km recommended by the Kasturirangan committee.
+Kerala has 9,993 sq km;
+Karnataka 20,668 sq km, Tamil Nadu 6,914 sq km; Maharashtra 17,340 sq km; Goa 1,461 sq km and Gujarat 449 sq km.
+The Sixth Draft Western Ghats Notification:
+Background:
+The latest draft notification
+has been reissued because the previous draft (issued in July 2022) expired, and may have been prompted by recent
+devastating landslides in Wayanad district
+This comes 13 years after
+the first such demarcation was recommended by a panel led by eminent ecologist Madhav Gadgil in 2011.
+Since then, the proposed protected area has
+shrunk from the original 75% recommendation to the current 37%.
+About the draft notification:
+The proposal for the ESA classification
+covers six states
+and 59,940 square kilometres of the Western Ghats or
+roughly 37% of the range.
+It states that
+All new and expansion projects of building and construction with built-up area of 20,000 square metres and above, and
+All new and expansion townships and area development projects with an area of 50 hectares and above or with built-up area of 150,000 square metres and above
+shall be prohibited
+Impact of the latest draft:
+If finalised,
+the notification would impose a complete ban
+on mining, quarrying, sand mining, thermal power plants, and polluting industries in the designated areas.
+It would also prohibit
+new construction projects and township developments above certain thresholds.
+Additionally,
+hydropower projects and less polluting industries would be regulated
+, and a monitoring mechanism would be established.
+Challenges Towards Conserving Western Ghats:
+The outcome of this long-standing environmental protection effort
+remains uncertain
+conservation needs clashing with the developmental aspirations
+in one of India’s most ecologically significant regions.
+As the draft notification now stands,
+it is up to the Western Ghats state governments to accept or reject the proposal
+Despite its six iterations,
+the draft notification is yet to become law
+, as all six affected States have objected to specific places that have been included in the ESA regions.
+The dominant sentiment in Kerala
+was that this notification would subsume agricultural plantations, curtail the State’s hydro-electricity plans, and would lead to a migration crisis given the State’s high population density.
+To address states’ concerns, MoEFCC constituted a high-level committee in 2022 to balance
+Conservation aspects of the disaster-prone pristine ecosystem, and
+The rights, privileges, needs and developmental aspirations of the region.
+But is yet to submit its report.
+Centre reissues draft Western Ghats notification for the 6th time.pdf
+( Size:  365.3 KB  )
+Click to View More
+Environment & Ecology
+**********An unstated shift in Modi’s economic direction             
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+About Employment Linked Incentives (ELI)
+Why in the news?
+The introduction of the new
+ELI scheme for corporates
+by the Narendra Modi government acknowledges the disconnect between GDP growth and job creation.
+The ELI scheme
+aims to encourage companies to hire more employees by providing financial incentives for each new hire.
+Target Sectors: The scheme is expected to focus on labour-intensive sectors such as
+toys, textiles, apparel, furniture, tourism, and logistics,
+which have significant potential for job creation.
+Incentives Offered: Financial incentives may include
+tax relief and wage subsidies for new jobs created
+, along with non-financial incentives like reduced regulatory burdens and support for skill development programs.
+Government’s Failure of Initiatives
+Previous Economic Strategies:
+Over the past decade, the Indian government relied on traditional economic models, such as the
+trickle-down approach and production-linked incentives (PLI),
+which did not yield the expected job growth.
+Initiatives like
+“Make in India”
+corporate tax cuts
+aimed to stimulate investment but
+failed to translate into significant employment opportunities.
+Jobless Growth:
+Despite policies designed to boost production, employment growth has been stagnant, with a study indicating a
+negligible employment growth rate of just 0.01%.
+Issue of Job and Ideas Deficit
+Jobs Deficit:
+The lack of job creation has prompted proposals like reserving jobs for locals, reflecting political pressures in a democracy where job scarcity is prevalent.
+Ideas Deficit:
+Economists often suggest reforms in labour, education, and business practices as solutions to job creation, but these are complex and difficult to implement.
+Unemployment Trends:
+The unemployment rate has shown fluctuations, with a reported decline from
+6.0% in 2017-18 to 3.2% in 2022-23.
+What can be done?
+Policy Shift:
+The ELI scheme represents a significant policy shift towards prioritizing job creation over mere economic output. By encouraging firms to hire rather than invest solely in automation, it aims to address the capital-labour imbalance in the economy.
+Support for MSMEs:
+Special focus on
+micro, small, and medium enterprises (MSMEs)
+is crucial, as they employ a substantial portion of the workforce.
+Alignment of Goals:
+Need to Collaborate among various ministries, particularly finance, skill development, and labour, is essential to ensure that skill development aligns with industry needs, enhancing employability and job creation
+**********Why the Odisha government will plant palm trees to combat lightning strikes          
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Lightning strikes in India
+Mains level:
+NDMA Guidelines for Lightning
+Why in the news?
+In July, the Odisha government approved a proposal to plant 1.9 million palm trees to mitigate deaths caused by lightning strikes, which were declared a state-specific disaster in 2015.
+How many people have lost their lives to lightning in Odisha?
+Over the
+last 11 years, a total of 3,790 people
+have lost their lives due to lightning strikes in Odisha.
+In the previous three fiscal years, 791 fatalities were reported, indicating an increasing frequency of lightning strikes.
+On September 2, 2023, Odisha
+recorded 61,000 lightning strikes in a two-hour period,
+resulting in the
+deaths of at least 12 people.
+Why are Lightning strikes of particular concern in Odisha?
+Odisha is located in a
+tropical zone
+and e
+xperiences a hot, dry climate that creates ideal conditions for lightning strikes.
+The state has the highest number of cloud-to-ground lightning strikes in eastern and central India. The
+Annual Lightning Report 2023-2024
+indicates a significant concentration of lightning activity in this region.
+Research indicates that climate change exacerbates lightning activity, with a 10% increase in lightning occurrences for every degree Celsius of warming. This is particularly relevant in Odisha, where climatic factors contribute to frequent lightning events.
+With
+96% of lightning strikes occurring in rural areas,
+the most affected populations include farmers and daily wage earners who work outdoors, making them particularly vulnerable during peak agricultural seasons.
+How can Odisha defend Itself against lightning strikes?
+Planting Palm Trees:
+The Odisha government has approved a proposal to plant 19 lakh palm trees as a natural defense against lightning strikes. Palm trees are considered
+effective conductors of lightning due to their height and moisture content, which can absorb lightning and mitigate its impact on the ground.
+Financial Commitment:
+The state has allocated
+Rs 7 crore for the palm tree plantation initiative
+and has banned the felling of existing palm trees to enhance this strategy.
+Public Awareness and Early Warning Systems:
+While the state has implemented
+early warning systems to forecast lightning strikes,
+experts emphasize the need for widespread public education on safety measures during lightning events.
+Concerns:
+Experts have raised concerns about the effectiveness of palm trees as a long-term solution, noting that
+it takes 15 to 20 years for them to reach a height where they can effectively mitigate lightning strikes.
+Preparation and Awareness:
+The Local government should educate the communities about lightning safety and the risks associated with thunderstorms.
+Seek Shelter:
+During a thunderstorm, individuals should seek shelter in a fully enclosed building or a hard-topped metal vehicle. Open vehicles and structures such as metal sheds or under-construction buildings are unsafe.
+Avoid Trees:
+Taking shelter under trees is discouraged, as they can attract lightning. If in a wooded area, find the shortest trees for shelter.
+Crouching Position:
+If no shelter is available, crouch down with heels touching and head between the knees to minimize height and reduce risk.
+30-30 Rule:
+After seeing lightning, start counting to 30. If you hear thunder before reaching 30, go indoors. This rule helps assess the distance of the storm.
+Way forward:
+Installation of Lightning Rods and Conductors:
+The government should invest in the widespread installation of lightning rods and conductors in rural and vulnerable areas. These devices can provide immediate protection to critical infrastructure, homes, and open fields where farmers and workers are most at risk.
+Advanced Early Warning Systems:
+Need to enhance the existing early warning systems with more accurate, real-time data and ensure these warnings are disseminated quickly through multiple channels, including mobile alerts, community announcements, and local radio.
+Main PYQ:
+Explain the mechanism and occurrence of cloudburst in the context of the Indian subcontinent. Discuss two recent examples.
+(2022)
+**********Elephant in Civil Servant’s room           
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+The idea of Constitutional Democracy
+Why in the news?
+The government’s recent decision to lift the ban on government employees participating in RSS activities threatens to undermine the remnants of a free and fair bureaucracy.
+Whether or not civil servants are banned from joining RSS
+Lifting the Ban:
+The Central government has lifted a 58-year ban on government servants joining the Rashtriya Swayamsevak Sangh (RSS). This ban was originally imposed in 1966 due to concerns about the organization’s political activities.
+Government Justification:
+The government stated that the activities of the RSS are no longer deemed incompatible with civil service conduct rules, suggesting that the organization has been wrongly categorized as a banned entity.
+Judicial Commentary:
+The Madhya Pradesh High Court remarked that it took nearly five decades for the government to recognize its mistake in banning civil servants from joining the RSS, indicating a shift in perception regarding the organization.
+Political Reactions:
+The decision has sparked controversy, with opposition parties criticizing it as a threat to India’s secular fabric and accusing the government of politicizing the civil service. Critics argue that the RSS’s ideology conflicts with the principles of a secular state.
+Support from RSS:
+The RSS welcomed the decision, asserting that it strengthens India’s democratic system and has historically contributed to national unity and social service.
+Constitutional democracy is a system of government
+that combines the principles of democracy with a constitution that limits the powers of the state and protects the rights of citizens.
+people are the ultimate source of power,
+and the government derives its authority from their consent. The constitution places restrictions on the government’s actions and establishes the structure of the government.
+There is a
+separation of powers between the legislature, executive, and judiciary,
+with each acting as a check on the others. The rule of law applies equally to all citizens and the government itself.
+Minority rights are protected, and the will of the majority is balanced against the rights of individuals and minority groups.
+Constitutional democracy guarantees some rights to everyone, irrespective of their status as a minority or majority.
+origins of constitutional democracy
+can be traced back to Enlightenment ideas of natural rights, social contract theory, and the separation of powers. The United States Constitution, adopted in 1787, was a pioneering example of a written constitution establishing a federal system of government with a separation of powers
+RSS Ideology vs Constitutional Democracy
+Conflict of Ideologies:
+The lifting of the ban raises questions about the relationship between the RSS’s ideology and the constitutional framework of India. The RSS promotes a vision of a Hindu nation, which may conflict with the secular and pluralistic ideals enshrined in the Constitution.
+Constitutional Morality:
+The Constitution aims to create a society that respects diverse religions and cultures, contrasting with the RSS’s focus on a singular religious identity. This juxtaposition presents challenges to the commitment of civil servants to uphold constitutional values.
+Historical background of the Constitution:
+The Constitution was designed to restructure Indian society post-independence, ensuring inclusivity and rejecting the idea of a state aligned with a single religious community. The RSS’s ideology, which criticizes the post-1947 restructuring, poses a fundamental challenge to this vision.
+Democratic Challenges:
+The existence of non-democratic and exclusionary ideas within a democratic framework complicates governance. The rise of Hindutva politics, which emphasizes majoritarianism and exclusion, threatens the principles of constitutional democracy.
+Need for Reinforcement:
+To counter the influence of ideologies that contradict constitutional morality, there is a pressing need to reinvigorate the commitment to constitutional democracy among civil servants and the broader public.
+Conclusion:
+To uphold constitutional democracy, it is crucial to reinforce the commitment to secularism, inclusivity, and the rule of law among civil servants and the broader public amidst ideological challenges.
+Mains PYQ:
+To enhance the quality of democracy in India the Election Commission of India has proposed electoral reforms in 2016. What are the suggested reforms and how far are they significant to make democracy successful?
+(2017)
+**********Centre reissues draft notification on ecosensitive areas in Western Ghats          
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Ecologically Sensitive Areas (ESAs)
+Mains level:
+Reason behind the designation of Western Ghat as an ESA
+Why in the news?
+On Friday, the Central government released the sixth draft notification, designating 56,825.7 square kilometre of the Western Ghats as an ecologically sensitive area (ESA) across the states of Gujarat, Maharashtra, Goa, Karnataka, Kerala, and Tamil Nadu.
+Recommendations of the Gadgil and Kasturirangan Committees
+Gadgil Committee:
+Recommended that 75% of the Western Ghats (129,037 sq km) be designated as ecologically sensitive areas (ESAs) with restrictions on development activities.
+Kasturirangan Committee:
+Notified only 37% of the Western Ghats as ESAs, reducing the extent compared to the Gadgil report. It split the region into cultural (human settlements) and natural (non-human settlements) zones.
+ESAs are regions recognized for their
+environmental significance, where human activities are regulated to protect biodiversity, ecosystems, and natural habitats.
+These areas are often
+home to endemic species of plants and animals
+and are crucial for maintaining ecological balance.
+The Environment (Protection) Act of 1986
+allows the
+Central Government to restrict industrial activities in these sensitive areas to safeguard their ecological integrity.
+Although the term “Eco-Sensitive Zones” is not explicitly mentioned in the Act, provisions exist to prohibit or regulate activities based on biodiversity and environmental considerations.
+The reason behind it:
+Biodiversity Hotspot:
+The Western Ghats is recognized as one of the
+world’s eight “hottest hotspots” of biological diversity and a UNESCO World Heritage Site.
+It is home to numerous endemic species and globally threatened flora and fauna, making its protection crucial for conserving biodiversity.
+Recent Natural Disasters:
+The draft notification follows severe
+landslides in Wayanad, Kerala,
+which resulted in significant loss of life and property. These events underscored the
+vulnerability of the region to ecological disasters
+, highlighting the need for protective measures to prevent further environmental degradation
+Opposition from States
+State governments, including Kerala, have opposed the proposals in the draft notifications for declaring ESAs along the Western Ghats.
+The Kerala government want to reduce the ESA to 9,993.7 sq km from the Kasturirangan committee’s recommendation of 13,108 sq km.
+The then Kerala government led by Oommen Chandy opposed the Gadgil report and appointed another panel to come up with an independent report.
+New Panel Formed by the Government
+In April 2022, the Centre formed another panel to
+“re-examine suggestions by these six state governments
+while keeping in view the conservation aspects of the disaster-prone pristine ecosystem, as well as rights, privileges, needs and developmental aspirations of the region”.
+The Centre and expert panel held 10 meetings with states having Western Ghats to discuss the fifth draft notification at various forums.
+The sixth draft notification, issued on Friday,
+declared 56,825.7 sq km of the Western Ghats as ESAs in the states of Gujarat, Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu
+Way forward:
+Integrated Management Plans:
+The Government should develop and implement integrated management plans that balance ecological conservation with the developmental needs of the region.
+Enhanced Monitoring and Enforcement:
+There is a need to strengthen the regulatory framework by enhancing monitoring mechanisms and enforcing existing environmental laws more stringently.
+Mains PYQ:
+Differentiate the causes of landslides in the Himalayan region and Western Ghats.
+(2021)
+**********What is Axiom-4 Mission?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+ISRO has announced the names of Indian astronauts for the
+upcoming Axiom-4 (Ax-4)
+manned mission to the
+International Space Station (ISS)
+.
+Indian Crew in Ax-4:
+The
+National Mission Assignment Board
+has recommended two Gaganyatris (astronauts) as prime and backup Mission Pilot for this mission:
+Prime Mission Pilot
+: Group Captain Shubhanshu Shukla
+Backup Mission Pilot
+: Group Captain Prasanth Balakrishnan Nair
+Note:
+Shukla will be the second Indian to go to space. So far, Wing Commander (Retired) Rakesh Sharma is the only Indian to go to space in 1984.
+Objectives:
+The recommended Gaganyatris will commence their training for the mission from the 1st week of August 2024. During the mission, the Gaganyatri will:
+Undertake selected scientific research.
+Conduct technology demonstration experiments on board the ISS.
+Engage in space outreach activities.
+About Axiom-4 Mission
+Axiom Mission 4 (Ax-4) is a
+private spaceflight
+organized by
+Axiom Space
+It aims to transport a crew to the
+for a
+14-day mission
+This will be
+Axiom Space’s fourth mission
+to the ISS, following their previous missions (Ax-1, Ax-2, and Ax-3).
+The mission will launch from the
+Kennedy Space Center in Florida
+using SpaceX’s Falcon 9 rocket.
+The spacecraft for this mission is a
+SpaceX Crew Dragon
+, known for its advanced technology and safety features.
+This mission is organized
+in collaboration with NASA
+, highlighting a strong partnership between private space companies and government space agencies to further space exploration and research.
+Crew:
+Peggy Whitson:
+A veteran astronaut with extensive experience, having completed multiple missions to the ISS.
+Sławosz Uznanski:
+A Polish astronaut joining the mission, marking a significant milestone for Poland in space exploration.
+Tibor Kapu:
+A Hungarian astronaut, adding to the diversity of the mission crew.
+Group Captain Shubhanshu Shukla:
+An Indian astronaut, making headlines as part of this international crew.
+Back2Basics: International Space Station (ISS)
+The ISS,
+orbiting 430 kilometers above Earth
+, completes
+16 orbits daily
+, witnessing 16 sunrises and sunsets.
+orbits Earth every 90 minutes
+8 km per second
+Spanning
+109 meters
+, it’s almost as long as an American football field.
+The ISS includes
+6 sleeping areas
+2 bathrooms
+gym
+, and a panoramic view bay window.
+Its
+solar array wingspan is 109 meters
+, and the station houses about
+13 km of electrical wiring
+The ISS’s journey began on November 20,
+1998
+, with
+Russia’s Zarya Control Module
+The US added the
+Unity Node 1 module
+on December 4, 1998, marking the start of a functional space lab.
+The station evolved into its current form after
+42 assembly flights
+PYQ:
+[2019]
+What is India’s plan to have its own space station and how will it benefit our space programme?
+**********[pib] Update on Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)
+Schemes
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Features of the Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)
+Why in the News?
+An
+Extended Pradhan Mantri Surakshit Matritva Abhiyan (E-PMSMA) strategy
+was launched to ensure quality Antenatal Care (ANC) for pregnant women.
+The strategy focuses on
+individual tracking
+high-risk pregnancies (HRP)
+and provision of
+additional
+PMSMA sessions
+beyond the
+9th of every month
+About
+High-Risk Pregnancy:
+A high-risk pregnancy involves greater risk of health complications for the mother, the foetus, or both, due to pre-existing medical conditions, conditions that develop during pregnancy, or foetal issues.
+Common Factors
+Maternal Health Conditions
+: Pre-existing diabetes, hypertension, HIV, kidney disease, or conditions arising during pregnancy like gestational diabetes and preeclampsia.
+Obstetric Factors
+: Previous caesarean section, history of preterm labor, multiple pregnancies, and congenital malformations.
+About Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)
+Details
+An initiative to provide quality antenatal care (ANC) to all pregnant women.
+Launch
+October 2016
+Target Group
+All pregnant women, especially those in their
+second and third trimesters
+Frequency
+Services provided on the
+at government health facilities.
+Objective
+Ensure safe motherhood by providing comprehensive and quality antenatal care universally.
+Key Functions
+General Check-Up:
+Physical and clinical examinations by medical professionals.
+Laboratory Investigations:
+Routine blood tests, urine tests, and other necessary laboratory investigations.
+Ultrasound:
+Ultrasound examination to monitor foetal growth and development.
+Counseling:
+Nutritional and lifestyle counseling to ensure a healthy pregnancy.
+High-Risk Identification:
+Screening and identification of high-risk pregnancies and appropriate referrals for specialized care.
+Key Features
+Free of Cost:
+All services under PMSMA are provided free of cost.
+Fixed Day ANC Services:
+Antenatal care services are provided on a fixed day every month.
+Lab Investigations:
+Basic investigations like Hb, urine albumin, RBS, malaria test, VDRL test, blood grouping, CBC, ESR, and USG.
+Public-Private Partnership:
+Encourages participation of private sector healthcare providers in providing ANC services.
+Incentives:
+Incentives for healthcare providers who participate in the program.
+Categorization of Pregnant Women
+Green Sticker
+– for women with no risk factor detected
+Red Sticker
+– for women with high risk pregnancy
+Blue
+– for women with Pregnancy Induced Hypertension
+Yellow
+– pregnancy with co-morbid conditions such as diabetes, hypothyroidism, STIs
+Benefits
+Improved Maternal Health:
+Regular and comprehensive ANC helps in early detection and management of complications, improving maternal health outcomes.
+Reduced Mortality Rates
+: Timely and quality care reduces maternal and infant mortality rates.
+Health Education:
+Provides health education and counseling to pregnant women, promoting better health practices.
+High-Risk Management:
+Identifies and manages high-risk pregnancies effectively, ensuring specialized care for those who need it.
+PYQ:
+[2024]
+With reference to the ‘Pradhan Mantri Surakshit Matritva Abhiyan’, consider the following statements:
+1. This scheme guarantees a minimum package of antenatal care services to women in their second and third trimesters of pregnancy and six months post-delivery health care service in any government health facility.
+2. Under this scheme, private sector health care providers of certain specialities can volunteer to provide services at nearby government health facilities.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********[pib] Schemes implemented by the WCD Ministry clubbed into 3 Verticals
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Schemes mentioned in the newscard
+Mains level:
+NA
+Why in the News?
+For better implementation and efficient monitoring, all schemes implemented by the Ministry for the betterment of children have been consolidated into 3 verticals:
+Saksham Anganwadi
+&
+Poshan 2.0
+Mission Shakti
+, and
+Mission Vatsalya
+These verticals aim to improve nutrition and health indicators, ensure safety and empowerment of women, and provide protection and welfare for children in difficult circumstances.
+Scheme Details:
+[1] Saksham Anganwadi & Poshan 2.0 (Mission Poshan 2.0)
+The Anganwadi Services Scheme, POSHAN Abhiyaan, and Scheme for Adolescent Girls have been reorganized into three primary sub-verticals:
+Nutrition Support
+: For POSHAN and Adolescent Girls.
+Early Childhood Care and Education
+: Targeting children aged 3-6 years.
+Anganwadi Infrastructure
+: Upgrading and modernizing Saksham Anganwadis.
+Key Features
+Fortified rice supplied to Anganwadi Centres to meet micronutrient requirements and control anemia among children.
+Emphasis on the use of millets for
+Hot Cooked Meals
+least once a week
+Take Home Ration (THR)
+at Anganwadi centers.
+[2] Mission Shakti
+Sambal
+: Focuses on the safety and security of women.
+Includes schemes like
+One Stop Centres (OSC), Women Helpline (181-WHL),
+Beti Bachao Beti Padhao (BBBP).
+Samarthya
+: Aims at the empowerment of women.
+Encompasses schemes like
+Pradhan Mantri Matru Vandana Yojana (PMMVY), Ujjwala, Swadhar Greh (renamed as Shakti Sadan), Working Women Hostel (renamed as Sakhi Niwas), National Hub for Empowerment of Women (NHEW),
+National Creche Scheme (renamed as Palna).
+[3] Mission Vatsalya
+Objective
+: To provide better outreach and protection for children in need of care in a mission mode.
+Goals
+Support and sustain children in difficult circumstances.
+Develop context-based solutions for the holistic development of children from varied backgrounds.
+Encourage innovative solutions through green field projects.
+Facilitate convergent action by gap funding if required.
+PYQ:
+[2016]
+Which of the following are the objectives of ‘National Nutrition Mission’?
+1. To create awareness relating to malnutrition among pregnant women and lactating mothers.
+2. To reduce the incidence of anaemia among young children, adolescent girls and women.
+3. To promote the consumption of millets, coarse cereals and unpolished rice.
+4. To promote the consumption of poultry eggs.
+Select the correct answer using the code given below:
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 1, 2 and 4 only
+(d) 3 and 4 only
+**********[pib] Approval of Major Port at Vadhavan, Maharashtra
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Vadhavan Port
+Why in the News?
+The
+Ministry of Ports, Shipping and Waterways
+has approved the project proposal for setting up a Major Port at Vadhavan, Palghar District of Maharashtra.
+About Vadhavan Port Project
+The project involves the
+development of core infrastructure
+terminals
+, and other commercial infrastructure through a public-private partnership (PPP) mode.
+The shareholding for the project is divided between the
+Jawaharlal Nehru Port Authority
+(74%) and the
+Maharashtra Maritime Board
+(26%).
+The project aims to create a total capacity of
+298 million metric tonnes per annum
+(MMTPA).
+Trade routes facilitated:
+It will facilitate
+EXIM trade flow
+through the
+India-Middle East-Europe Economic Corridor
+International North-South Transportation Corridor
+The port will accommodate
+mainline mega vessels
+operating on international shipping routes connecting the Far East, Europe, the Middle East, Africa, and America.
+Existing Major Ports in India
+India has 12 Major Ports:
+Chennai, Cochin, Deendayal (Kandla), Jawaharlal Nehru (Nhava Sheva), Kolkata, Mormugao, Mumbai, New Mangalore, Paradip, V.O. Chidambaranar (Tuticorin), Visakhapatnam, and Kamarajar Port Limited.
+Private Sector participation
+allowed in Major Ports
+for specific projects/berths/terminals through
+concession agreements
+for a specific period via open competitive bidding on revenue share/royalty between the Concessionaire and the Major Port Authority.
+After the
+expiry of the concession period
+, the asset is
+handed over to the Port Authority
+Significance of Major Ports
+Major ports play a critical role in facilitating international trade and commerce.
+They serve as gateways for the import and export of goods, significantly contributing to the country’s economy.
+Ports generate substantial revenue for the government through customs duties, port fees, and other related charges.
+Ports facilitate international collaboration and partnerships, enhancing diplomatic and trade relations with other countries.
+PYQ:
+[2016]
+Recently, which of the following States has explored the possibility of constructing an artificial inland port to be connected to sea by a long navigational channel?
+(a) Andhra Pradesh
+(b) Chhattisgarh
+(c) Karnataka
+(d) Rajasthan
+**********

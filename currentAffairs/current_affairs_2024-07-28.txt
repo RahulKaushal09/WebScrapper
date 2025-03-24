@@ -1,0 +1,242 @@
+Budget 2024-25 and Infrastructure
+Why in news?
+In the 2024-25 Budget, Finance Minister Nirmala Sitharaman has allocated ₹11 lakh crore for capital expenditure, representing
+3.4% of the GDP
+. To encourage states to invest in infrastructure, ₹1.5 lakh crore will be provided to them as long-term interest-free loans.
+What’s in today’s article?
+Target Sectors
+Performance on road, railways, shipping and airports
+Attracting private investments
+Target sectors of Budget 2024-25
+Overall expenditure remains steady
+The government's expenditure on infrastructure as a share of the total budget remains steady at 13.9%, slightly down from 14.3% in FY2024.
+Transport sector
+The transport sector constitutes the largest portion of infrastructure spending, at 11.29% of the budget, though its share has decreased by 0.4 percentage points from last year.
+Power sector
+The allocation for the power sector has seen a slight increase.
+Roads, Transport and Highways
+The Ministry of Roads, Transport and Highways has been allocated ₹2.78 lakh crore for 2024-25.
+Railways outlay
+The Railway outlay remains above 5%, with a record allocation of over ₹2.55 lakh crore.
+Funding for signalling and telecom work, including the KAVACH automatic train protection system, has increased compared to FY2024.
+Civil aviation and shipping
+The Ministry of Civil Aviation's allocation decreased by 20% to ₹2,357 crore.
+The outlay for shipping remains unchanged at ₹2,377 crore.
+Regional Connectivity Scheme
+The regional connectivity scheme is set to receive ₹502 crore.
+National highways have expanded by 1.6 times from 2014 to 2024.
+Bharatmala Pariyojana
+has significantly contributed to this growth, increasing high-speed corridors by 12 times and 4-lane roads by 2.6 times during the same period.
+The government is developing 11
+industrial corridor projects
+in phases.
+To attract private investment, the Ministry of Road Transport and Highways has revised the
+model concession agreement for Build-Operate-Transfer projects, including offering construction support for timely completion
+The industry is cautious about the profitability of the new agreements and emphasizes the need to shift focus from asset creation to asset management, maintenance, and safety as many projects near completion.
+Experts recommend establishing standard operating procedures for constructing bridges and tunnels to prevent safety incidents like the Silkyara tunnel collapse in Uttarakhand in 2023.
+The capital expenditure for Indian Railways has increased by 77% over the past five years, reaching ₹2.62 lakh crore in FY24, with investments in new lines, gauge conversion, and doubling.
+Despite this growth, challenges remain. As per the experts,
+there is need to adjust the freight movement share, which currently favors roads
+Long-haul road freight transportation is 25-30% more expensive than railways for distances under 500 km.
+Other issues include
+uncertainty in rake supply, delays in providing adequate infrastructure, and the sharing of lines by passenger and freight trains
+Improving the smooth entry and exit of freight vehicles is necessary for efficient loading and unloading operations.
+Shipping and airports
+Since its launch in 2015, the
+Sagarmala national program
+has initiated 839 projects valued at ₹5.8 lakh crore across five key areas, including new development projects.
+To date, 262 projects worth ₹1.4 lakh crore have been completed.
+Experts note that while there are over 230 maritime ports in India, nearly 40% of export and import cargo is handled by just two ports, JNPT and Mundra, highlighting the need for a development plan for the other ports.
+Regarding airports, under the second phase of privatization in 2019, six AAI airports were privatized, with plans to privatize 25 more airports.
+From FY2019 to 2023, the Central Government contributed
+49% of total infrastructure investments, state governments contributed 29%, and the remaining investments were expected from the private sector
+Experts highlight that the private sector is hesitant to invest due to market risks associated with project delays, which affect returns.
+There is a need to identify more assets for monetizing-built infrastructure.
+To address policy and regulatory challenges, as mentioned by Finance Minister Nirmala Sitharaman, the government should implement the recommendations of the Kelkar Committee report of 2015.
+Budget 2024-25 and Infrastructure.pdf
+( Size:  1.3 MB  )
+Click to View More
+Economics
+**********Panel finds cracks that help hackers target jobseekers
+Why in news?
+The Centre’s high-level interministerial panel has identified loopholes in banking, immigration and telecom sectors that enable cyber scams originating from Southeast Asian countries.
+What’s in today’s article?
+Cybercrimes Originating from these Southeast Asian Countries
+Types of Cybercrimes Originating from these Southeast Asian Countries
+Panel Report
+Proposed steps to address this issue
+As per various reports, over 5,000 Indians are suspected of being stuck in Cambodia and forced to carry out cyber fraud.
+According to government estimates, Indians have been duped of at least Rs 500 crore in the past six months.
+Analysis of data by the Indian Cyber Crime Coordination Centre (I4C) has observed an increase in the number of cybercrime incidents targeting India.
+About
+45% of them originate from the Southeast Asia region, mainly Cambodia, Myanmar and Laos PDR
+Around 1 lakh cyber complaints have been registered with the National Cybercrime Reporting Portal (NCRP) since January 2023, and 800 complaints from January to June 1 this year.
+Trading scams:
+The alleged fraudsters issued ads on social media offering free trading tips, often using pictures of well-known stock market experts and fake news articles.
+The victims would be asked to install some specific trading applications and start investing on the apps.
+The victims deposited money in particular bank accounts to buy shares, and were shown some fake profits in their digital wallets. But when they tried to withdraw this money, they were unable to do so.
+Between January and April this year, Indians lost Rs 222 crore to 20,043 trading scams.
+Digital arrest:
+A caller would inform potential victims that they had either sent or were the intended recipients of a package containing contraband, illegal products, drugs, forged passports, etc.
+Once they had the target, the criminals would contact them over
+Skype or another video calling platform.
+They would pose as law enforcement officials
+and demand money for a compromise and closure of the case.
+The victims were digitally arrested
+, which meant they were forced to stay visible to the criminals until their demands had been met.
+Between January and April this year, Indians lost Rs 120 crore to 4,600 digital arrest scams.
+Investment/ task-based scams:
+Scammers target victims through WhatsApp, promising money for boosting social media ratings of some entities.
+They are then asked for bank details, receive a small sum, and are lured into larger investments with promised returns.
+Profits never materialise, leaving victims trapped in a fraudulent scheme, highlighting the exploitation of trust for financial gain.
+Between January and April this year, Indians lost Rs 1,420 crore to 62,587 investment scams.
+Dating scams:
+The male victims were seduced by individuals they mistook for foreign women.
+These "women" would make preparations to meet in person after making marriage or relationship proposals.
+The victim would receive a call from the "woman" explaining that she had been held at the airport and needed money to be released.
+Between January and April this year, Indians lost Rs 13 crore to 1,725 romance/dating scams.
+The high-level inter-ministerial panel has identified three shortcomings in the system:
+Involvement of the senior bank managers of two nationalised banks to open mule accounts;
+It was found that maximum accounts were allegedly opened with the connivance of senior bank managers/ staffers in several branches of State Bank of India and Punjab National Bank.
+Around 30,000 unreturned passengers travelling on visitor visa to Cambodia, Thailand, Myanmar and Vietnam from January 2022-May 2024;
+Misuse of bulk SIM cards.
+In the first six months, around 4 lakh mule accounts (bank accounts used for laundering cybercrime funds by using KYC documents of others) have been frozen.
+Between January 2022 and May 2024, around 73,000 Indians traveled on visitor visas to Thailand, Myanmar, Malaysia, Vietnam, and Cambodia. However, about 30,000 of them did not return.
+The immigration bureau plans to share the details of these individuals with the relevant states—Kerala, Tamil Nadu, Punjab, Andhra Pradesh, Delhi, Odisha, Madhya Pradesh, Mumbai, Telangana, and Uttar Pradesh.
+These states are tasked with tracing the families of the missing individuals to gather more information about their whereabouts.
+Panel finds cracks that help hackers target jobseekers.pdf
+( Size:  1.6 MB  )
+Click to View More
+Defence & Security
+**********Are Enough Formal Jobs Being Created?
+Why in the News?
+The Union Budget for 2024-25 showed that creating jobs is a top priority for the government, as the finance minister mentioned it 23 times in the budget speech.
+With many people unhappy about rising unemployment, PM Modi has supported a package of schemes focused on employment.
+What’s in Today’s Article?
+Employment in India (Present Status, Latest Schemes, Challenges, Suggestions, etc.)
+Current State of Employment in India:
+According to the Economic Survey, India's workforce in 2022-23 was approximately 56.5 crore:
+45% employed in agriculture,
+11.4% in manufacturing,
+28.9% in services, and
+13% in construction.
+Although the official unemployment rate was 3.2%, these statistics often mask the reality of underemployment and informal work.
+Many job seekers are either engaged in farming, casual labor, or unorganized retail, and nearly one in five workers, primarily women, are unpaid in household enterprises.
+Urban unemployment for the quarter ending March 2024 stood at 6.7%, with youth unemployment at 10% in 2022-23.
+Despite policy efforts to formalize the workforce, the
+percentage of regular salaried workers dropped from 22.8% in 2017-18 to 20.9% five years later
+Many salaried workers lack contracts or social security benefits, which are essential characteristics of formal employment.
+Employment Schemes Announced in the Budget:
+First-time Employee Subsidy:
+A wage subsidy of up to ₹15,000 for hiring first-time employees, expected to cover one crore individuals.
+Manufacturing Sector Subsidy:
+Wage subsidies for first-time employees in manufacturing, with incentives up to 24% of a ₹25,000 monthly wage for four years.
+New Worker Incentive:
+Reimbursement of up to ₹3,000 of the employer's monthly EPFO contribution for hiring new workers.
+Industrial Training Institutes (ITI) Upgrade:
+Enhancing ITI facilities to boost skills, benefiting 20 lakh students.
+Internship Program:
+On-the-job skilling for one crore youth with internships in top companies, offering a monthly allowance of ₹5,000 for one year.
+Challenges in Implementation of Such Schemes:
+Economists and small industrialists highlight potential obstacles in these schemes.
+For instance, the first-time employee subsidy, paid in three installments, requires the employee to complete an online financial literacy course for the second installment, which may be impractical across different sectors.
+Additionally, employers must refund the subsidy if the employee leaves within 12 months, deterring small employers from participating due to the financial risk involved.
+The manufacturing job creation scheme requires hiring at least 50 people or 25% of the existing workforce, which is a significant burden for small firms seeking marginal benefits.
+Effectiveness of the Schemes:
+These schemes aim to reduce the cost of hiring new employees.
+However, economists argue that wage costs are not the primary constraint.
+The real issues lie in insufficient demand, low consumption, and lack of private investment. Skilling, while important, is not the central barrier to hiring.
+Additional Measures Needed:
+To create meaningful employment, efforts should focus on the MSME sector and labour-intensive industries, particularly in small towns.
+Increasing wages in these areas and infusing capital into MSMEs can have a multiplier effect on the economy.
+Another recommendation is to
+enhance the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) wages and create a similar scheme for urban workers to stimulate consumption and demand directly
+Conclusion:
+While the government's employment schemes are a step in the right direction, addressing deeper structural issues such as low demand, underinvestment, and the need for formal job creation in labor-intensive sectors is crucial for sustainable employment growth in India.
+Are enough formal jobs being created.pdf
+( Size:  238.8 KB  )
+Click to View More
+Economics
+**********Pros and Cons of Natural Farming in India
+Why in News?
+In her Budget proposals for 2024-25, the Union Finance Minister announced that in the next two years, one crore farmers across the country will be initiated into natural farming supported by certification and branding.
+What’s in Today’s Article?
+What is Natural, Organic and Zero-Budget Natural Farming (ZBNF)?
+Government Initiatives to Promote Natural Farming in India
+Challenges and Concerns Regarding Natural Farming
+Union Budget 2024-25 Announcements wrt Natural Farming
+Way Forward Ensuring Gradual Adoption of Natural Farming in India
+Natural farming and organic farming, both come under
+agroecological practices
+(which guides public policies towards sustainable agriculture and food systems) and are terms used interchangeably in India.
+In natural farming
+the focus is on the
+use of bio inputs prepared from farm and local ecosystems
+instead of purchasing those from outside.
+is one of the many methods of natural farming, popularised by agriculturist Subash Palekar.
+According to the approach, a mixture of natural inputs like cow urine and dung, jaggery, lime, neem, etc., are used to
+improve soil health, nutrients and reduce input costs
+It also restores environmental health and mitigates and/or reduces greenhouse gas emissions.
+Organic farming
+is defined more from a perspective of product certification. What binds organic and natural farming is the
+thrust on the absence of application of chemical fertilisers/ pesticides during cultivation
+Government Initiatives to Promote Natural Farming in India:
+Paramparagat Krishi Vikas Yojana (PKVY):
+It was launched in
+2015
+, as an extended component of Soil Health Management (SHM) under the Centrally Sponsored Scheme (CSS),
+National Mission on Sustainable Agriculture (NMSA)
+PKVY aims at supporting and promoting organic farming, in turn resulting in improvement of soil health.
+Bharatiya Prakritik Krishi Paddhati (BPKP)/ZBNF:
+It is a sub-scheme of the PKVY
+and was launched with a total outlay of ₹4,645 crore for six years (2019-20 to 2024-25).
+It aims at promoting traditional indigenous practices,
+which give freedom to farmers from externally purchased inputs.
+Under BPKP, financial assistance of Rs 12200/ha for 3 years is provided for cluster formation, capacity building and continuous hand holding by trained personnel, certification and residue analysis.
+Its vision is to cover 12 lakh ha in 600 major blocks of 2000 hectares in different states.
+National Mission on Natural Farming (NMNF):
+The Union Agriculture Ministry has been
+preparing to launch
+the Mission to motivate farmers to adopt chemical-free farming and draw them towards adopting natural farming willingly on the system’s merit.
+The success of the NMNF will require a
+behavioural change
+in farmers to shift from chemical-based inputs to cow-based, locally-produced inputs.
+Challenges and Concerns Regarding Natural Farming:
+Reduction in yields:
+While Andhra Pradesh emerges as a forerunner in adopting ZBNF with encouraging results, there are concerns about the sustainability and yield (productivity) potential of this farming method.
+Findings of agro-scientists of the ICAR-IIFSR highlights a
+59% decline in wheat yields and a 32% decline in basmati rice yield
+compared to integrated crop management.
+May adversely impact food supply:
+Agriculture and food experts have their reservations surrounding a large-scale transition from chemical farming to natural farming in a country like India.
+This is because it is a challenging task to meet the demands of
+expanding food needs
+in a country with a population as huge as India.
+Lessons from Sri Lanka:
+A couple of years ago, neighbouring Sri Lanka went through economic and political turmoil after it decided to turn completely organic, and banned the import of chemical fertilisers.
+The government’s policy shift had severe consequences with farmers struggling to get natural fertilisers.
+They faced a reduction in yields
+of key crops including rice, putting the country’s food security at risk.
+A sharp price escalation
+was witnessed in the country, resulting in huge
+protests and unrest.
+Union Budget 2024-25 Announcements wrt Natural Farming:
+In the next two years,
+Its implementation
+will be through scientific institutions and willing gram panchayats. Besides, 10,000
+need-based bio-input resource centres
+will be established.
+The need for the shift
+- from targeting the area coverage to number of farmers now - was felt as 30-40% of about 10 lakh farmers re-shifted to chemical farming after 3 years when they received complete financial incentives under the BPKP.
+Way Forward Ensuring Gradual Adoption of Natural Farming in India:
+Rigorous scientific tests of natural farming
+: Especially surrounding the crop yields should be held before its nationwide implementation to allay the fear of potential risk to national food security.
+Natural farming at a localised level:
+Because, adopting it at a large scale may not be a successful model.
+First, natural farming can be used to grow supplementary foodstuffs:
+Instead of growing staples like wheat and rice.
+newspaper.pdf
+( Size:  2.2 MB  )
+Click to View More
+Economics
+**********

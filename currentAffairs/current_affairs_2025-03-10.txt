@@ -1,0 +1,1772 @@
+INDIA-MAURITIUS RELATIONS
+Syllabus:
+Mains – GS2
+Context:
+Prime Minister Narendra Modi’s visit to Mauritius (March 11-12), will be a celebration of the deep and long-standing ties between the two countries.
+Background: –
+Newly elected Prime Minister Navinchandra Ramgoolam (Labour Party) shares a historic connection with India. His father, Sir Seewoosagur Ramgoolam, led Mauritius to independence and worked with Netaji Subhas Chandra Bose.
+Key takeaways
+People to people ties
+Nearly 70% of Mauritius population is of Indian origin, mainly descendants of indentured laborers brought by colonial rulers. About 50% trace their ancestry to Bihar and Uttar Pradesh and still speak the Bhojpuri dialect.
+There are smaller communities of Tamil, Telugu-, and Marathi-speaking communities.
+In 1976, India inaugurated the Mahatma Gandhi Institute as a premier institution for promoting Indian languages and culture.
+The Indian Cultural Centre in Mauritius is the largest of anywhere in the world. The island hosts the World Hindi Secretariat that is supported by India.
+Economic and Trade Cooperation
+Bilateral trade reached $554 million in 2022-23.
+Mauritius serves as a business gateway to Africa, being part of the African Union.
+Due to a favourable Double Taxation Avoidance Agreement (DTAA) with India, Mauritius is also a major channel for foreign investment into India.
+Mauritius has emerged as a successful international financial centre.
+Maritime Security Cooperation
+Mauritius is strategically located in the western Indian Ocean.
+The Colombo Security Conclave brings together India, Sri Lanka, the Maldives, Mauritius and Bangladesh to ensure regional maritime security.
+Mauritius has a vast EEZ of 2.3 million sq. km, making surveillance vital.
+India has set up a chain of coastal radar stations, redeveloped the Mauritian island of Agaléga to serve as a joint surveillance facility and given Mauritius access to the Information Fusion Centre for the Indian Ocean Region (IFC-IOR) in Gurugram, to significantly advance domain awareness in its vast EEZ.
+India’s oceanographic survey ship, INS Sarvekshak, has completed the survey of 25,000 sq.km of Mauritius’ ocean territory.
+At a time when China’s footprint in the Indian Ocean is expanding, India-Mauritius maritime security cooperation has assumed special importance.
+Source:
+The Hindu
+**********
+MADHAV NATIONAL PARK
+Prelims  – ENVIRONMENT
+The Centre declared the Madhav National Park in Madhya Pradesh as the country’s 58th tiger reserve on Sunday (March 9, 2025).
+Three tigers, including two females, were introduced to the Madhav National Park in 2023 as part of the tiger reintroduction project in the State.
+Madhav National Park is country’s 58th tiger reserve and also the ninth from the State of Madhya Pradesh.
+Notably, on December 2, 2024 India got its 57th tiger reserve in the Ratapani Wildlife Sanctuary of Madhya Pradesh.
+Madhav National Park is a protected area located in the Shivpuri district of Madhya Pradesh, India.
+Established in 1959, Madhav National Park was originally a hunting ground for the erstwhile Scindia royal family. the park was named after Madho Rao Scindia, the Maharaja of Gwalior.
+Madhav National Park is situated in the northern part of Madhya Pradesh. It lies on the northern fringe of the Central Highlands of India, forming part of the Upper Vindhyan Hills intermixed with plateaus and valley sections.
+Notable lakes within the park include Sakhya Sagar and Madhav Sagar, both created by damming the Manihar River.
+Fauna: Madhav National Park hosts a variety of wildlife, including:
+Mammals: Species such as the Indian gazelle (Chinkara), Chital (Spotted deer), Nilgai (Blue bull), Sambar deer, Four-horned antelope (Chousingha), Sloth bear, Leopard, Indian wolf, Jackal, Bengal fox, Dhole (Wild dog), Wild boar, and Porcupine.
+Reptiles: The park is home to reptiles like the Mugger crocodile, various turtle species, and snakes.
+Birds: The lakes attract numerous migratory birds during winter, including species of geese, ducks, and waders.
+Historical Significance:
+George Castle: At the park’s highest point (484 meters), George Castle was built in 1911 by Madho Rao Scindia for an anticipated visit by King George V, although the king never stayed there.
+Conservation Efforts:
+Ramsar Site: In January 2022, a 248-hectare area around Sakhya Sagar Lake within the park was designated as a Ramsar site, recognizing its importance as a wetland of international significance.
+**********
+INDIA'S SEMICONDUCTOR MANUFACTURING
+Prelims & Mains – CURRENT EVENT
+India is set to roll out its first domestically manufactured semiconductor chip in 2025.
+This initiative aims to reduce India’s dependency on semiconductor imports, which have risen significantly over the past decade.
+Semicon India Programme
+The Semicon India Programme, launched in 2021, aims to develop the semiconductor and display manufacturing ecosystem.
+Key Initiatives: Five manufacturing facilities are under construction for the manufacturing and assembly of semiconductor chips, backed by the Semicon India Programme.
+Notable projects:
+Tata Semiconductor Assembly and Test Facility – Morigaon, Assam.
+Dholera Semiconductor Fabrication (Fab) Facility – Tata Electronics in collaboration with Taiwan’s Powerchip Semiconductor Manufacturing Corporation.
+However, the actual spending under the Semicon India Programme has consistently fallen short of budgeted allocations.
+India’s Semiconductor Import Dependency
+India heavily relies on semiconductor imports, with key imports including:
+Monolithic Integrated Circuits (ICs) – Used in CPUs, smartphones, automobiles, medical devices, and industrial automation.
+Memory Chips – Includes volatile (RAM) and non-volatile (NAND flash).
+Amplifiers – Used in wireless communication and audio equipment.
+Import trends (FY16-FY24):
+Monolithic IC imports increased by 2,000%.
+Memory chip imports surged by 4,500%.
+Amplifier imports rose by 4,800%.
+Semiconductor imports now constitute a higher share of total imports, with monolithic ICs forming 2.09% of total imports in FY25, up from 0.19% in FY16.
+Major Semiconductor Suppliers to India
+Top Supplier: China (except FY19).
+Other key sources: Hong Kong, Japan, South Korea, Singapore, and Taiwan.
+Challenges in India’s Semiconductor Ecosystem
+With the new facilities, India will be able to add value in the assembly, testing, and packaging, and fab segments of the global value chain for semiconductors, but it is yet to make major strides in –
+EDA (Electronic Design Automation) software – Critical for chip design.
+Core IP (Intellectual Property) – Patents for semiconductor technology.
+Wafers – Key raw material for chip fabrication.
+Fab tools and ATP (Assembly, Testing, and Packaging) tools – Machinery required for semiconductor manufacturing.
+Chip design capabilities – India needs to invest more in R&D to develop indigenous chip designs.
+**********
+SHARAVATHI PUMPED STORAGE
+Prelims- CURRENT EVENT
+After receiving a nod from the State Wildlife Board of Karnataka in January, the controversial Sharavathi pumped-storage project has now secured final approval from the state government.
+The project has encountered environmental concerns, particularly due to its location within the Sharavathi Lion Tailed Macaque Sanctuary.
+The project is situated on the Sharavathi River in Karnataka, India. The Sharavathi River is a vital source of hydroelectric power in the region and is known for the Jog Falls, one of the highest waterfalls in India.
+Key Features:
+Capacity: The project is designed to generate 2,000 megawatts (MW) of power, utilizing eight units of 250 MW each.
+It leverages existing water bodies—the Talakalale and Gerusoppa reservoirs—as the upper and lower reservoirs, respectively. The Talakalale dam, standing at 62.48 meters, and the 64-meter high Gerusoppa dam are integral to the project’s infrastructure.
+During periods of low electricity demand, water will be pumped from the lower reservoir to the upper reservoir using grid power. When electricity demand is high, water from the upper reservoir will be released to generate electricity.
+Additional Information – Sharavathi River
+The Sharavathi River is a west-flowing river in Karnataka.
+It originates in the Western Ghats and flows into the Arabian Sea, making it an important river for Karnataka’s water resources and biodiversity.
+Bangalore Mirror
+**********
+DULCIBELLA CAMANCHACA
+Prelims  – CURRENT EVENT
+Marine biologists have discovered a new species of amphipod, named Dulcibella camanchaca, hidden in the extreme depths of the Atacama Trench.
+The discovery of this species highlights the incredible diversity of life forms that have evolved to survive in the most extreme conditions on our planet.
+Dulcibella camanchaca is a species of amphipod crustacean discovered in the Atacama Trench, one of the deepest parts of the ocean.
+This species was found at depths of nearly 8,000 meters (26,000 feet) in the South Pacific Ocean near Chile. The Atacama Trench is known for its extreme conditions, including crushing pressure, frigid temperatures, and complete darkness.
+Physical Characteristics
+Size: Dulcibella camanchaca measures approximately 4 centimeters (1.6 inches) in length, making it larger than most amphipods found at similar depths.
+Appearance: This amphipod has specialized appendages designed for capturing and consuming smaller crustaceans, indicating its predatory nature.
+Ecological Role
+Predatory Behavior: Unlike many deep-sea amphipods that scavenge for food, Dulcibella camanchaca is an active predator. It uses its specialized appendages to capture and consume smaller crustaceans.
+Adaptations: This species is adapted to the extreme conditions of the hadal zone, making it one of the deepest-living predators identified to date. The hadal zone encompasses ocean depths between 6,000 and 11,000 meters.
+<img alt="" class="alignnone wp-image-202472" decoding="async" fetchpriority="high" height="309" sizes="(max-width: 464px) 100vw, 464px" src="https://iasbaba.com/wp-content/uploads/2025/03/10-300x200.png" srcset="https://iasbaba.com/wp-content/uploads/2025/03/10-300x200.png 300w, https://iasbaba.com/wp-content/uploads/2025/03/10.png 605w" width="464"/>
+Times of India
+**********
+Daily Practice MCQs
+Q1.) With reference to Madhav National Park, consider the following statements:
+It is located in the Shivpuri district of Madhya Pradesh.
+The park was originally a hunting ground for the Scindia royal family.
+Sakhya Sagar Lake within the park has been designated as a Ramsar site.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2, and 3
+Q2.) With reference to the Sharavathi Pumped Storage Project, consider the following statements:
+It is located on the Sharavathi River in Karnataka.
+The project uses the Talakalale and Gerusoppa reservoirs for energy storage.
+It is located outside any ecologically sensitive zone and does not impact wildlife.
+Q3.) Dulcibella camanchaca, recently discovered in the Atacama Trench, belongs to which of the following groups of marine organisms?
+(a) Mollusks
+(b) Amphipods
+(c) Echinoderms
+(d) Cnidarians
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********ICC Champions Trophy 2025
+India ended a 12-year wait to clinch a record-extending third Champions Trophy title, beating New Zealand by 4 wickets in the Champions Trophy 2025 final at the Dubai International Cricket Stadium.
+About ICC Champions Trophy
+:
+The ICC Champions Trophy is a premier One Day International (ODI) cricket tournament featuring the world's top eight teams.
+The tournament was originally called the ICC Knockout when it began in
+1998 in Dhaka (Bangladesh
+). It was renamed the ICC Champions Trophy in 2002.
+It was held every two years until 2009. After that, the event transitioned to a four-year cycle.
+Tournament Format:
+The format of the competition has endured since 2006. The eight teams are divided into two groups of four teams each.
+Each team plays once against every other team in the group.
+And then, the top-two teams from each group advance to the semi-finals, determining the two that feature in the summit clash.
+What made this year’s team selection different?
+Previously the
+top-eight ranked ODI sides
+would feature in the Champions Trophy. But for the 2025 edition, the qualification used the results of the 2023 edition of the ICC Men’s Cricket World Cup.
+The teams
+that occupied the top-eight spots in the 10-team points tabl
+e, including the hosts Pakistan, sealed their place for the Champions Trophy.
+Teams in 2025:
+India, Pakistan, Bangladesh, New Zealand were in Group A while the remaining four teams — Australia, Afghanistan, England, South Africa — were in group B.
+International Cricket Council (ICC):
+The International Cricket Council (ICC) is the global governing body for cricket. Representing 108 members, the ICC governs and administrates the game and works with our members to grow the sport.
+The ICC is also responsible for the staging of all ICC Events. The ICC presides over the ICC Code of Conduct, playing conditions, the Decision Review System and other ICC regulations.
+Click to View More
+Source :
+“India win ICC Champions Trophy 2025”
+Polity & Governance
+**********Kursk Region
+Russian troops have launched a large-scale offensive to retake swaths of the western Kursk region from Ukrainian forces.
+About Kursk Region
+Kursk is a city and the administrative centre of
+Kursk Oblas
+t, positioned along Russia’s southwestern border.
+It lies in the heart of the
+European part of Russia
+, approximately 450 km (280 miles) south of Moscow, along the upper Seym River.
+The region is part of the Black Earth territory, known for its highly fertile soil. Kursk experiences a moderately continental climate, characterized by distinct seasonal variations.
+History:
+One of Russia’s oldest cities, Kursk was first mentioned in historical documents in 1032, highlighting its long-standing role in the region's development.
+The city was completely
+destroyed by the Tatars
+in 1240 and remained in ruins until 1586, when it was rebuilt as a military outpost to defend Russian settlers.
+World War II & Battle of Kursk:
+The city witnessed intense fighting during World War II, particularly in the
+Battle of Kursk (July–August 1943)
+, the largest tank battle of the war, which resulted in a German defeat.
+Modern Economy & Industries:
+Kursk has a diverse industrial base, including machine building, food processing, and the production of electronic equipment and synthetic fibres, contributing to the region’s economic growth.
+Recent Developments:
+It was captured by Ukrainian troops in the summer of 2024 in an unexpected lightning attack.
+Ukraine’s presence in Russia’s Kursk region has deteriorated sharply, with the Russian advance threatening Kyiv’s sole territorial bargaining counter at a crucial time in the war.
+Click to View More
+Source :
+“Russia Launches Kursk Ambush ‘via Gas Pipeline,’ 'Seizes Sumy' Village, Advances in Ukraine’s East”
+International Relations
+**********Tejas LCA Mk1A
+The first rear fuselage for Light Combat Aircraft (LCA) Mk1A, produced by private Indian industry, Alpha Tocol Engineering Services Private Limited, was handed over to Hindustan Aeronautics Limited (HAL).
+About Tejas LCA Mk1A
+The Tejas LCA Mk1A is an advanced variant of India's indigenous Light Combat Aircraft (LCA) Tejas, developed by
+It incorporates more than 40 improvements over the previous Tejas Mk1 variant, significantly enhancing its combat capabilities and operational efficiency.
+Key upgrades include advanced avionics suites centred around Active Electronically Scanned Array (
+AESA
+) radars such as the Israeli EL/M-2052 AESA Radar and the indigenously developed Uttam AESA Radar.
+The aircraft features an upgraded Digital Fly-by-Wire Flight Control Computer (DFCC Mk1A), a Unified Electronic Warfare Suite (UEWS), and an externally mounted Advanced Self Protection Jammer pod for enhanced survivability.
+The Tejas Mk1A is equipped with nine hardpoints capable of carrying a variety of weaponry, including
+Beyond Visual Range (BVR) missiles
+, Air-to-Air/Ground missiles, and Advanced Short Range Air-to-Air missiles (ASRAAM).
+What is Tejas LCA?
+Tejas is India's indigenously developed Light Combat Aircraft designed by Aeronautical Development Agency (ADA) and manufactured by Hindustan Aeronautics Limited (HAL).
+It entered service with the Indian Air Force (IAF) in July 2016. It has three production models: Tejas Mark 1, Mark 1A, and trainer variant.
+It aims to replace ageing fighter jets like MiG variants currently in service with the Indian Air Force.
+Click to View More
+Source :
+“First rear fuselage for LCA Mk1A handed over to HAL by Indian private industry in the presence of Raksha Mantri in Bengaluru”
+Science & Tech
+**********Jalantheeswarar Temple
+The Jalanatheswarar temple at Thakkolam in Ranipet district, a treasure trove of Tamil history, particularly the reign of Cholas, is in bad shape.
+About Jalantheeswarar Temple:
+Location:
+Jalantheeswarar Temple (also known as
+Thiruvooral
+) is an ancient Hindu temple dedicated to Lord Shiva, situated in Thakkolam village of Ranipet district, Tamil Nadu.
+Deity:
+The presiding deity is
+worshipped as
+, represented by a lingam made of sand (prithvi lingam), known as Theenda Thirumeni.
+Construction:
+The original temple complex was constructed by Pallavas and later expanded by Cholas. The present masonry structure dates back to the Nayak period in the 16th century.
+Architectural Features:
+The temple complex spans approximately 1.5 acres, featuring
+a three-tiered gopuram
+(gateway tower) and concentric granite walls. The main sanctum houses the deity Jalantheeswarar in the form of a lingam made of sand.
+Religious Significance:
+It is one of the shrines of the 275 Paadal Petra Sthalams - Shiva Sthalams glorified in the early medieval Tevaram poems by Tamil Saivite Nayanars Sambandar.
+Sambandar:
+Thirugnana Sambandar, also known as Sambandar, was a 7th-century CE Saiva poet-saint from Tamil Nadu and a contemporary of Appar.
+As per Tamil Shaiva tradition, he composed 16,000 hymns in intricate meters, of which 383 (or 384) hymns with 4,181 stanzas have survived.
+Click to View More
+Source :
+“Thakkolam temple, a treasure trove of Tamil history, needs restoration”
+Art and Culture
+**********Madhav National Park
+The union government recently declared the Madhav National Park in Madhya Pradesh as the country’s 58th tiger reserve.
+About Madhav National Park:
+The Madhav National Park is situated in the
+Shivpuri district
+of Madhya Pradesh and, on the northern fringe of the
+Central Highlands of India
+forming a part of the Upper Vindhyan Hills intermixed with plateaus and valley sections.
+The Park was the hunting ground of Mughal emperors and Maharaja of Gwalior. It got the status of a
+National Park in 1958
+. The park was established as Madhya Bharat National Park in 1955 and received its present name in 1959.
+Originally, the park had an area of 64 square miles (165 square km), but a later extension to the east increased the protected area to 137 square miles (355 square km).
+Vegetation:
+The forests of the park fall within the category of Northern tropical dry deciduous mixed forests as well as Dry Thorn Forests typical of North – Western Madhya Pradesh.
+Fauna:
+It is home to antelopes like Nilgai, Chinkara and Chowsinga and Deer including Chital, Sambar and Barking Deer. Animals like the Leopard, Wolf, Jackal, Fox, Wild Dog, Wild Pig, Porcupine, Python etc are also sighted in the park.
+Aquatic Life:
+The Park is unique in having both lake, meadow and forest ecosystems. Sakhya Sagar and Madhav Sagar are the two lakes in the southern part of the park, providing the aquatic biodiversity and lifeline for the terrestrial species.
+Recent developments:
+With the recent declaration it has become the 58th tiger reserve of India and the 9th tiger reserve of Madhya Pradesh, with home to five tigers including two cubs born recently.
+Click to View More
+Source :
+“Madhav National Park in MP India’s 58th tiger reserve now”
+Environment
+**********What is Preventive Detention?
+The Supreme Court recently quashed a preventive detention order by Nagaland's home department, emphasizing that detaining authorities must independently apply their minds.
+About Preventive Detention:
+Preventive detention refers to the
+detention of an individual without a trial or conviction
+by a court.
+The primary objective of preventive detention is not to punish an individual for a past offence but to
+prevent them from committing an offence in the future.
+Preventive detention laws are enacted by governments
+to ensure public safety and maintain social order.
+Constitutional Provisions and Safeguards:
+Article 22
+of the Indian Constitution
+grants protection to individuals who are arrested or detained.
+It has
+two parts
+—the
+first part
+deals with
+cases of ordinary law,
+which includes situations where an individual is detained as part of a criminal investigation.
+second part deals with cases of preventive detention law,
+which pertains to the detention of individuals without a trial or conviction.
+Article 22(4)
+states that
+no law providing for preventive detention shall authoris
+e the
+of a person
+for a longer period than three months
+unless an Advisory Board reports
+sufficient cause for extended detention.
+detainee
+entitled to know the grounds of his detention.
+, however,
+may refuse to divulge the grounds
+of detention if it is
+in the public interest
+to do so.
+The detaining authorities must give the detainee earliest opportunities for making representation against the detention.
+Who can make laws under Preventive Detention?
+Parliament
+has the exclusive power to enact a law for preventive detention
+for reasons connected with defence, foreign affairs, or security of India.
+Both Parliament and State Legislature
+have powers to enact a law for preventive detention for reasons related to the
+maintenance of public order
+or the
+maintenance of supplies or services
+essential to the community.
+Laws that provide for Preventive Detention:
+In India, various laws pr
+ovide for preventive detention, including the National Security Act (NSA)
+of 1980, the
+Unlawful Activities (Prevention) Act (UAPA)
+of 1967, and state-specific laws like the Maintenance of Internal Security Act (MISA) and the
+Public Safety Acts (PSA) in certain states
+Under these laws, authorities can detain an individual for a specific period, typically up to 12 months, without presenting formal charges or conducting a trial.
+The detention order is issued by a designated authority or government official and is subject to periodic review by an advisory board.
+Click to View More
+Source :
+Preventive detention draconian, authorities must apply mind: Supreme Court
+Polity & Governance
+**********What is Shingles Disease?
+A new global survey shows that 56.6% of Indian participants aged 50 and above know little to nothing about shingles, although more than 90% of adults above 50 years have this virus in their body, and are vulnerable to the disease.
+About Shingles Disease:
+Shingles (
+herpes zoster)
+is a
+viral infection
+that causes an outbreak of a
+painful rash or blisters on the skin.
+The rash most often appears as a
+band of rashes or blisters in one area
+of the body.
+can occur anywhere
+on the body.
+The risk of shingles goes up as you get older and it is most
+common in people over age 50.
+●
+What Causes Shingles?
+It's caused by the
+varicella-zoster virus,
+which is the
+same virus that causes chickenpox.
+When you have chickenpox
+as a child, your
+body fights off
+the varicella-zoster virus and the
+physical signs of chickenpox fade away
+but the virus
+always
+remains in your body.
+In adulthood,
+sometimes the
+virus becomes active again.
+This time, the varicella-zoster virus makes its second appearance
+in the form of shingles.
+Is Shingles Contagious?
+Shingles is
+not contagious,
+virus can be spread to someone who has never had chickenpox.
+This will
+cause chickenpox, not shingles.
+Symptoms
+The symptoms of shingles can include
+pain, itching, tingling,
+and numbness, as well as
+fever, headache,
+chills, and fatigue.
+isn't life-threatening
+. But it
+can be very painful.
+The most
+common complication is postherpetic neuralgia.
+This is a painful condition that causes shingles pain for a long time after your blisters have cleared.
+Prevention:
+There is a
+vaccine called Shingrix
+available, which helps in preventing shingles and its complications.
+Treatment
+: There is
+no cure
+for shingles.
+Antiviral medications
+reduce the severity
+and duration of shingles, especially if started early.
+Click to View More
+Source :
+Global survey shows many over 50 in India are unaware of shingles disease, despite being at risk
+Science & Tech
+**********Key Facts about Vanuatu
+Fugitive former IPL chief Lalit Modi recently applied to surrender his passport to the Indian High Commission in London, and acquired the citizenship of Vanuatu, a tiny island nation in the South Pacific.
+About Vanuatu:
+It is an
+island country
+located in the
+South Pacific Ocean.
+archipelago
+made up of 83 islands, of which only 65 are inhabited.
+The islands extend north-south for some 400 miles (650 km) in an irregular Y shape.
+It lies
+east of Australia and north of New Zealand,
+or midway between Australia and Fiji.
+Geography
+A diverse relief—ranging from rugged mountains and high plateaus to rolling hills and low plateaus, with coastal terraces and offshore coral reefs—characterizes the islands.
+The country is home to
+several active volcanoes
+, including
+Mount Yasur,
+which is one of the world’s most accessible active volcanoes.
+Capital
+: Its capital and largest city is
+Port Vila,
+on Efate Island.
+Currency
+: The
+vatu
+is the currency of Vanuatu.
+population
+of Vanuatu is
+94% indigenous Melanesian.
+Language
+national language
+of the Republic of Vanuatu is
+Bislama
+(a Creole language).
+official languages
+Bislama, English,
+Government
+Type:
+Parliamentary democracy.
+Independence: July 30, 1980.
+Economy
+The economy is based on
+agriculture, tourism, fishing,
+offshore financial services
+, with kava exports playing a significant role.
+does not have income tax, withholding tax, capital gains tax, inheritance ta
+x, or
+exchange control.
+VAT, tourism, and agricultural exports contribute to the national income.
+offers a citizenship-by-investment programme
+, allowing foreigners to obtain citizenship in exchange for a financial contribution, typically
+for around $1,50,000 USD.
+Passports provide a
+major source of government revenues.
+Vanuatu passport holders can travel without a visa to 56 countries, making its citizenship-by-investment programme a highly attractive scheme.
+Click to View More
+Source :
+5 things about Vanuatu, whose citizenship fugitive Lalit Modi has taken
+**********Commission on the Status of Women (CSW)
+Union Minister for Women and Child Development will lead India’s delegation at the 69th session of the Commission on the Status of Women (CSW) at the United Nations headquarters in New York..
+About Commission on the Status of Women (CSW):
+It is the global
+intergovernmental body exclusively dedicated
+to the promotion of
+gender equality,
+the rights, and the
+empowerment of women.
+It is p
+art of the United Nations
+, and works to promote women's political, economic, civil, social, and educational rights.
+As a
+functional commission of the Economic and Social Council (ECOSOC),
+it was established by ECOSOC resolution of 21 June 1946.
+The CSW is instrumental in promoting women’s and girls' rights, documenting the reality of their lives throughout the world, and
+shaping global standards
+on gender equality and the empowerment of women and girls.
+CSW can
+also highlight urgent problems,
+such as the situation of women and girls affected by conflict.
+In 1996, ECOSOC expanded the Commission’s mandate and decided that it should take a leading role in monitoring and
+reviewing progress
+and problems in the
+implementation of the Beijing Declaration and Platform for Action
+and in mainstreaming a gender perspective in UN activities.
+The Beijing Declaration and the Platform for Action, adopted by 189 countries, is the
+most comprehensive
+and transformative
+global agenda for
+the achievement of
+Annual Sessions:
+During the Commission’s annual two-week session, representatives of
+UN member states, civil society organizations,
+UN entities gather at UN headquarters in New York.
+They
+discuss
+and gaps in the
+1995
+and Platform for Action, and the
+23rd special session of the General Assembly held in 2000 (Beijing+5),
+as well as
+emerging issues
+that affect gender equality and the empowerment of women and girls.
+Member States
+agree on further actions
+to accelerate progress and promote women’s and girls' enjoyment of their rights in political, economic, and social fields.
+outcomes and recommendations
+of each session are
+forwarded to ECOSOC for follow-up.
+Click to View More
+Source :
+Union Minister Annpurna Devi to lead India's delegation at Commission on Status of Women at United Nations
+International Relations
+**********Who are Koch-Rajbongshis?
+Ahead of the Home Minister's three-day visit to Assam, the Koch-Rajbongshis have renewed their demand for Scheduled Tribe (ST) status.
+About Koch-Rajbongshis:
+Koch Rajbongshi is an
+ancient tribe
+originally
+from the ancient Koch kingdom.
+The Rajbongshi tribe is referred to as Koch Rajbongshi, or Rajbanshi, or Rajvanshi.
+The word "Rajbongshi" literally means "royal community".
+Considered as
+indigenous people of South Asia
+, at present they live in lower Nepal,
+Northern Bengal, North Bihar, Northern Bangladesh, the whole of Assam, parts of Meghalaya, and Bhutan.
+These modern g
+eographical areas were once part of the Kamata kingdom ruled by the Koches
+for many centuries.
+The community is variously designated as
+OBC (Assam), SC (Bengal), and ST (Meghalaya).
+Language
+The Rajbongshi/
+Rajbanshi language
+spoken by one crore people
+, according to a 2001 census.
+It has a
+complete grammar.
+Religion and Beliefs:
+They are
+largely Hindus
+with lots of their own deities and rituals.
+A large section
+of Koch Rajbanshi became
+followers of Islam,
+and the present Muslims of North Bengal, West Assam and Northern Bangladesh are of Koch Rajbanshi origin.
+There are
+also Christian and Buddhist Koch Rajbanshis.
+primary livelihood
+of the tribe is
+agriculture and farming.
+They live very close to nature because of the fact that
+primitively they were ‘Animist’
+and the same significance is still prevailing among the tribe.
+Click to View More
+Source :
+Ahead of Amit Shah’s visit to Assam, Koch-Rajbongshis refresh demand for Scheduled Tribe status
+Geography
+**********MP’s Madhav National Park becomes India’s 58th Tiger Reserve
+Why in the News?
+Recently, the Centre declared the Madhav National Park in Madhya Pradesh as the country’s 58th tiger reserve.
+What’s in Today’s Article?
+About Tiger Reserves (Introduction, Features, Process of Becoming Tiger Reserve, Current Status, etc.)
+About Madhav National Park (Flora, Fauna, etc.)
+India is home to over
+70% of the world’s tiger population
+, making tiger conservation a national priority.
+To protect these big cats, the government has established Tiger Reserves under the Project Tiger initiative.
+These reserves ensure habitat protection, poaching prevention, and scientific management of tigers.
+Recently, Madhav National Park in Madhya Pradesh was declared India’s 58th Tiger Reserve, reflecting the nation’s continuous efforts to expand protected areas and strengthen conservation efforts.
+is a specially designated protected area under
+, aimed at conserving
+wild tiger populations
+and their ecosystems.
+These reserves are governed by the
+National Tiger Conservation Authority (NTCA)
+Wildlife Protection Act, 1972
+Key Features of a Tiger Reserve:
+Core Area:
+Strictly reserved for wildlife conservation; no human activities allowed.
+Buffer Area:
+Limited human activities permitted under eco-sensitive guidelines.
+Wildlife Protection:
+Strict enforcement against poaching, deforestation, and encroachments.
+Scientific Monitoring:
+Tracking tiger populations, prey bases, and ecosystem balance using advanced technology.
+Process of Getting a ‘Tiger Reserve’ Status in India
+The designation of a
+follows a structured process, ensuring
+scientific assessment and legal backing
+Step 1: Identification and Proposal
+A State Government identifies a national park or wildlife sanctuary with a healthy tiger population.
+The proposal is submitted to the NTCA for evaluation.
+Step 2: Evaluation by NTCA
+The NTCA assesses the proposal based on:
+Tiger Population Density
+Habitat Conditions
+Threats (Poaching, Human Activities, etc.)
+It also considers existing conservation measures and scope for improvement.
+Step 3: Recommendation to the Central Government
+If NTCA approves the proposal, it recommends it to the Ministry of Environment, Forest & Climate Change (MoEFCC).
+The MoEFCC conducts expert consultations and seeks stakeholders’ feedback.
+Step 4: Official Declaration
+Upon final approval, the Central Government issues an official notification, granting Tiger Reserve status.
+A Tiger Conservation Plan is developed to ensure scientific management.
+Current Status of Tiger Reserves in India
+As of 2025, India has 58 Tiger Reserves, covering nearly 2.3% of India’s land area. Madhya Pradesh leads with 9 reserves, followed by Maharashtra and Karnataka.
+The largest Tiger Reserve is
+Nagarjunsagar-Srisailam
+(Andhra Pradesh & Telangana), while
+Bor Tiger Reserve
+(Maharashtra) is the smallest.
+The 2022 Tiger Census estimated India’s tiger population at 3,167, reflecting a steady rise due to conservation efforts.
+On
+March 9, 2025
+was officially designated as a
+Key Highlights:
+Location:
+Shivpuri district, Madhya Pradesh.
+Tiger Population:
+5 tigers, including two new cubs.
+Repopulation Efforts:
+3 tigers introduced in 2023 under the Tiger Reintroduction Project.
+Government Announcement:
+Union Environment Minister declared Madhav National Park as a Tiger Reserve.
+This move strengthens
+tiger conservation in central India
+and expands
+protected habitats
+Challenges in Tiger Conservation
+Despite notable progress, Tiger Reserves in India face several
+challenges
+Habitat Destruction:
+Deforestation and urbanization impact tiger habitats.
+Poaching & Illegal Trade:
+Demand for tiger body parts continues in illegal wildlife markets.
+Human-Tiger Conflicts:
+Expanding human settlements lead to more tiger encounters.
+Climate Change:
+Changing weather patterns affect prey availability.
+Funding & Resource Gaps:
+Some reserves lack proper financial support.
+Future Outlook for Tiger Conservation in India
+The government and NTCA are focusing on:
+Wildlife Corridors:
+Ensuring safe tiger movement between reserves.
+Advanced Monitoring:
+Using AI and drone surveillance to track tigers.
+Strengthening Anti-Poaching Laws:
+Enforcing stricter penalties.
+Eco-Tourism & Community Engagement:
+Encouraging local participation in conservation.
+newspaper.pdf
+( Size:  450.6 KB  )
+Click to View More
+Environment & Ecology
+**********India, Mauritius and a Visit to Deepen Long-Standing Ties
+Context
+Prime Minister Narendra Modi’s visit to Mauritius
+on March 11-12, 2025, marks
+a significant milestone
+in the enduring relationship between the two nations.
+His
+participation as the guest of honour at Mauritius' Independence Day celebrations
+highlights the deep historical and strategic ties binding India and the island nation.
+This visit,
+occurring amidst global geopolitical uncertainties, provides an opportunity for India to reaffirm its commitment
+to Mauritius’ prosperity, security, and development.
+The Historical Bond Between India and Mauritius
+India and Mauritius share
+a relationship rooted in history, culture, and kinship.
+Mauritius has
+a substantial Indian-origin population, with nearly 70% of its citizens tracing their ancestry to Indian indentured
+labourers brought by colonial rulers to work on sugar plantations.
+country is a melting pot of cultures
+, with Indo-Mauritians preserving languages such as Bhojpuri, Tamil, Telugu, and Marathi.
+The bond between the two nations
+extends beyond cultural similarities
+Sir Seewoosagur Ramgoolam
+Mauritius’ first Prime Minister
+and a key figure in its independence movement, was
+deeply connected to India’s freedom struggle.
+His association with Netaji Subhas Chandra Bose
+in London during the early 20th century highlights
+the intertwined histories of both nations.
+Over the years,
+India has played an active role in promoting Mauritius’ cultural heritage,
+as seen in initiatives like the Mahatma Gandhi Institute and the Indian Cultural Centre, the largest of its kind worldwide.
+Key Features of India-Mauritius Relations and Cooperation
+Diplomatic and Political Stability
+Regardless of the party in power,
+India-Mauritius relations have remained stable and positive.
+The r
+ecent election of Navinchandra Ramgoolam as Prime Minister presents an opportunity
+for further strengthening bilateral cooperation.
+During his previous tenure,
+Mr.
+Ramgoolam demonstrated a keen understanding of India’s security concerns
+, and his leadership is expected to open new avenues for collaboration.
+For Indian diplomats, maintaining strong relationships
+across all segments of Mauritian
+society is crucial.
+While cultural and linguistic ties with the Indo-Mauritian population are important,
+engaging with the country’s diverse ethnic groups,
+including the influential French-origin population,
+ensures balanced diplomatic outreach.
+Economic and Trade Cooperation
+Economic cooperation
+India and Mauritius has grown significantly in recent year
+s, with bilateral trade reaching $554 million in 2022-23.
+Mauritius serves as a gateway to Africa,
+benefiting from its membership in the African Union and preferential trade agreements with African nations.
+island’s bilingual population,
+along with its well-regulated banking and financial sectors, makes it
+an attractive hub for investment and business.
+Double Taxation Avoidance Agreement (DTAA)
+One of the most significant aspects of India-Mauritius economic ties is
+the DTAA, which has positioned Mauritius as a major channel for foreign investment into India.
+agreement has also contributed to Mauritius' emergence as a prominent international financial centre.
+Strengthening economic ties
+through trade and investment will further enhance mutual benefits.
+India’s Strategic Initiatives in Mauritius
+Coastal Radar Stations
+India has established
+a network of coastal radar stations in Mauritius to monitor activities in the vast exclusive economic zone (EEZ).
+These stations provide real-time data on ship movements,
+helping both nations detect potential threats such as illegal fishing, smuggling, piracy,
+and unauthorised military presence.
+Upgrading Agaléga Island
+India has significantly
+redeveloped the Mauritian island of Agaléga
+, transforming it into a crucial joint surveillance and naval facility.
+upgraded infrastructure, including an extended airstrip, allows for the operation of larger aircraft
+for reconnaissance and maritime patrols.
+development enhances Mauritius' ability to monitor its waters
+while also bolstering India's regional security presence.
+Information Sharing Through IFC-IOR
+Mauritius has been granted access to India’s Information Fusion Centre
+for the Indian Ocean Region (IFC-IOR), based in Gurugram.
+centre provides real-time maritime domain awareness by integrating surveillance data
+from multiple sources.
+The IFC-IOR enables Mauritius to respond more effectively to security threats
+, including illicit maritime activities and foreign military presence in its waters.
+Naval Cooperation and Training
+India regularly
+conducts joint naval exercises with Mauritius t
+o improve operational coordination and enhance maritime security.
+Additionally,
+the Indian Navy provides training and technical support to the Mauritian Coast Guard and Navy,
+strengthening their capabilities in areas such as anti-piracy operations, search-and-rescue missions, and disaster response.
+Oceanographic Surveys
+The Indian Navy’s oceanographic survey ship, INS Sarvekshak
+, recently completed
+a survey of 25,000 square kilometres of Mauritius' ocean territory.
+initiative aids in mapping underwater resources
+, identifying navigational hazards, and improving overall maritime safety.
+The Broader Geopolitical Context of India-Mauritius Maritime Ties
+India’s maritime cooperation with Mauritius
+takes on added significance in the context of China’s expanding footprint in the Indian Ocean.
+China has been increasing its presence in the region
+through investments in port infrastructure, naval deployments, and economic partnerships with various island nations.
+development of Chinese-funded projects, including those under the Belt and Road Initiative (BRI), has raised concerns
+about the potential militarization of key maritime locations.
+By deepening its security ties with Mauritius,
+India is ensuring that the Indian Ocean remains a stable and secure region
+, free from external influences that could disrupt the balance of power.
+The India-Mauritius partnership serves as a counterbalance to China's presence
+and reinforces India’s role as the primary security provider in the region.
+Conclusion
+rime Minister Modi’s visit to Mauritius goes beyond ceremonial honours;
+it is a reaffirmation of India’s commitment to a stable, prosperous, and secure Indian Ocean region.
+The historical, cultural, economic, and strategic ties between the two nations provide a strong foundation
+for continued collaboration.
+As the world navigates uncertain geopolitical waters,
+the India-Mauritius relationship remains an anchor of stability and mutual growth.
+Click to View More
+Editorial Analysis
+**********The Empowerment of India’s Women with Bold Policies
+Context
+International Women’s Day
+on March 8 serves
+as a timely reminder of the progress made toward gender equality
+and the work that remains.
+India has made notable strides in empowering women
+, with government policies playing a crucial role in improving access to sanitation, clean water, financial inclusion, and entrepreneurship.
+These
+initiatives have not only enhanced women’s daily lives but have also reshaped their roles
+in governance, the workforce, and community leadership.
+Government Initiatives in Women’s Empowerment
+Sanitation and Clean Water: A Foundation for Dignity and Economic Participation
+Swachh Bharat Abhiyan (Clean India Mission)
+This
+program particularly benefited women in rural areas
+, where open defecation posed safety and health risks.
+By constructing over 116 million household toilets,
+the initiative has provided women with a sense of security, privacy, and dignity.
+Community-driven efforts, such as those led by
+the Maa Tarini Self-Help Group (SHG) in Rourkela,
+further highlight the mission’s impact.
+These grassroots initiatives demonstrate how sanitation efforts
+can be both socially transformative and economically beneficial.
+Jal Jeevan Mission (JJM)
+Before its implementation,
+only 17% of rural households had tap water connections
+, forcing women to spend hours fetching water.
+Today, over 150 million households have access to safe drinking water
+, significantly reducing women’s time burden and enabling greater participation in education, work, and economic activities.
+availability of water has had a direct impact on female labour force participation
+Studies indicate a 7
+.4% increase in women’s engagement
+in agriculture and allied sectors, particularly in states like Bihar and Jharkhand, where female workforce participation was historically low.
+Between 2017 and 2023, rural female workforce participation rose from 24.6% to 41.5%,
+demonstrating how infrastructural development can drive social change and economic independence.
+Government Initiatives Directed Towards Financial Inclusion of Women
+Pradhan Mantri Jan Dhan Yojana (PMJDY)
+Launched in 2014,
+PMJDY has been instrumental in bringing women into the formal banking system.
+More than 300 million bank accounts have been opened for women
+under this initiative, allowing them to save money, access credit, and engage in financial transactions independently.
+scheme has also introduced direct benefit transfers (DBT),
+ensuring that government subsidies reach women directly, reducing dependency on intermediaries.
+Pradhan Mantri Mudra Yojana (PMMY)
+scheme provides collateral-free loans to small and micro enterprises,
+particularly benefiting women entrepreneurs.
+Out of the total ₹32.36 lakh crore
+sanctioned under Mudra Yojana,
+68% of the loans have been given to women.
+scheme has supported businesses ranging from handicrafts and textiles to food processing and retail,
+allowing women to transition from informal labour to entrepreneurship.
+Stand-Up India Scheme
+Aimed at promoting entrepreneurship among women and marginalised communities,
+this scheme provides loans ranging from ₹10 lakh to ₹1 crore.
+So
+far, over ₹53,609 crore has been sanctioned to 236,000 entrepreneurs
+, helping women establish and expand their businesses.
+By offering financial literacy programs alongside credit access, the scheme ensures that women are equipped with the necessary skills
+to manage and grow their enterprises.
+Digital Connectivity and the Rise of Women Entrepreneurs
+BharatNet and PM-WANI Initiatives
+BharatNet and the Prime Minister Wi-Fi Access Network Interface (PM-WANI) have
+expanded high-speed internet access to 199,000 villages and 214,000 gram panchayats
+The establishment of over 247,000 Wi-Fi hotspots has enabled women in rural areas to
+access online banking, digital payment systems, and e-commerce platforms
+UPI and Digital Payments
+The rise of the Unified Payments Interface (UPI) has made financial transactions more
+accessible
+to women entrepreneurs.
+Women-led businesses, particularly in rural areas, are now able to receive payments seamlessly,
+reducing their reliance on cash transactions and improving financial transparency.
+E-commerce and Market Access
+Digital platforms have provided women entrepreneurs
+with a gateway to larger markets beyond their local communities.
+Government e-Marketplace (GeM) has been instrumental in integrating women-led businesses
+into the national procurement system.
+Over 100,000 women-led micro and small enterprises (MSEs) are now active on the GeM
+portal, securing contracts worth ₹46,615 crore.
+Case Study: Women Entrepreneurs Leveraging Technology
+A compelling example of digital empowerment is
+Reena Kirar
+, an entrepreneur from Madhya Pradesh.
+She
+leads the Girja Devi Jan Kalyan Samiti, a self-help group producing textiles
+, food products, and household goods.
+By leveraging the GeM portal, Reena expanded her business beyond her local village,
+reaching customers across the country.
+Women’s Representation in Governance
+Political empowerment
+is another critical area where India has made significant progress.
+government’s recent implementation of a 33% reservation for women
+in legislative bodies marks a transformative shift in governance.
+Women are no longer passive participants but key decision-makers
+shaping national policies.
+At the grassroots level,
+women constitute approximately 46% of elected representatives in Panchayati Raj Institutions (PRIs),
+with over 1.4 million women actively engaged in rural governance.
+Their
+leadership has led to more community-centred policies
+, improving healthcare, education, and public safety.
+developments highlight a broader truth: when women lead, societies thrive.
+Remaining Challenges and the Way Forward
+Limited Access to Credit
+While government schemes
+have improved credit access, many women still struggle to secure large-scale funding
+due to a lack of collateral and financial history.
+Expanding microfinance institutions (MFIs)
+and encouraging venture capital investment in women-led businesses could help bridge this gap.
+Societal and Cultural Barriers
+Traditional gender norms
+in some parts of India
+still discourage women from pursuing entrepreneurship.
+Awareness campaigns and
+mentorship programs led by successful female entrepreneurs can help change perceptions
+and inspire more women to start businesses.
+Need for Digital Literacy
+While digital penetration has improved, a significant digital literacy gap still exists, particularly among rural women.
+Government and private sector initiatives must focus on providing digital training to women
+, ensuring they can fully leverage online banking, e-commerce, and digital marketing tools.
+Conclusion
+India’s strides in women’s empowerment through sanitation, financial inclusion, entrepreneurship,
+and governance are shaping a
+more inclusive and equitable society.
+government’s targeted policies
+have not only improved women’s quality of life but have also unlocked economic and leadership opportunities.
+While progress is evident, sustaining this momentum requires continuous policy focus, investment in education
+, and the dismantling of socio-economic barriers.
+Click to View More
+Editorial Analysis
+**********India’s Obesity Problem
+Why in news?
+PM Modi, in a public address in Silvassa, highlighted obesity as the “root cause of many diseases” and urged Indians to reduce oil consumption. He referenced projections from The Lancet, stating that 44 crore people in India could be obese by 2050.
+What’s in today’s article?
+Obesity Trends - Global and Indian
+Defining Obesity
+Vulnerable section
+Health Risks Associated with Obesity
+Causes of the Obesity Epidemic
+According to studies published in The Lancet, a majority of adults and a third of children worldwide will be overweight or obese by 2050.
+In 2021, there were 211 crore overweight or obese individuals globally, making up 45% of the world’s population.
+Half of the world’s overweight and obese adults were from eight countries:
+China (40.2 crore)
+India (18 crore)
+USA (17.2 crore)
+Brazil (8.8 crore)
+Russia (7.1 crore)
+Mexico (5.8 crore)
+Indonesia (5.2 crore)
+Egypt (4.1 crore)
+Obesity is commonly measured using Body Mass Index (BMI), which is the ratio of a person’s weight to their height squared.
+BMI > 30
+→ Obese
+BMI 25-30
+→ Overweight
+For children and adolescents (ages
+5-17
+), the
+International Obesity Task Force’s weight-for-age and gender criteria
+are used.
+A Lancet commission recommended updating this definition by introducing
+"clinical obesity" and "preclinical obesity"
+A clinical obesity diagnosis should consider two of four body size parameters: BMI, waist circumference, waist-to-hip ratio, and waist-to-height ratio.
+The presence of
+obesity-related symptoms
+(e.g., breathlessness, sleep apnea, fatigue, joint pain) is crucial in diagnosis.
+Individuals with high body size parameters but
+no symptoms
+would be categorized as
+This revision ensures a
+more accurate assessment
+of obesity-related health risks, particularly for those with excessive abdominal fat but normal BMI or muscular individuals with high BMI.
+The prevalence of obesity is
+rising in India
+, and by
+, India may surpass China in some obesity categories.
+The number of
+obese children
+is particularly alarming, as they are likely to grow into obese adults.
+Studies indicate that
+childhood and adolescent obesity
+has increased by
+244% in the last 30 years
+and is projected to rise by
+121% in the next 30 years
+Obesity significantly increases the risk of
+lifestyle diseases
+, including:
+Type-2 diabetes
+Heart ailments
+Certain cancers
+In countries with aging populations and lower birth rates, managing obesity-related chronic illnesses will become more challenging and expensive.
+Aging patients with obesity require more surgeries and incur higher treatment costs.
+Obesity increases susceptibility to infections and severe diseases (e.g., COVID-19).
+One major driver of the obesity epidemic is the shift in dietary patterns, with an increase in:
+Calorie-dense foods high in sugar, salt, and fats
+Processed foods with long shelf lives replacing traditional diets
+Multinational food and beverage corporations have moved investments from high-income to low- and middle-income countries, where regulations are weaker.
+Between 2009 and 2019, the largest growth in per capita sales of ultra-processed foods was seen in Cameroon, India, and Vietnam.
+Solutions to Address Obesity
+Promoting Traditional Food Systems
+Supporting local agriculture and food distribution to counter corporate-driven food systems.
+Introducing additional taxes on unhealthy products, such as sugary beverages.
+Strengthening Healthcare Responses
+Investing in clinical management and treatment of obesity and related conditions.
+Developing national policies to combat obesity (currently, only 40% of countries have such policies, with even lower adoption in low- and middle-income nations).
+Expanding Obesity Intervention Research
+Most obesity intervention studies focus on high-income countries, necessitating research in low-income regions.
+Advancing Medical Treatments
+New obesity drugs (e.g., semaglutide and terzapatide) show promise.
+Past obesity drugs had significant side effects, limiting their use.
+Cost and access remain challenges, but cheaper generic versions may improve availability.
+India’s Obesity Problem.pdf
+( Size:  449.0 KB  )
+Click to View More
+Social Issues
+**********Women in Judiciary - Progress, Challenges, and the Path Ahead
+Context:
+Women in law have made significant progress in India over the last century. Cornelia Sorabji became the first woman lawyer in 1924.
+The number of women lawyers and judges has increased,
+but representation in higher judiciary remains low.
+Challenges in Higher Judiciary
+Glass ceiling in High Courts (HCs)
+Women constitute
+only 14.27%
+(109 out of 764) of High Court judges.
+Eight High Courts have just
+one-woman
+judge, while Uttarakhand, Meghalaya, and Tripura have
+none
+Allahabad High Court
+, the largest High Court, has only three women judges (2%).
+Women judges are
+appointed at an
+older age
+(average 53 years for women vs. 51.8 years for men), reducing their chances of reaching senior positions.
+Only the Gujarat High Court has a woman Chief Justice.
+Underrepresentation in the Supreme Court (SC)
+Currently, there are
+only two
+women judges (Justice B.V. Nagarathna and Justice Bela Trivedi) in the Supreme Court.
+Justice Bela Trivedi’s
+retirement in June 2025 will leave only one-woman judge.
+No woman has been appointed
+to the Supreme Court
+since 2021
+, while 28 men have been appointed
+Only one woman
+has been directly elevated
+from the Bar
+to the Supreme Court, compared to nine men.
+Barriers to women’s appointment
+Common justifications:
+Lack of eligible women candidates, lack of seniority, or women’s unwillingness.
+Systemic gender bias and deep-rooted inequality
+restrict women’s opportunities.
+Women face
+higher scrutiny
+than men in judicial appointments.
+The collegium system is
+opaque, lacks clear criteria
+, and is male-dominated.
+Government reluctance:
+Since 2020, nine women recommended for High Courts were not confirmed; five were rejected outright.
+Need for Gender Equality in Judiciary
+A gender-balanced judiciary
+enhances legitimacy, inclusivity, and public confidence
+Women’s representation ensures courts reflect the
+diversity of society and deliver more balanced judgments.
+Steps Towards Equality
+Reforming the collegium system:
+Introducing transparent selection processes and clear
+merit-based criteria
+. Creating
+a structured process for lawyers
+to apply for judgeship.
+Prioritizing gender diversity:
+Ensuring at least one-third
+, if not half, of the higher judiciary comprises women.
+Gender diversity
+should be considered alongside state, caste, and religious representation.
+Appointing a diverse and independent judiciary to
+uphold constitutionalism and rule of law.
+Normalizing women’s representation
+Gender balance
+should be a stated judicial objective in appointments.
+Women judges should be
+appointed in sufficient numbers
+so their presence is normalized, not seen as exceptional.
+As Justice Indira Banerjee stated, women’s appointments should not require special attention—they should be a
+regular occurrence.
+Conclusion
+As India celebrates 75 years of the Supreme Court, a
+transformative shift
+towards gender equality in the judiciary is necessary.
+A transparent, inclusive, and merit-driven
+judicial appointment system is key to ensuring gender-balanced constitutional courts.
+Click to View More
+Editorial Analysis
+**********Supreme Court limited the power of arrest for officers under CGST, Customs Acts
+Why in news?
+The Supreme Court, in Radhika Agarwal v. Union of India, ruled that officials exercising arrest, search, and seizure powers under the
+Customs Act, 1962, and the CGST Act, 2017
+, must adhere to the same restrictions as police under the
+CrPC, 1973
+This aims to curb misuse of these provisions. The ruling aligns with the Court’s broader effort to limit prosecuting agencies' powers, as seen in Arvind Kejriwal v. Directorate of Enforcement (2025), where the SC set conditions for legal arrests under the
+PMLA, 2002
+, and extended them to Customs and CGST Act cases.
+What’s in today’s article?
+Exercising Police Powers
+Power of Arrest
+Key Highlights of the Judgement
+The Supreme Court clarified that while officials under the Customs Act and CGST Act are not police officers, they exercise similar investigative powers, including arrest, search, seizure, and interrogation.
+Limitations on Power
+The Court ruled that these officials cannot exceed the powers of a police officer in charge of a police station and must follow the same procedural restrictions.
+Applicability of CrPC
+The Court explained that
+Sections 4 and 5 of the CrPC
+apply to special laws unless the special act explicitly overrides them.
+This ensures that CrPC provisions govern arrests under the Customs and CGST Acts where no contrary provisions exist.
+Rights of the Arrested Person
+Customs and CGST officers must adhere to key procedural safeguards, including:
+Presentation before a magistrate within 24 hours of arrest.
+Informing a family member or friend about the arrest.
+Allowing the arrestee to have an advocate present in the vicinity during interrogation.
+Under
+Section 104(4) of the Customs Act
+, certain offences, such as smuggling prohibited goods or evading customs duty over ₹50 lakh, are
+cognizable
+, allowing a customs officer to arrest without a warrant.
+Section 104(5)
+classifies all other offences as
+non-cognizable
+, requiring a magistrate’s approval for arrest and investigation.
+Similarly,
+Section 132 of the CGST Act
+distinguishes between cognizable and non-cognizable offences, prescribing punishments accordingly.
+Safeguards Against Arbitrary Arrest
+In Arvind Kejriwal v. Directorate of Enforcement (2025), the SC ruled that arrest without a warrant is an extreme power, requiring strict safeguards under Section 19 of the PMLA.
+These include:
+Possession of material evidence before arrest.
+A recorded "reason to believe" that the person is guilty.
+Informing the arrestee of the grounds for arrest to allow legal recourse.
+The SC extended these safeguards to Customs and CGST officials in
+, warning that unchecked arrest powers could violate constitutional rights.
+Material in Possession
+The SC held that arrests can only be made if the officer has material evidence supporting their belief in the arrestee’s guilt.
+They must document their reasoning in writing and cannot ignore evidence that may exonerate the accused.
+In Radhika Agarwal,
+the SC emphasized that mere suspicion is insufficient for an arrest
+Reasons to Believe
+The officer must record in writing their “reasons to believe” that the arrestee is guilty, ensuring that the decision is linked to actual case material.
+While courts cannot evaluate the merits of these reasons, they can check if they are clear and logically connected to the case.
+The SC clarified that even though the Customs Act and CGST Act do not explicitly require this, it is an implicit necessity due to their power to authorize cognizable arrests.
+Providing Grounds of Arrest
+The SC ruled that the arrestee must be informed of the reasons for their arrest, including the officer’s “reason to believe” in their guilt.
+This ensures that the accused can effectively challenge the arrest or apply for bail. Without this, the arrestee would be at a legal disadvantage.
+The court in Radhika Agarwal reaffirmed this principle, ensuring procedural fairness.
+Retaining Arrest Powers
+The Supreme Court refused to strike down the powers of arrest under the CGST and Customs Acts, as requested by the petitioners.
+Coercion to Pay Taxes
+The SC acknowledged concerns that tax officials misuse arrest powers to compel assessees to pay overdue taxes under the threat of detention.
+It ruled that such coercion is illegal and impermissible.
+Legal Remedies for Affected Individuals
+The court held that individuals who were forced or threatened into paying taxes can approach the courts to seek a refund of the amount deposited under duress.
+Additionally, the concerned tax officials may face disciplinary action.
+Guidelines to Prevent Misuse
+To curb such practices, the SC directed the Central Board of Indirect Taxes and Customs (CBIC) to form guidelines ensuring that taxpayers are not threatened with arrest in tax recovery matters.
+Supreme Court limited the power of arrest for officers under CGST, Customs Acts.pdf
+( Size:  415.5 KB  )
+Click to View More
+Polity & Governance
+**********[10th March 2025] The Hindu Op-ed: Closing the gender gap in the higher judiciary
+Polity
+PYQ Relevance:
+)  Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and inclusiveness.
+(UPSC CSE 2021)
+Mentor’s Comment:
+UPSC mains have always focused on the
+women in the higher judiciary (2021),
+appointment of judges of higher judiciary
+(2017).
+Women in law have made significant progress in India over the past 100 years. Cornelia Sorabji became the first woman lawyer to practice in 1924. Since then, the number of women lawyers has increased, with many becoming Senior Advocates and judges in lower courts. However, their representation in the higher judiciary remains very low.
+Today’s editorial highlights the reasons for the low representation of women in the Indian judiciary. This content is useful for GS Papers 1 and 2 in the UPSC Mains exam.
+_
+Let’s learn!
+Why in the News?
+The gender gap in India’s judiciary is evident in the low representation of women, especially in higher courts.
+What is the status of women in the Indian Judiciary?
+Supreme Court:
+Women make up about 9.3% of judges in the Supreme Court, with only a few women judges currently serving.
+High Courts:
+As of August 2024, women constitute about 14% of High Court judges, with only 106 women judges out of a total of 754 judges across all High Courts. There are only two women Chief Justices among all High Courts.
+Subordinate Judiciary:
+Women have a higher representation in subordinate courts, constituting about 36.3% of judges as of recent data.
+What are the main reasons for the underrepresentation of women in the higher judiciary in India?
+Systemic Gender Bias and Stereotypes:
+Women are often viewed as less capable of handling complex legal matters or leadership roles.
+Example:
+Justice Indira Banerjee, a former Supreme Court judge, highlighted how women must work harder to prove their competence compared to male counterparts.
+Opaque Collegium System:
+The collegium lacks transparency in the selection process and does not prioritize gender diversity.
+Since 2021, 28 judges have been appointed to the Supreme Court, but none of them have been women.
+Limited Senior Women Advocates:
+Fewer women reach the level of Senior Advocate, which reduces the pool of candidates for higher judicial positions.
+Only one woman, Justice Indu Malhotra, has been elevated directly from the Bar to the Supreme Court in its history.
+Delayed Appointments and Age Disparity:
+Women are appointed to the Bench later than men, limiting their tenure and chances of becoming Chief Justices.
+The average appointment age for women is 53 years, while for men, it is 51.8 years.
+Government’s Selective Confirmation:
+Women’s names recommended by the collegium are more likely to be delayed or rejected by the government.
+Since 2020, nine women were recommended for High Court appointments, but five of these names were rejected.
+What are the steps taken by the Indian government?
+Reservation for Women in Lower Judiciary:
+Several states like Bihar, Rajasthan, and Andhra Pradesh have introduced
+30-35% reservations
+for women in the lower judiciary to encourage female participation at the entry level.
+Bihar introduced a
+for women in judicial services to increase their representation.
+Promotion of Gender Sensitization:
+The government supports initiatives to
+train judges
+and judicial staff on gender sensitivity and equality.
+The National Judicial Academy conducts
+gender sensitization workshops
+for judicial officers.
+Encouragement of Collegium Recommendations:
+The government has urged the
+to consider
+when recommending names for judicial appointments.
+Law Minister
+has emphasized the need for more women judges in
+parliamentary discussions
+Increased Representation in Policy Discussions:
+The government includes
+women’s voices
+in law commissions and
+judicial reform committees
+Justice R. Banumathi was part of the
+on criminal law reforms focusing on gender issues.
+How can the collegium system be reformed to ensure greater transparency and gender diversity in judicial appointments?
+Establish Clear and Transparent Selection Criteria:
+Implement
+publicly available guidelines
+specifying the qualifications, experience, and evaluation methods for judicial appointments.
+United Kingdom’s Judicial Appointments Commission
+uses clear, published criteria to promote transparency and diversity in judicial selection.
+Mandate Gender Representation in Recommendations:
+Introduce a
+formal quota
+or commitment to ensuring that
+at least one-third
+of the recommended candidates are women.
+Countries like
+Canada
+follow a
+diversity mandate
+to ensure that judicial appointments reflect gender and ethnic representation.
+Open Application Process for Judicial Aspirants:
+Allow
+eligible lawyers
+to apply for judgeship through a transparent process rather than relying solely on collegium nominations.
+South Africa
+invites applications publicly and conducts
+open interviews
+, ensuring broader participation, including women candidates.
+Way forward:
+Institutionalize Gender Diversity in Judicial Appointments:
+Implement a binding policy requiring the collegium to prioritize gender diversity, ensuring a minimum percentage of women in judicial recommendations. This can be reinforced by periodic audits and public reports on gender representation.
+Mentorship and Capacity Building for Women Lawyers:
+Establish structured mentorship programs to support women lawyers in advancing to senior positions and encourage their participation in judicial roles. This should include targeted training for leadership and judicial skills to expand the pool of qualified women candidates.
+**********India, Mauritius and a visit to deepen long-standing ties
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+India-Mauritius relation;
+Why in the News?
+Prime Minister Modi will visit Mauritius on March 11-12, 2025, to strengthen relations with the new government and confirm India’s support for the island’s security and growth.
+What are the key historical and cultural ties between India and Mauritius?
+Indentured Labor Heritage (1834 Onwards):
+Nearly
+70% of Mauritians
+are of
+Indian origin
+, descendants of indentured laborers brought by the British to work on
+sugar plantations
+Example:
+The
+Aapravasi Ghat
+in Port Louis, a UNESCO World Heritage site, marks the arrival point of Indian laborers.
+Shared Freedom Struggles: Sir Seewoosagur Ramgoolam
+, Mauritius’ first Prime Minister, worked closely with
+Netaji Subhas Chandra Bose
+during Bose’s stay in London (1919-21).
+Sir Ramgoolam proofread Bose’s famous book “
+The Indian Struggle
+” and received an autographed copy in appreciation.
+Linguistic and Cultural Preservation:
+Various Indian languages, including
+Bhojpuri, Tamil, Telugu, and Marathi
+, are actively spoken and preserved through cultural institutions.
+Mahatma Gandhi Institute
+(established in 1976) promotes Indian languages, arts, and culture in Mauritius.
+Religious and Festival Ties:
+Hinduism is practiced by
+over 48%
+of the population, and Indian festivals like
+Diwali, Holi, and Thaipusam
+are widely celebrated.
+Ganga Talao
+(Grand Bassin) pilgrimage site is considered sacred and draws thousands during
+Maha Shivaratri
+Institutional and Diplomatic Links:
+India actively supports Mauritius through diplomatic and cultural outreach programs.
+Mauritius hosts the
+World Hindi Secretariat
+, which is supported by India to promote the Hindi language globally.
+Why is maritime security cooperation between India and Mauritius crucial?
+Strategic Location in the Indian Ocean:
+Mauritius lies at a
+key maritime crossroads
+western Indian Ocean
+, making it vital for monitoring international shipping lanes and securing regional trade.
+Colombo Security Conclave
+(including India, Mauritius, Sri Lanka, Maldives, and Bangladesh) enhances cooperation to ensure maritime safety.
+Countering China’s Expanding Influence:
+With China increasing its
+presence in the Indian Ocean Region (IOR)
+through infrastructure projects and naval activities, India’s partnership with Mauritius helps
+balance regional power
+Agaléga Island
+redevelopment supports surveillance and counters China’s maritime ambitions.
+Securing Exclusive Economic Zones (EEZs):
+Mauritius has an
+EEZ of 2.3 million sq. km
+, rich in
+marine resources
+. Collaboration ensures these areas are
+protected from illegal activities
+like fishing and piracy.
+INS Sarvekshak
+recently completed an ocean survey of
+25,000 sq. km
+in Mauritius’ EEZ to enhance maritime mapping and security.
+Joint Surveillance and Intelligence Sharing:
+Surveillance cooperation enhances
+maritime domain awareness
+and secures trade routes against
+piracy, trafficking, and other threats
+access to India’s Information Fusion Centre-Indian Ocean Region (IFC-IOR)
+in Gurugram for real-time maritime intelligence.
+Humanitarian Assistance and Disaster Relief (HADR):
+Close maritime ties enable swift
+disaster response
+and the delivery of
+humanitarian aid
+in times of crisis.
+India provided
+naval assistance
+to Mauritius during the
+MV Wakashio
+oil spill disaster in 2020.
+Where has India invested in maritime infrastructure and security cooperation with Mauritius?
+Agaléga Island Development:
+India is
+redeveloping Agaléga Island
+to establish
+airstrips and port facilities
+joint surveillance
+and maritime domain awareness.
+This facility enhances
+monitoring of maritime traffic
+and strengthens
+anti-piracy
+anti-smuggling
+operations.
+Coastal Radar Surveillance Network:
+India has installed a
+network of coastal radar stations
+in Mauritius to improve
+real-time surveillance
+of the Indian Ocean Region (IOR).
+This system helps track
+illegal maritime activities
+unauthorized fishing
+Access to the Information Fusion Centre (IFC-IOR):
+India provides Mauritius access to its
+Information Fusion Centre – Indian Ocean Region (IFC-IOR)
+, which enables
+intelligence sharing
+and coordinated maritime operations.
+Mauritius can monitor
+, enhancing its ability to
+protect its Exclusive Economic Zone (EEZ)
+and respond to emerging threats.
+What role does the Double Taxation Avoidance Agreement (DTAA) play in their economic partnership?
+Facilitating Foreign Investments:
+The DTAA between India and Mauritius
+prevents double taxation
+on income, encouraging
+foreign investments
+to flow through Mauritius into India.
+As of March 2024, Mauritius remained India’s fourth-largest source of FPI, contributing ₹4.19 lakh crore, accounting for 6% of India’s total FPI of ₹69.54 lakh crore.
+Strengthening Mauritius as a Financial Hub:
+The agreement has helped Mauritius become a
+major international financial centre
+, particularly for investments into
+India and African markets
+Many
+private equity
+venture capital funds
+use Mauritius as a base to
+invest in Indian businesses
+due to
+favorable tax treatment
+Impact of Treaty Amendments on Investment Flows:
+In March 2024, India and Mauritius revised the DTAA to include the Principal Purpose Test (PPT), aiming to prevent treaty abuse and tax evasion. Following these amendments, FPIs withdrew ₹8,671 crore from Indian equities in April 2024, reflecting concerns over the revised tax implications.
+Way forward:
+Enhance Maritime Security Collaboration:
+There is a need to strengthen joint surveillance, intelligence sharing, and capacity-building initiatives to secure the Indian Ocean Region (IOR) and safeguard maritime trade routes.
+Deepen Economic and Financial Cooperation:
+The Government should adapt the DTAA framework to maintain investor confidence while fostering transparent, sustainable investment flows between the two nations.
+Mains PYQ:
+Why was indentured labour taken by the British from India to their colonies? have they been able to preserve their cultural identity over there?
+(UPSC IAS/2018)
+**********As imports of semiconductor chips rise, India eyes local production
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Semiconductor Industry;
+Why in the News?
+At the World Economic Forum in January, Electronics and IT Minister Ashwini Vaishnaw announced that India will produce its first locally made semiconductor chip this year.
+What is the primary goal of India’s Semicon India Programme?
+Reduce Import Dependency
+: To decrease reliance on foreign countries for semiconductor chips used in electronics, automobiles, and communication devices.
+Boost Domestic Manufacturing and Innovation
+: To establish a strong domestic ecosystem for semiconductor fabrication, assembly, testing, and packaging (ATP).
+Example
+: Construction of the
+Dholera semiconductor fabrication facility
+in Gujarat by Tata Electronics in collaboration with Taiwan’s
+Powerchip Semiconductor Manufacturing Corporation
+Enhance India’s Position in the Global Supply Chain
+: To integrate India into the global semiconductor value chain and attract investments from global tech giants.
+: The
+Tata Semiconductor Assembly and Test
+facility in
+Morigaon
+, Assam, is part of India’s effort to develop advanced chip packaging capabilities and reduce external reliance.
+How will it reduce import dependency on semiconductor chips?
+Local Production of Semiconductor Chips:
+Domestic manufacturing of chips will reduce the need to import critical components used in electronics and communication.
+: India’s first
+indigenously manufactured semiconductor chip
+is expected to be produced in
+2024
+, cutting reliance on imports from countries like
+China
+South Korea
+Building Fabrication (Fab) Facilities:
+Establishing semiconductor fabrication plants allows India to produce advanced chips domestically.
+Dholera fabrication facility
+Tata Electronics,
+will reduce the need for importing high-end chips.
+Developing Assembly, Testing, and Packaging (ATP) Capabilities:
+Setting up ATP units enables India to process raw semiconductor wafers into finished products locally.
+, Assam, will handle large-scale chip assembly and packaging, decreasing dependence on foreign ATP services.
+Diversifying Supply Chains and Strengthening Indigenous Innovation:
+Promoting research and development will encourage innovation in chip design and technology.
+: Investments in
+EDA software
+(Electronic Design Automation) and
+Core IP
+(patents) will enable India to design proprietary chips instead of relying on external technologies.
+Attracting Global and Domestic Investments:
+Incentives and policy support under the Semicon India Programme will attract both domestic and foreign semiconductor companies to manufacture locally.
+: Government partnerships with industry leaders like
+Foxconn
+encourage private investment in chip manufacturing, reducing future import needs
+Where are the major semiconductor manufacturing and assembly facilities being constructed under the Semicon India Programme?
+Tata-PSMC Semiconductor Fab, Dholera, Gujarat
+: ₹91,000 crore investment for a fabrication unit with a capacity of 50,000 wafer starts/month, producing 28 nm compute and power management chips for EVs, telecom, defense, and consumer electronics.
+Tata TSAT ATMP Unit, Morigaon, Assam
+: ₹27,000 crore investment in an advanced packaging unit handling 48 million chips/day, catering to automotive, EV, telecom, and consumer electronics sectors.
+CG Power-Renesas-Stars ATMP Unit, Sanand, Gujarat
+: ₹7,600 crore investment for specialized chip manufacturing with a capacity of 15 million chips/day, focusing on consumer, industrial, automotive, and power applications.
+Micron Technology ATMP Unit, Sanand, Gujarat
+: $2.75 billion investment for a memory and storage chip assembly plant, expected to deliver the first chip by 2025, primarily for export.
+Kaynes Semicon OSAT Facility, Sanand, Gujarat
+: ₹3,307 crore investment in an outsourced assembly and test unit, aiming to produce 200 million chips annually by March 2025, focusing on power electronics and industrial uses.
+Why has the actual spending under the Semicon India Programme consistently fallen?
+Delays in Project Approvals
+: Lengthy evaluation and approval processes for semiconductor projects have slowed fund disbursement. For instance, the Tata and Micron projects faced regulatory and environmental clearance delays.
+High Capital-Intensive Nature
+: Semiconductor manufacturing requires significant upfront investment, and the government has struggled to allocate sufficient funds. For example, the revised estimate for FY24 dropped to ₹1,503.36 crore from the budgeted ₹3,000 crore due to financial constraints.
+Limited Domestic Expertise
+: India’s lack of advanced technological expertise in areas like chip design and fabrication has slowed implementation, resulting in underutilized budgets.
+Complex Global Partnerships
+: Collaboration with international firms, such as Powerchip Semiconductor Manufacturing Corporation, involves lengthy negotiations and compliance with global standards, delaying fund utilization.
+Infrastructure Bottlenecks
+: Inadequate supporting infrastructure (like power and water supply) at manufacturing sites has caused delays. For example, the Dholera facility required significant investments in infrastructure before full-scale construction could begin.
+Way forward:
+Streamline Approval Processes and Policy Support:
+Implement faster clearance mechanisms and provide consistent policy incentives to accelerate project approvals and fund disbursement.
+Invest in Skill Development and Infrastructure:
+Enhance domestic expertise through specialized training programs and improve infrastructure at manufacturing hubs to ensure timely project execution.
+**********World Spice Organisation (WSO)
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Despite being the
+largest producer and exporter of spices in the world
+, India’s
+share in the global seasoning market remains only 0.7%
+, compared to
+China’s 12%
+and the
+USA’s 11%
+, according to the
+About the World Spice Organisation (WSO)
+WSO was
+established in 2011 in Kochi, Kerala
+, India’s spice capital.
+It is registered as a
+Not-for-Profit
+organization under the
+Travancore Cochin Literary, Scientific, and Charitable Societies Act, 1956
+It works towards
+food safety, sustainability, and market development for the spice industry
+It engages with
+farmers, processors, industry leaders, academia, and global spice associations
+It works with organizations like
+Spices Board India, Rainforest Alliance, GIZ (Germany), and IDH (Netherlands)
+Partners with
+global spice trade bodies
+like:
+American Spice Trade Association (ASTA)
+European Spice Association (ESA)
+International Pepper Community (IPC)
+Participates in
+national and international food safety regulations
+, including:
+FSSAI (India’s food safety authority)
+BIS (Bureau of Indian Standards)
+ISO (International Standards Organization)
+Codex Alimentarius (Global food safety standards)
+It serves as the
+technical partner
+All India Spices Exporters Forum (AISEF)
+Present Scenario of Spices
+India currently exports
+1.5 million tonnes of spices
+worth
+$4.5 billion
+, accounting for on
+e-fourth of the $20 billion global spice market
+. However, only 48% of these exports are
+value-added products
+, with the rest being whole spices.
+85% of India’s spices are consumed domestically
+, leaving
+limited surplus for exports
+Countries like Vietnam, Indonesia, Brazil, and China
+are emerging as
+strong competitors
+in the spice trade.
+Production:
+Major producing states
+: Madhya Pradesh, Rajasthan, Gujarat, Andhra Pradesh, Telangana, Karnataka, Maharashtra, Assam, Orissa, Uttar Pradesh, West Bengal, Tamil Nadu, and Kerala.
+During 2022-23, the export of spices from India stood at
+US$ 3.73 billion
+, up from
+US$ 3.46 billion
+in 2021-22.
+India produces about
+75 of the 109 varieties
+listed by the
+International Organization for Standardization (ISO)
+Major Produced and Exported Spices by India
+Pepper, cardamom, chili, ginger, turmeric, coriander, cumin, celery, fennel, fenugreek, garlic, nutmeg & mace, curry powder, spice oils
+oleoresins
+Out of these spices,
+chili, cumin, turmeric, ginger
+make up about
+76% of the total production
+Chilli
+is the leading export earner, generating
+$1.1 billion annually
+Ginger exports
+have a compound annual growth rate (CAGR) of
+27%
+Export:
+In 2023-24, India’s
+spice exports totalled $4.25 billion
+, accounting for a
+12% share
+of the global spice exports (till February 2024 data).
+India exported spices and spice products to
+159 destinations worldwide
+as of 2023-24. The top destinations were
+China, the USA, Bangladesh, the UAE, Thailand, Malaysia, Indonesia, the UK,
+Sri Lanka
+. These countries accounted for more than
+70% of total exports
+PYQ:
+[2019]
+Among the agricultural commodities imported by India, which one of the following accounts for the highest imports in terms of value in the last five years?
+(a) Spices
+(b) Fresh fruits
+(c) Pulses
+(d) Vegetable oils
+**********[pib] United Nations Commission on the Status of Women (UNCSW)
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+India’s Delegation led by Union Minister for Women and Child Developments will participate in the
+69th session
+of the United Nations Commission on the Status of Women (UNCSW).
+About
+Details
+Establishment and Mandate
+Founded in
+1946
+by the
+Economic and Social Council (ECOSOC)
+through
+Resolution 11(II)
+Initially focused on women’s political, economic, civil, social, and educational rights.
+Expanded in
+1996
+to include monitoring the
+Beijing Declaration
+and integrating gender perspectives into UN activities.
+Structure and Membership
+Composed of
+45 member states
+elected by ECOSOC based on geographical representation.
+13
+from
+Africa
+Asia
+Latin America and the Caribbean
+8
+Western Europe and other States
+Eastern Europe
+Members serve a
+four-year term
+Key Roles and Responsibilities
+Policy Formulation
+: Establishes global norms and standards for gender equality.
+Monitoring Progress
+: Reviews gender-related commitments, including the
+Advocacy and Awareness
+: Conducts research, publishes reports, and promotes women’s rights globally.
+Collaboration
+: Works with
+UN entities, NGOs
+civil society organizations
+to strengthen gender equality.
+Major Contributions
+Drafted key conventions like:
+Convention on the Political Rights of Women (1953)
+Convention on the Nationality of Married Women (1957)
+Convention on Consent to Marriage (1962)
+Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)
+(1979).
+Influenced the
+Universal Declaration of Human Rights (1948)
+Led preparatory work for the
+Fourth World Conference on Women
+Beijing (1995)
+Annual Sessions and Key Themes
+Held annually at
+UN Headquarters, New York
+Engages
+member states, NGOs
+UN agencies
+in discussions on gender-related policies.
+PYQ:
+[2009]
+With reference to the United Nations, consider the following statements:
+The Economic and Social Council (ECOSOC) of UN consists of 24 member States.
+It is elected by a 2/3rd majority of the General Assembly for a 3-year term.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+**********‘Brahmastra’ Missile
+Security Issues
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+'Brahmastra' Missile
+Why in the News?
+Indian scientists have achieved a breakthrough in
+hypersonic missile technology
+, developing a
+modern-day ‘Brahmastra’
+with an astonishing speed of
+12,144 km per hour (Mach 10)
+.
+About
+Brahmastra (Long Range Anti-Ship Missile – LRAShM):
+Brahmastra is a state-of-the-art
+hypersonic glide missile
+developed by the
+Defence Research and Development Organisation (DRDO)
+It is designed to
+neutralize enemy warships and strategic naval targets with extreme speed and precision
+With a speed of
+Mach 10 (12,144 km/h)
+and a
+range of 1,500 km
+, Brahmastra is one of the
+fastest and most lethal weapons in India’s defense arsenal
+The missile’s
+hypersonic glide vehicle technology
+allows it to
+evade enemy radar and missile defense systems
+, ensuring
+high-precision strikes on naval targets
+Features of Brahmastra:
+It can be
+launched from both land and naval platforms
+, enhancing India’s maritime strike capabilities.
+Due to its hypersonic speed,
+Brahmastra can destroy an enemy warship within 7 to 8 minutes of launch
+The missile is built with
+advanced heat-resistant materials
+, preventing it from
+disintegrating under extreme temperatures
+during flight.
+Unlike conventional missiles, Brahmastra
+retains its structural integrity even at hypersonic speeds
+, ensuring precise impact.
+It uses
+scramjet propulsion and glide vehicle technology
+for sustained hypersonic flight.
+adjust its trajectory mid-flight
+, making it
+highly maneuverable and difficult to intercept
+Its
+stealth and radar-evading capabilities
+ensure
+low detection probability
+, reducing the risk of interception.
+PYQ:
+[2014]
+Which reference to Agni-IV Missile, which of the following statements is/are correct?
+1. It is a surface-to-surface missile.
+2. It is fuelled by liquid propellant only.
+3. It can deliver one-tonne nuclear warheads about 7500 km away.
+Select the correct answer using the code given below:
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********Places in news: Anchar Lake
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Anchar Lake, a vital water body in Kashmir, is renowned for producing
+Nadru
+(lotus stem)
+, an aquatic delicacy that holds cultural, culinary, and economic significance in the region.
+About Anchar Lake
+Anchar Lake is situated in
+Soura, Srinagar
+near Ganderbal.
+It is
+connected to Dal Lake
+via Amir Khan Nallah, which passes through Gilsar and Khushal Sar Lakes.
+The lake is a part of the
+Sindh River Delta
+and plays a crucial role in supporting local aquatic ecosystems.
+It is an integral part of the
+Shallabugh Wetland
+, which covers 1,675 hectares and serves as a designated
+bird sanctuary
+Its features:
+It provides an essential
+habitat for
+migratory birds
+and various native aquatic species.
+It functions as
+a flood-control reservoir
+, receiving excess water from Dal Lake during heavy rainfall.
+It is home to the
+Hanji community
+, whose livelihood traditionally depended on fishing and other lake-based activities.
+PYQ:
+[2018]
+Which one of the following is an artificial lake?
+(a) Kodaikanal (Tamil Nadu)
+(b) Kolleru (Andhra Pradesh)
+(c) Nainital (Uttarakhand)
+(d) Renuka (Himachal Pradesh)
+**********

@@ -1,0 +1,795 @@
+Futures & Options Trading
+Why in the News?
+The SEBI has proposed a series of short-term measures to curb speculative trading in index derivatives (futures & options).
+What’s in Today’s Article?
+About Futures & Options (Meaning, Key Features, Applications, Examples, etc.)
+Difference between F&O
+News Summary
+About Futures & Options:
+Futures and options are two fundamental types of derivatives in financial markets.
+They are financial contracts that derive their value from the performance of an underlying asset, such as stocks, commodities, currencies, or indexes.
+These instruments are used for hedging risks, speculating on price movements, and gaining leverage in financial markets.
+About Futures Trading:
+A futures contract is a standardized agreement to buy or sell a specific quantity of an asset at a predetermined price on a specific future date.
+Key Features Include:
+Standardization:
+Futures contracts are standardized in terms of quantity, quality, and delivery date, facilitating liquidity and ease of trading.
+Leverage:
+Traders can control large positions with a relatively small amount of capital, known as margin.
+Obligation:
+Both the buyer and the seller are obligated to fulfil the contract terms at expiration unless the position is closed before the expiry date.
+Applications:
+Hedging:
+Producers and consumers of commodities use futures to hedge against price fluctuations. For example, a wheat farmer may sell wheat futures to lock in a price for their harvest.
+Speculation:
+Traders use futures to speculate on price movements, aiming to profit from market volatility.
+Example:
+If a trader believes the price of crude oil will rise, they may purchase a crude oil futures contract. If the price increases, they can sell the contract at a profit.
+About Options Trading:
+An options contract gives the holder the right, but not the obligation, to buy (call option) or sell (put option) an underlying asset at a specified price (strike price) before or on a specified date.
+Right, Not Obligation:
+Unlike futures, options give the holder the right to execute the contract, providing more flexibility.
+Premium:
+The buyer of an option pays a premium to the seller for this right. The premium is the cost of the option.
+Options provide leverage, allowing traders to gain significant exposure with a relatively small investment.
+Types of Options:
+Call Option:
+Grants the holder the right to buy the underlying asset at the strike price.
+Put Option:
+Grants the holder the right to sell the underlying asset at the strike price.
+Investors use options to protect against adverse price movements in their portfolio. For instance, purchasing put options can hedge against a potential decline in stock prices.
+Traders use options to bet on the direction of market movements. Call options are bought when expecting a price rise, while put options are bought when expecting a price fall.
+A trader buys a call option for stock XYZ with a strike price of ₹100, expiring in one month, by paying a premium of ₹5.
+If the stock price rises to ₹120, the trader can exercise the option to buy at ₹100 and sell at ₹120, making a profit (excluding the premium paid).
+Differences Between Futures and Options:
+Futures contracts impose an obligation on both parties to fulfil the contract terms, while options grant the right without obligation.
+Risk and Reward:
+Futures involve higher risk as both potential gains and losses are unlimited. Options limit the buyer's loss to the premium paid, though potential gains are also substantial.
+Flexibility:
+Options provide more flexibility with the right to execute the contract, whereas futures require execution unless closed before expiry.
+Short-term measures to curb speculative trading:
+The Securities and Exchange Board of India has proposed several short-term measures to curb speculative trading in index derivatives (futures and options), protect investors, and ensure market stability.
+Key proposals include restricting multiple option contract expirations, raising the size of options contracts, and implementing intraday monitoring of position limits.
+These measures follow Finance Minister Nirmala Sitharaman's proposal to double the Securities Transaction Tax (STT) on futures and options from October 1, 2024, to address the surge in trading volume.
+Need for Such Measures:
+SEBI's consultation paper noted that
+92.50 lakh unique individuals and firms traded in index derivatives in 2023-24, incurring a cumulative loss of Rs 51,689 crore, with 85% of traders experiencing net losses
+The paper recommends increasing the minimum contract size for index derivatives in two phases, reflecting the rise in benchmark indices over the past nine years.
+Additionally, SEBI suggests rationalizing options strikes, requiring upfront collection of option premiums, and eliminating margin benefits for calendar spread positions with contracts expiring on the same day.
+To mitigate high implicit leverage risks near options expiry,
+SEBI proposes increasing margins on the day before and on expiry day
+The consultation paper aims to enhance investor protection and promote stability in derivative markets.
+newspaper.pdf
+( Size:  640.6 KB  )
+Click to View More
+Economics
+**********Status of Lithium Reserves and Exploration in India
+Why in News?
+The Ministry of Mines was forced to scrap the auction for the lithium block in Jammu and Kashmir’s (J&K’s) Reasi district for the second time, following weak investor response.
+This comes nearly 18 months after then Mines Secretary announced the discovery of an inferred deposit of 5.9 million tonnes of lithium ore in Reasi, expected to be among the largest deposits in the world.
+What’s in Today’s Article?
+Lithium Reserves in India
+Why Access to or Control over Lithium is Important?
+What is the Reason Behind Investors Staying Away from Li Block Auctions?
+What is the Status of Other Lithium Deposits in India?
+Way Ahead to Boost Li Exploration in India
+Lithium Reserves in India:
+is a soft, silvery-white
+non-ferrous metal
+and is
+one of the key components in rechargeable batteries
+for mobile phones, laptops, digital cameras and electric vehicles.
+It is also used in some non-rechargeable batteries for things like
+heart pacemakers, toys and clocks.
+The Geological Survey of India (GSI) had for the
+first time in India's history
+established Lithium inferred resources of 5.9 million tonnes in
+Jammu and Kashmir’s Reasi district.
+Months after India's first lithium reserves,
+the GSI has found another reserve of the crucial mineral
+in Degana in Rajasthan's Nagaur district.
+These reserves are believed to be much bigger in quantity (than found in J&K) and
+can meet 80% of the total country's demand.
+India’s electric-vehicle (EV) market
+was valued at $383.5 million in 2021, and is expected to expand to $152.21 billion in 2030.
+India imported 450 million units of lithium batteries
+valued at $929.26 million (₹6,600 crore) in 2019-2020.
+The ongoing global transition
+to low-carbon economies, the rapid expansion of AI and 5G networks will greatly
+reshape global and regional geopolitics
+in favour of those possessing and producing lithium.
+Difficulties around extracting and processing lithium:
+From hard rock pegmatite deposits.
+Underdeveloped mineral reporting standards:
+Used in tender documents.
+Other complaints of prospective bidders
+Bid documents have limited information of the block,
+Block being too small to apply modern mineral systems-based tools,
+No clarity on whether any beneficiation study had been conducted to assess the feasibility of extracting and processing lithium from the resources identified in J&K,
+Absence of an investor-friendly resource classification code, etc.
+In Chhattisgarh:
+The Ministry of Mines successfully
+auctioned off India’s first lithium block
+in Chhattisgarh’s
+Korba
+district recently.
+Also, a private exploration company funded by the National Mineral Exploration Trust (NMET) has found hard rock lithium deposits ranging from 168 to 295 parts per million (ppm) in
+In other states:
+Lithium exploration in other states
+has not been as fruitful
+In Manipur,
+efforts to explore lithium in Kamjong district were stalled due to resistance from locals in the area.
+In Ladakh’s Merak block
+, very close to the border between India and China, a lithium exploration funded by NMET yielded results that are not encouraging.
+In Assam’s Dhubri and Kokrajhar districts,
+the NMET recommended to drop the plan of upgradation of a lithium exploration.
+Way Ahead to Boost Li Exploration in India:
+Need to improve reporting standards:
+Clarity on the economic viability of mining lithium
+is important as the extraction process is expensive, and with global lithium prices falling significantly, miners are increasingly eager to maintain their margins.
+India’s current resource classification rules are largely based on the
+UN Framework Classification for Resources (UNFC),
+which do not provide sufficient information to determine the economic viability of mining a mineral block.
+Most regulatory bodies across the world adhere to the
+Committee for Mineral Reserves International Reporting Standards (CRIRSCO)
+template, which requires the reporting of economically viable reserves.
+Hence, India should adopt CRIRSCO-aligned internationally-compliant mineral reporting standards to attract private investment in the sector.
+Allocation to the government companies:
+The blocks that have not received the bare minimum bids should be allocated to the government companies for prospecting or mining operations.
+This is allowed under the Mines and Minerals (Development and Regulation) (MMDR) Act.
+Global best practices:
+Chile
+, the government has designated lithium as a
+strategic resource
+and its development has been made the
+exclusive prerogative of the state
+newspaper.pdf
+( Size:  1.8 MB  )
+Click to View More
+Economics
+**********Reasons Behind Leh flight cancellations
+Why in news?
+High temperature at high altitude is disrupting flight operations to and from Leh, located at nearly 10,700 feet above the mean sea level.
+What’s in today’s article?
+How do aircraft fly?
+High temperatures and impact on aircraft’s flight
+Role of global warming
+Aircraft wings are designed with the top surface more curved than the bottom. As the aircraft moves, air flows faster over the top of the wings than beneath them.
+According to
+Bernoulli’s principle
+, this faster-moving air results in lower pressure above the wings compared to the pressure below.
+Bernoulli's principle: Within a horizontal flow of fluid, points of higher fluid speed will have less pressure than points of slower fluid speed.
+This pressure difference generates a force known as lift, which helps the aircraft take off.
+Thinning of air and loss of required lift
+Higher temperatures cause air to expand and become less dense, resulting in fewer air molecules beneath an aircraft's wings to generate sufficient lift.
+According to experts of atmospheric science,
+aircraft lose about 1% lift for every 3°C temperature increase
+Impact on engine performance
+Thinner air also affects engine performance by reducing the oxygen available for combustion, thereby decreasing thrust.
+As a result, planes need longer runways and more powerful engines to take off in hotter conditions.
+For example, a runway that is 6,500 feet at 20°C would need to be 8,200 feet at 40°C. In extreme heat, takeoff can become impossible.
+Landing becomes more challenging
+Thinner air also makes landings more challenging. In addition to the brakes on the wheels, pilots use reverse thrust (literally, thrust in the opposite direction to the movement of the aircraft) to slow down the aircraft while landing.
+In case of thin air, the reverse thrust generated might not be enough to perform the task.
+Situation at Leh
+These issues are particularly felt in airports located in higher altitudes (like the one in Leh),
+where the air is anyway thin and runways are often shorter
+The extreme heat affecting aircraft take-offs and landings is a result of global warming.
+Since 1880, the global average temperature has risen by at least 1.1°C, and in India, annual mean temperatures have increased by about 0.7°C since 1900.
+Studies show that higher temperatures are already disrupting air travel.
+A 2020 study on Greek airports found that the warming trend reduced the maximum take-off weight of the Airbus A320 by 127 kg per year, impacting lift and thrust.
+A 2023 study predicted that rising temperatures will increase the take-off distance for a Boeing 737–800 by 6% on average by 2071-2080, requiring an additional 113-222 meters at low-altitude airports.
+In the short term,
+airports must adapt by scheduling flights during cooler times, extending runways, and reducing take-off weights
+Long-term solutions involve significantly reducing fossil fuel consumption to mitigate global warming.
+Reasons Behind Leh flight cancellations.pdf
+( Size:  2.3 MB  )
+Click to View More
+Science & Tech
+**********Kerala landslide
+Why in news?
+At least 144 persons were killed and 197 injured after multiple landslides flattened some three villages in Vythiri taluk of the hilly Wayanad district of Kerala early on July 30.
+What’s in today’s article?
+Landslide
+Landslide in Wayanad
+Landslide and what Causes one?
+About
+A landslide is defined as the movement of a mass of rock, debris, or earth down a slope.
+Landslides are a type of "
+mass wasting
+," which denotes any down-slope movement of soil and rock under the
+direct influence of gravity
+Landslides occur mainly in mountainous terrains where there are conducive conditions of soil, rock, geology and slope.
+Natural Causes
+that trigger it include heavy rainfall, earthquakes, snow melting and undercutting of slopes due to flooding.
+Landslides can also be caused by
+Anthropogenic Activities
+such as excavation, cutting of hills and trees, excessive infrastructure development, and overgrazing by cattle.
+In India, rainfall-induced landslide events are more common.
+Classification and mapping of Landslides
+A massive landslide struck the hilly areas of Meppadi in Kerala's Wayanad district, killing at least 144 people.
+The tragedy occurred past midnight, with the first landslide hitting around 1 am and a second one following at 4:30 am.
+Possible reasons behind Wayanad Landslide
+Heavy rainfall
+Extremely heavy rainfall, a fragile ecology particularly vulnerable to landslides, and steadily increasing population pressures all combined to trigger multiple landslides.
+The region received more than 140 mm of rainfall in the 24 hours between the mornings of Monday and Tuesday, about five times more than what is expected.
+Heavy rains during the monsoon season trigger landslides in Kerala almost every year.
+Hilly terrain with sharp slopes
+whole of western Kerala, which is a hilly terrain with sharp slopes
+, is susceptible to landslides.
+According to the landslide atlas released by the Indian Space Research Organisation's (ISRO) National Remote Sensing Centre in 2023,
+10 out of the 30 most landslide-prone districts in India were located in Kerala, with Wayanad ranked 13th
+The terrain here has
+two distinctive layers
+, a layer of soil sitting atop hard rocks.
+When a lot of rain happens, the soil gets saturated with moisture and water reaches the rocks and flows between the soil and the rock layers.
+This weakens the force that binds the soil to the rocks and triggers the movement.
+Loss of green cover
+A 2021 study on landslide hotspots in India revealed that 59 per cent of the total landslides in Kerala occurred in plantation areas.
+Loss of forests increase the fragility of the terrain, especially in areas prone to heavy rains in the western ghats.
+Climate change
+Climate scientists have pointed towards the warming of the Arabian Sea as one of the causes for the extremely heavy and unpredictable rain patterns in the state.
+The southeast Arabian Sea is becoming warmer, causing the atmosphere above this region, including Kerala, to become thermodynamically unstable.
+Scientists have noticed a trend of deep cloud systems forming due to the warming of the Arabian sea.
+This causes extremely heavy spells of rain in shorter periods of time, increasing the risk of landslides, especially when these intrude into land.
+Environmental neglect and mining
+Since 2011, the "
+Western Ghats Ecology Expert Panel
+" set up by the government under ecologist Madhav Gadgil, has
+recommended that the Wayanad hill ranges be declared ecologically sensitive
+The panel recommended that
+75% of the 129,037 sq km area of the mountain range be declared ecologically sensitive
+because of the presence of dense forests, a large number of endemic species and unique geology.
+The panel also said that the region needed to be divided into zones based on their ecological sensitivity, where the most vulnerable sections needed to be monitored and protected him from rampant commercial activity.
+They recommended a ban on mining, quarrying, new thermal power plants, hydropower projects and large-scale wind energy projects in ecologically sensitive zone 1.
+The suggestions made by the panel have not been implemented even after 14 years due to resistance from state governments, industries and local communities.
+Kerala landslide.pdf
+( Size:  1.9 MB  )
+Click to View More
+Geography
+**********The different armed groups of Myanmar     
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Bordering state with Myanmar
+Mains level:
+Role of India in Myanmar
+Why in the news?
+On July 25, Myanmar’s junta and an ethnic group both claimed control of Lashio’s military command after clashes began on July 3.
+Background
+The 2021 Military coup in Myanmar triggered sustained violent resistance which undermined military control.
+Ethnic Armed Organisations (EAOs)
+and resistance groups, including the
+People’s Defence Forces (PDFs) and the Brotherhood Alliance, have made significant territorial gains.
+The military’s fragile ceasefires have collapsed, leading to a loss of control in strategic areas, including Lashio, with reinforcements now concentrated near Mandalay.
+The dominance of the Arakan Army
+Large parts of Rakhine province have fallen under the control of the Arakan Army, an ethnic Rakhine Buddhist armed group.
+The Arakan Army has seized territories on the borders with Bangladesh, including towns like Buthidaung, and is advancing towards important port cities on the Bay of Bengal coast like Kyauk Phyu, Sittwe, and Ngapali.
+Control over these coastal areas gives the Arakan Army leverage to impact the implementation of infrastructure projects like China’s Belt and Road Initiative in Kyauk Phyu and India’s Kaladan project in Sittwe.
+Objectives of Ethnic Armed Organizations (EAOs)
+Major EAOs have refrained from
+declaring independence or creating new sovereign states,
+likely to avoid rallying renewed support for the military.
+EAOs aim to
+establish a genuine federal democratic structure with maximum autonomy for provinces
+, with some advocating for a confederation.
+Carving out
+new nation-states is challenging due to complex ethnic geographies and overlapping
+claims over homelands.
+China’s Influence
+China has
+engaged with
+multiple actors, including the
+military and various EAOs
+, to protect its massive investments and economic interests in the region.
+Beijing has
+facilitated temporary ceasefires between the military and EAOs
+and maintains substantive relations with armed groups like the Brotherhood Alliance and United Wa State Army.
+China has reportedly
+supplied defence equipment to both the military and EAOs
+, ensuring fragmented sovereignty in Myanmar
+India’s role
+India can
+share its experiences and institutional frameworks on federalism with stakeholders
+in Myanmar to help establish a new constitutional framework based on the principles of federalism and democracy.
+Example:
+Despite the ongoing civil war, India has successfully constructed massive infrastructure projects in neighbouring Afghanistan, demonstrating its potential to contribute to regional peace and prosperity in Myanmar.
+Way forward
+Facilitate Dialogue and Mediation:
+To address the ongoing conflict in Myanmar, it is crucial for regional powers, including India and China, to facilitate dialogue between the military junta, Ethnic Armed Organizations (EAOs), and the National Unity Government (NUG).
+Enhance Humanitarian Support and Development Initiatives:
+In parallel with diplomatic efforts, there should be an increase in humanitarian assistance to affected populations in conflict zones, particularly in Rakhine State and areas controlled by the Arakan Army.
+Mains PYQ:
+Examine the scope of Fundamental Rights in the light of the latest judgement of the Supreme Court on the Right to Privacy.
+(2020)
+**********The case for a Legal Advisory Council  
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Legal Issues and the Puttaswamy Case Judgment
+Mains level:
+Need of Think Tank
+Why in the news?
+Legal insights from well-structured think tanks can be crucial in clarifying the true intent of specific legislation for the government.
+Scope to Review the Process of Legal Consultancy
+Need for Structured Legal Inputs:
+The handling of legal issues by the National Democratic Alliance has been inadequate. There is a need for continuous, informed, and empirically valid legal inputs from structured think tanks to clarify legislative intents.
+Proposal for a Legal Advisory Council (LAC):
+Establishing a LAC akin to the Economic Advisory Council could provide the Prime Minister with timely legal analysis and insights, helping to preempt legal challenges and enhance the legislative process.
+Need of Think Tank:
+Expert Legal and Policy Analysis:
+Well-structured think tanks provide
+informed and empirical legal analysis
+that can enhance the legislative process.
+Facilitation of Evidence-Based Decision Making:
+Think tanks can contribute to
+evidence-based decision-making
+by conducting research and providing data-driven insights on complex legal and social issues.
+Recent Legal Issues and the Puttaswamy Case Judgment
+Electoral Bonds Scheme:
+The Supreme Court recently ruled the
+electoral bonds scheme unconstitutional for violating voters’ right to information
+. This decision highlights the importance of conducting proportionality tests before implementing laws to balance privacy rights with transparency.
+Aadhaar Act Intervention:
+A similar
+legal examination prior to the implementation
+of the Aadhaar Act could have prevented the Supreme Court’s intervention in the
+K.S. Puttaswamy v. Union of India case
+, which addressed privacy concerns.
+Transporter Strike:
+Concerns over the
+hit-and-run provisions in the Bharatiya Nyaya Sanhita, 2023
+, led to nationwide protests by transporters, indicating the need for thorough legal viability assessments before introducing potentially problematic legislation.
+Anticipating Challenges
+Proactive Legal Analysis:
+The proposed LAC would conduct legal analyses of issues referred by the government and perform suo motu research on contemporary legal matters, allowing for proactive identification of
+potential legal challenges
+Engagement with National Law Universities:
+Leveraging the expertise of
+national law universities can enhance the legal consultancy process
+, ensuring that laws are constitutionally viable and socially acceptable. Regular research inputs from these institutions can aid in formulating better legislation and addressing legal challenges before they escalate.
+Way forward:
+The LAC should comprise
+legal experts, eminent jurists, academicians, and researchers
+with specializations in various fields frequently legislated upon by the government, such as criminal law, trade law, international law, business laws, and taxation laws.
+Establish formal mechanisms for collaboration, such as the
+Committee for Reforms in Criminal Laws at the National Law University Delhi set up by the Ministry of Home Affairs,
+to facilitate the exchange of ideas and research between the
+government and academia.
+**********Why Israel-Hezbollah conflict is heating up?   
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Location of Golan Heights
+Mains level:
+Issues between Israel and Palestine
+Why in the news?
+Israel has announced that it would retaliate strongly against Hezbollah, accusing the group of being responsible for a rocket attack that killed 12 children and teenagers at a football field in the Israeli-occupied Golan Heights.
+Background of Golan Heights:
+The Golan Heights was
+captured by
+during the
+Six-Day War in 1967
+from Syria
+and has since been a point of contention between the two nations. In 1981, Israel effectively annexed the territory, a move not recognized by the international community.
+Strategic Importance:
+The Golan Heights offers a commanding view of northern Israel and southern Syria, making it a critical military and strategic area. Its
+elevation allows for surveillance and control over surrounding regions,
+including the ability to monitor movements from Syria.
+Causes of the conflict:
+Support for Palestinians:
+Hezbollah’s attacks on Israel are framed as support for Palestinians
+facing Israeli bombardment in Gaza, particularly
+following the Hamas attacks on October 7, 2023. Hezbollah
+, as a member of the Iran-backed Axis of Resistance, has aligned itself with Hamas and other militant groups in the region.
+Historical Hostilities:
+The conflict is rooted in a long history of
+hostility between Israel and Hezbollah, which was founded in 1982 to combat Israeli forces in Lebanon.
+Hezbollah views Israel as an illegitimate state and seeks its removal, which fuels ongoing tensions and military engagements.
+Escalating Military Capabilities:
+Hezbollah has significantly enhanced its military capabilities since the 2006 war, possessing a large arsenal of rockets and advanced weaponry. This includes the ability to strike deep into Israeli territory, increasing the stakes for both sides in any conflict.
+Implications of the Conflict
+Humanitarian Impact:
+The ongoing hostilities have resulted in significant civilian casualties and displacement on both sides of the border.
+Israeli airstrikes in Lebanon have killed Hezbollah fighters and civilians, while Hezbollah’s attacks have resulted in Israeli casualties.
+The humanitarian toll is exacerbated by the broader context of the Gaza war.
+Regional Stability:
+The conflict poses a
+risk of broader regional destabilization,
+potentially drawing in other actors and escalating into a full-scale war.
+Political Ramifications:
+The conflict has significant political implications for both Israel and Lebanon. In Israel, the
+displacement of civilians
+has become a pressing political issue, while Hezbollah’s actions may influence its standing within Lebanon and the broader Shiite community.
+How escalation can be avoided on the Global Stage?
+Diplomatic Engagement:
+United States and other international actors
+must continue to engage in diplomatic efforts aimed at de-escalating tensions. This includes
+facilitating dialogue between Israel and Hezbollah
+, as well as addressing the underlying
+issues related to the Gaza conflict
+. A ceasefire in Gaza could help reduce hostilities in Lebanon.
+Regional Agreements:
+Need to make
+efforts to establish regional agreements that address territorial disputes and security concerns
+that can mitigate the risk of conflict.
+Monitoring and Mediation:
+International bodies, including the United Nations, should increase their monitoring of the situation and mediate discussions between the conflicting parties. This
+can help prevent misunderstandings and miscalculations
+that could lead to escalated military responses.
+Role of India in this situation: (Way forward)
+Engaging with Arab Nations:
+India should also maintain and strengthen its relationships with Arab nations, including Lebanon, to ensure a balanced approach. This e
+ngagement can help India navigate the complexities of the situation and position itself as a neutral party
+that seeks to promote peace and stability in the region.
+Facilitating Dialogue:
+By
+promoting dialogue between the conflicting parties,
+India can help de-escalate tensions and work towards a peaceful resolution.
+Mains PYQ:
+India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.” Discuss.
+(2018)
+**********US overtaskes UAE as India’s second largest LNG supplier   
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Data related to LNG import
+Mains level:
+Trade dynamics related to LNG
+Why in the news?
+In 2023, the US surpassed the UAE to become India’s second-largest supplier of liquefied natural gas (LNG), providing 3.09 million tonnes (MT).
+World LNG Report 2024 by International Gas Union (IGU)
+US as a Major Supplier:
+The report highlights that the
+United States has displaced the UAE
+with shipments reaching 3.09 million tonnes (MT).
+Trade Growth:
+The US supplied India with
+1.8 MT of LNG in 2019,
+which increased to
+3.86 MT in 2021
+, indicating a significant rise in trade volume despite a decrease in 2022 due to rising prices.
+Qatar’s Dominance:
+Qatar remained India’s largest LNG supplier from 2019 to 2023,
+with shipments peaking at
+10.92 MT in 2023,
+reflecting its consistent role in India’s energy supply.
+The decline of African Suppliers:
+The report notes a significant
+decline in LNG shipments from African nations
+, particularly
+Nigeria and Angola
+, which saw their exports to India drop from pre-pandemic levels of around
+2.7 MT and 2.9 MT, respectively, to just 0.73 MT each in 2023.
+Present trade dynamics
+Price Sensitivity:
+Indian companies remain price-sensitive, with LNG imports being contingent on competitive pricing. Analysts suggest that if LNG prices stay below $12 per mBtu, there could be significant growth in imports.
+Geographical Advantage:
+The proximity of
+US LNG cargoes to India via the Cape of Good Hope makes it more cost-effective for sellers to export to India
+compared to North Asia.
+Long-term Contracts:
+Ongoing long-term contracts signed by
+Indian entities with US suppliers continue to underpin LNG consumption
+, despite fluctuations in global prices.
+Use of LNG in India:
+Fertilizer Sector:
+The fertilizer sector remains the largest consumer of LNG in India, contributing to
+32% of the total natural gas consumption
+Power Sector:
+The power sector accounted for
+12% of the total natural gas consumption
+in India.
+City Gas Distribution (CGD) Sector:
+CGD entities accounted for
+19% of the total natural gas
+consumption in India
+What can be done?
+Strengthening Domestic Policies:
+India could benefit from reforms in domestic gas policies, including
+greater transparency over LNG inventory levels and improvements in gas pipeline capacity,
+to enhance the efficiency of LNG imports and distribution.
+Creating Price Stability:
+The need to establish a
+stronger index link between LNG import prices and domestic gas prices
+could mitigate price risks for LNG importers, ensuring that long-term contracts remain aligned with market conditions.
+Enhancing Infrastructure:
+Govt.
+should invest in LNG infrastructure, including regasification terminals and transportation networks,
+which can facilitate increased imports and improve supply chain efficiency.
+Diversifying Supply Sources:
+To reduce dependency on specific regions,
+India should explore diversifying its LNG supply sources
+, including potential agreements with emerging suppliers in different regions.
+**********[pib] National Pharmaceutical Pricing Authority (NPPA)
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+NPPA monitors
+the prices of scheduled as well as non-scheduled medicines under
+Drugs (Prices Control) Order, 2013 (DPCO, 2013),
+informed the Union Minister of State for Chemicals and Fertilizers.
+What are Scheduled and Non-Scheduled Formulations?
+[A] Scheduled Formulations:
+Defined as formulations
+listed in Schedule-I
+of the Drugs (Prices Control) Order, 2013 (DPCO, 2013).
+Ceiling prices
+of these formulations are
+revised annually
+based on the
+Wholesale Price Index (WPI)
+for the preceding calendar year.
+is responsible for revising and notifying these prices.
+[B] Non-Scheduled Formulations:
+not included in Schedule-I
+of the DPCO, 2013.
+Prices of these formulations can be increased by manufacturers
+, but the Maximum Retail Price (MRP) cannot be increased by more than 10% during the preceding 12 months.
+NPPA also monitors the prices
+of non-scheduled formulations to ensure compliance.
+Action is taken against companies selling formulations at prices higher than permissible, and overcharged amounts are recovered.
+About National Pharmaceutical Pricing Authority (NPPA)
+NPPA was set up as an
+independent regulator
+August 29, 1997
+, for drug pricing and ensuring affordable access to medicines.
+It is an attached office of the
+Department of Pharmaceuticals (DoP), Ministry of Chemicals & Fertilizers.
+NPPA is
+not a Statutory or Constitutional Body.
+It is responsible for
+implementing and enforcing the
+provisions of the
+Functions of NPPA:
+Fixation and revision of prices of ‘Scheduled’ drugs under Drug (Price Control) Orders.
+Scheduled drugs
+(15% of the pharma market) are allowed an increase based on WPI.
+Non-scheduled drugs
+(85% of the pharma market) are allowed an automatic 10% increase annually.
+Monitoring and enforcement of
+drug prices.
+Ensuring availability and accessibility of all
+medicines and medical devices
+, including non-scheduled drugs.
+Undertaking or sponsoring
+studies
+on drug pricing.
+Collecting and maintaining data
+on production, exports, imports, market share, and profitability of pharmaceutical companies.
+Advising the Central Government
+on changes or revisions in drug policy.
+Back2Basics:
+Drugs (Prices Control) Order (DPCO)
+The DPCO is an order issued by the Government of India under
+Sec. 3 of
+Essential Commodities Act, 1955
+to regulate the prices of drugs.
+The Order provides the
+list of price controlled drugs
+, procedures for fixation of prices of drugs, method of implementation of prices fixed by Govt., penalties for contravention of provisions etc.
+Under the provisions of DPCO 2013, only the prices of drugs that figure in the
+National List of Essential Medicines (NLEM)
+are monitored and controlled by the regulator, the National Pharmaceutical Pricing Authority.
+Essential medicines
+are those that
+satisfy the priority healthcare needs
+of the majority of the population.
+PYQ:
+[2019]
+How is the Government of India protecting traditional knowledge of medicine from patenting by pharmaceutical companies?
+**********In new: Mekedatu Project
+Governance
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Karnataka CM has offered to discuss with Tamil Nadu, the implementation of
+Mekedatu Project across River Cauvery.
+About Mekedatu Project
+Mekedatu is a location along
+Kaveri
+in the border of
+Chamarajanagar and Ramanagara Districts
+Karnataka intends to build a
+reservoir
+near Mekedatu.
+The dam is proposed to have a
+capacity of 48 TMC
+feet
+(thousand million cubic) and is estimated to cost
+Rs 6,000 crore
+It was
+first proposed in 2003
+with an intention:
+To use the water for a
+hydro power station (400 MW)
+Supply
+drinking water
+to Bengaluru city.
+At Mekedatu, the Kaveri runs through
+a deep, narrow ravine
+of hard granite rock
+Tamil Nadu’s concerns over the Project
+Tamil Nadu has all along strongly opposed the project and approached the Supreme Court as well.
+Its argument is that any dam proposal by
+upper riparian states
+in the Cauvery basin
+would deprive the state’s delta farmers
+of their rightful share of water as per the top court verdict.
+Tamil Nadu contends that the proposed dam violates the final award of the
+Cauvery Water Disputes Tribunal
+, which determined the water-sharing arrangements between the two states.
+About Cauvery River
+The Cauvery River, also spelled as ‘Kaveri’ and known as ‘
+Ponni’
+in Tamil
+, originates from
+Talakaveri in the Brahmagiri
+located in Karnataka’s
+Kodagu district.
+It spans approximately
+800 km
+, traversing through the states of Karnataka and Tamil Nadu, until it eventually
+discharges in the
+Bay of Bengal
+The river’s catchment area covers regions in
+Tamil Nadu, Kerala, Karnataka, and the Union Territory of Pondicherry.
+Key tributaries
+that join the Cauvery include
+Harangi, Hemavati, Kabini, Suvarnavathi, and Bhavani
+remains perennial due
+to its dual reliance on both
+advancing and retreating monsoons
+for rainfall.
+Justifications and proposals by Karnataka
+Ensuring adequate flow to TN:
+Karnataka argues that the construction of the Mekedatu dam will not hinder the stipulated quantum of water release to Tamil Nadu nor be utilized for irrigation purposes.
+Allocation of funds and willingness to negotiate:
+The Karnataka government has earmarked Rs 1,000 crore for the project, indicating its commitment. It also expresses willingness to engage in discussions and negotiations with Tamil Nadu to address concerns and find a resolution.
+Clearance of feasibility study:
+The Central Water Commission cleared a feasibility study for the Mekedatu project in 2018, providing additional support for Karnataka’s justifications and indicating the project’s viability.
+PYQ:
+[2016]
+Recently, linking of which of the following rivers was undertaken?
+(a) Cauvery and Tungabhadra
+(b) Godavari and Krishna
+(c) Mahanadi and Sone
+(d) Narmada and Tapti
+**********[pib] India concludes 46th World Heritage Committee Session in New Delhi
+History and Art & Culture
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+46th World Heritage Committee, UNESCO
+Why in the News?
+The 46th Session of the
+has concluded successfully.
+It was the
+first time
+India hosted
+this international assembly.
+Capacity-building initiatives proposed by India
+pledged $1 million
+to the UNESCO World Heritage Centre to support capacity-building initiatives and conservation projects in developing countries.
+India proposed to develop and implement
+training programs
+for heritage professionals
+from around the world.
+exchange programs
+for heritage professionals and researchers.
+Leading Indian heritage institutions, such as the
+Archaeological Survey of India and the Indian National Trust for Art and Cultural Heritage (INTACH)
+, will play a key role in implementing the initiatives.
+About the World Heritage Young Professional Forum
+The World Heritage Young Professionals Forum is an
+initiative by UNESCO
+to engage young professionals in the field of heritage conservation.
+The first World Heritage Young Professionals Forum was
+organized in 1995.
+The primary aim is to
+engage young professionals in heritage conservation
+and management through capacity building, networking, and awareness-raising.
+Back2Basics: UNESCO World Heritage Sites
+Description
+Landmarks or areas selected by UNESCO for their cultural, historical, scientific, or other significant value, legally protected by international treaties.
+Importance
+represent collective and preservative interests of humanity, signifying remarkable accomplishments and intellectual history.
+Selection Criteria
+Sites must be already-classified landmarks, unique and significant culturally or physically, such as ancient ruins, historical structures, cities, monuments, etc.
+Conservation
+World Heritage Sites require practical conservation to protect them from risks like trespassing, uncontrolled access, or administrative negligence.
+Selects and monitors World Heritage Sites, manages the World Heritage Fund, and provides financial assistance. Composed of 21 states parties elected for a four-year term.
+Membership
+India is not a member of the World Heritage Committee.
+PYQ:
+[2014]
+Consider the following international agreements:
+The International Treaty on Plant Genetic Resources for Food and Agriculture
+The United Nations Convention to Combat Desertification
+The World Heritage Convention
+Which of the above has / have a bearing on the biodiversity?
+(a) 1 and 2 only
+(b) 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+**********Why are Russian athletes ‘banned’ from the 2024 Paris Olympics?
+International Relations
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Athletes from
+Russia and Belarus
+are banned from participating in the ongoing
+under their nations’ official flags.
+Many of them compete under a separate category called Athletes Individuals Neutres (AIN) in French, which means
+Individual Neutral Athletes.
+Reason
+The
+ongoing war in Ukraine
+and the
+conflict between Israel and Hamas
+add to the geopolitical tensions.
+The Paris Summer Olympics are “
+most geopolitically charged Olympics in decades
+.”
+International Olympic Committee (IOC)
+sanctioned
+Russia and Belarus after the
+Russian invasion of Ukraine in 2022
+The invasion violated the
+Games’ Olympic Truce
+, which says natio
+ns should not attack each other
+1 week before the Olympics
+1 week after the Paralympics
+Belarus was implicated for allegedly allowing Russia to use its territory for military purposes.
+October 2023
+Russian Olympic Committee was suspended
+after declaring authority over Ukrainian sports organizations in certain regions.
+Political Neutrality and Violations
+The IOC cited Russia’s
+International Friendship Association (IFA)
+as a
+political body
+violating the IOC charter.
+The charter states that
+within the Olympic Movement
+apply political neutrality.
+Russia’s announcement
+Friendship Games in 2024
+led to accusations of
+politicizing sports.
+Critics note the
+concept of “political neutrality” is not based on objective criteria
+and is challenging to interpret consistently.
+What is Individual Neutral Athletes (AINs)?
+The IOC allows athletes from these countries to
+participate as individual-neutral
+athletes (AINs).
+Athletes must not represent their country
+or any associated organization.
+They
+cannot actively support the Russian invasion
+of Ukraine.
+AINs are
+athletes with Russian or Belarusian passports
+qualified through existing qualification systems.
+They will
+compete under a neutral flag
+and uniform
+, with a
+neutral song
+played if they win medals.
+audience cannot wave their flags
+Do you know?
+The Indian Olympic Association was suspended in 2014, leading to three athletes competing under the Olympic flag.
+**********

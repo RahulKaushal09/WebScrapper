@@ -1,0 +1,202 @@
+
+**********
+Reforming Bail Provisions
+Source: HT
+Why in News?
+Recently, the
+Supreme Court (SC)
+disapproved of using the
+Prevention of Money Laundering Act (PMLA), 2002
+“as a tool” to prolong the
+incarceration
+of an accused.
+It ruled that
+constitutional courts
+will not allow
+indefinite pretrial
+detention
+under the anti-money laundering law.
+What are the Key Points of SC's Ruling on PMLA and Bail?
+No Arbitrary Detention:
+Although there is a
+prima facie
+case
+against an accused, the court can rule in favour of his release due to the
+prolonged detention
+without a clear timeline for the trial.
+Stringent provisions of the
+PMLA, 2002,
+especially
+Section 45
+, should not result in
+arbitrary detention
+of the accused.
+According to
+Section 45 of the PMLA
+bail can be granted to an accused in a money laundering case only if two conditions are satisfied.
+The person has to prove in court that he or she is
+prima facie innocent
+of the offence.
+The accused should be able to
+convince
+the judge s/he would
+not commit any offence
+while on bail.
+Bail Principles Affirmed:
+The court reaffirmed the principle that “
+bail is the rule, and jail is the exception
+” in India’s criminal jurisprudence.
+It was noted that the high threshold for bail under PMLA must not lead to an
+indefinite loss of personal liberty
+for the accused.
+Judicial Concerns on Delayed Trials:
+The ruling highlighted the intersection of
+delayed trials
+harsh bail provisions
+under special laws like
+PMLA, 2002, or
+UAPA, 1967
+Narcotic Drugs and Psychotropic Substances Act, 1985 (NDPS)
+expeditious disposal of trials
+is necessary and should be integrated into the interpretation of these laws.
+Judicial Authority to Grant Bail:
+The SC reiterated that stringent
+do not stop constitutional courts from intervening in cases where trials are
+excessively delayed.
+The Supreme Court referenced its
+2021 judgement in the
+KA Najeeb case
+that recognised inordinate delays in trials as a
+ground of bail in UAPA cases
+Impact on Fundamental Rights:
+Excessive delays in trials could infringe on the
+fundamental rights
+of individuals under
+Article 21
+of the Constitution, which guarantees the
+right to life and personal liberty
+Prolonged incarceration
+without trial can result in unjust deprivation of liberty, highlighting cases where individuals were acquitted after years of detention.
+Potential Claims for Compensation:
+The SC suggested that individuals who suffer wrongful imprisonment may have grounds for
+compensation
+due to violations of their rights under Article 21.
+What are the Concerns Regarding India's Bail System?
+High Proportion of Undertrials:
+Over
+75%
+of India’s prison population comprises
+undertrials
+overcrowding
+in prisons is reported at
+118%
+This situation reflects systemic inefficiencies in the bail system that need urgent reform.
+The Supreme Court of India, in
+Satender Kumar Antil vs CBI, 2022
+acknowledged the
+failings of the country's bail system
+in recognizing the issue of
+undertrial and granting bail.
+Undermines Principle of 'Presumption of Innocence'
+: Crowding of jails with undertrial prisoners undermines the
+principle of 'presumption of innocence'
+Presumption of innocence is a legal principle that states that a person shall have the
+right to be presumed innocent
+until proven guilty according to law.
+Lack of Empirical Evidence:
+Information regarding the
+demographics of undertrials, category of offences and timelines for bail,
+proportion of undertrials applying for bail, the acceptance or rejection rates of bail applications, and the challenges in bail compliance remain is not widely available.
+Lack of Safeguards:
+The arrest of a person is justified as
+‘necessary’
+if the police have
+‘reasons to believe’
+that arrest is required to ensure their presence in court.
+Many arrested individuals, particularly from
+disadvantaged sections
+of society, remain unprotected.
+Challenges in Bail Adjudication:
+The power to grant bail is largely based on the c
+ourt’s discretion
+and depends on the
+facts of each case.
+Bail is denied based on the
+gravity of the offence, character of the accused and likelihood
+of the accused absconding or tampering with evidence.
+Challenges in Bail Compliance:
+A large number of undertrials continue to remain in prison despite being granted bail due to challenges in
+complying
+with bail conditions.
+Bail conditions in the nature of
+cash bonds, surety bond, proof of property ownership and solvency,
+make it harder for poors to secure their release.
+Flawed Assumptions:
+The bail system has flawed assumptions that every arrested person will be
+propertied
+or have access to
+propertied social connections.
+It presumes that the
+risk of financial loss
+is necessary to ensure the presence of the accused in court.
+What are Supreme Court judgments Regarding Bail System?
+Babu Singh v. State of Uttar Pradesh Case, 1978
+: Bail should
+generally be granted
+unless there are substantial grounds for believing that the accused will abscond or tamper with evidence.
+State of Rajasthan v. Balchand Case, 1978
+: SC held that
+Bail is the rule and Jail is an Exception.
+Detention of a person affects his right to life and liberty and the main objective of detention is to ensure easy availability of an accused for trial without any inconvenience.
+Parvez NoordinLokhandwalla v. State of Maharashtra Case, 2020
+It was noted that bail conditions should
+not be excessive
+compared to their intended purpose.
+Satender Kumar Antil v CBI Case, 2022
+Courts must ensure that
+strict bail conditions
+do not disproportionately affect the accused.
+Way Forward
+Simplification of Bail Conditions:
+Reassess and
+simplify bail conditions
+to make them more accessible, particularly for individuals from economically disadvantaged backgrounds.
+E.g.
+Community service
+as alternative to cash and surety bonds.
+Safeguards Against Arbitrary Arrests:
+Introduce strict guidelines and safeguards to protect against
+arbitrary arrests
+, particularly for vulnerable populations.
+Police must provide
+clear justification for arrests
+Community-Based Supervision Programs:
+Develop
+community-based supervision
+programs as alternatives to incarceration.
+These programs could involve monitoring undertrials through local organisations or social workers, rather than relying solely on bail.
+Alternative to Petty Criminals:
+Petty criminals awaiting trial could be ordered to stay in
+reformatory facilities
+where they can engage in useful labour, such as
+volunteer work
+Speedy Trials:
+Supreme Court Committee on Prison Reforms
+headed by Justice (retd) Amitava Roy underlined that
+speedy trial
+can become an
+effective tool
+to address the issue of overcrowding in jails.
+Adequate Infrastructure:
+The report
+“Empirical study to evaluate the delivery of justice through improved infrastructure”
+issued by the Ministry of Law and Justice highlighted that increased
+space of courtrooms, availability of basic furniture, digital infrastructure, and skilled manpower
+can reduce the number of under-trial prisoners.
+Clear Legal Provisions
+Clearly defined laws
+help individuals understand their rights and responsibilities,
+decreasing the chances of prolonged detention
+caused by misunderstandings.
+Drishti Mains Question:
+Examine the challenges associated with accessing bail in India and suggest measures for a more equitable bail provision framework.

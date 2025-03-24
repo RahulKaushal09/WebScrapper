@@ -1,0 +1,1605 @@
+MUNICH SECURITY CONFERENCE
+Syllabus:
+Prelims & Mains – CURRENT EVENT
+Context:
+German Chancellor Olaf Scholz delivered a strong rebuke to U.S. Vice President J.D. Vance’s attack on Europe’s stance toward hate speech and the far right, saying it was not right for others to tell Germany and Europe what to do.
+Background: –
+Mr. Vance had lambasted European leaders on the first day of the Munich Security Conference, accusing them of censoring free speech and criticising German mainstream parties’ “firewall” against the far-right Alternative for Germany (AfD).
+About Munich Security Conference (MSC)
+The Munich Security Conference (MSC) is an annual forum that brings together global leaders, policymakers, and experts to discuss international security issues.
+The MSC was founded by a German official and publisher Ewald-Heinrich von Kleist at the peak of the Cold War in 1963. The conference initially focused on military issues and was mainly attended by Western countries, who came together to display a united front against Soviet communism.
+After the end of the Cold War, the conference expanded its agenda beyond defence and security to include issues like climate change and migration. It also began inviting leaders from eastern nations, including Russia, India and China.
+Today, the MSC, held in February every year, “seeks to promote trust and contribute to the peaceful resolution of conflicts by facilitating ongoing, curated, yet informal dialogue within the international security community”.
+Key Takeaways from the Munich Security Conference (MSC) 2025
+Shift in the Transatlantic Security Framework
+The North Atlantic Treaty Organization, has been the cornerstone of European security, ensuring collective defense against external threats. However, recent developments indicate a fundamental shift. While U.S. remains a NATO member, European nations can no longer assume automatic U.S. military support in times of crisis.
+U.S.-Russia Talks on Ukraine: A Policy Shift
+The U.S. administration has initiated diplomatic talks with Russia to negotiate an end to the Ukraine war, despite strong opposition from European leaders and Kyiv.
+Notably, Ukrainian President Volodymyr Zelensky has not been invited to these talks, raising concerns about Ukraine’s exclusion from crucial negotiations affecting its sovereignty and security. The move has further strained U.S.-Europe relations.
+Increased Defense Expenditure for European NATO Members
+The MSC discussions underscored the necessity for Europe to escalate its defense spending in response to Russia’s growing military assertiveness. The current NATO-mandated minimum of 2% of GDP on defense is now expected to rise to 3%.
+While the U.S. has historically provided substantial military aid to Ukraine, European nations have now surpassed the U.S. in total financial and humanitarian assistance.
+U.S. Vice President JD Vance’s Controversial Speech
+U.S. V.P’s speech was widely perceived as critical of European policies. Instead of reaffirming U.S. support for Ukraine, his remarks focused on Europe’s handling of migration, free speech, and governance issues.
+His address was met with criticism from European leaders. However, the speech was well-received by certain political factions, including President Trump. This development signals growing ideological divergences between U.S. and Europe.
+Economic Tensions and U.S.-Europe Trade Disputes
+Amid the discussions at MSC, Trump announced a 25% tariff on all steel and aluminum imports, effective from March. This decision exacerbates economic tensions between the U.S. and Europe, adding to existing disputes over trade policies and defense commitments.
+Source:
+BBC
+**********
+DISTRIBUTED DENIAL OF SERVICE (DDOS) ATTACK
+Prelims – SCIENCE & TECHNOLOGY
+In January, web-based portal Kaveri 2.0, which streamlines property registrations in Karnataka, faced sporadic, crippling server outages. On investigating the outage, the Revenue Department and E-Governance Department concluded that it was a Distributed Denial of Service (DDoS) attack.
+DDoS attacks can lead to a service downtime, which is the primary goal of a DDoS attack — to render a service unavailable, leading to a disruption or potential loss of revenue.
+Key takeaways
+A DDoS attack is a malicious attempt to disrupt the normal functioning of a targeted server, service, or network by overwhelming it with a flood of internet traffic.
+Unlike a Denial of Service (DoS) attack, which typically involves a single source, a DDoS attack leverages multiple compromised systems, often infected with malware, to generate the traffic. These compromised systems are collectively known as a botnet. Such attacks may be aimed at saturating the bandwidth of a site, exploiting weaknesses in the network protocol stack, or targeting specific weaknesses in applications or services.
+While DDoS attacks do not directly steal data, they can be used as a distraction while other forms of cyberattacks, such as data breaches, are executed.
+The Kaveri 2.0 portal, critical for property registrations, experienced performance issues recently. Fake accounts were created, and entries were made into the database using these accounts, overwhelming the system. The attack involved 62 email accounts originating from 14 IP addresses, highlighting the distributed nature of the assault.
+Ways to mitigate such attacks
+Organisations implement advanced traffic filtering mechanisms to distinguish between legitimate and malicious traffic. Monitoring tools can help identify unusual traffic patterns and take pre-emptive actions.
+Enforcing rate limiting can control the number of requests a user can make in a given time frame, preventing the system from being overwhelmed.
+Bot detection technologies, such as CAPTCHA challenges and behavioural analysis, can identify and block automated tools or bots.
+Robust authentication mechanisms and regular security audits can strengthen the security of online services and prevent unauthorised access.
+The Hindu
+**********
+PRESIDENT’S RULE
+Prelims & Mains – POLITY
+Four days after Manipur Chief Minister N. Biren Singh’s resignation, the Union government announced that President’s rule has been implemented in the violence-hit State.
+The violence between the Meitei and Kuki-Zo communities, ongoing since May 2023, has claimed above 250 lives and displaced over 60,000 people.
+The conflict originated from the Meitei demand for Scheduled Tribe (ST) status, which the Kukis opposed, fearing loss of job opportunities and other affirmative actions meant for STs.
+Emergency provisions, inspired by the German Constitution, protect India’s sovereignty, unity and security. They empower the Central government to address extraordinary crises by temporarily assuming control.
+The Constitution provides for three types of emergencies — national (Article 352), State (Article 356) and financial (Article 360).
+In Manipur, the President has proclaimed a “state emergency” — popularly known as “President’s Rule” or “Constitutional Emergency” — by exercising powers under Article 356. This fulfils the Union’s obligation under Article 355 to protect States against ‘external aggression’ and ‘internal disturbance’ and to ensure that State governments operate as per the Constitution.
+When a State’s “constitutional machinery” fails due to non-performance or malperformance, Article 356(1) empowers the President to issue a proclamation — if she is satisfied that the State government cannot function constitutionally. This effectively transfers all executive functions of the State to the Centre and legislative functions to Parliament while leaving the High Court’s (HC) powers unaffected.
+Additionally, Article 365 provides that if a State fails to comply with any Union directions under constitutional provisions, the President may declare a “Constitutional Emergency.”
+As per Clause 3 of Article 356, the proclamation must be laid before each House of Parliament, and unless approved by a ‘simple majority’ in both Houses, it ceases after two months. Once approved, it remains effective for six months from the proclamation date, with further six-month extensions requiring additional Parliamentary approval.
+Renewal beyond one year is allowed only if two conditions are met — an Emergency has been declared in the country or any part of the State, and if the Election Commission certifies that President’s rule is necessary due to difficulties in conducting State elections. In no case can the proclamation remain effective for more than three years.
+How is a ‘constitutional emergency’ different from a ‘national emergency’?
+Article 352 governs the proclamation of a “national emergency,” which has been invoked thrice — during the 1962 India-China war, the 1971-armed conflict with Pakistan, and in 1975 on grounds of “internal disturbance.”
+Unlike a “State emergency,” proclaiming a “national emergency” requires that the President be satisfied that India’s security — or any part of its territory — is threatened by war, external aggression, or armed rebellion.
+The 44th Constitutional amendment (1978) introduced safeguards against misuse. It replaced “internal disturbance” with “armed rebellion”, mandated a written recommendation from the Cabinet, and shortened the parliamentary approval window from two months to one month. It clarified that Articles 20 and 21 cannot be suspended, and that the President must revoke the proclamation if the Lok Sabha passes a resolution disapproving it. The amendment restored judicial review of the President’s satisfaction in proclaiming an emergency, a safeguard removed by the 38th Constitutional amendment (1975).
+Unlike a “constitutional emergency” (which can last up to three years), a “national emergency” has no time limit.
+Additionally, while the President’s rule (Article 356) requires a ‘simple majority’ for parliamentary approval, a national emergency needs a ‘special majority’.
+In a national emergency, the State executive and legislature continue to function, whereas under President’s Rule, the State executive is dismissed, and the legislature is suspended or dissolved.
+President’s rule does not affect citizens’ fundamental rights, unlike a national emergency, where under Article 358, freedoms under Article 19 become inoperative, and the President may suspend other fundamental rights, except Articles 20 and 21.
+**********
+THE SCHEDULED TRIBES AND OTHER TRADITIONAL FOREST DWELLERS (RECOGNITION OF FOREST RIGHTS) ACT, 2006
+Sixteen years since The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 (also known as FRA) was introduced in January 2008, forest dwellers continue to face significant hurdles.
+Only three states in India have recognised a notable number of Community Forest Resource (CFR) rights, with Maharashtra being the only state where these rights have been operationalised, an analysis has noted.
+The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, commonly known as the Forest Rights Act (FRA), is a significant piece of legislation in India aimed at recognizing and vesting forest rights in forest-dwelling communities.
+Recognition of Forest Rights:
+The Act grants legal recognition to the rights of Scheduled Tribes (STs) and Other Traditional Forest Dwellers (OTFDs) who have been living in forests for generations but lacked legal ownership.
+It acknowledges both individual rights (e.g., land rights) and community rights (e.g., rights over common resources).
+Eligibility Criteria:
+Scheduled Tribes (STs): They must be residing in the forest land before 13th December 2005 and depend on forests for livelihood.
+Other Traditional Forest Dwellers: Non-tribal communities who have been living in forests for at least three generations (75 years) prior to December 13, 2005, and depend on forests for their livelihood.
+Land Ceiling: The Act sets a ceiling on the extent of land that can be recognized under individual rights, typically up to 4 hectares, subject to state-specific variations.
+Types of Rights Recognized:
+Individual Rights: Rights to land and resources that have been traditionally accessed by individuals or families.
+Community Rights: Rights over common property resources, including grazing grounds, water bodies, and traditional seasonal resource access.
+Right to Protect and Conserve: Rights to protect, regenerate, conserve, or manage any community forest resource traditionally protected and conserved by the community.
+Right to Intellectual Property: Rights over traditional knowledge related to biodiversity and cultural diversity.
+Right to Rehabilitation: If eviction is required for conservation, proper rehabilitation must be ensured.
+Gram Sabha’s Role:
+The Gram Sabha (village assembly) plays a crucial role in initiating the process of determining forest rights.
+It is responsible for receiving claims, consolidating and verifying them, and then passing resolutions to be forwarded to higher authorities.
+No forest rights can be acquired or transferred without the consent of the Gram Sabha.
+Claims Process:
+Forest-dwelling communities can file claims for recognition of their rights.
+The claims are verified and approved at various levels, including the Gram Sabha, Sub-Divisional Level Committee (SDLC), and District Level Committee (DLC).
+Protection from Eviction:
+The Act provides protection to forest-dwelling communities from eviction or displacement without the recognition and verification of their rights.
+It ensures that no member of a forest-dwelling community can be evicted until the process of recognition and verification of rights is complete.
+Down To Earth
+**********
+INDIRECT PROMPT INJECTION ATTACKS
+Indirect prompt injection, a technique that manipulates chatbots into executing malicious commands, has become a significant concern for developers and users alike.
+Despite efforts by tech giants like Google and OpenAI to fortify their systems, hackers continue to exploit vulnerabilities, leading to potential data breaches and misinformation.
+Indirect prompt injection attacks are a significant security concern in the realm of generative AI systems, particularly those utilizing large language models (LLMs).
+Unlike direct prompt injections, where attackers input malicious commands directly into the AI system, indirect prompt injections involve embedding harmful instructions within external data sources that the AI system accesses. This can lead the AI to perform unintended actions, potentially compromising data integrity and user trust.
+Mechanism of Indirect Prompt Injection Attacks:
+Embedding Malicious Instructions: Attackers insert concealed commands into data sources such as emails, documents, or web content. For instance, a malicious prompt might be hidden within an email that, when processed by an AI assistant, instructs the system to leak sensitive information or perform unauthorized actions.
+Exploitation Through Data Access: When the AI system accesses and processes this tainted data, it inadvertently executes the embedded instructions. This occurs because the AI cannot distinguish between legitimate data and malicious commands within the content it processes.
+Potential Risks:
+Data Exfiltration: The AI might be manipulated to extract and transmit confidential information to unauthorized entities.
+Propagation of Malicious Content: In scenarios where AI systems generate or summarize content, they might unknowingly disseminate harmful instructions embedded within the source material.
+Unauthorized Actions: AI systems integrated with tools or plugins could be directed to perform actions beyond their intended scope, such as sending unauthorized emails or accessing restricted data.
+Mitigation Strategies:
+Input Validation and Sanitization: Implement rigorous checks to detect and neutralize hidden commands within external data before processing.
+Contextual Differentiation: Enhance the AI’s ability to distinguish between executable instructions and regular data content, reducing the likelihood of unintended command execution.
+Restricting External Data Access: Limit the AI system’s interaction with untrusted or unverified data sources to minimize exposure to potential threats.
+Human Oversight: Incorporate human review mechanisms for AI outputs, especially when dealing with sensitive information or actions, to catch anomalies.
+**********
+Daily Practice MCQs
+Q1.) Which of the following statements regarding President’s Rule under Article 356 of the Indian Constitution is/are correct?
+President’s Rule can be imposed in a state if the constitutional machinery of that state has failed.
+The proclamation of President’s Rule must be approved by a simple majority in both Houses of Parliament within two months.
+Once approved, President’s Rule can remain in force indefinitely.
+Select the correct answer using the codes below:
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2, and 3
+Q2.) Under the Forest Rights Act (FRA), 2006, which of the following rights are recognized?
+Individual forest rights over land for cultivation.
+Community rights over common property resources such as grazing grounds.
+Rights to protect and conserve forests and biodiversity.
+Absolute rights over protected areas granted to individuals.
+(c) 1, 2, and 3 only
+(d) 1, 2, 3, and 4
+Q3.) Which of the following statements about indirect prompt injection attacks is/are correct?
+Indirect prompt injection involves embedding malicious commands within external data sources like emails or web content.
+These attacks can lead to unauthorized actions being executed by AI systems.
+Restricting external data access and implementing input validation can help mitigate such attacks.
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********Gravehawk System
+Ukraine has reportedly acquired a new weapon system to defend against the barrage of missiles unleashed by Russia: the Gravehawk hybrid surface-to-air missile system.
+About Gravehawk System:
+It is a
+short-range surface-to-air missile system
+developed by the
+United Kingdom.
+It is designed to
+address short-range threats,
+particularly those
+posed by fast-moving airborne objects.
+mounted on an all-terrain vehicle chassis
+, allowing for rapid deployment and mobility on the ground.
+It is equipped with
+infrared-guided missiles, i
+ncluding the
+AIM-132 ASRAAM and the Wympel R-73.
+The missiles can reach speeds of up to Mach 2.5 and engage targets at a
+range of approximately 12 miles,
+making them effective against drones, cruise missiles, and low-flying aircraft.
+One of the system's key advantages is its
+passive infrared guidance,
+which eliminates the need for radar emissions that could expose its location to enemy forces.
+containerized launch system
+also incorporates
+electro-optical and infrared targeting cameras, a
+llowing remote operation so that operators can fire missiles from a safe distance.
+Click to View More
+Source :
+Soviet R-73 Air-To-Air Missiles To Plug Gaping Holes In Ukraine’s Defenses; UK Arms Kyiv With Gravehawk SAMs
+Science & Tech
+**********Yamuna River
+A large-scale effort to clean the heavily polluted River Yamuna commenced recently, guided by a four-pronged strategy, aimed to restore the river within three years.
+About Yamuna River:
+Yamuna is the major
+tributary of the Ganga River.
+It rises in the Himalayas, from the
+Yamunotri Glacier,
+at the height of 4,421 meters.
+Course
+Originating near Banderpooch peaks at a height of 6,387 meters at Yamunotri Glacier, it travels a length of 1,376 kilometers before merging with River Ganges at Sangam
+in Prayagraj, Uttar Pradesh.
+It is the longest river in India which does not directly flow to the sea.
+The river water flows through the states of Uttarkhand, Himachal Pradesh, Haryana, Delhi, Uttar Pradesh and Rajasthan out of which only Rajasthan does not fall in its riparian zone.
+It has four main tributaries in the Himalayan region:
+Rishi Ganga, Hanuman Ganga, Tons and Giri.
+In the plains, the main tributaries are
+Hindon, Chambal, Sind, Betwa and Ken
+. Tons, being the major tributary, contributes to about 60 percent flow of the Yamuna.
+Chambal River
+is Yamuna’s biggest tributary on the right.
+The confluence of the two rivers is an especially sacred place to Hindus and is the site of annual festivals as well as the Kumbh Mela, which is held every 12 years.
+Click to View More
+Source :
+Yamuna river cleanup drive begins days before BJP forms Delhi govt
+Geography
+**********Kalyana Chalukyas
+Three Kannada inscriptions from the Kalyana Chalukya era were noticed for the first time in Kankal village in the Pudur mandal of Vikarabad district.
+About Kalyana Chalukyas:
+The Chalukyas ruled over the
+Deccan
+plateau
+between the
+6th and 12th centuries.
+During that period, they ruled as
+three closely related
+but
+individual dynasties
+- ehe
+Chalukyas of Badami,
+Chalukyas of Kalyani (Western Chalukyas
+) and the
+Chalukyas of Vengi (Eastern Chalukyas).
+Primarily a Kannadiga dynasty, they were known after their
+capital city, Kalyani.
+It is present in the
+modern-day Bidar district of Karnataka.
+empire
+was
+established by Tailapa II
+when the Western Chalukya
+was a feudatory of the Rashtrakuta Empire
+and Tailapa II governed Tardavadi in the Bijapur district of Karnataka.
+In the 300 years long rule in the western Deccan and southern part of the Indian peninsula, Chalukya of Kalyani expanded and reached the
+zenith of power during the rule of Vikramaditya VI (1076-1126 CE).
+It is considered the most successful period of the later Chalukya rulers in Karnataka’s history, and many scholars refer to this period as the
+‘Chalukya Vikrama era’.
+Vikramaditya VI was not only controlling feudatories in the northern region, such as Kadamba Jayakesi II of Goa, Silhara Bhoja and the Yadava King, but also, he
+won several battles against the Chola dynasty.
+Decline:
+After Vikramaditya VI’s death, the
+consistent confrontation with the Chola
+dynasty exploited both empires and gave opportunities to their subordinates to rebel.
+After 1126, the Western Chalukya empire started declining, and by the time of Jagadhekamalla II, everything was falling apart.
+Administration, Art, and Architecture:
+The Western Chalukya administration was mainly
+hereditary
+, where the king passed his powers to the male heir and brother in the absence of a male heir.
+The whole
+kingdom was divided and managed by feudatories
+such as the
+Hoysala and the Kakatiya.
+While the Chalukya Dynasty maintained a
+great army of infantries, cavalries
+, elephant units, etc, the Western Chalukyas followed the trend and achieved a great extent of power.
+They were
+primarily Hindus
+but also acknowledged and
+tolerant of Buddhism and Jainism.
+They contributed greatly to the
+development of Kannada and Telugu literature.
+minted punch-marked gold coins
+called pagodas
+with Kannada legends.
+The Western Chalukya dynasty is considered to be a
+crucial era for the evolution of Deccan architecture.
+Their art is also called the ‘
+Gadag style’
+because numerous temples were built in the Tungabhadra-Krishna doab region in the present-day Gadag district.
+Mallikarjuna temple of Bellary
+Siddeshvara temple in Haveri, Kallesvara temple in Davangere district
+, etc are a few of the finest examples of later Chalukya architecture.
+Click to View More
+Source :
+900-yr-old inscriptions found in Vikarabad dist
+History
+**********Measles
+Measles, a highly contagious virus, is making a comeback in the U.S., particularly in states like Texas due to lower vaccination rates and international travel.
+About Measles:
+It is a highly
+contagious and serious airborne disease.
+caused by a virus
+in the paramyxovirus family, and is normally
+passed through direct contact and the air.
+The virus i
+nfects the respiratory tract,
+and then
+spreads throughout the body,
+causing severe disease, complications and even death.
+Symptoms:
+The first sign of measles is usually
+high fever,
+beginning about 10 to 14 days after exposure to the virus and lasting four to seven days.
+runny nose, cough, red and watery eyes,
+and small white spots inside the cheeks can develop in the initial stage.
+A rash erupts after several days, usually on the face and upper neck. The rash spreads over about three days, eventually reaching the hands and feet, and lasts five to six days before fading.
+Who is at risk?
+Any
+non-immune person
+(not vaccinated or vaccinated but did not develop immunity) can become infected.
+Unvaccinated young children and pregnant persons
+are at the highest risk of severe measles complications.
+Treatment
+No specific antiviral treatment
+exists for measles.
+Click to View More
+Source :
+Texas Measles outbreak: How to stay safe from this infectious disease
+Science & Tech
+**********Katarniaghat Wildlife Sanctuary (KWS)
+The carcass of a male elephant aged around 45-50 years was recently found in the dense forests of the Katarniaghat Wildlife Sanctuary (KWS) near the Indo-Nepal border.
+About Katarniaghat Wildlife Sanctuary (KWS):
+It is a protected area in the
+Upper Gangetic plain
+Uttar Pradesh.
+In 1987, it was brought under the purview of the ‘Project Tiger’, and together with the Kishanpur Wildlife Sanctuary and the Dudhwa National Park, it forms the Dudhwa Tiger Reserve.
+The total area of KWS is 400.09
+sq.km
+It provides
+strategic connectivity between
+the tiger habitats of
+Dudhwa and Kishanpur in India and the Bardia National Park in Nepal.
+Vegetation
+: Its fragile
+Terai ecosystem
+comprises a mosaic of sal and teak forests, lush grasslands, numerous swamps and wetlands.
+Flora
+: It is predominantly
+Sal Forest
+with its associate tree species like
+Terminalia alata
+(Asna),
+Lagerstroemia parviflora
+(Asidha), Adina cordifonia (Haldu), Mitragyna parpiflora (Faldu), Gamelina arborea (Gahmhar), etc.
+Fauna:
+It is home to a number of endangered species, including the
+Gharial, tiger, rhino, swamp deer, hispid hare,
+Bengal florican, and white-backed and long-billed vulture
+Girwa River,
+which flows in the KWS area, is declared a sanctuary for
+Mugger and Gharial.
+It is also home to rare turtles, freshwater fish, and a host of aquatic life.
+It is among the few places in India where
+freshwater dolphins
+, also known as
+Gangetic dolphins
+, are found in their natural habitat.
+Click to View More
+Source :
+Elephant carcass found in Katarniaghat Wildlife Sanctuary
+Environment
+**********International Classification of Diseases
+Recently, the World Health Organization (WHO) has released the 2025 edition of the International Classification of Diseases 11th Revision (ICD-11).
+About International Classification of Diseases:
+It is a
+flagship World Health Organization product
+that serves as the basis for identifying health trends and statistics at country level and worldwide.
+ICD is at the foundation of WHO's Fourteenth General Programme of Work efforts to accelerate progress towards health-related Sustainable Development Goals (SDGs), addressing inequalities and achieving relevant national health targets.
+Uses:
+It serves a broad range of uses globally and provides critical knowledge on the extent, causes and
+consequences of human disease
+and death worldwide via data that is reported and coded with the ICD.
+Clinical terms coded with ICD are the main basis for health recording and statistics on disease in primary, secondary and tertiary care, as well as on cause of death certificates.
+In India, the
+Central Bureau of Health Intelligence
+(CBHI) is an agency under the Ministry of Health and Family Welfare that serves as the WHO Collaboration Centre for ICD-related activities.
+Click to View More
+Source :
+WHO releases 2025 update to the International Classification of Diseases (ICD-11)
+Science & Tech
+**********Loggerhead Turtle
+A recent study revealed that the loggerhead turtle can learn and remember the magnetic signature of an area and does a ‘turtle dance’ when in a location that they associate with food.
+About Loggerhead Turtle:
+It is a
+species of oceanic turtle
+belonging to the family
+Cheloniidae.
+It is named Loggerhead for their large heads that support powerful jaw muscles.
+It is the
+world's largest hard-shelled turtle
+, slightly larger at average and maximum mature weights than the Green sea turtle and the Galapagos tortoise.
+It is also the world's second largest extant turtle after the leatherback sea turtle.
+It uses the
+geomagnetic field
+as a map when
+navigating large distances.
+Distribution:
+It has a cosmopolitan distribution, nesting over the broadest geographical range of any sea turtle. It inhabits the
+Atlantic, Indian and Pacific Oceans, and the Mediterranean Sea.
+Diet:
+omnivorous,
+feeding mainly on bottom-dwelling invertebrates, such as gastropods, bivalves, and decapods. It has a greater list of known prey than any other sea turtle.
+Conservation status:
+IUCN:
+Vulnerable
+Threats:
+Bycatch in fishing gear, Climate change, Direct harvest of turtles and eggs, Loss and degradation of nesting habitat, Ocean pollution/marine debris.
+Click to View More
+Source :
+Loggerhead turtles use geomagnetic field to navigate large distances
+Environment
+**********TrailGuard AI System
+Similipal Tiger Reserve is the first reserve where TrailGuard AI system has shown success as an ‘anti-poaching tool.
+About TrailGuard AI System:
+It is an end-to-end,
+camera-based alert system
+designed for enhancing wildlife conservation and promoting human-wildlife coexistence in remote areas.
+Features:
+The system combines durable outdoor hardware,
+on-the-edge AI algorithms
+, and real-time transmission capabilities, and can be deployed along trails or access points in areas of interest.
+Its
+battery
+lasts for 6 months
+to one year based on the number of photos it sends
+autonomously detects target objects
+, and transmits real-time alerts that can trigger rapid-response to entry by poachers or illegal loggers, wildlife entering agricultural or pastoral lands, or status of endangered or exotic invasive species.
+It transmits human and wildlife activities in
+remote areas in under 30 seconds,
+enabling real-time interventions.
+Working of
+They operate on a
+low-power mode
+by default but switch to a high-power mode when they sense movement, and capture an image.
+The camera then performs
+AI inference on the edge
+, meaning it uses the chip inside to sort between various object classes such as ‘animals’, ‘humans’, and ‘vehicles’ in the image.
+If the AI deems it necessary, it autonomously transmits an image using the cellular system attached to the camera to an end-user in 30-40 seconds.
+Click to View More
+Source :
+AI-fit cameras in Similipal Tiger Reserve send poaching plummeting
+Environment
+**********Prime Minister’s Yoga Award
+Recently, the Ministry of Ayush announces the opening of nominations for the prestigious Prime Minister’s Yoga Awards for the 2025 edition of the International Day of Yoga (IDY2025).
+About Prime Minister’s Yoga Award:
+It recognizes individuals and organizations that have made significant and sustained contributions to the
+promotion and development of Yoga
+, both
+nationally and internationally
+It was established to
+honor the profound impact of Yoga
+on society and aim to celebrate exemplary contributions to the field, reinforcing Yoga's role in disease prevention, health promotion, and the management of lifestyle-related disorders.
+The awards will be conferred in the
+National Individual, National Organization, International Individual, and International Organization categories
+, with each winner receiving a Trophy, Certificate, and a
+Cash Award of Rs. 25 lakh.
+Eligibility:
+Individuals applying
+must be 40 years
+or older and should
+have at least 20 years of dedicated service
+in Yoga promotion.
+Entities can apply directly or be nominated by a prominent Yoga organization. Each applicant/nominee can
+apply for only one category
+(National or International) per year.
+Selection committee:
+A Screening Committee
+constituted by the Ministry of Ayush
+will review all applications and recommend a maximum of 50 names per award category to the Evaluation Jury.
+The Jury, comprising eminent personalities from various fields, will be the apex decision-making body.
+Click to View More
+Source :
+Ministry of Ayush Announces opening of Nominations for the Prime Minister’s Yoga Awards 2025
+Polity & Governance
+**********Tech companies, regulators flag romance scams
+Why in news?
+In February, often called the "month of love," experts and authorities are warning about
+rising romance scams
+involving emotional manipulation, deceit, and financial fraud.
+According to a Moody’s report,
+India ranked third globally in new romance scam
+profiles in 2024, accounting for 12% of the total, behind the US (38%) and Nigeria (14%).
+Moody’s recorded 1,193 new scam-related entities, marking a 14% increase from 2023.
+What’s in today’s article?
+Romance Scams
+Tech Companies' Response to Romance Scams
+Other Major Fraud Trends in Focus
+Romance frauds typically occur through dating apps and social media, where scammers create fake online profiles to lure victims.
+According to the
+Indian Cyber Crime Coordination Centre (I4C)
+, fraudsters gain trust and then demand money, gifts, bank details, or intimate content.
+These scams often pose a risk to victims’ personal safety, as criminals may belong to organized networks.
+Rise of Romance Scams During Covid-19
+The Covid-19 pandemic saw a sharp increase in such scams, as fraudsters exploited people’s isolation and emotional vulnerability.
+A technique called “love bombing”—where scammers excessively express affection to gain victims’ trust—was commonly used.
+Modus Operandi of Scammers
+As per the FBI, scammers use fake identities to manipulate victims emotionally and financially.
+Meta highlights that scammers often pose as attractive and successful individuals, using cold messages and fake stories to gain trust before requesting money or promoting fraudulent investments.
+Financial and Reputational Risks
+Moody’s warns that money from romance scams, including sextortion, is often laundered through banks, exposing financial institutions to reputational damage and legal penalties.
+Sextortion—which mainly targets teenage boys—involves extortion using fake profiles to solicit explicit content, later used to blackmail victims.
+Preventive Measures
+Authorities advise people to avoid sending money or sharing sensitive personal information with strangers online and to be cautious about the details they share on social media.
+Meta’s Measures Against Scammers
+Meta, which owns Instagram, WhatsApp, and Facebook, is actively working to combat romance scams by:
+Removing Malicious Accounts
+: Automated systems detect and eliminate fake profiles.
+Safety Notices on Messenger
+: Alerts users when chatting with
+suspicious accounts
+, especially those based in other countries.
+Teen Protection on Instagram
+: Testing
+safety nudges
+for teenagers to caution them about suspicious interactions.
+Call Blocking on WhatsApp
+: Users can
+silence calls from unknown numbers
+to prevent scam-related contact.
+Match Group’s AI-Based Scam Prevention
+(which owns
+Tinder, Hinge, and OkCupid
+) is using
+AI tools
+to detect suspicious
+words and phrases
+to prevent fraud.
+Key measures include:
+In-App Warnings and Education
+: Pop-up alerts and educational features inform users about scams.
+Collaboration with Law Enforcement
+: Working with cybercrime investigators to run awareness campaigns on identifying scam behaviors.
+Google’s Measures Against Online Fraud
+Blocked 13.9 million installation attempts of harmful apps (as of January 31, 2025).
+Protected 3.2 million devices, preventing over 309,000 unique fraudulent apps from being installed.
+Partnered with I4C under DigiKavach and onboarded Google Pay onto the National Cybercrime Reporting Portal to enhance fraud investigations.
+Scammers are increasingly leveraging AI to improve both new and existing fraud techniques.
+Fake Donation & Travel Booking Scams
+Fraudsters exploit major festivals like Diwali by setting up fake charities and offering fraudulent travel deals.
+AI-Generated Celebrity Investment Scams
+Scammers use deepfake videos, fake news articles, and social media posts to promote fraudulent cryptocurrency and trading investments.
+Remote Access Tech Support Fraud
+Posing as bank, tech support, or government officials, scammers create a sense of urgency to steal device access or sensitive data.
+Job Scams
+Fraudsters lure job seekers with fake high-paying remote work or international job opportunities, often requiring upfront payments.
+Predatory Loan App Scams
+Scammers target people in urgent financial need, offering quick loans with minimal paperwork but trapping them in high-interest repayment cycles.
+Tech companies, regulators flag romance scams.pdf
+( Size:  3.1 MB  )
+Click to View More
+Defence & Security
+**********Prime Minister Dhan-Dhaanya Krishi Yojana
+Why in the News?
+Finance Minister Nirmala Sitharaman while presenting the Union Budget on February 1 announced the launch of the Prime Minister Dhan-Dhaanya Krishi Yojana (PMDKY).
+What’s in Today’s Article?
+Introduction (Context of the Article)
+About PMDKY (Key Objectives, Implementation Strategy, Additional Measures, Impact, Challenges, etc.)
+Introduction:
+The
+is a major agricultural initiative launched under the
+Union Budget 2025-26
+by
+The scheme aims to improve
+agricultural productivity, irrigation, crop diversification, and financial access
+for farmers across
+100 districts
+with
+low productivity, moderate crop intensity, and below-average credit parameters
+This initiative follows the success of the
+Aspirational Districts Programme (ADP)
+and aligns with the government’s goal of
+strengthening rural prosperity, boosting farm incomes, and enhancing self-sufficiency in food production
+Objectives of PM Dhan-Dhaanya Krishi Yojana:
+Enhancing Agricultural Productivity
+– Improving farming efficiency through modern technology and better land utilization.
+Promoting Crop Diversification
+– Encouraging farmers to grow multiple crops for better income stability.
+Strengthening Post-Harvest Infrastructure
+– Establishing storage and processing units at the
+Panchayat and Block levels
+Improving Irrigation Facilities
+– Expanding irrigation infrastructure to reduce dependence on rainfall.
+Facilitating Credit Access
+– Providing
+long-term and short-term agricultural loans
+to farmers for investment in better farming practices.
+It is expected to
+benefit 1.7 crore farmers
+across the selected districts.
+Implementation Strategy:
+Selection of 100 Target Districts – The scheme will cover
+based on the following parameters:
+Low productivity
+– Areas with below-average agricultural output.
+Moderate cropping intensity
+– Regions where farming cycles can be optimized.
+Limited credit access
+– Districts with low financial inclusion in agricultural loans.
+Ministry of Agriculture & Farmers’ Welfare
+, in collaboration with
+NABARD
+and the Department of Financial Services, will identify these districts based on data analysis of farm credit, cropping intensity, and land productivity.
+Financial Support and Convergence of Existing Schemes
+PMDKY does not have a standalone budget allocation but will be
+funded through the convergence of existing agricultural schemes
+under:
+Ministry of Fisheries, Animal Husbandry & Dairying
+Rural Prosperity and Resilience Programme
+To address underemployment in agriculture, the government has introduced a multi-sectoral Rural Prosperity and Resilience Programme. This will focus on:
+Skilling rural youth & farmers
+Investments in agricultural infrastructure
+Technology-driven solutions for higher farm output
+Encouraging rural entrepreneurship
+Additional Measures Under PMDKY:
+Aatmanirbharta in Pulses
+A new
+six-year mission
+self-sufficiency in pulses
+will focus on crops like
+Tur, Urad, and Masoor
+. Strategies include:
+Developing climate-resilient seeds
+Enhancing protein content in pulses
+Ensuring procurement and remunerative prices
+NAFED and NCCF
+will buy pulses from farmers under guaranteed agreements for the next
+four years
+Comprehensive Programme for Vegetables & Fruits
+A new initiative will support increased production, better supply chains, and processing of vegetables and fruits.
+Focus will be on promoting
+Shree-Anna (millets)
+for better nutrition.
+Farmer Producer Organizations (FPOs) and cooperatives will play a key role.
+Grameen Credit Score for Financial Inclusion
+Public Sector Banks (PSBs)
+will introduce a
+This will help Self-Help Group (SHG) members and rural farmers access affordable loans.
+Expected Impact of PMDKY:
+Boosting Agricultural Growth
+Increased farm output through
+better crop management and irrigation
+Higher income stability for farmers with
+diversified cropping patterns
+Strengthening Rural Infrastructure
+Post-harvest storage units and processing centres
+to reduce food wastage.
+Enhanced
+cold storage and supply chain systems
+for better price realization.
+Financial Empowerment for Farmers
+Access to
+credit for small and marginal farmers
+Better financial planning through the
+Grameen Credit Score system
+Employment and Rural Livelihoods
+New job opportunities in
+agriculture, food processing, and storage
+Reduced migration due to
+better rural employment prospects
+Challenges in Implementation:
+Ensuring Timely Fund Allocation
+– Convergence of existing schemes may
+delay fund distribution
+to farmers.
+Infrastructure Gaps in Remote Areas
+– Some districts lack
+cold storage, warehouses, and irrigation systems
+Farmer Awareness and Participation
+– Effective implementation requires
+extensive outreach
+to educate farmers about scheme benefits.
+Conclusion:
+PMDKY is a
+transformative step towards improving India’s agricultural landscape
+. By focusing on
+productivity, irrigation, storage, and financial access
+, the scheme aims to
+empower 1.7 crore farmers
+and ensure sustainable rural development.
+While challenges remain,
+effective coordination between central and state governments
+timely implementation of initiatives
+will be key to the scheme’s success. If executed efficiently, PMDKY has the potential to make India’s agricultural sector more resilient, productive, and financially secure.
+Prime Minister Dhan-Dhaanya Krishi Yojana.pdf
+( Size:  443.9 KB  )
+Click to View More
+Polity & Governance
+**********The Silent Crisis of Rat-Hole Mining
+Context
+Illegal mining has emerged as a
+persistent and hazardous problem in Assam and Meghalaya
+, leading to devastating consequences for both human lives and the environment.
+recent tragedy in Umrangso, Assam
+, where nine labourers were trapped in a flooded mine, is yet another example of the ongoing crisis.
+Despite repeated accidents and legal interventions,
+illegal mining continues unabated, largely due to weak enforcement
+, political and economic interests, and inadequate policy reforms.
+The Persistence of Illegal Mining
+The Historical Roots
+The proliferation of illegal coal mining in Assam and Meghalaya can be
+traced back to the 1980
+s when industrial demand from West Bengal and Bangladesh led to the expansion of small-scale mining operations.
+The region's
+difficult terrain made mechanised extraction challenging
+, prompting the widespread adoption of rat-hole mining, a dangerous technique involving narrow tunnels that put miners at significant risk.
+Two forms of rat-hole mining prevail:
+side-cutting along hill slopes and box-cutting, where pits are dug up to 400 feet deep and coal is extracted horizontally.
+Influence of Powerful Coal Mafias
+Despite a ban imposed by the National Green Tribunal (NGT) in 2014, upheld by the Supreme Court in 2019,
+illegal mining continues under the influence of powerful coal mafias
+and bureaucrats.
+Migrant labourers
+, many trapped in cycles of debt and bonded labour, are
+lured into these hazardous jobs
+by exploitative labour agents known as ‘Sardars.’
+Disturbingly, reports indicate that
+children are trafficked into these mines
+due to their small stature, which allows them to navigate the narrow tunnels.
+Legal and Administrative Challenges
+Illegal mining persists is the
+failure of state authorities to enforce existing laws.
+While the
+Meghalaya government has sought to exempt itself
+from national mining regulations
+under Schedule 6
+of the Constitution, this effort remains unsuccessful.
+Mines and Minerals (Development and Regulation) Act, 1957 (MMDR Act)
+obligates states like Meghalaya and Assam to prevent illegal mining, but enforcement remains lax.
+Moreover, political and economic interests play a crucial role in sustaining illegal mining.
+Coal mining generates substantial revenue
+, and local politicians often have stakes in these operations, leading to selective enforcement or outright neglect of legal provisions.
+Whistleblowers and activists
+who attempt to expose these violations
+face threats
+, further weakening accountability mechanisms.
+Consequences of Illegal Mining: Environmental and Human Costs
+The consequences of illegal mining are
+severe, affecting both human lives and the environment.
+Accidents like the one in Umrangso are common,
+with at least 30 miners losing their lives
+in Meghalaya over the past five years due to similar incidents.
+The hazardous working conditions of rat-hole mines
+expose labourers to fatal risks,
+with many deaths going unreported.
+Environmentally, illegal mining has caused severe degradation
+. The unregulated extraction of coal has led to deforestation, water contamination, and soil erosion.
+abandoned mine openings
+, estimated to be around 26,000,
+pose ongoing risks, serving as potential death traps
+for both miners and wildlife.
+The Way Forward: The Need for a Multi-Faceted Approach
+Stricter Legal Enforcement
+MMDR Act must be amended to explicitly criminalise rat-hole mining,
+with harsher penalties under Section 21.
+Additionally, states should implement localized frameworks under Section 23C to ensure tailored enforcement mechanisms.
+Alternative Livelihoods
+The reliance on illegal mining stems from economic necessity.
+Promoting alternative employment opportunities, such
+as eco-tourism and sustainable forestry, can reduce dependence on coal mining
+and provide safer, legal sources of income.
+Technological Solutions
+Advanced monitoring techniques,
+such as satellite-based surveillance
+, can help track illegal mining activities.
+Ministry of Mines’ Mining Surveillance System
+, which has been successful in Karnataka,
+could be implemented in Assam and Meghalaya
+to enhance enforcement.
+Community Involvement
+Strengthening local governance by enforcing the Forest Rights Act, 2006,
+and ensuring community consent before granting mining permits can help hold mining operations accountable.
+Empowering indigenous communities
+in decision-making processes can lead to more sustainable resource management.
+Conclusion
+Gauhati High Court’s suo motu cognizance of the Assam mining tragedy offers a renewed opportunity
+for meaningful reform.
+However,
+judicial interventions alone will not be enough unless proactive measures are taken to enforce existing laws
+, promote alternative livelihoods, and leverage technology to curb illegal mining.
+continued failure of Assam and Meghalaya to prevent such activities
+not only constitutes administrative negligence but also
+violates the fundamental right to life enshrined in Article 21 of the Constitution.
+Click to View More
+Editorial Analysis
+**********The Panchayati Raj Movement is in Distress
+Context
+73rd Amendment to the Indian Constitution
+, enacted in 1992, marked a transformative moment in India’s governance,
+introducing a decentralised system
+through panchayati raj institutions (PRIs).
+This amendment
+sought to bring democracy to the grassroots
+by establishing local self-government, ensuring representation, and empowering marginalised communities.
+However, despite its initial success,
+the panchayati raj system is currently facing a crisis
+due to systemic and policy-level challenges.
+An Overview of Panchayati Raj System
+The Panchayati Raj System was introduced through the 73rd Constitutional Amendment Act, 1992,
+to establish decentralised governance
+at the grassroots level.
+system is based on the principle of democratic decentralisation
+, giving power to local self-governments in rural areas.
+Its roots trace back to ancient India, but it was
+formally recommended by the Balwant Rai Mehta Committee (1957),
+which proposed a three-tier structure, Gram Panchayat, Panchayat Samiti, and Zila Parishad.
+The primary purpose of the system is to
+promote participatory democracy, empower rural communities,
+and ensure effective local administration.
+Panchayats have been given
+constitutional status under Article 243
+, with elections held every five years to ensure accountability.
+They are
+responsible for local governance, including rural development, sanitation, water supply, education
+, and poverty alleviation programs.
+States have been granted flexibility in structuring their PRIs, leading to variations across India.
+Over the years,
+the system has strengthened grassroots democracy but still faces challenges
+like lack of financial autonomy, political interference, and capacity building issues.
+The Achievements of Panchayati Raj Institutions
+The panchayati raj system has made
+significant strides in democratising local governance.
+Elections to PRIs have become highly competitive, and political participation at the grassroots level has increased.
+One of the most notable achievements has been the empowerment of women in leadership roles, with
+nearly 14 lakh elected women representatives
+currently serving in panchayats.
+Furthermore, PRIs have
+played a crucial role in implementing various social sector programs
+, particularly in rural development initiatives.
+Constitution mandated State Finance Commissions to allocate financial resources to local governments
+, ensuring that panchayats had the necessary funds to carry out their responsibilities.
+These achievements
+underscore the importance of panchayati raj institutions
+in developing inclusive and participatory governance.
+Despite these accomplishments,
+the panchayati raj system is facing a decline
+due to several structural and policy-related challenges.
+The Decline of Panchayati Raj: Key Challenges
+Stagnation in Administrative Decentralisation
+While the initial phase of the panchayati raj movement saw significant progress in administrative devolution,
+momentum has since stalled.
+Effective local governance requires state governments to delegate administrative control and staff to PRIs, yet this has not been fully realised.
+A 2022 report by the Ministry of Panchayati Raj
+revealed that
+less than 20% of Indian states have transferred all 29 subjects
+listed in the Eleventh Schedule of the Constitution
+to local bodies.
+Without adequate administrative authority, panchayats struggle to function effectively.
+Erosion of Fiscal Autonomy
+Financial autonomy is crucial for effective local governance, but
+panchayats have increasingly become dependent on centrally sponsored schemes.
+direct financial transfers
+to PRIs have increased over time, untied grants, which allow local governments to make independent decisions,
+have been significantly reduced.
+proportion of untied grants dropped from 85%
+under the Thirteenth Finance Commission (2010–15) to 60% under the Fifteenth Finance Commission (2021–26).
+reduction limits the flexibility of panchayats
+in addressing local issues, thereby weakening their decision-making power.
+The Changing Nature of Welfare Delivery
+Over the past decade,
+India has witnessed a shift in welfare delivery mechanisms.
+With the advent of digital financial systems like the
+Jan Dhan-Aadhaar-Mobile (JAM)
+platform, direct cash transfers have become
+a preferred method for implementing welfare schemes.
+While this approach enhances efficiency,
+it sidelines PRIs, reducing their role in beneficiary selection and grievance redressal.
+For instance, the Pradhan Mantri Kisan Samman Nidhi (
+PM-KISAN
+) scheme provides direct cash transfers to farmers, bypassing local governance structures.
+shift diminishes the accountability and engagement
+that PRIs traditionally ensured in rural welfare programs.
+The Impact of Urbanisation
+India’s rapid urbanisation has also contributed to the declining relevance of PRIs.
+In 1990, nearly 75% of India’s population lived in rural areas
+; today, this figure has decreased to around
+60% and continues to decline.
+As a result,
+policy priorities have increasingly shifted toward urban governance
+and municipal reforms, relegating rural development to the background.
+demographic change threatens to marginalise PRIs
+, as attention and resources are increasingly directed toward cities and towns.
+Ways to Revitalising Panchayati Raj
+Strengthening Administrative and Fiscal Decentralisation
+State governments
+must commit to fully devolving administrative powers and resources
+to PRIs.
+includes granting panchayats greater control over local staff
+and increasing the proportion of untied financial grants.
+By doing so,
+PRIs can regain their autonomy
+and play a more proactive role in local decision-making.
+Leveraging Technology for Citizen Engagement
+integration of digital tools in governance
+presents an opportunity to strengthen citizen participation in local decision-making.
+By adopting digital platforms for planning, monitoring, and accountability,
+PRIs can enhance transparency and efficiency
+in service delivery.
+networked panchayati raj system can also bridge the rural-urban divide
+by facilitating better coordination between urban and rural development initiatives.
+Reimagining the Role of Panchayats in Rural Development
+PRIs can play a crucial role in addressing emerging challenges
+such as water conservation, renewable energy generation, and disaster risk management.
+leveraging scientific practices, traditional knowledge
+, and public financing, panchayats
+can contribute to sustainable development
+Additionally,
+they can support internal migration
+by providing social security measures for migrant workers and their families.
+Reviving Public Participation in Local Governance
+Efforts must be made to rekindle public interest
+and participation in the panchayati raj system.
+Encouraging community involvement in decision-making,
+conducting awareness campaigns, and ensuring that local governance remains transparent and accountable can help restore trust in PRIs.
+Conclusion
+The panchayati raj system was
+envisioned as a means to bring democracy closer to the people and empower local communities.
+systemic constraints
+, financial dependency, and shifting governance priorities
+have undermined its effectiveness.
+To ensure that PRIs remain relevant and impactful,
+India must adopt a renewed approach that prioritises administrative and fiscal decentralisation,
+integrates technological advancements, and redefines the role of panchayats in rural development.
+As 94 crore Indians still reside in villages,
+revitalizing the panchayati raj system is not just a necessity but a fundamental step toward inclusive governance
+and sustainable development.
+Click to View More
+Editorial Analysis
+**********Transforming India's Fruits & Vegetables Sector - Lessons from Dairy Success
+Context:
+India's fruits and vegetables (F&V) sector is
+expanding faster than cereals
+, contributing
+nearly 30%
+to crop agriculture. However, the sector needs to be redefined and transformed on the lines of the milk sector.
+Issues Faced by F&V Sector in India:
+Despite its nutritional and economic significance, F&V receives
+less policy support
+compared to cereals.
+Lack of organized value chains, storage, and processing infrastructure
+leads to seasonal gluts, price crashes, and post-harvest losses.
+Post-harvest losses
+amount to Rs 1.53 trillion annually, with 8.1% of fruits and 7.3% of vegetables lost.
+Also, farmers receive only about 30% of the consumer price.
+Replicating the Milk Revolution in F&V:
+Success of the milk sector:
+Led by
+Verghese Kurien
+, India transformed from a milk-deficient country to the
+world’s largest producer
+with 239 million tonnes in 2023-24.
+Impact of dairy cooperatives:
+AMUL ensures that farmers receive 75-80% of the consumer price.
+F&V vs dairy sector:
+Unlike dairy, F&V involves multiple commodities, seasonality, and regional concentration, making
+price stabilization complex
+Farmer Producer Organisations (FPOs) as a Solution:
+Role of FPOs:
+Integrating farmers into structured value chains can mitigate price volatility and post-harvest losses.
+Case Study - Sahyadri Farmer Producer Company Ltd (SFPCL):
+Founded in 2004 in Nashik, Maharashtra, with 10 farmers.
+Expanded to 26,500 farmers across 252 villages and 31,000 acres.
+Revenue surged from Rs 13 crore (2011-12) to Rs 1,549 crore (2023-24).
+64.6% revenue from domestic markets, 35.4% from exports (41 countries).
+Performance of SFPCL:
+Export performance:
+Dominated by grapes (63.9% of exports), followed by mango slices (18.2%) and banana (12.8%).
+Processing infrastructure:
+35% of domestic revenue from tomatoes processed into ketchup, puree, and sauces.
+Employment generation:
+Over 6,000 jobs, 32% being women employees.
+Scaling Up the F&V Sector:
+Government initiatives:
+FPO development:
+India has registered 8,875 out of a targeted 10,000 FPOs (as of August 2024) under the central sector scheme - Formation and Promotion of 10,000 FPOs.
+Operation Greens (2018):
+Launched to stabilize the supply of F&V in India, but with a modest Rs 500 crore allocation under the Ministry of Food Processing, it lacked both -
+A visionary leader (like Kurien in Operation Flood) and
+Clear accountability.
+Key interventions needed:
+Strengthening FPOs:
+Providing working capital, infrastructure, and digital integration.
+Market linkages:
+Platforms like Open Network for Digital Commerce (
+ONDC
+) and blockchain for transparency.
+Reviving and expanding:
+Operation Greens and the
+National Horticulture Mission.
+Commodity-specific value chains:
+Prioritizing processing of at least 10-20% of F&V produce to prevent distress sales.
+Need for a National Fruit & Vegetable Board:
+A centralized body
+, similar to the National Dairy Development Board (
+NDDB
+), is essential to streamline market linkages, promote value chains, and integrate retailers like
+SAFAL
+is the largest organised retail network of F&V in the NCR, which is owned by Mother Dairy (a subsidiary of the NDDB).
+Ensuring farmers receive 55-60% of the consumer price should be the goal.
+Key question:
+Can Vilas Shinde of Sahyadri Farms replicate Verghese Kurien’s dairy revolution for F&V?
+Conclusion:
+Sahyadri Farms could be the
+divadandi
+(lighthouse), as AMUL was in the milk sector.
+Policy backing, infrastructure, and a visionary leader
+are needed to drive growth.
+Transforming F&V can
+boost farmer incomes
+, reduce post-harvest losses, and stabilize prices,
+making India a global leader in horticulture
+Click to View More
+Editorial Analysis
+**********Weak Demand for sovereign green bonds
+Why in news?
+India has issued
+to fund its low-carbon transition, but investor demand remains weak.
+Despite their role in raising capital for clean energy, these bonds have struggled to secure a significant greenium (lower borrowing costs typically associated with such bonds) leading to funding cuts for key schemes like grid-scale solar.
+With limited investor interest, India is relying on
+general revenue
+to fill the gaps. Enhancing liquidity, improving reporting transparency, and considering sustainability bonds could help boost demand and expand green finance.
+What’s in today’s article?
+Green Bonds
+Muted Investor Demand for India's SGrBs
+Impact of Weak SGrB Demand
+Way Forward for India’s Sovereign Green Bonds
+Sovereign Green Bonds (SGrBs) are issued by sovereign entities like the Government of India, which established a framework for their issuance in 2022.
+These bonds fund
+"green projects"
+that promote energy efficiency, reduce carbon emissions, enhance climate resilience, and support natural ecosystems.
+Issuance and Funds Raised
+Since 2022-23, India has issued SGrBs eight times, raising nearly
+Rs 53,000 crore
+Around 50% of the proceeds are allocated annually to manufacturing energy-efficient
+three-phase electric locomotives
+under the Ministry of Railways.
+2024-25 Revised Allocations to schemes eligible under SGrBs
+Electric Locomotive Manufacturing – Rs 12,600 crore
+Metro Projects – Rs 8,000 crore
+Renewable Energy Projects (including National Green Hydrogen Mission) – Rs 4,607 crore
+Afforestation (National Mission for a Green India) – Rs 124 crore
+India's SGrB issues have faced weak investor interest, limiting the government's ability to secure a significant greenium (lower borrowing costs).
+Despite easing rules for foreign investors, auctions have seen low participation, often requiring primary dealers to absorb unsold bonds.
+Limited Greenium and Funding Challenges
+Globally, greeniums reach
+7-8 basis points
+, but in India, they remain at just
+2-3 basis points
+This makes SGrBs a less attractive funding source, restricting their expansion.
+Liquidity Constraints
+Small issue sizes and investors holding bonds until maturity have stifled secondary market trading, reducing their appeal to new buyers.
+Lack of Impact-Driven Investment Ecosystem
+India lacks a
+strong network of social impact funds and responsible investing mandates
+, which in other markets drive demand for green bonds.
+This further weakens investor enthusiasm for SGrBs.
+The government’s struggle to raise sufficient funds from SGrBs affects financing for eligible schemes, increasing reliance on general revenue to cover shortfalls.
+Revised Funding Estimates
+Initial Requirement (2024-25): Rs 32,061 crore
+Revised Estimate (after higher yield demands): Rs 25,298 crore
+Grid-Scale Solar Allocation Cut: Reduced from Rs 10,000 crore to Rs 1,300 crore
+Bridging the Shortfall
+Expected SGrB Proceeds: Rs 21,697 crore
+Amount Covered by General Revenue: Rs 3,600 crore
+These funding challenges highlight the urgent need to boost investor demand for SGrBs to ensure the sustainability of green initiatives.
+Exploring Sustainability Bonds
+A World Bank report highlights that emerging markets issue more sustainability bonds—which finance both green and social projects—compared to advanced economies that focus solely on green bonds.
+Introducing sustainability bonds could boost investor interest and increase proceeds.
+Improving Post-Issuance Reporting
+Delayed allocation and impact reports reduce investor confidence.
+Investors rely on these reports to assess fund utilization and refine their data models.
+However, India's 2023-24 allocation report is yet to be published, affecting transparency and trust.
+Leveraging Multilateral Partnerships
+India’s sovereign rating is not very high, which limits investor confidence.
+Partnering with multilateral development banks to support its green bond strategy could enhance credibility and attract more investment.
+Weak Demand for sovereign green bonds.pdf
+( Size:  2.8 MB  )
+Click to View More
+Economics
+**********[17th February 2025] The Hindu Op-ed: The Panchayati Raj Movement is in Distress
+Polity
+PYQ Relevance:
+) Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing developmental projects?
+(UPSC CSE 2018)
+Mentor’s Comment:
+UPSC mains have always focused on
+the Panchayat System (2015),
+and
+Local Governance (2021).
+The 73rd Amendment of 1992 was a milestone in India’s democracy, establishing the Panchayati Raj system to decentralize governance. It created a three-tier structure at the village, block, and district levels, ensuring regular local elections and reserving 50% of seats for women, Scheduled Castes, and Scheduled Tribes. This brought democracy to the grassroots, promoting local representation and inclusive leadership. However, progress in strengthening local governance has slowed. Rapid technological and societal changes now risk making Panchayats less relevant. To keep them effective, their role must be reimagined to address modern challenges while preserving their core democratic purpose.
+Today’s editorial talks about issues related to local government. This content would help in GS Paper 2 in mains answer writing.
+_
+Let’s learn!
+Why in the News?
+The special discussion in Parliament on the
+75th anniversary of the Indian Constitution
+had several salient aspects of the Constitution and policy directions adopted by previous governments but very little on a
+vital aspect of local governance
+was highlighted.
+Why is the Panchayati Raj movement facing distress?
+Incomplete Devolution of Powers:
+Many States have not transferred all 29 subjects under the Eleventh Schedule, limiting Panchayats’ decision-making authority.
+Example:
+A 2022 Ministry of Panchayati Raj report found that less than 20% of States had fully devolved powers, restricting local governance.
+Declining Fiscal Autonomy:
+Though direct transfers have increased, untied grants (which Panchayats can use freely) have reduced from 85% (13th Finance Commission) to 60% (15th Finance Commission).
+Many Gram Panchayats rely on centrally sponsored schemes, leaving little room for independent development planning.
+Marginalization Due to Digital Welfare Schemes:
+Direct Benefit Transfer (DBT) schemes like
+PM-KISAN
+bypass Panchayats, reducing their role in beneficiary selection and grievance redress.
+Farmers receive ₹6,000 annually under PM-KISAN directly in their accounts, eliminating Panchayats’ role in rural welfare.
+Political and Bureaucratic Interference:
+State governments and political parties use Panchayats as tools for electoral gains rather than empowering them as self-governing institutions.
+In states like
+West Bengal and Kerala
+, Panchayat elections are highly politicized, often leading to violence and reducing focus on governance.
+Impact of Urbanization:
+With India’s rural population declining (from ~75% in 1990 to ~60% today), policy focus has shifted towards urban development and municipal governance.
+Rural development funds have increasingly been diverted towards urban infrastructure projects, weakening Panchayat-led rural initiatives.
+What impact does the distress in Panchayati Raj have on rural development?
+Inefficiency in Rural Welfare Implementation:
+Panchayats have been sidelined in the distribution of welfare benefits, leading to inefficiencies and reduced grievance redressal.
+Schemes like
+PM Awas Yojana
+bypass Panchayats, causing delays in identifying genuine beneficiaries and addressing local concerns.
+Neglect of Rural Infrastructure and Public Services:
+Panchayats’ inability to raise resources has led to poor maintenance of rural roads, sanitation, and drinking water supply.
+Many village schools and health centres remain understaffed due to a lack of funds and decision-making power at the Panchayat level.
+Increased Rural-Urban Migration:
+The failure to create employment and sustainable livelihoods in villages forces rural youth to migrate to cities for work.
+States like
+Bihar and Uttar Pradesh
+witness high rural-to-urban migration as Panchayats are unable to promote local skill development and job creation.
+Weakened Local Decision-Making and Planning:
+Panchayats struggle to implement need-based development projects due to limited autonomy and lack of funds.
+In many states, Gram Panchayats cannot initiate independent infrastructure projects like rural roads or drinking water facilities without state approval.
+Reduced Grassroots Participation in Governance:
+Declining public engagement weakens democratic processes, reducing local accountability and effective implementation of schemes.
+Many village-level meetings (Gram Sabhas) see low attendance, leading to top-down decision-making that may not reflect local priorities.
+What steps can be taken to revive and strengthen the Panchayati Raj system?
+Greater Devolution of Powers and Functions:
+State governments should fully implement the
+by transferring all 29 subjects to Panchayats.
+Kerala’s
+People’s Plan Campaign
+empowered Panchayats with financial and planning autonomy, leading to better local governance.
+Enhancing Financial Autonomy:
+from Finance Commissions to Panchayats and allow them to generate local revenue through taxes and fees.
+Maharashtra has successfully implemented
+property tax collection
+at the Gram Panchayat level to fund local development.
+Strengthening Administrative Capacity:
+Appoint dedicated
+local-level bureaucrats
+and improve digital governance tools for efficient service delivery.
+Karnataka’s
+Gram Swaraj Project
+uses IT-based platforms to improve transparency and monitoring of Panchayat activities.
+Encouraging Citizen Participation and Accountability:
+Regular and
+active Gram Sabha meetings
+should be mandated for community involvement in decision-making.
+In Rajasthan,
+social audits
+of MGNREGA work through Gram Sabhas have improved transparency and reduced corruption.
+Expanding Panchayats’ Role in Emerging Areas:
+Panchayats should be given new responsibilities in areas like
+water conservation, renewable energy, and disaster management. Example:
+Gujarat’s
+Mission Mangalam
+engaged Panchayats in women-led SHGs to promote local entrepreneurship and sustainable rural development.
+Way forward:
+Comprehensive Devolution and Strengthening Autonomy
+– Ensure full transfer of subjects under the Eleventh Schedule, increase untied grants, and empower Panchayats with independent revenue-generating mechanisms to enhance self-governance.
+Capacity Building and Community Engagement
+– Improve Panchayat administration through digital tools, dedicated local bureaucrats, and mandated Gram Sabha participation to enhance transparency, accountability, and grassroots governance.
+**********When can President’s Rule be imposed?
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+President Rule;
+Why in the News?
+After Manipur CM N. Biren Singh resigned, President’s Rule was imposed on February 13 due to ethnic violence and the BJP’s failure to find a consensus CM candidate.
+What is the President’s Rule?
+President’s Rule, also known as Governor’s Rule, is the suspension of a state government and imposition of direct rule by the central government. It is invoked when the constitutional machinery in a State has failed, making it impossible for the State government to function according to constitutional provisions.
+It is a mechanism to uphold the constitutional order, ensure continuity of governance, and protect the interests of citizens when a State government is unable to function according to the constitutional framework. The President’s Rule is also known as ‘Constitutional Emergency’ or ‘State Emergency’.
+Constitutional Provisions
+Article 356:
+According to Article 356 of the Indian Constitution, the President can declare President’s Rule in a state if they are satisfied that the government of that State cannot be carried on in accordance with the Constitution. The President can act based on a report from the State’s Governor or even without such a report.
+Article 365:
+According to Article 365 of the Indian Constitution, the President may invoke President’s Rule if a State fails to comply with or give effect to directions from the Union government.
+What are some previous instances of the imposition of President’s Rule?
+First Instance (1951 – Punjab)
+: The first-ever imposition of
+was in
+Punjab (PEPSU state)
+in 1951 due to the collapse of the Gopi Chand Bhargava-led government.
+1967 Political Crisis (Multiple States)
+: After the
+Fourth General Elections
+, many states had unstable coalition governments. President’s Rule was imposed in states like
+West Bengal, Kerala, and Uttar Pradesh
+due to political instability.
+1984 – Punjab (After Indira Gandhi’s Assassination)
+: Following the assassination of
+, there were widespread
+riots and breakdown of law and order
+in Punjab. The state was placed under
+President’s Rule from 1983 to 1985
+to handle the crisis.
+1992 – Dismissal of BJP Governments (Post-Babri Masjid Demolition)
+demolition of Babri Masjid
+in December 1992, President’s Rule was imposed in
+Madhya Pradesh, Himachal Pradesh, Rajasthan, and Uttar Pradesh
+, where BJP-led governments were in power.
+2016 – Uttarakhand & Arunachal Pradesh (Judicial Review Cases)
+: President’s Rule was controversially imposed in
+Uttarakhand and Arunachal Pradesh
+due to political instability, but the Supreme Court later
+revoked it
+, citing unconstitutional use of Article 356.
+Why has it become less frequent?
+Judicial Review & Bommai Judgment (1994)
+– The
+S.R. Bommai vs Union of India
+case allowed
+judicial review of President’s Rule
+, enabling courts to
+strike down unconstitutional proclamations
+, deterring its misuse.
+Example: Arunachal Pradesh (2016)
+– President’s Rule was imposed, citing a breakdown of constitutional machinery. The
+Supreme Court overturned the decision
+, ruling that the Governor’s actions were unconstitutional and reinstating the Congress-led government.
+Stricter Conditions for Extension
+– After
+one year of President’s Rule
+, extensions require
+either a national emergency or the Election Commission’s certification
+that elections cannot be held, making prolonged Central rule difficult.
+For example, The
+Supreme Court’s judgment in the S.R. Bommai vs Union of India (1994)
+case established stricter conditions for extending
+President’s Rule beyond one year
+Political & Legal Accountability
+– Increased
+coalition politics and judicial interventions
+have made it harder for the Union government to arbitrarily impose President’s Rule, ensuring greater
+stability and democratic governance
+in States.
+Example: Uttarakhand (2016)
+– The Congress-led government faced internal rebellion, leading to the imposition of the
+High Court and Supreme Court struck it down
+, restoring the elected government.
+What does it mean to keep a legislature in suspended animation?
+Temporary Suspension Without Dissolution
+– Keeping the legislature in suspended animation means that the state assembly is
+temporarily inactive but not dissolved
+during President’s Rule. This allows the possibility of reinstating the assembly if political stability is restored.
+Manipur (2025)
+, the state assembly was kept in suspended animation after the imposition of President’s Rule, instead of being dissolved.
+Governor Takes Over Legislative Functions
+– The powers of the legislature are transferred to the
+during this period, effectively sidelining the elected representatives.
+, the assembly was suspended, and the Governor was entrusted with the state’s administrative powers after the imposition of President’s Rule.
+Potential for Revival
+– The assembly can be
+revived if conditions improve
+and a popular government can be formed, allowing the political process to resume once the President’s Rule is revoked.
+Jammu and Kashmir (2018-2019)
+, the state assembly remained in suspended animation after the imposition of President’s Rule, waiting for a stable political situation before elections could take place.
+Way forward:
+Strengthening Federal Governance
+– To prevent the misuse of President’s Rule, it is essential to promote a more robust system of checks and balances, ensuring that any imposition of President’s Rule is transparent and justified, with clear guidelines for intervention.
+Reform of Political Stability Mechanisms
+– Encouraging political parties to form more stable coalitions and ensuring timely elections through institutional mechanisms will reduce the need for prolonged central intervention, preserving the autonomy of states while maintaining national integrity.
+**********Why is a new Bill on foreigners coming? 
+Polity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to Immigration;
+Why in the News?
+The Union Ministry of Home Affairs (MHA) is ready to present the Immigration and Foreigners Bill 2025 during the second part of the Budget session. The bill will replace the four existing laws governing immigration and the movement of foreigners.
+What are the contours of the Immigration and Foreigners Bill, 2025?
+Repeal of Existing Laws
+: The Bill seeks to repeal four outdated laws—
+Foreigners Act, 1946; Passport (Entry into India) Act, 1920; Registration of Foreigners Act, 1939; and Immigration (Carriers’ Liability) Act, 2000
+—creating a unified and modern legal framework for immigration and foreigners’ movement.
+Streamlining of Immigration Procedures
+: It consolidates various provisions related to passport requirements, visa regulations, foreigners’ registration, and immigration officers into a single, comprehensive document, simplifying the immigration process and reducing overlaps.
+Security and National Interests
+: The Bill introduces specific grounds for refusing entry or stay, including threats to national security, sovereignty, public health, and relations with foreign states, providing a legal basis for rejecting foreign nationals on these grounds.
+Penal Provisions
+: The Bill imposes stringent penalties, including up to
+five years of imprisonment
+₹5 lakh fine
+for entering without proper documents, and up to
+seven years imprisonment
+and a
+fine of ₹10 lakh
+for using forged travel documents.
+Responsibilities of Institutions
+: It mandates educational institutions, hospitals, and accommodation providers (hotels/guest houses) to register foreign nationals and share their details with authorities, improving the tracking and monitoring of foreigners within India.
+What are the obligations for admitting foreign nationals?
+Educational Institutions and Hospitals
+: Universities, colleges, and medical institutions are required to admit foreign nationals and register them with authorities, ensuring proper tracking of their stay and activities in India.
+Accommodation Providers
+: Hotels, guest houses, and other lodging facilities must collect and share the passport details of foreign nationals with the police, facilitating monitoring and identification.
+Compliance with Registration Requirements
+: Foreign nationals are obligated to comply with the registration and reporting requirements set by the authorities, including staying within legal frameworks for their stay duration and purpose of visit.
+How does the Bill penalise the use or supply of forged passports, visas, or other travel documents?
+Imprisonment for Using or Supplying Forged Documents
+: The Bill mandates
+imprisonment for at least two years
+, which could extend to
+for individuals using or supplying forged travel documents.
+Example
+: If someone uses a forged passport to enter India, they could face a prison term ranging from
+two years to seven years
+Imposition of Hefty Fines
+: Offenders will be penalized with fines ranging from
+₹1 lakh to ₹10 lakh
+, depending on the severity of the offence.
+: If a travel agent is caught supplying forged visas to multiple foreign nationals, they could be fined up to
+Penalizing Fraudulent Passport and Visa Usage
+: The Bill specifically criminalizes the
+fraudulent use of passports or visas
+to gain entry into India, with severe consequences.
+: A person entering India with a visa obtained through misrepresentation of their identity or travel intentions could face
+up to seven years in prison
+and a fine.
+Severe Penalties for Large-Scale Document Fraud
+: The Bill has provisions for severe penalties if an individual is found to be involved in
+a large-scale operation
+of producing or distributing forged documents.
+: A network of individuals producing fake tourist visas for people intending to stay illegally in India would face
+multiple years of imprisonment
+and significant fines.
+Deterrence for Document Fraud
+: The Bill aims to act as a
+strong deterrent
+against illegal activities related to forged documents by combining
+long prison sentences
+high fines
+to dissuade such practices.
+: An individual found using a fraudulent visa to work in India illegally might be arrested, detained, and penalized, both by imprisonment and a fine, to prevent further illegal entry attempts.
+Way forward:
+Enhance Enforcement and Training
+: Strengthen the capacity of immigration authorities and law enforcement by providing specialized training on detecting forged documents and ensuring effective implementation of registration requirements, especially for educational institutions and accommodation providers.
+Promote Public Awareness and International Cooperation
+: Launch awareness campaigns for foreign nationals and stakeholders, such as travel agents, to emphasize the legal consequences of document fraud.
+Mains PYQ:
+How does illegal transborder migration pose a threat to India’s security? Discuss the strategies to curb this, bringing out the factors which give impetus to such migration.
+(UPSC IAS/2014)
+**********Coral Reefs in the Gulf of Eilat recover after a ‘Shutdown’
+world map
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Researchers have discovered a
+significant pause in
+coral reef
+growth
+Gulf of Eilat/Aqaba
+during the
+late Holocene period
+.
+Key Highlights of the Study:
+The study identified a
+4,400 – 1,000-year hiatus in coral growth
+, similar to events observed in
+Mexico, Brazil, and Australia
+Scientists attribute this
+temporary halt
+to a
+sea-level drop caused by tectonic activity and cooling events
+, which
+exposed coral reefs
+and disrupted their development.
+Despite this, the reef
+recovered by recolonizing from deeper coral communities
+, showcasing
+its natural resilience
+About Gulf of Eilat
+Also known as the
+Gulf of Aqaba
+, it is a
+narrow extension of the Red Sea
+, located between the
+Sinai Peninsula (Egypt) and the Arabian Peninsula
+It connects to the
+Red Sea through the Strait of Tiran
+and borders
+Egypt, Israel, Jordan, and Saudi Arabia
+The city of
+Eilat (Israel) and Aqaba (Jordan)
+lie along its shores, making it a
+strategic trade and tourism hub
+Geographical and Political Significance:
+Strategic Trade Route:
+Provides access to the Indian Ocean via the Red Sea, critical for Israel and Jordan’s maritime trade.
+Bordering Multiple Nations:
+Shares coastlines with Egypt, Israel, Jordan, and Saudi Arabia, making it a key area for regional diplomacy and security.
+Tourism & Marine Biodiversity:
+Known for coral reefs and marine life, attracting divers and boosting the economies of Eilat and Aqaba.
+Geopolitical Sensitivity:
+The Strait of Tiran has been historically significant in Arab-Israeli conflicts, especially during the Six-Day War (1967) when Egypt blocked Israeli access.
+Energy & Trade Importance:
+It is an alternative route for oil shipments and goods trade, reducing reliance on the Suez Canal.
+PYQ:
+[2014]
+Which of the following have coral reefs?
+1. Andaman and Nicobar Islands
+2. Gulf of Kachchh
+3. Gulf of Mannar
+4. Sunderbans
+Select the correct answer using the code given below:
+(a) 1, 2 and 3 only
+(b) 2 and 4 only
+(c) 1 and 3 only
+(d) 1, 2, 3 and 4
+**********Loggerhead Turtles use Geomagnetic Field to navigate large Distances
+Species
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+A new study in
+Nature
+reveals that loggerhead turtles can
+learn and remember the magnetic signature
+of an area, using
+Earth’s geomagnetic field
+for navigation during
+long migrations
+.
+About Loggerhead Sea Turtles (Caretta caretta)
+Loggerhead Sea Turtles belong to the
+Cheloniidae family
+, widely distributed across the world’s
+oceans
+They are commonly found in
+Atlantic, Pacific, Indian Oceans
+, and the
+Mediterranean Sea
+They Spends most of its life in
+saltwater and estuarine habitats
+, coming ashore only to
+nest
+omnivorous
+, feeding primarily on
+bottom-dwelling invertebrates
+It is listed as
+Vulnerable
+by the
+International Union for Conservation of Nature (IUCN)
+International trade banned under
+CITES Appendix I
+Significance of the study
+Loggerhead turtles travel
+thousands of kilometers across oceans
+and return to the
+same feeding and nesting sites
+Their ability to
+store magnetic memories
+helps them navigate vast distances, reinforcing the hypothesis that other
+migratory species may also rely on Earth’s magnetic field
+PYQ:
+[2019]
+Consider the following statements:
+Some species of turtles are herbivores.
+Some species of fish are herbivores.
+Some species of marine mammals are herbivores.
+Some species of snakes are viviparous.
+Which of the statements given above are correct?
+(a) 1 and 3 only
+(b) 2, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+**********Corruption Perceptions Index, 2024
+Prelims Only
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+India has ranked 96 out of 180 countries in the Corruption Perceptions Index (CPI) 2024, released by Transparency International on February 11, 2025.
+About the Corruption Perceptions Index (CPI), 2024
+The
+is an
+annual ranking
+published by
+, assessing
+public sector corruption perceptions
+across
+180 countries and territories
+CPI score ranges from 0 to 100
+0 = Highly Corrupt
+100 = Very Clean
+The index is based on
+expert analysis and business surveys
+from reputable institutions such as the
+World Bank and World Economic Forum
+It highlights
+trends in corruption levels worldwide
+, enabling comparisons between countries and regions.
+Significance of the CPI:
+The CPI
+helps assess the effectiveness of anti-corruption policies
+across countries.
+Corruption affects
+foreign investment, ease of doing business, and economic growth
+CPI 2024 emphasizes corruption as a major threat to climate action
+Funds for
+climate mitigation and adaptation
+are often misused, delaying environmental progress.
+Countries with
+low scores face pressure to strengthen anti-corruption laws
+India’s Ranking in CPI, 2024:
+Overall Performance:
+India ranked 96 out of 180 countries
+, with a
+CPI score of 38
+(dropping from
+39 in 2023
+40 in 2022
+).
+The decline highlights
+ongoing governance challenges, enforcement gaps, and institutional corruption issues
+Comparison with Other Countries:
+China (76), Sri Lanka (121), Pakistan (135),
+Bangladesh (149)
+ranked below India.
+Denmark remains the least corrupt nation
+, while over
+two-thirds of countries scored below 50
+, indicating widespread corruption.
+Challenges & Areas for Improvement:
+Weak enforcement of anti-corruption laws, regulatory loopholes, and opacity in political funding
+remain concerns.
+Strengthening institutional accountability, judicial independence, and transparency in governance
+is essential.
+PYQ:
+[2017]
+With reference to the ‘Prohibition of Benami Property Transactions Act, 1988 (PBPT Act)’, consider the following statements:
+A property transaction is not treated as a benami transaction if the owner of the property is not aware of the transaction.
+Properties held benami are liable for confiscation by the Government.
+The Act provides for three authorities for investigations but does not provide for any appellate mechanism.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) 1 and 3 only
+(d) 2 and 3 only
+**********What is the Cancer Vaccine Russia is offering?
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+mRNA (Messenger RNA)
+Why in the News?
+In December 2024, Russia announced the development of a
+new mRNA-based personalized cancer vaccine
+, with plans to make it available
+for free to patients by early 2025
+.
+What is mRNA (Messenger RNA)?
+mRNA is a type of RNA that
+transports genetic information from DNA to ribosomes
+, guiding the production of proteins.
+It
+tells the cell which proteins to make
+by providing the exact sequence of amino acids.
+Unlike DNA, mRNA
+does not stay in the cell permanently
+; it gets
+degraded after protein synthesis
+mRNA-based vaccines (like
+COVID-19 vaccines
+) teach cells to
+produce harmless viral proteins
+, triggering an immune response.
+What is an mRNA Cancer Vaccine?
+Unlike traditional vaccines,
+mRNA vaccines provide genetic instructions
+to train the immune system to detect and attack cancer cells.
+This technology gained prominence with the
+COVID-19 vaccines (Pfizer-BioNTech, Moderna)
+and is now being adapted for
+cancer treatment
+These vaccines are
+therapeutic
+, designed for
+patients who already have cancer
+, not for prevention.
+How do mRNA Cancer Vaccines Work?
+Cancer cells evade the immune system by suppressing immune responses
+Immunotherapy works by
+enhancing the body’s natural ability to detect and destroy these cancerous cells
+Unlike chemotherapy, which kills both healthy and cancerous cells, immunotherapy selectively targets only cancer cells
+, reducing
+harmful side effects
+mRNA cancer vaccines are
+customized for each patient
+, targeting
+specific tumor antigens
+, making them
+highly personalized and potentially more effective
+While traditional
+infectious disease vaccines prevent illness
+, mRNA cancer vaccines are
+, meaning they are
+administered to patients who already have cancer
+to help their immune system fight the disease.
+PYQ:
+[2019]
+RNA interference (RNAi)’ technology has gained popularity in the last few years. Why?
+It is used in developing gene silencing therapies.
+It can be used in developing therapies for the treatment of cancer.
+It can be used to develop hormone replacement therapies.
+It can be used to produce crop plants that are resistant to viral pathogens.
+Select the correct answer using the codes given below:
+(a) 1, 2 and 4
+(b) 2 and 3
+(c) 1 and 3
+(d) 1 and 4 only
+**********

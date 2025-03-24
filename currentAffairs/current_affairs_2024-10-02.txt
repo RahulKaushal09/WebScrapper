@@ -1,0 +1,431 @@
+Jal Hi AMRIT Programme
+Recently, the Union Minister for Housing and Urban Affairs said that the government has introduced the Jal Hi AMRIT scheme in its first 100 days.
+About Jal Hi AMRIT Programme:
+It was launched under the AMRUT 2.0 scheme.
+Under this initiative, it is envisaged to incentivise State & UTs to manage the used water (sewage) treatment plants (UWTPs/ STPs) efficiently to ensure recyclable good quality treated water, meeting environmental standards, on a sustained basis.
+The purpose of the exercise is to build competition among the cities, develop capacities and incentivise them to attain the best quality of used treated water at the treatment facilities.
+The main focus is thus on capacity building & incentivizing qualitative improvements in the treated discharge effluent.
+A mid-course assessment and water quality testing will be conducted, culminating in a final assessment & award of Clean Water Credits in terms of a Star-rating (between 3 stars to 5 stars) certificate valid for six months.
+Key facts about AMRUT 2.0 scheme
+It was launched for a period of five years, from the financial year 2021-22 to the financial year 2025-26.
+It is designed to provide universal coverage of water supply through functional taps to all households in all the statutory towns in the country and coverage of sewerage/septage management in 500 cities covered in the first phase of the AMRUT scheme.
+AMRUT 2.0 will promote a circular economy of water by developing the City Water Balance Plan (CWBP) for each city, focusing on recycling/reusing treated sewage, rejuvenating water bodies, and water conservation.
+Click to View More
+Source :
+In the first 100 days of this government a new scheme Jal Hi AMRIT has been approved
+Polity & Governance
+**********Mudumalai Tiger Reserve
+Recently, a survey of herpetofauna – reptiles and amphibians – within the Mudumalai Tiger Reserve (MTR), led to the identification of 33 reptiles and 36 amphibians that were recorded from the region for the first time.
+About Mudumalai Tiger Reserve:
+Location: It is located in the Nilgiris District of Tamil Nadu state at the tri-junction of three states, viz, Karnataka, Kerala and Tamil Nadu.
+The name Mudumalai means the ancient hill range because it is as old as 65 million years when the Western Ghats were formed.
+It has a common boundary with Wayanad Wildlife Sanctuary (Kerala) on the West, and Bandipur Tiger Reserve (Karnataka) on the North.
+The Theppakadu elephant camp is a popular tourist attraction.
+Vegetation: A variety of habitats ranging from tropical evergreen forest, moist deciduous forest, moist teak forest, dry teak forest, secondary grasslands and swamps are found here.
+Flora: The Reserve has tall grasses, commonly referred to as “Elephant Grass”, Bamboo of the giant variety, valuable timber species like Teak, Rosewood, etc.
+Fauna: Elephants, Gaur, Tiger, Panther, Spotted Deer, Barking Deer, Wild Boar, Porcupine etc.
+Highlights of the Survey
+Two critically endangered species of amphibians, Micrixalus spelunca, commonly known as the cave dancing frog, and Nyctibatrachus indraneili, the Indraneil’s Night Frog were found here.
+Other Endangered species of amphibians like the endemic Star-eyed Bush Frog, Nilgiri Bush Frog and Nilgiris wart frog were also found.
+Click to View More
+Source :
+Rare and endangered herpetofauna recorded in survey at Mudumalai Tiger Reserve
+Environment
+**********BharatGen
+Recently, the BharatGen initiative was launched by the Union Ministry of Science & Technology.
+About BharatGen:
+It is an initiative which will create generative AI systems that can generate high-quality text and multimodal content in various Indian languages.
+It is the first Government-supported Multimodal Large Language Model Initiative.
+It is implemented by IIT Bombay under the National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS).
+Features of BharatGen
+The multilingual and multimodal nature of foundation models;
+Bhartiya data set-based building, and training;
+Open-source platform development of an ecosystem of generative AI research in the country.
+The project is expected to be completed in two years along with plans to benefit several government, private, educational, and research institutions.
+What is Multimodal Large Language Model?
+It is designed to process and generate multiple modalities, including text, images, and sometimes audio and video.
+These models are trained on large datasets containing text and image data, allowing them to learn the relationships between different modalities.
+They can be used in many ways, including image captioning, visual question answering, and content recommendation systems that use text and image data to provide personalized recommendations.
+Click to View More
+Source :
+India launches BharatGen project for generative AI in local languages
+**********Sebi Tightens F&O Rules
+Why in the News?
+The
+Securities and Exchange Board of India
+(SEBI) has introduced
+six new regulations aimed at reducing retail participation in the high-risk Futures and Options (F&O) market
+.
+What’s in Today’s Article?
+About F&O (Derivatives, Futures, Options, Examples, Differences, etc.)
+News Summary
+About F&O:
+Futures and Options (F&O) are derivative financial instruments that derive their value from an underlying asset, such as stocks, commodities, or indices.
+They are widely traded in the Indian stock market, primarily on exchanges like the
+National Stock Exchange
+(NSE) and the
+Bombay Stock Exchange
+(BSE).
+Understanding F&O is crucial for investors looking to hedge risks, speculate, or enhance portfolio strategies.
+In India, F&O trading is regulated by the
+(SEBI).
+What are Derivatives?
+Derivatives are
+financial contracts whose value is dependent on an underlying asset
+, which can be equities, indices, commodities, or currencies.
+F&O are the two most popular types of derivative contracts in India
+About Futures:
+futures contract
+is a legal agreement to buy or sell an asset at a predetermined price at a specified future date.
+Both the buyer and the seller are obligated to complete the transaction at the agreed price, regardless of the current market value at the time of the contract's maturity.
+Key Features:
+Standardized Contracts:
+Futures contracts are standardized in terms of quantity, quality, and delivery time.
+Leverage:
+Investors can trade large amounts of assets by putting down a fraction of the value, known as margin. This offers leverage but also increases risk.
+Mark-to-Market:
+Futures contracts are marked to market daily, meaning profits and losses are calculated at the end of each trading day.
+Settlement:
+In India, most futures contracts are settled in cash, but certain commodity futures might involve physical delivery.
+Example:
+If you buy a Nifty 50 futures contract at 19,000 and the market rises to 19,500 by the contract's expiry, you profit ₹500 per unit.
+Conversely, if the market drops to 18,500, you incur a loss of ₹500 per unit.
+About Options:
+contracts give the holder the right, but not the obligation, to buy or sell an asset at a predetermined price before or on the contract’s expiry date. There are two types of options:
+Call options
+Put options
+Call Option:
+call option
+gives the buyer the right to purchase the underlying asset at a fixed price within a specified time frame. This is used when investors expect the price of the asset to increase.
+Put Option:
+put option
+gives the buyer the right to sell the underlying asset at a predetermined price within a specific time frame. Investors use this when they expect the asset's price to fall.
+Premium:
+In both call and put options, the buyer pays a premium to the seller (writer) for the right to exercise the option. The premium is the cost of purchasing the option.
+Suppose you purchase a call option on Reliance stock with a strike price of ₹2,500. If Reliance’s stock price rises to ₹2,700 before the option’s expiry, you have the right to buy it at ₹2,500, gaining ₹200 per share.
+If you buy a put option for the same stock with a strike price of ₹2,500, and the price drops to ₹2,300, you can sell it at ₹2,500, making a profit of ₹200 per share.
+Key Differences Between Futures & Options:
+Sebi Tightens F&O Rules:
+. The changes include:
+Raising the minimum contract value to ₹15 lakh,
+Requiring upfront payment of options premium,
+Limiting weekly expiries to one per exchange, and
+Increasing margins as contracts approach expiry.
+The regulations will be implemented in phases, with the first set of changes, including higher contract sizes and a 2% rise in loss margin for short options on expiry day, taking effect on November 20, 2024.
+Additional measures like the removal of calendar spread benefits will begin on February 1, 2025, and intra-day position limit monitoring will start from April 1, 2025.
+These actions follow concerns raised by the Reserve Bank of India (RBI) and the Finance Ministry about
+retail investors losing substantial household savings in speculative F&O trades
+A SEBI study revealed that
+93% of retail traders suffered losses averaging ₹2 lakh in the past three financial years
+contributing to a total net loss of ₹1.81 trillion between FY22 and FY24
+While the regulations aim to enhance market risk management and curb speculative behavior, brokerage firms and stock exchanges are expected to face a reduction in F&O trading volumes by 30-40%.
+newspaper.pdf
+( Size:  563.3 KB  )
+Click to View More
+Economics
+**********Reforming the Insolvency and Bankruptcy Code (IBC)
+Why in News?
+According to the G20 Sherpa and former CEO of Niti Aayog (Amitabh Kant), the Insolvency and Bankruptcy Code (IBC) is in need of second-generation reforms to acknowledge concerns regarding the present functioning of the Code.
+What’s in Today’s Article?
+What is the Insolvency and Bankruptcy Code (IBC)?
+What is the Process Followed under the IBC?
+Issues Faced in the Implementation of the IBC
+First Generation Reforms to Strengthen IBC
+Way Ahead - Suggestions Given by Amitabh Kant to Strengthen IBC
+Insolvency vs Bankruptcy:
+While insolvency results from an inability to pay debts due to a lack of assets, bankruptcy occurs when an application is presented to an authority declaring insolvency and requesting to be declared bankrupt, which will last until discharge.
+About the IBC 2016:
+It is the bankruptcy law of India which seeks to
+consolidate the existing framework
+by creating a single law for insolvency and bankruptcy.
+a one stop solution
+for resolving insolvencies which previously was a long process that did not offer an economically viable arrangement.
+aims to protect the interests of small investors
+and make the process of doing business less cumbersome.
+About IBBI:
+It is the regulator for overseeing insolvency proceedings
+and entities like Insolvency Professional Agencies (IPA), Insolvency Professionals (IP) and Information Utilities (IU) in India.
+It was established on 1 October 2016
+and given statutory powers through the IBC 2016.
+It functions under the
+Ministry of Corporate Affairs
+covers
+Individuals, Companies, Limited Liability Partnerships and Partnership firms.
+When a corporate debtor (CD) or a company, which has taken loans to run its business, defaults on its loan repayment, either the creditor or the debtor can apply for the initiation of a CIRP.
+CIRP stands for
+Corporate Insolvency Resolution Process (CIRP)
+, which comes under Section 6 of the IBC.
+Earlier, the minimum amount of default after which the creditor or debtor could apply for insolvency was ₹1 lakh.
+But, considering the stress on companies amid the pandemic, the government increased
+the minimum amount to ₹1 crore
+To apply for insolvency
+, one has to approach a stipulated adjudicating authority (
+AA
+) under the IBC. The various benches of the National Company Law Tribunal (
+NCLT
+) across India are the designated AAs.
+The Tribunal has 14 days to admit or reject
+the application or has to provide a reason if the admission is delayed.
+The CIRP or resolution process begins once an application is admitted by the AA. The amended mandatory deadline for the completion of the resolution process is
+330 days.
+Issues Faced in the Implementation of the IBC:
+Delay in resolving bankruptcy cases:
+The IBC aims to resolve bankruptcy cases within a set time frame, but the average time taken to complete the process is longer than the stipulated 330 days.
+Time taken for insolvency resolutions at the NCLT averaged
+716 days in FY24
+, up from 654 days in FY23.
+Low approval rate:
+Only a small percentage of cases end with approved resolution plans. Average time taken for the admission of cases increased to
+650 days in FY22
+from 468 days in FY21.
+Even after approval, final resolution plans are often challenged, which can lead to further delays.
+High number of liquidations:
+A large number of cases end up in liquidation, which goes against the IBC's goal of resolving bankruptcy.
+Low recovery rates:
+There is an inverse relationship between the time taken for resolution and the value recovered, highlighting that delays are eroding creditor recoveries.
+The rate of recovery for creditors as a percentage of admitted claims
+fell to 27% in FY24
+from 36% in FY23.
+Lack of operational NCLT benches:
+Many NCLT benches are not fully operational due to a lack of infrastructure and support staff.
+Issues with valuers:
+Some stakeholders have raised concerns about the credibility of valuers enlisted as registered valuers by IBBI.
+Ambiguity in definitions:
+The definitions of liquidation value and other concepts are ambiguous, and court judgments contradict each other.
+First Generation Reforms to Strengthen IBC:
+Ever since IBC was enacted and IBBI was formed, consistent efforts were made to make it a potent debt resolution tool for bringing cultural shift towards loan repayments.
+Several amendments
+were made to make it more effective as the law experienced hiccups on its way to implement it.
+For example,
+the motive behind introducing the IBBI (Insolvency Resolution Process for Corporate Persons) (2nd Amendment) Regulations 2023 is to facilitate the smooth functioning of the CIRP.
+Way Ahead - Suggestions Given by Amitabh Kant to Strengthen IBC:
+Speaking at the IBBI’s annual meeting, Kant called for a
+second generation of reforms
+to strengthen the IBC 2016.
+India must consider -
+Outsourcing court management
+for insolvency proceedings to private players (like in the case of
+Passport Seva Kendras
+that are operated by TCS Ltd) to cut delays and boost creditor recovery.
+Amending the IBC
+to clarify key legal principles and enable the implementation of a cross-border insolvency framework.
+newspaper.pdf
+( Size:  483.4 KB  )
+Click to View More
+Economics
+**********10 years of Swachh Bharat Mission
+Why in news?
+The Swachh Bharat Mission (SBM), launched by Prime Minister Narendra Modi in 2014, marks its 10th anniversary on October 2, 2024.
+The campaign aimed to fulfill Mahatma Gandhi’s vision of a clean India, with the goal of achieving this by his 150th birth anniversary in 2019.
+What’s in today’s article?
+Achievements of Swachh Bharat Mission
+Impact of SBM
+Criticism of SBM
+About
+SBM was launched in 2014 to achieve an open defecation free (ODF) India in five years.
+This
+progressed the country towards SDG 6.2
+, which aims for adequate and equitable sanitation access for all, especially for women and girls.
+The mission sought to transform sanitation and waste management across India through both infrastructure development and cultural shifts toward cleanliness.
+Two parts of the mission
+SBM-Gramin
+for rural areas, managed by the Ministry of Drinking Water and Sanitation, and
+SBM-Urban
+for cities, overseen by the Ministry of Housing and Urban Affairs.
+Focus area
+Building individual household toilets
+: To eliminate open defecation by providing toilets to all households.
+Creating community and public toilets
+: Especially in high-traffic or underserved areas where individual toilets may not be feasible.
+Solid waste management
+: Efficiently handling waste collection, segregation, and disposal to improve cleanliness.
+Awareness and behavioral change campaigns
+: Promoting the importance of cleanliness and hygiene to encourage lasting changes in public behavior.
+Targets of SBM
+SBM was launched with the goal of eliminating open defecation by constructing millions of household and community toilets.
+The ODF definition required that no one in a city or ward is found defecating in the open at any time of day.
+The mission focused on providing every household with individual toilets, cluster toilets for communities, and proper waste management systems for school and anganwadi toilets.
+To support this, the government increased assistance from Rs 10,000 (under the previous Nirmal Bharat Abhiyan) to Rs 12,000 per toilet.
+After the mission's initial five years,
+SBM 2.0 was launched in 2021
+, shifting the focus to creating garbage-free cities and addressing faecal sludge, plastic waste, and greywater management for enhanced urban sanitation.
+Toilet Construction and ODF Declarations
+Toilets Built
+: Over
+10 crore toilets
+have been constructed under the mission.
+ODF Villages
+: On October 2, 2019,
+6 lakh villages
+were declared open defecation-free (ODF).
+Urban ODF Status
+: By December 2019, urban India, except for cities in West Bengal, was also declared ODF by the Ministry of Housing and Urban Affairs.
+Targets and Financial Support
+Individual Toilets
+: A total of
+66 lakh individual toilets
+were constructed, surpassing the target of
+59 lakh
+Financial Assistance
+: The Centre released
+Rs 57,469.22 crore
+to states and Union Territories for SBM-Gramin from 2014-2015 to 2018-2019. The budget for SBM-Urban was
+Rs 62,009 crore
+ODF+ Achievements
+ODF+ Declarations
+5.54 lakh villages
+3,913 cities
+have been declared ODF+ under SBM-Gramin 2.0 and SBM-Urban 2.0 since 2020-21.
+ODF+ status indicates these areas also have arrangements for liquid waste management.
+Future Plans and Allocations
+SBM-G 2.0 Budget
+: The Cabinet approved spending of
+Rs 1.40 lakh crore
+for SBM-Gramin 2.0 from 2020-21 to 2024-2025, with
+Rs 52,497 crore
+allocated from the Drinking Water and Sanitation Department.
+SBM-U 2.0 Approval
+: SBM-Urban 2.0 was approved in 2021 with an allocation of
+Rs 1.41 lakh crore
+Landfill Remediation Progress
+Legacy Landfills
+: The goal is to clear all
+2,400 legacy landfills
+in cities by 2025-2026.
+So far,
+30%
+of the area targeted for clearing has been achieved, and
+41%
+of the waste remediation goal has been met.
+Waste Management Statistics
+: According to the SBM-U dashboard,
+97%
+of municipal wards have door-to-door waste collection, and
+90%
+have achieved
+100% segregation at source
+Impact of Swachh Bharat Mission on Health
+Deaths Averted
+WHO estimated that from 2014 to October 2019, the Swachh Bharat Mission-Gramin (SBM-G) could avert approximately
+3 lakh deaths
+related to diarrhoea and protein-energy malnutrition.
+Prior to SBM,
+unsafe sanitation
+was responsible for an estimated
+199 million cases of diarrhoea annually
+, a figure that has been gradually decreasing with the implementation of the mission.
+Link to Infant Mortality Reduction
+A recent study published in Nature found a significant link between the SBM and a reduction in infant deaths.
+The research indicated that the mission may have contributed to
+60,000 to 70,000 fewer infant deaths
+each year from 2014 to 2020.
+Although there was a general decline in infant mortality from 2003 to 2020, the reduction accelerated after 2015, coinciding with the SBM's initiatives.
+Toilet Access
+2011 Census
+53.1%
+of households (rural and urban) lacked any form of toilets.
+The extent of improvement in toilet access since then is yet to be assessed, as the
+Census 2021
+has been delayed.
+Quality of Construction
+Substandard Toilets
+: Many toilets constructed under the SBM have been reported to be of poor quality, lacking proper sanitation facilities, and failing to meet the required standards.
+Non-Functional Toilets
+: Some toilets were built but remain unused or are not functional due to maintenance issues or inadequate water supply.
+Data Discrepancies
+Inflated Numbers
+: Critics have pointed out discrepancies in the reporting of ODF declarations and the actual ground situation. Some villages and cities declared as ODF may not meet the criteria for such status.
+Verification Issues
+: The verification process for ODF status has been questioned, with claims that local officials may have exaggerated achievements to meet targets.
+Focus on Infrastructure Over Behavior Change
+Lack of Awareness Campaigns
+: While the mission emphasizes building toilets, critics argue that it has not adequately focused on creating awareness and promoting behavioral changes regarding sanitation practices.
+Cultural Resistance
+: In many areas, social norms and cultural practices regarding sanitation persist, and merely building toilets does not change people's behavior regarding their use.
+Implementation Challenges
+Insufficient Monitoring
+: There have been calls for better monitoring and evaluation of SBM initiatives at the ground level to ensure effectiveness.
+Local Government Capacity
+: Some local bodies may lack the capacity or resources to implement the mission effectively, leading to challenges in execution.
+Exclusion of Marginalized Groups
+Accessibility Issues
+: Reports indicate that marginalized communities, including Scheduled Castes and Scheduled Tribes, often face barriers to accessing sanitation facilities, thus undermining the mission's objectives of inclusivity.
+Gender Concerns
+: The mission has been criticized for not adequately addressing the specific sanitation needs of women and girls, such as menstrual hygiene management.
+Environmental Concerns
+Solid Waste Management
+: While the mission addresses toilet construction, critics argue that it has not effectively dealt with solid waste management issues, which continue to pose significant environmental challenges.
+Sustainability Issues
+: Some critics highlight that without sustainable practices, such as proper waste disposal and treatment systems, the mission's long-term success may be jeopardized.
+Delayed Census and Lack of Data
+Impact Measurement
+: The delay in the Census 2021 has hindered the ability to measure the true impact of the SBM on sanitation coverage and improvements, leading to concerns over the reliability of available data.
+10 years of Swachh Bharat Mission.pdf
+( Size:  1.8 MB  )
+Click to View More
+Social Issues
+**********NITI Aayog Report on Future Pandemic Preparedness
+Why in news?
+NITI Aayog has released an Expert Group report titled ‘Future Pandemic Preparedness and Emergency Response —A Framework for Action’. This report has provided a blueprint for the country to prepare for any future public health emergency or pandemic and have a rapid response system in place.
+What’s in today’s article?
+Background – the formation of an expert group
+Key recommendations of the report
+COVID 19 – Not the last pandemic
+The COVID-19 contagion is undoubtedly not the last pandemic.
+Given the unpredictably, changing planetary ecology, climate and human-animal-plant dynamics, new potentially, large-scale infectious threats to human health are inevitable.
+The WHO has warned the world that 75% of future public health threats are likely to be zoonotic threats (which could be due to emerging, re-emerging and new pathogens).
+Formation of an expert group
+In June 2023, NITI Aayog, recognizing the likelihood of future pandemics due to changing planetary ecology, climate, and human-animal-plant dynamics, constituted an Expert Group.
+The expert group was created to provide a Framework for Action for future pandemic preparedness.
+Its key task was to analyze how COVID-19 was managed both nationally and globally, identifying lessons learned from successes and challenges.
+The group aimed to pinpoint gaps in response strategies to enhance preparedness for future public health emergencies.
+Their report provides a comprehensive blueprint for efficient and effective responses to large-scale infectious threats.
+Public Health Emergency Management Act (PHEMA)
+Highlights the limitations of the existing legal framework
+The report highlights the limitations of the existing legal framework used during the COVID-19 pandemic, specifically the
+Epidemic Diseases Act (EDA) of 1897
+and the
+National Disaster Management Act (NDMA) of 2005
+The EDA lacks definitions for key terms like "dangerous" or "infectious" diseases and doesn't address processes for drug distribution, vaccines, quarantine, or preventive measures.
+Similarly, the NDMA was not designed to manage health emergencies, as it primarily focuses on natural disasters.
+Enacting a new Public Health Emergency Management Act (PHEMA)
+To address these gaps, the report recommends enacting a new Public Health Emergency Management Act (PHEMA).
+This law would empower central and state governments to respond effectively to pandemics and other health emergencies, including non-communicable diseases, disasters, or bioterrorism.
+PHEMA would equip public health agencies with urgent action powers and create trained public health cadres at national and state levels to act as first responders.
+Empowered panel of Secretaries
+The report proposes establishing an Empowered Group of Secretaries (EGoS), headed by the Cabinet Secretary, to oversee public health emergency preparedness and response.
+This committee will operate during non-crisis periods to strengthen governance, finance, R&D, surveillance, and partnerships, ensuring a rapid response when emergencies arise.
+EGoS will also create Standard Operating Procedures (SOPs) for handling pandemics and set up sub-committees to manage these key areas effectively, enhancing the nation's readiness for future health crises.
+Strengthen surveillance
+The report emphasizes the need to strengthen India's disease surveillance network, particularly in light of past epidemics and pandemics, many of which were linked to viruses originating from bat species.
+It stresses the importance of constant monitoring at human-bat interfaces.
+Key recommendations include establishing a national biosecurity and biosafety network, which would connect leading research institutions, biosafety containment labs, and genome sequencing centers.
+This system should operate in a coordinated, automated manner to respond swiftly to early warning signs of a public health threat.
+Additionally, the report proposes
+creating an emergency vaccine bank
+, which would source vaccines domestically or internationally, ensuring rapid access during health emergencies.
+Network for early warning
+The report advocates for creating an epidemiology forecasting and modeling network to predict the transmission dynamics of infectious diseases and assess the effectiveness of countermeasures like vaccines in various scenarios.
+It also calls for a network of Centres of Excellence (CoE) focused on researching priority pathogens.
+These CoEs would work on diagnostics, therapeutics, and vaccines for priority pathogens identified by the World Health Organization, developing them in advance to ensure preparedness for future public health emergencies.
+Independent drug regulator
+The report stresses the need for India to establish a robust clinical trial network recognized by international regulatory authorities to ensure rapid access to innovative medical products during public health emergencies.
+It highlights the importance of
+making the Central Drugs Standards Control Organisation (CDSCO) an independent body with special powers
+Currently, the CDSCO, responsible for regulating drug import, sale, manufacture, and distribution, operates under the Ministry of Health, but greater autonomy is recommended for faster and more efficient responses in crises.
+Other recommendations
+100-Day Preparedness Strategy
+: The experts realised that responding in the
+first 100 days of an outbreak is crucial for effective management
+. Hence, it emphasizes a rapid response system to be fully operational within the first 100 days of an outbreak.
+Public Health Workforce
+: Expanding and enhancing the public health workforce, especially in rural and underserved areas.
+Supply Chain Resilience
+: Developing a robust supply chain for essential medical supplies, vaccines, and personal protective equipment (PPE).
+Digital Infrastructure and Data Sharing
+: Leveraging technology and data-sharing frameworks to ensure transparency, coordination, and swift action.
+NITI Aayog Report on Future Pandemic Preparedness.pdf
+( Size:  2.3 MB  )
+Click to View More
+Polity & Governance
+**********

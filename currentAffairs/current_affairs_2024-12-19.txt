@@ -1,0 +1,1467 @@
+CRIME AND CRIMINAL TRACKING NETWORK AND SYSTEMS (CCTNS)
+Syllabus:
+Prelims & Mains – CURRENT EVENT
+Context:
+Nearly 15 years after it was launched, all 17,130 police stations in the country have been linked through the Crime and Criminal Tracking Network and Systems (CCTNS).
+Background: –
+Launched in 2009, the CCTNS has also become key to the implementation of the three new criminal laws that were rolled out on July 1.
+About CCTNS
+The Crime and Criminal Tracking Network and Systems (CCTNS) is a flagship project under the Indian Ministry of Home Affairs (MHA) aimed at creating a comprehensive and integrated system for enhancing the efficiency and effectiveness of policing through technology.
+Objective:
+To provide a nationwide integrated platform for investigation, detection, and prevention of crimes.
+To enhance citizen services like online registration of complaints and tracking case status.
+Scope:
+Link all police stations across India through a unified network.
+Enable seamless sharing of information on crimes and criminals among law enforcement agencies.
+Components:
+Core Application Software (CAS): Provides a standardized platform for data entry, retrieval, and sharing.
+National Database: Centralized repository of criminal records, FIRs, and investigation reports.
+Integration with Other Systems: Links with databases such as Fingerprint Identification Systems, Vehicle Registration, and Passport Verification.
+Some of the Citizen-Centric Services:
+Filing complaints online.
+Viewing the status of registered complaints and FIRs.
+Searching for missing persons or stolen vehicles.
+Integrated Criminal Justice System (ICJS) :
+The scope of the CCTNS has been enhanced over the years to integrate the police data with other pillars of the criminal justice system namely courts, prisons, prosecution, forensics and finger prints, and accordingly a new system called the Integrated Criminal Justice System (ICJS) has been developed.
+Source:
+The Hindu
+**********
+HINDU KUSH HIMALAYA FACES RISKS AMID RECORD GLACIER MELTING
+Mains – ENVIRONMENT
+The State of the Cryosphere 2024 report, presented at the UN Climate Change Conference in Baku, warns that rising carbon emissions could increase global temperatures by over 3°C by century’s end, causing unprecedented glacier melting, including in the Indian Himalayan Region.
+The glaciers of the HKH region, also known as the “Third Pole” or the “Water Tower of the Earth”, are the source of some of the world’s major river systems like the Indus, Ganga, and Brahmaputra.
+Key takeaways
+Cryosphere refers to the frozen water part of the Earth’s surface. Its components include snow, glaciers, ice caps, ice sheets, sea ice and permafrost. These elements are primarily found in polar regions, high latitudes and high-altitude areas of the Earth’s surface.
+Rising temperatures are affecting every part of the Cryosphere. This year’s summer is the third in a row when sea ice in Antarctica was reduced to less than 2 million square kilometers.
+If the current warming trend continues to grow, there is a possibility of complete sea ice loss around Antarctica during the summer months. This would cause the warming of water and further melting of Antarctica’s ice sheet.
+Also, it is estimated that exceeding the 1.5°C limit could cause a rise above 10 meters in sea level in the coming centuries.
+Venezuela lost its last glacier, ‘Humboldt,’ this year, while Indonesia’s ‘Eternity Glacier’ will likely melt completely within the next two years.
+As the temperature increases, there will be less solid precipitation (snow) and more liquid precipitation, even at higher altitudes, resulting in less seasonal snow occurrence overall.
+Additionally, thawing permafrost will lead to increased concentration of CO2 in the atmosphere.
+Hindu Kush Himalayan region
+The HKH region witnessed record-low snowfall during the winter of 2023-2024. This decline in seasonal snow availability will also have an impact on food, energy and water security for both the country and the region.
+The Indian Himalayan Region, which spans 13 states and Union Territories, will be directly affected by these changes. It is projected that even a 2°C rise in global temperatures could result in a 50 per cent loss of ice from High Mountain Asian glaciers.
+This will intensify catastrophic hazards, such as the Glacial Lake Outburst Floods (GLOFs), already occurring in High Mountain Asia, particularly in India. Recent GLOF at South Lhonak Lake in Sikkim (October 2023), led to the loss of human lives and extensive damage to infrastructure.
+Indian Express
+**********
+ARCTIC TUNDRA IS EMITTING MORE CARBON THAN IT IS ABSORBING
+Prelims & Mains – GEOGRAPHY
+Arctic tundra, which has stored carbon for thousands of years, has now become a source of greenhouse gases (GHGs), according to a new analysis report by the National Oceanic and Atmospheric Administration’s (NOAA).
+The analysis, ‘Arctic Report Card’, is a yearly report on the polar region and was published last week.
+How does the Arctic tundra store carbon?
+In a typical ecosystem, plants absorb carbon dioxide (CO2) from the atmosphere through photosynthesis. These plants grow, die, or are eaten by animals which also grow and die. When they die, the carbon in their corpse feeds microorganisms such as bacteria or fungi which break down larger molecules and return CO2 to the atmosphere, thereby completing the carbon cycle.
+However, in the case of Arctic tundra, the decomposition of organic matter is dramatically slowed down due to the cold climate. Plant and animal remains can stay trapped for thousands of years in permafrost thwarting CO2 from getting released back into the atmosphere.
+Scientists estimate that Arctic soils store more than 1.6 trillion metric tonnes of carbon across the region. That is about double the amount of carbon in the atmosphere.
+Why is the Arctic tundra emitting more carbon than absorbing it?
+In recent years, however, the Arctic tundra’s ability to emit less and absorb more carbon has taken a hit. The new analysis confirmed that the ecosystem has now become a source of CO2 and methane (CH4) emissions.
+That has happened for two main reasons. One is rising temperatures. The report said the Arctic is warming four times the global rate.
+As a result, the Arctic’s permafrost is thawing, meaning microbes in the soil are becoming active and breaking the organic matter down, releasing CO2 and CH4 into the atmosphere.
+Another reason is that, in recent years, the Arctic has witnessed an increase in the frequency and intensity of wildfires. Last year was the worst wildfire season in the Arctic on record. Wildfire smoke adds GHG emissions to the atmosphere while also speeding up the thawing of permafrost.
+Wildfires and rising temperatures together, between 2001 and 2020, caused the Arctic tundra to release more carbon than its plants removed from the air, probably for the first time in many millennia, the report said.
+**********
+MIRROR BACTERIA
+Prelims – SCIENCE & TECHNOLOGY
+A group of 38 scientists working in nine countries has sounded an alarm about the potential creation of mirror bacteria.
+While the science and technology necessary to create mirror bacteria in a laboratory is a decade or more away, the scientists argued that the possibly lethal risks posed by this new field of research are “unprecedented” and “overlooked.”
+Mirror bacteria are a hypothetical form of synthetic life that scientists are exploring. These organisms are constructed from molecules that are mirror images of those found in natural life forms.
+What are Mirror Bacteria?
+Chirality: Natural life forms use molecules with specific orientations, known as chirality. For example, DNA and RNA are composed of right-handed molecules, while proteins are made from left-handed amino acids. Mirror bacteria would have reversed chirality, with left-handed DNA and right-handed proteins.
+Synthetic Creation: Scientists are working on creating bacteria with these mirror-image molecules, which could have unique properties and behaviors.
+Potential Risks:
+Immune Evasion: Mirror bacteria could potentially evade natural immune defenses, as these defenses rely on recognizing specific molecular shapes. This could make infections caused by mirror bacteria difficult to control.
+Environmental Impact: These bacteria might also evade natural predators like viruses and protists, potentially leading to uncontrolled spread in the environment.
+Health Threats: There is concern that mirror bacteria could cause lethal infections in humans, animals, and plants, posing a significant health risk.
+CNN
+**********
+MIRZA GHALIB
+Prelims – ART & CULTURE
+A three-day event titled ‘Remembering Ghalib’ organised by Delhi government commemorated the birth anniversary of poet Mirza Ghalib.
+The event conceptualised by Kathak exponent Padma Bhushan Uma Sharma aimsed to bring the essence of Ghalib’s life and works to contemporary audiences.
+Mirza Ghalib (1797-1869) was a renowned Urdu and Persian poet, often considered the last great poet of the Mughal era.
+Early Life:
+Birth: Born as Mirza Asadullah Beg Khan on December 27, 1797, in Agra, India.
+Family: His father, Mirza Abdullah Baig, was killed in battle when Ghalib was just five years old. He was then raised by his uncle who passed away when Ghalib was nine.
+Education: Ghalib did not receive formal education but was self-taught, learning Persian and Arabic literature.
+Literary Career:
+Pen Names: Ghalib, meaning “dominant,” and Asad, meaning “lion,” were his pen names.
+Works: He wrote extensively in both Urdu and Persian, with his Urdu poetry being particularly celebrated. His famous works include Diwan-e-Ghalib, a collection of his poetry, containing some of the most profound Urdu ghazals ever written.
+Themes: His poetry often explored themes of love, loss, and existential reflection, reflecting the socio-political landscape of 19th-century India under British colonial rule.
+Financial Struggles: Ghalib faced financial difficulties throughout his life and relied on patrons for support.
+Recognition: Despite his struggles, he was eventually recognized and appointed as the poet laureate in the court of the last Mughal emperor, Bahadur Shah Zafar.
+PTI
+**********
+Daily Practice MCQs
+Q1.) Consider the following statements regarding Mirror Bacteria:
+Mirror bacteria are constructed from molecules with chirality opposite to natural life forms.
+These bacteria, if created, could evade natural immune defenses and environmental predators.
+Mirror bacteria are naturally occurring organisms found in deep-sea ecosystems.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2, and 3
+Q2.) With reference to Mirza Ghalib, consider the following statements:
+He is widely regarded as one of the greatest poets of the Mughal era.
+Ghalib’s Diwan-e-Ghalib is a collection of his Urdu poetry.
+Ghalib received formal education in Persian and Arabic literature.
+Q3.) Consider the following statements about the Crime and Criminal Tracking Network and Systems (CCTNS):
+CCTNS aims to link all police stations in India through an integrated network.
+It facilitates online complaint registration and case tracking by citizens.
+CCTNS is entirely independent of the Integrated Criminal Justice System (ICJS).
+(b) 1 and 3 only
+(c) 2 and 3 only
+Comment the answers to the above questions in the comment section below!!
+ANSWERS FOR ’  Today’s
+– Daily Practice MCQs’ will be updated along with tomorrow’s Daily Current Affairs
+**********Sacred Groves
+The Supreme Court of India has directed the Union Government to formulate a comprehensive policy for managing sacred groves across the country.
+What Are Sacred Groves?
+are
+small patches of forests
+or natural vegetation that are
+protected by local communities
+due to their
+religious and cultural significance
+. These areas are often dedicated to local deities and serve as both ecological sanctuaries and sites of spiritual reverence.
+They act as
+repositories of biodiversity
+, sheltering rare plant and animal species.
+Hunting and deforestation
+are usually prohibited, while sustainable activities such as
+honey collection
+or gathering
+deadwood
+are permitted.
+Sacred Groves in India:
+Sacred groves are scattered across India but are particularly found in regions like:
+Western Ghats
+Himalayas
+northeastern hill tracts
+Central India
+Regional Names for Sacred Groves
+Sarna
+in Bihar
+Dev Van
+in Himachal Pradesh
+Devarakadu
+in Karnataka
+Kavu
+Sarpa Kavu
+in Kerala
+Devrai
+Deorai
+in Maharashtra
+Law Kyntang
+Asong Khosi
+in Meghalaya
+Oran
+in Rajasthan
+Examples of Success
+Piplantri Village, Rajasthan
+: Known for planting
+111 trees
+for every girl child born. This initiative has enhanced local income, reduced female foeticide, and empowered women’s self-help groups.
+Click to View More
+Source :
+Formulate policy to manage sacred groves, Supreme Court tells government
+Environment
+**********Crime and Criminal Tracking Network and Systems (CCTNS)
+All 17,130 police stations across India are now linked through the CCTNS platform.
+About CCTNS:
+It is a
+centralized online platform
+conceptualized under the Ministry of Home Affairs.
+Launched in
+2009
+with a budget of ₹2,000 crore, it is part of India’s
+National e-Governance Plan
+It aims to establish a
+comprehensive and integrated system
+to enhance the efficiency and transparency of police operations at the
+police station level
+Classified as a
+Mission Mode Project (MMP)
+, the system provides law enforcement with tools for
+investigation, data analytics, policymaking
+, and delivering
+citizen-centric services
+Key Features of CCTNS:
+Nationwide integration
+: It connects all
+across 28 states and 8 Union Territories. Recently achieved 100% deployment, including in remote areas like Manipur, Nagaland, and Lakshadweep.
+Comprehensive crime database
+: Stores records of
+accused persons, habitual offenders, proclaimed offenders,
+and crime-related data such as missing persons and stolen vehicles.
+Analytical tools
+: Generates
+crime statistics
+and detailed reports for analysis at the police station level.
+Citizen services
+: Enables tracking of complaints, verification requests, and case updates, making police processes more accessible.
+Enhanced scope
+: Integrated with the
+Integrated Criminal Justice System (ICJS)
+, connecting police data with
+courts, prisons, prosecution, forensics, and fingerprint databases
+Key Modifications Under New Criminal Laws:
+CCTNS plays a pivotal role in implementing the
+new criminal laws introduced on July 1, 2024
+Bharatiya Nyaya Sanhita
+(replaces Indian Penal Code, 1860).
+Bharatiya Sakshya Adhiniyam
+(replaces Indian Evidence Act, 1872).
+Bharatiya Nagarik Suraksha Sanhita
+(replaces Code of Criminal Procedure, 1898).
+Key updates include:
+Mandatory videography
+: Crime scene videography and forensic evidence collection in cases punishable by over seven years.
+Forensic investigations
+: Biological samples collected upon request of investigating officers.
+Arrest transparency
+Senior officer approval required for arrests in specific cases.
+Arrest information communicated to relatives and displayed publicly.
+Case monitoring
+: Victims updated on investigation progress within
+90 days
+Digital reporting
+: Daily diaries sent to magistrates fortnightly.
+About National Crime Records Bureau (NCRB):
+Established
+: 1986, under the
+(MHA).
+Purpose
+: Acts as the central repository for crime and criminal data in India.
+Headquarters
+: New Delhi.
+Responsible for:
+Collecting and analyzing crime statistics.
+Managing the
+Central Finger Print Bureau
+, which maintains a national database of fingerprints.
+Publishing key reports like
+Crime in India
+Accidental Deaths & Suicides
+Prison Statistics
+Providing technical support in areas like
+Digital Forensics
+Network Security
+Click to View More
+Source :
+All 17,130 police stations in the country linked through centralised online platform
+Polity & Governance
+**********Jungle Fowl
+Recently, a controversy has arisen regarding the alleged consumption of 'Jungli Murga' (Grey Junglefowl) by the Chief Minister of Himachal Pradesh.
+About the Red Junglefowl (Gallus gallus):
+The
+is a tropical pheasant species and the
+wild ancestor of the domestic chicken
+, making it vital for understanding avian domestication.
+It is native to
+India
+Indo-China
+Malaysia
+, and surrounding regions.
+IUCN Status:
+Category
+Least Concern
+Reasons
+Wide distribution
+: Found across a large geographical range.
+Stable population
+: Declines are not rapid enough to meet the criteria for vulnerability.
+Habitat
+: It is found in diverse habitats like
+primeval forests
+dry scrublands
+secondary growth woodlands
+Despite being listed as
+IUCN Red List
+, the species faces threats from habitat loss and hybridization with domestic chickens.
+Threats
+Hybridization
+: Feral domestic chickens and intermediate subspecies threaten the genetic purity of wild populations.
+Lack of Awareness
+: Insufficient education on the importance of preserving pure populations of the Red Junglefowl.
+About Grey Junglefowl
+(Gallus sonneratii):
+It is the closely related species of the
+Males
+are grayish with golden markings on the wings, whitish spotting around the neck, a long glossy-black tail, pinkish feet. Red comb and wattle are smaller than the widespread Red Junglefowl.
+Females
+are rather plain, lacking the long tail, comb and wattle; yellowish legs and bold white spotting on underparts separate them from similar looking female Red Junglefowl.
+It is endemic to peninsular India
+It is listed under
+Schedule I
+Wildlife (Protection) Act, 1972
+, providing it with the highest level of legal protection.
+Hunting or consuming this species is a
+criminal offence
+, punishable under the Act.
+Click to View More
+Source :
+‘Jungli Murga’ on HP CM’s dinner menu? Police file case of defamation, fake news
+Environment
+**********Tuberculosis
+The Government of India recently launched a 100-day tuberculosis (TB) campaign, focusing on active screening in 347 high-risk districts. In its first week, the campaign detected 6,267 new TB cases.
+Understanding Tuberculosis (TB):
+Tuberculosis (TB) is a bacterial infection caused by
+Mycobacterium tuberculosis
+, which primarily affects the lungs.
+TB is a
+curable and preventable disease
+if detected early and treated appropriately.
+There are two types of TB infections:
+Latent TB
+: In this state, the bacteria remain inactive in the body and cause no symptoms. It is not contagious but can become active.
+Active TB
+: In this condition, the bacteria cause symptoms and can be transmitted to others.
+Globally,
+one-quarter of the population
+is estimated to have latent TB.
+Individuals infected with TB bacteria have a
+5-15% lifetime risk
+of developing the disease.
+People with
+compromised immune systems
+—such as those with
+HIV
+malnutrition
+diabetes
+, or those who use
+tobacco
+—have a significantly higher risk of falling ill with TB.
+Transmission of Tuberculosis:
+TB spreads from person to person through the air.
+When a person with lung TB
+coughs, sneezes, or spits
+, TB bacteria are released into the air.
+Even inhaling a few droplets of contaminated air can cause an infection.
+Key Facts and Objectives of the Campaign:
+Over
+5 lakh individuals
+have been actively screened through
+health and wellness centres
+850 mobile testing vans
+Target population
+: The campaign targets
+25 crore vulnerable individuals
+, including:
+Family members of TB patients.
+People with conditions like
+diabetes, HIV
+, or those who smoke or drink excessively.
+Individuals with
+BMI below 18.5
+or who had TB in the past.
+Screening and diagnostic efforts
+: Camps are organized at
+health and wellness centers
+supported by
+Screening focuses on symptoms like
+persistent cough (15+ days), fever, weight loss, loss of appetite, breathlessness, chest pain
+, and
+blood in sputum
+Reduction in missing cases
+: Missing TB cases (the gap between estimated and detected cases) have been reduced from
+15 lakh to 2.5 lakh
+, according to the Health Ministry.
+Focus on High-Risk Groups and Areas:
+Targeted Demographics
+: Groups include
+students, youth, corporate employees
+, and laborers in
+brick kilns, mines, construction sites, tea gardens
+, and more.
+High-risk districts
+347 districts
+38 tribal areas, 27 mining zones, and 47 aspirational districts
+. States with the highest number of districts in the campaign:
+Karnataka
+(31),
+Maharashtra
+(30), and
+Madhya Pradesh
+(23).
+Click to View More
+Source :
+100-day campaign: 16,000 TB cases detected, 5 lakh screened | India News
+Science & Tech
+**********Gandhi Sagar Wildlife Sanctuary
+Recently, Madhya Pradesh aims to create a suitable habitat for cheetahs in the Gandhi Sagar Wildlife Sanctuary, spread over 2,500 sq. km of landscape spanning Madhya Pradesh and Rajasthan.
+About Gandhi Sagar Wildlife Sanctuary:
+Location
+: It is situated in
+northwestern Madhya Pradesh
+, along the
+Madhya Pradesh-Rajasthan border
+and lies within the
+Khathiar-Gir dry deciduous forests ecoregion
+Key features
+Declared a sanctuary in
+1974
+, covering an area of
+368 sq. km
+The
+Chambal River
+flows through the sanctuary, dividing it into two parts.
+It is a designated
+Important Bird and Biodiversity Area (IBA)
+Topography and Vegetation
+: The sanctuary includes
+hills
+plateaus
+, and the
+catchment area of the Gandhi Sagar Dam
+. Vegetation types:
+Northern tropical dry deciduous forest.
+Northern tropical dry mixed deciduous forest.
+Dry deciduous scrub.
+Principal tree species:
+Khair
+Salai
+Kardhai
+Dhawda
+Tendu
+Palash
+Fauna
+Herbivores
+: Chinkara, Nilgai, and Spotted Deer.
+Carnivores
+: Indian Leopard, Striped Hyena, and Jackal.
+Aquatic species include
+crocodiles
+fish
+otters
+turtles
+Historical and Cultural Importance
+: The sanctuary houses sites of historical and archaeological significance, such as
+Chaurasigarh
+Chaturbhujnath Temple, Bhadkaji rock paintings
+Hinglajgarh Fort and Taxakeshwar Temple.
+Click to View More
+Source :
+Madhya Pradesh plans a new home for cheetahs, but leopards will have to move out first | India News
+Environment
+**********Milkweed fiber
+The Union Ministry of Textiles is encouraging by extending its research and development efforts into new natural fibers, including milkweed fiber.
+About Milkweed fiber:
+It is the
+seed fiber
+obtained from
+milkweed plant.
+Milkweed (Asclepias syriaca) plant belongs to the genus Asclepias of the family Asclepiadaceae and is also known as
+stubborn weed.
+In India, it is found as a wild plant in the
+Rajasthan, Karnataka and Tamil Nadu.
+Milkweed contains an abundance of milk sap in its leaves, stems and pods.
+Properties of Milkweed fiber:
+It contains
+oily material and lignin,
+a woody plant substance, which makes them too brittle for spinning. It has a
+hydrophobic–oleophobic surface
+due to the natural waxes found on the surface of the fiber.
+Applications:
+It is used in
+paper industries.
+In addition, it is also used as an
+insulative filling material.
+It is used in such water-safety equipment as life jackets and belts.
+Researchers discovered that it readily absorbs oil while simultaneously repelling water, thus making it an effective fiber to help clean up oil spills.
+Click to View More
+Source :
+Milkweed fiber is the buzz word coming to sustainability and Textile Ministry marching along with the symphony of sustainability & traceability: Giriraj Singh
+Science & Tech
+**********Strengthening the Roots of an Agri-Carbon Market
+Context
+The concept of carbon markets holds immense promise for transforming Indian agriculture
+by incentivising sustainable farming practices while addressing the pressing challenge of climate change.
+These markets,
+rooted in the principles of carbon pricing, function through compliance and voluntary mechanisms.
+By developing a system where greenhouse gas (GHG) emissions are offset through regulated frameworks
+or voluntary efforts,
+carbon markets present a dual opportunity:
+creating economic benefits for farmers and contributing to global climate goals.
+Understanding the Concept of Carbon Markets and their Objective
+Compliance Carbon Markets
+Compliance markets, also known as mandatory markets, are
+regulated by international agreements, national governments, or regional authorities.
+Their
+primary objective is to enforce emission reduction targets by establishing caps
+on the amount of GHG emissions a company or industry can produce.
+Entities that exceed these caps are required to purchase carbon credits
+or face financial penalties, such as carbon taxes.
+Carbon credits in compliance markets are often derived from projects that actively mitigate emissions,
+such as reforestation, renewable energy generation, or sustainable agriculture.
+For example,
+agroforestry projects can absorb atmospheric carbon dioxide,
+while renewable energy projects replace fossil fuel usage with cleaner alternatives.
+Voluntary Carbon Markets
+Unlike compliance markets,
+voluntary carbon markets operate outside government mandates.
+These markets enable organisations, individuals, and businesses to offset their
+carbon footprint on a discretionary basis.
+Participants purchase carbon credits to demonstrate their commitment to sustainability,
+often as part of corporate social responsibility (CSR) initiatives or to meet consumer expectations for environmentally conscious practices.
+Credits in voluntary markets are issued through mechanisms such as the Clean Development Mechanism
+, Verra, and Gold Standard.
+These frameworks certify projects that reduce or remove GHG emissions
+, ensuring the integrity and credibility of the credits.
+Objective of the Carbon Market: Complementary Roles in Climate Mitigation
+While compliance and voluntary markets operate under distinct paradigms,
+they share a common goal: reducing GHG emissions to combat climate change.
+Compliance markets drive systemic change by enforcing stringent regulations,
+while voluntary markets foster grassroots innovation and participation.
+Together, they create a comprehensive approach to emissions reduction
+, balancing mandatory obligations with voluntary contributions.
+In the Indian context
+, these markets hold immense potential for transforming agriculture
+Challenges in India's Agricultural Carbon Market
+Lack of Farmer Awareness and Participation
+One of the most pressing issues is the l
+imited awareness among farmers about the concept of carbon markets,
+their benefits, and how they function.
+Surveys indicate that 45% of farmers involved in carbon credit projects reported no communication
+regarding the initiative.
+Without a clear understanding of the goals
+, processes, and rewards,
+farmers are unlikely to actively engage in sustainable practices or trust the system.
+Additionally,
+cultural, and educational barriers often make it difficult for farmers
+, especially those in rural and marginalised communities,
+to comprehend complex carbon trading mechanisms.
+Inadequate Training in Sustainable Practices
+For farmers to meet the additionality condition,
+a key criterion for earning carbon credits, they must adopt new and innovative sustainable practices.
+However,
+over 60% of farmers reported receiving no training or guidance in implementing techniques such as zero tillage
+, intercropping, micro-irrigation, or alternate wetting and drying.
+Without proper training, farmers struggle to implement these methods effectively,
+leading to suboptimal outcomes and frustration.
+The lack of technical support also increases the risk of project failure
+Farmers unable to maintain sustainable practices
+often revert to conventional methods, which
+compromises the permanence of the environmental benefits achieved.
+Delayed and Insufficient Financial Incentives
+A significant incentive for farmer participation in carbon markets is the
+potential for additional income through the sale of carbon credits.
+the reality often falls short of expectations
+alarmingly, 99% of farmers involved in these projects have not received carbon credit payments.
+This
+delay undermines trust in the system
+and discourages continued participation.
+Moreover,
+the financial returns promised by carbon markets are often insufficient to offset the costs or risks
+associated with transitioning to sustainable farming.
+Yield Penalties and Food Security Concerns
+Farmers transitioning to sustainable practices
+often experience yield reductions during the initial years of implementation.
+This is especially concerning for smallholder farmers
+, who rely heavily on their harvest for both income and subsistence.
+Yield penalties not only threaten their livelihoods but also raise broader concerns about food security,
+particularly in a country like India where agriculture plays a critical role in feeding a large population.
+Quality and Credibility of Carbon Credits
+The credibility of carbon markets
+depends on the quality of the credits generated.
+Projects that fail to deliver promised environmental benefits produce unreliable credits
+, eroding buyer confidence.
+If buyers perceive Indian agricultural carbon credits as low-quality or unverifiable, they may stop purchasing them altogether.
+This would deprive farmers of a vital income source
+and discourage the adoption of sustainable practices.
+The Path Forward to Address the Challenges in India’s Agriculture Carbon Market
+Improving the Agricultural Carbon Market
+Projects should prioritise smallholders and marginalised communities
+, with higher prices for credits generated by these groups.
+Effective communication, regular training, and guaranteed payments are essential
+to sustaining farmer participation.
+Partnerships with research institutions can help identify regions and interventions
+that balance yield improvements with carbon farming.
+Advancing the Science of Carbon Monitoring
+measurement and monitoring of soil carbon and GHG emissions have seen significant advancements
+, with tools like remote sensing, satellite imagery, drones, and sensors becoming more accessible.
+These technologies can improve the accuracy and reliability
+of carbon markets.
+the key lies in overcoming traditional implementation challenges
+, such as ensuring transparency, inclusivity, and timely rewards for farmers.
+Conclusion
+potential of carbon markets to revolutionise Indian agriculture cannot be overstated
+and with concerted effort,
+India can establish a robust agricultural carbon market that supports both its farmers and its environmental goals.
+By aligning sustainable practices with economic incentives, these markets can serve as a powerful tool
+for climate mitigation and rural development.
+Success, however, depends on addressing the current challenges, creating collaboration among stakeholders, and ensuring that the benefits of carbon markets are accessible to all,
+particularly smallholders and marginalised farmers.
+Click to View More
+Editorial Analysis
+**********Himalayan Birch Tree
+According to new research, climate change is altering Himalayan tree landscape where drought-resistant fir trees are replacing the Himalayan birch Trees.
+About Himalayan Birch Tree:
+It is a
+deciduous broadleaved species
+that dominates the Himalayan region.
+Distribution:
+It is widely distributed in the altitudinal range from
+3100 - 3800m
+in North-western Himalaya.
+It is native to the
+Western Himalayas
+and grows at elevations of up to 4,500 metres
+Features:
+It has a high
+freezing tolerance potential,
+allowing it to form a treeline in the Himalayan region.
+It is a long-lived species which can
+survive up to 400 years
+and the only angiosperm in the Himalaya which dominates an extensive area at sub - alpine altitudes.
+Ecological significance:
+It contributes to the preservation of the Himalayan ecosystem by
+reducing soil erosion and creating a bio-shield
+for the remaining forests and sub-alpine meadows below the treeline.
+Highlights of the research:
+Birch trees are
+struggling to grow
+due to stress
+from increased temperatures
+and lack of moisture.
+Birch tree which
+need more moisture
+, are growing less due to heat-related dryness.
+Fir and birch compete for space, sunlight, water and nutrients, making it even harder for birch to grow.
+Climate change-driven disturbances such as early snowmelt, snow fungi, avalanches, landslides, insect outbreaks, hotter droughts and fires will further hinder the recruitment of less resilient species like birch.
+Impact on environment:
+The shift of dominant plant functional types from deciduous to evergreen may also
+alter ecological functions
+such as the rate of litter decomposition, carbon and nitrogen cycling, water-use efficiency, interactions with animals and fungi and energy fluxes, with further impacts on the composition of alpine plant communities
+Click to View More
+Source :
+Climate change is altering Himalayan tree landscape — drought-resistant fir trees are replacing birch
+Environment
+**********Directorate General of Commercial Intelligence and Statistics
+Directorate General of Commercial Intelligence and Statistics (DGCIS) initiates “detailed examination” after official trade figures showed that India’s gold imports in November surged threefold to an all-time high of $14.8 billion compared to the previous year.
+About Directorate General of Commercial Intelligence and Statistics (DGCI & S):
+It is the premier organization of Government of India for
+collection, compilation and dissemination of India’s trade statistics
+and commercial information.
+History:
+The Organization traces its origin to a statistical branch established in the Finance Department of the
+Government of India way back in 1862
+Sir William W. Hunter
+was the first DG of the DGCI & S or the Director General of Statistics as he was designated, back in 1871.
+Functions:
+It is entrusted with the work of
+collecting, compiling and publishing/disseminating trade statistics
+and various types of commercial information required by the policy makers, researchers, importers, exporters, traders as well as overseas buyers.
+It is the first large scale data processing organization functioning as a nodal agency for Export & Import data in the country.
+It also compiles and publishes the
+inland Trade Statistics
+covering
+inter-State movements of goods
+by rail, river and air on yearly basis.
+It is headed by the
+, an Additional Secretary level officer of Indian Statistical Services (ISS).
+Nodal Ministry:
+It works under the Ministry of Commerce & Industry.
+Headquarter:Kolkata
+Click to View More
+Source :
+Government to reexamine ‘unusual’ gold import surge amid indications of double-counting
+Economy
+**********Ganges River Dolphin
+Recently, a team of wildlife conservationists tagged the almost-blind Ganges River dolphin for the first time.
+About Ganges River dolphin:
+It is a
+freshwater species
+and one of the few river dolphins found in the world.
+Habitat:
+It is mainly found in the
+Ganges-Brahmaputra-Meghna and Karnaphuli-Sangu
+river systems of Nepal, India, and Bangladesh.
+Other names:
+Blind dolphin, Ganges dolphin, Ganges susu, Hihu, Side-swimming dolphin, South Asian River Dolphin, etc.
+It serves as an
+umbrella species
+for the river systems and it has been recognized as India's National Aquatic Animal.
+Appearance:
+It has a long thin snout, rounded belly, stocky body and large flippers are characteristics of the Ganges River dolphin.
+Features:
+They can
+only live in freshwater
+and is essentially blind. They
+hunt by emitting ultrasonic sounds
+, which bounces off of fish and other prey.
+They have a highly developed bio-sonar system that facilitates them to hunt for fish even in murky waters.
+Being a mammal, the Ganges River dolphin cannot breathe in the water and must surface every 30-120 seconds. Because of the sound it produces when breathing, the animal is
+popularly referred to as the 'Susu'.
+Conservation status:
+IUCN:
+Endangered
+CITES:
+Appendix I
+Wildlife (Protection) Act 1972:
+Schedule-I
+Facts about tagging Ganges River dolphin:
+It is initiative of
+the Ministry of Environment, Forest, and Climate Change
+and executed by the Wildlife Institute of India (WII) in collaboration with the Assam Forest Department and biodiversity conservation group Aaranyak.
+Working:
+The lightweight tags emit signals compatible
+with Argos satellite systems
+even with limited surfacing time and are designed to minimize interference with dolphin movement.
+Funding:
+This project is funded by the
+National CAMPA Authority.
+Significance:
+The tagging under Project Dolphin is expected to help
+understand the dolphin’s seasonal and migratory patterns
+, range, distribution, and habitat utilisation, particularly in fragmented or disturbed river systems.
+Click to View More
+Source :
+India Conducts First-ever Ganges River Dolphin Tagging in Assam
+**********Kisan Kavach
+Recently, the Union Minister of State (Independent Charge) for Science and Technology unveiled Kisan Kavach.
+About Kisan Kavach:
+It is first-of-its-kind
+anti-pesticide bodysuit
+designed to protect farmers from the harmful effects of pesticide exposure.
+The suit is intended to protect farm labourers from imbibing the pesticides they spray. Several of the common pesticides are potential neurotoxins and detrimental to health.
+It is developed by the
+Biotechnology Research and Innovation Council (BRIC-inStem), Bangalore
+, in collaboration with Sepio Health Pvt. Ltd.
+Features:
+The kit consists of a trouser, pullover, and a face-cover
+made of ‘oxime fabric’
+that can chemically breakdown any of the common pesticides that get sprayed onto cloth or body during spraying operations.
+This prevents chemicals from leaching into the skin. The price per kit is ₹4,000.
+Working:
+This Kisan Kavach fabric can deactivate pesticides upon contact through
+nucleophilic mediated hydrolysis,
+thereby preventing pesticide-induced toxicity and lethality.
+The kit retains its potency in a wide temperature range, under UV-light exposure and was protective even after 150 washes.
+Click to View More
+Source :
+Scientists develop ‘kisan kavach’ to shield farmers from pesticide sprays
+Science & Tech
+**********Supreme Court Urges Comprehensive Policy for Sacred Groves
+Why in News?
+In a landmark judgment, the Supreme Court (hearing applications dealing with the protection of sacred groves of Rajasthan)
+directed the Union government to develop a comprehensive policy
+for the management and preservation of sacred groves across India.
+Sacred groves, small patches of forest traditionally protected for their religious and cultural significance, also play a vital role in
+conserving biodiversity
+What’s in Today’s Article?
+What are Sacred Groves?
+SC’s Directives for the Management and Preservation of Sacred Groves Across India
+Significance of the SC’s Directives and Future Course
+Definition:
+Sacred groves are forest patches safeguarded by local communities due to their spiritual and cultural importance.
+Distribution:
+These groves are prominent in states such as
+Tamil Nadu, Kerala, Karnataka, and Maharashtra
+, contributing significantly to
+local biodiversity
+Legal framework:
+The management of wildlife and its habitat is primarily the responsibility of the concerned
+State Government
+The Wild Life (Protection) Act, 1972
+empowers the State Government for declaration of any private or community land, as a community reserve, for protecting -
+Fauna,
+Flora and
+Traditional or cultural conservation values and practices.
+SC’s Directives for the Management and Preservation of Sacred Groves Across India:
+Cited a verse from the Bhagavad Gita:
+“Nature is the source of all material things: the maker, the means of making, and the things made. Spirit is the source of all consciousness which feels pleasure and feels pain.”
+Policy framework:
+The court emphasised the need for a national policy and instructed Ministry of Environment, Forest and Climate Change (MoEF&CC) to:
+Conduct a nationwide survey to identify and map sacred groves.
+Clearly mark the boundaries of groves, allowing flexibility for future forest growth.
+Issue strict guidelines to prevent reduction due to denudation or deforestation.
+Recognition under National Forest Policy:
+The apex court highlighted the
+National Forest Policy of 1988
+, which supports community-led initiatives to protect forest patches.
+The court encouraged
+formal recognition
+of sacred groves as community reserves under the Wild Life (Protection)
+Empowering traditional communities:
+The court suggested recognising and empowering traditional custodians under the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights)
+Act, 2006
+These communities can regulate harmful activities, ensuring sustainable conservation.
+Rajasthan’s Piplantri village success story:
+The court cited the example of Piplantri village in Rajasthan, where
+community efforts transformed barren land into thriving groves.
+Initiatives such as planting 111 trees for every girl child have:
+Created sustainable livelihoods.
+Reduced female foeticide.
+Increased income and educational opportunities.
+Empowered women’s self-help groups.
+State-specific instructions:
+The court directed the Rajasthan government to:
+Conduct detailed on-ground and satellite mapping of sacred groves
+Classify sacred groves as forests based on their ecological and cultural value, regardless of size.
+Provide legal protection and declare groves as community reserves.
+Formation of a supervisory committee:
+A five-member committee, led by a retired Rajasthan High Court judge, will oversee the mapping and identification process.
+Significance of the SC’s Directives and Future Course:
+Significance:
+The Union has
+viewed wildlife and habitat management as
+State responsibilities.
+The SC’s directive marks a shift
+by aligning sacred groves with the cultural and traditional rights of communities,
+urging the MoEF&CC to take the lead
+This judgment underscores the ecological, cultural, and societal importance of sacred groves, advocating for their
+preservation as a national priority.
+Future course:
+The SC has scheduled the case for January 10, 2025, to review compliance reports on the panel’s constitution and survey progress.
+newspaper.pdf
+( Size:  1.7 MB  )
+Click to View More
+Environment & Ecology
+**********Ganges River Dolphin Tagged for the First Time in India
+Why in the News?
+A team of wildlife conservationists tagged the Ganges river dolphin for the first time.
+What’s in Today’s Article?
+About Ganges River Dolphin (Key Features, Geographical Distribution, Significance, Conservation Status, Govt Efforts, etc.)
+News Summary
+About Ganges River Dolphin:
+The Ganges River Dolphin, declared as India's
+National Aquatic Animal
+in 2009, is an endangered freshwater dolphin species primarily found in the
+Brahmaputra
+, and
+Meghna
+river systems.
+Known locally as
+Susu
+, it serves as an indicator of the health of river ecosystems due to its apex predator role.
+Key Features:
+Physical Characteristics
+: Nearly blind, it uses echolocation to navigate and hunt.
+Habitat
+: Prefers slow-moving waters with adequate depth and prey availability.
+Diet
+: Carnivorous, feeding primarily on fish and invertebrates.
+Geographical Distribution:
+Found in the Ganga, Brahmaputra-Meghna, and Karnaphuli-Sangu river systems in
+Nepal
+Bangladesh
+Historically widespread, but populations are now fragmented due to anthropogenic pressures.
+Ecological Significance:
+Keystone Species
+: Plays a crucial role in maintaining riverine ecosystem balance.
+Indicator Species
+: Reflects the overall health of freshwater ecosystems.
+Conservation Status:
+IUCN Status
+: Endangered
+CITES
+: Appendix I
+Indian Wildlife Protection Act, 1972
+: Schedule I
+Major Threats:
+Habitat Degradation
+Pollution from industries, agriculture, and urban runoff.
+Dams and barrages fragment habitats, reducing population connectivity.
+Bycatch and Hunting
+Accidental entanglement in fishing nets.
+Targeted for oil and meat in some areas.
+Water Abstraction
+Excessive withdrawal of water for agriculture and industry impacts river flow.
+Riverbed Alteration
+Sand mining and dredging disrupt habitats.
+Conservation Efforts by the Government:
+Project Dolphin (2020)
+Announced by Prime Minister Narendra Modi, focusing on the conservation of both river and marine dolphins.
+Protected Areas
+Designated dolphin sanctuaries like
+Vikramshila Gangetic Dolphin Sanctuary
+in Bihar.
+Community Awareness
+Initiatives to educate local communities about sustainable fishing and conservation.
+Technological Interventions
+Satellite tagging projects for studying migration and habitat needs.
+Legislative Measures
+Strict enforcement of the
+and bans on harmful practices like sand mining.
+News Summary:
+India marked a significant milestone in wildlife conservation with the
+first-ever satellite tagging of a Ganges River Dolphin in Assam
+This initiative, spearheaded by the Ministry of Environment, Forest and Climate Change (MoEFCC), was executed by the Wildlife Institute of India (WII).
+The project is part of the larger
+Objectives and Significance:
+Understanding Habitat Needs
+: The tagging aims to fill knowledge gaps regarding the Ganges River Dolphin's habitat requirements, migratory patterns, and range distribution.
+: By studying their behaviour and movement, the project seeks to develop a conservation action plan for protecting this apex predator, which plays a vital role in maintaining the health of river ecosystems.
+Technological Advancement
+: Lightweight satellite tags compatible with Argos systems were used, ensuring minimal interference with the dolphins' movement.
+Broader Implications:
+The project underscores India’s commitment to wildlife conservation and sets a benchmark for protecting endangered species globally.
+It also highlights the need for continued technological advancements and comprehensive research to ensure the sustainability of river ecosystems.
+This landmark effort reflects the growing awareness and proactive measures toward conserving India's rich aquatic biodiversity.
+Ganges river dolphin tagged for the first time in India.pdf
+( Size:  179.5 KB  )
+Click to View More
+Environment & Ecology
+**********Potential Reasons for Discontinuation of the Sovereign Gold Scheme
+Why in news?
+The government is considering ending the sovereign gold bond scheme due to its high financing costs. Initially launched to boost gold investment, this objective has been addressed by the recent reduction in gold import duty announced in the 2024-25 Budget, which has increased gold demand.
+Earlier reports indicated concerns over using sovereign gold bonds to finance the fiscal deficit, prompting a review of the scheme's continuation.
+What’s in today’s article?
+Sovereign Gold Bond Scheme
+Concerns regarding sovereign gold bonds
+Conclusion
+Sovereign Gold Bond Scheme (SGB)
+About
+Introduce in 2015 under the Gold Monetization Scheme, SGBs are government securities issued by RBI on behalf of the Government of India.
+These are
+debt securities linked to the value of gold
+SGBs are denominated in grams of gold. They are substitutes for holding physical gold.
+Investors have to pay the issue price in cash and the bonds will be redeemed in cash on maturity.
+Features
+Each unit represents one gram of gold and offers a fixed interest rate of 2.5% per annum, credited semi-annually.
+These bonds can be traded in the secondary market and are redeemable in Indian rupees based on the average closing price of 999 purity gold from the last three business days before maturity.
+Benefits
+Key benefits include protection against market price fluctuations, redemption flexibility after five years (with an eight-year tenor), and lower risks and costs compared to holding physical gold.
+High Cost of Financing Fiscal Deficit
+The government views financing the fiscal deficit through SGBs as costly, with limited benefits in terms of physical gold collection.
+The number of SGB tranches has been consciously reduced over time—from 10 per year to just two.
+Impact of Reduced Customs Duty on Gold
+In July 2024, the government lowered the customs duty on gold from 15% to 6%, leading to a drop in gold prices and a surge in demand.
+This aligns with the government's objective to boost gold demand but diminishes the need for SGBs as an investment option.
+Decline in SGB Issuances and Borrowing Targets
+Gross SGB issuances for FY 2024-25 were reduced to Rs 18,500 crore from Rs 29,638 crore in the interim budget.
+Net borrowing through SGBs was also cut to Rs 15,000 crore from the earlier Rs 26,138 crore.
+No new issuances of SGBs have been made so far in FY 2024-25.
+SGB Redemption Performance
+SGB Series I (2016-17) matured in August 2024, providing a return of over 120% on the initial investment, with redemption prices rising from Rs 3,119 to Rs 6,938.
+SGB Series II bonds redeemed in March 2024 yielded a 126.4% return over the investment value, excluding interest.
+Premature redemption for bonds issued between May 2017 and March 2020 has been scheduled from October 2024 to March 2025.
+Given the limited benefits of SGBs as an investment option and their high financing costs, the government is reevaluating the scheme's continuation.
+Potential Reasons for Discontinuation of the Sovereign Gold Scheme.pdf
+( Size:  2.5 MB  )
+Click to View More
+Economics
+**********Imaging of underwater hot spring active with microbial life
+Why in news?
+Indian oceanographers have achieved a historic feat by capturing an image of an active
+hydrothermal vent
+located 4,500 meters below the Indian Ocean.
+This discovery, made under the Ministry of Earth Sciences' Rs 4,000-crore Deep Ocean Mission, holds immense potential for mineral exploration.
+What’s in today’s article?
+Deep Ocean Mission (DOM)
+What Are Hydrothermal Vents?
+About
+DOM is a program to explore the deep ocean and develop technologies to use its resource.
+The mission, estimated at Rs. 4,077 crore over five years, will be implemented in phases.
+The first phase (2021-2024) has an allocation of Rs. 2,823.4 crore.
+This mission-mode project supports India's Blue Economy initiatives, with MoES serving as the nodal ministry to coordinate this multi-institutional effort.
+Goal
+To develop technologies to use the ocean's living and non-living resources, and to improve understanding of the ocean's role in climate change
+Components
+The mission has six main components, including:
+Manned submersible
+: A submersible to carry three people to depths of 6,000 meters, equipped with scientific tools and sensors
+Ocean climate change advisory services
+: To develop models and observations to understand and predict climate variables
+Deep-sea biodiversity
+: To study the flora and fauna of the deep sea, including microbes, and to develop ways to use the ocean's bio-resources sustainably
+Deep ocean survey and exploration
+: To identify potential sites for multi-metal hydrothermal sulfide mineralization in the Indian Ocean
+Energy and freshwater
+: To develop ways to use the ocean for energy and freshwater
+Advanced marine station
+: To establish a station for ocean biology
+Lead agencies
+The Ministry of Earth Sciences (MoES), the Department of Biotechnology (DBT), the Department of Space (DoS/ISRO), the Ministry of New and Renewable Energy (MNRE), and other organizations.
+Hydrothermal vents are underwater springs found near tectonic plate boundaries.
+They occur when
+cold water at the seabed (around 2°C) interacts with magma in tectonically active regions, heating up to 370°C
+This superhot water emerges as plumes, rich in minerals and gases, through vent chimneys and fissures.
+The Discovery Process
+Survey History
+The National Centre for Polar and Ocean Research (NCPOR) in Goa has been conducting geophysical surveys in the Central and Southern Indian Ocean Ridges since 2012 to locate hydrothermal vents.
+Recent Campaign
+In April 2024, NCPOR and the National Institute of Ocean Technology (NIOT) conducted high-resolution imaging along the Central Indian Ridge, narrowing their search using an automatic underwater vehicle (AUV).
+Historic Image captured
+The Indian AUV launched from the research vessel Sagar Nidhi captured a high-resolution image of the vent during a 12-15 hour observation campaign.
+Significance
+Mineral-Rich Deposits
+Hydrothermal vents are significant due to their deposits of valuable minerals and metals.
+These are: Copper, Zinc, Gold, Silver, Platinum, Iron, Cobalt, Nickel etc.
+These deposits can remain active for hundreds to thousands of years, making them economically and scientifically vital.
+Biological Insights
+Hydrothermal vents support unique ecosystems.
+Chemosynthetic organisms thrive by utilizing chemicals enriched with minerals and metals, similar to how plants use sunlight for photosynthesis.
+Chemosynthetic organisms are organisms that use chemical reactions to create food, rather than sunlight, and include bacteria and archaea.
+Significance for India's Deep Ocean Mission
+This discovery boosts India's Deep Ocean Mission, especially the Samudrayaan initiative, focusing on mineral exploration.
+The findings confirm earlier surveys and open new opportunities for understanding deep-sea ecosystems and resource potential.
+India as a leading player in deep-sea exploration
+This milestone positions India as a leading player in deep-sea exploration, with promising implications for scientific and economic advancements.
+Future Exploration Plans
+NCPOR plans to intensify exploration through TV-guided grab sampling to study the economic and biological potential of these vents further.
+Imaging of underwater hot spring active with microbial life.pdf
+( Size:  2.2 MB  )
+Click to View More
+Geography
+**********Making affordable generics more reliable
+Science Tech
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Issues related to health care sector;
+Why in the News?
+India’s decentralised drug regulation system dominated by State Drug Regulatory Authorities causes inconsistent quality standards. Strengthening oversight is essential to ensure generics are as affordable and effective as branded drugs.
+How Reliable Are Generic Medicines?
+Bioequivalence to Innovators
+: Generic medicines are bioequivalent to brand-name drugs, meaning they have the same active ingredient and are intended to work the same way.
+Affordability and Accessibility
+: Generics significantly lower healthcare costs, making treatment more accessible, especially for low-income populations.
+Challenges in Quality
+: Despite their potential, the reliability of generics has been questioned due to variability in therapeutic outcomes, often caused by differences in excipients, manufacturing processes, and bioequivalence thresholds.
+What are the main quality concerns associated with it?
+Efficacy and Bioavailability:
+Studies have shown that while generics are bioequivalent to branded drugs, they may not always achieve the same therapeutic levels.
+For example, a study on itraconazole showed that only 29% of patients using generic versions achieved the right drug levels in their body within two weeks, compared to 73% of patients using the original branded drug.
+Manufacturing Variability:
+The manufacturing processes for generics can differ significantly from those of branded drugs. Variations in excipients (binders, fillers) and production methods can lead to differences in
+tablet hardness, dissolution rates,
+overall drug stability.
+This variability can result in inconsistent therapeutic outcomes.
+Regulatory Oversight:
+India’s decentralized drug regulation system contributes to inconsistent quality standards across states.
+Central Drugs Standard Control Organisation (CDSCO)
+has limited authority over
+State Drug Regulatory Authorities (SDRAs),
+leading to regulatory arbitrage where manufacturers exploit weaker oversight. Moreover, the lack of stringent enforcement of stability testing further jeopardizes the quality of generics available in the market.
+What regulatory reforms are needed?
+Centralisation of Drug Regulation:
+A comprehensive overhaul of India’s drug regulation system is necessary. Centralising oversight under the CDSCO would help enforce consistent quality standards across all states and reduce the risk of substandard drugs entering the market.
+Enhanced Stability Testing Protocols:
+Uniform stability testing protocols should be established to ensure that all generics maintain their quality under various climatic conditions. This would involve periodic reassessment of approved generics to uphold their efficacy over time.
+Stricter Impurity Standards:
+Aligning India’s Pharmacopoeia with international standards regarding permissible impurity levels would improve the overall quality of generic medicines available in the market.
+How can patient and healthcare provider perceptions of generics be improved? (Way forward)
+To enhance patient and healthcare provider confidence in generic medicines, several strategies can be employed:
+Public Awareness Campaigns:
+Educating patients about the efficacy and safety of generics compared to branded drugs can help dispel misconceptions that higher-priced medications are superior.
+Incentives for Healthcare Providers:
+Offering incentives for prescribing generics can encourage healthcare professionals to recommend these cost-effective alternatives more frequently.
+Strengthening Quality Assurance:
+Implementing stronger regulatory frameworks and ensuring compliance with quality standards can build trust among both patients and providers regarding the reliability of generics.
+Mains PYQ:
+Why is there so much activity in the field of biotechnology in our country? How has this activity benefitted the field of biopharma?
+(UPSC IAS/2018)
+**********Strengthening the roots of an agri-carbon market
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Mains level:
+Carbon Market;
+Why in the News?
+In India, current carbon credit projects by private organisations should be reviewed to ensure they are fair and work effectively.
+What are the current carbon credit projects?
+Collaborative Initiatives
+: NABARD, ICAR, and State Universities have listed five agricultural carbon credit projects in the Verra registry to promote sustainable agriculture.
+Carbon Farming Projects
+: Over 50 projects targeting 1.6 million hectares aim to generate 4.7 million carbon credits annually, but none are registered, leaving farmers without financial benefits.
+Note:
+Verra is a carbon credit registry that manages the
+Verified Carbon Standard (VCS)
+, ensuring high-quality carbon credit projects and facilitating transparent trading of carbon credits.
+What are the key challenges facing agricultural carbon markets?
+Lack of Communication and Training:
+A significant portion of farmers (45%) reported inadequate communication regarding carbon farming practices, and over 60% lacked training in new techniques. This gap in knowledge can hinder the effective implementation of sustainable practices necessary for generating carbon credits.
+Exclusion of Marginalized Communities:
+Many existing carbon farming projects have not adequately included smallholders and marginalized communities, with women representing only 4% of participants. This lack of inclusivity limits the socioeconomic benefits that carbon markets could provide to a broader segment of the farming population.
+Financial Incentives:
+A notable 28% of farmers discontinued sustainable practices by the second year due to insufficient financial incentives. The absence of timely payments for carbon credits further discourages participation and undermines project sustainability.
+Unregistered Projects:
+Despite over 50 agricultural carbon farming projects being listed in the Verra registry, none have been officially registered, meaning no carbon credits have been issued and farmers have not received any financial compensation.
+Quality Assurance:
+Ensuring that projects deliver reliable environmental benefits is crucial. If projects fail to produce credible carbon credits, it may lead to a loss of confidence among buyers, which would ultimately deprive farmers of income and discourage sustainable practices.
+How can farmers be incentivized to participate in carbon markets?
+Higher Prices for Inclusive Projects:
+Offering premium prices for carbon credits from projects that actively include smallholders and marginalized communities can encourage broader participation and ensure equitable benefits.
+Effective Communication and Training Programs:
+Establishing robust communication channels and providing regular training on sustainable agricultural practices will empower farmers to adopt new techniques confidently.
+Guaranteed Timely Payments
+: Implementing a system that ensures farmers receive prompt payments for their carbon credits will enhance trust in the market and encourage ongoing participation in sustainable practices.
+Collaboration with Research Institutions:
+Partnering with national and international research organizations can help identify suitable regions for carbon farming, ensuring that interventions are effective and do not compromise food security.
+Bundling Small Farmers into Cooperatives:
+Creating Farmer Producer Organizations (FPOs) can help reduce transaction costs, improve bargaining power, and facilitate easier access to carbon markets for smallholder farmers.
+What role do technological advancements play in enhancing agri-carbon markets?
+Improved Measurement Techniques:
+Advances in digital technologies such as remote sensing, satellite imagery, drones, and sensors will enhance the monitoring, reporting, and verification (MRV) processes essential for assessing soil carbon levels and GHG emissions accurately.
+Data Accessibility:
+The increasing availability of technology will allow farmers to access real-time data on their farming practices, enabling them to make informed decisions that align with sustainable methods required for carbon credit generation.
+Enhanced Project Implementation:
+Technology can streamline project management by facilitating better communication between stakeholders, tracking progress, and ensuring compliance with additionality and permanence criteria necessary for successful carbon credit projects.
+Scalability of Projects:
+Digital tools can help scale successful carbon farming initiatives by providing frameworks that can be replicated across different regions, thus expanding the reach of agricultural carbon markets in India.
+Way forward:
+Strengthen Inclusivity and Farmer Incentives
+: Promote inclusive projects that actively engage smallholders and marginalized communities by offering premium prices for carbon credits, ensuring timely payments, and bundling farmers into cooperatives for better market access.
+Leverage Technology for Efficiency
+: Utilize advanced digital tools like remote sensing and real-time data systems to improve monitoring, reporting, and verification (MRV) processes, enhance project scalability, and ensure effective implementation of carbon credit initiatives.
+Mains PYQ:
+Should the pursuit of carbon credits and clean development mechanisms set up under UNFCCC be maintained even though there has been a massive slide in the value of a carbon credit? Discuss with respect to India’s energy needs for economic growth..
+(UPSC IAS/2014)
+**********Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA)
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+Since its launch, PM-AASHA has significantly benefitted farmers, contributing to the procurement of 195.39 lakh metric tonnes (LMT) of agricultural commodities, valued at ₹1,07,433.73 crore, from over 99 lakh farmers.
+Procurement Details:
+In the
+Rabi 2023-24 season
+6.41 LMT
+of pulses, valued at
+₹4,820 crore
+, were procured from
+2.75 lakh farmers
+. This included:
+2.49 LMT
+Masoor
+43,000 metric tonnes
+Chana
+Moong
+In addition,
+12.19 LMT
+oilseeds
+₹6,900 crore
+5.29 lakh farmers
+In the ongoing
+Kharif season
+, the government has procured
+5.62 LMT
+Soyabean
+₹2,700 crore
+, benefiting
+2.42 lakh farmers
+About the PM-AASHA Scheme
+Launched in
+2018
+, PM-AASHA is an
+umbrella scheme
+encompassing various components to ensure farmers receive fair prices for their produce.
+Aims and Objectives
+Ensuring
+for farmers
+by providing price support when market prices fall below the Minimum Support Price (MSP).
+Stabilize the prices of essential commodities
+, benefiting both farmers and consumers.
+Addressing price fluctuations
+and ensuring
+sustainable agricultural practices
+for crops like
+pulses, oilseeds,
+copra
+Structural Mandate and Implementation
+Type
+: Central Sector Scheme (Fully funded by the Centre).
+Nodal Ministry
+: Ministry of Agriculture & Farmers Welfare.
+Fund Allocation
+: Rs.
+35,000 crore
+during the 15th Finance Commission Cycle (up to 2025-26).
+Central Nodal Agencies (CNA)
+Guarantees
+to lender banks for extending
+cash credit facilities
+to agencies like
+NAFED
+(National Agricultural Co-operative Marketing Federation of India Limited) and
+NCCF
+(National Co-operative Consumer’s Federation of India Limited) for MSP procurement.
+Department of Consumer Affairs (DoCA)
+will procure
+pulses at market price
+from pre-registered farmers on
+eSamridhi Portal
+NAFED and eSamyukti Portal
+when prices exceed MSP.
+Key Components:
+Price Support Scheme (PSS)
+The
+is the core component of
+, operating through
+state governments
+to procure
+notified commodities
+at the
+levels.
+It provides financial relief to farmers when market prices fall below MSP, offering
+remunerative prices
+and promoting investment in agriculture.
+The government fixes the
+for 24 crops at
+1.5 times
+Cost of Production (CoP)
+to ensure a fair income for farmers.
+Price Deficiency Payment Scheme (PDPS)
+Under
+, farmers are provided
+direct payments
+if the market prices of oilseeds fall below the MSP.
+It helps bridge the gap between
+, ensuring that farmers still get a fair return.
+Market Intervention Scheme (MIS)
+provides financial assistance to states for
+price stabilization
+perishable agricultural commodities
+Tomato
+Onion
+, and
+Potato
+, which are not covered under MSP.
+This scheme helps manage
+price volatility
+and benefits both
+by stabilizing prices.
+PYQ:
+[2020]
+In India, the term “Public Key Infrastructure” is used in the context of:
+(a) Digital security infrastructure
+(b) Food security infrastructure
+(c) Health care and education infrastructure
+(d) Telecommunication and transportation infrastructure
+**********[pib] Comprehensive Telecom Development Plan
+Economics
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+CTDP, Digital Bharat Nidhi (DBN);
+Why in the News?
+The
+for North Eastern Region (NER) funded from
+aims to provide mobile coverage to uncovered villages and National Highways
+About the
+Comprehensive Telecom Development Plan (CTDP):
+Overview
+CTDP aims to enhance telecommunications infrastructure in India’s
+by improving
+mobile and broadband access
+.
+The plan is funded by the
+programme.
+Digital Bharat Nidhi (DBN):
+Established
+under the
+Telecommunications Act, 2023
+Replaces the
+Universal Service Obligation Fund (USOF)
+USOF was created to provide
+telecom services
+in remote and rural areas at
+affordable prices
+Funded by a
+5% Universal Service Levy
+on the
+Adjusted Gross Revenue (AGR)
+of telecom operators.
+Aimed to expand telecom networks in
+low-profit remote and rural areas
+Statutory Status
+: Granted in
+December 2003
+through amendments to the
+Indian Telegraph Act
+(now superseded by the
+Telecom Act, 2023
+).
+Salient Features
+Mobile Coverage Expansion
+: Extend mobile coverage to previously uncovered villages and National Highways in NER.
+Enhanced Connectivity
+: Installation of
+2,619 mobile towers
+, covering
+3,223 villages
+286 highway locations
+4G Saturation
+: Providing
+4G connectivity
+to remote villages.
+Support for Socio-Economic Development
+: Empower citizens through
+ICTs
+for development.
+Digital Inclusion
+: Help bridge the
+digital divide
+Structural Mandate and Implementation
+Funding
+: Primarily funded by the
+: Coordinated through DBN-funded schemes focusing on mobile towers, 4G coverage, and broadband development.
+Agencies Involved:
+Ministry of Communication
+: Oversees implementation, ensures spectrum and policy approvals.
+: Provides funding and operational support.
+Telecom Service Providers
+: Deploy infrastructure like towers and 4G networks.
+State Governments of NER
+: Facilitate local implementation.
+Project Management Agencies
+: Involved in setting up towers and maintenance.
+PYQ:
+[2018]
+Which of the following is/are the aims/aims of the “Digital India” Plan of the Government of India?
+Formation of India’s own Internet companies like China did.
+Establish a policy framework to encourage overseas multinational corporations that collect Big Data to build their large data centres within our national geographical boundaries.
+Connect many of our villages to the Internet and bring Wi-Fi to many of our schools, public places and major tourist centres.
+Select the correct answer using the code given below:
+(a) 1 and 2 only
+(b) 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+**********What is OPEC+?
+Prelims Only
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+With Donald Trump potentially returning to the White House,
+OPEC+ delegates
+express concern over
+higher US oil production
+.
+His administration’s focus on
+deregulating the energy sector
+could lead to increased oil output, contributing to a further erosion of OPEC+’s market share.
+About ‘Organization of the Petroleum Exporting Countries’ Plus (OPEC+)
+Formation and Purpose
+is a coalition of
+members and
+non-OPEC oil-producing nations
+that work together to manage oil production and stabilize global oil prices.
+The alliance was formed in
+2016
+in response to increasing oil production in the
+United States
+, particularly from shale oil, which led to falling oil prices.
+OPEC Members
+was founded in
+1960
+and includes
+12 member countries
+Algeria, Angola, Equatorial Guinea, Gabon, Iran, Iraq, Kuwait, Libya, Nigeria, Saudi Arabia, United Arab Emirates (UAE), Venezuela
+Non-OPEC Members in OPEC+
+10 non-OPEC members
+Azerbaijan, Bahrain, Brunei, Kazakhstan, Malaysia, Mexico, Oman, Russia, South Sudan, Sudan
+Global Influence
+countries together produce approximately
+40%
+of the world’s crude oil and control about
+80%
+of the world’s proven oil reserves.
+Factors are influencing OPEC+’s oil production cuts
+Rising US oil production
+: The shale boom in the US has increased its market share, impacting OPEC+’s influence.
+Global price stability
+: OPEC+ implements production cuts to prevent oil prices from falling too low.
+Weak global demand
+: Extended cuts due to low demand, especially in major economies.
+Implications of OPEC+’s policies
+Reduced market share
+: OPEC+’s global oil share dropped from
+55% in 2016
+48% in 2024
+Price volatility
+: OPEC+’s production cuts aim to stabilize prices, but increasing US production affects this goal.
+Economic stability
+: Production cuts help sustain favorable prices for oil-producing economies.
+PYQ:
+[2009]
+Other than Venezuela, which one among the following from South America is a member of OPEC?
+(a) Argentina
+(b) Bolivia
+(c) Ecuador
+(d) Brazil
+**********India conducts first-ever Ganges River Dolphin Tagging in Assam
+Enviro & Biodiversity
+Note4Students
+From UPSC perspective, the following things are important :
+Prelims level:
+Why in the News?
+The
+(Platanista gangetica)
+has been tagged in
+, marking a major achievement in wildlife conservation.
+About Ganges River Dolphin:
+Details
+Ganga River Dolphin (
+) – Known as the “
+Tiger of the Ganges
+,” discovered in 1801.
+Declared
+National Aquatic Animal
+2009
+and
+State Aquatic Animal of Assam
+The announcement was made at the
+first meeting of the National Ganga River Basin Authority (NGRBA).
+Habitat:
+Around
+90%
+of the species live in India, primarily in the
+Ganga-Brahmaputra-Meghna
+Karnaphuli
+river systems.
+Features
+: Blind, lives in freshwater, uses ultrasonic sounds to hunt, travels in small groups, and surface every 30-120 seconds for breathing.
+Importance and Threats
+Acts as an indicator of river ecosystem health (being the apex predator).
+: Unintentional killing through fishing gear, poaching for oil, habitat destruction, pollution (industrial waste, pesticides, noise).
+Protection Status and Government Initiatives
+Protection Status:
+IUCN
+: Endangered
+Wildlife (Protection) Act 1972
+: Schedule I
+CITES
+: Appendix I
+CMS
+Conservation
+: Project Dolphin, Vikramshila Ganges Dolphin Sanctuary (Bihar), National Ganga River Dolphin Day (October 5).
+What is Project Dolphin?
+Launch
+: Announced by PM
+Narendra Modi
+15th August 2020
+Objective
+: Conservation of India’s
+riverine and oceanic dolphins
+Duration
+: 10-year initiative.
+Nodal Ministry
+Ministry of Environment, Forests, and Climate Change
+Key Objectives
+Safeguard
+India’s dolphin population
+by mitigating threats to riverine and oceanic species.
+Address conservation challenges while engaging stakeholders in
+dolphin conservation efforts
+PYQ:
+[2015]
+Which one of the following is the national aquatic animal of India?
+(a) Saltwater crocodile
+(b) Olive ridley turtle
+(c) Gangetic dolphin
+(d) Gharial
+[2014]
+Other than poaching, what are the possible reasons for the decline in the population of Ganges River Dolphins?
+1. Construction of dams and barrages on rivers
+2. Increase in the population of crocodiles in rivers
+3. Getting trapped in fishing nets accidentally
+4. Use of synthetic fertilisers and other agricultural chemicals in crop-fields in the vicinity of rivers
+Select the correct answer using the code given below:
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1, 3 and 4 only
+(d) 1, 2, 3 and 4
+**********
