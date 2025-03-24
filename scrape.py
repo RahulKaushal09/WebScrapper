@@ -5091,8 +5091,9 @@ def createSeparatorImprover():
                                     startingTag = False  # Reset startingTag
 
                             text_list.append(text)
-                        else:
-                            processed_texts.add(str(tag))  # Mark the tag as processed
+                        else: 
+                            # Mark the tag as processed
+                            processed_texts.add(str(tag))  
 
                         # Add delimiter for specific tags
                         if tag.name == 'h2' or tag.name == "h3":
